@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE,warning = FALSE)
 require(ggplot2)
 ```
 
+Note: data scraping detail can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/data_scraping.html). Data cleaning detail can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/style_data_cleaning.R). Source code in rmd of this plot can be found [here](https://github.com/yjin910517/data_incubator/blob/master/plot2.Rmd)
+
 ### Plot #2
 ```{r p2}
 brewery<-read.csv("data_scraping_cleaning/company.csv")

@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE,warning=FALSE)
 require(ggplot2)
 ```
 
+Note: data scraping detail can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/data_scraping.html). Data cleaning detail can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/style_data_cleaning.R). Source code in rmd of this plot can be found [here](https://github.com/yjin910517/data_incubator/blob/master/plot1.Rmd)
+
 ### Plot #1
 ```{r p1}
 styles<-read.csv("data_scraping_cleaning/styles_summary.csv")
@@ -33,7 +35,7 @@ There are 4 dimensions of this plot:
 
 - X axis: the average alcohol by volume of each style
 
-- y axis: the average rating the style received on BeerAdvocate (0 is the worst, 5 is the best)
+- Y axis: the average rating the style received on BeerAdvocate (0 is the worst, 5 is the best)
 
 ------------------------
 

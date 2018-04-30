@@ -1,0 +1,437 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.40,727,https://www.beeradvocate.com/beer/profile/263/727/,Aecht Schlenkerla Rauchbier Märzen,263,Brauerei Heller-Trum / Schlenkerla,"2,373",4.06
+1,6.60,1324,https://www.beeradvocate.com/beer/profile/263/1324/,Aecht Schlenkerla Rauchbier Urbock,263,Brauerei Heller-Trum / Schlenkerla,"1,418",4.14
+2,5.80,71501,https://www.beeradvocate.com/beer/profile/26520/71501/,Smoke & Dagger,26520,Jack's Abby Brewing,"1,066",3.93
+3,5.20,1018,https://www.beeradvocate.com/beer/profile/263/1018/,Aecht Schlenkerla Rauchbier Weizen,263,Brauerei Heller-Trum / Schlenkerla,788,3.92
+4,9.45,77231,https://www.beeradvocate.com/beer/profile/35/77231/,Cinder Bock,35,Boston Beer Company (Samuel Adams),467,3.57
+5,5.50,21704,https://www.beeradvocate.com/beer/profile/263/21704/,Aecht Schlenkerla Fastenbier,263,Brauerei Heller-Trum / Schlenkerla,378,4.25
+6,5.40,86211,https://www.beeradvocate.com/beer/profile/26520/86211/,Fire In The Ham,26520,Jack's Abby Brewing,329,3.83
+7,4.70,2960,https://www.beeradvocate.com/beer/profile/913/2960/,Spezial Rauchbier Lager,913,Brauerei Spezial,294,3.71
+8,5.80,81168,https://www.beeradvocate.com/beer/profile/26520/81168/,Coffee Smoke & Dagger,26520,Jack's Abby Brewing,183,3.86
+9,8.50,91910,https://www.beeradvocate.com/beer/profile/26850/91910/,Mac FannyBaw,26850,Against The Grain Brewery & Smokehouse,138,3.57
+10,7.40,58046,https://www.beeradvocate.com/beer/profile/1075/58046/,Rauch Ür Bock,1075,Caldera Brewing Company,138,4.07
+11,6.30,28315,https://www.beeradvocate.com/beer/profile/10096/28315/,Eisenbahn Rauchbier,10096,Cervejaria Sudbrack Ltda,113,3.85
+12,6.20,57951,https://www.beeradvocate.com/beer/profile/11890/57951/,Emelisse Rauchbier,11890,Bierbrouwerij Grand-Café  Emelisse,91,3.79
+13,6.10,41205,https://www.beeradvocate.com/beer/profile/199/41205/,Abandon Ship,199,Ballast Point Brewing Company,91,3.7
+14,5.60,33301,https://www.beeradvocate.com/beer/profile/99/33301/,Saranac Rauchbier Smoked Lager,99,Matt Brewing Company / Saranac Brewery,70,3.28
+15,5.00,42581,https://www.beeradvocate.com/beer/profile/17034/42581/,Ludwig's Revenge,17034,Roy Pitz Brewing Company,70,3.83
+16,6.00,113785,https://www.beeradvocate.com/beer/profile/26817/113785/,SWISHR Cherry,26817,Carton Brewing Company,67,4.03
+17,4.90,31051,https://www.beeradvocate.com/beer/profile/1488/31051/,Göller Rauchbier,1488,Brauerei Göller Zur Alten Freyung,66,3.9
+18,6.50,104916,https://www.beeradvocate.com/beer/profile/13605/104916/,Punkrauch,13605,Le Trou Du Diable,66,3.68
+19,6.00,156991,https://www.beeradvocate.com/beer/profile/26817/156991/,Orange Swisher,26817,Carton Brewing Company,65,3.93
+20,5.60,45579,https://www.beeradvocate.com/beer/profile/16759/45579/,Rauchbier,16759,Southern Star Brewing Company,64,3.48
+21,6.20,99941,https://www.beeradvocate.com/beer/profile/22072/99941/,Chicago Smoke,22072,Revolution Brewing,61,3.71
+22,6.30,94675,https://www.beeradvocate.com/beer/profile/24542/94675/,Roog,24542,BraufactuM - Die Internationale Brau-Manufacturen GmbH,60,3.64
+23,8.00,34502,https://www.beeradvocate.com/beer/profile/2504/34502/,Bonfire Of The Valkyries,2504,New Albanian Brewing Company - Pizzeria and Public House,58,3.65
+24,7.00,59656,https://www.beeradvocate.com/beer/profile/3474/59656/,Friar Bacon Smoked Bock,3474,Listermann Brewing Company,54,3.67
+25,5.20,25492,https://www.beeradvocate.com/beer/profile/1853/25492/,Rauchbier,1853,Sly Fox Brewing Company,52,4.02
+26,5.30,6604,https://www.beeradvocate.com/beer/profile/913/6604/,Spezial Rauchbier Märzen,913,Brauerei Spezial,50,4.05
+27,5.30,72679,https://www.beeradvocate.com/beer/profile/18854/72679/,Smoky Mary,18854,New Orleans Lager & Ale Brewing Company (NOLA),40,3.93
+28,8.00,45880,https://www.beeradvocate.com/beer/profile/13667/45880/,Smoke Out,13667,Starr Hill Brewery,39,3.49
+29,6.20,59969,https://www.beeradvocate.com/beer/profile/16842/59969/,Deep Purple Rauchbier,16842,Marshall Wharf Brewing Company / Three Tides Restaurant,37,3.76
+30,4.70,110195,https://www.beeradvocate.com/beer/profile/33521/110195/,The Lubitsch Touch,33521,Right Proper Brewing Company - Shaw Brewpub,34,3.93
+31,5.20,53948,https://www.beeradvocate.com/beer/profile/9784/53948/,Smokey The Beer,9784,Zero Gravity Craft Brewery / American Flatbread,32,3.94
+32,5.50,185671,https://www.beeradvocate.com/beer/profile/41923/185671/,Smokin',41923,Great North Aleworks,30,3.95
+33,3.80,45316,https://www.beeradvocate.com/beer/profile/6045/45316/,Rauchbier,6045,Iron Hill Brewery & Restaurant,27,3.98
+34,6.00,260927,https://www.beeradvocate.com/beer/profile/26817/260927/,Peach Swisher,26817,Carton Brewing Company,27,3.97
+35,5.30,33055,https://www.beeradvocate.com/beer/profile/5928/33055/,Weiherer Rauch,5928,Brauerei Gasthof Kundmüller,26,3.52
+36,9.90,88183,https://www.beeradvocate.com/beer/profile/23018/88183/,Smoke Monster,23018,Black Husky Brewing,26,4.18
+37,4.50,115843,https://www.beeradvocate.com/beer/profile/383/115843/,Schwarzer Rauch,383,Live Oak Brewing Company,25,3.69
+38,5.50,112229,https://www.beeradvocate.com/beer/profile/4818/112229/,Zwönitzer Rauchbier,4818,Brauerei-Gasthof Zwönitz,24,3.69
+39,5.40,80750,https://www.beeradvocate.com/beer/profile/19916/80750/,Wildfire Rauchbier,19916,Penobscot Bay Brewery,22,3.52
+40,5.90,57616,https://www.beeradvocate.com/beer/profile/287/57616/,Smoked Lager,287,Bell's Brewery - Eccentric Café & General Store,21,3.52
+41,5.90,162840,https://www.beeradvocate.com/beer/profile/37302/162840/,Rauchbier,37302,Fort Hill Brewery,20,3.53
+42,5.60,9243,https://www.beeradvocate.com/beer/profile/2085/9243/,Dragonmead Bishop Bob's Holy Smoke,2085,Dragonmead Microbrewery,20,3.69
+43,7.00,44411,https://www.beeradvocate.com/beer/profile/1336/44411/,Rauchbock,1336,Appalachian Brewing Company,20,3.63
+44,4.80,47536,https://www.beeradvocate.com/beer/profile/18393/47536/,Bamberg Rauchbier,18393,Micro Cervejaria Bamberg,20,3.7
+45,5.00,9930,https://www.beeradvocate.com/beer/profile/2303/9930/,Ghisa,2303,Birrificio Lambrate,20,3.69
+46,9.80,81439,https://www.beeradvocate.com/beer/profile/27900/81439/,Gänstaller-Bräu Affumicator,27900,Gänstaller-Bräu,19,3.93
+47,5.60,119506,https://www.beeradvocate.com/beer/profile/34102/119506/,Eldir,34102,Banded Horn Brewing Co.,19,3.99
+48,5.30,120056,https://www.beeradvocate.com/beer/profile/383/120056/,Weisser Rauch,383,Live Oak Brewing Company,19,3.81
+49,5.00,33137,https://www.beeradvocate.com/beer/profile/12677/33137/,Hallerndorfer Raiterla Rauchbier,12677,Brauerei Gasthof Rittmayer,18,3.82
+50,5.20,39819,https://www.beeradvocate.com/beer/profile/4778/39819/,3 Ravens Dark,4778,3 Ravens Brewing,18,3.12
+51,7.00,46513,https://www.beeradvocate.com/beer/profile/1551/46513/,Gordon Biersch Rauchbier,1551,Gordon Biersch Brewery Restaurant,18,3.79
+52,5.30,112216,https://www.beeradvocate.com/beer/profile/18539/112216/,Smokehaus Rauchbier,18539,Devils Backbone Brewing Company,17,3.72
+53,5.50,13784,https://www.beeradvocate.com/beer/profile/1317/13784/,Rauchbier,1317,Triumph Brewing Company,17,3.89
+54,7.60,153429,https://www.beeradvocate.com/beer/profile/33818/153429/,Seltzer's Smokehaus 7,33818,Snitz Creek Brewery,16,3.87
+55,5.00,85816,https://www.beeradvocate.com/beer/profile/24825/85816/,Smokin' Beech,24825,Circle Brewing Company,15,3.44
+56,4.50,60986,https://www.beeradvocate.com/beer/profile/19654/60986/,Smoke Lager,19654,TAPS Brewery,15,3.08
+57,5.70,97204,https://www.beeradvocate.com/beer/profile/32180/97204/,Smoked Lager,32180,Blue Stallion Brewing Co.,15,3.74
+58,4.60,14569,https://www.beeradvocate.com/beer/profile/913/14569/,Spezial Rauchbier Bockbier,913,Brauerei Spezial,15,3.91
+59,6.50,200203,https://www.beeradvocate.com/beer/profile/10321/200203/,The Fabulator,10321,Central City Brewers + Distillers,14,3.57
+60,5.10,114202,https://www.beeradvocate.com/beer/profile/24678/114202/,La Lapin Que Fume,24678,Brewery Vivant,14,3.49
+61,5.20,35402,https://www.beeradvocate.com/beer/profile/4098/35402/,7 Stern Bamberger Rauchbier,4098,Siebensternbräu,14,4.1
+62,5.50,24438,https://www.beeradvocate.com/beer/profile/5048/24438/,Fujizakura Rauchbier,5048,Fujikankokaihatsu Co. Ltd. / Sylvans Restaurant,14,3.8
+63,7.00,79623,https://www.beeradvocate.com/beer/profile/19544/79623/,Kohlminator Smoked Bock,19544,Fat Head's Brewery & Saloon,13,3.77
+64,7.00,138250,https://www.beeradvocate.com/beer/profile/31326/138250/,Herbstklagen,31326,HammerHeart Brewing Company,13,4.03
+65,5.20,147315,https://www.beeradvocate.com/beer/profile/36194/147315/,Foraging Swine,36194,Scorched Earth Brewing Company,13,3.64
+66,5.00,163995,https://www.beeradvocate.com/beer/profile/30695/163995/,Sugarfire Smoked Lager,30695,Excel Brewing Company,13,3.42
+67,7.00,36815,https://www.beeradvocate.com/beer/profile/12677/36815/,Smokey George,12677,Brauerei Gasthof Rittmayer,13,3.61
+68,5.30,110337,https://www.beeradvocate.com/beer/profile/4045/110337/,Smokey The Beer,4045,Russell Brewing Company,12,3.52
+69, ? ,138249,https://www.beeradvocate.com/beer/profile/29800/138249/,Cured,29800,Rushing Duck Brewing Company,12,3.72
+70,4.70,96276,https://www.beeradvocate.com/beer/profile/31515/96276/,Rauchbier,31515,Liquid Riot Bottling Company,12,3.85
+71,5.90,271705,https://www.beeradvocate.com/beer/profile/37302/271705/,Wilbur,37302,Fort Hill Brewery,12,3.95
+72,5.30,232379,https://www.beeradvocate.com/beer/profile/45802/232379/,Rauchbier,45802,Dovetail Brewery,12,4.19
+73,5.70,22270,https://www.beeradvocate.com/beer/profile/4832/22270/,Rauchbier,4832,Triumph Brewing Company,12,3.62
+74,5.70,249360,https://www.beeradvocate.com/beer/profile/29021/249360/,Croydon Is Burning,29021,Neshaminy Creek Brewing Company,11,3.93
+75,4.50,131686,https://www.beeradvocate.com/beer/profile/24445/131686/,Kaiser Rauchtenstein Dry-hopped Smoked Helles,24445,Haymarket Beer Co. Pub & Brewery,11,3.83
+76,5.70,145771,https://www.beeradvocate.com/beer/profile/33530/145771/,Buchenrauch Lager,33530,Wolf's Ridge Brewing,11,4.09
+77, ? ,12242,https://www.beeradvocate.com/beer/profile/1334/12242/,Smokey The Beer,1334,Blind Tiger Brewery & Restaurant,11,3.22
+78,5.50,24353,https://www.beeradvocate.com/beer/profile/9558/24353/,Brown's Rauch,9558,Brown's Brewing Company,10,3.7
+79,5.80,172070,https://www.beeradvocate.com/beer/profile/23635/172070/,Rauch Lager Bier,23635,Lavery Brewing Company,10,3.9
+80,5.20,70955,https://www.beeradvocate.com/beer/profile/7482/70955/,Nakoureny Svihak,7482,Pivovar Eggenberg & Restaurant Eggenberg,10,3.69
+81,5.70,93503,https://www.beeradvocate.com/beer/profile/31398/93503/,Richter Rauch,31398,Aftershock Brewing Co.,9,3.69
+82,5.40,72538,https://www.beeradvocate.com/beer/profile/26620/72538/,Smoked Lager,26620,Denver Beer Co.,9,4.05
+83,5.15,56690,https://www.beeradvocate.com/beer/profile/16378/56690/,Smoky Bob,16378,Heater Allen Brewing,9,3.82
+84,5.50,48010,https://www.beeradvocate.com/beer/profile/5927/48010/,Kraus Hirschentrunk,5927,Brauerei Kraus,9,3.59
+85, ? ,20145,https://www.beeradvocate.com/beer/profile/987/20145/,Second Hand Smoke,987,SandLot Brewery @ Coors Field (Blue Moon Brewing Company),9,3.64
+86,5.30,181963,https://www.beeradvocate.com/beer/profile/22200/181963/,Roesch's Rauch,22200,Wormtown Brewery,9,3.76
+87,5.60,24548,https://www.beeradvocate.com/beer/profile/5918/24548/,Hummel Räucherla,5918,Brauerei Julius Hummel,9,4.01
+88,5.50,107493,https://www.beeradvocate.com/beer/profile/31482/107493/,S:t Eriks Rauchbier,31482,S:t Eriks Bryggeri,9,2.54
+89,5.00,80920,https://www.beeradvocate.com/beer/profile/8768/80920/,Kelso Rauchbier,8768,Greenpoint Beerworks / Kelso of Brooklyn,8,3.65
+90,4.90,88134,https://www.beeradvocate.com/beer/profile/12677/88134/,Rauchbier,12677,Brauerei Gasthof Rittmayer,8,4.11
+91,4.90,36177,https://www.beeradvocate.com/beer/profile/5948/36177/,Fischer Rauchbier,5948,Brauerei Norbert Fischer,8,4.08
+92,5.40,34170,https://www.beeradvocate.com/beer/profile/5581/34170/,Räucherl,5581,Kaiser Bräu GmbH & Co KG,8,3.81
+93,5.00,22938,https://www.beeradvocate.com/beer/profile/7220/22938/,Helsinge Rököl,7220,Helsinge Ångbryggeri,8,3.56
+94,6.50,133325,https://www.beeradvocate.com/beer/profile/34742/133325/,Red Ale,34742,Raquette River Brewing,8,3.97
+95,4.90,61946,https://www.beeradvocate.com/beer/profile/1141/61946/,Sieben Hugel,1141,Brasserie Dieu du Ciel!,8,4.01
+96,5.90,80659,https://www.beeradvocate.com/beer/profile/23557/80659/,Brother Mutt's Smoked Marzenbier,23557,The Prodigal Brewery,7,3.89
+97,5.20,69913,https://www.beeradvocate.com/beer/profile/6044/69913/,Weyermann Schlotfegerla,6044,Weyermann Brauerei GmbH,7,3.59
+98,6.00,18726,https://www.beeradvocate.com/beer/profile/9813/18726/,Vieux Tuyé,9813,Brasserie Rouget De Lisle,7,3.8
+99,5.20,6439,https://www.beeradvocate.com/beer/profile/2723/6439/,Hartmann Felsentrunk,2723,Brauerei Gasthof Hartmann,7,3.97
+100,5.00,287570,https://www.beeradvocate.com/beer/profile/35410/287570/,Smoked Applewood Gold,35410,Moody Tongue Brewing Company,7,3.59
+101,5.90,113493,https://www.beeradvocate.com/beer/profile/31049/113493/,Rauchbier,31049,Scratch Brewing Company,7,3.88
+102,4.00,53370,https://www.beeradvocate.com/beer/profile/1412/53370/,Red Rock Rauch Bier,1412,Red Rock Brewing Company,7,3.37
+103,5.00,113062,https://www.beeradvocate.com/beer/profile/29171/113062/,Lost Bridge,29171,Saddlebock Brewery,7,3.7
+104,7.00,83662,https://www.beeradvocate.com/beer/profile/16096/83662/,Up In Smoke,16096,Allentown Brew Works,7,3.59
+105,5.00,199641,https://www.beeradvocate.com/beer/profile/38311/199641/,Rauchbier,38311,Noon Whistle Brewing,7,3.76
+106,5.60,278011,https://www.beeradvocate.com/beer/profile/27900/278011/,Franz Xaver,27900,Gänstaller-Bräu,7,3.73
+107,6.50,317250,https://www.beeradvocate.com/beer/profile/16378/317250/,Rauch Bock,16378,Heater Allen Brewing,6,4
+108,5.40,253285,https://www.beeradvocate.com/beer/profile/3912/253285/,Bamberg Castle Smoked Ale,3912,Cameron's Brewing Co.,6,3.77
+109,8.20,196718,https://www.beeradvocate.com/beer/profile/26850/196718/,Gimme S'more,26850,Against The Grain Brewery & Smokehouse,6,3.68
+110,6.50,159161,https://www.beeradvocate.com/beer/profile/24678/159161/,Egoiste,24678,Brewery Vivant,6,4
+111,5.10,210923,https://www.beeradvocate.com/beer/profile/43976/210923/,Rauchbier,43976,New Paltz Brewing Company (Pfälzerbräu),6,4
+112,4.20,156140,https://www.beeradvocate.com/beer/profile/22723/156140/,Notch Rauchbier,22723,Notch Brewing,6,3.71
+113, ? ,62456,https://www.beeradvocate.com/beer/profile/19544/62456/,Autumn Fire,19544,Fat Head's Brewery & Saloon,6,3.88
+114,3.40,190205,https://www.beeradvocate.com/beer/profile/24764/190205/,Bernard,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,6,3.88
+115,6.50,62205,https://www.beeradvocate.com/beer/profile/3768/62205/,Lunar Rauchbier,3768,Lunar Brewing,6,3.9
+116,5.00,100103,https://www.beeradvocate.com/beer/profile/683/100103/,Whispering Embers,683,Valkyrie Brewing,5,3.84
+117,5.80,127549,https://www.beeradvocate.com/beer/profile/25929/127549/,Flue Faker,25929,Camden Town Brewery,5,3.84
+118, ? ,18506,https://www.beeradvocate.com/beer/profile/2297/18506/,Drei Kronen Stöffla,2297,Brauerei & Gasthof Drei Kronen,5,4.08
+119,5.00,110685,https://www.beeradvocate.com/beer/profile/29008/110685/,Bitterschon,29008,Bluejacket / Arsenal Restaurant,5,2.9
+120, ? ,213639,https://www.beeradvocate.com/beer/profile/41177/213639/,Illuminari,41177,Coelacanth Brewing,5,3.86
+121,5.30,111848,https://www.beeradvocate.com/beer/profile/26918/111848/,Original Singe,26918,Hilliard's Beer,5,3.56
+122,7.00,174069,https://www.beeradvocate.com/beer/profile/5928/174069/,Rauchbock,5928,Brauerei Gasthof Kundmüller,5,4.02
+123,5.50,188920,https://www.beeradvocate.com/beer/profile/21952/188920/,Muenchner Rauchbier,21952,People's Brewing Company,5,3.79
+124,6.00,146940,https://www.beeradvocate.com/beer/profile/35996/146940/,Rauchbock,35996,Fair State Brewing Cooperative,5,3.94
+125,5.00,130062,https://www.beeradvocate.com/beer/profile/29347/130062/,Dymy Marcowe,29347,Browar Pinta,4,3.62
+126,3.50,303380,https://www.beeradvocate.com/beer/profile/13905/303380/,Bracia W Dymie,13905,Brasserie Dunham,4,3.13
+127,7.00,20513,https://www.beeradvocate.com/beer/profile/1141/20513/,Equinoxe D'automne,1141,Brasserie Dieu du Ciel!,4,3.98
+128,5.80,78374,https://www.beeradvocate.com/beer/profile/1788/78374/,Rauchbier Lager,1788,Flying Goose Brew Pub & Grille,4,3.89
+129,6.40,304426,https://www.beeradvocate.com/beer/profile/40373/304426/,Let There Be Love,40373,Cloudwater Brew Co.,4,3.54
+130,4.80,131384,https://www.beeradvocate.com/beer/profile/2447/131384/,Rauch Sham Bo,2447,Coronado Brewing Company,4,4.12
+131,6.40,152135,https://www.beeradvocate.com/beer/profile/26850/152135/,Rauching Tiger,26850,Against The Grain Brewery & Smokehouse,4,3.59
+132,7.00,88392,https://www.beeradvocate.com/beer/profile/30357/88392/,Brekeriet Roken,30357,Brekeriet,4,3.44
+133,5.40,189259,https://www.beeradvocate.com/beer/profile/1146/189259/,Campfire,1146,Goose Island Beer Co.,4,3.57
+134,5.10,99933,https://www.beeradvocate.com/beer/profile/30113/99933/,Kouřove Pivo,30113,Pivovar U Tří Růží,4,4.28
+135,6.50,150372,https://www.beeradvocate.com/beer/profile/16943/150372/,Flambée '64,16943,Loup Rouge,4,3.63
+136,5.00,325735,https://www.beeradvocate.com/beer/profile/30697/325735/,Splitter,30697,Henniker Brewing Co.,4,4.04
+137,5.30,68718,https://www.beeradvocate.com/beer/profile/19699/68718/,Rauch,19699,The Monk Brewery & Kitchen,4,3.12
+138, ? ,113282,https://www.beeradvocate.com/beer/profile/23076/113282/,Dragonslayer,23076,Grimm Brothers Brewhouse,4,3.8
+139, ? ,56706,https://www.beeradvocate.com/beer/profile/16818/56706/,Rauchin' Rauch Bock 2010,16818,Berwick Brewing Company,4,4.58
+140,5.20,93592,https://www.beeradvocate.com/beer/profile/31541/93592/,Lipperts Rauchbier,31541,Braumanufaktur Lippert,4,3.79
+141,2.40,22960,https://www.beeradvocate.com/beer/profile/9816/22960/,Skibsøl,9816,Bryggeriet Refsvindinge,4,3.74
+142, ? ,194736,https://www.beeradvocate.com/beer/profile/36843/194736/,Wild Hunt,36843,Insight Brewing,4,3.87
+143,5.60,38326,https://www.beeradvocate.com/beer/profile/13605/38326/,La Consumation,13605,Le Trou Du Diable,4,3.76
+144,7.00,286406,https://www.beeradvocate.com/beer/profile/48142/286406/,El Jefe,48142,Chili Line Brewing Co.,4,3.84
+145, ? ,134353,https://www.beeradvocate.com/beer/profile/29250/134353/,Rauchbier!,29250,Exile Brewing Co.,4,3.46
+146,5.40,82659,https://www.beeradvocate.com/beer/profile/5912/82659/,Prosthörnla Spezial,5912,Brauerei Hönig,4,3.52
+147,6.30,198630,https://www.beeradvocate.com/beer/profile/26850/198630/,Rauch Macchio,26850,Against The Grain Brewery & Smokehouse,4,3.48
+148,5.10,161510,https://www.beeradvocate.com/beer/profile/28972/161510/,Rauchbier,28972,7Stern Bräu,4,4.09
+149,5.30,149498,https://www.beeradvocate.com/beer/profile/9629/149498/,Shadow Assassin,9629,Short's Brewing Company,4,3.62
+150,7.70,286202,https://www.beeradvocate.com/beer/profile/603/286202/,200% Fit Smoked Doppelbock,603,Church Brew Works,4,3.77
+151,5.00,210701,https://www.beeradvocate.com/beer/profile/24300/210701/,Fumaça,24300,Evil Twin Brewing,3,3.53
+152,4.90,68368,https://www.beeradvocate.com/beer/profile/5809/68368/,Friedels Schlotfegerla,5809,Brauhaus am Kreuzberg - Friedels Keller,3,3.95
+153,5.00,74264,https://www.beeradvocate.com/beer/profile/1114/74264/,Blitz Kriek Bock,1114,Bullfrog Brewery,3,3.89
+154,6.20,265249,https://www.beeradvocate.com/beer/profile/32181/265249/,Glen Draught,32181,Glen Whisk(e)y Bar,3,3.89
+155,6.90,131621,https://www.beeradvocate.com/beer/profile/6045/131621/,Rauchbock,6045,Iron Hill Brewery & Restaurant,3,3.12
+156,5.40,157231,https://www.beeradvocate.com/beer/profile/22928/157231/,Undertow,22928,Barrier Brewing Company,3,3.95
+157,5.30,257590,https://www.beeradvocate.com/beer/profile/45306/257590/,Rauchbier,45306,Bierkeller,3,4.65
+158,4.50,99646,https://www.beeradvocate.com/beer/profile/5188/99646/,Smoked Helles,5188,Emmett's Brewing Company,3,3.73
+159,4.80,222022,https://www.beeradvocate.com/beer/profile/29834/222022/,Cerveza Castellana Ahumada,29834,Daviyun (Cerveza SAGRA),3,3.38
+160,6.40,330061,https://www.beeradvocate.com/beer/profile/28848/330061/,Prairie Pirate #2,28848,Ribstone Creek Brewery,3,4.05
+161,7.00,290389,https://www.beeradvocate.com/beer/profile/15435/290389/,Beaus / Side Launch Slideways,15435,Beau's All Natural Brewing Company,3,3.44
+162,5.30,146262,https://www.beeradvocate.com/beer/profile/29952/146262/,Das Braun Lager,29952,Perrin Brewery,3,3.14
+163,4.60,48996,https://www.beeradvocate.com/beer/profile/428/48996/,Mahr's Special Rauchbier,428,Mahr's Bräu,3,4.31
+164,5.00,319595,https://www.beeradvocate.com/beer/profile/31896/319595/,Draft Lab #2 Rauchbier,31896,Blackberry Farm Brewery,3,3.41
+165,5.20,123499,https://www.beeradvocate.com/beer/profile/5970/123499/,Querkerla,5970,Staffelberg-Bräu,3,3.66
+166,5.50,173430,https://www.beeradvocate.com/beer/profile/68/173430/,Smoked Pale Ale,68,Flying Dog Brewery,3,3.82
+167,5.70,288121,https://www.beeradvocate.com/beer/profile/46718/288121/,Bad Habit,46718,Collusion Tap Works,3,3.39
+168,5.00,93586,https://www.beeradvocate.com/beer/profile/15732/93586/,Encénsoir,15732,Le Saint-Bock,3,3.51
+169,4.10,322452,https://www.beeradvocate.com/beer/profile/48264/322452/,Fire & Brimstone,48264,Lazarus Brewing Company,3,3.88
+170,7.00,95134,https://www.beeradvocate.com/beer/profile/30884/95134/,Dweller,30884,The North Brewery,3,4.51
+171,6.00,281769,https://www.beeradvocate.com/beer/profile/48142/281769/,La Bamba,48142,Chili Line Brewing Co.,3,3.64
+172,5.20,35498,https://www.beeradvocate.com/beer/profile/11814/35498/,Bamberg Rauchbier,11814,Saugatuck Brewing Company,3,4.11
+173,5.80,142509,https://www.beeradvocate.com/beer/profile/30858/142509/,"Pilot Batch: Wreck It Rauch With Peach, Vanilla And Chipotle",30858,Aardwolf Brewing Company,3,4.05
+174,6.60,83901,https://www.beeradvocate.com/beer/profile/29003/83901/,Rauchweizen And The Bandit,29003,Gigantic Brewing Company,3,4.05
+175,4.80,38338,https://www.beeradvocate.com/beer/profile/179/38338/,Backdraft Lager,179,Snake River Brewing Company & Brewpub,3,4.36
+176,10.00,286160,https://www.beeradvocate.com/beer/profile/337/286160/,Up And Atom Cherry Adambier,337,Saint Arnold Brewing Company,3,4.01
+177,4.70,89832,https://www.beeradvocate.com/beer/profile/30416/89832/,Route 7 Rauchbier,30416,Big Elm Brewing,3,3.63
+178,5.20,167659,https://www.beeradvocate.com/beer/profile/16963/167659/,Rauchbier,16963,Marble Brewery,3,3.8
+179,6.50,327148,https://www.beeradvocate.com/beer/profile/46775/327148/,Rauchbier,46775,Bierstadt Lagerhaus,3,4.35
+180,5.10,152049,https://www.beeradvocate.com/beer/profile/31624/152049/,Smoke,31624,Weird Beard Brew Co.,3,4.17
+181,4.80,291321,https://www.beeradvocate.com/beer/profile/47123/291321/,Combustion Rauchbier,47123,Random Row Brewing Co.,3,3.55
+182,4.50,133374,https://www.beeradvocate.com/beer/profile/27230/133374/,3 Little Pigs,27230,Barley Mow Brewing Company,3,3.61
+183,6.30,307987,https://www.beeradvocate.com/beer/profile/46008/307987/,Rauchbier,46008,Jughandle Brewing,2,3.78
+184,5.30,304663,https://www.beeradvocate.com/beer/profile/35996/304663/,Urban Sombrero,35996,Fair State Brewing Cooperative,2,3.38
+185,6.20,200475,https://www.beeradvocate.com/beer/profile/43137/200475/,Belgian Rauch,43137,Lakes & Legends Brewing Company,2,3.94
+186,5.50,173344,https://www.beeradvocate.com/beer/profile/37920/173344/,Holzrauch,37920,Urban Chestnut Brewing Company - Grove Brewery & Bierhall,2,4.2
+187,5.50,104740,https://www.beeradvocate.com/beer/profile/36757/104740/,Bamberger Rauchbier,36757,DESTIHL Brewery,2,3.75
+188,5.80,171561,https://www.beeradvocate.com/beer/profile/30858/171561/,Pilot Batch: Wreck-It-Rauch Grilled Apple Cinnamon,30858,Aardwolf Brewing Company,2,4.03
+189,5.00,145195,https://www.beeradvocate.com/beer/profile/23966/145195/,Rauchbier,23966,Blue Pants Brewery,2,3.75
+190,5.20,178477,https://www.beeradvocate.com/beer/profile/32074/178477/,Bryggeri Spezial Rauchbier,32074,Bryggeri Helsinki,2,3.73
+191,6.00,206894,https://www.beeradvocate.com/beer/profile/41997/206894/,Torreo Sub Rosa,41997,Monnik Beer Co.,2,3.54
+192,4.00,277810,https://www.beeradvocate.com/beer/profile/48682/277810/,Tsypa Double Kopchena,48682,Tsypa,2,3.65
+193,6.00,284722,https://www.beeradvocate.com/beer/profile/45511/284722/,Rising Smoke,45511,Arrowood Farms,2,4.23
+194,5.70,300851,https://www.beeradvocate.com/beer/profile/31542/300851/,Smoke Hole Lager,31542,Chestnut Brew Works,2,2.93
+195,4.20,28214,https://www.beeradvocate.com/beer/profile/13096/28214/,Smoking Mole Ale,13096,Hideji Beer,2,3.82
+196,5.10,143928,https://www.beeradvocate.com/beer/profile/24678/143928/,Smoky Wheat,24678,Brewery Vivant,2,4.03
+197,5.10,251449,https://www.beeradvocate.com/beer/profile/12355/251449/,Rauch-Südla,12355,Brauerei Hans Knoblach,2,4.37
+198,6.50,254013,https://www.beeradvocate.com/beer/profile/33257/254013/,Rauch & Roll,33257,Thunder Island Brewing,2,4.67
+199,6.00,143683,https://www.beeradvocate.com/beer/profile/31320/143683/,Johnny Hanson Punk Rauch,31320,Pax Bräu,2,3.37
+200,6.60,214349,https://www.beeradvocate.com/beer/profile/40489/214349/,Bierfabrik The Swanson Rauchbock,40489,Bierfabrik Berlin,2,3.9
+201,5.40,155982,https://www.beeradvocate.com/beer/profile/43/155982/,Smoked Lager,43,BridgePort Brewing Co. / Brewpub,2,4.27
+202,5.00,61520,https://www.beeradvocate.com/beer/profile/13605/61520/,La Weizgripp Rauchweizen,13605,Le Trou Du Diable,2,3.86
+203,4.50,36439,https://www.beeradvocate.com/beer/profile/10902/36439/,Häklefjäll,10902,Närke Kulturbryggeri AB,2,3.57
+204,5.50,168036,https://www.beeradvocate.com/beer/profile/34166/168036/,Rauchbier,34166,Prairie Street Brewing Company,2,4.22
+205,6.10,109170,https://www.beeradvocate.com/beer/profile/31813/109170/,Smokin' Mountie,31813,Bacchus Brewing Co.,2,4.04
+206,5.00,307061,https://www.beeradvocate.com/beer/profile/50640/307061/,Prairie Fire,50640,Town Square Brewing Co.,2,3.87
+207,4.00,19066,https://www.beeradvocate.com/beer/profile/3084/19066/,Jolly Monk Rauchbier,3084,Drayman's Brewery,2,3.55
+208,5.80,332924,https://www.beeradvocate.com/beer/profile/16963/332924/,Smoked Helles,16963,Marble Brewery,2,4.1
+209,5.20,40063,https://www.beeradvocate.com/beer/profile/1550/40063/,Rauch Beer,1550,Rock Bottom Restaurant & Brewery,2,3.8
+210,7.00,235907,https://www.beeradvocate.com/beer/profile/44562/235907/,Maria Soliña,44562,Menduiña,2,3.42
+211,5.70,223109,https://www.beeradvocate.com/beer/profile/38989/223109/,Smokin' Gold,38989,Cuzett Libations,2,3.69
+212,5.00,112264,https://www.beeradvocate.com/beer/profile/11524/112264/,Uherský Brod Sváteční Kouřový Ležák,11524,Pivovar Uherský Brod,2,3.62
+213,5.00,79756,https://www.beeradvocate.com/beer/profile/5188/79756/,German Rauch Bier,5188,Emmett's Brewing Company,2,3.8
+214, ? ,267152,https://www.beeradvocate.com/beer/profile/30291/267152/,Spirituous Smoke,30291,Wildwood Brewery,2,4.58
+215,6.50,282006,https://www.beeradvocate.com/beer/profile/38220/282006/,ART11 Double Cherry Rauchweizenbock,38220,Browar Stu Mostów,2,4.28
+216,5.10,97174,https://www.beeradvocate.com/beer/profile/32092/97174/,Reentry Smoked Ale,32092,Intergalactic Brewing Co.,2,4.45
+217,4.80,128918,https://www.beeradvocate.com/beer/profile/21737/128918/,Rauchbier,21737,Bandwagon Brew Pub,2,3.88
+218,5.50,177563,https://www.beeradvocate.com/beer/profile/34604/177563/,Wildfire Rauch,34604,Barnhouse Brewery,2,3.67
+219,6.50,131484,https://www.beeradvocate.com/beer/profile/21737/131484/,Double Rauchbier,21737,Bandwagon Brew Pub,2,4
+220,4.70,29853,https://www.beeradvocate.com/beer/profile/13634/29853/,Teerenpeli Sauhusanttu,13634,Olutravintola Teerenpeli,2,3.54
+221,5.30,93598,https://www.beeradvocate.com/beer/profile/1462/93598/,Anno 1492,1462,Gasthof-Hotel-Brauerei Grosch,2,3.72
+222,7.60,194462,https://www.beeradvocate.com/beer/profile/25260/194462/,The Big Meat,25260,Enegren Brewing Company,2,4.12
+223, ? ,133807,https://www.beeradvocate.com/beer/profile/5018/133807/,RauchBier,5018,Fábrica de Cerveza Artesanal Viejo Munich,2,3.38
+224,5.00,78516,https://www.beeradvocate.com/beer/profile/12911/78516/,Echigo Rauch Lager,12911,Land Beer,2,4.02
+225,6.50,168633,https://www.beeradvocate.com/beer/profile/24132/168633/,Podroze Kormorana Rauchbock,24132,Browar Kormoran,2,4.17
+226,7.00,252095,https://www.beeradvocate.com/beer/profile/30845/252095/,Chain Smoker,30845,Oersoep,2,3.38
+227,5.30,180417,https://www.beeradvocate.com/beer/profile/34497/180417/,Blowin' Smoke (collaboration W/ Grind Burger Kitchen),34497,Great Flood Brewing Company,2,3.97
+228,6.40,161733,https://www.beeradvocate.com/beer/profile/26467/161733/,Røykporter,26467,Amundsen Bryggeri & Spiseri,2,3.83
+229,5.50,214470,https://www.beeradvocate.com/beer/profile/30626/214470/,Rauchbier,30626,Daredevil Brewing Co.,2,4.04
+230,3.60,180172,https://www.beeradvocate.com/beer/profile/18539/180172/,Piwo Gwarski,18539,Devils Backbone Brewing Company,2,3.35
+231,10.00,286159,https://www.beeradvocate.com/beer/profile/337/286159/,Up And Atom Brandy Adambier,337,Saint Arnold Brewing Company,2,3.75
+232,5.70,214224,https://www.beeradvocate.com/beer/profile/1412/214224/,Franconian Rauchbier,1412,Red Rock Brewing Company,2,4.01
+233,4.90,304338,https://www.beeradvocate.com/beer/profile/33530/304338/,Feuer und Wasser Helles Lager,33530,Wolf's Ridge Brewing,2,3.8
+234,7.30,250838,https://www.beeradvocate.com/beer/profile/16866/250838/,Rauchbier,16866,The Bruery,2,4.15
+235,5.00,121061,https://www.beeradvocate.com/beer/profile/13394/121061/,Inawashiro Rauch,13394,Inawashiro Brewery,2,3.79
+236,6.20,326374,https://www.beeradvocate.com/beer/profile/34779/326374/,Heart in Hand,34779,Saint Benjamin Brewing Company,2,3.27
+237,5.00,134120,https://www.beeradvocate.com/beer/profile/35687/134120/,Smokin Blond,35687,Galveston Island Brewing Company,2,4.25
+238,4.00,298729,https://www.beeradvocate.com/beer/profile/42842/298729/,Hopfenrauch,42842,Torrside Brewing,2,3.68
+239,5.10,305129,https://www.beeradvocate.com/beer/profile/49200/305129/,Morning Fog Rauchbier,49200,Black Hoof Brewing Co.,2,3.62
+240,5.60,308972,https://www.beeradvocate.com/beer/profile/48784/308972/,Baron von Smoke,48784,Brewery Silvaticus,2,4.27
+241,6.00,87533,https://www.beeradvocate.com/beer/profile/16434/87533/,'na Biretta Raaf,16434,Birrificio Ostiense Artigianale (BOA),2,3.46
+242,5.20,303854,https://www.beeradvocate.com/beer/profile/341/303854/,Smoke & Repeat,341,Columbus Brewing Company,2,4.04
+243,5.50,277495,https://www.beeradvocate.com/beer/profile/14520/277495/,Campfire Rauchbier,14520,Kenai River Brewing Co.,2,3.95
+244,6.20,230656,https://www.beeradvocate.com/beer/profile/38696/230656/,66 - Rauchbier,38696,Brasserie Harricana,1,3.75
+245,5.20,331009,https://www.beeradvocate.com/beer/profile/5926/331009/,Schederndorfer Rauchbier,5926,Brauerei Konrad Will,1,3
+246,8.00,308226,https://www.beeradvocate.com/beer/profile/12516/308226/,Rail Dog- Scotch Barrel Aged,12516,Thirsty Dog Brewing Company,1,3.01
+247,6.40,313359,https://www.beeradvocate.com/beer/profile/45051/313359/,Backyard BBQ Rauchbier,45051,Smoketown Brewing Station,1,3.84
+248,6.00,280080,https://www.beeradvocate.com/beer/profile/2303/280080/,Gamba De Legn,2303,Birrificio Lambrate,1,3.63
+249,5.75,265234,https://www.beeradvocate.com/beer/profile/35844/265234/,Bamberg Smoked Lager,35844,Royal City Brewing Co.,1,3.75
+250,6.90,265235,https://www.beeradvocate.com/beer/profile/48163/265235/,Hadictator Laphroaig,48163,Beer Bazaar / Mivshelet Ha’Aretz,1,3.95
+251,5.00,315667,https://www.beeradvocate.com/beer/profile/1337/315667/,Smoked Seabass,1337,Pizza Port Solana Beach,1,2.77
+252,5.30,333076,https://www.beeradvocate.com/beer/profile/34416/333076/,Rauchbier,34416,Wander Brewing,1,3.56
+253,6.20,280084,https://www.beeradvocate.com/beer/profile/49067/280084/,Surtr,49067,Wacken Brauerei,1,3.91
+254,6.40,298528,https://www.beeradvocate.com/beer/profile/37717/298528/,Grousefather,37717,Territorial Brewing Company,1,4.09
+255,6.30,337443,https://www.beeradvocate.com/beer/profile/36484/337443/,Citizen Krang Campfire Bock,36484,Oliphant Brewing,1,3.9
+256,7.20,293411,https://www.beeradvocate.com/beer/profile/16525/293411/,Cinder Dick,16525,Monks House of Ale Repute / Gandy Dancer Brew Works,1,3.5
+257,9.40,182308,https://www.beeradvocate.com/beer/profile/29909/182308/,White Street Thunder Child,29909,White Street Brewing Co.,1,3.75
+258,4.80,132902,https://www.beeradvocate.com/beer/profile/33709/132902/,Helles Rauchbier,33709,Sociable Cider Werks,1,4
+259,10.00,200230,https://www.beeradvocate.com/beer/profile/3441/200230/,Imperial Rauchbier,3441,Delafield Brewhaus,1,4
+260,5.50,76589,https://www.beeradvocate.com/beer/profile/1144/76589/,Feu De Braise,1144,Le Cheval Blanc,1,4.07
+261,5.80,304430,https://www.beeradvocate.com/beer/profile/33562/304430/,Handsome Hog Smoke Ale,33562,Tin Whiskers Brewing Company,1,3.79
+262,5.20,297012,https://www.beeradvocate.com/beer/profile/50184/297012/,Zunder,50184,Bierschmiede,1,3.75
+263,5.70,149558,https://www.beeradvocate.com/beer/profile/13981/149558/,Fog Nozzle Smoked Marzen,13981,Canteen Brewhouse,1,3.5
+264,6.80,77882,https://www.beeradvocate.com/beer/profile/18353/77882/,Smoklahoma,18353,Naked City Taphouse,1,3.85
+265,5.00,295231,https://www.beeradvocate.com/beer/profile/44176/295231/,Chimney,44176,Pivnica Star Grad Old Town Brewery,1,3.62
+266, ? ,63040,https://www.beeradvocate.com/beer/profile/19350/63040/,Schlossplatzbrauerei Coepenick Rauchbier,19350,Schlossplatzbrauerei Coepenick,1,3.35
+267,6.20,204099,https://www.beeradvocate.com/beer/profile/41246/204099/,Leaf,41246,Orbit Beers,1,3.64
+268,9.50,208707,https://www.beeradvocate.com/beer/profile/32758/208707/,Bedlam,32758,Castle Grill / Red Castle Brewery & Distillery,1,3.91
+269,6.10,151367,https://www.beeradvocate.com/beer/profile/2556/151367/,Rauch Bier,2556,"Sunshine Coast Brewery, The",1,3.8
+270,4.20,300617,https://www.beeradvocate.com/beer/profile/37435/300617/,Wisp Gratzer,37435,Ten 10 Brewing Company,1,4
+271,5.20,61516,https://www.beeradvocate.com/beer/profile/1169/61516/,Northern Waters Smoked Helles,1169,Fitger's Brewhouse,1,4.05
+272,5.20,67661,https://www.beeradvocate.com/beer/profile/6102/67661/,Mephisto,6102,Georg Meinel Bierbrauerei KG,1,3.53
+273,5.20,311633,https://www.beeradvocate.com/beer/profile/47045/311633/,First Leaves of Autumn,47045,Berkeley Springs Brewing,1,3.73
+274,5.40,150357,https://www.beeradvocate.com/beer/profile/26704/150357/,Low And Slow Rauchbier W/Serrano,26704,Monkey Paw Pub & Brewery,1,3.14
+275,6.00,309847,https://www.beeradvocate.com/beer/profile/1250/309847/,Flammenbeer,1250,Swans Brewpub / Buckerfield Brewery,1,4.21
+276,7.00,250457,https://www.beeradvocate.com/beer/profile/489/250457/,Rookbok,489,Brouwerij 't IJ,1,4.02
+277,6.00,284250,https://www.beeradvocate.com/beer/profile/37717/284250/,Redheaded Rauchstar,37717,Territorial Brewing Company,1,3.73
+278,5.80,335195,https://www.beeradvocate.com/beer/profile/63/335195/,Rauch O Marx,63,Deschutes Brewery,1,3.94
+279,8.50,154971,https://www.beeradvocate.com/beer/profile/36997/154971/,The Back Forty,36997,Starboard Brewing Company,1,2.93
+280, ? ,135260,https://www.beeradvocate.com/beer/profile/23344/135260/,Rauchbier,23344,Chattanooga Brewing Company,1,3.7
+281,5.70,232801,https://www.beeradvocate.com/beer/profile/40924/232801/,Rauchbier,40924,Napoleone Breweries,1,3.5
+282,5.00,233057,https://www.beeradvocate.com/beer/profile/44176/233057/,Smoked Porter,44176,Pivnica Star Grad Old Town Brewery,1,3.25
+283,6.00,135267,https://www.beeradvocate.com/beer/profile/30302/135267/,Meeting Of The Minds,30302,Lake Effect Brewing Co.,1,3.98
+284,5.90,339557,https://www.beeradvocate.com/beer/profile/36108/339557/,Old City Is Burning,36108,2nd Story Brewing Co.,1,3.83
+285,5.70,289383,https://www.beeradvocate.com/beer/profile/36341/289383/,Savu Kekri,36341,Iso-Kallan Panimo Oy,1,3.74
+286,4.90,261738,https://www.beeradvocate.com/beer/profile/5965/261738/,Lorenz Meistersud Rauchbier,5965,Brauerei Schleicher,1,3.72
+287,9.00,175211,https://www.beeradvocate.com/beer/profile/514/175211/,Zwarte Ziel,514,Jopen Bier BV Haarlem,1,4.21
+288,5.50,284268,https://www.beeradvocate.com/beer/profile/40269/284268/,Smoked Marzen,40269,Big Rock Urban Brewery and Eatery,1,3.83
+289,4.00,318067,https://www.beeradvocate.com/beer/profile/18591/318067/,Detroit Rauch City,18591,Blue Tractor BBQ & Brewery,1,3.25
+290,4.70,324725,https://www.beeradvocate.com/beer/profile/18879/324725/,Rauch Helles Lager,18879,Chuckanut Brewery & Kitchen,1,3.86
+291,6.10,257142,https://www.beeradvocate.com/beer/profile/3797/257142/,Rauchbier,3797,Second Street Brewery,1,4
+292,5.40,156279,https://www.beeradvocate.com/beer/profile/5987/156279/,Frauendorfer Rauchbier,5987,"Brauerei ""Zum Pfau"" Anton Hetzel",1,3.94
+293,4.80,224894,https://www.beeradvocate.com/beer/profile/28144/224894/,Smoking,28144,Birrificio La Piazza,1,2.85
+294,5.50,305280,https://www.beeradvocate.com/beer/profile/48530/305280/,Bonfire Brown,48530,Cold Iron Brewing,1,4.4
+295,5.30,340867,https://www.beeradvocate.com/beer/profile/28091/340867/,Rauch of Ages,28091,Free Will Brewing Co.,1,4.79
+296,6.20,257411,https://www.beeradvocate.com/beer/profile/43565/257411/,"Batyenka Da Vy Transformyer! (Батенька, да вы трансформер!)",43565,LaBEERint Brewery,1,3.61
+297,5.10,72836,https://www.beeradvocate.com/beer/profile/2470/72836/,Smoked Marzen,2470,The Brew Kettle Taproom & Smokehouse / Production Works,1,3.58
+298,5.50,162951,https://www.beeradvocate.com/beer/profile/20132/162951/,Mille Neuf Cendre,20132,Les Brasseurs Du Temps,1,3.71
+299,5.50,106122,https://www.beeradvocate.com/beer/profile/21952/106122/,Munchner,21952,People's Brewing Company,1,4.25
+300,11.00,319371,https://www.beeradvocate.com/beer/profile/42842/319371/,BA Rauchwine,42842,Torrside Brewing,1,4.34
+301,8.40,311694,https://www.beeradvocate.com/beer/profile/24659/311694/,Smoking Goat,24659,La Cumbre Brewing Co.,1,4.08
+302,6.60,218007,https://www.beeradvocate.com/beer/profile/38142/218007/,Rauchbier,38142,Alibi Ale Works,1,3.75
+303,5.30,271000,https://www.beeradvocate.com/beer/profile/41563/271000/,For Those About To Rauch,41563,Little Fish Brewing Company,1,3.65
+304,4.40,324249,https://www.beeradvocate.com/beer/profile/383/324249/,Heller Rauch,383,Live Oak Brewing Company,1,3.3
+305,6.30,221338,https://www.beeradvocate.com/beer/profile/36865/221338/,Bramberger Rauchbier,36865,Zwei Brüder Brewing,1,3.92
+306,5.20,70812,https://www.beeradvocate.com/beer/profile/25938/70812/,Rauchbier,25938,Degrees Brewery,1,3.37
+307,6.50,155805,https://www.beeradvocate.com/beer/profile/38632/155805/,Caldo De Bituca,38632,Ogre Beer Comércio de Cervejas Ltda.,1,3.11
+308, ? ,324253,https://www.beeradvocate.com/beer/profile/383/324253/,Schwarzer Rauch Aged On Oak Chips,383,Live Oak Brewing Company,1,3.38
+309, ? ,98720,https://www.beeradvocate.com/beer/profile/29577/98720/,Wildfire,29577,Republic Brewing Company,1,4.01
+310,5.70,137377,https://www.beeradvocate.com/beer/profile/450/137377/,Forest Fire,450,Yards Brewing Co.,1,3.75
+311,5.60,326561,https://www.beeradvocate.com/beer/profile/22772/326561/,Smoky,22772,Birrificio Rurale,1,3.98
+312,6.20,329890,https://www.beeradvocate.com/beer/profile/50520/329890/,Mr. Rauch Stuff,50520,Shakopee Brewhall,1,3.62
+313,8.50,257186,https://www.beeradvocate.com/beer/profile/26850/257186/,Brandy Barrel Mac Fanny Baw,26850,Against The Grain Brewery & Smokehouse,1,4.1
+314,5.40,79267,https://www.beeradvocate.com/beer/profile/22896/79267/,Smoked Lager,22896,Artisan Brewing Co.,1,3.62
+315, ? ,116900,https://www.beeradvocate.com/beer/profile/7340/116900/,Ricklinger Rauchbier,7340,"Ricklinger Landbrauerei ""Zur Alten Försterei""",1,3.75
+316,5.30,221100,https://www.beeradvocate.com/beer/profile/35025/221100/,Smoke 'Em If You Got 'Em,35025,Miner Brewing Company,1,3.75
+317,7.30,284334,https://www.beeradvocate.com/beer/profile/34087/284334/,Ardberg Embassy Number One,34087,Sthlm Brewing Co.,1,3.33
+318,5.00,239284,https://www.beeradvocate.com/beer/profile/36487/239284/,Smoke House Lager,36487,Platform Beer Co.,1,3.75
+319,6.20,260533,https://www.beeradvocate.com/beer/profile/30534/260533/,Rauchbier,30534,Ootmarsummer Bierbrouwerij Heupink & Co,1,3.59
+320,6.00,55741,https://www.beeradvocate.com/beer/profile/2772/55741/,Bamberg Brew,2772,Titletown Brewing Company,1,3.97
+321,5.90,130238,https://www.beeradvocate.com/beer/profile/11689/130238/,No. 60 German Rauchbier,11689,Gella's Diner & Lb. Brewing Co.,1,3.59
+322,7.50,279489,https://www.beeradvocate.com/beer/profile/24633/279489/,Pyroman Rauchporter,24633,Kaltenecker,1,3.84
+323,5.50,326594,https://www.beeradvocate.com/beer/profile/41956/326594/,Smoke on the Lager,41956,Allegheny City Brewing,1,4.09
+324,4.80,77763,https://www.beeradvocate.com/beer/profile/9051/77763/,"Gold, Frankincense & Moor",9051,Moor Beer Company,1,3.65
+325,6.00,28100,https://www.beeradvocate.com/beer/profile/12907/28100/,Zahre Affumicata,12907,Sauris AgriBeer S.a.s,1,3.63
+326,5.00,79045,https://www.beeradvocate.com/beer/profile/27873/79045/,Rauchbier,27873,Cervecería Steinbock,1,1.06
+327,6.40,295622,https://www.beeradvocate.com/beer/profile/41807/295622/,The Smokey Pitbull,41807,Wasserhund Brewing Company,1,3.69
+328,5.00,200393,https://www.beeradvocate.com/beer/profile/16028/200393/,Smoked Ale,16028,Three Boys Brewery,1,3.97
+329,5.00,135369,https://www.beeradvocate.com/beer/profile/1483/135369/,I Wanna Rauch,1483,Springfield Brewing Company,1,3.75
+330, ? ,268745,https://www.beeradvocate.com/beer/profile/26607/268745/,Rauchbier,26607,Occidental Brewing Co.,1,4.35
+331,5.65,312265,https://www.beeradvocate.com/beer/profile/32875/312265/,Riesenhai Rauchbier,32875,Sailfish Brewing Company,1,3.62
+332,5.00,106444,https://www.beeradvocate.com/beer/profile/20537/106444/,La Tourbière,20537,Le Trèfle Noir,1,3.25
+333,5.60,261838,https://www.beeradvocate.com/beer/profile/45511/261838/,Rauchbier,45511,Arrowood Farms,1,3.63
+334,6.30,271823,https://www.beeradvocate.com/beer/profile/36865/271823/,Bamberger Rauchbier,36865,Zwei Brüder Brewing,1,3.77
+335,3.00,341713,https://www.beeradvocate.com/beer/profile/38696/341713/,99 - Grätzer,38696,Brasserie Harricana,1,3.28
+336,5.40,226514,https://www.beeradvocate.com/beer/profile/42086/226514/,Clock Nakuoření Huz 13° Rauchweizen,42086,Remeslny Pivovar Clock,1,3.5
+337,5.20,174547,https://www.beeradvocate.com/beer/profile/16963/174547/,Fuego,16963,Marble Brewery,1,4.08
+338,3.30,196307,https://www.beeradvocate.com/beer/profile/33899/196307/,Grodziskie,33899,TicketyBrew,1,3.04
+339,4.40,305364,https://www.beeradvocate.com/beer/profile/29068/305364/,Upright Vienna Smoked Lager,29068,The Dayton Beer Company,1,3.89
+340,5.00,239573,https://www.beeradvocate.com/beer/profile/31450/239573/,Burning Hills Rauchbier,31450,Buffalo Commons Brewing Company,1,3.68
+341, ? ,215254,https://www.beeradvocate.com/beer/profile/33345/215254/,Prairie Smoke,33345,Sockeye Brewing,1,2.71
+342,5.10,305111,https://www.beeradvocate.com/beer/profile/5691/305111/,Flynn on Fire (Smoked Series) Gates of Helles,5691,Switchback Brewing Company,1,5
+343,5.00,277464,https://www.beeradvocate.com/beer/profile/30201/277464/,Rauchbier,30201,HooDoo Brewing,1,4.07
+344,5.60,35802,https://www.beeradvocate.com/beer/profile/15682/35802/,Gunzendorfer Schlückla,15682,Privatbrauerei Andreas Sauer GmbH,1,3.77
+345,5.80,230108,https://www.beeradvocate.com/beer/profile/25844/230108/,Firehouse Smoked Red,25844,Keg & Lantern Brewing Co,1,4
+346,5.50,265949,https://www.beeradvocate.com/beer/profile/42935/265949/,Smokes McGotes,42935,Black Hammer Brewing,1,3.94
+347,5.40,284894,https://www.beeradvocate.com/beer/profile/34453/284894/,You're Bacon Me Crazy!,34453,House of Pendragon Brewing Company,1,2.25
+348,5.60,255200,https://www.beeradvocate.com/beer/profile/5918/255200/,Heller Rauch-Festbier,5918,Brauerei Julius Hummel,1,4.02
+349,6.20,133857,https://www.beeradvocate.com/beer/profile/15999/133857/,Cerveza Negra Ahumada,15999,Cerveceria Artesanal El Bolson,1,3.96
+350,5.80,292583,https://www.beeradvocate.com/beer/profile/6231/292583/,Wagner Bräu Kuckuck,6231,Wagner Bräu Kemmern e. K.,1,3.84
+351,5.80,52967,https://www.beeradvocate.com/beer/profile/1321/52967/,Hopfenrauch,1321,Wig And Pen,1,4.28
+352,5.30,270059,https://www.beeradvocate.com/beer/profile/6237/270059/,Büchla,6237,Meusel Bräu Inh. OttoMeusel,1,4.01
+353,5.10,264431,https://www.beeradvocate.com/beer/profile/45041/264431/,Campfire Rye,45041,Ironmonger Brewing,1,3.77
+354,6.50,148207,https://www.beeradvocate.com/beer/profile/8263/148207/,Apollo Røgøl,8263,Bryggeriet Apollo,1,2.5
+355,5.10,152048,https://www.beeradvocate.com/beer/profile/31624/152048/,Fire,31624,Weird Beard Brew Co.,1,3.75
+356,5.70,147965,https://www.beeradvocate.com/beer/profile/20472/147965/,Røgøl,20472,Hornbeer,1,2.25
+357,4.10,183806,https://www.beeradvocate.com/beer/profile/21862/183806/,Smokin' Oak,21862,Galena Brewing Company,1,3.98
+358,6.60,329994,https://www.beeradvocate.com/beer/profile/26934/329994/,Sticky Business,26934,Black Acre Brewing Co.,0,0
+359,4.60,312587,https://www.beeradvocate.com/beer/profile/46825/312587/,Rauchbier,46825,Bristol Station Brews & Taproom,0,0
+360, ? ,128269,https://www.beeradvocate.com/beer/profile/30303/128269/,Rabe Rauchbier,30303,Beerfoot Beach Bar,0,0
+361,4.40,227602,https://www.beeradvocate.com/beer/profile/36667/227602/,Knightberg Smoked,36667,Premium Breweries,0,0
+362, ? ,60946,https://www.beeradvocate.com/beer/profile/12140/60946/,Steinbach Scotty,12140,Steinbach Bräu,0,0
+363,7.40,315156,https://www.beeradvocate.com/beer/profile/26864/315156/,Holger Danske (with Hill Farmstead),26864,Kissmeyer Beer,0,0
+364, ? ,68117,https://www.beeradvocate.com/beer/profile/25329/68117/,Třebonické Uzenáč Kouřový Speciál (Rauchbier) 13°,25329,Třebonický Rukodělný Pivovárek,0,0
+365,6.00,189977,https://www.beeradvocate.com/beer/profile/36855/189977/,Smokey Broom,36855,2 Witches Winery & Brewing Co.,0,0
+366,5.30,238365,https://www.beeradvocate.com/beer/profile/42675/238365/,Conclave,42675,Cervejaria Pratinha,0,0
+367,7.40,313887,https://www.beeradvocate.com/beer/profile/18353/313887/,Naked City The Fall Guy Smoked Autumn Ale,18353,Naked City Taphouse,0,0
+368,4.50,165408,https://www.beeradvocate.com/beer/profile/38440/165408/,Smokin’ Angel,38440,Leighton Buzzard Brewing Co.,0,0
+369, ? ,149793,https://www.beeradvocate.com/beer/profile/18724/149793/,Old Forge Rauchbier,18724,Old Forge Brewing Company,0,0
+370,5.40,194603,https://www.beeradvocate.com/beer/profile/30247/194603/,SMOKESTACK LIGHTNING,30247,Earth Eagle Brewings,0,0
+371,5.50,129325,https://www.beeradvocate.com/beer/profile/32412/129325/,Smokey The Beer,32412,The Vineyard and Brewery at Hershey,0,0
+372,4.70,209716,https://www.beeradvocate.com/beer/profile/41329/209716/,Smokey And The Bacon,41329,Conclave Brewing,0,0
+373,5.80,280891,https://www.beeradvocate.com/beer/profile/30663/280891/,And The Bandit Rauchbier,30663,Union Brewing Company,0,0
+374,6.50,239166,https://www.beeradvocate.com/beer/profile/16385/239166/,Rauchschwarzbier,16385,Linden Street Brewery,0,0
+375,6.70,129854,https://www.beeradvocate.com/beer/profile/33910/129854/,Smokehouse Lager,33910,Bad Apple Brewhouse,0,0
+376,6.66,226625,https://www.beeradvocate.com/beer/profile/43405/226625/,Smoke Beer Everday,43405,Grasslands Brewing Company,0,0
+377,6.00,274242,https://www.beeradvocate.com/beer/profile/28440/274242/,Rauchbier,28440,ZwanzigZ,0,0
+378,4.50,167747,https://www.beeradvocate.com/beer/profile/35943/167747/,Beer And Loathing,35943,North Slope Brewing Company,0,0
+379,5.90,162886,https://www.beeradvocate.com/beer/profile/18116/162886/,Frankonia,18116,Cervejaria RSW Abadessa,0,0
+380,5.00,164678,https://www.beeradvocate.com/beer/profile/23484/164678/,Fumée - Garagardo Ketua,23484,Brasserie Etxeko Bob's Beer,0,0
+381,4.00,234054,https://www.beeradvocate.com/beer/profile/38096/234054/,DMB,38096,Stilt House Brewery,0,0
+382,5.70,202829,https://www.beeradvocate.com/beer/profile/22065/202829/,Flaming Bourbon Sombrero,22065,Redwood Curtain Brewing Company,0,0
+383,5.70,202830,https://www.beeradvocate.com/beer/profile/22065/202830/,Flaming Sombrero,22065,Redwood Curtain Brewing Company,0,0
+384,5.50,205396,https://www.beeradvocate.com/beer/profile/37528/205396/,A.C.A.B.,37528,Mager Brewery,0,0
+385,5.00,178005,https://www.beeradvocate.com/beer/profile/15922/178005/,Moa Heller Rauchbier,15922,Moa Brewing Company,0,0
+386,4.70,160858,https://www.beeradvocate.com/beer/profile/35554/160858/,Quick Draw,35554,Croft Brewing Company,0,0
+387,6.10,178011,https://www.beeradvocate.com/beer/profile/15922/178011/,Moa Smoked Bock,15922,Moa Brewing Company,0,0
+388,4.70,339809,https://www.beeradvocate.com/beer/profile/42207/339809/,Smoky And the Bacon,42207,Ancient City Brewing,0,0
+389,5.20,105064,https://www.beeradvocate.com/beer/profile/31731/105064/,Josephs Spezial,31731,Brauerei im Eiswerk,0,0
+390,6.20,234090,https://www.beeradvocate.com/beer/profile/38096/234090/,Rauchbier,38096,Stilt House Brewery,0,0
+391, ? ,60525,https://www.beeradvocate.com/beer/profile/23313/60525/,Giesinger Hausbrand,23313,Giesinger Bräu - Das Bierlaboratorium,0,0
+392, ? ,60017,https://www.beeradvocate.com/beer/profile/16289/60017/,Altenberg Smoked Lager,16289,Laurelwood Public House & Brewery,0,0
+393,5.00,104053,https://www.beeradvocate.com/beer/profile/7318/104053/,Waldhaus Rauchbier,7318,Waldhaus,0,0
+394,5.50,162166,https://www.beeradvocate.com/beer/profile/4099/162166/,Wieden Bräu Rauchbier,4099,Wieden Bräu,0,0
+395,5.70,194935,https://www.beeradvocate.com/beer/profile/37153/194935/,Rauchweizen,37153,Doctor Brew,0,0
+396,6.30,104057,https://www.beeradvocate.com/beer/profile/7318/104057/,Waldhaus Rauchbierbock,7318,Waldhaus,0,0
+397,5.70,311428,https://www.beeradvocate.com/beer/profile/40037/311428/,Oyster Rauchbier,40037,Garden Grove Brewing Company,0,0
+398,5.00,289671,https://www.beeradvocate.com/beer/profile/16525/289671/,Heizer,16525,Monks House of Ale Repute / Gandy Dancer Brew Works,0,0
+399,4.70,163464,https://www.beeradvocate.com/beer/profile/39591/163464/,Smoked,39591,Brewery Mirzaani,0,0
+400,7.50,259216,https://www.beeradvocate.com/beer/profile/30536/259216/,Alfred Thomas Rauchbock,30536,Two Rivers Brewing Company,0,0
+401,4.60,204177,https://www.beeradvocate.com/beer/profile/43433/204177/,Kopchyonoye,43433,Blad Baher,0,0
+402,6.20,341394,https://www.beeradvocate.com/beer/profile/52594/341394/,Rockstone,52594,Buskers Beer,0,0
+403,4.90,110741,https://www.beeradvocate.com/beer/profile/7709/110741/,Sächsisches (Saxon) Rauchbier,7709,Brauhaus Pirna Zum Giesser,0,0
+404,6.40,229274,https://www.beeradvocate.com/beer/profile/43890/229274/,Smoke Show,43890,Pinellas Ale Works,0,0
+405,5.00,301212,https://www.beeradvocate.com/beer/profile/40999/301212/,Tatra Smoked Mountain Ale,40999,Towerhill Brewery,0,0
+406,5.30,341405,https://www.beeradvocate.com/beer/profile/52593/341405/,DonZa,52593,Vetra,0,0
+407,4.80,160932,https://www.beeradvocate.com/beer/profile/13137/160932/,Rauch Bier,13137,Elmar's In The Valley,0,0
+408,7.00,328357,https://www.beeradvocate.com/beer/profile/47542/328357/,Pit Boss,47542,North End Brewing Co,0,0
+409,7.60,204711,https://www.beeradvocate.com/beer/profile/22200/204711/,Rauch Bock,22200,Wormtown Brewery,0,0
+410, ? ,324264,https://www.beeradvocate.com/beer/profile/383/324264/,Spund Schwarzer Rauch,383,Live Oak Brewing Company,0,0
+411, ? ,324265,https://www.beeradvocate.com/beer/profile/383/324265/,Lichtenhainer with Brettanomyces,383,Live Oak Brewing Company,0,0
+412,5.80,269492,https://www.beeradvocate.com/beer/profile/43019/269492/,Rauchbier,43019,Tangled Roots Brewing Company / The Lone Buffalo,0,0
+413,5.20,122036,https://www.beeradvocate.com/beer/profile/32474/122036/,Smoky Midnite,32474,Shrub Steppe Smokehouse Brewery,0,0
+414,5.20,59576,https://www.beeradvocate.com/beer/profile/5811/59576/,Röbersdorfer Landbier Rauch,5811,Brauerei Friedrich Weber,0,0
+415,4.50,205497,https://www.beeradvocate.com/beer/profile/22383/205497/,Staropokrovskoye Kopchyonoye,22383,OOO UK Pokrovskaya,0,0
+416,5.00,230587,https://www.beeradvocate.com/beer/profile/41517/230587/,Shadow Wolf,41517,Ealing Park Tavern / Long Arm Brewing,0,0
+417,5.60,177858,https://www.beeradvocate.com/beer/profile/36381/177858/,Smoky Bacon Banana,36381,Mad Hatter Brewing,0,0
+418,5.50,330693,https://www.beeradvocate.com/beer/profile/37091/330693/,Rauch,37091,Tainai Kogen Beer,0,0
+419,4.20,160968,https://www.beeradvocate.com/beer/profile/15597/160968/,Smoke Stack,15597,Gulf Brewery,0,0
+420,6.50,279758,https://www.beeradvocate.com/beer/profile/37166/279758/,Tater Chip,37166,Summit City Brewerks,0,0
+421,6.66,187087,https://www.beeradvocate.com/beer/profile/21985/187087/,La Gamme De Saveurs - Fumée Rauchbier,21985,La Gueule de Bois,0,0
+422,4.80,217297,https://www.beeradvocate.com/beer/profile/3196/217297/,Rauchbier,3196,Flat Branch Pub & Brewery,0,0
+423,4.50,205010,https://www.beeradvocate.com/beer/profile/25958/205010/,Smolder,25958,Renegade Brewing Company,0,0
+424,6.60,329939,https://www.beeradvocate.com/beer/profile/46047/329939/,La Colorá,46047,Cerveza Domus,0,0
+425,6.20,316886,https://www.beeradvocate.com/beer/profile/38904/316886/,Jail Fire,38904,Muddy York Brewing Co.,0,0
+426,5.80,157399,https://www.beeradvocate.com/beer/profile/12508/157399/,Drachenblut,12508,Griesbräu Zu Murnau,0,0
+427,6.00,166105,https://www.beeradvocate.com/beer/profile/36843/166105/,Old Bamberg,36843,Insight Brewing,0,0
+428,7.50,175326,https://www.beeradvocate.com/beer/profile/27921/175326/,"Le Bon, La Brute Et Le Truand",27921,L'Espace Public-Brasseurs de quartier,0,0
+429,6.50,336872,https://www.beeradvocate.com/beer/profile/48963/336872/,Episode 10: Rauchbock,48963,Browar Rockmill,0,0
+430,4.90,110831,https://www.beeradvocate.com/beer/profile/7579/110831/,Watzkes Rauchbier,7579,Ball- und Brauhaus Watzke,0,0
+431, ? ,309489,https://www.beeradvocate.com/beer/profile/44951/309489/,Smoke Eater,44951,Oak Park Brewing Company / Hamburger Mary’s Show Lounge,0,0
+432,8.00,263922,https://www.beeradvocate.com/beer/profile/46190/263922/,Pig Iron Rauchbier,46190,Pig Iron Brewing Co,0,0
+433,6.80,222196,https://www.beeradvocate.com/beer/profile/44880/222196/,Fenrir Smoked Rye IPA,44880,Cervejaria Hoffen,0,0
+434,5.50,202746,https://www.beeradvocate.com/beer/profile/30982/202746/,Smoked On The Water,30982,Pine Street Brewery,0,0
+435,6.50,262653,https://www.beeradvocate.com/beer/profile/45045/262653/,Engine 21,45045,Dorchester Brewing Company,0,0

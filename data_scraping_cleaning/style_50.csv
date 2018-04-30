@@ -1,0 +1,101 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.00,7435,https://www.beeradvocate.com/beer/profile/388/7435/,Cantillon Iris,388,Brasserie Cantillon,"2,108",4.36
+1,5.00,2559,https://www.beeradvocate.com/beer/profile/388/2559/,Cantillon Bruocsella (1900) Grand Cru,388,Brasserie Cantillon,871,3.93
+2,5.75,71976,https://www.beeradvocate.com/beer/profile/22399/71976/,Lambickx,22399,Vanberg & DeWulf,416,3.89
+3,4.80,8961,https://www.beeradvocate.com/beer/profile/2170/8961/,Oude Lambiek De Cam,2170,De Cam Geuzestekerij,347,4.22
+4,6.00,68408,https://www.beeradvocate.com/beer/profile/22157/68408/,Lambic,22157,Rivertown Brewery & Barrel House,300,4.03
+5,5.00,101004,https://www.beeradvocate.com/beer/profile/18120/101004/,7 Day Golden Sour,18120,Trinity Brewing Company,288,3.96
+6,5.00,7758,https://www.beeradvocate.com/beer/profile/388/7758/,Cantillon Lambic,388,Brasserie Cantillon,280,4.13
+7,7.00,188570,https://www.beeradvocate.com/beer/profile/2216/188570/,Drie Fonteinen Zenne Y Frontera,2216,Brouwerij 3 Fonteinen,234,4.73
+8,3.50,56855,https://www.beeradvocate.com/beer/profile/22399/56855/,Lambrucha,22399,Vanberg & DeWulf,222,3.69
+9,9.70,95447,https://www.beeradvocate.com/beer/profile/388/95447/,Cantillon Lambic D'Haute Densité,388,Brasserie Cantillon,86,3.57
+10,5.50,44603,https://www.beeradvocate.com/beer/profile/2467/44603/,Panil Divina,2467,Panil,58,3.79
+11,5.60,9880,https://www.beeradvocate.com/beer/profile/828/9880/,Lambiek Oud Beersel,828,Brouwerij Oud Beersel,55,3.88
+12,3.00,280759,https://www.beeradvocate.com/beer/profile/36686/280759/,Meerts,36686,Funk Factory Geuzeria,41,4.05
+13,6.50,73412,https://www.beeradvocate.com/beer/profile/47/73412/,Boon Oude Lambic,47,Brouwerij Boon,38,4.02
+14,5.00,8776,https://www.beeradvocate.com/beer/profile/2216/8776/,Lambiek (1 Year Old),2216,Brouwerij 3 Fonteinen,35,4.11
+15,5.00,50057,https://www.beeradvocate.com/beer/profile/2216/50057/,Jonge Lambik,2216,Brouwerij 3 Fonteinen,29,4.07
+16,5.00,50058,https://www.beeradvocate.com/beer/profile/2216/50058/,Oude Lambik,2216,Brouwerij 3 Fonteinen,21,4.15
+17,6.00,212250,https://www.beeradvocate.com/beer/profile/636/212250/,Oude Lambic - 2 Yr Unblended Lambic,636,Hanssens Artisanaal bvba,18,4.22
+18, ? ,264201,https://www.beeradvocate.com/beer/profile/388/264201/,Cantillon One Year Unblended Lambic,388,Brasserie Cantillon,17,3.9
+19,5.00,6351,https://www.beeradvocate.com/beer/profile/2541/6351/,Lambik (1 Year Old Unblended),2541,Brouwerij Girardin,17,3.8
+20,5.00,71468,https://www.beeradvocate.com/beer/profile/2170/71468/,Lambiek De Cam,2170,De Cam Geuzestekerij,16,4.28
+21,5.50,93018,https://www.beeradvocate.com/beer/profile/13307/93018/,Vesterbro Spontanale,13307,Mikkeller ApS,16,3.71
+22,5.00,178003,https://www.beeradvocate.com/beer/profile/636/178003/,Oude Lambic - 1 Yr Unblended Lambic,636,Hanssens Artisanaal bvba,14,4.14
+23,5.00,17210,https://www.beeradvocate.com/beer/profile/2541/17210/,Lambik (2 Year Old Unblended),2541,Brouwerij Girardin,12,4.25
+24,5.00,44953,https://www.beeradvocate.com/beer/profile/2541/44953/,Jonge Lambiek,2541,Brouwerij Girardin,10,3.78
+25,5.00,62637,https://www.beeradvocate.com/beer/profile/187/62637/,Lindemans Oude Lambik,187,Brouwerij Lindemans,10,3.91
+26,4.00,180140,https://www.beeradvocate.com/beer/profile/187/180140/,Publican Lambic,187,Brouwerij Lindemans,9,4.07
+27,5.00,6350,https://www.beeradvocate.com/beer/profile/2541/6350/,Lambik (3 Year Old Unblended),2541,Brouwerij Girardin,9,4.04
+28, ? ,279291,https://www.beeradvocate.com/beer/profile/34315/279291/,3rd Anniversary Ale,34315,Hailstorm Brewing Co.,9,4.04
+29,5.50,258085,https://www.beeradvocate.com/beer/profile/47353/258085/,Jung,47353,The Referend Bier Blendery,8,4.06
+30,5.50,258086,https://www.beeradvocate.com/beer/profile/47353/258086/,Jung - Mosaic,47353,The Referend Bier Blendery,8,3.81
+31,6.00,212747,https://www.beeradvocate.com/beer/profile/863/212747/,Sonambic,863,Russian River Brewing Company,7,3.75
+32,6.00,61224,https://www.beeradvocate.com/beer/profile/223/61224/,Oud,223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,7,3.99
+33,6.10,288139,https://www.beeradvocate.com/beer/profile/33258/288139/,3.5ish,33258,The Unknown Brewing Co.,7,4.19
+34,7.50,230080,https://www.beeradvocate.com/beer/profile/38091/230080/,Cellar Blend Vol 1,38091,Phantom Carriage,7,4.3
+35,5.80,321218,https://www.beeradvocate.com/beer/profile/24018/321218/,SPON 5,24018,Jester King Brewery,7,4.46
+36,7.25,121295,https://www.beeradvocate.com/beer/profile/26634/121295/,Belgian Experimental Sour,26634,Wichita Brewing Co. & Pizzeria West,7,3.61
+37,4.00,290807,https://www.beeradvocate.com/beer/profile/36686/290807/,FFG ,36686,Funk Factory Geuzeria,7,3.57
+38, ? ,259144,https://www.beeradvocate.com/beer/profile/4/259144/,Coolship Clermont,4,Allagash Brewing Company,6,4.34
+39,6.50,275214,https://www.beeradvocate.com/beer/profile/42930/275214/,Into The Great Unknown (Czech Saaz Edition),42930,Beachwood Blendery,5,4.37
+40,6.50,286993,https://www.beeradvocate.com/beer/profile/47/286993/,Boon Lambik Foeder 97,47,Brouwerij Boon,5,4.43
+41,7.60,273181,https://www.beeradvocate.com/beer/profile/33824/273181/,Emergent Behavior,33824,Bottle Logic Brewing,5,3.65
+42,6.00,64329,https://www.beeradvocate.com/beer/profile/2467/64329/,Panil Divinatale,2467,Panil,5,3.82
+43,6.00,70746,https://www.beeradvocate.com/beer/profile/25923/70746/,Tilquin Jonge Lambic,25923,Gueuzerie Tilquin,5,4.38
+44, ? ,146588,https://www.beeradvocate.com/beer/profile/26536/146588/,Blondage,26536,Exit 6 Brewery,5,3.94
+45, ? ,46111,https://www.beeradvocate.com/beer/profile/1636/46111/,Lambic,1636,Fegley's Bethlehem Brew Works,4,3.88
+46,5.50,298291,https://www.beeradvocate.com/beer/profile/654/298291/,Mort Subite Blonde Lambic,654,Brouwerij Mort Subite,4,3.47
+47,6.50,308047,https://www.beeradvocate.com/beer/profile/47/308047/,Boon Lambik Foeder 104,47,Brouwerij Boon,4,4.03
+48, ? ,311156,https://www.beeradvocate.com/beer/profile/388/311156/,La Vie est Solidaire,388,Brasserie Cantillon,4,4.1
+49,5.00,303481,https://www.beeradvocate.com/beer/profile/388/303481/,Cuvée Moeder (Lambic),388,Brasserie Cantillon,4,4.17
+50,5.00,73150,https://www.beeradvocate.com/beer/profile/190/73150/,De Troch Jonge Lambik,190,Brouwerij De Troch,4,3.9
+51,6.00,252664,https://www.beeradvocate.com/beer/profile/47176/252664/,Jong Lambiek,47176,Bokkereyder,4,4.14
+52,6.00,117581,https://www.beeradvocate.com/beer/profile/223/117581/,Foederbier,223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,3,4.08
+53,5.50,118902,https://www.beeradvocate.com/beer/profile/13307/118902/,Nörrebro Spontanale,13307,Mikkeller ApS,3,3.92
+54,5.00,187777,https://www.beeradvocate.com/beer/profile/190/187777/,Oude Lambiek,190,Brouwerij De Troch,3,4.07
+55,6.50,315585,https://www.beeradvocate.com/beer/profile/47/315585/,Boon Lambik Foeder 67,47,Brouwerij Boon,3,3.53
+56,5.50,285132,https://www.beeradvocate.com/beer/profile/47353/285132/,Jung - Amarillo,47353,The Referend Bier Blendery,3,4.08
+57, ? ,302559,https://www.beeradvocate.com/beer/profile/47176/302559/,Ghost Lambic - Cognac,47176,Bokkereyder,3,4.39
+58,5.20,60435,https://www.beeradvocate.com/beer/profile/23030/60435/,Amarillo Lambik,23030,Revelation Cat Craft Brewing,2,3.81
+59,5.00,173087,https://www.beeradvocate.com/beer/profile/35083/173087/,Young Lambic BA Sherry Amontillado,35083,MAD Beer,2,3.01
+60,7.00,315201,https://www.beeradvocate.com/beer/profile/47353/315201/,Le Différend,47353,The Referend Bier Blendery,2,4.13
+61, ? ,82767,https://www.beeradvocate.com/beer/profile/2170/82767/,Jonge Lambiek,2170,De Cam Geuzestekerij,2,3.58
+62,4.80,106336,https://www.beeradvocate.com/beer/profile/30585/106336/,Babalu,30585,Bog Iron Brewing,2,4.83
+63, ? ,305027,https://www.beeradvocate.com/beer/profile/30585/305027/,Babalu II,30585,Bog Iron Brewing,2,3.75
+64, ? ,305028,https://www.beeradvocate.com/beer/profile/30585/305028/,Babalu III,30585,Bog Iron Brewing,2,4.32
+65, ? ,62636,https://www.beeradvocate.com/beer/profile/654/62636/,Mort Subite Oude Lambik,654,Brouwerij Mort Subite,2,3.86
+66,4.60,195263,https://www.beeradvocate.com/beer/profile/29618/195263/,Gouden Foeder,29618,The Libertine Pub,2,4.33
+67,5.50,291016,https://www.beeradvocate.com/beer/profile/47353/291016/,Jung - Galaxy,47353,The Referend Bier Blendery,2,4.22
+68,5.50,53450,https://www.beeradvocate.com/beer/profile/17271/53450/,Fresh Lambic,17271,Bootlegger's Brewery,2,4.07
+69,5.50,276952,https://www.beeradvocate.com/beer/profile/47353/276952/,OED,47353,The Referend Bier Blendery,2,3.97
+70,8.90,333545,https://www.beeradvocate.com/beer/profile/48368/333545/,Cobra Status,48368,Horus Aged Ales,2,3.97
+71,3.60,280322,https://www.beeradvocate.com/beer/profile/25923/280322/,Tilquin Meerts,25923,Gueuzerie Tilquin,1,3.62
+72,4.80,61194,https://www.beeradvocate.com/beer/profile/16433/61194/,Birra Madre,16433,Birrificio Menaresta,1,3.42
+73,6.50,275216,https://www.beeradvocate.com/beer/profile/42930/275216/,Oaky Koke,42930,Beachwood Blendery,1,5
+74,5.50,313882,https://www.beeradvocate.com/beer/profile/47353/313882/,Jung—Cuvee Reed,47353,The Referend Bier Blendery,1,4.21
+75,7.00,327204,https://www.beeradvocate.com/beer/profile/19866/327204/,Ives Blend 2,19866,Upright Brewing Company,1,4.46
+76,7.00,227627,https://www.beeradvocate.com/beer/profile/45305/227627/,Love Machine,45305,HopHead Craft Brewery,1,3.53
+77, ? ,334380,https://www.beeradvocate.com/beer/profile/2216/334380/,Assemblage,2216,Brouwerij 3 Fonteinen,1,4.16
+78, ? ,294217,https://www.beeradvocate.com/beer/profile/1168/294217/,New Brighton Lambic,1168,Barley John's Brew Pub,1,4.21
+79,6.00,322674,https://www.beeradvocate.com/beer/profile/42930/322674/,"Into the Great Unknown (Strata, Mosaic)",42930,Beachwood Blendery,1,3.91
+80, ? ,295576,https://www.beeradvocate.com/beer/profile/2791/295576/,Timmermans Oude Lambiek,2791,Brouwerij Timmermans-John Martin N.V.,1,3.91
+81,5.75,310972,https://www.beeradvocate.com/beer/profile/22399/310972/,"Lambickx (Zenne Valley, Private Domain)",22399,Vanberg & DeWulf,1,4.25
+82, ? ,189888,https://www.beeradvocate.com/beer/profile/3049/189888/,Coolship Dark,3049,Elgood and Sons Ltd,1,3.55
+83,5.50,291015,https://www.beeradvocate.com/beer/profile/47353/291015/,Jung - Hallertau Blanc,47353,The Referend Bier Blendery,1,4.28
+84,6.00,340950,https://www.beeradvocate.com/beer/profile/52534/340950/,La Nature,52534,Micro-Brasserie La Montagnarde,1,4.03
+85,7.50,330465,https://www.beeradvocate.com/beer/profile/48069/330465/,The Laurentian Series: Lake Superior,48069,Speciation Artisan Ales,1,4.25
+86,5.40,305634,https://www.beeradvocate.com/beer/profile/24018/305634/,SPON Still,24018,Jester King Brewery,1,4.76
+87,6.30,186093,https://www.beeradvocate.com/beer/profile/28608/186093/,Funk,28608,Brewfinity Brewing Company,1,3.79
+88, ? ,290036,https://www.beeradvocate.com/beer/profile/47176/290036/,Lambiek (2015),47176,Bokkereyder,1,4.31
+89,4.90,301687,https://www.beeradvocate.com/beer/profile/23639/301687/,Harkness,23639,Rising Tide Brewing Company,0,0
+90,5.50,314747,https://www.beeradvocate.com/beer/profile/16996/314747/,Perséides,16996,Microbrasserie Pit Caribou,0,0
+91,5.60,243843,https://www.beeradvocate.com/beer/profile/44541/243843/,Sour Soul,44541,Mad Brewlads Craft Co.,0,0
+92,5.90,332187,https://www.beeradvocate.com/beer/profile/30143/332187/,Stupid Sexy,30143,Pike 51 Brewing Company,0,0
+93,15.00,270002,https://www.beeradvocate.com/beer/profile/22656/270002/,Suralimente,22656,Chardon BrewWorks,0,0
+94,5.50,302548,https://www.beeradvocate.com/beer/profile/47353/302548/,Jung - Nelson Sauvin,47353,The Referend Bier Blendery,0,0
+95,4.70,327128,https://www.beeradvocate.com/beer/profile/49016/327128/,Foxbic,49016,Mills Brewing,0,0
+96,5.50,276953,https://www.beeradvocate.com/beer/profile/47353/276953/,Jung - Oloroso,47353,The Referend Bier Blendery,0,0
+97,5.70,218077,https://www.beeradvocate.com/beer/profile/31813/218077/,Saudi Grapes,31813,Bacchus Brewing Co.,0,0
+98,6.00,287714,https://www.beeradvocate.com/beer/profile/388/287714/,Cantillon Berce,388,Brasserie Cantillon,0,0
+99,2.00,222183,https://www.beeradvocate.com/beer/profile/47/222183/,Lembeek's 2%,47,Brouwerij Boon,0,0

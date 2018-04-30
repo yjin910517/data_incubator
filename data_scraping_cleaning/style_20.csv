@@ -1,0 +1,484 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.80,228,https://www.beeradvocate.com/beer/profile/73/228/,Dortmunder Gold,73,Great Lakes Brewing Co.,"3,321",4.06
+1,5.10,50443,https://www.beeradvocate.com/beer/profile/26/50443/,Jinx Proof,26,3 Floyds Brewing Co.,"1,179",3.64
+2,5.50,133,https://www.beeradvocate.com/beer/profile/39/133/,Ayinger Jahrhundert Bier,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,"1,013",3.95
+3,5.00,2831,https://www.beeradvocate.com/beer/profile/726/2831/,DAB Original,726,Dortmunder Actien Brauerei / DAB,637,3.24
+4,5.10,5260,https://www.beeradvocate.com/beer/profile/689/5260/,Dog Days Dortmunder Style Lager,689,Two Brothers Brewing Company,448,3.54
+5,5.40,4695,https://www.beeradvocate.com/beer/profile/401/4695/,Baltika #7 Export,401,Baltika Breweries,433,3.07
+6,4.50,5548,https://www.beeradvocate.com/beer/profile/2147/5548/,33 Export,2147,VBL Tien Giang Limited (Fosters),279,2.79
+7,5.50,65383,https://www.beeradvocate.com/beer/profile/143/65383/,Shiner Dortmunder (Spring Ale),143,Spoetzl Brewery / Shiner,274,3.42
+8,5.30,1189,https://www.beeradvocate.com/beer/profile/402/1189/,Dominion Lager,402,Old Dominion Brewing Company,240,3.59
+9,4.50,3989,https://www.beeradvocate.com/beer/profile/1336/3989/,Mountain Lager,1336,Appalachian Brewing Company,239,3.31
+10,6.00,46894,https://www.beeradvocate.com/beer/profile/12516/46894/,Labrador Lager,12516,Thirsty Dog Brewing Company,224,3.69
+11,7.50,42571,https://www.beeradvocate.com/beer/profile/73/42571/,Imperial Dortmunder,73,Great Lakes Brewing Co.,216,3.89
+12,5.00,800,https://www.beeradvocate.com/beer/profile/284/800/,Yebisu (Premium),284,Sapporo Breweries Ltd.,181,3.38
+13,4.80,27945,https://www.beeradvocate.com/beer/profile/2854/27945/,Flensburger Gold,2854,Flensburger Brauerei GmbH Und Co. KG,157,3.52
+14,5.00,37946,https://www.beeradvocate.com/beer/profile/1551/37946/,Gordon Biersch Golden Export,1551,Gordon Biersch Brewery Restaurant,150,3.28
+15,5.00,2166,https://www.beeradvocate.com/beer/profile/726/2166/,DAB Export,726,Dortmunder Actien Brauerei / DAB,123,3.33
+16, ? ,1725,https://www.beeradvocate.com/beer/profile/447/1725/,Heileman's Special Export,447,Pabst Brewing Company,114,2.78
+17,4.80,7094,https://www.beeradvocate.com/beer/profile/1951/7094/,Port Royal Export,1951,"Cerveceria Hondurena, S.A. / BevCo Ltd",101,2.84
+18,5.40,46019,https://www.beeradvocate.com/beer/profile/1177/46019/,Dortmunder Local Export Lager,1177,Minneapolis Town Hall Brewery,95,3.75
+19,6.50,101143,https://www.beeradvocate.com/beer/profile/9629/101143/,Howlin' Chinaski,9629,Short's Brewing Company,87,3.51
+20,5.00,99951,https://www.beeradvocate.com/beer/profile/219/99951/,California Dry Hop Lager,219,Sudwerk Brewing Company,80,3.67
+21,5.70,1564,https://www.beeradvocate.com/beer/profile/580/1564/,Lomza Export,580,Browar Łomża Sp. z o.o.,73,3.32
+22,5.20,61875,https://www.beeradvocate.com/beer/profile/5850/61875/,Commerzienrat Riegele Privat,5850,Brauhaus Riegele,70,3.87
+23,5.10,12302,https://www.beeradvocate.com/beer/profile/4154/12302/,Reutberger Export Hell,4154,Klosterbrauerei Reutberg,66,3.62
+24,5.50,96989,https://www.beeradvocate.com/beer/profile/32222/96989/,DortWunder Lager,32222,Berghoff Brewery,63,3.37
+25,5.10,133317,https://www.beeradvocate.com/beer/profile/14400/133317/,Venn Dortmund-Style Lager,14400,Ninkasi Brewing Company,62,3.64
+26,5.30,6708,https://www.beeradvocate.com/beer/profile/894/6708/,Nils Oscar God Lager,894,Nils Oscar,60,3.51
+27,5.30,52288,https://www.beeradvocate.com/beer/profile/20986/52288/,Alpen Stoff,20986,Bürgerbräu Bad Reichenhall,55,3.49
+28,5.30,22011,https://www.beeradvocate.com/beer/profile/4087/22011/,Mariestads Export,4087,Spendrups Bryggeri AB,55,2.96
+29,5.80,6688,https://www.beeradvocate.com/beer/profile/1623/6688/,Premium Edel (Spezialbier Edel),1623,Aktienbrauerei Kaufbeuren AG,54,3.7
+30,5.80,33281,https://www.beeradvocate.com/beer/profile/10202/33281/,Loose Caboose Lager,10202,Depot Street Brewing,52,3.62
+31,4.70,4296,https://www.beeradvocate.com/beer/profile/1539/4296/,Original Oettinger Export,1539,Oettinger International Getränke-Vertriebs GmbH,52,2.95
+32,5.00,13415,https://www.beeradvocate.com/beer/profile/763/13415/,Lunatic Lager,763,Moonlight Brewing Company,45,4.12
+33,5.50,115558,https://www.beeradvocate.com/beer/profile/24802/115558/,Klara,24802,Idle Hands Craft Ales,44,4.02
+34,4.80,14235,https://www.beeradvocate.com/beer/profile/1723/14235/,Hansa Imported Dortmunder,1723,Hansa Brauerei / Namibia Breweries,44,3.14
+35,5.40,32517,https://www.beeradvocate.com/beer/profile/412/32517/,Mönchshof Landbier,412,Kulmbacher Brauerei AG,43,3.43
+36,5.30,22009,https://www.beeradvocate.com/beer/profile/4087/22009/,Norrlands Guld Export,4087,Spendrups Bryggeri AB,43,2.56
+37,5.60,26120,https://www.beeradvocate.com/beer/profile/1796/26120/,Tegernsee Spezial,1796,Herzoglich Bayerisches Brauhaus Tegernsee,42,3.61
+38,5.50,69411,https://www.beeradvocate.com/beer/profile/11977/69411/,Lager,11977,Howe Sound Inn & Brewing Company,41,3.78
+39,4.50,163807,https://www.beeradvocate.com/beer/profile/458/163807/,Brewers’ Cut Helles,458,Real Ale Brewing Company,40,3.64
+40,4.90,199756,https://www.beeradvocate.com/beer/profile/6129/199756/,Urtyp Hell Edel Bayer,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,39,3.37
+41,5.00,2173,https://www.beeradvocate.com/beer/profile/726/2173/,Hansa Export,726,Dortmunder Actien Brauerei / DAB,39,3.16
+42,5.00,144042,https://www.beeradvocate.com/beer/profile/37451/144042/,Grandpa Tractor,37451,Barley Forge Brewing Co.,39,3.81
+43,4.61,80560,https://www.beeradvocate.com/beer/profile/22611/80560/,Long Point Lager,22611,Bridge Brew Works LLC,38,3.46
+44,5.80,144078,https://www.beeradvocate.com/beer/profile/5316/144078/,Session Golden Lager,5316,Full Sail Brewery & Tasting Room & Pub,36,3.58
+45,6.00,45339,https://www.beeradvocate.com/beer/profile/628/45339/,Astra Rotlicht,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,33,3.02
+46,5.30,42321,https://www.beeradvocate.com/beer/profile/16829/42321/,Aktien Original 1857,16829,Bayreuther Bierbrauerei,32,3.67
+47,7.00,1573,https://www.beeradvocate.com/beer/profile/507/1573/,Gulpener Dort,507,Gulpener Bierbrouwerij B.V.,31,3.77
+48,5.00,198940,https://www.beeradvocate.com/beer/profile/6107/198940/,Osser Gold,6107,Späth Bräu Franz Fuchsgruber KG,30,3.27
+49,6.00,68217,https://www.beeradvocate.com/beer/profile/24680/68217/,Barnburner Lager,24680,Lager Heads Smokehouse & Brewing Co.,30,3.36
+50,5.20,20923,https://www.beeradvocate.com/beer/profile/5709/20923/,Arcobräu Urfass Premium Hell,5709,Arcobräu Gräfliches Brauhaus,30,3.49
+51,5.20,63047,https://www.beeradvocate.com/beer/profile/620/63047/,Allgäuer Hüttenbier,620,Der HirschBrau/Privatbrauerei Höss,29,3.44
+52,5.00,120125,https://www.beeradvocate.com/beer/profile/10046/120125/,Del Mar St.,10046,Left Coast Brewing Company,28,3.58
+53,4.80,91621,https://www.beeradvocate.com/beer/profile/30230/91621/,Capital Gold,30230,Confluence Brewing Company,27,3.42
+54,5.10,173379,https://www.beeradvocate.com/beer/profile/29745/173379/,Patio Pounder,29745,Cedar Creek Brewery,26,3.56
+55,5.50,27431,https://www.beeradvocate.com/beer/profile/445/27431/,Bedele Gold Label Special Beer,445,Bedele Brewery,25,3.37
+56,6.00,49096,https://www.beeradvocate.com/beer/profile/9916/49096/,Weed Lemurian Golden Lager,9916,Mount Shasta Brewing,24,3.71
+57,4.20,66452,https://www.beeradvocate.com/beer/profile/2147/66452/,Biere Larue,2147,VBL Tien Giang Limited (Fosters),23,2.58
+58,5.50,36840,https://www.beeradvocate.com/beer/profile/988/36840/,Dortmunder,988,Denver ChopHouse & Brewery,23,3.38
+59,5.00,58663,https://www.beeradvocate.com/beer/profile/22923/58663/,Yellowhead Premium Lager,22923,Yellowhead Brewery,22,3.59
+60,5.40,14234,https://www.beeradvocate.com/beer/profile/472/14234/,Leikeim Landbier,472,Brauerei Leikeim,22,3.39
+61,5.10,14479,https://www.beeradvocate.com/beer/profile/31/14479/,Organic Pinkus Special,31,Brauerei Pinkus Mueller,21,3.55
+62,5.30,21365,https://www.beeradvocate.com/beer/profile/8655/21365/,Maxlrainer Schloss Gold,8655,Schlossbrauerei Maxlrain GmbH & Co. KG,20,3.38
+63,4.80,136691,https://www.beeradvocate.com/beer/profile/31212/136691/,1500 South Cap Lager,31212,Atlas Brew Works,20,3.3
+64,6.00,113432,https://www.beeradvocate.com/beer/profile/28086/113432/,Helios Golden Lager,28086,Hoyne Brewing Co.,19,3.83
+65,5.40,17731,https://www.beeradvocate.com/beer/profile/412/17731/,Kulmbacher Export,412,Kulmbacher Brauerei AG,19,3.34
+66,5.50,187250,https://www.beeradvocate.com/beer/profile/42042/187250/,Golden Mustache,42042,Oak Highlands Brewery,19,3.74
+67,5.20,13723,https://www.beeradvocate.com/beer/profile/620/13723/,Allgäuer Ökobier,620,Der HirschBrau/Privatbrauerei Höss,19,3.08
+68,5.10,82388,https://www.beeradvocate.com/beer/profile/3340/82388/,Dinkelacker Privat,3340,Dinkelacker-Schwabenbraeu AG,19,3.43
+69,5.50,87334,https://www.beeradvocate.com/beer/profile/29118/87334/,Werkzeug Stadt,29118,Timber Creek Tap & Table,18,3.4
+70,6.00,13472,https://www.beeradvocate.com/beer/profile/556/13472/,City Steam The Export,556,City Steam Brewery Café,18,3.38
+71,6.00,131317,https://www.beeradvocate.com/beer/profile/1949/131317/,Dortmunder Export Lager,1949,Bohemian Brewery,17,3.89
+72,4.50,1539,https://www.beeradvocate.com/beer/profile/574/1539/,EMU Export,574,Swan Brewery,16,2.76
+73,5.30,20026,https://www.beeradvocate.com/beer/profile/1273/20026/,Kalnapilis Grand,1273,Alaus Darykla Kalnapilis,16,3.02
+74,5.00,185923,https://www.beeradvocate.com/beer/profile/726/185923/,DAB Dortmunder Export,726,Dortmunder Actien Brauerei / DAB,16,3.19
+75,5.10,24208,https://www.beeradvocate.com/beer/profile/6807/24208/,Distelhäuser Landbier,6807,Distelhäuser Brauerei,16,3.65
+76,5.80,4622,https://www.beeradvocate.com/beer/profile/583/4622/,Schlafly Dortmunder,583,The Schlafly Tap Room,15,3.77
+77,5.80,189972,https://www.beeradvocate.com/beer/profile/35568/189972/,Twisted Bit,35568,Braxton Brewing Company,15,3.91
+78,5.60,98162,https://www.beeradvocate.com/beer/profile/7216/98162/,Super Dort,7216,Adirondack Pub & Brewery,14,3.7
+79, ? ,52384,https://www.beeradvocate.com/beer/profile/18539/52384/,Tommy Two Fists,18539,Devils Backbone Brewing Company,14,3.68
+80,5.30,7339,https://www.beeradvocate.com/beer/profile/3046/7339/,Cerpa Export,3046,Cerpa Cervejaria Paraense S/A,14,3.08
+81,5.20,30127,https://www.beeradvocate.com/beer/profile/2629/30127/,Alpirsbacher Klosterbräu Kleiner Mönch,2629,Alpirsbacher Klosterbräu,14,3.56
+82, ? ,1726,https://www.beeradvocate.com/beer/profile/447/1726/,Special Export Light,447,Pabst Brewing Company,14,2.4
+83,5.30,33085,https://www.beeradvocate.com/beer/profile/129/33085/,Tucher Übersee Export,129,Brauerei Tucher Brau,13,3.23
+84,4.80,38772,https://www.beeradvocate.com/beer/profile/5562/38772/,Helles,5562,Vetter Alt Heidelberger Brauhaus Neuenheim,13,3.81
+85,4.80,71043,https://www.beeradvocate.com/beer/profile/11175/71043/,Stare Misto,11175,Persha Privatna Brovariya,13,3.71
+86,5.20,61574,https://www.beeradvocate.com/beer/profile/7607/61574/,Sternburg Export,7607,Leipziger Brauhaus zu Reudnitz GmbH,13,2.76
+87,5.50,46728,https://www.beeradvocate.com/beer/profile/39/46728/,Ayinger Frühlingsbier,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,13,3.82
+88,5.20,44234,https://www.beeradvocate.com/beer/profile/2542/44234/,King Lager,2542,Australian Brewing Corporation,13,2.67
+89,5.00,37958,https://www.beeradvocate.com/beer/profile/6063/37958/,Classic Export,6063,Klosterbrauerei Weissenohe / Klosterbrauerei Weißenohe Wirtshaus,12,3.31
+90,5.00,200784,https://www.beeradvocate.com/beer/profile/6129/200784/,Lausaria Romergold Export Hell,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,12,3.34
+91,4.70,12394,https://www.beeradvocate.com/beer/profile/401/12394/,Yarpivo Originalnoe,401,Baltika Breweries,12,3.14
+92,4.80,43633,https://www.beeradvocate.com/beer/profile/12524/43633/,Export Bier (Lager),12524,Rugenbräu AG,12,3.44
+93,5.00,43195,https://www.beeradvocate.com/beer/profile/1332/43195/,Cisk Premium Export,1332,Simonds Farsons Cisk Plc.,12,3.14
+94,4.80,182715,https://www.beeradvocate.com/beer/profile/16829/182715/,Bayreuther Hell,16829,Bayreuther Bierbrauerei,12,3.74
+95,5.50,175095,https://www.beeradvocate.com/beer/profile/6174/175095/,Schloss Export,6174,Schlossbrauerei Stelzer,12,3.87
+96,4.90,9990,https://www.beeradvocate.com/beer/profile/179/9990/,Rolling Thunder Dortmunder,179,Snake River Brewing Company & Brewpub,11,3.54
+97,5.30,6786,https://www.beeradvocate.com/beer/profile/2876/6786/,Hofbräuhaus Traunstein Helles,2876,Hofbräuhaus Traunstein Josef Sailer KG,11,3.56
+98,5.60,215190,https://www.beeradvocate.com/beer/profile/15280/215190/,Cash For Gold,15280,Atwater Brewery,11,3.77
+99,5.30,72599,https://www.beeradvocate.com/beer/profile/2931/72599/,Dortmunder Union Export,2931,Brauerei Brinkhoff GmbH,11,3.44
+100,5.90,113052,https://www.beeradvocate.com/beer/profile/34058/113052/,Kehrwieder Prototyp,34058,Kehrwieder Kreativbrauerei,11,3.8
+101,5.50,23764,https://www.beeradvocate.com/beer/profile/2431/23764/,Eichbaum Export Altgold Premium,2431,Privatbrauerei Eichbaum GmbH & Co. KG,11,3.27
+102,5.50,285738,https://www.beeradvocate.com/beer/profile/741/285738/,My Turn Series: Dylan,741,"Lakefront Brewery, Inc.",10,4.05
+103,5.30,41823,https://www.beeradvocate.com/beer/profile/290/41823/,Binding Export,290,Binding-Brauerei AG,10,3.53
+104,6.00,47989,https://www.beeradvocate.com/beer/profile/6045/47989/,Dortmunder,6045,Iron Hill Brewery & Restaurant,10,4.07
+105,5.30,243576,https://www.beeradvocate.com/beer/profile/17863/243576/,(512) Export Lager,17863,(512) Brewing Company,10,3.72
+106,5.40,77206,https://www.beeradvocate.com/beer/profile/472/77206/,Leikeim Wintertraum,472,Brauerei Leikeim,10,3.05
+107,4.50,113614,https://www.beeradvocate.com/beer/profile/29911/113614/,Dead Canary,29911,Ol' Republic Brewery,10,3.65
+108,5.30,302820,https://www.beeradvocate.com/beer/profile/34149/302820/,Propaganda Machine,34149,Gun Hill Brewing Company,10,3.78
+109,5.20,62476,https://www.beeradvocate.com/beer/profile/7593/62476/,"5,0 Original Export",7593,Feldschloesschen AG,9,3.48
+110,5.20,73321,https://www.beeradvocate.com/beer/profile/1177/73321/,Hopfen Ublich,1177,Minneapolis Town Hall Brewery,9,3.9
+111,5.60,83325,https://www.beeradvocate.com/beer/profile/24659/83325/,"No, You're A Dort!",24659,La Cumbre Brewing Co.,9,3.89
+112, ? ,9362,https://www.beeradvocate.com/beer/profile/1464/9362/,Elevator Schmidt's Gold,1464,Elevator Brewery & Draught Haus,9,3.66
+113,7.50,5855,https://www.beeradvocate.com/beer/profile/546/5855/,Alfa Super Dortmunder,546,Alfa Bierbrouwerij B.V.,9,3.15
+114,5.10,26335,https://www.beeradvocate.com/beer/profile/6059/26335/,Karmeliten Kloster Gold,6059,Karmelitenbrauerei Karl Sturm,9,3.58
+115,5.00,98018,https://www.beeradvocate.com/beer/profile/16890/98018/,Lacplesis Gaisais,16890,Livu Alus,9,2.91
+116,5.00,238050,https://www.beeradvocate.com/beer/profile/284/238050/,Yebisu Meister,284,Sapporo Breweries Ltd.,9,3.55
+117,5.00,6375,https://www.beeradvocate.com/beer/profile/2452/6375/,Lion Lager,2452,Gold Crown Brewery,9,3.22
+118,5.60,242220,https://www.beeradvocate.com/beer/profile/46375/242220/,Wayah,46375,Currahee Brewing Company,8,3.75
+119,5.50,85295,https://www.beeradvocate.com/beer/profile/28873/85295/,Monsooner: Dortmunder Lager,28873,Dragoon Brewing Co.,8,3.88
+120,4.50,26169,https://www.beeradvocate.com/beer/profile/2147/26169/,Biere Larue Export,2147,VBL Tien Giang Limited (Fosters),8,2.59
+121, ? ,11100,https://www.beeradvocate.com/beer/profile/3182/11100/,Fürstenberg Export,3182,Fürstlich Fürstenbergische Brauerei KG,8,3.69
+122,5.50,82019,https://www.beeradvocate.com/beer/profile/1146/82019/,Loud And Thirsty,1146,Goose Island Beer Co.,8,3.61
+123,5.10,54396,https://www.beeradvocate.com/beer/profile/5752/54396/,Urhell,5752,Brauerei Aldersbach,8,3.79
+124,5.30,71823,https://www.beeradvocate.com/beer/profile/345/71823/,Export Lager,345,Victory Brewing Company - Downingtown,8,3.92
+125,5.00,58292,https://www.beeradvocate.com/beer/profile/391/58292/,Co-Op Gold Premium Lager,391,Big Rock Brewery,8,3.32
+126,5.20,19386,https://www.beeradvocate.com/beer/profile/4102/19386/,Karjala Export IV B,4102,Hartwall Helsinki Panimo,8,2.35
+127,5.30,61892,https://www.beeradvocate.com/beer/profile/3825/61892/,Åbro Export,3825,Åbro Bryggeri,8,1.92
+128,5.00,59101,https://www.beeradvocate.com/beer/profile/16270/59101/,Auburn Export Lager,16270,Auburn Alehouse Brewery & Restaurant,8,3.32
+129,5.00,55844,https://www.beeradvocate.com/beer/profile/7290/55844/,Zwettler Export Lager,7290,Brauerei Zwettl Karl Schwarz GmbH,7,2.92
+130, ? ,32565,https://www.beeradvocate.com/beer/profile/2599/32565/,Haupstrasse Helles,2599,"Fredericksburg Brewing Company, Inc.",7,3.08
+131,5.50,133207,https://www.beeradvocate.com/beer/profile/31809/133207/,28 Lake Lager,31809,Tribute Brewing Co.,7,3.55
+132,5.10,26733,https://www.beeradvocate.com/beer/profile/3691/26733/,Schweiger Helles Export,3691,Privatbrauerei Schweiger,7,3.01
+133,5.50,34989,https://www.beeradvocate.com/beer/profile/1401/34989/,Berliner Kindl Export,1401,Berliner Kindl Brauerei,7,2.69
+134,5.50,36830,https://www.beeradvocate.com/beer/profile/6795/36830/,Zoller-Hof Spezial-Export,6795,Brauerei Zoller-Hof,7,3.21
+135,5.60,30209,https://www.beeradvocate.com/beer/profile/6844/30209/,Welde EX,6844,Welde Bräu GmbH & Co. KG,6,3.22
+136,5.30,51978,https://www.beeradvocate.com/beer/profile/9792/51978/,Summerfest Lager,9792,Natty Greene's Pub & Brewing Co.,6,3.66
+137,5.30,45902,https://www.beeradvocate.com/beer/profile/1317/45902/,Dortmunder Export,1317,Triumph Brewing Company,6,3.41
+138,5.70,74832,https://www.beeradvocate.com/beer/profile/481/74832/,Stuttgarter Hofbräu Bügel Premium,481,Stuttgarter Hofbräu AG,6,3.19
+139,5.40,41814,https://www.beeradvocate.com/beer/profile/2709/41814/,Licher Export,2709,Licher Privatbrauerei,6,4
+140,6.00,22620,https://www.beeradvocate.com/beer/profile/284/22620/,Yebisu Cho-choki-jukusei,284,Sapporo Breweries Ltd.,6,3.51
+141,5.10,2170,https://www.beeradvocate.com/beer/profile/726/2170/,Kronen Export,726,Dortmunder Actien Brauerei / DAB,6,2.93
+142, ? ,39053,https://www.beeradvocate.com/beer/profile/987/39053/,Move Back Dortmunder Export,987,SandLot Brewery @ Coors Field (Blue Moon Brewing Company),6,3.67
+143,5.50,60815,https://www.beeradvocate.com/beer/profile/2855/60815/,Hasseröder Premium Export,2855,Hasseröder Brauerei GmbH,6,3.16
+144,5.30,148896,https://www.beeradvocate.com/beer/profile/19544/148896/,Zoobomb Dortmunder,19544,Fat Head's Brewery & Saloon,6,3.53
+145,5.00,26785,https://www.beeradvocate.com/beer/profile/12354/26785/,Hebendanz Export Hell,12354,Brauerei Hebendanz,6,3.75
+146,5.30,134329,https://www.beeradvocate.com/beer/profile/27077/134329/,Summertime Craft Lager,27077,Due South Brewing Co.,6,3.51
+147,5.20,65996,https://www.beeradvocate.com/beer/profile/23672/65996/,South Texas Lager,23672,Ranger Creek Brewing & Distilling,6,3.35
+148,4.80,84981,https://www.beeradvocate.com/beer/profile/9741/84981/,Chiara,9741,Artebirraia,6,3.78
+149,5.40,136708,https://www.beeradvocate.com/beer/profile/30622/136708/,Wiedemann's Royal,30622,"Geo. Wiedemann Brewing Company, LLC",5,3.54
+150,6.60,253451,https://www.beeradvocate.com/beer/profile/28567/253451/,Hoop Pole,28567,Tin Man Brewing Company,5,3.75
+151,5.10,22047,https://www.beeradvocate.com/beer/profile/5850/22047/,Riegele Würziges Export,5850,Brauhaus Riegele,5,3
+152,5.30,51490,https://www.beeradvocate.com/beer/profile/870/51490/,Hell Export Lager,870,Moylan's Brewery,5,3.52
+153,5.00,220198,https://www.beeradvocate.com/beer/profile/18134/220198/,ESL,18134,Redhook Ale Brewery,5,3.17
+154,4.70,34856,https://www.beeradvocate.com/beer/profile/5927/34856/,Kraus Lagerbier Hell,5927,Brauerei Kraus,5,3.44
+155,5.20,28989,https://www.beeradvocate.com/beer/profile/10897/28989/,Sarek,10897,Carlsberg Sverige AB,5,2.62
+156,5.25,33370,https://www.beeradvocate.com/beer/profile/12547/33370/,Bungtown Export Lager,12547,The Livery,5,3.52
+157,5.30,36701,https://www.beeradvocate.com/beer/profile/6188/36701/,Schwarzbräu Exquisit,6188,Schwarzbräu GmbH,5,3.56
+158,6.10,35426,https://www.beeradvocate.com/beer/profile/2085/35426/,Dragonmead 6Ts Dortmunder,2085,Dragonmead Microbrewery,5,3.72
+159,5.80,171117,https://www.beeradvocate.com/beer/profile/793/171117/,Blue Peter,793,Lake Louie Brewery Company,5,3.77
+160,5.50,42103,https://www.beeradvocate.com/beer/profile/7344/42103/,Rostocker Export,7344,Hanseatische Brauerei Rostock GmbH,5,3.45
+161,5.40,173702,https://www.beeradvocate.com/beer/profile/35017/173702/,Lageröl,35017,Rådanäs Bryggeri,5,3.35
+162, ? ,11145,https://www.beeradvocate.com/beer/profile/3341/11145/,Park Export,3341,Park & Bellheimer AG,5,3.34
+163,5.50,196489,https://www.beeradvocate.com/beer/profile/40236/196489/,Gold Export Lager,40236,Southerleigh Fine Food & Brewery,5,3.08
+164, ? ,36253,https://www.beeradvocate.com/beer/profile/11713/36253/,Fauerbach Export Beer,11713,Fauerbach Brewing Company,5,3.16
+165,5.30,189114,https://www.beeradvocate.com/beer/profile/30364/189114/,Santana Ray,30364,Four Corners Brewing Company,5,3.69
+166,4.70,84923,https://www.beeradvocate.com/beer/profile/5142/84923/,Gralsburg Export,5142,Oettinger Brauerei,5,2.78
+167,5.40,235964,https://www.beeradvocate.com/beer/profile/31987/235964/,Dort,31987,Modern Times Beer,5,3.95
+168,5.00,59843,https://www.beeradvocate.com/beer/profile/2493/59843/,Star City Lager,2493,Lafayette Brewing Co.,5,3.68
+169,5.60,27336,https://www.beeradvocate.com/beer/profile/3689/27336/,Jägerbier Natürtrub Export Hell,3689,Hofbrauhaus Freising,5,3.82
+170,5.80,26571,https://www.beeradvocate.com/beer/profile/917/26571/,Marlen Beer De Luxe,917,La Zaragozana S.A.,5,3.34
+171,5.50,263373,https://www.beeradvocate.com/beer/profile/45284/263373/,Dortmunder,45284,Mustang Sally Brewing Company,5,3.92
+172, ? ,212702,https://www.beeradvocate.com/beer/profile/42628/212702/,Doctor's Orders,42628,Pro Re Nata Brewery,5,3.41
+173,5.50,222700,https://www.beeradvocate.com/beer/profile/35229/222700/,Schüss Bomber Lager,35229,Living The Dream Brewing Co.,5,3.9
+174,5.40,130566,https://www.beeradvocate.com/beer/profile/25435/130566/,Industrial Union Dortmunder,25435,Turkey Hill Brewing Co. Pub & Grille,4,3.98
+175,5.40,66313,https://www.beeradvocate.com/beer/profile/129/66313/,Falkenfelser Premium Export,129,Brauerei Tucher Brau,4,2.75
+176,4.70,71444,https://www.beeradvocate.com/beer/profile/725/71444/,Haacht Export,725,Brouwerij Haacht NV,4,2.93
+177,5.30,86550,https://www.beeradvocate.com/beer/profile/7626/86550/,Traugott Simon Export,7626,Privatbrauerei Iserlohn GmbH,4,2.94
+178,5.20,27683,https://www.beeradvocate.com/beer/profile/5983/27683/,Mönchsambacher Export,5983,Brauerei Zehendner GmbH,4,3.94
+179,5.30,77905,https://www.beeradvocate.com/beer/profile/2969/77905/,Königsbacher Spezial Export,2969,Königsbacher Brauerei,4,3.29
+180,5.30,134995,https://www.beeradvocate.com/beer/profile/30812/134995/,Poppels Modern Lager,30812,Poppels Bryggeri,4,3.09
+181,4.80,82008,https://www.beeradvocate.com/beer/profile/3105/82008/,Schönbuch Ur-Edel,3105,Schönbuch Brauhaus & Biergarten,4,3.92
+182,5.40,45150,https://www.beeradvocate.com/beer/profile/3776/45150/,Dortmunder Export,3776,Third Street Aleworks,4,3.08
+183,5.20,71520,https://www.beeradvocate.com/beer/profile/7017/71520/,Lübzer Export,7017,Mecklenburgische Brauerei Lübz GmbH,4,3.28
+184,5.10,122473,https://www.beeradvocate.com/beer/profile/5949/122473/,Export-Bier,5949,Brauerei Ott,4,4.17
+185,4.20,85616,https://www.beeradvocate.com/beer/profile/1475/85616/,Dortmunder,1475,Maumee Bay Brewing Company,4,3.75
+186,5.40,100998,https://www.beeradvocate.com/beer/profile/6050/100998/,Hutthurmer Tradition-Export,6050,Hutthurmer Bayerwald Brauerei,4,3.08
+187,5.00,173454,https://www.beeradvocate.com/beer/profile/28311/173454/,Alivariya Zolotoye,28311,Alivaria Pivzavod,4,3.44
+188,5.40,118946,https://www.beeradvocate.com/beer/profile/7088/118946/,Sternquell Bürgerbräu,7088,Sternquell Brauerei Plauen,4,3.45
+189,5.00,22971,https://www.beeradvocate.com/beer/profile/10525/22971/,Fuglsang Black Bird,10525,Bryggeriet S.C. Fuglsang,4,2.61
+190,4.80,54732,https://www.beeradvocate.com/beer/profile/15912/54732/,Borbecker Helles Dampfbier,15912,Privatbrauerei Jacob Stauder GmbH & Co. KG,4,3.11
+191,5.20,71379,https://www.beeradvocate.com/beer/profile/628/71379/,Holsten Export,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,4,3.6
+192, ? ,126944,https://www.beeradvocate.com/beer/profile/30452/126944/,GK Lagrrr!,30452,SingleCut Beersmiths,4,3.98
+193,4.80,289506,https://www.beeradvocate.com/beer/profile/49615/289506/,Pitch & Pray Series: Dortmunder,49615,Godspeed Brewery,4,3.78
+194,7.20,22010,https://www.beeradvocate.com/beer/profile/4087/22010/,Norrlands Guld Dynamit,4087,Spendrups Bryggeri AB,4,1.95
+195,5.40,82430,https://www.beeradvocate.com/beer/profile/7322/82430/,Stutzhäuser Waidbauer Classisch Export,7322,Brauerei Gotha GmbH,4,2.7
+196,5.30,20994,https://www.beeradvocate.com/beer/profile/6627/20994/,Pfungstädter Export,6627,Pfungstädter Brauerei,3,3.2
+197,4.80,258822,https://www.beeradvocate.com/beer/profile/47324/258822/,Long Arm,47324,Boyne Brewhouse,3,3.64
+198,4.50,46344,https://www.beeradvocate.com/beer/profile/5562/46344/,Heidelberger Frisch,5562,Vetter Alt Heidelberger Brauhaus Neuenheim,3,3.65
+199,4.90,54799,https://www.beeradvocate.com/beer/profile/8038/54799/,Räuberchen Blond,8038,Spessart Brauerei GmbH,3,4.26
+200,5.00,4112,https://www.beeradvocate.com/beer/profile/930/4112/,Landwehr Edel,930,Landwehr-Bräu - Privatbrauerei Wörner,3,4.11
+201,6.00,28437,https://www.beeradvocate.com/beer/profile/13215/28437/,Baeren Classic,13215,Baeren Brauerei,3,3.86
+202,5.50,37143,https://www.beeradvocate.com/beer/profile/7332/37143/,Schweriner Export,7332,Zweite Schweriner Schlossbrauerei,3,3.22
+203,6.50,174626,https://www.beeradvocate.com/beer/profile/36445/174626/,Holy Gunter,36445,Two Chefs Brewing,3,3.56
+204,5.30,55334,https://www.beeradvocate.com/beer/profile/13232/55334/,BH Premium,13232,Beer House,3,3.39
+205,4.50,19243,https://www.beeradvocate.com/beer/profile/5910/19243/,Jamesport Dortmunder,5910,Jamesport Brewing Company Inc.,3,3.64
+206,5.30,15664,https://www.beeradvocate.com/beer/profile/8912/15664/,Kesselring Urtyp Export,8912,Privatbrauerei Kesselring Gmbh & Co. KG,3,3.68
+207,4.80,154177,https://www.beeradvocate.com/beer/profile/8655/154177/,Maxlrainer Helles,8655,Schlossbrauerei Maxlrain GmbH & Co. KG,3,3.34
+208,5.50,128067,https://www.beeradvocate.com/beer/profile/29106/128067/,Byaregårdens Lager,29106,Byaregårdens Brygghus,3,3.25
+209,5.40,46932,https://www.beeradvocate.com/beer/profile/2891/46932/,Karlsberg Export,2891,Karlsberg Brauerei,3,2.71
+210,5.80,117619,https://www.beeradvocate.com/beer/profile/22886/117619/,Vandelay Dortmunder Export,22886,Equinox Brewing Company,3,4.03
+211,6.00,185972,https://www.beeradvocate.com/beer/profile/2700/185972/,Dortmunder Export,2700,Taps Fish House & Brewery,3,4.03
+212,4.90,118647,https://www.beeradvocate.com/beer/profile/34440/118647/,Folkes Lager,34440,Centralbryggeriet Linköping,3,3.35
+213,5.20,68992,https://www.beeradvocate.com/beer/profile/7597/68992/,German Beer 12 (Export),7597,Privatbrauerei Eibau i. Sa. GmbH,3,2.31
+214,5.40,242309,https://www.beeradvocate.com/beer/profile/39387/242309/,Rawetzer Premium Export,39387,Brauerei Nothhaft,3,4.17
+215,5.20,18585,https://www.beeradvocate.com/beer/profile/1353/18585/,Pilsissimus,1353,Forschungsbrauerei,3,4.2
+216,5.20,144033,https://www.beeradvocate.com/beer/profile/37443/144033/,Kuehn Kerlig Hell,37443,Kuehn Kunz Rosen,3,4.09
+217,5.50,45732,https://www.beeradvocate.com/beer/profile/5141/45732/,Reischenau Gold,5141,Brauerei Ustersbach,3,2.56
+218,4.50,96694,https://www.beeradvocate.com/beer/profile/31894/96694/,Skinny Green,31894,The Brew,3,2.75
+219,5.40,58556,https://www.beeradvocate.com/beer/profile/6811/58556/,Heidelberger Premium Export,6811,Heidelberger Brauerei GmbH,3,2.83
+220,5.50,104381,https://www.beeradvocate.com/beer/profile/7592/104381/,Freibergisch Export,7592,Freiberger Brauhaus AG,3,2.62
+221,5.40,40420,https://www.beeradvocate.com/beer/profile/5838/40420/,Hauf Weihnachts-Bier Spezial,5838,Brauerei Hauf GmbH,3,3.35
+222,4.70,60913,https://www.beeradvocate.com/beer/profile/12511/60913/,Stralsunder Lager,12511,Störtebeker Braumanufaktur,3,2.81
+223,4.90,172795,https://www.beeradvocate.com/beer/profile/39879/172795/,WKRP,39879,Taft's Ale House,3,3.65
+224,5.60,156422,https://www.beeradvocate.com/beer/profile/9510/156422/,Waldhaus Spezial Gold,9510,Privatbrauerei Waldhaus,2,3.14
+225,6.20,303882,https://www.beeradvocate.com/beer/profile/3825/303882/,Skrapan Lager,3825,Åbro Bryggeri,2,3.35
+226,6.30,245775,https://www.beeradvocate.com/beer/profile/36539/245775/,Mockro Lager,36539,Mockery Brewing Co.,2,3.71
+227,5.80,181782,https://www.beeradvocate.com/beer/profile/453/181782/,Laško Special Buckwheat,453,Pivovarna Laško,2,2.92
+228,5.00,56087,https://www.beeradvocate.com/beer/profile/6784/56087/,Ladenburger Premium Export,6784,Brauerei Ladenburger GmbH,2,3.37
+229,5.30,267032,https://www.beeradvocate.com/beer/profile/19544/267032/,Fat Head's Dortmunder,19544,Fat Head's Brewery & Saloon,2,4
+230,6.80,193051,https://www.beeradvocate.com/beer/profile/1177/193051/,Lemon Sun Honey,1177,Minneapolis Town Hall Brewery,2,4.16
+231,5.00,49949,https://www.beeradvocate.com/beer/profile/5970/49949/,Landbier,5970,Staffelberg-Bräu,2,3.88
+232,5.00,43038,https://www.beeradvocate.com/beer/profile/14617/43038/,Heller Stern,14617,Brauhaus Südstern,2,3.13
+233,4.70,70435,https://www.beeradvocate.com/beer/profile/2706/70435/,Goldhand Felsgold Premium Bier Urtyp,2706,Parkbrauerei / Park & Bellheimer AG,2,2.81
+234,5.90,267299,https://www.beeradvocate.com/beer/profile/556/267299/,Export Lager,556,City Steam Brewery Café,2,3.56
+235,9.80,310820,https://www.beeradvocate.com/beer/profile/16352/310820/,Adambeor,16352,Blue Mountain Brewery,2,4.11
+236,5.50,51492,https://www.beeradvocate.com/beer/profile/18879/51492/,Dortmunder,18879,Chuckanut Brewery & Kitchen,2,4.11
+237,4.70,118567,https://www.beeradvocate.com/beer/profile/6016/118567/,Urhell,6016,Franken Bräu Lorenz Bauer GmbH & Co. KG,2,3.15
+238,6.30,84521,https://www.beeradvocate.com/beer/profile/25168/84521/,Vandelay Export,25168,Holy City Brewing,2,3.88
+239,5.60,69162,https://www.beeradvocate.com/beer/profile/5964/69162/,Schlappeseppel Export,5964,Brauerei Schlappeseppel GmbH,2,2.89
+240,5.00,59435,https://www.beeradvocate.com/beer/profile/584/59435/,Ottarocker,584,Ottakringer Brauerei AG,2,3.55
+241,5.00,47404,https://www.beeradvocate.com/beer/profile/18116/47404/,Abadessa Export,18116,Cervejaria RSW Abadessa,2,4.05
+242,5.00,245805,https://www.beeradvocate.com/beer/profile/6059/245805/,Karmeliten Biobier,6059,Karmelitenbrauerei Karl Sturm,2,2.9
+243,5.20,135727,https://www.beeradvocate.com/beer/profile/921/135727/,Pälzer Hell,921,Privatbrauerei Bischoff,2,3.45
+244,5.25,35125,https://www.beeradvocate.com/beer/profile/13656/35125/,El Mirador,13656,Sierra Madre Brewing Co.,2,3.6
+245,6.00,310069,https://www.beeradvocate.com/beer/profile/47795/310069/,Prince Ludwig the Indestructible,47795,Blackadder Brewing Company,2,3.98
+246,5.00,28470,https://www.beeradvocate.com/beer/profile/13239/28470/,IKALE,13239,Royal Beer Company Ltd.,2,2.77
+247, ? ,70973,https://www.beeradvocate.com/beer/profile/5408/70973/,Dortmunder,5408,Herkimer Pub & Brewery,2,3.39
+248,5.00,44881,https://www.beeradvocate.com/beer/profile/4471/44881/,Villacher Hausbier,4471,Vereinigte Kärntner Brauereien AG,2,3.66
+249,5.00,249427,https://www.beeradvocate.com/beer/profile/25051/249427/,What Fresh Helles,25051,First Draft - Niagara College Teaching Brewery,2,3.34
+250,4.90,74072,https://www.beeradvocate.com/beer/profile/19603/74072/,South Pacific Export Lager,19603,South Pacific Brewery LTD,2,2.89
+251,4.90,101722,https://www.beeradvocate.com/beer/profile/6037/101722/,Günther Bräu Lagerbier Bernstein,6037,Günther Bräu,2,3.64
+252,5.00,122972,https://www.beeradvocate.com/beer/profile/34981/122972/,Bergmann Spezialbier,34981,Bergmann Brauerei GmbH,2,2.76
+253,5.30,8802,https://www.beeradvocate.com/beer/profile/4151/8802/,Steiner Export Hell,4151,Schlossbrauerei Stein Wiskott GmbH & Co. KG,2,2.84
+254,5.00,132966,https://www.beeradvocate.com/beer/profile/24877/132966/,24 Karat Gold Lager,24877,Last Frontier Brewing Company,2,3.74
+255,4.90,291183,https://www.beeradvocate.com/beer/profile/6129/291183/,Egerer 1788 Super Lager,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,2,3
+256,4.70,142457,https://www.beeradvocate.com/beer/profile/20864/142457/,Ægir Påskesol,20864,Ægir Bryggeri,2,3.71
+257,6.00,119686,https://www.beeradvocate.com/beer/profile/299/119686/,Lansdowne Lager,299,Boston Beer Works - Canal Street,2,3.42
+258,5.50,82322,https://www.beeradvocate.com/beer/profile/5751/82322/,Löwen Gold,5751,Bayerische Löwenbrauerei,2,2.78
+259,7.00,126101,https://www.beeradvocate.com/beer/profile/284/126101/,Yebisu Natsu No Koku,284,Sapporo Breweries Ltd.,2,3.59
+260,5.30,58263,https://www.beeradvocate.com/beer/profile/9151/58263/,Faust Export Klassich,9151,Brauhaus Faust-Miltenberger,2,3.38
+261,4.90,95902,https://www.beeradvocate.com/beer/profile/6810/95902/,Haller-Löwenbräu Meistergold Spezial,6810,Löwenbrauerei Hall,2,3.16
+262,5.20,112035,https://www.beeradvocate.com/beer/profile/33982/112035/,St. Michael Export,33982,GET Kooperationspartner GmbH,2,3.23
+263,5.30,297125,https://www.beeradvocate.com/beer/profile/555/297125/,Hopfen Houblon,555,Feldschlösschen Beverages Group,2,3.14
+264,5.40,69031,https://www.beeradvocate.com/beer/profile/23409/69031/,Brauerei Königshof Export,23409,Brauerei Königshof,2,3.14
+265,5.00,98471,https://www.beeradvocate.com/beer/profile/6147/98471/,Weismainer Premium,6147,Püls Bräu OHG,2,3.56
+266,5.20,99752,https://www.beeradvocate.com/beer/profile/32552/99752/,La Virgen Madrid Lager,32552,Cervezas La Virgen,2,3.78
+267,5.90,266153,https://www.beeradvocate.com/beer/profile/6045/266153/,Rogge The Casbah,6045,Iron Hill Brewery & Restaurant,2,3.63
+268,6.70,153259,https://www.beeradvocate.com/beer/profile/36177/153259/,Helluvadortfest German Lager,36177,TwoDEEP Brewing Co.,2,4.17
+269, ? ,207796,https://www.beeradvocate.com/beer/profile/642/207796/,Dort-Munjor,642,Free State Brewing Co.,2,3.62
+270,3.40,182196,https://www.beeradvocate.com/beer/profile/37920/182196/,Bernard,37920,Urban Chestnut Brewing Company - Grove Brewery & Bierhall,2,4
+271,4.90,41145,https://www.beeradvocate.com/beer/profile/2636/41145/,Scherdel Lager,2636,Privatbrauerei Scherdel OHG,2,3.1
+272,5.90,228282,https://www.beeradvocate.com/beer/profile/42001/228282/,Heavylifter,42001,Pulpit Rock Brewing Company,2,3.38
+273,5.20,60346,https://www.beeradvocate.com/beer/profile/23285/60346/,Moninger Export,23285,Brauerei Moninger GmbH,2,4.4
+274,5.40,55995,https://www.beeradvocate.com/beer/profile/6809/55995/,Ulmer Export,6809,Familienbrauerei Bauhöfer GmbH & Co. KG,2,3.74
+275,5.50,51388,https://www.beeradvocate.com/beer/profile/19544/51388/,Export Gold,19544,Fat Head's Brewery & Saloon,2,3.7
+276,5.50,166081,https://www.beeradvocate.com/beer/profile/39778/166081/,Barão Eschwege,39778,Uaimií,2,3.67
+277,5.80,238280,https://www.beeradvocate.com/beer/profile/7753/238280/,Johannes Bär,7753,Olde Hickory Brewery,2,3.61
+278,4.80,121801,https://www.beeradvocate.com/beer/profile/6033/121801/,Graf Arco Helles,6033,Gräfliche Brauerei Arco Valley,2,3.96
+279,4.80,332747,https://www.beeradvocate.com/beer/profile/28609/332747/,Groffmunder,28609,Night Shift Brewing,2,4.01
+280,5.40,38609,https://www.beeradvocate.com/beer/profile/4375/38609/,Brew & Gold Dortmunder Blend,4375,Bushwakker Brewing Company,2,3.6
+281, ? ,72403,https://www.beeradvocate.com/beer/profile/20017/72403/,The Prussian,20017,5 Seasons Westside,2,4.05
+282,5.20,276437,https://www.beeradvocate.com/beer/profile/34017/276437/,Export,34017,Fort Point Beer Company,2,3.56
+283,7.00,302551,https://www.beeradvocate.com/beer/profile/43361/302551/,Dubois Export,43361,Doc G's Brewing Co.,2,3.78
+284,5.80,276185,https://www.beeradvocate.com/beer/profile/48249/276185/,Rowanbrau,48249,Woodland Farms Brewery,2,3.77
+285,5.60,126170,https://www.beeradvocate.com/beer/profile/1056/126170/,Johnny Dortmunder,1056,Upstream Brewing Company - Old Market,2,3.26
+286,5.20,86757,https://www.beeradvocate.com/beer/profile/8731/86757/,Oechsner Edelhell,8731,Oechsner Ankerbräu KG,2,3.03
+287,5.00,158438,https://www.beeradvocate.com/beer/profile/2706/158438/,Goldhand Felsgold Premium Export,2706,Parkbrauerei / Park & Bellheimer AG,2,2.68
+288,5.40,81896,https://www.beeradvocate.com/beer/profile/7629/81896/,Eichener Gold,7629,Eichener Brauerei,2,3.47
+289,5.50,89834,https://www.beeradvocate.com/beer/profile/9363/89834/,JulBrew Export,9363,Banjul Breweries,2,2.75
+290,6.50,198129,https://www.beeradvocate.com/beer/profile/39/198129/,Jahrhunundert Bier Aus Dem Holzfass,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,2,3.81
+291,5.40,198644,https://www.beeradvocate.com/beer/profile/1412/198644/,Dortmunder,1412,Red Rock Brewing Company,2,3.76
+292,5.20,49908,https://www.beeradvocate.com/beer/profile/2493/49908/,Dog Days Summer Lager,2493,Lafayette Brewing Co.,2,2.29
+293,5.20,37622,https://www.beeradvocate.com/beer/profile/2506/37622/,Export,2506,Privatbrauerei Hoepfner,2,3.41
+294,4.80,183800,https://www.beeradvocate.com/beer/profile/3796/183800/,Thusnelda Bier,3796,Privatbrauerei Strate Detmold,2,2.64
+295,5.40,123648,https://www.beeradvocate.com/beer/profile/7333/123648/,Schloss Export,7333,Darguner Brauerei GmbH,1,1.91
+296, ? ,62209,https://www.beeradvocate.com/beer/profile/5773/62209/,Enzensteiner Vetus Specialis Emmer Starkbier,5773,Brauerei Enzensteiner,1,4.09
+297,5.20,221445,https://www.beeradvocate.com/beer/profile/4680/221445/,Wieninger Bräufaß,4680,Privatbrauerei M.C. Wieninger,1,2.79
+298,5.25,26376,https://www.beeradvocate.com/beer/profile/11936/26376/,El Mirador,11936,Sierra Madre Brewing Co.,1,3.5
+299,5.25,33804,https://www.beeradvocate.com/beer/profile/12613/33804/,El Mirador,12613,Sierra Madre Brewing Co.,1,4.17
+300,5.20,225038,https://www.beeradvocate.com/beer/profile/9704/225038/,Dortmunder Mifflin,9704,Emmett's Brewing Company,1,3.68
+301,4.00,239377,https://www.beeradvocate.com/beer/profile/713/239377/,Yanjing Party,713,Beijing Yanjing Beer Group Corporation,1,3.55
+302,4.00,44305,https://www.beeradvocate.com/beer/profile/2915/44305/,Done Did It Dortmunder,2915,Gruhlke's Microbrewery,1,3.83
+303,5.20,149268,https://www.beeradvocate.com/beer/profile/6045/149268/,Danny Dortmunder,6045,Iron Hill Brewery & Restaurant,1,3.52
+304, ? ,18708,https://www.beeradvocate.com/beer/profile/2499/18708/,Häffner Bräu Export,2499,Hotel-Gasthof Häffner Bräu,1,3.6
+305,5.00,85524,https://www.beeradvocate.com/beer/profile/4365/85524/,LageRhythm,4365,Falling Sky Brewing,1,3.48
+306,5.70,149782,https://www.beeradvocate.com/beer/profile/7101/149782/,Dortmunder,7101,Marzoni's Brick Oven & Brewing Company,1,4.07
+307,4.90,191255,https://www.beeradvocate.com/beer/profile/34642/191255/,Dingslebener Landbier,34642,Dingslebener Privatbrauerei Metzler,1,3.37
+308,5.20,73752,https://www.beeradvocate.com/beer/profile/13614/73752/,Neder Faßbier,13614,Brauerei Neder,1,3.76
+309,5.10,71450,https://www.beeradvocate.com/beer/profile/12511/71450/,Stände Export,12511,Störtebeker Braumanufaktur,1,2.83
+310,4.50,180763,https://www.beeradvocate.com/beer/profile/4102/180763/,"Lapin Kulta Luomu 4,5 %",4102,Hartwall Helsinki Panimo,1,2.89
+311,5.40,254239,https://www.beeradvocate.com/beer/profile/29021/254239/,Screem For Me Dortmunder,29021,Neshaminy Creek Brewing Company,1,4.11
+312,5.30,214816,https://www.beeradvocate.com/beer/profile/1401/214816/,Berliner Bürgerbräu Premium Rotkehlchen,1401,Berliner Kindl Brauerei,1,3.17
+313,5.00,320039,https://www.beeradvocate.com/beer/profile/44980/320039/,Golden Nites,44980,Lovelady Brewing,1,3.41
+314,5.00,26408,https://www.beeradvocate.com/beer/profile/12354/26408/,Posthalter Lager,12354,Brauerei Hebendanz,1,2.72
+315,4.70,82730,https://www.beeradvocate.com/beer/profile/20595/82730/,Karmeliter Klostertrunk,20595,Karmeliter Bräu,1,2.4
+316,5.10,32300,https://www.beeradvocate.com/beer/profile/5958/32300/,Reindler Gold (Export),5958,Brauereigaststätte Reindler GmbH & Co. KG,1,3.74
+317,4.80,66099,https://www.beeradvocate.com/beer/profile/16428/66099/,Hereforder Landbier,16428,Herforder Brauerei GmbH & Co. KG,1,4.22
+318, ? ,73780,https://www.beeradvocate.com/beer/profile/16864/73780/,Schwarzes Kreuz Vollbier,16864,Brauerei Schwarzes Kreuz,1,4
+319, ? ,217140,https://www.beeradvocate.com/beer/profile/2891/217140/,Würenbacher Lager,2891,Karlsberg Brauerei,1,2.84
+320,5.00,316724,https://www.beeradvocate.com/beer/profile/49577/316724/,Beswick Lager,49577,Market Brewing Company,1,3.5
+321,5.40,274493,https://www.beeradvocate.com/beer/profile/42756/274493/,Bees & Nightcrawlers,42756,Corridor Brewery & Provisions,1,4.08
+322,5.80,287809,https://www.beeradvocate.com/beer/profile/33428/287809/,Highway 39,33428,Alosta Brewing Co.,1,3.6
+323,5.10,95297,https://www.beeradvocate.com/beer/profile/6821/95297/,Grüß De Gott Alois,6821,Kaiser Brauerei W. Kumpf GmbH & Co.,1,3.5
+324,4.80,307011,https://www.beeradvocate.com/beer/profile/18388/307011/,Backer O Mineirão È Nosso,18388,Cervejaria Três Lobos Ltda.,1,3.08
+325,5.50,294214,https://www.beeradvocate.com/beer/profile/49828/294214/,Eulenspiegel,49828,Richie’s Original,1,3.25
+326,4.80,179270,https://www.beeradvocate.com/beer/profile/35810/179270/,'s Antla Schluck,35810,Antlabräu,1,3.96
+327,5.70,183375,https://www.beeradvocate.com/beer/profile/41589/183375/,Franzmann’s No. 1,41589,Hop's Brewing GmbH,1,3.66
+328, ? ,118351,https://www.beeradvocate.com/beer/profile/2506/118351/,Carls,2506,Privatbrauerei Hoepfner,1,3.5
+329,4.70,56403,https://www.beeradvocate.com/beer/profile/2554/56403/,Hit The Toad,2554,Matso's Broome Brewery,1,3.5
+330,5.40,82517,https://www.beeradvocate.com/beer/profile/6820/82517/,Sudhaus Export,6820,Sudhaus Hausbrauerei GmbH,1,3.06
+331,5.30,110935,https://www.beeradvocate.com/beer/profile/23741/110935/,Prost! Export,23741,Frankfurter Brauhaus GmbH,1,3.54
+332,5.00,75100,https://www.beeradvocate.com/beer/profile/27205/75100/,Golden Export,27205,Gordon Biersch Brewery & Restaurant,1,2.75
+333,5.10,52572,https://www.beeradvocate.com/beer/profile/3340/52572/,Urtyp Export,3340,Dinkelacker-Schwabenbraeu AG,1,3.3
+334,4.70,72542,https://www.beeradvocate.com/beer/profile/5927/72542/,Krausen Bügel Lager Hell ***DUPE***,5927,Brauerei Kraus,1,3.3
+335,5.30,66657,https://www.beeradvocate.com/beer/profile/6613/66657/,Glaabsbräu Export,6613,Privatbrauerei Glaab,1,3
+336,5.80,181606,https://www.beeradvocate.com/beer/profile/32910/181606/,Dortmunder Export,32910,Station 26 Brewing Co.,1,3.81
+337,5.50,302443,https://www.beeradvocate.com/beer/profile/15435/302443/,Farm Table: Dortmunder,15435,Beau's All Natural Brewing Company,1,3
+338,5.20,279660,https://www.beeradvocate.com/beer/profile/2706/279660/,Park Export Premium,2706,Parkbrauerei / Park & Bellheimer AG,1,3.69
+339,4.90,96367,https://www.beeradvocate.com/beer/profile/6661/96367/,Whisky Lager,6661,Giessener Brauhaus,1,3.03
+340,5.60,250224,https://www.beeradvocate.com/beer/profile/6844/250224/,SL6W BEER Erste Liebe,6844,Welde Bräu GmbH & Co. KG,1,4
+341,4.50,122480,https://www.beeradvocate.com/beer/profile/7018/122480/,Stadtparkbräu Original,7018,Brauerei zum Stadtpark,1,3.53
+342,5.50,221557,https://www.beeradvocate.com/beer/profile/17292/221557/,Lager,17292,Cervecería Bayernbräu de México,1,2.9
+343, ? ,60536,https://www.beeradvocate.com/beer/profile/5773/60536/,Enzensteiner Landbier,5773,Brauerei Enzensteiner,1,3.46
+344,5.50,300665,https://www.beeradvocate.com/beer/profile/31809/300665/,Eight Lake Dortmunder Lager,31809,Tribute Brewing Co.,1,3.69
+345,5.50,176250,https://www.beeradvocate.com/beer/profile/40236/176250/,Southerleigh Gold Export Lager,40236,Southerleigh Fine Food & Brewery,1,3.69
+346,5.20,339581,https://www.beeradvocate.com/beer/profile/32552/339581/,Madrid Lager Sin Gluten,32552,Cervezas La Virgen,1,2.79
+347,5.00,142210,https://www.beeradvocate.com/beer/profile/35884/142210/,Golden Export,35884,Gordon Biersch Brewery Restaurant,1,3.37
+348,5.30,247170,https://www.beeradvocate.com/beer/profile/13342/247170/,Krafto Alus - Ne 8,13342,Butautu Dvaro Bravoras / UAB Fulgor,1,4
+349,5.00,48773,https://www.beeradvocate.com/beer/profile/9771/48773/,Finest Lager,9771,Harringtons Brewery,1,3.77
+350,4.80,180358,https://www.beeradvocate.com/beer/profile/5798/180358/,Kauzen Helles Landbier,5798,Kauzen Bräu,1,2.47
+351,5.20,164999,https://www.beeradvocate.com/beer/profile/6807/164999/,Distelhäuser Export,6807,Distelhäuser Brauerei,1,3.75
+352,5.20,61575,https://www.beeradvocate.com/beer/profile/7607/61575/,Sternburg Urtyp,7607,Leipziger Brauhaus zu Reudnitz GmbH,1,3.37
+353,5.20,86163,https://www.beeradvocate.com/beer/profile/620/86163/,Sutenbier Allgauer Bierspezialitat,620,Der HirschBrau/Privatbrauerei Höss,1,3.17
+354,6.10,318101,https://www.beeradvocate.com/beer/profile/47184/318101/,Mirror Twin / Blue Stallion Thundermunder,47184,Mirror Twin Brewing,1,3.73
+355,5.50,256662,https://www.beeradvocate.com/beer/profile/7628/256662/,Vormann Export,7628,Brauerei Vormann,1,3.3
+356,5.20,91800,https://www.beeradvocate.com/beer/profile/5823/91800/,Export Hell,5823,Kapplerbräu,1,3.79
+357,5.40,301978,https://www.beeradvocate.com/beer/profile/3105/301978/,Jager Spezial,3105,Schönbuch Brauhaus & Biergarten,1,4.05
+358,4.80,226716,https://www.beeradvocate.com/beer/profile/129/226716/,Hürner Urbräu Hell,129,Brauerei Tucher Brau,1,3.69
+359,4.80,309660,https://www.beeradvocate.com/beer/profile/40027/309660/,De Poes Export,40027,Brouwerij de Poes,1,2.91
+360,5.10,58783,https://www.beeradvocate.com/beer/profile/6731/58783/,Palmbräu Export,6731,Palmbräu Zorn Söhne KG,1,2.89
+361,5.30,61600,https://www.beeradvocate.com/beer/profile/6627/61600/,Schonberger Classic Export,6627,Pfungstädter Brauerei,1,3.5
+362,5.20,71589,https://www.beeradvocate.com/beer/profile/7333/71589/,Mecklenburger Export,7333,Darguner Brauerei GmbH,1,3.43
+363,5.00,246949,https://www.beeradvocate.com/beer/profile/22977/246949/,Lilla Pubens Lager,22977,Ängöl,1,3.32
+364,5.20,74152,https://www.beeradvocate.com/beer/profile/961/74152/,Schmucker Privat Export,961,Privat Brauerei Schmucker Ober-Mossau KG,1,2.8
+365,5.10,94120,https://www.beeradvocate.com/beer/profile/16422/94120/,Germania Export,16422,Frankenthaler Brauhaus,1,2.02
+366,6.40,295082,https://www.beeradvocate.com/beer/profile/45869/295082/,Golden Eye Dortmunder Export Lager,45869,Evil Horse Brewing Company,1,3.38
+367,5.40,71853,https://www.beeradvocate.com/beer/profile/2222/71853/,Bürgerbräu Bamberg Export,2222,Kaiserdom Privatbrauerei Bamberg,1,3.03
+368,5.10,314541,https://www.beeradvocate.com/beer/profile/44640/314541/,Come to the Dort Side,44640,Quarter Celtic Brewpub,1,4.25
+369,5.80,101553,https://www.beeradvocate.com/beer/profile/16963/101553/,Thunder From Dortmunder,16963,Marble Brewery,1,3
+370,4.90,178353,https://www.beeradvocate.com/beer/profile/230/178353/,Dortmunder,230,Barrington Brewery & Restaurant / Berkshire Mountain Brewery,1,3.52
+371,4.30,267442,https://www.beeradvocate.com/beer/profile/44573/267442/,Dortmunder Gold Top,44573,Mother Stewart’s Brewing Company,1,3
+372,5.90,144306,https://www.beeradvocate.com/beer/profile/19544/144306/,North Olmsted Bicentennial Lager,19544,Fat Head's Brewery & Saloon,1,3.75
+373,5.20,68540,https://www.beeradvocate.com/beer/profile/5848/68540/,Berg Gold Export,5848,Brauerei Mittenwald,1,3.65
+374,5.10,220097,https://www.beeradvocate.com/beer/profile/2891/220097/,Fass Roller,2891,Karlsberg Brauerei,1,2.62
+375,4.50,142274,https://www.beeradvocate.com/beer/profile/37178/142274/,Garden Bräu Blondy,37178,Beer Garden Inn,1,3.75
+376,5.00,97735,https://www.beeradvocate.com/beer/profile/29370/97735/,Dortmunder,29370,Get Well,1,3.76
+377,5.20,256713,https://www.beeradvocate.com/beer/profile/6615/256713/,Hessisches Löwenbier Schorsch's Haustrunk,6615,Brauhaus Knallhütte/Hütt Brauerei Bettenhäuser GmbH & Co. KG,1,3
+378,5.50,302541,https://www.beeradvocate.com/beer/profile/33566/302541/,Finally,33566,Kinnegar Brewing,1,3.6
+379,4.80,46029,https://www.beeradvocate.com/beer/profile/14079/46029/,Innstadt Export Hell-Kristall,14079,Ilzer Sörgyar,1,3.04
+380,5.30,188366,https://www.beeradvocate.com/beer/profile/8/188366/,The Dampf’d,8,Widmer Brothers Brewing Company,1,3.77
+381,5.40,185039,https://www.beeradvocate.com/beer/profile/41875/185039/,Spezialbier,41875,Pustertaler Frieheit,1,4
+382, ? ,96976,https://www.beeradvocate.com/beer/profile/29314/96976/,Dortmunder,29314,Big Rig Brewery,1,2.17
+383,4.80,334805,https://www.beeradvocate.com/beer/profile/49615/334805/,Otsukaresama,49615,Godspeed Brewery,1,3.73
+384,5.40,272855,https://www.beeradvocate.com/beer/profile/6016/272855/,Schädelschbrengger Export,6016,Franken Bräu Lorenz Bauer GmbH & Co. KG,1,3.92
+385,5.60,82391,https://www.beeradvocate.com/beer/profile/481/82391/,Stuttgarter Hofbräu Export,481,Stuttgarter Hofbräu AG,1,3.38
+386,5.50,29404,https://www.beeradvocate.com/beer/profile/13529/29404/,Stallhagen Export,13529,Stallhagens Bryggeri Ab,1,2.75
+387,6.80,191452,https://www.beeradvocate.com/beer/profile/1177/191452/,Sun Honey Lager,1177,Minneapolis Town Hall Brewery,1,3.75
+388,5.60,318944,https://www.beeradvocate.com/beer/profile/33589/318944/,Dortmunder Export,33589,Columbia Kettle Works,1,4.05
+389,5.20,224993,https://www.beeradvocate.com/beer/profile/5838/224993/,Hauf Export,5838,Brauerei Hauf GmbH,1,4.03
+390,5.20,226533,https://www.beeradvocate.com/beer/profile/2478/226533/,Das Zünftige Ruhmannsfeldener Bier,2478,Hösl & Co. Brauhaus GmbH,1,3.07
+391,5.20,88550,https://www.beeradvocate.com/beer/profile/16428/88550/,Herforder Export,16428,Herforder Brauerei GmbH & Co. KG,1,2.58
+392,4.90,226534,https://www.beeradvocate.com/beer/profile/2478/226534/,Edelhell,2478,Hösl & Co. Brauhaus GmbH,1,2.72
+393,5.00,124134,https://www.beeradvocate.com/beer/profile/4117/124134/,Innviertler Hell,4117,Brauerei Raschhofer,1,3.92
+394,5.50,330983,https://www.beeradvocate.com/beer/profile/48531/330983/,Go For Gold,48531,Portner Brewhouse,1,3.74
+395,5.10,224231,https://www.beeradvocate.com/beer/profile/2635/224231/,Posthorn Gold,2635,Brauerei Gasthof Hotel Post,1,3.16
+396,5.30,39911,https://www.beeradvocate.com/beer/profile/6781/39911/,Gaildorfer Spezial,6781,Brauerei Eugen Häberlen,1,2.88
+397,5.00,311273,https://www.beeradvocate.com/beer/profile/11757/311273/,Walrave Export,11757,Brouwerij Walrave,1,1.78
+398,5.30,84970,https://www.beeradvocate.com/beer/profile/6627/84970/,Köthener Export,6627,Pfungstädter Brauerei,1,3.5
+399,5.00,234986,https://www.beeradvocate.com/beer/profile/44726/234986/,Heller Wahnsinn,44726,Hopper Bräu GmbH & Co.KG,1,3.14
+400,5.20,87788,https://www.beeradvocate.com/beer/profile/21242/87788/,Steinfels Lager,21242,Steinfels,1,2.36
+401,5.40,224749,https://www.beeradvocate.com/beer/profile/45096/224749/,Bravoro Rinktinis,45096,Kalnapilio – Tauro Grupė,1,3.5
+402,5.00,46574,https://www.beeradvocate.com/beer/profile/18133/46574/,Cheteau Kamiya Braumeister,18133,Chateau Kamiya Hachinohe,1,4.2
+403,5.20,231407,https://www.beeradvocate.com/beer/profile/1877/231407/,Herren Premium Export,1877,Berliner Kindl-Schultheiss-Brauerei GmbH,1,3.08
+404,5.00,111343,https://www.beeradvocate.com/beer/profile/726/111343/,DAB Cruda,726,Dortmunder Actien Brauerei / DAB,1,2.56
+405,5.30,38130,https://www.beeradvocate.com/beer/profile/7606/38130/,Landskron Export - Ein Schlesier,7606,Landskron Brauerei,1,2.57
+406,5.30,270840,https://www.beeradvocate.com/beer/profile/33706/270840/,Forged Gold,33706,Forge Brew Works,1,3.99
+407,5.70,296186,https://www.beeradvocate.com/beer/profile/20783/296186/,Dorto,20783,Birų Alus,1,3.1
+408,5.10,131835,https://www.beeradvocate.com/beer/profile/29745/131835/,Jimmy's Dort,29745,Cedar Creek Brewery,1,4
+409,5.30,284670,https://www.beeradvocate.com/beer/profile/39879/284670/,27 Lager,39879,Taft's Ale House,1,3.68
+410,5.10,84991,https://www.beeradvocate.com/beer/profile/24836/84991/,Dortmunder,24836,Tequesta Brewing Company,1,3.28
+411,6.00,311039,https://www.beeradvocate.com/beer/profile/96/311039/,Export Lager,96,Magic Hat Brewing Company,1,3.52
+412,4.40,223237,https://www.beeradvocate.com/beer/profile/44994/223237/,Hayseed Helles Lager,44994,Boiler Brewing Co.,0,0
+413, ? ,23823,https://www.beeradvocate.com/beer/profile/3196/23823/,"""Tank No. 4"" Lager",3196,Flat Branch Pub & Brewery,0,0
+414,4.90,203284,https://www.beeradvocate.com/beer/profile/38262/203284/,Downhill Dortmunder,38262,Three Forks Bakery & Brewing Co.,0,0
+415,5.00,211225,https://www.beeradvocate.com/beer/profile/43987/211225/,Zeus Export Lager,43987,River Mile 38 Brewing Co.,0,0
+416,5.20,233753,https://www.beeradvocate.com/beer/profile/6813/233753/,Hirsch Goldstoff,6813,Hirschbrauerei GmbH & Co. KG,0,0
+417,5.40,168730,https://www.beeradvocate.com/beer/profile/5142/168730/,Oettinger Export,5142,Oettinger Brauerei,0,0
+418,5.00,300072,https://www.beeradvocate.com/beer/profile/50203/300072/,Butcher Holler,50203,Gravely Brewing Co.,0,0
+419, ? ,60463,https://www.beeradvocate.com/beer/profile/1354/60463/,Sonnenbräu Sonnengold,1354,Brauerei Sonnenbräu,0,0
+420,5.60,294971,https://www.beeradvocate.com/beer/profile/2743/294971/,California Export Lager,2743,Green Flash Brewing Co.,0,0
+421,4.80,159036,https://www.beeradvocate.com/beer/profile/39036/159036/,Volt,39036,Volta Bräu,0,0
+422, ? ,248893,https://www.beeradvocate.com/beer/profile/36865/248893/,Provelo Export Lager,36865,Zwei Brüder Brewing,0,0
+423,5.50,102474,https://www.beeradvocate.com/beer/profile/10871/102474/,Mauritius Zwickauer Urtyp Export,10871,Mauritius Brauerei,0,0
+424,5.20,219732,https://www.beeradvocate.com/beer/profile/43086/219732/,Pedal Haus Dortmunder,43086,Pedal Haus Brewery,0,0
+425,5.20,234584,https://www.beeradvocate.com/beer/profile/42532/234584/,Tenczynek Lager Dortmundzki,42532,Browar Tenczynek,0,0
+426,4.50,195163,https://www.beeradvocate.com/beer/profile/33082/195163/,Splash,33082,Hopfanatic Brewery,0,0
+427,4.80,106332,https://www.beeradvocate.com/beer/profile/6591/106332/,Alt-Giessener Helles,6591,Gasthausbrauerei Alt Giessen,0,0
+428,4.80,59229,https://www.beeradvocate.com/beer/profile/7015/59229/,One 11 Export Lager,7015,Babe's Bar-B-Que And Brewery,0,0
+429,5.20,67935,https://www.beeradvocate.com/beer/profile/6847/67935/,Giengener Spezial,6847,Schlüsselbräu Privatbrauerei Helmut Bosch und Schlüsselkeller,0,0
+430,6.50,187743,https://www.beeradvocate.com/beer/profile/36244/187743/,L’Intermédiaire,36244,Microbrasserie Moulin 7,0,0
+431,5.50,175458,https://www.beeradvocate.com/beer/profile/2832/175458/,Rosenheimer Export,2832,AuerBräu AG,0,0
+432,5.70,285798,https://www.beeradvocate.com/beer/profile/1792/285798/,Keesmann Gold,1792,Brauerei Keesmann,0,0
+433,5.40,102503,https://www.beeradvocate.com/beer/profile/7589/102503/,Einsiedler Sächsisch Kristall,7589,Einsiedler Brauhaus GmbH,0,0
+434,5.00,106604,https://www.beeradvocate.com/beer/profile/24432/106604/,Specht Export,24432,Privatbrauerei Specht,0,0
+435,5.50,175469,https://www.beeradvocate.com/beer/profile/4453/175469/,Export,4453,Memminger Brauerei,0,0
+436,4.80,106609,https://www.beeradvocate.com/beer/profile/7589/106609/,Klausner Export,7589,Einsiedler Brauhaus GmbH,0,0
+437,4.60,104052,https://www.beeradvocate.com/beer/profile/7318/104052/,Waldhaus Rotbier,7318,Waldhaus,0,0
+438,4.90,106617,https://www.beeradvocate.com/beer/profile/1161/106617/,Fiedler Export,1161,Privatbrauerei Christian Fiedler,0,0
+439,5.50,110969,https://www.beeradvocate.com/beer/profile/1877/110969/,Berliner Kindl Export,1877,Berliner Kindl-Schultheiss-Brauerei GmbH,0,0
+440,5.10,118652,https://www.beeradvocate.com/beer/profile/7319/118652/,Braugold 1888,7319,Braugold Brauerei Riebeck GmbH & Co. KG,0,0
+441,5.40,328829,https://www.beeradvocate.com/beer/profile/50263/328829/,BioStadt Bier,50263,Union Brauerei Bremen,0,0
+442,5.50,312446,https://www.beeradvocate.com/beer/profile/37452/312446/,Shore Drive Lager,37452,Pleasure House Brewing,0,0
+443, ? ,11135,https://www.beeradvocate.com/beer/profile/3341/11135/,Bellheimer Edel Export,3341,Park & Bellheimer AG,0,0
+444,4.40,205697,https://www.beeradvocate.com/beer/profile/1742/205697/,Vladimirskoye Eksportnoye Svyetloye,1742,Vladimirskaya Pivovarnya,0,0
+445,5.40,214147,https://www.beeradvocate.com/beer/profile/24600/214147/,You're Such A Dort,24600,Figueroa Mountain Brewing Co.,0,0
+446,5.50,175493,https://www.beeradvocate.com/beer/profile/2432/175493/,Ettaler Benediktiner Trunk,2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,0,0
+447,5.50,334727,https://www.beeradvocate.com/beer/profile/40035/334727/,Dortmunder,40035,Lupulin Brewing,0,0
+448,5.50,128661,https://www.beeradvocate.com/beer/profile/7333/128661/,Burg Premium Lager,7333,Darguner Brauerei GmbH,0,0
+449,5.40,163735,https://www.beeradvocate.com/beer/profile/30232/163735/,Groffelstein,30232,The Tap Brewery,0,0
+450,4.90,54679,https://www.beeradvocate.com/beer/profile/6037/54679/,Günther Bräu Edles Lagerbier,6037,Günther Bräu,0,0
+451, ? ,60576,https://www.beeradvocate.com/beer/profile/6008/60576/,Eschenbacher Export,6008,Eschenbacher Wagner-Bräu Privatbrauerei GmbH,0,0
+452,5.50,105890,https://www.beeradvocate.com/beer/profile/6770/105890/,Spezial-Export,6770,Adler Bräu,0,0
+453,4.60,164773,https://www.beeradvocate.com/beer/profile/16052/164773/,Myunkhenskoe,16052,Steinbrau Pub,0,0
+454, ? ,60581,https://www.beeradvocate.com/beer/profile/6008/60581/,Eschenbacher Hausbräu,6008,Eschenbacher Wagner-Bräu Privatbrauerei GmbH,0,0
+455,5.50,337576,https://www.beeradvocate.com/beer/profile/6160/337576/,Hirschauer Spezial,6160,Schlossbrauerei Hirschau Franz Dorfner,0,0
+456,5.40,341417,https://www.beeradvocate.com/beer/profile/41121/341417/,Phoenix Down,41121,Wren House Brewing Co,0,0
+457,5.20,315826,https://www.beeradvocate.com/beer/profile/6214/315826/,Grandauer Urstoff Export,6214,Brauerei Grandauer - Wildbräu Grafing vor München,0,0
+458,4.80,166835,https://www.beeradvocate.com/beer/profile/7313/166835/,Apoldaer Export,7313,Vereinsbrauerei Apolda GmbH,0,0
+459,5.20,60344,https://www.beeradvocate.com/beer/profile/23285/60344/,Karlsruher Naturtrüb,23285,Brauerei Moninger GmbH,0,0
+460,4.90,182713,https://www.beeradvocate.com/beer/profile/16829/182713/,Aktien Winter Gold,16829,Bayreuther Bierbrauerei,0,0
+461,4.80,148155,https://www.beeradvocate.com/beer/profile/7326/148155/,Rhöner Edel Export Spezial,7326,Rhoenbrauerei Dittmar,0,0
+462,5.00,298941,https://www.beeradvocate.com/beer/profile/39016/298941/,Westerås Oktoberfest,39016,Coppersmith’s AB,0,0
+463,5.60,55485,https://www.beeradvocate.com/beer/profile/21680/55485/,Fynsk Sommerbryg,21680,Stensbogaard Bryghus,0,0
+464, ? ,193725,https://www.beeradvocate.com/beer/profile/21517/193725/,Mother Lager,21517,Denali Brewing Company / Twister Creek Restaurant,0,0
+465, ? ,190398,https://www.beeradvocate.com/beer/profile/23326/190398/,Doehnelles,23326,The Moon Under Water Pub & Brewery,0,0
+466,5.30,75722,https://www.beeradvocate.com/beer/profile/377/75722/,Export Lager (Orso Lager),377,Glacier Brewhouse,0,0
+467, ? ,164812,https://www.beeradvocate.com/beer/profile/9362/164812/,Pale Filtered,9362,Chinggis Beer Co.,0,0
+468,4.70,205779,https://www.beeradvocate.com/beer/profile/13412/205779/,Maybeer Export,13412,Syktyvkarpivo,0,0
+469,5.50,204246,https://www.beeradvocate.com/beer/profile/43432/204246/,Bernstein Dortmunder,43432,Schwarz Kaiser Brewery,0,0
+470,5.30,185816,https://www.beeradvocate.com/beer/profile/31586/185816/,Brault,31586,Benelux Brasserie Artisanale,0,0
+471,6.70,194267,https://www.beeradvocate.com/beer/profile/30450/194267/,Hop Bop,30450,Gravity Brewing,0,0
+472,5.10,335327,https://www.beeradvocate.com/beer/profile/52259/335327/,FRANKEN BRÄU Spezial,52259,Franken Bräu Riedbach Krauß,0,0
+473,5.50,176865,https://www.beeradvocate.com/beer/profile/4491/176865/,Kupfer Export,4491,Brauhaus Zils,0,0
+474,4.90,335334,https://www.beeradvocate.com/beer/profile/52259/335334/,FRANKEN BRÄU 1807 Original,52259,Franken Bräu Riedbach Krauß,0,0
+475,5.50,121065,https://www.beeradvocate.com/beer/profile/6020/121065/,Förster Gold,6020,Gampertbräu Gebr. Gampert GmbH & Co. KG,0,0
+476,5.50,233201,https://www.beeradvocate.com/beer/profile/28561/233201/,Snowmelt Dortmunder Lager,28561,Avalanche Café,0,0
+477,6.30,204275,https://www.beeradvocate.com/beer/profile/28559/204275/,Ernte Dankfest,28559,Great Storm Brewing Co.,0,0
+478,5.00,224247,https://www.beeradvocate.com/beer/profile/45054/224247/,Grand Ols Lager,45054,OLs Brauhaus,0,0
+479,5.00,233723,https://www.beeradvocate.com/beer/profile/6768/233723/,Zwiefalter Pilsner Hell,6768,Zwiefalter Klosterbräu OHG,0,0
+480,5.90,338172,https://www.beeradvocate.com/beer/profile/52367/338172/,Royal Export,52367,Hofbräuhaus St. Louis-Belleville,0,0
+481, ? ,233724,https://www.beeradvocate.com/beer/profile/6768/233724/,Zwiefalter Pilsner Hell Alkoholfrei,6768,Zwiefalter Klosterbräu OHG,0,0
+482,5.20,191228,https://www.beeradvocate.com/beer/profile/30945/191228/,Export,30945,Privatbrauerei Streck-Bräu E.K.,0,0

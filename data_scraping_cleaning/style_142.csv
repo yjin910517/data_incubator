@@ -1,0 +1,876 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,10.00,1708,https://www.beeradvocate.com/beer/profile/259/1708/,St. Bernardus Abt 12,259,Brouwerij St. Bernardus NV,"9,734",4.46
+1,11.30,645,https://www.beeradvocate.com/beer/profile/207/645/,Trappistes Rochefort 10,207,Brasserie de Rochefort,"9,445",4.5
+2,9.70,3457,https://www.beeradvocate.com/beer/profile/42/3457/,Three Philosophers,42,Brewery Ommegang,"6,538",4.15
+3,10.20,1545,https://www.beeradvocate.com/beer/profile/313/1545/,Trappist Westvleteren 12 (XII),313,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),"6,499",4.6
+4,10.20,39621,https://www.beeradvocate.com/beer/profile/423/39621/,The Sixth Glass Quadrupel Ale,423,Boulevard Brewing Co.,"2,962",4.16
+5,12.50,63249,https://www.beeradvocate.com/beer/profile/2210/63249/,Stickee Monkee,2210,Firestone Walker Brewing Co.,"2,697",4.47
+6,11.80,43670,https://www.beeradvocate.com/beer/profile/423/43670/,Bourbon Barrel Quad Barrel-Aged Ale (BBQ),423,Boulevard Brewing Co.,"2,570",4.26
+7,10.00,34306,https://www.beeradvocate.com/beer/profile/15237/34306/,Pannepot,15237,De Struise Brouwers,"2,411",4.33
+8,10.00,1402,https://www.beeradvocate.com/beer/profile/184/1402/,La Trappe Quadrupel (Koningshoeven / Dominus),184,Bierbrouwerij De Koningshoeven B.V.,"2,388",4.17
+9,10.00,39286,https://www.beeradvocate.com/beer/profile/259/39286/,St. Bernardus Christmas Ale,259,Brouwerij St. Bernardus NV,"2,286",4.23
+10,10.00,2014,https://www.beeradvocate.com/beer/profile/30/2014/,The Reverend,30,Avery Brewing Company,"1,923",3.87
+11,12.00,8998,https://www.beeradvocate.com/beer/profile/345/8998/,V-Twelve,345,Victory Brewing Company - Downingtown,"1,378",4.01
+12,10.70,71973,https://www.beeradvocate.com/beer/profile/48/71973/,Gulden Draak 9000 Quadruple,48,Brouwerij Van Steenberge N.V.,"1,304",4.14
+13,10.00,34312,https://www.beeradvocate.com/beer/profile/15237/34312/,Pannepot Reserva,15237,De Struise Brouwers,"1,170",4.31
+14,11.80,1635,https://www.beeradvocate.com/beer/profile/392/1635/,Quad,392,Weyerbacher Brewing Co.,"1,170",3.87
+15,10.50,34415,https://www.beeradvocate.com/beer/profile/18149/34415/,Judgment Day,18149,The Lost Abbey,"1,144",3.92
+16,10.20,89540,https://www.beeradvocate.com/beer/profile/140/89540/,Ovila Belgian-Style Abbey Quad: Ale Brewed With Plums,140,Sierra Nevada Brewing Co.,"1,139",3.99
+17,10.00,16655,https://www.beeradvocate.com/beer/profile/4/16655/,Four,4,Allagash Brewing Company,997,4.08
+18,11.80,35774,https://www.beeradvocate.com/beer/profile/392/35774/,Blasphemy,392,Weyerbacher Brewing Co.,979,3.95
+19,11.00,1711,https://www.beeradvocate.com/beer/profile/212/1711/,Kasteel Donker,212,Brouwerij Van Honsebrouck N.V.,920,4.12
+20,11.00,71654,https://www.beeradvocate.com/beer/profile/63/71654/,The Stoic,63,Deschutes Brewery,810,3.87
+21,13.70,84414,https://www.beeradvocate.com/beer/profile/18149/84414/,Box Set Track #8 - Number Of The Beast,18149,The Lost Abbey,798,4.34
+22,11.00,63185,https://www.beeradvocate.com/beer/profile/268/63185/,Straffe Hendrik Quadrupel,268,Huisbrouwerij De Halve Maan,797,4.16
+23,10.50,15760,https://www.beeradvocate.com/beer/profile/1141/15760/,Rigor Mortis Abt,1141,Brasserie Dieu du Ciel!,777,3.97
+24,10.00,41690,https://www.beeradvocate.com/beer/profile/15237/41690/,Pannepot Grand Reserva,15237,De Struise Brouwers,652,4.3
+25,12.50,46970,https://www.beeradvocate.com/beer/profile/141/46970/,Smuttynose Gravitation (Big Beer Series),141,Smuttynose Brewing Company,613,3.67
+26,10.00,53946,https://www.beeradvocate.com/beer/profile/184/53946/,La Trappe Quadrupel (Oak Aged),184,Bierbrouwerij De Koningshoeven B.V.,593,4.29
+27,11.50,15274,https://www.beeradvocate.com/beer/profile/1339/15274/,Urthel Samaranth,1339,De Leyerth Brouwerijen (Urthel),572,4.04
+28,10.00,89936,https://www.beeradvocate.com/beer/profile/192/89936/,Cascara Quad,192,New Belgium Brewing,520,3.64
+29,10.20,91144,https://www.beeradvocate.com/beer/profile/35/91144/,Samuel Adams Tetravis (Barrel Room Collection),35,Boston Beer Company (Samuel Adams),510,3.89
+30,12.00,6354,https://www.beeradvocate.com/beer/profile/669/6354/,Malheur 12°,669,Brouwerij De Landtsheer NV,485,4.06
+31,10.00,36198,https://www.beeradvocate.com/beer/profile/15237/36198/,Pannepøt - Old Monk's Ale,15237,De Struise Brouwers,477,4.17
+32,11.00,56272,https://www.beeradvocate.com/beer/profile/212/56272/,Kasteel Cuvée Du Chateau,212,Brouwerij Van Honsebrouck N.V.,472,4.07
+33,11.00,175025,https://www.beeradvocate.com/beer/profile/212/175025/,Kasteel Barista Chocolate Quad Belgian Ale,212,Brouwerij Van Honsebrouck N.V.,442,4.21
+34,10.50,34084,https://www.beeradvocate.com/beer/profile/826/34084/,Grand Cru,826,Brasserie de l'Abbaye du Val-Dieu,398,4.16
+35,12.00,80927,https://www.beeradvocate.com/beer/profile/26753/80927/,Bourbon Barrel Cru,26753,Hardywood Park Craft Brewery,371,4.05
+36,10.50,58905,https://www.beeradvocate.com/beer/profile/15237/58905/,St. Amatus 12,15237,De Struise Brouwers,325,4.2
+37,10.50,66218,https://www.beeradvocate.com/beer/profile/10549/66218/,Box Of Chocolate,10549,Charleville Vineyard Microbrewery,312,4.09
+38,10.00,8633,https://www.beeradvocate.com/beer/profile/1853/8633/,Ichor,1853,Sly Fox Brewing Company,277,3.85
+39,10.50,4575,https://www.beeradvocate.com/beer/profile/1628/4575/,Southampton Abbot 12,1628,Southampton Publick House,258,3.99
+40,11.80,106692,https://www.beeradvocate.com/beer/profile/24678/106692/,Wizard Burial Ground,24678,Brewery Vivant,252,4.21
+41,10.00,248025,https://www.beeradvocate.com/beer/profile/652/248025/,Brewer's Reserve Bourbon Barrel Quadruple Ale,652,Central Waters Brewing Co.,248,4.19
+42,11.00,148987,https://www.beeradvocate.com/beer/profile/259/148987/,St. Bernardus Abt 12 Oak Aged,259,Brouwerij St. Bernardus NV,235,4.35
+43,12.00,48513,https://www.beeradvocate.com/beer/profile/583/48513/,Schlafly Quadrupel,583,The Schlafly Tap Room,200,3.84
+44,11.00,84089,https://www.beeradvocate.com/beer/profile/268/84089/,Straffe Hendrik Heritage,268,Huisbrouwerij De Halve Maan,191,4.31
+45,11.00,81244,https://www.beeradvocate.com/beer/profile/15237/81244/,Rio Reserva,15237,De Struise Brouwers,190,4.19
+46,13.00,173310,https://www.beeradvocate.com/beer/profile/345/173310/,Hoppy Quad,345,Victory Brewing Company - Downingtown,182,4.01
+47,10.20,60235,https://www.beeradvocate.com/beer/profile/11031/60235/,Mooi & Meedogenloos,11031,Brouwerij De Molen,164,3.98
+48,10.70,81487,https://www.beeradvocate.com/beer/profile/28226/81487/,Apis IV,28226,Elevation Beer Co.,164,4.11
+49,10.00,73849,https://www.beeradvocate.com/beer/profile/38152/73849/,Préaris Quadrupel,38152,Vliegende Paard Brouwers,155,3.95
+50,12.00,7988,https://www.beeradvocate.com/beer/profile/322/7988/,'t Smisje BBBourgondier,322,Brouwerij Smisje,139,3.95
+51,10.00,5863,https://www.beeradvocate.com/beer/profile/530/5863/,Hertog Jan Grand Prestige,530,Arcense Stoombierbouwerij (Hertog Jan Brouwerij),137,3.95
+52,12.00,84170,https://www.beeradvocate.com/beer/profile/24803/84170/,Day Of Doom,24803,Mystic Brewery,134,3.83
+53,10.50,73795,https://www.beeradvocate.com/beer/profile/23651/73795/,Eschaton,23651,Wild Heaven Beer,133,4.09
+54,10.10,252296,https://www.beeradvocate.com/beer/profile/30/252296/,Tangerine Quad,30,Avery Brewing Company,128,3.94
+55,10.50,47900,https://www.beeradvocate.com/beer/profile/863/47900/,Mortification,863,Russian River Brewing Company,126,4.04
+56,10.00,26511,https://www.beeradvocate.com/beer/profile/3521/26511/,Lozen Boer,3521,De Proefbrouwerij (bvba Andelot),125,3.71
+57,10.20,81143,https://www.beeradvocate.com/beer/profile/357/81143/,Friar's Quad,357,New England Brewing Co.,122,3.79
+58,10.00,2150,https://www.beeradvocate.com/beer/profile/436/2150/,Grimbergen Optimo Bruno,436,Brouwerij Alken-Maes,120,3.75
+59,10.90,86269,https://www.beeradvocate.com/beer/profile/27934/86269/,Flyin' Monks,27934,Adelbert's Brewery,120,3.9
+60,9.40,88605,https://www.beeradvocate.com/beer/profile/1432/88605/,Bourbon Barrel-Aged Skipping Stone,1432,Jackie O's Pub & Brewery,117,4.18
+61,10.00,84618,https://www.beeradvocate.com/beer/profile/15237/84618/,XXX Rye Triple Ale,15237,De Struise Brouwers,112,4.13
+62,9.70,234214,https://www.beeradvocate.com/beer/profile/40927/234214/,Quadrupel Tonnellerie,40927,Bruery Terreux,112,4.01
+63,10.30,16988,https://www.beeradvocate.com/beer/profile/603/16988/,Quadzilla (Cherry Quad),603,Church Brew Works,107,3.69
+64,10.75,110880,https://www.beeradvocate.com/beer/profile/1457/110880/,Figjam,1457,Arbor Brewing Company,104,4
+65,10.00,81887,https://www.beeradvocate.com/beer/profile/23628/81887/,Mør Mør,23628,Brouwerij West,96,3.6
+66,10.00,120455,https://www.beeradvocate.com/beer/profile/32375/120455/,Quasimodo,32375,Three Taverns Craft Brewery,92,4.05
+67,9.90,169490,https://www.beeradvocate.com/beer/profile/28019/169490/,Four Legs Good,28019,Sante Adairius Rustic Ales,91,4.23
+68,9.90,149095,https://www.beeradvocate.com/beer/profile/45/149095/,Quadraceratops,45,Brooklyn Brewery,91,3.96
+69,14.00,84088,https://www.beeradvocate.com/beer/profile/6288/84088/,Cuvée de Mortagne,6288,Picobrouwerij Alvinne,87,4.14
+70,11.10,94360,https://www.beeradvocate.com/beer/profile/28226/94360/,False Summit,28226,Elevation Beer Co.,82,4.03
+71,9.50,190692,https://www.beeradvocate.com/beer/profile/24940/190692/,Paris Of The West,24940,Almanac Beer Co.,80,3.85
+72,12.00,128389,https://www.beeradvocate.com/beer/profile/32855/128389/,Batchelors Delight,32855,Lickinghole Creek Craft Brewery,78,4.21
+73,9.50,108476,https://www.beeradvocate.com/beer/profile/27403/108476/,Four Swords,27403,Deep Ellum Brewing Company,78,4.01
+74,10.00,69557,https://www.beeradvocate.com/beer/profile/514/69557/,Ongelovige Thomas,514,Jopen Bier BV Haarlem,75,4.06
+75,10.50,191843,https://www.beeradvocate.com/beer/profile/458/191843/,Black Quad,458,Real Ale Brewing Company,72,4.03
+76,11.00,98753,https://www.beeradvocate.com/beer/profile/28255/98753/,"Figaro, Figaro, Figaro, FIIIGAAARO",28255,Buffalo Bayou Brewing Co,66,3.66
+77,12.00,85711,https://www.beeradvocate.com/beer/profile/28091/85711/,Black Friday,28091,Free Will Brewing Co.,66,3.99
+78,9.60,90059,https://www.beeradvocate.com/beer/profile/28551/90059/,Quandary,28551,River North Brewery,65,3.8
+79,10.20,277409,https://www.beeradvocate.com/beer/profile/33618/277409/,Spencer Monks' Reserve Ale,33618,The Spencer Brewery,64,3.94
+80,11.00,116332,https://www.beeradvocate.com/beer/profile/28820/116332/,Lambda,28820,Bellwoods Brewery,63,4.14
+81,11.30,97604,https://www.beeradvocate.com/beer/profile/24299/97604/,Fuck Art - This Is Advertising,24299,To Øl,62,3.88
+82,11.50,170788,https://www.beeradvocate.com/beer/profile/28428/170788/,Tennessee Prinse,28428,Brewmaster Jack,61,4
+83,11.00,97312,https://www.beeradvocate.com/beer/profile/30581/97312/,Oh My Quad,30581,Wicked Weed Brewing,58,3.97
+84,8.50,248628,https://www.beeradvocate.com/beer/profile/31678/248628/,Growl,31678,Off Color Brewing,57,3.88
+85,10.00,99030,https://www.beeradvocate.com/beer/profile/24075/99030/,Ten,24075,Funkwerks,55,3.84
+86,13.00,105782,https://www.beeradvocate.com/beer/profile/28606/105782/,Charred Walls Of The Damned,28606,Burnt Hickory Brewery,54,4.35
+87,10.50,205653,https://www.beeradvocate.com/beer/profile/898/205653/,Plank IV,898,Heavy Seas Beer,54,3.94
+88,10.00,105783,https://www.beeradvocate.com/beer/profile/32375/105783/,Feest Noel,32375,Three Taverns Craft Brewery,51,4.08
+89,11.10,74148,https://www.beeradvocate.com/beer/profile/4146/74148/,Two Tortugas,4146,Karl Strauss Brewing Company,51,3.59
+90,10.00,62623,https://www.beeradvocate.com/beer/profile/22655/62623/,Hellfire Belgian Strong Ale,22655,Straight To Ale,49,3.96
+91,11.60,17594,https://www.beeradvocate.com/beer/profile/2085/17594/,Dragonmead Armageddon Grand Cru,2085,Dragonmead Microbrewery,48,4.07
+92,11.00,109838,https://www.beeradvocate.com/beer/profile/32615/109838/,Quad,32615,Une Année,47,4.12
+93,11.40,225848,https://www.beeradvocate.com/beer/profile/42/225848/,Three Philosophers - Barrel-Aged,42,Brewery Ommegang,47,4.15
+94,10.20,124564,https://www.beeradvocate.com/beer/profile/32480/124564/,Qualified,32480,Taxman Brewing Co.,47,4.09
+95,12.50,280082,https://www.beeradvocate.com/beer/profile/18149/280082/,Ex Cathedra,18149,The Lost Abbey,46,3.98
+96,11.50,153906,https://www.beeradvocate.com/beer/profile/28428/153906/,Prinsipia,28428,Brewmaster Jack,44,3.94
+97,10.50,155482,https://www.beeradvocate.com/beer/profile/30697/155482/,Company,30697,Henniker Brewing Co.,44,4.19
+98,10.50,155180,https://www.beeradvocate.com/beer/profile/27403/155180/,Four Swords Cabernet Barrel Aged,27403,Deep Ellum Brewing Company,43,4.07
+99,10.80,55402,https://www.beeradvocate.com/beer/profile/16589/55402/,Cosmic Monster,16589,Spring House Brewing Company,41,3.39
+100,8.30,89926,https://www.beeradvocate.com/beer/profile/29003/89926/,The End Of Reason,29003,Gigantic Brewing Company,40,3.7
+101,11.00,84769,https://www.beeradvocate.com/beer/profile/17281/84769/,Quadrophenia,17281,Black Market Brewing Co.,39,3.63
+102,12.00,78617,https://www.beeradvocate.com/beer/profile/583/78617/,Schlafly Bourbon Barrel Aged Quadrupel,583,The Schlafly Tap Room,38,4.28
+103,12.00,181547,https://www.beeradvocate.com/beer/profile/32855/181547/,Coconut Delight,32855,Lickinghole Creek Craft Brewery,38,4.17
+104,11.80,88991,https://www.beeradvocate.com/beer/profile/25053/88991/,Entendez Nöel,25053,Sound Brewery,38,3.75
+105,11.00,76599,https://www.beeradvocate.com/beer/profile/36757/76599/,Quadrupel,36757,DESTIHL Brewery,37,3.82
+106,10.50,119097,https://www.beeradvocate.com/beer/profile/10549/119097/,Barrel Aged Box Of Chocolate,10549,Charleville Vineyard Microbrewery,37,4.19
+107,10.00,73300,https://www.beeradvocate.com/beer/profile/15939/73300/,10 (Dieci),15939,Birrificio Brùton,35,3.68
+108,9.50,54516,https://www.beeradvocate.com/beer/profile/735/54516/,Baby Horse,735,21st Amendment Brewery,35,3.88
+109,10.00,115818,https://www.beeradvocate.com/beer/profile/38152/115818/,Préaris Grand Cru Bourbon BA,38152,Vliegende Paard Brouwers,34,3.89
+110,11.50,108409,https://www.beeradvocate.com/beer/profile/24075/108409/,Bourbon Barrel-Aged Quad,24075,Funkwerks,34,4.12
+111,11.20,205834,https://www.beeradvocate.com/beer/profile/32855/205834/,Coconut Quad,32855,Lickinghole Creek Craft Brewery,33,4.04
+112,11.00,54512,https://www.beeradvocate.com/beer/profile/18899/54512/,Wäls Quadruppel,18899,Cervejaria Wäls,33,4.08
+113,10.50,144971,https://www.beeradvocate.com/beer/profile/37552/144971/,Medusa,37552,Copperhead Brewery,32,4
+114,10.00,199000,https://www.beeradvocate.com/beer/profile/15237/199000/,XXX Rye Quad Ale,15237,De Struise Brouwers,32,4.28
+115,13.00,92309,https://www.beeradvocate.com/beer/profile/3461/92309/,The Cloak Of St Martin,3461,Brasserie De Brunehaut,32,3.55
+116,10.10,75316,https://www.beeradvocate.com/beer/profile/15237/75316/,Pannepot Special Reserve,15237,De Struise Brouwers,31,4.49
+117,8.50,121626,https://www.beeradvocate.com/beer/profile/34025/121626/,4 Mad Chefs,34025,Chaos Mountain Brewing,30,3.85
+118,10.50,20772,https://www.beeradvocate.com/beer/profile/1765/20772/,Brother Aaron's Quadrupel,1765,Abbey Brewing Co.,30,3.99
+119,12.80,256310,https://www.beeradvocate.com/beer/profile/28091/256310/,Ella,28091,Free Will Brewing Co.,30,4.13
+120,13.20,214353,https://www.beeradvocate.com/beer/profile/32855/214353/,Redneck Wedding,32855,Lickinghole Creek Craft Brewery,30,4.03
+121,9.50,155802,https://www.beeradvocate.com/beer/profile/24791/155802/,Colossal Four,24791,Port City Brewing,30,3.73
+122,13.00,256501,https://www.beeradvocate.com/beer/profile/28879/256501/,Veneration,28879,3 Sheeps Brewing,30,4.31
+123,12.20,269927,https://www.beeradvocate.com/beer/profile/31535/269927/,All I See Is Carrion,31535,Adroit Theory Brewing Company,29,3.99
+124,11.00,152588,https://www.beeradvocate.com/beer/profile/18899/152588/,Belô Ipê,18899,Cervejaria Wäls,27,3.92
+125,11.50,59683,https://www.beeradvocate.com/beer/profile/6331/59683/,De Prael Quadrupel,6331,Brouwerij De Prael,27,3.89
+126,8.50,33908,https://www.beeradvocate.com/beer/profile/10898/33908/,Munken,10898,Hantverksbryggeriet AB,27,3.79
+127,11.00,56229,https://www.beeradvocate.com/beer/profile/4707/56229/,Belgian-Style Quad,4707,Choc Beer Co. / Pete's Place,27,3.78
+128,12.90,307128,https://www.beeradvocate.com/beer/profile/26676/307128/,2190,26676,Kane Brewing Company,26,4.3
+129,9.80,89808,https://www.beeradvocate.com/beer/profile/28798/89808/,10°,28798,Selkirk Abbey Brewing Company,26,3.82
+130,11.00,71481,https://www.beeradvocate.com/beer/profile/486/71481/,Quad,486,Legend Brewing Co.,25,3.84
+131,10.70,91991,https://www.beeradvocate.com/beer/profile/31008/91991/,The Oracle,31008,White Pony Microbrewery,25,4.19
+132,10.40,311155,https://www.beeradvocate.com/beer/profile/48/311155/,Gulden Draak Barrel Aged Calvados,48,Brouwerij Van Steenberge N.V.,25,4.3
+133,9.00,53308,https://www.beeradvocate.com/beer/profile/552/53308/,'n Toeback,552,Scheldebrouwerij,24,3.79
+134,11.40,128830,https://www.beeradvocate.com/beer/profile/33476/128830/,4 Redemption Barrel Aged Quad Ale,33476,3 Daughters Brewing,24,4
+135,11.10,16985,https://www.beeradvocate.com/beer/profile/2520/16985/,XI.I,2520,Brasserie Lancelot,24,4
+136,11.70,92929,https://www.beeradvocate.com/beer/profile/31008/92929/,Teppistenbier,31008,White Pony Microbrewery,23,4.19
+137,12.00,204831,https://www.beeradvocate.com/beer/profile/396/204831/,Noël,396,AleSmith Brewing Company,23,4.16
+138,16.90,310321,https://www.beeradvocate.com/beer/profile/30/310321/,Fimbulvvinter,30,Avery Brewing Company,23,4.16
+139,11.20,172787,https://www.beeradvocate.com/beer/profile/13905/172787/,Deze Monnik Is Dronken,13905,Brasserie Dunham,23,4.04
+140,10.25,112919,https://www.beeradvocate.com/beer/profile/16846/112919/,The Prophecies,16846,Block 15 Brewery & Restaurant,22,3.97
+141,13.70,142394,https://www.beeradvocate.com/beer/profile/28551/142394/,Big City Quad,28551,River North Brewery,22,3.96
+142,8.10,54612,https://www.beeradvocate.com/beer/profile/19304/54612/,Belsnickler Ale,19304,Breaker Brewing Company,21,3.82
+143,12.00,321654,https://www.beeradvocate.com/beer/profile/9629/321654/,Obliviate,9629,Short's Brewing Company,21,3.63
+144,11.00,140301,https://www.beeradvocate.com/beer/profile/36757/140301/,St. Dekkera Reserve: Excommunié Quatre,36757,DESTIHL Brewery,20,3.87
+145,12.20,242001,https://www.beeradvocate.com/beer/profile/35374/242001/,Saxy Machismo,35374,Haw River Farmhouse Ales,20,4.31
+146,13.20,131199,https://www.beeradvocate.com/beer/profile/27917/131199/,Yodeler,27917,Strange Roots Experimental Ales,20,3.86
+147,13.00,54703,https://www.beeradvocate.com/beer/profile/6045/54703/,Oak Aged Cherry Quad,6045,Iron Hill Brewery & Restaurant,20,3.89
+148,9.00,90638,https://www.beeradvocate.com/beer/profile/29782/90638/,Dethhanger Quadruple Brown Ale,29782,CIB Brewery & BBQ,19,3.16
+149,11.50,313627,https://www.beeradvocate.com/beer/profile/718/313627/,Petrus Nitro Quad,718,De Brabandere,19,3.95
+150,9.60,144489,https://www.beeradvocate.com/beer/profile/30015/144489/,The Reaper,30015,Southbound Brewing Company,19,4.1
+151,9.60,110486,https://www.beeradvocate.com/beer/profile/24814/110486/,Dark Hammer,24814,Yellowhammer Brewing,19,3.79
+152,9.50,122269,https://www.beeradvocate.com/beer/profile/32855/122269/,Goochland Quad,32855,Lickinghole Creek Craft Brewery,19,4.11
+153,11.00,90314,https://www.beeradvocate.com/beer/profile/25775/90314/,L’Assoiffé - 12,25775,Brasseurs Du Monde,19,3.59
+154,13.10,111322,https://www.beeradvocate.com/beer/profile/31008/111322/,Dark Signs,31008,White Pony Microbrewery,19,4.17
+155,10.20,247072,https://www.beeradvocate.com/beer/profile/25710/247072/,Krieke Vier,25710,Logsdon Farmhouse Ales,18,4.31
+156,10.50,160304,https://www.beeradvocate.com/beer/profile/39158/160304/,Quadraphonic,39158,Barrel of Monks Brewing,18,4.1
+157,11.00,214850,https://www.beeradvocate.com/beer/profile/27934/214850/,2015 Barrel Of Love,27934,Adelbert's Brewery,18,3.89
+158,10.00,101700,https://www.beeradvocate.com/beer/profile/29808/101700/,Fort Lapin 10,29808,Fort Lapin,18,4
+159,11.80,86171,https://www.beeradvocate.com/beer/profile/16504/86171/,Inception Series #04 - Responsibly,16504,Nebraska Brewing Company,18,3.56
+160,10.00,266422,https://www.beeradvocate.com/beer/profile/31896/266422/,Abbey Quad,31896,Blackberry Farm Brewery,18,4.13
+161,8.50,55327,https://www.beeradvocate.com/beer/profile/642/55327/,The Quad,642,Free State Brewing Co.,17,4
+162,10.30,252959,https://www.beeradvocate.com/beer/profile/39028/252959/,Silence Of The Hams,39028,Rockingham Brewing Company,17,4.11
+163,12.50,33150,https://www.beeradvocate.com/beer/profile/6045/33150/,Oak Aged Belgian Quad,6045,Iron Hill Brewery & Restaurant,17,4.02
+164,10.00,196362,https://www.beeradvocate.com/beer/profile/30164/196362/,Domestique,30164,Anthem Brewing Company,16,4.02
+165,10.00,158229,https://www.beeradvocate.com/beer/profile/32722/158229/,Through The Quad,32722,Block Three Brewing Co.,16,3.81
+166,11.00,285220,https://www.beeradvocate.com/beer/profile/13014/285220/,Eleven - Beer A (Belgian Quad),13014,Surly Brewing Company,16,4
+167,9.20,220742,https://www.beeradvocate.com/beer/profile/28609/220742/,Legion,28609,Night Shift Brewing,16,3.98
+168,9.50,54100,https://www.beeradvocate.com/beer/profile/6045/54100/,Quadfather,6045,Iron Hill Brewery & Restaurant,16,3.91
+169,9.00,44674,https://www.beeradvocate.com/beer/profile/17752/44674/,Special B,17752,Broue Pub Brouhaha,16,3.76
+170,10.00,156920,https://www.beeradvocate.com/beer/profile/32166/156920/,Me So Ornery Combative Quad,32166,Griffin Claw Brewing Company,16,3.87
+171,11.00,67136,https://www.beeradvocate.com/beer/profile/22112/67136/,Mark Of The Yeast,22112,Root Cellar Cafe / Darkside Fermentation,15,3.98
+172,9.00,61025,https://www.beeradvocate.com/beer/profile/15697/61025/,Le Don Juan,15697,Broadway Pub,15,3.71
+173,13.00,154730,https://www.beeradvocate.com/beer/profile/24802/154730/,Four Horsemen,24802,Idle Hands Craft Ales,15,4.23
+174,13.00,101757,https://www.beeradvocate.com/beer/profile/24411/101757/,Sanitarium,24411,The Bier Brewery,15,4.52
+175,10.50,88372,https://www.beeradvocate.com/beer/profile/16055/88372/,Secret Santa,16055,Amager Bryghus,14,3.73
+176,9.20,155462,https://www.beeradvocate.com/beer/profile/34328/155462/,Odin Quadruple,34328,Abandoned Building Brewery,14,4.08
+177,11.10,158033,https://www.beeradvocate.com/beer/profile/28551/158033/,Quandary - Whiskey Barrel-Aged,28551,River North Brewery,14,4.26
+178,10.20,115873,https://www.beeradvocate.com/beer/profile/28551/115873/,Quad On Oak,28551,River North Brewery,14,3.99
+179,10.20,153279,https://www.beeradvocate.com/beer/profile/31764/153279/,Free Candy,31764,Junkyard Brewing Company,14,4.35
+180,10.00,256263,https://www.beeradvocate.com/beer/profile/31678/256263/,Barrel Aged Growl,31678,Off Color Brewing,13,3.97
+181, ? ,223257,https://www.beeradvocate.com/beer/profile/458/223257/,Mysterium Verum Four Horsemen,458,Real Ale Brewing Company,13,4.28
+182,10.50,199483,https://www.beeradvocate.com/beer/profile/17157/199483/,Inner Sanctum,17157,Potosi Brewing Company,13,4.22
+183,10.50,187484,https://www.beeradvocate.com/beer/profile/144/187484/,XII,144,Sprecher Brewing Company,13,4.27
+184,11.00,66917,https://www.beeradvocate.com/beer/profile/20417/66917/,White Birch Quad,20417,White Birch Brewing,13,3.59
+185,14.00,287866,https://www.beeradvocate.com/beer/profile/32319/287866/,Styrbjørn,32319,Side Project Brewing,13,4.36
+186,11.00,192912,https://www.beeradvocate.com/beer/profile/34507/192912/,Orenda - Volume 2,34507,Pollyanna Brewing Company,13,3.95
+187,9.60,302848,https://www.beeradvocate.com/beer/profile/32855/302848/,Eat It Too,32855,Lickinghole Creek Craft Brewery,12,3.79
+188,9.60,154165,https://www.beeradvocate.com/beer/profile/38443/154165/,Quadjillo,38443,Torn Label Brewing Co.,12,3.76
+189,11.20,259422,https://www.beeradvocate.com/beer/profile/11031/259422/,Mooi & Meedogenloos Bourbon BA,11031,Brouwerij De Molen,12,4.22
+190,10.00,118403,https://www.beeradvocate.com/beer/profile/28764/118403/,My Cherry Amour,28764,West Sixth Brewing Company,12,3.9
+191,11.20,208283,https://www.beeradvocate.com/beer/profile/418/208283/,Ambidextrous Step 7,418,Left Hand Brewing Company,12,3.93
+192,9.60,139455,https://www.beeradvocate.com/beer/profile/34748/139455/,Sinister Minister,34748,Imperial Oak Brewing,12,3.99
+193,14.50,189680,https://www.beeradvocate.com/beer/profile/37303/189680/,Rowdy Monk,37303,Hermit Thrush Brewery,12,4.07
+194,10.00,121332,https://www.beeradvocate.com/beer/profile/31319/121332/,Westbound And Down,31319,Acoustic Ales Brewing Experiment,12,3.95
+195,10.00,48904,https://www.beeradvocate.com/beer/profile/6045/48904/,Maximus,6045,Iron Hill Brewery & Restaurant,11,4.1
+196,11.30,90378,https://www.beeradvocate.com/beer/profile/25959/90378/,Jean-Quad Van Damme,25959,Beachwood BBQ & Brewing,11,3.99
+197,9.90,167466,https://www.beeradvocate.com/beer/profile/31679/167466/,Belgian Quad Eekhoorn Series,31679,Blind Squirrel Brewery,11,3.75
+198,10.90,226867,https://www.beeradvocate.com/beer/profile/34737/226867/,West Floridian,34737,Infinite Ale Works,11,3.95
+199,10.00,160902,https://www.beeradvocate.com/beer/profile/35134/160902/,10,35134,Dageraad Brewing,11,3.89
+200,11.90,94880,https://www.beeradvocate.com/beer/profile/22157/94880/,Fat Happy Monk,22157,Rivertown Brewery & Barrel House,11,3.92
+201,8.60,167329,https://www.beeradvocate.com/beer/profile/18823/167329/,Quad Twenty,18823,Freetail Brewing Company,11,4.04
+202,9.30,96450,https://www.beeradvocate.com/beer/profile/26753/96450/,Quad,26753,Hardywood Park Craft Brewery,11,3.84
+203,11.00,123637,https://www.beeradvocate.com/beer/profile/31805/123637/,Apple Brandy Barrel-Aged Quadrangle,31805,Funky Buddha Brewery,11,4.08
+204,9.30,88838,https://www.beeradvocate.com/beer/profile/28873/88838/,Bière Del Bac,28873,Dragoon Brewing Co.,10,3.98
+205,11.99,41480,https://www.beeradvocate.com/beer/profile/12547/41480/,Barrel Aged Agent 99,12547,The Livery,10,3.94
+206,9.50,253974,https://www.beeradvocate.com/beer/profile/32480/253974/,Barrel Aged Qualified,32480,Taxman Brewing Co.,10,3.93
+207,11.10,256307,https://www.beeradvocate.com/beer/profile/25712/256307/,Monk In Scotland,25712,Martin City Brewing Company,10,4.18
+208,10.60,208450,https://www.beeradvocate.com/beer/profile/30284/208450/,IV (Four),30284,Center of the Universe Brewing Company,10,3.94
+209,13.00,239960,https://www.beeradvocate.com/beer/profile/13307/239960/,Raspberry Quadrupel (Bourbon Barrel),13307,Mikkeller ApS,10,4.17
+210,10.00,147924,https://www.beeradvocate.com/beer/profile/31515/147924/,Quad,31515,Liquid Riot Bottling Company,10,4.09
+211,8.10,112095,https://www.beeradvocate.com/beer/profile/1337/112095/,MiCano Quad-Dizzle,1337,Pizza Port Solana Beach,10,3.81
+212,10.50,198881,https://www.beeradvocate.com/beer/profile/25710/198881/,Monikken Kruin,25710,Logsdon Farmhouse Ales,10,4
+213,10.50,223494,https://www.beeradvocate.com/beer/profile/3720/223494/,Mons Abbey Quadrupel,3720,Brasserie Belgh Brasse,9,3.56
+214,11.10,206862,https://www.beeradvocate.com/beer/profile/28567/206862/,Axis,28567,Tin Man Brewing Company,9,4.13
+215,10.00,157486,https://www.beeradvocate.com/beer/profile/15237/157486/,Pannepot Real Ale,15237,De Struise Brouwers,9,4.24
+216, ? ,191561,https://www.beeradvocate.com/beer/profile/147/191561/,Stochasticity Project:  Quadrotriticale - Red Wine Barrel-Aged,147,Stone Brewing,9,4.17
+217,11.20,293973,https://www.beeradvocate.com/beer/profile/37552/293973/,Cherry Medusa,37552,Copperhead Brewery,9,4.18
+218,10.00,181334,https://www.beeradvocate.com/beer/profile/30/181334/,Carlos Caliente,30,Avery Brewing Company,9,4.12
+219,9.00,176484,https://www.beeradvocate.com/beer/profile/3314/176484/,Abbaye D'Aulne Cuvée Royale,3314,Brasserie Val De Sambre,9,3.96
+220,11.30,124053,https://www.beeradvocate.com/beer/profile/28299/124053/,Abby XXXX Barrel Aged,28299,Toxic Brewing Co.,9,3.93
+221,10.50,128980,https://www.beeradvocate.com/beer/profile/27470/128980/,The Noble One,27470,High Hops Brewery,9,3.61
+222,12.20,319194,https://www.beeradvocate.com/beer/profile/33136/319194/,Geodesic Snow Globe,33136,Burlington Beer Co.,9,3.95
+223,12.00,271067,https://www.beeradvocate.com/beer/profile/32855/271067/,Coconut Delight - Bourbon Barrel-Aged,32855,Lickinghole Creek Craft Brewery,9,3.98
+224,10.00,219364,https://www.beeradvocate.com/beer/profile/31408/219364/,Abaddon,31408,Seventh Son Brewing Co.,9,4.02
+225,10.50,102698,https://www.beeradvocate.com/beer/profile/15205/102698/,Belgian Dark,15205,Tri-City Brewing Company,8,3.82
+226,10.00,59489,https://www.beeradvocate.com/beer/profile/19476/59489/,Malus Pater,19476,Beer Here,8,3.95
+227,10.50,109171,https://www.beeradvocate.com/beer/profile/30581/109171/,Quad Almighty,30581,Wicked Weed Brewing,8,3.72
+228,12.00,90497,https://www.beeradvocate.com/beer/profile/31010/90497/,Mariënrode Quadruple,31010,Halen Breweries NV,8,3.97
+229,9.00,78994,https://www.beeradvocate.com/beer/profile/625/78994/,Kloster (Vintages 2012 - ),625,Gamla Slottskällans Bryggeri AB,8,3.47
+230,11.00,271256,https://www.beeradvocate.com/beer/profile/6288/271256/,Sour’ire De Mortagne,6288,Picobrouwerij Alvinne,8,4.02
+231,12.20,139194,https://www.beeradvocate.com/beer/profile/29008/139194/,Cashmere (Appleton Estate Barrel-Aged),29008,Bluejacket / Arsenal Restaurant,8,4.13
+232,10.30,99059,https://www.beeradvocate.com/beer/profile/32539/99059/,Evangelist,32539,Staas Brewing Company,8,4.29
+233,8.29,103420,https://www.beeradvocate.com/beer/profile/32514/103420/,Big Jim,32514,Odd13 Brewing,8,3.62
+234,12.80,187152,https://www.beeradvocate.com/beer/profile/18564/187152/,Lee Hill Series Vol. 5 - Belgian Style Quadrupel Ale,18564,Upslope Brewing Company - Lee Hill,7,4.3
+235,9.00,66858,https://www.beeradvocate.com/beer/profile/2391/66858/,Bourbon Barrel Quad,2391,Cascade Brewing / Raccoon Lodge & Brewpub,7,3.17
+236,10.00,279611,https://www.beeradvocate.com/beer/profile/32792/279611/,TENN No. 12 - Belgian-Style Quad,32792,Tennessee Brew Works,7,4.53
+237,13.30,321598,https://www.beeradvocate.com/beer/profile/31272/321598/,Old Mose,31272,Martin House Brewing Company,7,4.22
+238,10.20,259903,https://www.beeradvocate.com/beer/profile/46009/259903/,Four Brothers,46009,Alesong Brewing & Blending,7,4
+239,10.00,134506,https://www.beeradvocate.com/beer/profile/27084/134506/,1818,27084,Bierbrouwerij Maallust,7,3.6
+240, ? ,121457,https://www.beeradvocate.com/beer/profile/33181/121457/,Defcon I,33181,Faction Brewing,7,3.59
+241,10.50,120950,https://www.beeradvocate.com/beer/profile/26743/120950/,-12* Quadruple,26743,49th State Brewing Company,7,4.03
+242,10.80,318071,https://www.beeradvocate.com/beer/profile/33824/318071/,Airing Of Grievances,33824,Bottle Logic Brewing,7,4.31
+243,9.80,259451,https://www.beeradvocate.com/beer/profile/47674/259451/,Holy Beer,47674,Twisted Spike Brewing Company,7,3.82
+244,8.35,312197,https://www.beeradvocate.com/beer/profile/30789/312197/,Lucky Fifth,30789,Lucky Town Brewing Co.,7,3.83
+245,10.30,155273,https://www.beeradvocate.com/beer/profile/16963/155273/,Quad,16963,Marble Brewery,7,4.06
+246,11.00,75661,https://www.beeradvocate.com/beer/profile/23459/75661/,Quadrupel Style Ale,23459,Hermitage Brewing,7,3.25
+247,11.10,147634,https://www.beeradvocate.com/beer/profile/31746/147634/,Catharsis,31746,Forked River Brewing Company,7,3.58
+248,10.00,131048,https://www.beeradvocate.com/beer/profile/30/131048/,Dickel Reverend,30,Avery Brewing Company,7,4.26
+249,10.00,232711,https://www.beeradvocate.com/beer/profile/30/232711/,Bourbon Barrel Aged Carlos Caliente ,30,Avery Brewing Company,6,4.16
+250,10.00,243975,https://www.beeradvocate.com/beer/profile/28226/243975/,Apis IV - Red Wine Barrel-Aged,28226,Elevation Beer Co.,6,3.7
+251,13.00,322845,https://www.beeradvocate.com/beer/profile/396/322845/,Belgian Quad - Red Wine Barrel-Aged,396,AleSmith Brewing Company,6,4.15
+252,10.70,114743,https://www.beeradvocate.com/beer/profile/33841/114743/,Quadricorn Belgian Style Quadrupel,33841,Edge Brewing Company,6,3.51
+253,10.20,188756,https://www.beeradvocate.com/beer/profile/26753/188756/,Port Cru,26753,Hardywood Park Craft Brewery,6,3.88
+254,9.00,157782,https://www.beeradvocate.com/beer/profile/32811/157782/,Grave Robber Fraud Quad,32811,Lost Highway Brewing Company,6,3.84
+255,10.50,287336,https://www.beeradvocate.com/beer/profile/140/287336/,Trip In The Woods: Madeira Quad With Cherries,140,Sierra Nevada Brewing Co.,6,4.5
+256,9.10,231816,https://www.beeradvocate.com/beer/profile/36555/231816/,Hickson Quadrupel,36555,Brasserie Les 2 Frères,6,4.02
+257,9.00,44174,https://www.beeradvocate.com/beer/profile/6045/44174/,Bourbon Quad,6045,Iron Hill Brewery & Restaurant,6,3.39
+258,11.20,299921,https://www.beeradvocate.com/beer/profile/18564/299921/,Upslope Lee Hill Series Vol 13 - Tequila Barrel Aged Quadrupel Ale,18564,Upslope Brewing Company - Lee Hill,6,4
+259,13.00,311700,https://www.beeradvocate.com/beer/profile/1924/311700/,Oude Rode Ogen,1924,DuClaw Brewing Company,6,4.11
+260,10.50,203166,https://www.beeradvocate.com/beer/profile/39158/203166/,QuandRum,39158,Barrel of Monks Brewing,6,3.85
+261,12.50,47786,https://www.beeradvocate.com/beer/profile/17962/47786/,Sinister Twin Ale,17962,Uncommon Brewers,6,3.46
+262,11.00,161735,https://www.beeradvocate.com/beer/profile/29641/161735/,Neurocosmic Delirium,29641,Microbrasserie Goudale,6,4.04
+263,10.40,207051,https://www.beeradvocate.com/beer/profile/23108/207051/,Heavy Engine,23108,Engine 15 Brewing Company,6,3.82
+264,9.60,101079,https://www.beeradvocate.com/beer/profile/29070/101079/,Eden Quadrupel,29070,Brouwerij Anders,6,3.98
+265,12.00,175836,https://www.beeradvocate.com/beer/profile/3464/175836/,Vleteren Bruin 12°,3464,Brouwerij Deca Services NV,6,4.02
+266,11.30,176604,https://www.beeradvocate.com/beer/profile/28299/176604/,Abby XXXX,28299,Toxic Brewing Co.,6,3.48
+267,11.00,201184,https://www.beeradvocate.com/beer/profile/30871/201184/,There Is No Quad,30871,The BottleHouse Brewing Company,6,4.39
+268,10.00,212706,https://www.beeradvocate.com/beer/profile/32375/212706/,Heavy Bell,32375,Three Taverns Craft Brewery,6,4.13
+269,10.00,99308,https://www.beeradvocate.com/beer/profile/29546/99308/,Dolle Streken,29546,HiJinx Brewing Company,6,3.83
+270,11.00,157937,https://www.beeradvocate.com/beer/profile/33530/157937/,St. Francis,33530,Wolf's Ridge Brewing,6,3.67
+271,11.00,229626,https://www.beeradvocate.com/beer/profile/4861/229626/,OMQ! (Oh My Quad!),4861,Frankenmuth Brewery,6,3.98
+272,11.60,301836,https://www.beeradvocate.com/beer/profile/18823/301836/,Quad-Gon Jinn,18823,Freetail Brewing Company,5,3.7
+273,12.10,208926,https://www.beeradvocate.com/beer/profile/37452/208926/,Snatch You Bald Headed,37452,Pleasure House Brewing,5,4
+274,10.50,112672,https://www.beeradvocate.com/beer/profile/32383/112672/,Deep Luscious Amber,32383,Redbeard Brewing Company,5,3.99
+275,15.00,328738,https://www.beeradvocate.com/beer/profile/35259/328738/,Metal Clothes,35259,Alvarado Street Brewery,5,4.25
+276,11.00,174627,https://www.beeradvocate.com/beer/profile/16787/174627/,Populus 6921,16787,Bronckhorster Brewing Company,5,3.59
+277,10.75,209964,https://www.beeradvocate.com/beer/profile/40561/209964/,Figjam Quadruple,40561,Arbor Brewing Company,5,3.9
+278,11.20,97836,https://www.beeradvocate.com/beer/profile/1619/97836/,Union Station Quad,1619,C.H. Evans Brewing Company,5,3.84
+279,10.00,131146,https://www.beeradvocate.com/beer/profile/31300/131146/,Cursed Kettle Quadruppel,31300,Our Brewing Co.,5,3.87
+280,9.50,230241,https://www.beeradvocate.com/beer/profile/45655/230241/,Meester Quadrupel,45655,Brouwerij De Meester,5,4.04
+281,10.50,95074,https://www.beeradvocate.com/beer/profile/19321/95074/,Sub Rosa,19321,ShawneeCraft Brewing Company,5,3.59
+282,11.00,172645,https://www.beeradvocate.com/beer/profile/23651/172645/,Dionysus,23651,Wild Heaven Beer,5,4.33
+283,10.00,190309,https://www.beeradvocate.com/beer/profile/40632/190309/,Quadrupel,40632,NOVO Brazil Brewing Co.,5,3.6
+284,10.10,247404,https://www.beeradvocate.com/beer/profile/25712/247404/,Monk In Mexico,25712,Martin City Brewing Company,5,3.82
+285,10.40,118641,https://www.beeradvocate.com/beer/profile/29481/118641/,Gunny's Choice,29481,Bravery Brewing,5,3.79
+286,10.50,205940,https://www.beeradvocate.com/beer/profile/28510/205940/,Fore,28510,Relic Brewing Co.,5,3.4
+287,10.00,102516,https://www.beeradvocate.com/beer/profile/14478/102516/,Jessenhofke RSRV,14478,Jessenhofke NV,5,4.12
+288,13.00,108152,https://www.beeradvocate.com/beer/profile/10583/108152/,Belgian Quad,10583,Iron Springs Pub & Brewery,5,3.61
+289,9.00,167564,https://www.beeradvocate.com/beer/profile/38717/167564/,One Great City!,38717,Ratio Beerworks,5,3.86
+290,11.10,322189,https://www.beeradvocate.com/beer/profile/46009/322189/,Four Pirates,46009,Alesong Brewing & Blending,5,3.63
+291,12.00,199567,https://www.beeradvocate.com/beer/profile/396/199567/,Quad,396,AleSmith Brewing Company,5,3.94
+292,11.10,124050,https://www.beeradvocate.com/beer/profile/28299/124050/,H. M. E.,28299,Toxic Brewing Co.,5,4.1
+293,11.90,214425,https://www.beeradvocate.com/beer/profile/31093/214425/,Hunnid,31093,MadTree Brewing,5,3.9
+294,10.30,219551,https://www.beeradvocate.com/beer/profile/28657/219551/,Select Monk 4,28657,Monkish Brewing Co.,5,4.02
+295,12.00,117930,https://www.beeradvocate.com/beer/profile/1114/117930/,Winter Slump,1114,Bullfrog Brewery,5,3.46
+296,12.00,151734,https://www.beeradvocate.com/beer/profile/30379/151734/,Rare Form - Bourbon Barrel Aged,30379,Amplified Ale Works,5,4.19
+297,11.25,68794,https://www.beeradvocate.com/beer/profile/12547/68794/,Agent 99,12547,The Livery,5,3.34
+298,9.50,158141,https://www.beeradvocate.com/beer/profile/32855/158141/,Twelfth Night,32855,Lickinghole Creek Craft Brewery,5,3.68
+299,10.20,209855,https://www.beeradvocate.com/beer/profile/30980/209855/,St. Boden Quad,30980,Zipline Brewing Co,5,4.11
+300,8.80,156352,https://www.beeradvocate.com/beer/profile/2470/156352/,MOD Quad,2470,The Brew Kettle Taproom & Smokehouse / Production Works,5,3.68
+301,10.00,123852,https://www.beeradvocate.com/beer/profile/29501/123852/,Ferre,29501,Brouwerij Maenhout,5,3.77
+302,12.00,29647,https://www.beeradvocate.com/beer/profile/11269/29647/,Quadripple,11269,Brugge Brasserie,5,3.85
+303,10.60,200404,https://www.beeradvocate.com/beer/profile/38443/200404/,Quadquila,38443,Torn Label Brewing Co.,5,3.72
+304, ? ,50660,https://www.beeradvocate.com/beer/profile/20017/50660/,Quinte55ence,20017,5 Seasons Westside,5,3.55
+305,11.20,298732,https://www.beeradvocate.com/beer/profile/37850/298732/,Leg Day,37850,Diamondback Beer,5,3.78
+306,9.00,190702,https://www.beeradvocate.com/beer/profile/34765/190702/,Apocalypse,34765,Save The World Brewing Company,5,3.85
+307, ? ,217589,https://www.beeradvocate.com/beer/profile/28764/217589/,Bourbon Barrel Quad (Barrel Room),28764,West Sixth Brewing Company,5,4.36
+308,12.20,281853,https://www.beeradvocate.com/beer/profile/6288/281853/,Cuvée D’Erpigny Pedro Ximenez,6288,Picobrouwerij Alvinne,5,4.2
+309,7.50,207876,https://www.beeradvocate.com/beer/profile/24445/207876/,My First Rodeo (Sexy Quads),24445,Haymarket Beer Co. Pub & Brewery,4,3.8
+310,11.00,57872,https://www.beeradvocate.com/beer/profile/22112/57872/,Quadrupel,22112,Root Cellar Cafe / Darkside Fermentation,4,4.11
+311,9.50,157989,https://www.beeradvocate.com/beer/profile/29858/157989/,4 X 4 Quadruple,29858,Fifty West Brewing Co,4,4.15
+312,10.80,259375,https://www.beeradvocate.com/beer/profile/40650/259375/,Barrel Aged Viertal With Cherries,40650,Manor Hill Brewing,4,3.72
+313,10.90,140085,https://www.beeradvocate.com/beer/profile/30989/140085/,Belgian Quad,30989,BRU Handbuilt Ales,4,4.24
+314,13.00,228917,https://www.beeradvocate.com/beer/profile/34017/228917/,Moon Phase Bourbon Barrel Quad,34017,Fort Point Beer Company,4,3.84
+315,12.00,153913,https://www.beeradvocate.com/beer/profile/31780/153913/,Quadrophenia,31780,Mazama Brewing Co.,4,3.98
+316,8.50,207165,https://www.beeradvocate.com/beer/profile/24453/207165/,Trappist Speedball,24453,Intuition Ale Works,4,4.05
+317,10.00,70212,https://www.beeradvocate.com/beer/profile/2695/70212/,Abt 12,2695,Bull & Bush Brewery,4,3.6
+318,10.70,245831,https://www.beeradvocate.com/beer/profile/46778/245831/,Belgian Quad,46778,The Woodburn Brewery,4,4.09
+319,14.80,280392,https://www.beeradvocate.com/beer/profile/16866/280392/,The Swan That Kept Swimming,16866,The Bruery,4,4.39
+320,8.90,122953,https://www.beeradvocate.com/beer/profile/28693/122953/,10 Gauge Belgian Quadrupple,28693,Outlaw Brewing,4,4.45
+321,12.50,61775,https://www.beeradvocate.com/beer/profile/6045/61775/,Pete's Celebration,6045,Iron Hill Brewery & Restaurant,4,4.21
+322,10.00,20307,https://www.beeradvocate.com/beer/profile/552/20307/,Merck Toch Hoe Sterk,552,Scheldebrouwerij,4,3.21
+323,9.00,88147,https://www.beeradvocate.com/beer/profile/29329/88147/,Intemporelle Holiday Quadruppel,29329,Burnt City Brewing,4,3.94
+324,11.10,241747,https://www.beeradvocate.com/beer/profile/31722/241747/,Mankind Beset By Devils,31722,Burial Beer Co.,4,4.36
+325,9.50,190805,https://www.beeradvocate.com/beer/profile/42276/190805/,Cheval De Trait,42276,Commonwealth Brewing Company,4,3.85
+326,11.00,111958,https://www.beeradvocate.com/beer/profile/17233/111958/,Gras Dur,17233,Microbrasserie La Chouape,4,3.38
+327,12.00,322137,https://www.beeradvocate.com/beer/profile/46008/322137/,4-Way Stop Aged in White Wine Barrels,46008,Jughandle Brewing,4,3.94
+328,13.50,261977,https://www.beeradvocate.com/beer/profile/43202/261977/,Biere De Noel,43202,Zebulon Artisan Ales,4,4.3
+329,12.70,88155,https://www.beeradvocate.com/beer/profile/30379/88155/,Rare Form,30379,Amplified Ale Works,4,3.66
+330,11.00,304477,https://www.beeradvocate.com/beer/profile/34748/304477/,Brandy Barrel Aged Sinister Minister,34748,Imperial Oak Brewing,4,4
+331,10.00,312163,https://www.beeradvocate.com/beer/profile/24300/312163/,The Quads Are Not What They Seem,24300,Evil Twin Brewing,4,3.8
+332,9.90,227173,https://www.beeradvocate.com/beer/profile/32906/227173/,Doxology,32906,Schilling Beer Co.,4,4.08
+333,12.80,129645,https://www.beeradvocate.com/beer/profile/22319/129645/,Transcendent,22319,Figure 8 Brewing,4,3.79
+334,11.20,100724,https://www.beeradvocate.com/beer/profile/30909/100724/,Quad,30909,Partizan Brewery,4,3.83
+335,11.50,257398,https://www.beeradvocate.com/beer/profile/45537/257398/,Beach Blanket Winter Warmer Belgian Quad,45537,Low Tide Brewing,4,3.93
+336,10.00,175226,https://www.beeradvocate.com/beer/profile/514/175226/,Thomas & Kenau,514,Jopen Bier BV Haarlem,4,3.86
+337,11.00,327034,https://www.beeradvocate.com/beer/profile/44307/327034/,Dark Mesa,44307,Bow & Arrow Brewing,4,3.79
+338,14.00,261252,https://www.beeradvocate.com/beer/profile/30102/261252/,Brasserie Noel,30102,Brasserie Saint James,4,4.07
+339,10.30,149640,https://www.beeradvocate.com/beer/profile/603/149640/,Cherry Quadzilla,603,Church Brew Works,4,3.7
+340,11.10,135051,https://www.beeradvocate.com/beer/profile/31746/135051/,Holy Hand Grenade,31746,Forked River Brewing Company,4,3.88
+341,9.60,226191,https://www.beeradvocate.com/beer/profile/34507/226191/,Orenda - Volume 01,34507,Pollyanna Brewing Company,4,4.22
+342,11.00,107925,https://www.beeradvocate.com/beer/profile/1418/107925/,Ganeshale,1418,Kamala Brewing / Whip In,4,3.5
+343,9.00,254871,https://www.beeradvocate.com/beer/profile/42883/254871/,Dunekeun Winter,42883,Kustbrouwerij,4,3.97
+344,10.00,152216,https://www.beeradvocate.com/beer/profile/31448/152216/,Hunny Do Brew,31448,Alpha Brewing Company,4,3.43
+345,10.00,217755,https://www.beeradvocate.com/beer/profile/18154/217755/,Komes Poczwórny Bursztynowy,18154,Browar Fortuna,4,3.47
+346,11.00,252571,https://www.beeradvocate.com/beer/profile/20132/252571/,J’ai 7 Ans: L’Âge De La Raison,20132,Les Brasseurs Du Temps,4,3.75
+347, ? ,106654,https://www.beeradvocate.com/beer/profile/26634/106654/,4 Monks Belgian Quad,26634,Wichita Brewing Co. & Pizzeria West,4,3.67
+348,9.00,167845,https://www.beeradvocate.com/beer/profile/27354/167845/,Praying Monk Quad,27354,O.H.S.O. Eatery & Nano-Brewery,4,4.03
+349,13.00,285607,https://www.beeradvocate.com/beer/profile/28879/285607/,Veneration (Bourbon Barrel Aged),28879,3 Sheeps Brewing,4,4.59
+350,10.50,203176,https://www.beeradvocate.com/beer/profile/39158/203176/,Be Mine,39158,Barrel of Monks Brewing,4,4.5
+351,10.00,212139,https://www.beeradvocate.com/beer/profile/43807/212139/,Lux Luxe Quadrupel,43807,Lux Brewery,4,3.82
+352,14.00,309685,https://www.beeradvocate.com/beer/profile/11031/309685/,De Molen / Laugar / Guineu / La Pirata / Mad - Spanish sQuad,11031,Brouwerij De Molen,4,3.57
+353,11.30,179133,https://www.beeradvocate.com/beer/profile/3463/179133/,Quadrum,3463,Brouwerij Contreras,4,3.4
+354, ? ,77768,https://www.beeradvocate.com/beer/profile/24453/77768/,Quiet Storm,24453,Intuition Ale Works,4,3.62
+355,9.20,165847,https://www.beeradvocate.com/beer/profile/33108/165847/,Saint Pyous,33108,Abandon Brewing Co.,4,4.32
+356,9.50,322521,https://www.beeradvocate.com/beer/profile/51127/322521/,Return of the Sun,51127,Shaidzon Beer Co,4,4.56
+357,11.20,177883,https://www.beeradvocate.com/beer/profile/35987/177883/,Ill Padrino,35987,Denizens Brewing Co.,4,3.68
+358,10.30,226524,https://www.beeradvocate.com/beer/profile/50723/226524/,Inglorious Quad Cocoa And Coffee Bean,50723,Inglorious Brew Stars,4,4.01
+359,9.00,102364,https://www.beeradvocate.com/beer/profile/24453/102364/,Jesse's Girl,24453,Intuition Ale Works,4,4
+360,11.40,269793,https://www.beeradvocate.com/beer/profile/40117/269793/,Le Marche Barrel Aged,40117,Levante Brewing Company,4,4.19
+361,10.40,123622,https://www.beeradvocate.com/beer/profile/31805/123622/,Apple Brandy Quad,31805,Funky Buddha Brewery,4,4
+362,10.00,286698,https://www.beeradvocate.com/beer/profile/49461/286698/,Quaduplication,49461,Unmapped Brewing Company,4,3.82
+363,12.00,292075,https://www.beeradvocate.com/beer/profile/684/292075/,Reel Ales Belgian Quad,684,Fish Brewing Company / Fishbowl Brewpub,4,3.8
+364,10.00,251116,https://www.beeradvocate.com/beer/profile/41928/251116/,Belgian Quad,41928,Czig Meister Brewing Company,4,3.96
+365,10.40,199418,https://www.beeradvocate.com/beer/profile/36184/199418/,Jamais Vu,36184,Modern Brewery,4,4.07
+366,9.00,77823,https://www.beeradvocate.com/beer/profile/19293/77823/,Noel Du Sanglier 2010,19293,Birra Toccalmatto,4,3.72
+367,10.00,223751,https://www.beeradvocate.com/beer/profile/32722/223751/,Through The Quad And Into Barrel,32722,Block Three Brewing Co.,3,2.5
+368,10.80,210696,https://www.beeradvocate.com/beer/profile/38524/210696/,Quadzilla Belgian Dark,38524,Scottsdale Beer Company,3,3.85
+369,9.50,263692,https://www.beeradvocate.com/beer/profile/44874/263692/,Cygnus X1,44874,BadWolf Brewing Company (Big BadWolf),3,4.12
+370,10.00,141580,https://www.beeradvocate.com/beer/profile/31722/141580/,Oak Aged Relic Belgian Quad,31722,Burial Beer Co.,3,4.33
+371,9.50,111372,https://www.beeradvocate.com/beer/profile/25053/111372/,Marina XV,25053,Sound Brewery,3,3.74
+372,9.00,225553,https://www.beeradvocate.com/beer/profile/37979/225553/,Belgian Quad,37979,Zephyr Brewing Co.,3,4.51
+373,11.00,104987,https://www.beeradvocate.com/beer/profile/32566/104987/,Velour Fog,32566,12Degree Brewing,3,4
+374,9.00,315933,https://www.beeradvocate.com/beer/profile/2385/315933/,Depth Charge '17,2385,Lighthouse Brewing Company,3,4.17
+375,10.00,259102,https://www.beeradvocate.com/beer/profile/46379/259102/,Tronk,46379,Siphon Brewing,3,3.9
+376, ? ,286498,https://www.beeradvocate.com/beer/profile/47686/286498/,Kermesse Quad,47686,R6 Distillery,3,4.23
+377,11.00,106019,https://www.beeradvocate.com/beer/profile/29757/106019/,Schizandra Belgian Cherry Quad,29757,The Hourglass Brewery,3,4.14
+378, ? ,118051,https://www.beeradvocate.com/beer/profile/2972/118051/,CB4 Quadrupel,2972,Mountain Sun Pub & Brewery,3,3.23
+379,8.40,298027,https://www.beeradvocate.com/beer/profile/48744/298027/,Guilty Monk (Bourbon Barrel Aged),48744,Deadly Sins Brewing,3,3.34
+380, ? ,285741,https://www.beeradvocate.com/beer/profile/10153/285741/,Je Ne Sais Quad,10153,Pisgah Brewing Co.,3,4.13
+381,10.50,278062,https://www.beeradvocate.com/beer/profile/144/278062/,Belgian Quad,144,Sprecher Brewing Company,3,4.11
+382,9.70,211504,https://www.beeradvocate.com/beer/profile/34334/211504/,1B8 Quad,34334,Books & Brews,3,4.31
+383,9.40,319538,https://www.beeradvocate.com/beer/profile/41928/319538/,Unholy Ritual,41928,Czig Meister Brewing Company,3,3.81
+384,10.00,192307,https://www.beeradvocate.com/beer/profile/38140/192307/,Streaking The Quad,38140,Prison City Pub & Brewery,3,3.62
+385, ? ,61494,https://www.beeradvocate.com/beer/profile/9797/61494/,Jake's Grand Cru,9797,North Country Brewing,3,4.29
+386,9.00,196920,https://www.beeradvocate.com/beer/profile/42838/196920/,Gulden Spoor Quadrupel,42838,Brouwerij Gulden Spoor,3,3.85
+387,8.00,103736,https://www.beeradvocate.com/beer/profile/18635/103736/,Big Albert,18635,Aviator Brewing Company,3,3.22
+388,9.00,318267,https://www.beeradvocate.com/beer/profile/28813/318267/,Nonkel Pater,28813,Antwerpse Brouw Compagnie N.V.,3,3.82
+389,12.00,292671,https://www.beeradvocate.com/beer/profile/2454/292671/,Bull Sluice Quadruple Ale,2454,Thomas Creek Brewery,3,3.85
+390,10.60,321604,https://www.beeradvocate.com/beer/profile/48055/321604/,Unbounded Principles,48055,Masthead Brewing Co.,3,3.67
+391,11.00,252229,https://www.beeradvocate.com/beer/profile/34451/252229/,Kracht Hout,34451,Brouwerij Breugem,3,3.34
+392,8.30,199755,https://www.beeradvocate.com/beer/profile/299/199755/,Sinterklaas Belgian Quad,299,Boston Beer Works - Canal Street,3,4.05
+393,11.20,309593,https://www.beeradvocate.com/beer/profile/45236/309593/,XII Quad Aged in Port Barrels,45236,Third Window Brewing Co.,3,4.06
+394,9.10,115038,https://www.beeradvocate.com/beer/profile/32269/115038/,Coal Creek Rum Runner Quad,32269,Front Range Brewing Company,3,4.03
+395,10.20,179296,https://www.beeradvocate.com/beer/profile/31764/179296/,Free Candy - French Oak Aged,31764,Junkyard Brewing Company,3,3.9
+396,11.50,222306,https://www.beeradvocate.com/beer/profile/19143/222306/,Wilde Leeuw Bière Brune Quadruple Vieille En Fût De Cognac,19143,La Brasserie du Pays Flamand,3,3.87
+397,11.00,276579,https://www.beeradvocate.com/beer/profile/36757/276579/,Quadrupel Bourbon Barrel Aged,36757,DESTIHL Brewery,3,4.34
+398,10.30,153454,https://www.beeradvocate.com/beer/profile/34017/153454/,Saint Francis 12,34017,Fort Point Beer Company,3,3.18
+399,10.50,180846,https://www.beeradvocate.com/beer/profile/38016/180846/,Quixotic,38016,FERMÆNTRA,3,4.15
+400,10.00,275057,https://www.beeradvocate.com/beer/profile/45236/275057/,XII Belgian Quad,45236,Third Window Brewing Co.,3,4.17
+401,11.50,289137,https://www.beeradvocate.com/beer/profile/48661/289137/,Space Nebula,48661,Selfmade Brewery,3,3.83
+402,9.60,138871,https://www.beeradvocate.com/beer/profile/32566/138871/,Midnight Fog,32566,12Degree Brewing,3,4.31
+403,10.75,236920,https://www.beeradvocate.com/beer/profile/1457/236920/,Big Jam - Bourbon Barrel Aged FigJam,1457,Arbor Brewing Company,3,4.26
+404,10.10,176252,https://www.beeradvocate.com/beer/profile/40951/176252/,Quad,40951,Old Abbey Ales,3,3.8
+405,10.00,175230,https://www.beeradvocate.com/beer/profile/514/175230/,Kruistocht Van Thomas,514,Jopen Bier BV Haarlem,3,4.11
+406,11.50,246408,https://www.beeradvocate.com/beer/profile/32116/246408/,Brother Ian's Belgian 9000,32116,5 Paddles Brewing Co.,3,3.9
+407,10.00,247178,https://www.beeradvocate.com/beer/profile/73/247178/,Belgian Quad,73,Great Lakes Brewing Co.,3,4.41
+408,10.20,334731,https://www.beeradvocate.com/beer/profile/51902/334731/,M998,51902,Fulbrook Ale Works,3,4.74
+409,12.00,115853,https://www.beeradvocate.com/beer/profile/695/115853/,Abbatia Duodecim 12,695,Manayunk Brewery and Restaurant,3,3.99
+410,11.00,290463,https://www.beeradvocate.com/beer/profile/23519/290463/,Chien Andalou,23519,Extraomnes,3,3.69
+411,11.40,330401,https://www.beeradvocate.com/beer/profile/13371/330401/,The Quadfather - Willett Barrel Aged,13371,Voodoo Brewery,3,4.55
+412,10.50,216483,https://www.beeradvocate.com/beer/profile/9374/216483/,Jam Session,9374,UAB Švyturys - Utenos alus,3,3.46
+413,10.00,331428,https://www.beeradvocate.com/beer/profile/32480/331428/,Red Wine Barrel Qualified,32480,Taxman Brewing Co.,3,4.1
+414,9.70,313770,https://www.beeradvocate.com/beer/profile/48194/313770/,Godfather Death,48194,OddStory Brewing,3,4.02
+415,10.30,314030,https://www.beeradvocate.com/beer/profile/47265/314030/,Anniversary One Belgian Quad on Plums,47265,FigLeaf Brewing,3,4.6
+416,9.30,230832,https://www.beeradvocate.com/beer/profile/31221/230832/,Quadrophenia Bourbon BA,31221,Siren Craft Brew,3,4.02
+417,9.70,143793,https://www.beeradvocate.com/beer/profile/30247/143793/,Quadarasauras,30247,Earth Eagle Brewings,3,3.28
+418,10.76,67000,https://www.beeradvocate.com/beer/profile/1550/67000/,4X Quad,1550,Rock Bottom Restaurant & Brewery,3,3.37
+419,14.00,307644,https://www.beeradvocate.com/beer/profile/40488/307644/,Quadrupel Rainbow,40488,Destination Unknown Beer Co.,3,4.18
+420,9.62,211921,https://www.beeradvocate.com/beer/profile/41975/211921/,Literally Can't Even Belgian Quadruple Ale,41975,Double Shift Brewing Company,3,3.77
+421,10.00,139218,https://www.beeradvocate.com/beer/profile/30/139218/,Chipotle Raspberry Reverend,30,Avery Brewing Company,3,4.3
+422,13.50,164051,https://www.beeradvocate.com/beer/profile/24180/164051/,Four Paws,24180,Wild Wolf Brewing Company,3,4
+423,11.00,265945,https://www.beeradvocate.com/beer/profile/1499/265945/,Abbey Underground Quad,1499,Carolina Brewing Company,3,3.75
+424,12.20,314330,https://www.beeradvocate.com/beer/profile/35374/314330/,Saxy Machismo (Apple Brandy and Cinnamon),35374,Haw River Farmhouse Ales,3,4.2
+425,9.00,167644,https://www.beeradvocate.com/beer/profile/29329/167644/,Intemporelle Abbey-Style Quadruppel,29329,Burnt City Brewing,3,4.63
+426,10.00,150757,https://www.beeradvocate.com/beer/profile/36170/150757/,Saturnale,36170,Roots Brewing Company,3,4.5
+427,11.11,322284,https://www.beeradvocate.com/beer/profile/514/322284/,Meesterstuk 2018,514,Jopen Bier BV Haarlem,3,3.78
+428,10.00,210157,https://www.beeradvocate.com/beer/profile/28873/210157/,Biere Del Bac - Rum Barrel Aged,28873,Dragoon Brewing Co.,3,4.06
+429,9.00,169967,https://www.beeradvocate.com/beer/profile/37966/169967/,Belgian Waffle,37966,Square Timber Brewing Company,3,4.16
+430,11.50,321268,https://www.beeradvocate.com/beer/profile/28764/321268/,Tall Dark & Barrel-Aged,28764,West Sixth Brewing Company,3,4.3
+431,12.00,286197,https://www.beeradvocate.com/beer/profile/33627/286197/,Belgian Quad,33627,Bad Martha Brewing Co.,3,3.75
+432,9.70,211447,https://www.beeradvocate.com/beer/profile/26743/211447/,Chocolate Quad,26743,49th State Brewing Company,3,4
+433,11.00,192506,https://www.beeradvocate.com/beer/profile/42528/192506/,IKARUS,42528,Brouwerij De Landing,3,4.02
+434,10.00,184587,https://www.beeradvocate.com/beer/profile/33763/184587/,Dry County,33763,Banger Brewing,2,3.69
+435,10.40,126987,https://www.beeradvocate.com/beer/profile/31805/126987/,The Quadrangle,31805,Funky Buddha Brewery,2,4.05
+436,9.90,329740,https://www.beeradvocate.com/beer/profile/467/329740/,Summit Unchained #25: Westie 7th - Jamaican Rum Barrel-Aged,467,Summit Brewing Company,2,4.3
+437,10.80,214286,https://www.beeradvocate.com/beer/profile/44253/214286/,Mönch,44253,Pure Project,2,3.71
+438,10.00,313615,https://www.beeradvocate.com/beer/profile/22200/313615/,This Is Quad,22200,Wormtown Brewery,2,4.01
+439, ? ,124434,https://www.beeradvocate.com/beer/profile/32062/124434/,Dutch Hammer,32062,The Other Farm Brewing Company,2,4
+440,12.00,334099,https://www.beeradvocate.com/beer/profile/29021/334099/,Four Corners Quad,29021,Neshaminy Creek Brewing Company,2,4.13
+441,11.20,262420,https://www.beeradvocate.com/beer/profile/2877/262420/,Quadrupel,2877,Backcountry Brewery,2,3.89
+442,10.00,311830,https://www.beeradvocate.com/beer/profile/44036/311830/,Old Tactician,44036,Friends & Allies Brewing,2,3.93
+443,10.50,279838,https://www.beeradvocate.com/beer/profile/29008/279838/,Corvocado,29008,Bluejacket / Arsenal Restaurant,2,3.97
+444,9.80,213027,https://www.beeradvocate.com/beer/profile/32696/213027/,Crooked Cardinal,32696,Hop Alley Brew Pub,2,4.09
+445,11.60,236068,https://www.beeradvocate.com/beer/profile/24690/236068/,Not Too Shabbey,24690,Throwback Brewery,2,3.89
+446,9.50,319012,https://www.beeradvocate.com/beer/profile/3098/319012/,seDATEd,3098,Big Dog's Draft House,2,3.79
+447,11.00,258855,https://www.beeradvocate.com/beer/profile/4861/258855/,Brandy Barrel Aged Oh My Quad,4861,Frankenmuth Brewery,2,3.78
+448,12.20,316970,https://www.beeradvocate.com/beer/profile/31535/316970/,"All I See is Carrion (Chocolate, Cherry, Vanilla) Ghost 470",31535,Adroit Theory Brewing Company,2,4.39
+449,10.50,221487,https://www.beeradvocate.com/beer/profile/32731/221487/,Chocolate Quad,32731,Engrained Brewing Company,2,4.46
+450,10.00,172335,https://www.beeradvocate.com/beer/profile/40037/172335/,Death,40037,Garden Grove Brewing Company,2,3.93
+451,9.50,282160,https://www.beeradvocate.com/beer/profile/25945/282160/,Scientific Series: D-01: Belgian Style Dark Quadrupel Ale,25945,Surf Brewery,2,4.11
+452,10.40,192306,https://www.beeradvocate.com/beer/profile/35013/192306/,Wayfarer,35013,Austmann Bryggeri,2,3.95
+453,14.00,336185,https://www.beeradvocate.com/beer/profile/34521/336185/,Caldamentum Benedictus,34521,Brüeprint Brewing Company,2,4.45
+454,12.80,177467,https://www.beeradvocate.com/beer/profile/32810/177467/,Thunder Thighs,32810,Jagged Mountain Craft Brewery,2,3.64
+455,11.00,186427,https://www.beeradvocate.com/beer/profile/34142/186427/,Quad,34142,River Rat Brewery,2,4.17
+456,10.50,228414,https://www.beeradvocate.com/beer/profile/45438/228414/,Jean-Quad Van Damn!,45438,Kelly Green Brewing Co.,2,3.61
+457,12.50,295999,https://www.beeradvocate.com/beer/profile/31008/295999/,Of Solitude And Sadness Calvados Barrel Aged,31008,White Pony Microbrewery,2,3.75
+458,11.88,222532,https://www.beeradvocate.com/beer/profile/35765/222532/,Dia De Los Muertos La Ressurecciòn,35765,Bad Tattoo Brewing,2,4.12
+459,11.20,283974,https://www.beeradvocate.com/beer/profile/22655/283974/,7th Anniversary BA Quad,22655,Straight To Ale,2,4.07
+460,15.00,339274,https://www.beeradvocate.com/beer/profile/52494/339274/,Black Monk,52494,Crazy Brew,2,3.75
+461,12.10,287052,https://www.beeradvocate.com/beer/profile/41427/287052/,Murrelet,41427,Topa Topa Brewing,2,3.86
+462,12.40,291409,https://www.beeradvocate.com/beer/profile/27934/291409/,Chocolate Barrel Of Love,27934,Adelbert's Brewery,2,1.21
+463,12.20,242002,https://www.beeradvocate.com/beer/profile/35374/242002/,Saxy Machismo With Black Cherries,35374,Haw River Farmhouse Ales,2,3.98
+464,12.00,291411,https://www.beeradvocate.com/beer/profile/49654/291411/,Monachus XII,49654,De Vier Monniken,2,4.16
+465,12.20,242003,https://www.beeradvocate.com/beer/profile/35374/242003/,Saxy Machismo With Cask-Aged Coffee,35374,Haw River Farmhouse Ales,2,4.54
+466,9.60,264539,https://www.beeradvocate.com/beer/profile/4063/264539/,Haitian Quad,4063,River City Brewing Co.,2,3.62
+467,10.30,202075,https://www.beeradvocate.com/beer/profile/30492/202075/,Jared's Quadrupel,30492,Bosque Brewing Co.,2,3.71
+468,8.70,295259,https://www.beeradvocate.com/beer/profile/30314/295259/,Bourbon Barrel Aged Jean Quad Van Damme,30314,Fairhope Brewing Company,2,3.74
+469,7.40,51803,https://www.beeradvocate.com/beer/profile/19544/51803/,Quadfather Belgian Ale,19544,Fat Head's Brewery & Saloon,2,3.58
+470,12.00,322396,https://www.beeradvocate.com/beer/profile/2796/322396/,Den 12 Scotch Whisky Barrel Aged,2796,Brouwerij 't Gaverhopke,2,3.94
+471,10.10,226909,https://www.beeradvocate.com/beer/profile/34280/226909/,So Help Me Quad,34280,Conshohocken Brewing Company,2,4.12
+472,12.10,303711,https://www.beeradvocate.com/beer/profile/18823/303711/,Quad-Go Jinn Laphroaig Barrel Aged,18823,Freetail Brewing Company,2,4.36
+473,9.00,319841,https://www.beeradvocate.com/beer/profile/28255/319841/,Sweater Weather,28255,Buffalo Bayou Brewing Co,2,3.71
+474,15.00,319588,https://www.beeradvocate.com/beer/profile/42846/319588/,Banana Hammock,42846,Crooked Hammock Brewery,2,3.67
+475,11.50,155497,https://www.beeradvocate.com/beer/profile/27243/155497/,Rophenia,27243,Spider Bite Beer Company,2,3.77
+476,9.00,229226,https://www.beeradvocate.com/beer/profile/36095/229226/,Barrel-Aged Drunken Monk,36095,Persimmon Hollow Brewing,2,4.85
+477,12.20,153455,https://www.beeradvocate.com/beer/profile/30771/153455/,Riel,30771,Schubros Brewery,2,4.22
+478,9.50,218227,https://www.beeradvocate.com/beer/profile/147/218227/,Will Of The People,147,Stone Brewing,2,3.96
+479,12.00,171636,https://www.beeradvocate.com/beer/profile/7944/171636/,Quadruple,7944,Ridgeway Brewing,2,3.54
+480,10.90,307578,https://www.beeradvocate.com/beer/profile/11031/307578/,Quad '17 (Sauternes BA),11031,Brouwerij De Molen,2,3.82
+481,10.00,256890,https://www.beeradvocate.com/beer/profile/47483/256890/,De Kater,47483,Delftse Stadsbrouwerij De Koperen Kat,2,3.62
+482,8.50,309631,https://www.beeradvocate.com/beer/profile/42756/309631/,Tilting At Windmills,42756,Corridor Brewery & Provisions,2,3.96
+483,11.00,278656,https://www.beeradvocate.com/beer/profile/30536/278656/,Lafayette Pinot Noir Reserva,30536,Two Rivers Brewing Company,2,3.87
+484,9.00,188546,https://www.beeradvocate.com/beer/profile/31825/188546/,Sigrid,31825,Propolis Brewing,2,3.42
+485,9.80,325764,https://www.beeradvocate.com/beer/profile/47577/325764/,Quad Core,47577,Lo Rez Brewing,2,3.91
+486,11.00,160392,https://www.beeradvocate.com/beer/profile/34451/160392/,Saense Kracht,34451,Brouwerij Breugem,2,3.78
+487,9.50,268940,https://www.beeradvocate.com/beer/profile/27922/268940/,Mind Of A Fruitcake,27922,Smog City Brewing,2,3.7
+488,5.50,224909,https://www.beeradvocate.com/beer/profile/40217/224909/,Quadruple Shot,40217,Zilker Brewing Co.,2,3.24
+489,12.60,305805,https://www.beeradvocate.com/beer/profile/24748/305805/,Sierra Dark Sky “Reserve” (2017),24748,Tioga-Sequoia Brewing Company,2,4.71
+490,11.20,125327,https://www.beeradvocate.com/beer/profile/19911/125327/,Pixie Dust Quad,19911,Salmon River Brewery,2,2.99
+491,10.50,318096,https://www.beeradvocate.com/beer/profile/15237/318096/,Rio Reserva (St Emilion Wine + Kentucky Bourbon B.A.),15237,De Struise Brouwers,2,4.2
+492,9.60,296849,https://www.beeradvocate.com/beer/profile/22072/296849/,Chateau Lefors,22072,Revolution Brewing,2,4
+493,11.00,236178,https://www.beeradvocate.com/beer/profile/43612/236178/,Lord Farquad,43612,Alter Brewing Company,2,4
+494,10.00,308891,https://www.beeradvocate.com/beer/profile/32480/308891/,Certified,32480,Taxman Brewing Co.,2,4.33
+495,12.00,329887,https://www.beeradvocate.com/beer/profile/48490/329887/,Quad - It's a Festivus Miracle,48490,Brewery Emperial,2,4.04
+496, ? ,117411,https://www.beeradvocate.com/beer/profile/20017/117411/,Jimmy Quad,20017,5 Seasons Westside,2,3.75
+497,12.00,199590,https://www.beeradvocate.com/beer/profile/33816/199590/,Double Dubbel,33816,Nickel Beer Co.,2,4
+498,9.50,238762,https://www.beeradvocate.com/beer/profile/18604/238762/,Art Collection V - Iconoclast Quad,18604,Lervig Aktiebryggeri,2,4.06
+499,13.00,181933,https://www.beeradvocate.com/beer/profile/36381/181933/,Salted Caramel Quadrupel,36381,Mad Hatter Brewing,2,3.87
+500,10.50,265391,https://www.beeradvocate.com/beer/profile/25924/265391/,Zuster Agatha Houtgerijpt,25924,Muifelbrouwerij,2,3.75
+501,11.00,329649,https://www.beeradvocate.com/beer/profile/29030/329649/,Islay,29030,Microbrasserie Le Castor,2,4.16
+502,12.00,310961,https://www.beeradvocate.com/beer/profile/105/310961/,Miller Valley Monks In Kentucky,105,Miller Brewing Co.,2,4.38
+503,10.00,333496,https://www.beeradvocate.com/beer/profile/22200/333496/,This Is Quad (Madeira Barrel Aged),22200,Wormtown Brewery,2,4.07
+504,11.50,262073,https://www.beeradvocate.com/beer/profile/28567/262073/,Axis Rose,28567,Tin Man Brewing Company,2,4
+505,12.80,309694,https://www.beeradvocate.com/beer/profile/6288/309694/,Cuvée de Mortagne Sauternes,6288,Picobrouwerij Alvinne,2,4.15
+506,10.60,305599,https://www.beeradvocate.com/beer/profile/38443/305599/,Quadtucky,38443,Torn Label Brewing Co.,2,4.26
+507,9.00,160194,https://www.beeradvocate.com/beer/profile/33490/160194/,The Monk's Revenge,33490,Legacy Brewing Co.,2,3.68
+508,11.00,117957,https://www.beeradvocate.com/beer/profile/30777/117957/,Belgian Quad,30777,River Dog Brewing Co.,2,4.12
+509,11.00,287687,https://www.beeradvocate.com/beer/profile/22893/287687/,Falling Monk,22893,Epic Brewing Company,2,4.11
+510,12.00,238028,https://www.beeradvocate.com/beer/profile/19606/238028/,Guineu Magnum Squad Quad,19606,Ca l'Arenys / Cervesa Guineu,2,3.39
+511,10.60,313037,https://www.beeradvocate.com/beer/profile/43218/313037/,Belgian Quad,43218,Black Hat Brew Works,2,4.36
+512,9.50,313549,https://www.beeradvocate.com/beer/profile/32480/313549/,Bottle Conditioned Qualified,32480,Taxman Brewing Co.,2,4.63
+513,12.50,265935,https://www.beeradvocate.com/beer/profile/29858/265935/,Quad Bro Quo Belgian Quadrupel,29858,Fifty West Brewing Co,2,4.06
+514,9.00,129745,https://www.beeradvocate.com/beer/profile/31551/129745/,Quad D'erable,31551,14th Star Brewing Co.,2,3.92
+515,10.00,255187,https://www.beeradvocate.com/beer/profile/45002/255187/,Quadracalabasia,45002,Litherman's Limited Brewing Company,2,4.42
+516,10.00,228054,https://www.beeradvocate.com/beer/profile/38602/228054/,Lord FarQuad,38602,Mad Beach Craft Brewing Company,2,3.89
+517,10.20,238038,https://www.beeradvocate.com/beer/profile/26367/238038/,St. Claire Quad,26367,8th Street Ale Haus,2,3.08
+518,11.69,199895,https://www.beeradvocate.com/beer/profile/38629/199895/,Black Dog Quad,38629,Red Collar Brewing Co.,2,4.38
+519, ? ,57815,https://www.beeradvocate.com/beer/profile/17271/57815/,Quadruped,17271,Bootlegger's Brewery,2,3.7
+520,11.50,265435,https://www.beeradvocate.com/beer/profile/48172/265435/,I.C.A. Malalts De Malta,48172,Instituto De La Cerveza Artesana (I.C.A),2,3.56
+521,10.50,332764,https://www.beeradvocate.com/beer/profile/1141/332764/,Rigor Mortis Pinot Noir,1141,Brasserie Dieu du Ciel!,2,3.91
+522,10.20,273372,https://www.beeradvocate.com/beer/profile/42573/273372/,Les Trois Docteurs Belgian Quad,42573,Raised Grain Brewing Company,2,4.05
+523,10.90,314080,https://www.beeradvocate.com/beer/profile/42205/314080/,Indy Vice Quad,42205,Deviate Brewing,2,3.59
+524,16.60,297953,https://www.beeradvocate.com/beer/profile/16873/297953/,Paxton Project - Port Barrel Quad,16873,10 Barrel Brewing Co.,2,4.31
+525,10.50,309473,https://www.beeradvocate.com/beer/profile/26753/309473/,Brandy Barrel Cru,26753,Hardywood Park Craft Brewery,2,4.14
+526,10.80,244705,https://www.beeradvocate.com/beer/profile/45814/244705/,Quadzilla,45814,Fat Orange Cat Brew Co.,2,3.94
+527,10.50,332003,https://www.beeradvocate.com/beer/profile/1141/332003/,Rigor Mortis Porto,1141,Brasserie Dieu du Ciel!,2,4.12
+528,10.00,213732,https://www.beeradvocate.com/beer/profile/2361/213732/,J.J. Crowe,2361,Brouwerij De Graal,2,3.69
+529, ? ,286181,https://www.beeradvocate.com/beer/profile/337/286181/,Monk's Elixir,337,Saint Arnold Brewing Company,2,3.9
+530,10.30,234727,https://www.beeradvocate.com/beer/profile/28362/234727/,10e Avenue,28362,Brasserie Artisanale La Souche,2,3.76
+531,10.50,165866,https://www.beeradvocate.com/beer/profile/3441/165866/,Belgian Quadrupel,3441,Delafield Brewhaus,2,3.81
+532,11.10,88557,https://www.beeradvocate.com/beer/profile/1621/88557/,Belgian Quad,1621,Brewzzi Italian American Bistro & Microbrewery,2,3.28
+533,9.00,79855,https://www.beeradvocate.com/beer/profile/25618/79855/,ABT,25618,La Succursale Brasserie Artisanale,2,3.75
+534,11.00,265460,https://www.beeradvocate.com/beer/profile/32922/265460/,The Heady Hog,32922,Woodfour Brewing Company,2,3.12
+535,9.50,298998,https://www.beeradvocate.com/beer/profile/25957/298998/,Lil' Brother,25957,Market Garden Brewery,2,3.87
+536, ? ,106230,https://www.beeradvocate.com/beer/profile/4063/106230/,Belgian Quad,4063,River City Brewing Co.,2,3.25
+537,9.10,57080,https://www.beeradvocate.com/beer/profile/463/57080/,4 Winds Quadrupel,463,Magnolia Pub & Brewery,2,4.17
+538, ? ,313081,https://www.beeradvocate.com/beer/profile/51045/313081/,Supernatural 10,51045,Supernatural Brewing and Spirits,2,3.31
+539, ? ,278525,https://www.beeradvocate.com/beer/profile/48790/278525/,Quad,48790,Bryan-College Station (B-CS) Zoigl Brewery,2,3.75
+540, ? ,204287,https://www.beeradvocate.com/beer/profile/27470/204287/,Chernobley,27470,High Hops Brewery,2,3.88
+541,11.50,327682,https://www.beeradvocate.com/beer/profile/42943/327682/,Orion,42943,Maybee Brewing Company,1,3.35
+542,10.50,282882,https://www.beeradvocate.com/beer/profile/39158/282882/,Sour Quadraphonic,39158,Barrel of Monks Brewing,1,3.99
+543,10.00,297474,https://www.beeradvocate.com/beer/profile/408/297474/,Osculum Infame II,408,Silver Gulch Brewing and Bottling Co.,1,4.25
+544,11.00,341251,https://www.beeradvocate.com/beer/profile/36080/341251/,7-0 Quad,36080,Lenny Boy Brewing Co.,1,4.17
+545,10.00,341765,https://www.beeradvocate.com/beer/profile/29268/341765/,Belgian Quadrupel,29268,Sleeping Giant Brewing Co.,1,4.59
+546, ? ,56326,https://www.beeradvocate.com/beer/profile/12/56326/,Belgian Quad,12,John Harvard's Brewery & Ale House,1,3.67
+547,12.00,187401,https://www.beeradvocate.com/beer/profile/13160/187401/,Mareklop,13160,'t Hofbrouwerijke,1,3.77
+548,9.00,312842,https://www.beeradvocate.com/beer/profile/28535/312842/,Swivet,28535,Community Beer Works,1,2.84
+549,12.00,316942,https://www.beeradvocate.com/beer/profile/31363/316942/,Quadrafiend,31363,Fall River Brewing Company,1,4.41
+550,10.00,315664,https://www.beeradvocate.com/beer/profile/36789/315664/,Size of the Coconut,36789,Concrete Beach Brewery,1,4.08
+551,11.70,314643,https://www.beeradvocate.com/beer/profile/51140/314643/,Quadrupel 23,51140,Továrna Pivovar,1,4.11
+552,8.75,111892,https://www.beeradvocate.com/beer/profile/751/111892/,Belgian Quad,751,Big Sky Brewing Company,1,3.5
+553,10.20,332309,https://www.beeradvocate.com/beer/profile/45089/332309/,Abacot Ranger Belgian Quad,45089,Prairie Krafts Brewing Company,1,4
+554,10.00,287253,https://www.beeradvocate.com/beer/profile/45702/287253/,Preachers And Pimps,45702,Rebel Kettle Brewing,1,3.5
+555,10.00,239126,https://www.beeradvocate.com/beer/profile/23108/239126/,Heavy Engine Aged On Plums,23108,Engine 15 Brewing Company,1,4.52
+556,10.00,331799,https://www.beeradvocate.com/beer/profile/47787/331799/,Dime Piece,47787,Urban Village Brewing Company,1,3.86
+557,7.50,99096,https://www.beeradvocate.com/beer/profile/27922/99096/,Bananas For Belgians,27922,Smog City Brewing,1,3.74
+558,9.30,324890,https://www.beeradvocate.com/beer/profile/31724/324890/,Belgian-Style Quad,31724,Hi-Wire Brewing,1,4.15
+559,11.10,333083,https://www.beeradvocate.com/beer/profile/49734/333083/,Streaking Through The Quad,49734,Remedy Brewing Company,1,4.04
+560,11.50,332829,https://www.beeradvocate.com/beer/profile/30909/332829/,Dark & Stormy Quadruple,30909,Partizan Brewery,1,3.9
+561,9.10,227358,https://www.beeradvocate.com/beer/profile/32412/227358/,#2RyBrew,32412,The Vineyard and Brewery at Hershey,1,3.92
+562,10.50,284707,https://www.beeradvocate.com/beer/profile/37442/284707/,This Is Why We Can't Have Nice Things,37442,Moo-Duck Brewery,1,3.77
+563,10.20,302883,https://www.beeradvocate.com/beer/profile/48260/302883/,Explorium / MobCraft / District 14 Wood Aged Quad,48260,The Explorium Brewpub,1,4.25
+564,12.00,320803,https://www.beeradvocate.com/beer/profile/35540/320803/,Coopers Cloak,35540,Old Ox Brewery,1,4.07
+565,12.00,327203,https://www.beeradvocate.com/beer/profile/32661/327203/,Realize Truth- Rum Barrel Aged,32661,Crooked Run Brewing,1,3.42
+566, ? ,339236,https://www.beeradvocate.com/beer/profile/73/339236/,Dark Signal Belgian Style Quad,73,Great Lakes Brewing Co.,1,4
+567,11.90,316709,https://www.beeradvocate.com/beer/profile/32910/316709/,Fourth Anniversary Beer,32910,Station 26 Brewing Co.,1,4.09
+568,10.70,248614,https://www.beeradvocate.com/beer/profile/43862/248614/,Quadruple,43862,WoodGrain Brewing Co,1,4.33
+569,10.00,339239,https://www.beeradvocate.com/beer/profile/3521/339239/,Braven apostel Donker,3521,De Proefbrouwerij (bvba Andelot),1,3.68
+570,11.30,248615,https://www.beeradvocate.com/beer/profile/43862/248615/,Barrel-aged Quadruple,43862,WoodGrain Brewing Co,1,4.5
+571,13.00,324391,https://www.beeradvocate.com/beer/profile/29690/324391/,Samaranth Oak Aged Prestige,29690,Microbrouwerij Urthel & Eet- En Brouwhuis De Hoppeschuur,1,4.24
+572,11.00,294696,https://www.beeradvocate.com/beer/profile/16787/294696/,Populus 6921 - Martinique Rum Barrel-Aged,16787,Bronckhorster Brewing Company,1,4.25
+573,11.00,273705,https://www.beeradvocate.com/beer/profile/40456/273705/,Cyril Figgis,40456,8-Bit Brewery,1,4.75
+574,9.60,188202,https://www.beeradvocate.com/beer/profile/32600/188202/,The Quad,32600,Intracoastal Brewing Company,1,2.96
+575,10.20,302891,https://www.beeradvocate.com/beer/profile/48260/302891/,Barrel Aged Baracus,48260,The Explorium Brewpub,1,4
+576,9.70,97324,https://www.beeradvocate.com/beer/profile/31515/97324/,Transwesteit 12,31515,Liquid Riot Bottling Company,1,4.06
+577,8.00,113709,https://www.beeradvocate.com/beer/profile/463/113709/,Quadlibet For Tenderfeet,463,Magnolia Pub & Brewery,1,3.75
+578,9.00,315949,https://www.beeradvocate.com/beer/profile/44957/315949/,What Else Is New?,44957,Whiplash,1,3.85
+579,12.00,319277,https://www.beeradvocate.com/beer/profile/32798/319277/,Badger 4,32798,Badger State Brewing Company,1,4.05
+580,9.50,177200,https://www.beeradvocate.com/beer/profile/13804/177200/,Porta Coeli,13804,Benelux Brewpub & Café,1,2.94
+581,9.50,155953,https://www.beeradvocate.com/beer/profile/19672/155953/,Hand Of Courage,19672,Proof Brewing Company,1,4.27
+582,9.70,268338,https://www.beeradvocate.com/beer/profile/44421/268338/,Quad,44421,Mad Jack's Mountain Brewery,1,3.87
+583,10.00,90162,https://www.beeradvocate.com/beer/profile/30896/90162/,Snowman Rambam Belgian Quad,30896,Snowman Brewing Co.,1,3.6
+584, ? ,293170,https://www.beeradvocate.com/beer/profile/31535/293170/,All I See Is Carrion - Heaven Hill Whiskey Barrel Aged,31535,Adroit Theory Brewing Company,1,4.02
+585,9.10,110387,https://www.beeradvocate.com/beer/profile/33659/110387/,Brabant Caramel Quadrupel,33659,Four Saints Brewing Company,1,3.9
+586,11.30,324659,https://www.beeradvocate.com/beer/profile/27823/324659/,Outlaw Rum Barrel Aged Quad,27823,Blue Blood Brewery,1,4.03
+587,11.50,310324,https://www.beeradvocate.com/beer/profile/22951/310324/,One Man Holiday,22951,Clown Shoes,1,4.1
+588,11.30,264501,https://www.beeradvocate.com/beer/profile/2361/264501/,Gentse Graaf Quadrupel Amber,2361,Brouwerij De Graal,1,3.47
+589,10.20,205365,https://www.beeradvocate.com/beer/profile/30584/205365/,Abbey Roof,30584,Thorn Street Brewery,1,3.5
+590,10.50,257334,https://www.beeradvocate.com/beer/profile/43007/257334/,Quadrocep,43007,Pinthouse Pizza - South Austin,1,4.02
+591,10.50,322359,https://www.beeradvocate.com/beer/profile/27403/322359/,Four Swords - Whiskey Barrel Aged,27403,Deep Ellum Brewing Company,1,4.25
+592,11.50,303161,https://www.beeradvocate.com/beer/profile/47497/303161/,Dubsac,47497,Kings Brewing Company,1,4
+593,9.10,235835,https://www.beeradvocate.com/beer/profile/34501/235835/,Belgian Quad With Plums,34501,Innovation Brewing,1,3.83
+594,9.00,150844,https://www.beeradvocate.com/beer/profile/32661/150844/,Realize Truth- Elderberry Quadrupel,32661,Crooked Run Brewing,1,3.31
+595,10.00,281661,https://www.beeradvocate.com/beer/profile/634/281661/,Flanders Original Quadrupel,634,Leroy Breweries,1,4.23
+596,10.50,152381,https://www.beeradvocate.com/beer/profile/23651/152381/,Belgian-Style Quadrupel Ale,23651,Wild Heaven Beer,1,3.84
+597,9.80,264767,https://www.beeradvocate.com/beer/profile/42537/264767/,Sugar Plum Quad,42537,New York Beer Project,1,4.01
+598,9.50,315455,https://www.beeradvocate.com/beer/profile/1056/315455/,Spaghetti Policy Quad,1056,Upstream Brewing Company - Old Market,1,3.18
+599,10.20,258114,https://www.beeradvocate.com/beer/profile/38969/258114/,Nexus,38969,Bidassoa Basque Brewery,1,3
+600,10.00,339011,https://www.beeradvocate.com/beer/profile/1033/339011/,Indominus - Rum Barrel-aged Belgian Quad,1033,Max Lager's Wood-Fired Grill & Brewery,1,3.79
+601,11.50,311620,https://www.beeradvocate.com/beer/profile/45655/311620/,Douze,45655,Brouwerij De Meester,1,4.25
+602,12.50,256580,https://www.beeradvocate.com/beer/profile/43612/256580/,Lord Farquad - Brandy Barrel Aged,43612,Alter Brewing Company,1,4
+603,10.80,320325,https://www.beeradvocate.com/beer/profile/34748/320325/,Sinister Winter,34748,Imperial Oak Brewing,1,3.84
+604,10.70,329798,https://www.beeradvocate.com/beer/profile/514/329798/,Ongelovige Thomas BA Linie Aquavit,514,Jopen Bier BV Haarlem,1,3.91
+605,10.00,299593,https://www.beeradvocate.com/beer/profile/4778/299593/,3 Ravens The Druid 2017,4778,3 Ravens Brewing,1,4.25
+606,9.40,305738,https://www.beeradvocate.com/beer/profile/32043/305738/,33 Acres Of Enigma,32043,33 Acres Brewing Co.,1,4.34
+607,10.40,256587,https://www.beeradvocate.com/beer/profile/41327/256587/,Barrel Aged Druish Princess,41327,Flix Brewhouse,1,4
+608,9.50,256588,https://www.beeradvocate.com/beer/profile/1550/256588/,Love In The Afternoon,1550,Rock Bottom Restaurant & Brewery,1,4
+609,10.20,268367,https://www.beeradvocate.com/beer/profile/27844/268367/,Chronomancer - Dad's Hat Rye Whiskey Barrel Aged,27844,Round Guys Brewing Company,1,3.71
+610,12.00,233554,https://www.beeradvocate.com/beer/profile/40345/233554/,Cáliz,40345,Lúdica Artesanal Cervecería,1,4.01
+611,10.60,237394,https://www.beeradvocate.com/beer/profile/44312/237394/,Category 4 - Belgian Quad,44312,Big Storm Brewing Co. - Pinellas Taproom,1,3.39
+612,10.70,261714,https://www.beeradvocate.com/beer/profile/46039/261714/,Quadrupel,46039,Pravda Beer Theatre,1,3.77
+613,10.00,330835,https://www.beeradvocate.com/beer/profile/952/330835/,Mid-Westvleteren,952,Great Dane Pub & Brewing Company (Downtown),1,3.68
+614,9.00,276052,https://www.beeradvocate.com/beer/profile/38805/276052/,Belgian Quad,38805,Friendship Brewing Company / Benefit's Bistro,1,3.75
+615,10.00,280917,https://www.beeradvocate.com/beer/profile/41990/280917/,Tequila Barrel-aged Friesian,41990,Windmill Brewing,1,3.38
+616,12.50,298326,https://www.beeradvocate.com/beer/profile/33650/298326/,Quadruple,33650,Walnut River Brewing Company,1,4.28
+617,10.00,318550,https://www.beeradvocate.com/beer/profile/2248/318550/,Bonus Amici,2248,La Barberie,1,3.29
+618,11.00,300119,https://www.beeradvocate.com/beer/profile/31011/300119/,#Quadgoals,31011,515 Brewing Company,1,4
+619,11.60,187480,https://www.beeradvocate.com/beer/profile/35374/187480/,Barrel-Aged Pepper Quadrupel,35374,Haw River Farmhouse Ales,1,4.18
+620,12.50,325721,https://www.beeradvocate.com/beer/profile/31008/325721/,Trumpistenbier,31008,White Pony Microbrewery,1,3.61
+621,9.00,108123,https://www.beeradvocate.com/beer/profile/21257/108123/,Quadruple,21257,Wolf Hills Brewing Company,1,4.5
+622,9.00,318555,https://www.beeradvocate.com/beer/profile/30983/318555/,Lombardi,30983,Trophy Brewing,1,3.99
+623,12.00,322139,https://www.beeradvocate.com/beer/profile/46008/322139/,4-Way Stop Aged in Rum Barrels,46008,Jughandle Brewing,1,3.52
+624,8.00,331616,https://www.beeradvocate.com/beer/profile/2695/331616/,Friar Tuck Trappist Reserve,2695,Bull & Bush Brewery,1,3.99
+625,12.00,321124,https://www.beeradvocate.com/beer/profile/27016/321124/,High Spirits,27016,Somerville Brewing Company (Slumbrew),1,4
+626,13.10,214117,https://www.beeradvocate.com/beer/profile/42220/214117/,Bailiff Belgian Quad,42220,Legal Remedy Brewing,1,3.69
+627,12.00,291429,https://www.beeradvocate.com/beer/profile/30980/291429/,St. Boden's Quad - Tequila Barrel,30980,Zipline Brewing Co,1,4
+628,9.90,318309,https://www.beeradvocate.com/beer/profile/1177/318309/,Blueberry Foolish Angel,1177,Minneapolis Town Hall Brewery,1,4.5
+629,13.00,327526,https://www.beeradvocate.com/beer/profile/48143/327526/,Barrel Aged Rock Duster Quad,48143,Ruggedman Brewing,1,4.49
+630,11.00,280423,https://www.beeradvocate.com/beer/profile/43700/280423/,Yozakura,43700,Willow Rock Brewing Company,1,3.97
+631,8.90,136808,https://www.beeradvocate.com/beer/profile/33570/136808/,Dark Abbey,33570,Top Out Brewery,1,4.05
+632,12.12,138088,https://www.beeradvocate.com/beer/profile/952/138088/,The Beast,952,Great Dane Pub & Brewing Company (Downtown),1,3.75
+633,9.60,296553,https://www.beeradvocate.com/beer/profile/50107/296553/,Apeldoorns Robuust,50107,AWA '85,1,3.25
+634,9.50,174697,https://www.beeradvocate.com/beer/profile/4832/174697/,Belgian Quad,4832,Triumph Brewing Company,1,3.85
+635,9.50,322411,https://www.beeradvocate.com/beer/profile/51625/322411/,Bearded Theologian,51625,Cabin Boys Brewery,1,3.63
+636,10.00,119404,https://www.beeradvocate.com/beer/profile/31467/119404/,Cheng Antonio Quadrupel Hop,31467,Cervejaria Urbana,1,3.84
+637,10.10,265583,https://www.beeradvocate.com/beer/profile/36484/265583/,Bort,36484,Oliphant Brewing,1,3.98
+638,10.50,321391,https://www.beeradvocate.com/beer/profile/718/321391/,Brewmaster's Selection Wild Quadrupel,718,De Brabandere,1,3.75
+639,12.20,311664,https://www.beeradvocate.com/beer/profile/38091/311664/,Double Barrel Lugosi,38091,Phantom Carriage,1,3.74
+640,11.00,212849,https://www.beeradvocate.com/beer/profile/37189/212849/,Belgian Quad,37189,Flying Lion Brewing,1,3.72
+641,12.50,313972,https://www.beeradvocate.com/beer/profile/13160/313972/,Mareklop Oak,13160,'t Hofbrouwerijke,1,3.81
+642,10.30,318836,https://www.beeradvocate.com/beer/profile/41410/318836/,The Life Aquadic,41410,Dewey Beer Co.,1,3.8
+643,10.00,257908,https://www.beeradvocate.com/beer/profile/47634/257908/,Monk Johnny,47634,De Keukenbrouwers,1,3.67
+644,8.50,304245,https://www.beeradvocate.com/beer/profile/16750/304245/,Quatre X Par Jour,16750,Siboire - Dépôt,1,3.96
+645,10.20,130421,https://www.beeradvocate.com/beer/profile/24073/130421/,Hardknott Rhetoric #1,24073,Hardknott Brewery,1,3.5
+646,9.90,107382,https://www.beeradvocate.com/beer/profile/27844/107382/,Emporer Tamarind,27844,Round Guys Brewing Company,1,3.75
+647,9.30,204919,https://www.beeradvocate.com/beer/profile/41927/204919/,Quad-Di-Da-Di,41927,Cooperage Brewing Company,1,3.81
+648,9.30,338041,https://www.beeradvocate.com/beer/profile/31029/338041/,L'Alpe D'Huez,31029,Peddler Brewing Co.,1,3.75
+649,10.00,284029,https://www.beeradvocate.com/beer/profile/36377/284029/,Quaffee,36377,Snowbank Brewing,1,4.06
+650,9.60,320125,https://www.beeradvocate.com/beer/profile/16353/320125/,Xocolatl Xake Up,16353,Hopworks Urban Brewery,1,2.5
+651,11.00,318591,https://www.beeradvocate.com/beer/profile/33463/318591/,De Witt Cottage,33463,Back Bay Brewing Co.,1,3.74
+652,14.50,268160,https://www.beeradvocate.com/beer/profile/34112/268160/,Monk In Drublic,34112,350 Brewing Co.,1,4.25
+653,11.50,295808,https://www.beeradvocate.com/beer/profile/33249/295808/,Overhovedet 2014,33249,Bryg-Syndikatet,1,4.36
+654,9.00,188545,https://www.beeradvocate.com/beer/profile/31825/188545/,Quad Folius,31825,Propolis Brewing,1,3.36
+655,12.00,284546,https://www.beeradvocate.com/beer/profile/19293/284546/,Toccalmatto/Revelation Cat Quintessenza,19293,Birra Toccalmatto,1,3.79
+656,11.50,313219,https://www.beeradvocate.com/beer/profile/42628/313219/,Anniversary Ale (2015),42628,Pro Re Nata Brewery,1,4.03
+657,11.50,304773,https://www.beeradvocate.com/beer/profile/49468/304773/,LiQuad Art,49468,Ozone's Brewhouse,1,4.31
+658,11.60,334726,https://www.beeradvocate.com/beer/profile/42751/334726/,Farm System #10,42751,Texas Leaguer Brewing Compnay,1,4.26
+659,8.70,337543,https://www.beeradvocate.com/beer/profile/38139/337543/,Grand Cru MMXVII Belgian Quad,38139,Strange Land Brewery,1,2.83
+660,10.30,261767,https://www.beeradvocate.com/beer/profile/44127/261767/,Operational Moxie Belgium Quad (10.3%),44127,Lincoln's Beard Brewing Co.,1,4.25
+661,10.00,317065,https://www.beeradvocate.com/beer/profile/51271/317065/,Rektor,51271,Hubertus Bryggeri,1,3.63
+662,15.50,336778,https://www.beeradvocate.com/beer/profile/39505/336778/,Belgian Quadrupel Aged In Jack Daniels Barrels Batch #2,39505,Salden's Brewery,1,4.24
+663,8.00,207754,https://www.beeradvocate.com/beer/profile/31766/207754/,4XL Belgian Quadruple,31766,Below the Radar Brewhouse,1,2.19
+664,11.00,265870,https://www.beeradvocate.com/beer/profile/456/265870/,Infinity,456,Trinity Brewhouse,1,4
+665,12.50,314255,https://www.beeradvocate.com/beer/profile/2391/314255/,Cascade Anti Vlad the Impaler,2391,Cascade Brewing / Raccoon Lodge & Brewpub,1,3.56
+666,9.50,318607,https://www.beeradvocate.com/beer/profile/32036/318607/,Elixir,32036,Crafty Ales & Lagers,1,3.73
+667, ? ,276625,https://www.beeradvocate.com/beer/profile/23578/276625/,Quad,23578,The Mill House / Good Times Brewing,1,4.15
+668, ? ,317587,https://www.beeradvocate.com/beer/profile/39766/317587/,La Femme Sauvage,39766,Crooked Can Brewing Company,1,3.89
+669, ? ,340630,https://www.beeradvocate.com/beer/profile/31584/340630/,Max Patch Quad,31584,BearWaters Brewing Co.,1,4.5
+670,17.00,169879,https://www.beeradvocate.com/beer/profile/21329/169879/,Barely Legal,21329,Cool Springs Brewery,1,3.75
+671,11.60,335512,https://www.beeradvocate.com/beer/profile/35479/335512/,FH 12 Quadrupel,35479,Farnam House Brewing Company,1,4.16
+672,12.00,217240,https://www.beeradvocate.com/beer/profile/31554/217240/,Refuge Quadrupel,31554,Refuge Brewery,1,4.48
+673,10.00,159641,https://www.beeradvocate.com/beer/profile/38222/159641/,Triskell Quadrupel,38222,Triskell Brewing Co.,1,2.98
+674, ? ,292249,https://www.beeradvocate.com/beer/profile/38612/292249/,Quadraloopy,38612,Twisted Trunk Brewing Company,1,3
+675,7.60,239513,https://www.beeradvocate.com/beer/profile/43373/239513/,Quadrophenia,43373,Fairfield Craft Ales,1,2.59
+676,10.10,285339,https://www.beeradvocate.com/beer/profile/45799/285339/,Redacted: These Monstrous Things,45799,The Napanee Beer Company,1,4.05
+677,10.00,336029,https://www.beeradvocate.com/beer/profile/49309/336029/,Bolwerck 10,49309,Wilskracht Stadsbrouwerij Ravenstein,1,3.25
+678,10.00,148126,https://www.beeradvocate.com/beer/profile/23420/148126/,Moonlight,23420,Det Lille Bryggeri,1,3.5
+679,10.00,299423,https://www.beeradvocate.com/beer/profile/22537/299423/,Quadrupel 2016,22537,Eskilstuna Ölkultur,1,3.7
+680,13.60,338336,https://www.beeradvocate.com/beer/profile/30780/338336/,HMS Quad Loko,30780,Slow Boat Brewery Taproom,1,3.98
+681,10.00,148128,https://www.beeradvocate.com/beer/profile/23420/148128/,Vintage Julebryg 2009,23420,Det Lille Bryggeri,1,3.75
+682,10.50,279713,https://www.beeradvocate.com/beer/profile/18149/279713/,Barrel #1789,18149,The Lost Abbey,1,4.75
+683, ? ,212386,https://www.beeradvocate.com/beer/profile/41232/212386/,Fritz's Cherry Quad,41232,Bathtub Row Brewing Co-op,1,4.21
+684,10.60,306852,https://www.beeradvocate.com/beer/profile/31854/306852/,IV Anno Enki,31854,Enki Brewing,1,4
+685,10.20,313764,https://www.beeradvocate.com/beer/profile/27942/313764/,Quadrupel Hopped Well Balanced Quad,27942,Boom Island Brewing Company,1,4.29
+686,9.60,131494,https://www.beeradvocate.com/beer/profile/34640/131494/,Strike Four,34640,Refined Fool Brewing Co.,1,3.52
+687,14.30,337574,https://www.beeradvocate.com/beer/profile/35540/337574/,Port Barrel Aged Sir Oxelot,35540,Old Ox Brewery,1,3.78
+688,9.10,188838,https://www.beeradvocate.com/beer/profile/33007/188838/,Donker,33007,Berging Brouwerij,1,3.31
+689,10.60,306599,https://www.beeradvocate.com/beer/profile/43310/306599/,Quadrupel,43310,New Limburg Brewing Company,1,3.75
+690,12.00,333994,https://www.beeradvocate.com/beer/profile/40601/333994/,Kord Whiskey Barrel Aged,40601,Jan Olbracht Browar Rzemieślniczy,1,3.8
+691,10.50,203178,https://www.beeradvocate.com/beer/profile/39158/203178/,Raspberry Quad,39158,Barrel of Monks Brewing,1,4.54
+692,11.03,285866,https://www.beeradvocate.com/beer/profile/23737/285866/,The Quad,23737,Rockmill Brewery,1,3.94
+693,12.00,295083,https://www.beeradvocate.com/beer/profile/2796/295083/,Den 12 Bourbon Barrel Aged,2796,Brouwerij 't Gaverhopke,1,4
+694,10.40,235181,https://www.beeradvocate.com/beer/profile/46022/235181/,Wheat Wine Quad,46022,Woods Cervecería,1,4.25
+695,11.00,309679,https://www.beeradvocate.com/beer/profile/34451/309679/,Saense Quadrupel,34451,Brouwerij Breugem,1,3.5
+696,12.10,316594,https://www.beeradvocate.com/beer/profile/16866/316594/,Woodshop Quad,16866,The Bruery,1,4.29
+697,11.00,270515,https://www.beeradvocate.com/beer/profile/26620/270515/,Four Sheets,26620,Denver Beer Co.,1,3.56
+698,8.00,112819,https://www.beeradvocate.com/beer/profile/29501/112819/,D’Oude Maalderij Qantelaar,29501,Brouwerij Maenhout,1,3.76
+699,12.00,238004,https://www.beeradvocate.com/beer/profile/26753/238004/,Peach Cru,26753,Hardywood Park Craft Brewery,1,3.89
+700,12.00,307124,https://www.beeradvocate.com/beer/profile/15237/307124/,XXXX Barrel Aged Quad Tres Hombres Rum Reserva,15237,De Struise Brouwers,1,4.3
+701,10.70,332725,https://www.beeradvocate.com/beer/profile/48370/332725/,Quad,48370,Microbrasserie Labrosse,1,3.74
+702,13.00,275125,https://www.beeradvocate.com/beer/profile/42081/275125/,Mad Skrilla,42081,Stickman Brews,1,4.15
+703,10.20,331447,https://www.beeradvocate.com/beer/profile/44197/331447/,Squad,44197,Hopewell Brewing Co.,1,3.94
+704,16.50,332728,https://www.beeradvocate.com/beer/profile/39505/332728/,Belgian Quadrupel Aged In Jack Daniels Barrels Batch #1,39505,Salden's Brewery,1,4.23
+705,10.00,339384,https://www.beeradvocate.com/beer/profile/52498/339384/,Quarta,52498,Melody Brew,1,4.24
+706,10.00,290744,https://www.beeradvocate.com/beer/profile/30283/290744/,"Tall, Dutch, & Handsome",30283,Helm's Brewing Co.,1,3.65
+707,11.00,288953,https://www.beeradvocate.com/beer/profile/39841/288953/,Munin,39841,Munkebo Mikrobryg,1,4.12
+708,9.40,212156,https://www.beeradvocate.com/beer/profile/15886/212156/,Mahogany Quad,15886,Cervecería de MateVeza,1,3.95
+709,11.40,270525,https://www.beeradvocate.com/beer/profile/47053/270525/,Atlas,47053,Bruz Beers,1,3.71
+710,9.30,280766,https://www.beeradvocate.com/beer/profile/23519/280766/,Extraomnes Quadrupel,23519,Extraomnes,1,3.81
+711,12.30,245696,https://www.beeradvocate.com/beer/profile/33484/245696/,Vision Of Litigation,33484,Working Man Brewing Company,1,4.25
+712,10.50,313794,https://www.beeradvocate.com/beer/profile/31872/313794/,Four Corners Sour Quad,31872,Stack Brewing,1,3.75
+713,10.20,314307,https://www.beeradvocate.com/beer/profile/33249/314307/,Overhovedet 2017,33249,Bryg-Syndikatet,1,2.82
+714,11.70,192709,https://www.beeradvocate.com/beer/profile/30102/192709/,Oaked And Wild Quadrophobia,30102,Brasserie Saint James,1,4.25
+715,10.00,335815,https://www.beeradvocate.com/beer/profile/43696/335815/,Belgian Quad - Buffalo Trace Barrel Aged (Quadrivium Series),43696,Whitestone Brewery,1,4.46
+716,12.00,56007,https://www.beeradvocate.com/beer/profile/4288/56007/,Je Ne Sais Quad,4288,Newport Beach Brewing Company,1,4.19
+717,11.00,133321,https://www.beeradvocate.com/beer/profile/36221/133321/,Quadrupel,36221,Saint James Brewery,1,3.9
+718,9.30,208585,https://www.beeradvocate.com/beer/profile/29089/208585/,Kinhem Quadrupel,29089,Kinhem Brouwerij,1,3.25
+719,9.00,319690,https://www.beeradvocate.com/beer/profile/39160/319690/,Quadratical,39160,Brew Detroit,1,3.87
+720,10.00,310987,https://www.beeradvocate.com/beer/profile/50950/310987/,Nachtraaf Quadrupel,50950,Nachtraaf Brouwers,1,3.84
+721,10.50,223180,https://www.beeradvocate.com/beer/profile/30019/223180/,Belgian Quad Collaboration With Everybody's,30019,Solera Brewery,1,3.7
+722,10.00,218061,https://www.beeradvocate.com/beer/profile/6045/218061/,The Quadfather,6045,Iron Hill Brewery & Restaurant,1,3.96
+723,9.80,313805,https://www.beeradvocate.com/beer/profile/49765/313805/,St. Baldus Belgian Quad,49765,Black Horizon Brewing Company,1,4.35
+724,9.50,210382,https://www.beeradvocate.com/beer/profile/27354/210382/,Beerdration,27354,O.H.S.O. Eatery & Nano-Brewery,1,3.75
+725,10.50,215758,https://www.beeradvocate.com/beer/profile/29112/215758/,Barrel Aged Cardena Quad,29112,Townsite Brewing,1,3.77
+726,9.00,320462,https://www.beeradvocate.com/beer/profile/2312/320462/,The Dutch,2312,Tenaya Creek Brewery,1,3.5
+727,13.00,170448,https://www.beeradvocate.com/beer/profile/17278/170448/,Gauntlet,17278,Crown Brewing,1,3.53
+728,10.50,195538,https://www.beeradvocate.com/beer/profile/29800/195538/,Quad,29800,Rushing Duck Brewing Company,1,3.65
+729,11.50,328660,https://www.beeradvocate.com/beer/profile/41177/328660/,QUAD (2017),41177,Coelacanth Brewing,1,4.02
+730,9.70,298710,https://www.beeradvocate.com/beer/profile/46850/298710/,Unfourseen Consequences,46850,Vibrant Forest Brewery,1,4
+731,12.00,316374,https://www.beeradvocate.com/beer/profile/34737/316374/,West Floridian Triple Barrel Blend,34737,Infinite Ale Works,1,3.88
+732,13.60,322775,https://www.beeradvocate.com/beer/profile/140/322775/,Alpha Hop Society: Belgian-Style Cherry Quad,140,Sierra Nevada Brewing Co.,1,4.71
+733,11.00,322009,https://www.beeradvocate.com/beer/profile/36221/322009/,Biere de Noel,36221,Saint James Brewery,1,3.94
+734,10.00,178650,https://www.beeradvocate.com/beer/profile/18159/178650/,Abbots Quad,18159,Southern Brewing & Winemaking Supply,1,3.5
+735,12.00,207323,https://www.beeradvocate.com/beer/profile/34650/207323/,Belgian Quad,34650,Adventure Brewing Company,1,5
+736,10.30,183003,https://www.beeradvocate.com/beer/profile/31046/183003/,Oak Aged Belgian Quad,31046,De Steeg Brewing Company,1,3.67
+737,13.00,302813,https://www.beeradvocate.com/beer/profile/39505/302813/,Rioja Red Wine Barrel-Aged Belgian Quadrupel,39505,Salden's Brewery,1,4.02
+738,9.60,203998,https://www.beeradvocate.com/beer/profile/907/203998/,High Speed Quad Ale,907,Dillon Dam Brewery,1,4
+739,10.90,266208,https://www.beeradvocate.com/beer/profile/45774/266208/,Jolly Quad,45774,Devil's Creek Brewery,1,3.92
+740,10.00,276192,https://www.beeradvocate.com/beer/profile/41031/276192/,Merckx Le Merck,41031,Mumford Brewing,1,3.66
+741,7.10,307168,https://www.beeradvocate.com/beer/profile/43128/307168/,The Gruncle,43128,Bone Up Brewing Company,1,3.74
+742,11.50,265185,https://www.beeradvocate.com/beer/profile/1339/265185/,Samaranth Vintage,1339,De Leyerth Brouwerijen (Urthel),1,3.5
+743,9.70,245476,https://www.beeradvocate.com/beer/profile/40341/245476/,Emmy's Grand Cru,40341,Preyer Brewing Company,1,3.76
+744,9.80,268517,https://www.beeradvocate.com/beer/profile/40634/268517/,Belgian Quad,40634,Barn Brewery,1,3
+745,10.20,341222,https://www.beeradvocate.com/beer/profile/40283/341222/,Quadruplo,40283,Bibibir,1,2.75
+746,9.30,153318,https://www.beeradvocate.com/beer/profile/5266/153318/,Quadimoto,5266,Island Brewing Company,1,3.74
+747,13.00,287462,https://www.beeradvocate.com/beer/profile/44192/287462/,Quadrobberry (BA Rioja),44192,Bottle Share,1,3.32
+748,11.50,309481,https://www.beeradvocate.com/beer/profile/33706/309481/,Brown Dwarf Star,33706,Forge Brew Works,1,4.75
+749,9.00,338154,https://www.beeradvocate.com/beer/profile/34032/338154/,No. 40 Belgian Quad,34032,The Freehouse,1,3.93
+750,11.00,94189,https://www.beeradvocate.com/beer/profile/31467/94189/,Có Belgian Dark Strong Ale,31467,Cervejaria Urbana,1,4.07
+751,9.50,330990,https://www.beeradvocate.com/beer/profile/33007/330990/,B6_Quadrupel,33007,Berging Brouwerij,1,3.75
+752,11.10,332270,https://www.beeradvocate.com/beer/profile/46926/332270/,Dharma,46926,Kindred Spirit Brewing,1,4.65
+753,10.80,177390,https://www.beeradvocate.com/beer/profile/34007/177390/,Jean Claude's Quads,34007,StormBreaker Brewing,1,3.95
+754,15.00,288239,https://www.beeradvocate.com/beer/profile/32514/288239/,Diego Grande,32514,Odd13 Brewing,1,4
+755,9.40,214512,https://www.beeradvocate.com/beer/profile/44127/214512/,Operational Moxie Belgian Quad,44127,Lincoln's Beard Brewing Co.,1,4.13
+756,11.00,311537,https://www.beeradvocate.com/beer/profile/38282/311537/,Bad Kitty,38282,Abnormal Beer Company,1,3.78
+757,9.50,277749,https://www.beeradvocate.com/beer/profile/46375/277749/,The Streaker,46375,Currahee Brewing Company,1,4.46
+758,9.00,271094,https://www.beeradvocate.com/beer/profile/2447/271094/,Four Sirens,2447,Coronado Brewing Company,1,3.98
+759,9.80,328184,https://www.beeradvocate.com/beer/profile/28569/328184/,6th Anniversary Chardonnay Barrel Aged Quad,28569,Obed & Isaac's Microbrewery & Eatery,1,3.77
+760,9.80,204537,https://www.beeradvocate.com/beer/profile/43052/204537/,Quadrophenia,43052,105 West Brewing Company,1,3.75
+761,9.50,281082,https://www.beeradvocate.com/beer/profile/48447/281082/,Erotic Night,48447,Pariah Brewing Co.,1,2.77
+762,10.10,331259,https://www.beeradvocate.com/beer/profile/49201/331259/,Four Fat Baby,49201,Hillman Beer,1,4.75
+763,8.50,324347,https://www.beeradvocate.com/beer/profile/41018/324347/,Klean Belgiez,41018,The Veil Brewing Co.,1,4.4
+764,11.50,318716,https://www.beeradvocate.com/beer/profile/30102/318716/,Noel,30102,Brasserie Saint James,1,5
+765,10.60,325884,https://www.beeradvocate.com/beer/profile/35989/325884/,Cherry and Pinot Noir Barrel Aged Quad,35989,Northern Monk Brew Co.,1,4
+766,10.60,325885,https://www.beeradvocate.com/beer/profile/35989/325885/,Raspberry and Pinot Noir Barrel Aged Quad,35989,Northern Monk Brew Co.,1,4.12
+767,8.00,46334,https://www.beeradvocate.com/beer/profile/2428/46334/,Boalse Kei,2428,Brasserie Caulier,1,3
+768, ? ,253183,https://www.beeradvocate.com/beer/profile/31920/253183/,Decima,31920,FATE Brewing Company,1,3.62
+769,10.00,199688,https://www.beeradvocate.com/beer/profile/41880/199688/,Four Wheeler,41880,Rough Cut Brewing Co.,0,0
+770,10.00,335881,https://www.beeradvocate.com/beer/profile/48774/335881/,Quadrupel,48774,Green Mountain Beer Company,0,0
+771,10.00,299020,https://www.beeradvocate.com/beer/profile/23315/299020/,Local's Stash Reserve Series - Raspberry Belgian-Style Quadrupel Ale,23315,Crazy Mountain Brewing Company,0,0
+772,10.00,152336,https://www.beeradvocate.com/beer/profile/32453/152336/,Feliz Naviquad,32453,Cherry Street Brewing Cooperative,0,0
+773, ? ,226576,https://www.beeradvocate.com/beer/profile/34980/226576/,Belgian Quad,34980,Slice & Pint,0,0
+774,12.00,161808,https://www.beeradvocate.com/beer/profile/36800/161808/,Quad Workout,36800,Butcher & the Brewer,0,0
+775,11.50,224274,https://www.beeradvocate.com/beer/profile/5489/224274/,Angry Elf,5489,Big Bear Brewing Company,0,0
+776,10.00,226835,https://www.beeradvocate.com/beer/profile/33523/226835/,La Mort,33523,House of Brewz / Bury Me Brewing,0,0
+777,11.90,208156,https://www.beeradvocate.com/beer/profile/9996/208156/,Quadruple Belge,9996,Multi-Brasses,0,0
+778,9.00,306204,https://www.beeradvocate.com/beer/profile/43128/306204/,Quaddles,43128,Bone Up Brewing Company,0,0
+779,10.00,228128,https://www.beeradvocate.com/beer/profile/36432/228128/,Imperator,36432,Amphora Cerveja Artesanal,0,0
+780,9.30,207649,https://www.beeradvocate.com/beer/profile/42665/207649/,Orange You Glad I Didn’t Say Banana,42665,Loudoun Brewing Co.,0,0
+781,12.00,339233,https://www.beeradvocate.com/beer/profile/52428/339233/,Belgian Quadrupel,52428,Ookapow Brewing,0,0
+782,13.00,339234,https://www.beeradvocate.com/beer/profile/52428/339234/,Bourbon Barrel Aged Belgian Quadrupel,52428,Ookapow Brewing,0,0
+783,10.00,274466,https://www.beeradvocate.com/beer/profile/38282/274466/,Seven Grand,38282,Abnormal Beer Company,0,0
+784,10.00,227623,https://www.beeradvocate.com/beer/profile/45305/227623/,Hohoho Ale,45305,HopHead Craft Brewery,0,0
+785,10.00,162349,https://www.beeradvocate.com/beer/profile/34605/162349/,Belgian Abbey,34605,Biloba Brewing Company,0,0
+786,10.00,258349,https://www.beeradvocate.com/beer/profile/45814/258349/,Mothra,45814,Fat Orange Cat Brew Co.,0,0
+787,8.50,264752,https://www.beeradvocate.com/beer/profile/45083/264752/,Holiday Quad,45083,Winchester Brew Works,0,0
+788,9.80,174643,https://www.beeradvocate.com/beer/profile/40650/174643/,Quad,40650,Manor Hill Brewing,0,0
+789,11.40,209208,https://www.beeradvocate.com/beer/profile/43724/209208/,Abbey 10,43724,The Tank Brewing Co.,0,0
+790,12.00,210489,https://www.beeradvocate.com/beer/profile/26464/210489/,John John El Cabron Quadrupel,26464,Pang Pang Brewery,0,0
+791,10.00,336955,https://www.beeradvocate.com/beer/profile/46266/336955/,Quadrupel,46266,Konix Brewery,0,0
+792,9.50,247868,https://www.beeradvocate.com/beer/profile/35541/247868/,Quad,35541,Fieldhouse Brewing Company,0,0
+793,10.00,312640,https://www.beeradvocate.com/beer/profile/21257/312640/,Plumb Alley,21257,Wolf Hills Brewing Company,0,0
+794,13.00,321858,https://www.beeradvocate.com/beer/profile/51176/321858/,Morning Star,51176,Midnight Run Brewing,0,0
+795,10.00,312134,https://www.beeradvocate.com/beer/profile/45164/312134/,Southern Cross,45164,Rip Rap Brewing Company,0,0
+796,10.00,329288,https://www.beeradvocate.com/beer/profile/44604/329288/,Panic At The Monastery,44604,Burning Beard Brewing Company,0,0
+797,9.00,137034,https://www.beeradvocate.com/beer/profile/11412/137034/,Le Collier De Vénus,11412,Bedondaine & Bedons Ronds,0,0
+798,11.90,204874,https://www.beeradvocate.com/beer/profile/2792/204874/,St. Tito,2792,Phantom Canyon Brewing Company,0,0
+799,12.00,234058,https://www.beeradvocate.com/beer/profile/38096/234058/,Big Al's Belgian Quad,38096,Stilt House Brewery,0,0
+800,12.10,276043,https://www.beeradvocate.com/beer/profile/40007/276043/,Belgian Quad,40007,Bitter Sisters Brewing Company,0,0
+801,13.50,160331,https://www.beeradvocate.com/beer/profile/12534/160331/,Christmas Ale,12534,Bright Brewery,0,0
+802,9.40,329554,https://www.beeradvocate.com/beer/profile/50138/329554/,Bedford Falls Belgian,50138,Noble Stein Brewing Company,0,0
+803,13.00,232530,https://www.beeradvocate.com/beer/profile/45825/232530/,Perle Mondiale,45825,Perle - Bières Artisanales Artzner,0,0
+804, ? ,165721,https://www.beeradvocate.com/beer/profile/39853/165721/,Pit Senyor,39853,The Cebruery,0,0
+805,9.50,262235,https://www.beeradvocate.com/beer/profile/41540/262235/,Big Beautiful Quad,41540,Grand Armory Brewing,0,0
+806,8.80,150876,https://www.beeradvocate.com/beer/profile/36853/150876/,Going Home 4 Christmas,36853,Rocket Brewing Co.,0,0
+807,10.75,334943,https://www.beeradvocate.com/beer/profile/50801/334943/,Bombs Quad,50801,Aston Abbey Brewing Co.,0,0
+808,11.00,216679,https://www.beeradvocate.com/beer/profile/38234/216679/,Ad Astra,38234,Wavelength Brewing Company,0,0
+809,9.70,339563,https://www.beeradvocate.com/beer/profile/47072/339563/,Quadruplum,47072,Cerberus Brewing Company,0,0
+810,9.70,207987,https://www.beeradvocate.com/beer/profile/33816/207987/,Rum Barrel Aged Double Dubbel Animal Style Quad,33816,Nickel Beer Co.,0,0
+811,9.00,300403,https://www.beeradvocate.com/beer/profile/25433/300403/,Abbey Quad,25433,Payette Brewing,0,0
+812,9.00,284021,https://www.beeradvocate.com/beer/profile/30979/284021/,St. Benedict,30979,Radical Road Brewing Co.,0,0
+813,9.00,235386,https://www.beeradvocate.com/beer/profile/24836/235386/,Vier,24836,Tequesta Brewing Company,0,0
+814,12.00,338811,https://www.beeradvocate.com/beer/profile/29021/338811/,Barrel Aged Four Corners Quad,29021,Neshaminy Creek Brewing Company,0,0
+815, ? ,159873,https://www.beeradvocate.com/beer/profile/14967/159873/,Porto,14967,Brau Brothers Brewing Co. LLC,0,0
+816,10.40,276610,https://www.beeradvocate.com/beer/profile/46984/276610/,Cupid's Quad,46984,Bowling Green Beer Works,0,0
+817,11.20,324995,https://www.beeradvocate.com/beer/profile/45787/324995/,Veritas,45787,New Province Brewing Company,0,0
+818,10.00,232071,https://www.beeradvocate.com/beer/profile/1618/232071/,Belgian Quad,1618,Sarasota Brewing Company,0,0
+819,11.50,272776,https://www.beeradvocate.com/beer/profile/45045/272776/,Strict Observance,45045,Dorchester Brewing Company,0,0
+820,10.20,324745,https://www.beeradvocate.com/beer/profile/47746/324745/,Quadnado,47746,The Lone Girl Brewing Company,0,0
+821,10.10,332428,https://www.beeradvocate.com/beer/profile/44032/332428/,Four of Swords,44032,Front Porch Brewing,0,0
+822,8.50,165008,https://www.beeradvocate.com/beer/profile/33802/165008/,Belgian Quad,33802,Motorworks Brewing,0,0
+823,10.00,178321,https://www.beeradvocate.com/beer/profile/24748/178321/,Belgian Quad With Coffee,24748,Tioga-Sequoia Brewing Company,0,0
+824,11.20,325009,https://www.beeradvocate.com/beer/profile/45787/325009/,Red Wine Barrel Aged Veritas,45787,New Province Brewing Company,0,0
+825,14.00,313490,https://www.beeradvocate.com/beer/profile/38282/313490/,Quadular Thinking,38282,Abnormal Beer Company,0,0
+826,9.50,327571,https://www.beeradvocate.com/beer/profile/44009/327571/,Parallax,44009,Dark Sky Brewing Co.,0,0
+827,11.00,217749,https://www.beeradvocate.com/beer/profile/43171/217749/,Keusters Quadrupel,43171,Cerveza Keusters,0,0
+828,11.00,327830,https://www.beeradvocate.com/beer/profile/47759/327830/,Quad,47759,Watts River Brewing,0,0
+829,11.90,320920,https://www.beeradvocate.com/beer/profile/35597/320920/,Shoot the Moon,35597,Dobra Zupas,0,0
+830,9.50,159388,https://www.beeradvocate.com/beer/profile/39073/159388/,Birra Sea,39073,Birra San Rocco,0,0
+831,8.90,325028,https://www.beeradvocate.com/beer/profile/51609/325028/,St. Arnold of Soissons,51609,Idyllwild Brewpub,0,0
+832,10.00,336294,https://www.beeradvocate.com/beer/profile/42541/336294/,Friar Goomba,42541,Quattro Goomba's Brewery,0,0
+833,10.50,328365,https://www.beeradvocate.com/beer/profile/47542/328365/,Visitation,47542,North End Brewing Co,0,0
+834,12.00,223406,https://www.beeradvocate.com/beer/profile/42354/223406/,Duncan's Belgian Style Quadrupel,42354,Duncan's Abbey,0,0
+835,13.30,328369,https://www.beeradvocate.com/beer/profile/47542/328369/,Cuvee De Moor,47542,North End Brewing Co,0,0
+836,11.00,331953,https://www.beeradvocate.com/beer/profile/43736/331953/,Charles,43736,Brixton Brewing,0,0
+837, ? ,204469,https://www.beeradvocate.com/beer/profile/35229/204469/,Barrel Aged Belgian Quad,35229,Living The Dream Brewing Co.,0,0
+838,10.70,328374,https://www.beeradvocate.com/beer/profile/47542/328374/,Rhum Visitation,47542,North End Brewing Co,0,0
+839,10.60,301239,https://www.beeradvocate.com/beer/profile/32451/301239/,Raging Willie,32451,Sunriver Brewing Company,0,0
+840,9.00,273336,https://www.beeradvocate.com/beer/profile/48597/273336/,Wilt,48597,Brewery Bhavana,0,0
+841,11.00,195002,https://www.beeradvocate.com/beer/profile/11611/195002/,Quadruppel,11611,Bridge Road Brewers,0,0
+842,12.00,317115,https://www.beeradvocate.com/beer/profile/42984/317115/,Pere Noel,42984,Bad Habit Brewing Company,0,0
+843,9.00,203709,https://www.beeradvocate.com/beer/profile/24817/203709/,The Plunger,24817,Bonfire Brewing Co.,0,0
+844,12.80,229060,https://www.beeradvocate.com/beer/profile/18564/229060/,Belgian Style Quadrupel,18564,Upslope Brewing Company - Lee Hill,0,0
+845, ? ,193732,https://www.beeradvocate.com/beer/profile/21517/193732/,Autumn Stupor,21517,Denali Brewing Company / Twister Creek Restaurant,0,0
+846,12.00,303559,https://www.beeradvocate.com/beer/profile/16055/303559/,Bareback Through Boston,16055,Amager Bryghus,0,0
+847,9.20,279757,https://www.beeradvocate.com/beer/profile/40740/279757/,Two And Two,40740,St. Joseph Brewery & Public House,0,0
+848,10.00,308429,https://www.beeradvocate.com/beer/profile/48463/308429/,Realize Truth,48463,Crooked Run Central,0,0
+849,10.50,186062,https://www.beeradvocate.com/beer/profile/18796/186062/,Hildegard Quadruple,18796,Boquébière,0,0
+850,10.00,308429,https://www.beeradvocate.com/beer/profile/48463/308429/,Realize Truth,48463,Crooked Run Central,0,0
+851,10.50,186062,https://www.beeradvocate.com/beer/profile/18796/186062/,Hildegard Quadruple,18796,Boquébière,0,0
+852,11.00,292305,https://www.beeradvocate.com/beer/profile/46977/292305/,The Finicky Bishop,46977,Red Dragon Brewery,0,0
+853,11.00,323537,https://www.beeradvocate.com/beer/profile/45081/323537/,Magnifique Belgian Quad Aged In Rum Barrels,45081,Left Nut Brewing,0,0
+854,8.50,190162,https://www.beeradvocate.com/beer/profile/40873/190162/,Quadrupel,40873,R. Shea Brewing,0,0
+855,10.00,150228,https://www.beeradvocate.com/beer/profile/38030/150228/,Bresañ Navidad,38030,Bresañ Cerveza Artesanal,0,0
+856,11.30,328662,https://www.beeradvocate.com/beer/profile/40307/328662/,Boundary / Siphon Spudrupel,40307,Boundary Brewing Cooperative,0,0
+857, ? ,304342,https://www.beeradvocate.com/beer/profile/43862/304342/,Ryan's Quad 2.0,43862,WoodGrain Brewing Co,0,0
+858,11.00,203479,https://www.beeradvocate.com/beer/profile/32566/203479/,Crimson Fog,32566,12Degree Brewing,0,0
+859,9.60,325338,https://www.beeradvocate.com/beer/profile/49663/325338/,Father Francois,49663,Blue Oak Brewing Company,0,0
+860,8.80,204511,https://www.beeradvocate.com/beer/profile/32811/204511/,Old Golden Road,32811,Lost Highway Brewing Company,0,0
+861,12.00,224479,https://www.beeradvocate.com/beer/profile/32660/224479/,Quadrennial Quaff,32660,Bugnutty Brewing Company,0,0
+862,12.20,339432,https://www.beeradvocate.com/beer/profile/48698/339432/,Belgian Bouquet,48698,Zephyrhills Brewing Company,0,0
+863,12.00,161003,https://www.beeradvocate.com/beer/profile/39144/161003/,Angel’s Breath,39144,Down the Road Beer Co.,0,0
+864,10.00,210156,https://www.beeradvocate.com/beer/profile/28873/210156/,Biere Del Bac (base Beer),28873,Dragoon Brewing Co.,0,0
+865,11.30,194542,https://www.beeradvocate.com/beer/profile/24299/194542/,Fuck Art - This Is Advertising (St. Emilion Barrel Aged),24299,To Øl,0,0
+866,11.50,264688,https://www.beeradvocate.com/beer/profile/44159/264688/,Trap King,44159,Wild Card Brewing Company,0,0
+867,18.50,268529,https://www.beeradvocate.com/beer/profile/32063/268529/,Panty Dropper,32063,Poor House Brewing Company,0,0
+868,12.40,285425,https://www.beeradvocate.com/beer/profile/37612/285425/,Abbey Series Belgian Quad,37612,Audacity Brewhouse,0,0
+869, ? ,214515,https://www.beeradvocate.com/beer/profile/44127/214515/,Blood Of Crom (Barrel-Aged),44127,Lincoln's Beard Brewing Co.,0,0
+870,10.30,179187,https://www.beeradvocate.com/beer/profile/30365/179187/,Quad Damn!,30365,Heathen Brewing,0,0
+871, ? ,205046,https://www.beeradvocate.com/beer/profile/31765/205046/,Autumn Quad,31765,Sanitas Brewing Company,0,0
+872,10.20,341497,https://www.beeradvocate.com/beer/profile/40283/341497/,Vedo Quadruplo,40283,Bibibir,0,0
+873,10.80,341498,https://www.beeradvocate.com/beer/profile/40283/341498/,Vedo Quadruplo Jura Barrel Aged,40283,Bibibir,0,0
+874,12.20,310524,https://www.beeradvocate.com/beer/profile/31535/310524/,All I See Is Carrion - Maple Whiskey Barrel Aged Belgian Quad with Cherries,31535,Adroit Theory Brewing Company,0,0

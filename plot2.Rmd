@@ -1,0 +1,60 @@
+---
+title: "Data Incubator Project Proposal - Plot 2"
+author: "Yue Jin"
+date: "April 30, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning = FALSE)
+require(ggplot2)
+```
+
+### Plot #2
+```{r p2}
+brewery<-read.csv("data_scraping_cleaning/company.csv")
+brewery<-brewery[,c(-1,-7)]
+brewery$beer_currents<-as.numeric(as.character(brewery$beer_currents))
+brewery$total_reviews<-as.numeric(as.character(brewery$total_reviews))
+brewery$total_ratings<-as.numeric(as.character(brewery$total_ratings))
+brewery$review_per_prod<-brewery$total_reviews/brewery$beer_currents
+
+ba_level<-levels(brewery$ba_levels)
+brewery$ba_levels<-factor(brewery$ba_levels,c(ba_level[c(9,6,3,8,4,5,7,2)],"No Rating"))
+brewery[is.na(brewery$ba_levels),]$ba_levels<-"No Rating"
+brewery<-subset(brewery,!is.na(review_per_prod))
+
+p2<-ggplot(data=brewery,aes(y=review_per_prod,x=beer_currents,color=ba_levels))+geom_point(alpha=0.5)+facet_wrap(~ba_levels)
+p2<-p2+ylim(0,200)+xlab("Total Number of Products")+ylab("Average Reviews per Product")+labs(color="BA Rating")
+p2<-p2+ggtitle("Summary of 13564 Breweries Worldwide")+theme(plot.title = element_text(hjust = 0.5))
+p2
+```
+
+#### Description
+
+- Total number of products produced by each brewery shows a long tail pattern, most breweries only produce a small variety of products (mean = 14.39, median = 8), but a few breweries have product line as large as 200+ products
+
+- Breweries with large product line are more likely to get "above average" rating (Exceptional to Good), while outstanding breweries tend to focus on fewer products
+
+- The average review per product is generally low among extreme BA ratings (Awful/World-Class). The rating may not be reliable due to small review size
+
+
+-----------------
+*Definition of BA rating*
+
+- 4.50 - 5.00 = World-Class
+
+- 4.25 - 4.49 = Outstanding
+
+- 4.00 - 4.24 = Exceptional
+
+- 3.75 - 3.99 = Very Good
+
+- 3.50 - 3.74 = Good
+
+- 3.00 - 3.49 = Okay
+
+- 2.00 - 2.99 = Poor
+
+- 1.00 - 1.99 = Awful
+

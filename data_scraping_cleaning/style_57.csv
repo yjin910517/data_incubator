@@ -1,0 +1,1440 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,7.00,672,https://www.beeradvocate.com/beer/profile/215/672/,Chimay Première (Red),215,Bières de Chimay,"4,960",4.15
+1,8.20,142,https://www.beeradvocate.com/beer/profile/42/142/,Abbey Ale,42,Brewery Ommegang,"4,642",4.16
+2,7.00,674,https://www.beeradvocate.com/beer/profile/208/674/,Westmalle Trappist Dubbel,208,Brouwerij Westmalle,"2,794",4.18
+3,7.50,3842,https://www.beeradvocate.com/beer/profile/207/3842/,Trappistes Rochefort 6,207,Brasserie de Rochefort,"2,518",4.15
+4,8.00,1855,https://www.beeradvocate.com/beer/profile/259/1855/,St. Bernardus Prior 8,259,Brouwerij St. Bernardus NV,"2,493",4.16
+5,8.70,16807,https://www.beeradvocate.com/beer/profile/1146/16807/,Père Jacques,1146,Goose Island Beer Co.,"2,309",3.92
+6,7.00,1912,https://www.beeradvocate.com/beer/profile/192/1912/,Abbey Belgian Style Ale,192,New Belgium Brewing,"2,293",4.01
+7,8.00,857,https://www.beeradvocate.com/beer/profile/313/857/,Trappist Westvleteren 8 (VIII),313,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),"2,222",4.48
+8,7.00,10,https://www.beeradvocate.com/beer/profile/4/10/,Dubbel Ale,4,Allagash Brewing Company,"1,714",3.81
+9,6.70,1856,https://www.beeradvocate.com/beer/profile/259/1856/,St. Bernardus Pater 6,259,Brouwerij St. Bernardus NV,"1,630",4.09
+10,7.50,20604,https://www.beeradvocate.com/beer/profile/287/20604/,Hell Hath No Fury Ale,287,Bell's Brewery - Eccentric Café & General Store,"1,459",3.78
+11,8.00,2508,https://www.beeradvocate.com/beer/profile/222/2508/,Maredsous 8 - Brune,222,Brouwerij Duvel Moortgat NV,"1,449",4.03
+12,7.50,138,https://www.beeradvocate.com/beer/profile/41/138/,Corsendonk Pater / Abbey Brown Ale,41,Brouwerij Corsendonk,"1,155",4
+13,8.30,26667,https://www.beeradvocate.com/beer/profile/141/26667/,Single Digit Dubbel Belgian-Style Dubbel Ale,141,Smuttynose Brewing Company,"1,080",3.67
+14,6.50,1496,https://www.beeradvocate.com/beer/profile/436/1496/,Grimbergen Dubbel,436,Brouwerij Alken-Maes,"1,069",3.81
+15,8.00,134091,https://www.beeradvocate.com/beer/profile/42/134091/,Game Of Thrones: Valar Morghulis,42,Brewery Ommegang,905,3.87
+16,7.00,626,https://www.beeradvocate.com/beer/profile/184/626/,La Trappe Dubbel (Koningshoeven / Dominus),184,Bierbrouwerij De Koningshoeven B.V.,877,3.93
+17,8.00,8045,https://www.beeradvocate.com/beer/profile/922/8045/,Trappist Achel 8° Bruin,922,Brouwerij der St. Benedictusabdij de Achelse,872,4.13
+18,8.00,31656,https://www.beeradvocate.com/beer/profile/18149/31656/,Lost & Found Abbey Ale,18149,The Lost Abbey,857,3.92
+19,7.20,1027,https://www.beeradvocate.com/beer/profile/339/1027/,Abbey Dubbel,339,Flying Fish Brewing Company,752,3.57
+20,8.00,1608,https://www.beeradvocate.com/beer/profile/48/1608/,Bornem Double,48,Brouwerij Van Steenberge N.V.,667,3.72
+21,6.80,157,https://www.beeradvocate.com/beer/profile/196/157/,Affligem Dubbel,196,Brouwerij De Smedt / Brouwerij Affligem,618,3.82
+22,8.00,45583,https://www.beeradvocate.com/beer/profile/3/45583/,Abbey Ale,3,Abita Brewing Co.,578,3.66
+23,7.00,7097,https://www.beeradvocate.com/beer/profile/997/7097/,Brewer's Art Resurrection,997,The Brewer's Art,534,3.85
+24,9.00,4168,https://www.beeradvocate.com/beer/profile/193/4168/,Brother David's Belgian-style Double Ale,193,Anderson Valley Brewing Company,440,3.64
+25,6.50,26203,https://www.beeradvocate.com/beer/profile/718/26203/,Petrus Dubbel Bruin Ale,718,De Brabandere,327,3.61
+26,6.90,88279,https://www.beeradvocate.com/beer/profile/30035/88279/,Benno,30035,Stift Engelszell,320,3.74
+27,7.00,135762,https://www.beeradvocate.com/beer/profile/694/135762/,Jovial,694,Tröegs Brewing Company,301,3.82
+28,8.00,2575,https://www.beeradvocate.com/beer/profile/826/2575/,Brune,826,Brasserie de l'Abbaye du Val-Dieu,288,4.02
+29,7.50,6819,https://www.beeradvocate.com/beer/profile/2874/6819/,St. Feuillien Brune,2874,Brasserie St. Feuillien,276,3.78
+30,8.50,43974,https://www.beeradvocate.com/beer/profile/17962/43974/,Siamese Twin Ale,17962,Uncommon Brewers,240,3.6
+31,7.70,98561,https://www.beeradvocate.com/beer/profile/392/98561/,Althea,392,Weyerbacher Brewing Co.,237,3.66
+32,6.75,27662,https://www.beeradvocate.com/beer/profile/863/27662/,Benediction,863,Russian River Brewing Company,228,3.85
+33,6.90,713,https://www.beeradvocate.com/beer/profile/183/713/,St. Sebastiaan Dark,183,Brouwerij Sterkens N.V.,211,3.87
+34,8.50,85666,https://www.beeradvocate.com/beer/profile/140/85666/,Ovila Abbey Barrel Aged Dubbel,140,Sierra Nevada Brewing Co.,205,4.06
+35,6.00,68948,https://www.beeradvocate.com/beer/profile/24678/68948/,Solitude,24678,Brewery Vivant,201,3.62
+36,7.50,32320,https://www.beeradvocate.com/beer/profile/268/32320/,Brugse Zot Dubbel,268,Huisbrouwerij De Halve Maan,198,3.79
+37,6.90,49720,https://www.beeradvocate.com/beer/profile/19832/49720/,Big Bison Ale,19832,Crown Valley Brewing & Distilling Co.,195,3.72
+38,8.00,28992,https://www.beeradvocate.com/beer/profile/12959/28992/,St. Vincent's Dubbel,12959,Captain Lawrence Brewing Co.,194,3.82
+39,7.50,53012,https://www.beeradvocate.com/beer/profile/18539/53012/,Dark Abby,18539,Devils Backbone Brewing Company,172,3.64
+40,8.00,39566,https://www.beeradvocate.com/beer/profile/3461/39566/,St Martin Brune,3461,Brasserie De Brunehaut,168,3.64
+41,7.00,57725,https://www.beeradvocate.com/beer/profile/22655/57725/,Brother Joseph's Belgian Dubbel,22655,Straight To Ale,165,3.76
+42,7.70,40686,https://www.beeradvocate.com/beer/profile/16352/40686/,Evil 8° Belgian-Style Dubbel Ale,16352,Blue Mountain Brewery,165,3.77
+43,8.00,30863,https://www.beeradvocate.com/beer/profile/2807/30863/,Dominus Vobiscum Double,2807,Microbrasserie Charlevoix,161,3.94
+44, ? ,627,https://www.beeradvocate.com/beer/profile/183/627/,Sterkens Dubbel Ale,183,Brouwerij Sterkens N.V.,156,3.72
+45,6.90,97938,https://www.beeradvocate.com/beer/profile/30272/97938/,Horny Monk,30272,Petoskey Brewing Company,144,3.54
+46,6.50,120830,https://www.beeradvocate.com/beer/profile/436/120830/,Grimbergen Double-Ambree,436,Brouwerij Alken-Maes,134,3.72
+47,7.00,38297,https://www.beeradvocate.com/beer/profile/16132/38297/,Green's Endeavour Dubbel Dark Ale,16132,Green's Gluten Free Beers,123,2.94
+48,6.50,1405,https://www.beeradvocate.com/beer/profile/489/1405/,Natte,489,Brouwerij 't IJ,121,3.55
+49,7.00,41696,https://www.beeradvocate.com/beer/profile/16792/41696/,Boaks Two Blind Monks Ale,16792,Boak Beverage,119,3.51
+50,8.10,121412,https://www.beeradvocate.com/beer/profile/28019/121412/,Quality Of Life,28019,Sante Adairius Rustic Ales,116,4.28
+51,8.00,45566,https://www.beeradvocate.com/beer/profile/4707/45566/,Belgian-Style Dubbel,4707,Choc Beer Co. / Pete's Place,113,3.85
+52,8.80,26214,https://www.beeradvocate.com/beer/profile/21734/26214/,Vicaris Generaal,21734,Brouwerij Dilewyns,105,3.92
+53,7.20,79214,https://www.beeradvocate.com/beer/profile/27934/79214/,Dancin' Monks,27934,Adelbert's Brewery,105,3.63
+54,6.70,133383,https://www.beeradvocate.com/beer/profile/35374/133383/,St. Benedict's Breakfast Dubbel,35374,Haw River Farmhouse Ales,102,4.08
+55,6.50,43708,https://www.beeradvocate.com/beer/profile/889/43708/,Steenbrugge Dubbel Bruin,889,Brouwerij Palm NV,102,3.44
+56,7.00,53495,https://www.beeradvocate.com/beer/profile/365/53495/,Pike Tandem,365,Pike Brewing Company,102,3.51
+57,8.50,77914,https://www.beeradvocate.com/beer/profile/27942/77914/,Hoodoo,27942,Boom Island Brewing Company,98,3.88
+58,6.30,6170,https://www.beeradvocate.com/beer/profile/149/6170/,Abbaye De Floreffe Double,149,Brasserie Lefèbvre SA,97,3.64
+59,8.10,63519,https://www.beeradvocate.com/beer/profile/23641/63519/,Dubbel Fisted,23641,Iron Fist Brewing Company,96,3.71
+60,7.20,1810,https://www.beeradvocate.com/beer/profile/6/1810/,Witkap Pater Dubbel,6,Brouwerij Slaghmuylder,87,3.78
+61,9.00,6587,https://www.beeradvocate.com/beer/profile/322/6587/,'t Smisje Dubbel,322,Brouwerij Smisje,87,3.8
+62,6.00,76860,https://www.beeradvocate.com/beer/profile/22564/76860/,Lucid Dreams,22564,Odd Side Ales,85,3.76
+63,7.00,19257,https://www.beeradvocate.com/beer/profile/3521/19257/,Andelot Cuvee Angelique,3521,De Proefbrouwerij (bvba Andelot),83,3.58
+64,8.50,37324,https://www.beeradvocate.com/beer/profile/805/37324/,Waterloo Double 8 Dark,805,Brasserie Du Bocq,83,3.91
+65,9.00,90344,https://www.beeradvocate.com/beer/profile/21193/90344/,Window Pane Series Fig & Raisin,21193,Mother Earth Brewing,83,4.02
+66,6.90,14857,https://www.beeradvocate.com/beer/profile/6045/14857/,Abbey Dubbel,6045,Iron Hill Brewery & Restaurant,82,3.81
+67,9.20,30631,https://www.beeradvocate.com/beer/profile/13837/30631/,Diablo Belga,13837,Ale Asylum,78,3.94
+68,8.00,36276,https://www.beeradvocate.com/beer/profile/1805/36276/,? The Riddler ?,1805,Rock Art Brewery,78,3.5
+69,7.00,1549,https://www.beeradvocate.com/beer/profile/394/1549/,Stoudt's Abbey Double Ale,394,Stoudts Brewing Co.,71,3.79
+70,8.00,7606,https://www.beeradvocate.com/beer/profile/1457/7606/,Arbor Brewing Phat Abbot Belgian Dubbel,1457,Arbor Brewing Company,70,3.57
+71,7.50,93177,https://www.beeradvocate.com/beer/profile/7734/93177/,AMA Bruna,7734,Amarcord Birra Artigianale Italiana,69,3.58
+72,8.00,86280,https://www.beeradvocate.com/beer/profile/3720/86280/,Mons Abbey Dubbel,3720,Brasserie Belgh Brasse,67,3.77
+73,8.00,64043,https://www.beeradvocate.com/beer/profile/23737/64043/,Dubbel,23737,Rockmill Brewery,67,3.85
+74,7.80,122124,https://www.beeradvocate.com/beer/profile/32480/122124/,Deduction,32480,Taxman Brewing Co.,66,3.87
+75,7.50,78079,https://www.beeradvocate.com/beer/profile/22408/78079/,LA-31 Bière Joi,22408,Bayou Teche Brewery,65,3.72
+76,10.30,107312,https://www.beeradvocate.com/beer/profile/31460/107312/,Rum Barrel Belgian Dubbel,31460,Brothers Craft Brewing,64,3.95
+77,9.30,53581,https://www.beeradvocate.com/beer/profile/20417/53581/,White Birch Dubbel,20417,White Birch Brewing,62,3.06
+78,7.00,2142,https://www.beeradvocate.com/beer/profile/720/2142/,Ciney Brune,720,Demarche Brewery,62,3.56
+79,8.00,74653,https://www.beeradvocate.com/beer/profile/25053/74653/,Dubbel Entendre,25053,Sound Brewery,62,3.74
+80,6.90,109091,https://www.beeradvocate.com/beer/profile/33522/109091/,Cadence,33522,Reformation Brewery,58,3.66
+81,7.00,65401,https://www.beeradvocate.com/beer/profile/24445/65401/,Mother Jones Abbey Style Dubbel,24445,Haymarket Beer Co. Pub & Brewery,55,3.6
+82,7.00,102394,https://www.beeradvocate.com/beer/profile/29745/102394/,Belgian Style Dubbel,29745,Cedar Creek Brewery,53,3.67
+83,7.30,80262,https://www.beeradvocate.com/beer/profile/28657/80262/,Rosa's Hips,28657,Monkish Brewing Co.,50,3.74
+84,7.90,96406,https://www.beeradvocate.com/beer/profile/31089/96406/,Lustful Maiden,31089,Apocalypse Ale Works,48,3.94
+85,7.08,66673,https://www.beeradvocate.com/beer/profile/22611/66673/,The Dun Glen Dubbel,22611,Bridge Brew Works LLC,46,3.92
+86,8.20,43430,https://www.beeradvocate.com/beer/profile/11031/43430/,Donder & Bliksem (US 8.2 % Version),11031,Brouwerij De Molen,46,3.76
+87,6.50,3019,https://www.beeradvocate.com/beer/profile/893/3019/,Pater Lieven Bruin,893,Brouwerij Van den Bossche,46,3.92
+88,9.20,64936,https://www.beeradvocate.com/beer/profile/22243/64936/,Dedication Ale,22243,Vintage Brewing Company,45,3.89
+89,6.90,5370,https://www.beeradvocate.com/beer/profile/183/5370/,St. Paul Double,183,Brouwerij Sterkens N.V.,45,3.82
+90,7.50,2613,https://www.beeradvocate.com/beer/profile/436/2613/,Grimbergen Cuvée de l'Ermitage,436,Brouwerij Alken-Maes,42,3.69
+91,6.50,179593,https://www.beeradvocate.com/beer/profile/41/179593/,Pater Dubbel Ale,41,Brouwerij Corsendonk,42,3.99
+92,7.50,52180,https://www.beeradvocate.com/beer/profile/15205/52180/,Fortunato,15205,Tri-City Brewing Company,42,3.32
+93,6.20,107594,https://www.beeradvocate.com/beer/profile/32679/107594/,Holy Candy,32679,Wiseacre Brewing,40,3.81
+94,7.00,95087,https://www.beeradvocate.com/beer/profile/28657/95087/,Shaolin Fist,28657,Monkish Brewing Co.,40,3.85
+95,7.50,7280,https://www.beeradvocate.com/beer/profile/634/7280/,Kapittel Dubbel,634,Leroy Breweries,39,3.75
+96,5.25,115890,https://www.beeradvocate.com/beer/profile/27835/115890/,The Special,27835,The Black Abbey Brewing Company,39,3.7
+97,10.00,132797,https://www.beeradvocate.com/beer/profile/22271/132797/,Ave Maria,22271,Cathedral Square Brewery,38,3.8
+98,6.50,90562,https://www.beeradvocate.com/beer/profile/30983/90562/,The King,30983,Trophy Brewing,38,3.84
+99,6.50,7632,https://www.beeradvocate.com/beer/profile/675/7632/,Ename Dubbel,675,Roman N.V.,38,3.54
+100,8.00,13011,https://www.beeradvocate.com/beer/profile/596/13011/,Portsmouth Belgian Dubbel,596,Portsmouth Brewery,38,4.05
+101,9.50,65735,https://www.beeradvocate.com/beer/profile/42/65735/,Abbey Ale - Bourbon Barrel-Aged,42,Brewery Ommegang,37,4.13
+102,6.50,115914,https://www.beeradvocate.com/beer/profile/31644/115914/,Raspberry Dubbel,31644,Penrose Brewing,37,3.76
+103,7.30,5861,https://www.beeradvocate.com/beer/profile/530/5861/,Hertog Jan Dubbel,530,Arcense Stoombierbouwerij (Hertog Jan Brouwerij),37,3.63
+104,6.80,16642,https://www.beeradvocate.com/beer/profile/4027/16642/,Adirondack Abbey Ale,4027,Great Adirondack Steak And Seafood Co.,36,3.85
+105,6.50,160395,https://www.beeradvocate.com/beer/profile/24678/160395/,Dubbelicious,24678,Brewery Vivant,36,3.85
+106,7.30,111046,https://www.beeradvocate.com/beer/profile/16094/111046/,Sacre Bleu,16094,Double Mountain Brewery & Taproom,36,3.6
+107,7.00,42983,https://www.beeradvocate.com/beer/profile/12516/42983/,Orthus Belgian Dubbel,12516,Thirsty Dog Brewing Company,34,3.95
+108,7.20,116338,https://www.beeradvocate.com/beer/profile/34142/116338/,Moncks Corner Abbey Ale,34142,River Rat Brewery,33,3.78
+109,7.50,114108,https://www.beeradvocate.com/beer/profile/402/114108/,Abbey Ale Belgian Style Ale,402,Old Dominion Brewing Company,32,3.51
+110,6.50,74278,https://www.beeradvocate.com/beer/profile/25775/74278/,L’Assoiffé,25775,Brasseurs Du Monde,31,3.73
+111,7.50,81582,https://www.beeradvocate.com/beer/profile/28748/81582/,Mon Cherries,28748,Borealis Fermentery,31,3.85
+112,7.20,134476,https://www.beeradvocate.com/beer/profile/25712/134476/,Belgian Abbey,25712,Martin City Brewing Company,30,3.83
+113,6.50,24441,https://www.beeradvocate.com/beer/profile/552/24441/,Dulle Griet,552,Scheldebrouwerij,30,3.58
+114,6.40,8929,https://www.beeradvocate.com/beer/profile/1336/8929/,Abbey Roade,1336,Appalachian Brewing Company,30,3.59
+115,7.50,14618,https://www.beeradvocate.com/beer/profile/1837/14618/,Ho Ho Ho Magic Dubbel,1837,Buckeye Brewing Company,29,3.43
+116,7.50,17571,https://www.beeradvocate.com/beer/profile/9617/17571/,Bastone Dubbel,9617,Bastone Brewery,29,3.75
+117,7.50,22437,https://www.beeradvocate.com/beer/profile/1666/22437/,Winter Solstice Dubbel,1666,Selin's Grove Brewing Company,29,4.02
+118,7.50,75818,https://www.beeradvocate.com/beer/profile/25818/75818/,Rhinoel,25818,Lost Rhino Brewing Company,28,3.48
+119,7.00,21564,https://www.beeradvocate.com/beer/profile/3313/21564/,Adelardus Dubbel,3313,Brouwerij Kerkom,28,3.77
+120,7.60,138138,https://www.beeradvocate.com/beer/profile/36738/138138/,Belgian Dubbel,36738,Sugar Creek Brewing Company,28,4.13
+121,8.00,10235,https://www.beeradvocate.com/beer/profile/180/10235/,St. Idesbald Dubbel,180,Brouwerij Huyghe,28,3.44
+122,7.00,30797,https://www.beeradvocate.com/beer/profile/1337/30797/,Dubbelicious,1337,Pizza Port Solana Beach,27,3.76
+123,6.40,144719,https://www.beeradvocate.com/beer/profile/29656/144719/,DFW Collaboration With Rahr,29656,Lakewood Brewing Company,27,3.6
+124,7.80,52564,https://www.beeradvocate.com/beer/profile/17271/52564/,Plum Riot,17271,Bootlegger's Brewery,27,3.59
+125,7.40,65367,https://www.beeradvocate.com/beer/profile/22928/65367/,Dubbel Down,22928,Barrier Brewing Company,27,3.85
+126,7.00,17766,https://www.beeradvocate.com/beer/profile/507/17766/,Gerardus Wittems Kloosterbier Dubbel,507,Gulpener Bierbrouwerij B.V.,27,3.43
+127,9.00,99565,https://www.beeradvocate.com/beer/profile/22072/99565/,Horizontal Tango,22072,Revolution Brewing,27,4.12
+128,7.50,151595,https://www.beeradvocate.com/beer/profile/30452/151595/,George Calme Ale D.Abbaye,30452,SingleCut Beersmiths,26,3.95
+129,7.00,7008,https://www.beeradvocate.com/beer/profile/196/7008/,Postel Dubbel,196,Brouwerij De Smedt / Brouwerij Affligem,25,3.65
+130,6.50,87228,https://www.beeradvocate.com/beer/profile/2791/87228/,Dominus Double,2791,Brouwerij Timmermans-John Martin N.V.,25,3.79
+131,7.50,109610,https://www.beeradvocate.com/beer/profile/31493/109610/,JoCo White Winter,31493,Deep River Brewing Co.,24,3.78
+132,8.40,107339,https://www.beeradvocate.com/beer/profile/27879/107339/,The Pride,27879,Birdsong Brewing,24,3.98
+133,9.10,104926,https://www.beeradvocate.com/beer/profile/27934/104926/,Vintage Monks 2013,27934,Adelbert's Brewery,24,3.86
+134,9.00,82423,https://www.beeradvocate.com/beer/profile/28748/82423/,Speckled Ghost,28748,Borealis Fermentery,24,4.17
+135,6.50,5896,https://www.beeradvocate.com/beer/profile/532/5896/,Capucijn,532,Budelse Brouwerij B.V.,23,3.69
+136,7.50,127529,https://www.beeradvocate.com/beer/profile/18899/127529/,Belô São Francisco,18899,Cervejaria Wäls,23,3.75
+137,6.60,67911,https://www.beeradvocate.com/beer/profile/2710/67911/,Abbey Normal,2710,BJ's Chicago Pizza & Brewery Inc.,23,3.32
+138,6.60,67960,https://www.beeradvocate.com/beer/profile/3042/67960/,Abbey Normal,3042,BJ's Restaurant & Brewhouse,23,3.46
+139,8.00,68741,https://www.beeradvocate.com/beer/profile/17280/68741/,Gruut Bruin,17280,Gentse Stadsbrouwerij,23,3.64
+140,8.00,193203,https://www.beeradvocate.com/beer/profile/32480/193203/,Barrel Aged Deduction,32480,Taxman Brewing Co.,23,4.15
+141,6.50,138193,https://www.beeradvocate.com/beer/profile/31577/138193/,Kuka - Pumpkin Dubbel,31577,Andean Brewing Company,23,3.53
+142,10.00,275480,https://www.beeradvocate.com/beer/profile/32319/275480/,Trail Dubbel,32319,Side Project Brewing,22,4.21
+143, ? ,63257,https://www.beeradvocate.com/beer/profile/16792/63257/,Boaks Wooden Beanie,16792,Boak Beverage,22,3.8
+144,7.50,50230,https://www.beeradvocate.com/beer/profile/11890/50230/,Emelisse Dubbel,11890,Bierbrouwerij Grand-Café  Emelisse,22,3.73
+145,9.00,35478,https://www.beeradvocate.com/beer/profile/609/35478/,Bison Winter Warmer,609,Bison Brewing,22,3.66
+146,6.70,108442,https://www.beeradvocate.com/beer/profile/24136/108442/,Monks' Dubbel Ale,24136,Abbey Beverage Company (Monastery of Christ in the Desert),22,3.57
+147,8.00,170590,https://www.beeradvocate.com/beer/profile/32480/170590/,Cherry Picker,32480,Taxman Brewing Co.,21,3.93
+148,7.50,48309,https://www.beeradvocate.com/beer/profile/17287/48309/,Abbey Ale,17287,Wedge Brewing Company,21,4.08
+149,5.20,7621,https://www.beeradvocate.com/beer/profile/2085/7621/,Dragonmead Dubbel Dragon Ale,2085,Dragonmead Microbrewery,21,3.74
+150,8.00,26105,https://www.beeradvocate.com/beer/profile/2563/26105/,Double Trouble,2563,Holgate Brewhouse / Keatings Hotel,21,3.47
+151,8.20,80399,https://www.beeradvocate.com/beer/profile/28820/80399/,Toil & Trouble,28820,Bellwoods Brewery,20,3.89
+152,7.20,106875,https://www.beeradvocate.com/beer/profile/27879/106875/,St Tuber Abbey Ale,27879,Birdsong Brewing,20,3.94
+153,8.00,155611,https://www.beeradvocate.com/beer/profile/32375/155611/,Dubbel Shot,32375,Three Taverns Craft Brewery,20,3.98
+154,6.20,54501,https://www.beeradvocate.com/beer/profile/2479/54501/,Bohemia Confraria,2479,Antarctica (Companhia Brasileira De Bebidas),20,3.11
+155,7.00,91140,https://www.beeradvocate.com/beer/profile/29030/91140/,Dubbel D'Hiver,29030,Microbrasserie Le Castor,19,3.56
+156,7.20,50462,https://www.beeradvocate.com/beer/profile/16402/50462/,Scarlet 7,16402,Red Eye Brewing Company,19,3.53
+157,8.00,89143,https://www.beeradvocate.com/beer/profile/19126/89143/,The Beer With No Name,19126,Lonerider Brewing Company,19,3.89
+158,7.00,121420,https://www.beeradvocate.com/beer/profile/22408/121420/,Percolator Series: Biere Joi,22408,Bayou Teche Brewery,19,3.96
+159,7.50,91482,https://www.beeradvocate.com/beer/profile/20537/91482/,Hurlevent,20537,Le Trèfle Noir,19,3.6
+160,6.90,108492,https://www.beeradvocate.com/beer/profile/33181/108492/,Defcon III,33181,Faction Brewing,19,3.57
+161,7.00,92532,https://www.beeradvocate.com/beer/profile/18858/92532/,Clodhopper,18858,Driftwood Brewery,18,3.98
+162,7.50,62582,https://www.beeradvocate.com/beer/profile/18899/62582/,Wäls Dubbel,18899,Cervejaria Wäls,18,3.95
+163,6.40,13077,https://www.beeradvocate.com/beer/profile/526/13077/,Texels Dubbel VOC,526,Texelse Bierbrouwerij,17,3.66
+164,6.70,123729,https://www.beeradvocate.com/beer/profile/32906/123729/,Grotius,32906,Schilling Beer Co.,17,4
+165,9.50,21111,https://www.beeradvocate.com/beer/profile/10557/21111/,Canaster,10557,KleinBrouwerij De Glazen Toren,17,3.98
+166,7.20,188351,https://www.beeradvocate.com/beer/profile/35374/188351/,Bourbon Barrel-Aged St. Benedict's Breakfast Dubbel,35374,Haw River Farmhouse Ales,17,4.02
+167,7.00,187595,https://www.beeradvocate.com/beer/profile/28657/187595/,Shadow Boxing,28657,Monkish Brewing Co.,17,3.93
+168,8.50,190172,https://www.beeradvocate.com/beer/profile/42275/190172/,Baltic Dubbel,42275,Rügener Insel Brauerei GmbH,17,3.34
+169,7.60,198180,https://www.beeradvocate.com/beer/profile/35646/198180/,Breakfast & Brunettes,35646,Revelry Brewing Co,16,3.84
+170,7.50,6223,https://www.beeradvocate.com/beer/profile/771/6223/,Reb' Ale,771,Ferme Brasserie Schoune,16,3.3
+171,9.00,63826,https://www.beeradvocate.com/beer/profile/21448/63826/,La Trappistine,21448,Ladyface Ale Companie,16,3.68
+172,6.50,12133,https://www.beeradvocate.com/beer/profile/2361/12133/,De Graal Dubbel,2361,Brouwerij De Graal,16,3.44
+173,6.00,70266,https://www.beeradvocate.com/beer/profile/25819/70266/,Cotta 74,25819,Mastri Birrai Umbri,16,3.18
+174,10.00,71302,https://www.beeradvocate.com/beer/profile/22243/71302/,Dedication - Apple Brandy Barrel Aged,22243,Vintage Brewing Company,16,4.26
+175,7.50,25997,https://www.beeradvocate.com/beer/profile/5489/25997/,Kodiak Belgian Dubbel,5489,Big Bear Brewing Company,16,3.46
+176,7.50,71082,https://www.beeradvocate.com/beer/profile/25917/71082/,Broeder Jacob Bruin,25917,BVBA Brouwerij Broeder Jacob,16,3.48
+177,8.00,68816,https://www.beeradvocate.com/beer/profile/8203/68816/,Winter Ale (2010- ),8203,Paddock Wood Brewing Co.,16,3.71
+178,7.40,122119,https://www.beeradvocate.com/beer/profile/34315/122119/,Resurrection Mary,34315,Hailstorm Brewing Co.,15,3.79
+179,8.00,144690,https://www.beeradvocate.com/beer/profile/28991/144690/,H4LF2UAD,28991,Solemn Oath Brewery,15,3.97
+180,6.50,39736,https://www.beeradvocate.com/beer/profile/3465/39736/,Arend Dubbel,3465,Brouwerij De Ryck,15,3.64
+181,7.00,92763,https://www.beeradvocate.com/beer/profile/22072/92763/,Tango,22072,Revolution Brewing,15,3.54
+182,8.00,123230,https://www.beeradvocate.com/beer/profile/33235/123230/,Zoe,33235,Mill House Brewing Company,15,3.83
+183,6.30,92795,https://www.beeradvocate.com/beer/profile/21200/92795/,Apóstol Dubbel,21200,Inducerv SA,15,3.19
+184,8.00,127386,https://www.beeradvocate.com/beer/profile/35575/127386/,Ayawasca,35575,Darwin Brewing Company,15,3.73
+185,8.00,143357,https://www.beeradvocate.com/beer/profile/28784/143357/,Premium Goods,28784,8th Wonder Brewery,15,3.8
+186,7.40,68135,https://www.beeradvocate.com/beer/profile/24764/68135/,Kleinmanneken,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,14,3.62
+187,6.50,122937,https://www.beeradvocate.com/beer/profile/25775/122937/,L'assoiffé 8,25775,Brasseurs Du Monde,14,3.61
+188,7.00,20304,https://www.beeradvocate.com/beer/profile/196/20304/,Florival Brune-Bruin,196,Brouwerij De Smedt / Brouwerij Affligem,14,3.46
+189,6.00,195926,https://www.beeradvocate.com/beer/profile/40956/195926/,Nežinomas Krantas (Unknown Shore Oak Dubbel),40956,Raudonų Plytų Alaus Dirbtuvės (Brick By Brick Beer Workshop),14,3.59
+190,9.00,44676,https://www.beeradvocate.com/beer/profile/1765/44676/,Abbey Dubbel,1765,Abbey Brewing Co.,14,3.69
+191,7.00,80296,https://www.beeradvocate.com/beer/profile/27273/80296/,Vera,27273,Forest & Main Brewing Company,14,3.72
+192,7.00,85967,https://www.beeradvocate.com/beer/profile/29492/85967/,Ampleforth Abbey Beer,29492,Ampleforth Abbey,14,3.29
+193,7.00,93923,https://www.beeradvocate.com/beer/profile/31319/93923/,Mad DUB,31319,Acoustic Ales Brewing Experiment,14,4.07
+194,8.00,223521,https://www.beeradvocate.com/beer/profile/2346/223521/,Dubbel Fisted,2346,Rochester Mills Beer Co.,13,3.74
+195,7.90,27937,https://www.beeradvocate.com/beer/profile/4712/27937/,Saint Barb's Dubbel,4712,The Brewhouse,13,3.77
+196, ? ,109347,https://www.beeradvocate.com/beer/profile/28019/109347/,Naughty Ron,28019,Sante Adairius Rustic Ales,13,4.25
+197,8.40,81712,https://www.beeradvocate.com/beer/profile/19321/81712/,Belgian Dubbel,19321,ShawneeCraft Brewing Company,13,3.32
+198, ? ,72248,https://www.beeradvocate.com/beer/profile/24371/72248/,Calavera Dubbel,24371,Microcerveceria Gourmet Calavera,13,3.44
+199,8.50,119864,https://www.beeradvocate.com/beer/profile/660/119864/,Dubbel Klok,660,Huisbrouwerij Boelens,13,3.7
+200,6.50,100670,https://www.beeradvocate.com/beer/profile/28510/100670/,Duality,28510,Relic Brewing Co.,13,3.01
+201,8.10,226118,https://www.beeradvocate.com/beer/profile/36194/226118/,Saint Monty,36194,Scorched Earth Brewing Company,13,3.8
+202,7.00,202895,https://www.beeradvocate.com/beer/profile/33902/202895/,A2 Dubbel,33902,Transmitter Brewing,13,3.94
+203, ? ,33702,https://www.beeradvocate.com/beer/profile/226/33702/,Belgian Style Double,226,Nashoba Valley Brewery,13,3.34
+204,7.50,175800,https://www.beeradvocate.com/beer/profile/35134/175800/,Sri Lanka Dubbel,35134,Dageraad Brewing,13,3.8
+205,9.00,149220,https://www.beeradvocate.com/beer/profile/27879/149220/,Bourbon Barrel Aged St Tuber Abbey Ale,27879,Birdsong Brewing,13,4.23
+206,7.50,178468,https://www.beeradvocate.com/beer/profile/31825/178468/,Achillea,31825,Propolis Brewing,12,3.95
+207,4.80,152623,https://www.beeradvocate.com/beer/profile/38311/152623/,Pound Sign,38311,Noon Whistle Brewing,12,3.9
+208, ? ,4154,https://www.beeradvocate.com/beer/profile/1033/4154/,Max Abbey,1033,Max Lager's Wood-Fired Grill & Brewery,12,3.46
+209,6.70,161344,https://www.beeradvocate.com/beer/profile/39308/161344/,Dubbel Entendre,39308,Medusa Brewing Company,12,3.81
+210,7.00,132701,https://www.beeradvocate.com/beer/profile/32694/132701/,Bertinchamps Brune,32694,Ferme de Bertinchamps,12,3.73
+211,7.00,66415,https://www.beeradvocate.com/beer/profile/24411/66415/,Belgian Dubbel,24411,The Bier Brewery,12,4.26
+212,6.50,191650,https://www.beeradvocate.com/beer/profile/38998/191650/,Inkhorn,38998,Folly Brewpub,12,3.76
+213,6.50,193198,https://www.beeradvocate.com/beer/profile/2594/193198/,Belgian Dubbel,2594,Tree Brewing,12,3.64
+214,6.90,137921,https://www.beeradvocate.com/beer/profile/32615/137921/,Dubbel,32615,Une Année,12,3.9
+215,8.00,123616,https://www.beeradvocate.com/beer/profile/34734/123616/,Dubbel Conspiracy,34734,Council Brewing Company,12,3.78
+216,7.00,102645,https://www.beeradvocate.com/beer/profile/32453/102645/,Dylan's Dubbel,32453,Cherry Street Brewing Cooperative,12,3.79
+217,7.40,92447,https://www.beeradvocate.com/beer/profile/24814/92447/,1819,24814,Yellowhammer Brewing,11,3.57
+218,7.50,96033,https://www.beeradvocate.com/beer/profile/31825/96033/,Urtica Pale Nettle Ale,31825,Propolis Brewing,11,3.93
+219,7.30,77357,https://www.beeradvocate.com/beer/profile/2593/77357/,Belgian Style Dubbel,2593,Wild Rose Brewery & Taproom,11,3.9
+220,8.60,27463,https://www.beeradvocate.com/beer/profile/159/27463/,Tickle Brain,159,Burton Bridge Brewery,11,3.67
+221,7.50,97351,https://www.beeradvocate.com/beer/profile/17157/97351/,St. Thomas Belgian Abbey,17157,Potosi Brewing Company,11,3.9
+222,8.50,116558,https://www.beeradvocate.com/beer/profile/28798/116558/,8°,28798,Selkirk Abbey Brewing Company,11,3.94
+223,7.90,108386,https://www.beeradvocate.com/beer/profile/31460/108386/,Belgian Dubbel,31460,Brothers Craft Brewing,11,3.88
+224,7.50,32902,https://www.beeradvocate.com/beer/profile/2084/32902/,Thunder Canyon Doble Diablo,2084,Thunder Canyon Brewery,11,3.95
+225,7.60,190598,https://www.beeradvocate.com/beer/profile/42273/190598/,Johnny C's,42273,Forager Brewing Company,11,4.04
+226,7.00,187272,https://www.beeradvocate.com/beer/profile/37809/187272/,Asmodeus,37809,Ethereal Brewing,11,3.93
+227,7.20,145035,https://www.beeradvocate.com/beer/profile/34416/145035/,Together,34416,Wander Brewing,11,3.81
+228,7.30,74391,https://www.beeradvocate.com/beer/profile/24453/74391/,Punk Monk Dubbel,24453,Intuition Ale Works,11,3.73
+229,6.50,151706,https://www.beeradvocate.com/beer/profile/38139/151706/,Sanctum,38139,Strange Land Brewery,11,3.45
+230,8.00,26280,https://www.beeradvocate.com/beer/profile/1169/26280/,Blue Label Grand Reserve,1169,Fitger's Brewhouse,11,3.76
+231,7.10,15090,https://www.beeradvocate.com/beer/profile/3456/15090/,Sint Gummarus Dubbel,3456,Brouwerij Cornelissen,11,3.44
+232, ? ,37121,https://www.beeradvocate.com/beer/profile/12881/37121/,Belgian Dubbel,12881,Square One Brewery & Distillery,10,3.73
+233,6.60,269315,https://www.beeradvocate.com/beer/profile/28609/269315/,Divine Intervention,28609,Night Shift Brewing,10,4.04
+234,9.10,112903,https://www.beeradvocate.com/beer/profile/34024/112903/,Deus Vult Dubbel,34024,Sanctum Brewing Co.,10,4.1
+235, ? ,37152,https://www.beeradvocate.com/beer/profile/1853/37152/,Belgian Dubbel,1853,Sly Fox Brewing Company,10,3.88
+236,8.10,65571,https://www.beeradvocate.com/beer/profile/41/65571/,Corsendonk Summum Roodbruin,41,Brouwerij Corsendonk,10,3.58
+237,7.50,123221,https://www.beeradvocate.com/beer/profile/9617/123221/,Dubbel Vision,9617,Bastone Brewery,10,4.1
+238,8.50,35954,https://www.beeradvocate.com/beer/profile/12534/35954/,Fainters Dubbel,12534,Bright Brewery,10,3.71
+239,6.90,58504,https://www.beeradvocate.com/beer/profile/16824/58504/,Mad Abbot Dubbel,16824,The Little Brewing Company,10,3.54
+240,8.00,68492,https://www.beeradvocate.com/beer/profile/24453/68492/,Dubbel Helix,24453,Intuition Ale Works,10,3.79
+241,7.30,96403,https://www.beeradvocate.com/beer/profile/27092/96403/,Starstuff,27092,Harmony Brewing Company,10,3.93
+242,6.60,78484,https://www.beeradvocate.com/beer/profile/27038/78484/,BJ's Abby Normal,27038,BJ's Restaurant & Brewhouse,10,3.21
+243,6.30,19607,https://www.beeradvocate.com/beer/profile/10096/19607/,Eisenbahn Weihnachts Ale,10096,Cervejaria Sudbrack Ltda,10,3.51
+244,7.50,202395,https://www.beeradvocate.com/beer/profile/36757/202395/,Dubbel,36757,DESTIHL Brewery,10,3.37
+245,7.10,182950,https://www.beeradvocate.com/beer/profile/39028/182950/,Cloven Hoof,39028,Rockingham Brewing Company,10,3.93
+246,10.00,121010,https://www.beeradvocate.com/beer/profile/34665/121010/,Brutopian Munk,34665,Brutopia Brewery,10,3.87
+247,8.00,17888,https://www.beeradvocate.com/beer/profile/6/17888/,Ambiorix Dubbel,6,Brouwerij Slaghmuylder,10,3.8
+248,9.00,226025,https://www.beeradvocate.com/beer/profile/32480/226025/,Blackberry Deduction,32480,Taxman Brewing Co.,10,3.83
+249,8.50,76784,https://www.beeradvocate.com/beer/profile/10460/76784/,Manchester Dubbel,10460,The Marble Arch,10,3.9
+250,7.20,209426,https://www.beeradvocate.com/beer/profile/43612/209426/,Dimension,43612,Alter Brewing Company,9,3.73
+251,8.00,125206,https://www.beeradvocate.com/beer/profile/32991/125206/,"B., Sirius Belgian Dubbel",32991,Stormcloud Brewing Company,9,3.99
+252,7.40,128287,https://www.beeradvocate.com/beer/profile/33637/128287/,Dubbel Night Vision,33637,Kalona Brewing Company,9,3.86
+253,7.50,160302,https://www.beeradvocate.com/beer/profile/39158/160302/,Abbey Terno,39158,Barrel of Monks Brewing,9,3.79
+254,6.20,205884,https://www.beeradvocate.com/beer/profile/16503/205884/,1841,16503,Right Brain Brewery,9,3.76
+255,6.60,67912,https://www.beeradvocate.com/beer/profile/2711/67912/,Abbey Normal,2711,BJ's Restaurant & Brewhouse,9,3.77
+256,7.50,25167,https://www.beeradvocate.com/beer/profile/2874/25167/,St. Feuillien Påskeøl (Easter Beer),2874,Brasserie St. Feuillien,9,3.87
+257,7.00,86880,https://www.beeradvocate.com/beer/profile/13065/86880/,Abbey Ale,13065,Telegraph Brewing Company,9,3.63
+258,7.00,97899,https://www.beeradvocate.com/beer/profile/48/97899/,Lowlands Brewing Company Tandem Dubbel,48,Brouwerij Van Steenberge N.V.,9,3.94
+259,7.00,102515,https://www.beeradvocate.com/beer/profile/18154/102515/,Fortuna Komes Podwojny Ciemny,18154,Browar Fortuna,9,3.05
+260,6.30,160886,https://www.beeradvocate.com/beer/profile/32279/160886/,Coffee In Bed Pecan Dubbel,32279,Strangeways Brewing,9,3.85
+261,6.50,20348,https://www.beeradvocate.com/beer/profile/544/20348/,Crom Hout Dubbel Speciaal,544,Brouwerij De Leckere,9,3.78
+262,8.00,59011,https://www.beeradvocate.com/beer/profile/22977/59011/,Diabolisk Ängöl,22977,Ängöl,9,3.57
+263, ? ,106658,https://www.beeradvocate.com/beer/profile/26634/106658/,Dubbel,26634,Wichita Brewing Co. & Pizzeria West,9,3.69
+264,8.00,118703,https://www.beeradvocate.com/beer/profile/28437/118703/,La Barbe Bleue,28437,Vasileostrovskaya Brewery (Василеостровская Пивоварня),9,3.27
+265,9.70,89535,https://www.beeradvocate.com/beer/profile/25937/89535/,Isolé,25937,Greenbush Brewing Company,9,3.82
+266,8.20,60097,https://www.beeradvocate.com/beer/profile/18353/60097/,Duplicity,18353,Naked City Taphouse,9,3.48
+267,8.00,89282,https://www.beeradvocate.com/beer/profile/25959/89282/,Dubbel In Paradise,25959,Beachwood BBQ & Brewing,9,3.24
+268,10.00,41429,https://www.beeradvocate.com/beer/profile/2352/41429/,Wild Angels Dubbel Trubbel,2352,Wolf Creek Brewing,9,3.41
+269,8.00,82904,https://www.beeradvocate.com/beer/profile/23090/82904/,Jittery Monk Coffee Dubbel,23090,Thirsty Planet Brewing Company,9,3.79
+270,8.60,102116,https://www.beeradvocate.com/beer/profile/26743/102116/,Dubbel On Tundra,26743,49th State Brewing Company,9,4.07
+271,6.00,127717,https://www.beeradvocate.com/beer/profile/29808/127717/,Fort Lapin 6,29808,Fort Lapin,9,3.36
+272,8.30,172544,https://www.beeradvocate.com/beer/profile/40392/172544/,Belgian Dubbel,40392,Brix City Brewing,8,3.67
+273,7.00,19741,https://www.beeradvocate.com/beer/profile/180/19741/,Villers Oud Vieille,180,Brouwerij Huyghe,8,3.49
+274,7.00,25385,https://www.beeradvocate.com/beer/profile/3768/25385/,Darkside Dubbel,3768,Lunar Brewing,8,3.94
+275,6.50,110649,https://www.beeradvocate.com/beer/profile/32541/110649/,Dubbel Date,32541,Coachella Valley Brewing Co,8,3.72
+276,12.00,134715,https://www.beeradvocate.com/beer/profile/23737/134715/,Celebration Dubbel,23737,Rockmill Brewery,8,4.15
+277,7.00,75847,https://www.beeradvocate.com/beer/profile/18225/75847/,Belgian Double,18225,Nail Creek Pub & Brewery,8,3.88
+278,8.00,115023,https://www.beeradvocate.com/beer/profile/24299/115023/,Fuck Art This Is Religion,24299,To Øl,8,4.28
+279,7.00,126801,https://www.beeradvocate.com/beer/profile/35152/126801/,Belgian Dubbel,35152,Chatty Monks Brewing,8,3.06
+280,6.80,161363,https://www.beeradvocate.com/beer/profile/18539/161363/,Wood Aged Dark Abby,18539,Devils Backbone Brewing Company,8,4.03
+281,8.50,114525,https://www.beeradvocate.com/beer/profile/28018/114525/,Belgian Dubbel,28018,Rapp Brewing Company,8,3.52
+282,9.00,67171,https://www.beeradvocate.com/beer/profile/14/67171/,Project Venus,14,Cambridge Brewing Company,8,4.15
+283,8.50,331627,https://www.beeradvocate.com/beer/profile/337/331627/,Bishop's Barrel 20,337,Saint Arnold Brewing Company,8,3.71
+284,7.00,167030,https://www.beeradvocate.com/beer/profile/32116/167030/,Brother Ian's Belgian 6,32116,5 Paddles Brewing Co.,8,3.8
+285,7.30,49526,https://www.beeradvocate.com/beer/profile/1612/49526/,St. Brevardus Prior 8,1612,Charlie & Jake's Brewery & Grille,8,4.09
+286,8.00,90494,https://www.beeradvocate.com/beer/profile/31010/90494/,Mariënrode Dubbel,31010,Halen Breweries NV,8,4.4
+287,9.00,109956,https://www.beeradvocate.com/beer/profile/33706/109956/,Abbey Ale,33706,Forge Brew Works,8,3.09
+288,9.50,163974,https://www.beeradvocate.com/beer/profile/32116/163974/,Brother Ian's Belgian 8,32116,5 Paddles Brewing Co.,8,3.35
+289,7.80,131482,https://www.beeradvocate.com/beer/profile/23347/131482/,Secundus,23347,Mike Hess Brewing - Miramar,8,3.82
+290,8.00,142748,https://www.beeradvocate.com/beer/profile/3956/142748/,Brooding Soldier Barrel Aged Dubbel,3956,Brewsters Brewing Company & Restaurant - Oliver Square,8,4.03
+291,7.20,19894,https://www.beeradvocate.com/beer/profile/463/19894/,Deep Elem Dubbel,463,Magnolia Pub & Brewery,8,3.27
+292,6.00,156868,https://www.beeradvocate.com/beer/profile/9374/156868/,Nežinomas Krantas,9374,UAB Švyturys - Utenos alus,8,3.74
+293,8.20,158160,https://www.beeradvocate.com/beer/profile/38015/158160/,Rock Candy Abbey Ale,38015,Lost Forty Brewery,8,4.06
+294,7.10,98005,https://www.beeradvocate.com/beer/profile/30247/98005/,Fur Trapper,30247,Earth Eagle Brewings,8,3.7
+295,7.50,76514,https://www.beeradvocate.com/beer/profile/1872/76514/,Farmhouse 8,1872,McKenzie Brew House,8,3.47
+296,7.60,158443,https://www.beeradvocate.com/beer/profile/31722/158443/,The Shroud,31722,Burial Beer Co.,8,3.74
+297, ? ,215044,https://www.beeradvocate.com/beer/profile/36757/215044/,St. Dekkera Reserve: Excommunié Deux,36757,DESTIHL Brewery,7,4.13
+298,6.50,157700,https://www.beeradvocate.com/beer/profile/17998/157700/,Jalapeño Raspberry Dubbel,17998,Brasserie Trois Dames,7,3.89
+299,7.40,166150,https://www.beeradvocate.com/beer/profile/27042/166150/,Galena,27042,Middleton Brewing,7,3.96
+300,7.20,156949,https://www.beeradvocate.com/beer/profile/35016/156949/,Donnels Dubbel,35016,Oasis Texas Brewing Company,7,3.74
+301,6.50,91669,https://www.beeradvocate.com/beer/profile/26534/91669/,Glutenberg Double Belge,26534,Brasseurs Sans Gluten,7,3.36
+302,7.00,29980,https://www.beeradvocate.com/beer/profile/1683/29980/,Viszolay Belgian,1683,Santa Fe Brewing Company,7,3.08
+303,7.00,25400,https://www.beeradvocate.com/beer/profile/180/25400/,Ten Duinen Rousse,180,Brouwerij Huyghe,7,3.69
+304,6.50,201545,https://www.beeradvocate.com/beer/profile/31722/201545/,The Remains,31722,Burial Beer Co.,7,3.63
+305,6.00,135515,https://www.beeradvocate.com/beer/profile/36475/135515/,Zagaia,36475,Mean Sardine Brewery,7,3.87
+306, ? ,30570,https://www.beeradvocate.com/beer/profile/12/30570/,Abbey Dubbel,12,John Harvard's Brewery & Ale House,7,3.66
+307,7.50,127106,https://www.beeradvocate.com/beer/profile/13662/127106/,Luostari Dubbel,13662,Saimaan Juomatehdas,7,3.32
+308,6.50,8835,https://www.beeradvocate.com/beer/profile/1345/8835/,Dick's Belgian Double,1345,Dick's Brewing Company,7,3.75
+309,7.90,65677,https://www.beeradvocate.com/beer/profile/1550/65677/,Belgian Style Dubbel,1550,Rock Bottom Restaurant & Brewery,7,3.2
+310,7.50,21391,https://www.beeradvocate.com/beer/profile/48/21391/,Croy Dubbel,48,Brouwerij Van Steenberge N.V.,7,3.51
+311,6.30,214939,https://www.beeradvocate.com/beer/profile/9408/214939/,Great Lakes Body Dubbel Belgium Ale,9408,Great Lakes Brewery,7,3.45
+312,7.20,213916,https://www.beeradvocate.com/beer/profile/25712/213916/,Bourbon Barrel Aged Belgian Style Abbey Ale,25712,Martin City Brewing Company,7,4.04
+313,8.30,140703,https://www.beeradvocate.com/beer/profile/1146/140703/,Double Check,1146,Goose Island Beer Co.,7,3.93
+314,8.50,112543,https://www.beeradvocate.com/beer/profile/28299/112543/,Abby Brunette,28299,Toxic Brewing Co.,7,3.7
+315, ? ,41407,https://www.beeradvocate.com/beer/profile/15793/41407/,Dubbel Abbey,15793,Union Barrel Works,7,3.78
+316,7.40,167873,https://www.beeradvocate.com/beer/profile/38016/167873/,Canticle,38016,FERMÆNTRA,7,3.73
+317,7.70,167135,https://www.beeradvocate.com/beer/profile/32617/167135/,Quotidienne,32617,Temperance Beer Co.,7,3.97
+318,6.70,134636,https://www.beeradvocate.com/beer/profile/34748/134636/,Admiral Ackbeer - It's A Trap!,34748,Imperial Oak Brewing,7,3.89
+319,7.50,112378,https://www.beeradvocate.com/beer/profile/32087/112378/,Dubbel,32087,Benchmark Brewing,7,3.58
+320,7.80,86272,https://www.beeradvocate.com/beer/profile/27042/86272/,Brune,27042,Middleton Brewing,6,4.12
+321,6.80,152329,https://www.beeradvocate.com/beer/profile/28402/152329/,La Trouffette Brune,28402,Brasserie De Bastogne,6,3.84
+322,7.40,94746,https://www.beeradvocate.com/beer/profile/28551/94746/,Dubbel,28551,River North Brewery,6,3.64
+323,6.70,146973,https://www.beeradvocate.com/beer/profile/27084/146973/,Mooie Madam,27084,Bierbrouwerij Maallust,6,3.82
+324,7.50,159262,https://www.beeradvocate.com/beer/profile/38475/159262/,Dubbel,38475,Swiftwater Brewing Company,6,3.99
+325,7.00,57141,https://www.beeradvocate.com/beer/profile/12516/57141/,Orthus Belgian Dubbel Aged On Cherries,12516,Thirsty Dog Brewing Company,6,3.66
+326,6.60,183610,https://www.beeradvocate.com/beer/profile/34619/183610/,Belgian Dubbel,34619,Flytrap Brewing,6,3.78
+327,7.00,100162,https://www.beeradvocate.com/beer/profile/30409/100162/,St. Mark's Dubbel,30409,West Flanders Brewing Co.,6,3.28
+328,6.00,179015,https://www.beeradvocate.com/beer/profile/38629/179015/,Dubbel ,38629,Red Collar Brewing Co.,6,3.88
+329,8.00,126814,https://www.beeradvocate.com/beer/profile/32700/126814/,Omega Dubbel,32700,Galaxy Brewing Company,6,3.81
+330,7.10,43884,https://www.beeradvocate.com/beer/profile/63/43884/,D Straat Dubbel,63,Deschutes Brewery,6,3.75
+331,7.00,268913,https://www.beeradvocate.com/beer/profile/47159/268913/,Rat Pack,47159,Old Irving Brewing Co.,6,4.01
+332,7.00,34932,https://www.beeradvocate.com/beer/profile/1114/34932/,Friar Frog Dubbel,1114,Bullfrog Brewery,6,3.34
+333,10.10,105591,https://www.beeradvocate.com/beer/profile/30815/105591/,Barrel Aged Dubbel,30815,Parkway Brewing Co.,6,4
+334,7.90,220812,https://www.beeradvocate.com/beer/profile/41975/220812/,Sister Abby Dubbel,41975,Double Shift Brewing Company,6,3.41
+335, ? ,114316,https://www.beeradvocate.com/beer/profile/30405/114316/,Belgian Dubbel,30405,Champion Brewing Company,6,3.12
+336,8.50,65173,https://www.beeradvocate.com/beer/profile/6331/65173/,Hepie & Hepie,6331,Brouwerij De Prael,6,4.17
+337,6.10,213403,https://www.beeradvocate.com/beer/profile/43137/213403/,Dubbel,43137,Lakes & Legends Brewing Company,6,3.66
+338,7.80,97189,https://www.beeradvocate.com/beer/profile/11882/97189/,Dutch Oven Belgian Dubbel,11882,Round Barn Brewery,6,3.75
+339,6.00,218023,https://www.beeradvocate.com/beer/profile/9374/218023/,Unknown Shore,9374,UAB Švyturys - Utenos alus,6,3.46
+340,6.70,178089,https://www.beeradvocate.com/beer/profile/35494/178089/,Belgian Dubbel,35494,Black Cap Brewing Company,6,3.68
+341,7.00,117677,https://www.beeradvocate.com/beer/profile/3456/117677/,Herkenrode Bruin,3456,Brouwerij Cornelissen,6,3.36
+342,8.20,87998,https://www.beeradvocate.com/beer/profile/26645/87998/,Rumspringa Cadeau De Noel,26645,Rumspringa Brewing Company,6,3.59
+343,6.50,315072,https://www.beeradvocate.com/beer/profile/43127/315072/,Milou,43127,Lamplighter Brewing Company,6,3.57
+344,7.00,211393,https://www.beeradvocate.com/beer/profile/41760/211393/,Dubbel Pleated,41760,Man Skirt Brewing,6,3.39
+345, ? ,32198,https://www.beeradvocate.com/beer/profile/1169/32198/,Saint Stephen's Abbey Ale,1169,Fitger's Brewhouse,6,3.46
+346,6.90,121550,https://www.beeradvocate.com/beer/profile/34416/121550/,Belgian Brown,34416,Wander Brewing,6,4.11
+347,7.00,218838,https://www.beeradvocate.com/beer/profile/43607/218838/,Derailleur,43607,The Second Wedge Brewing Company,6,3.91
+348,6.50,46555,https://www.beeradvocate.com/beer/profile/436/46555/,Grimbergen Cuvée D'exception,436,Brouwerij Alken-Maes,6,3.56
+349,7.60,2788,https://www.beeradvocate.com/beer/profile/14/2788/,Abbey Normal,14,Cambridge Brewing Company,6,4.01
+350,8.40,101093,https://www.beeradvocate.com/beer/profile/30989/101093/,Arium Dubbel,30989,BRU Handbuilt Ales,6,3.66
+351,6.90,94445,https://www.beeradvocate.com/beer/profile/30581/94445/,Coercer Plum Abbey,30581,Wicked Weed Brewing,6,3.88
+352,7.30,139759,https://www.beeradvocate.com/beer/profile/35229/139759/,Belgian Brune,35229,Living The Dream Brewing Co.,6,3.6
+353,8.30,220920,https://www.beeradvocate.com/beer/profile/40142/220920/,WhaddaChooch,40142,Exit Strategy Brewing Co.,6,3.95
+354,5.70,116984,https://www.beeradvocate.com/beer/profile/34145/116984/,Belgian Dubbel,34145,The VB Brewery,6,4
+355,7.00,212219,https://www.beeradvocate.com/beer/profile/37507/212219/,Belwegian Norwegian Spiced,37507,The Collective Brewing Project,6,3.85
+356,7.60,179719,https://www.beeradvocate.com/beer/profile/1475/179719/,Suchy's Revenge,1475,Maumee Bay Brewing Company,5,3.8
+357,8.00,66580,https://www.beeradvocate.com/beer/profile/24787/66580/,Epiphany,24787,St. Boniface Craft Brewing Company,5,3.77
+358,7.60,128537,https://www.beeradvocate.com/beer/profile/35229/128537/,Stubborn Monk,35229,Living The Dream Brewing Co.,5,4.15
+359,10.60,323100,https://www.beeradvocate.com/beer/profile/42/323100/,Double Barrel Dubbel,42,Brewery Ommegang,5,4.42
+360,7.00,317729,https://www.beeradvocate.com/beer/profile/46317/317729/,Dubbel Twubbel,46317,The Alchemist Brewery and Visitors Center,5,4.1
+361, ? ,24099,https://www.beeradvocate.com/beer/profile/3475/24099/,Redwood Lodge Belgian-style Abbey Ale,3475,Redwood Lodge,5,3.6
+362,6.70,110384,https://www.beeradvocate.com/beer/profile/33659/110384/,Genesis Belgian-style Dubbel,33659,Four Saints Brewing Company,5,4.05
+363,7.50,261174,https://www.beeradvocate.com/beer/profile/35134/261174/,Brune,35134,Dageraad Brewing,5,3.9
+364,8.50,262979,https://www.beeradvocate.com/beer/profile/31326/262979/,Lindisfarne,31326,HammerHeart Brewing Company,5,4.16
+365, ? ,68678,https://www.beeradvocate.com/beer/profile/639/68678/,Monks Dubbel,639,Main Street Brewery  / Turoni's Pizza,5,4.18
+366,6.70,100678,https://www.beeradvocate.com/beer/profile/17233/100678/,Chat Chat,17233,Microbrasserie La Chouape,5,3.45
+367, ? ,35167,https://www.beeradvocate.com/beer/profile/9792/35167/,St. Nathanael's Double Abbey,9792,Natty Greene's Pub & Brewing Co.,5,3.38
+368,8.40,63592,https://www.beeradvocate.com/beer/profile/4378/63592/,Donkey Deux,4378,Georgetown Brewing Company,5,3.71
+369,6.70,199529,https://www.beeradvocate.com/beer/profile/36594/199529/,On A Dubbel,36594,Bagby Beer Company,5,3.64
+370,7.30,160619,https://www.beeradvocate.com/beer/profile/32800/160619/,Northwinds Dubbel Diamond,32800,Northwinds Brewery,5,3.2
+371,6.90,36981,https://www.beeradvocate.com/beer/profile/1340/36981/,Abbey Normal,1340,Gaslight Brewery & Restaurant,5,3.54
+372,7.50,181117,https://www.beeradvocate.com/beer/profile/36095/181117/,Tipsy Friar,36095,Persimmon Hollow Brewing,5,3.93
+373,8.00,57220,https://www.beeradvocate.com/beer/profile/22112/57220/,Dubbel,22112,Root Cellar Cafe / Darkside Fermentation,5,3.82
+374,9.00,76680,https://www.beeradvocate.com/beer/profile/20017/76680/,Seeing Dubbel,20017,5 Seasons Westside,5,3.67
+375,7.00,53386,https://www.beeradvocate.com/beer/profile/19155/53386/,'t Goeye Goet Dubbel,19155,Bierbrouwerij Openluchtmuseum Arnhem,5,4.39
+376,6.40,48275,https://www.beeradvocate.com/beer/profile/553/48275/,Christoffel Dubbel,553,Bierbrouwerij Sint Christoffel B.V,5,3.77
+377,7.50,309146,https://www.beeradvocate.com/beer/profile/48925/309146/,Queen of Cups,48925,Nod Hill Brewery,5,4.23
+378,7.90,102824,https://www.beeradvocate.com/beer/profile/32832/102824/,John The One-Eyed,32832,Evil Czech Brewery,5,3.78
+379,8.40,103081,https://www.beeradvocate.com/beer/profile/31780/103081/,Dubbel,31780,Mazama Brewing Co.,5,3.87
+380,7.80,283306,https://www.beeradvocate.com/beer/profile/31493/283306/,JoCo White Tater,31493,Deep River Brewing Co.,5,3.42
+381,7.80,137649,https://www.beeradvocate.com/beer/profile/29641/137649/,La Messe Des Morts,29641,Microbrasserie Goudale,5,3.72
+382, ? ,106683,https://www.beeradvocate.com/beer/profile/29922/106683/,Belgian Dubbel,29922,Heist Brewery,5,2.85
+383,7.70,132543,https://www.beeradvocate.com/beer/profile/28778/132543/,Ancestral Red Ale,28778,The Beer Diviner,5,3.97
+384,8.40,105663,https://www.beeradvocate.com/beer/profile/31780/105663/,Dubbelganger,31780,Mazama Brewing Co.,5,4.16
+385,7.50,237765,https://www.beeradvocate.com/beer/profile/1666/237765/,Summer Solstice Dubbel,1666,Selin's Grove Brewing Company,5,3.77
+386,8.00,158155,https://www.beeradvocate.com/beer/profile/29599/158155/,Abbey Dubbel,29599,JAFB Wooster Brewery,5,3.69
+387,7.60,50641,https://www.beeradvocate.com/beer/profile/3925/50641/,Merry Monk Dubbel,3925,Mickey Finn's Brewery,5,3.33
+388,6.80,199129,https://www.beeradvocate.com/beer/profile/41031/199129/,Biggums,41031,Mumford Brewing,5,3.79
+389,8.00,273119,https://www.beeradvocate.com/beer/profile/48/273119/,Augustijn Donker,48,Brouwerij Van Steenberge N.V.,5,3.75
+390,6.50,128995,https://www.beeradvocate.com/beer/profile/35510/128995/,Dubbel,35510,Wonderland Brewing Co.,5,3.8
+391,7.10,101099,https://www.beeradvocate.com/beer/profile/30858/101099/,Dubbel Impact,30858,Aardwolf Brewing Company,5,4.18
+392,5.30,76790,https://www.beeradvocate.com/beer/profile/1177/76790/,Walloon,1177,Minneapolis Town Hall Brewery,5,3.98
+393,6.70,210171,https://www.beeradvocate.com/beer/profile/43165/210171/,Maude,43165,Waredaca Brewing Company,5,3.83
+394,7.50,247803,https://www.beeradvocate.com/beer/profile/46718/247803/,Kahoots,46718,Collusion Tap Works,5,3.72
+395,6.60,281344,https://www.beeradvocate.com/beer/profile/35589/281344/,Darkmantle,35589,Blue Nose Brewery,4,3.49
+396,6.90,275969,https://www.beeradvocate.com/beer/profile/45647/275969/,Belgian Dubbel,45647,Holler Brewing Co.,4,3.86
+397,8.00,78088,https://www.beeradvocate.com/beer/profile/1177/78088/,Dubbel,1177,Minneapolis Town Hall Brewery,4,3.7
+398,4.80,88598,https://www.beeradvocate.com/beer/profile/16296/88598/,Sankt Hans,16296,Warwick Bryghus Aps,4,3.42
+399, ? ,13847,https://www.beeradvocate.com/beer/profile/4196/13847/,Abbey Ale,4196,Copper Creek Brewing Co.,4,3.97
+400,5.70,304668,https://www.beeradvocate.com/beer/profile/16963/304668/,Abbey Brett,16963,Marble Brewery,4,3.76
+401,7.40,202020,https://www.beeradvocate.com/beer/profile/43310/202020/,Dubbel,43310,New Limburg Brewing Company,4,3.66
+402,5.80,106532,https://www.beeradvocate.com/beer/profile/1177/106532/,Cranberry Abbey,1177,Minneapolis Town Hall Brewery,4,3.85
+403,7.70,240420,https://www.beeradvocate.com/beer/profile/46503/240420/,Double,46503,Old Town Abbey,4,3.81
+404,7.30,116262,https://www.beeradvocate.com/beer/profile/2877/116262/,Dubbel,2877,Backcountry Brewery,4,3.83
+405,7.20,128038,https://www.beeradvocate.com/beer/profile/35315/128038/,Barn Burner,35315,The FarmHouse Brewery,4,3.4
+406,6.30,16945,https://www.beeradvocate.com/beer/profile/725/16945/,Abbaye De Malonne Brune,725,Brouwerij Haacht NV,4,3.09
+407,7.50,53299,https://www.beeradvocate.com/beer/profile/16846/53299/,Fat Monk,16846,Block 15 Brewery & Restaurant,4,3.57
+408,9.10,321331,https://www.beeradvocate.com/beer/profile/38311/321331/,Dubbel Giggidy - Old Forester Barrel-Aged,38311,Noon Whistle Brewing,4,4.06
+409, ? ,146999,https://www.beeradvocate.com/beer/profile/32910/146999/,Plum Dubbel,32910,Station 26 Brewing Co.,4,3.85
+410,8.80,133437,https://www.beeradvocate.com/beer/profile/33065/133437/,Double Dubbel,33065,Double Barley Brewing,4,3.85
+411,8.40,317245,https://www.beeradvocate.com/beer/profile/45753/317245/,Oriel Dubbel,45753,Oriel Beer,4,3.75
+412,6.90,193607,https://www.beeradvocate.com/beer/profile/33659/193607/,Belgian Pumpkin Ale,33659,Four Saints Brewing Company,4,4.28
+413,7.50,182600,https://www.beeradvocate.com/beer/profile/28624/182600/,Notorious M.O.N.K.,28624,Alpine Dog Brewing Company,4,4.04
+414,9.00,232013,https://www.beeradvocate.com/beer/profile/14/232013/,Bourbon Barrel Dubbel Nickels,14,Cambridge Brewing Company,4,3.93
+415,8.60,185934,https://www.beeradvocate.com/beer/profile/30230/185934/,Virtuous Endeavor Series - Belgian-Inspired Dubbel,30230,Confluence Brewing Company,4,3.96
+416,7.50,231506,https://www.beeradvocate.com/beer/profile/32375/231506/,Dubbel Shot - Bourbon Barrel Aged,32375,Three Taverns Craft Brewery,4,3.89
+417,7.20,46166,https://www.beeradvocate.com/beer/profile/17279/46166/,St Bridget,17279,MT Brewery,4,3.91
+418,4.50,83552,https://www.beeradvocate.com/beer/profile/29329/83552/,Brother Mauro Mild Dubbel,29329,Burnt City Brewing,4,3.67
+419,7.00,185185,https://www.beeradvocate.com/beer/profile/16787/185185/,Rise & Shine,16787,Bronckhorster Brewing Company,4,3.52
+420,7.60,116325,https://www.beeradvocate.com/beer/profile/31722/116325/,Burnpile,31722,Burial Beer Co.,4,3.31
+421,7.80,71271,https://www.beeradvocate.com/beer/profile/25800/71271/,WB Abbey Dubbel,25800,The Wrecking Bar Brewpub,4,4.08
+422,10.00,152424,https://www.beeradvocate.com/beer/profile/1765/152424/,Brother Dan’s Double,1765,Abbey Brewing Co.,4,4.01
+423,7.50,100712,https://www.beeradvocate.com/beer/profile/31825/100712/,Sage,31825,Propolis Brewing,4,3.57
+424,8.60,106858,https://www.beeradvocate.com/beer/profile/8325/106858/,Fisherman's Dubbel,8325,Cape Ann Brewing Company,4,4
+425,6.50,100203,https://www.beeradvocate.com/beer/profile/30450/100203/,Louisville Belgian Ale,30450,Gravity Brewing,4,3.88
+426,8.50,105323,https://www.beeradvocate.com/beer/profile/31722/105323/,Drawknife Dubbel,31722,Burial Beer Co.,4,3.56
+427,8.00,107630,https://www.beeradvocate.com/beer/profile/1114/107630/,Two Headed Dog Dubble,1114,Bullfrog Brewery,4,3.77
+428,8.00,165487,https://www.beeradvocate.com/beer/profile/32831/165487/,Double You,32831,Device Brewing Co.,4,3.56
+429,9.50,145264,https://www.beeradvocate.com/beer/profile/13804/145264/,Pagaille,13804,Benelux Brewpub & Café,4,4.26
+430,6.50,180086,https://www.beeradvocate.com/beer/profile/24871/180086/,Belgian Abbey Ale,24871,Yorkholo Brewing Co.,4,4
+431,8.50,107639,https://www.beeradvocate.com/beer/profile/19612/107639/,Bierboom,19612,Brouwerij 't Brouwkot,4,3.98
+432,6.40,318584,https://www.beeradvocate.com/beer/profile/41928/318584/,Chaos,41928,Czig Meister Brewing Company,4,3.76
+433,8.70,292475,https://www.beeradvocate.com/beer/profile/46089/292475/,Into the Machine: Tart Cherry,46089,Kings County Brewers Collective (KCBC),4,3.62
+434,8.00,110971,https://www.beeradvocate.com/beer/profile/31840/110971/,Saluda 'Wet Hopped' Dubbel,31840,Quest Brewing Co.,4,3.49
+435,6.70,218242,https://www.beeradvocate.com/beer/profile/31764/218242/,Sin Boldly With Tart Cherries,31764,Junkyard Brewing Company,4,4.04
+436,6.70,34961,https://www.beeradvocate.com/beer/profile/13605/34961/,La Grivoise Double,13605,Le Trou Du Diable,4,3.8
+437,7.40,150165,https://www.beeradvocate.com/beer/profile/9784/150165/,Dubbel,9784,Zero Gravity Craft Brewery / American Flatbread,4,3.41
+438,6.00,203161,https://www.beeradvocate.com/beer/profile/3517/203161/,Kristoffel Brune Bruin Dark,3517,Brouwerij Martens NV,4,3.86
+439,7.00,36249,https://www.beeradvocate.com/beer/profile/1135/36249/,Dubbel Vision,1135,"Franklin's Restaurant, Brewery & General Store",4,3.16
+440,8.20,152225,https://www.beeradvocate.com/beer/profile/33258/152225/,Red Light District,33258,The Unknown Brewing Co.,4,3.64
+441,7.00,104613,https://www.beeradvocate.com/beer/profile/2772/104613/,St. Norbert Abbey Ale,2772,Titletown Brewing Company,4,3.8
+442,6.80,183722,https://www.beeradvocate.com/beer/profile/34334/183722/,Dubbeldore's Magic Ale,34334,Books & Brews,4,3.91
+443,4.70,54698,https://www.beeradvocate.com/beer/profile/9797/54698/,Dubbelicious,9797,North Country Brewing,4,4.12
+444,6.70,12216,https://www.beeradvocate.com/beer/profile/2308/12216/,Belgian Dubbel,2308,Chicago Brewing Company,4,4.02
+445,7.40,167364,https://www.beeradvocate.com/beer/profile/695/167364/,Abbatia Octo,695,Manayunk Brewery and Restaurant,4,3.95
+446,6.00,39108,https://www.beeradvocate.com/beer/profile/12669/39108/,Abbey Beer 6%,12669,North Taiwan Brewing,4,3.49
+447,9.00,26572,https://www.beeradvocate.com/beer/profile/1502/26572/,Belgian Dubbel Ale,1502,"Mash House Restaurant & Brewery, The",4,3.61
+448,8.00,188112,https://www.beeradvocate.com/beer/profile/30162/188112/,Abi-Mi-Ale,30162,Cycler's Brewing,4,3.7
+449,8.40,196048,https://www.beeradvocate.com/beer/profile/33939/196048/,Flying Heads Dubbel Pumpkin,33939,Warped Wing Brewing Company,4,3.52
+450,5.20,108245,https://www.beeradvocate.com/beer/profile/31688/108245/,Red Monk,31688,Wicks Brewing Co.,4,3.7
+451,7.10,313563,https://www.beeradvocate.com/beer/profile/46009/313563/,Dubbel,46009,Alesong Brewing & Blending,4,3.91
+452,8.00,315101,https://www.beeradvocate.com/beer/profile/7730/315101/,Dubbel Advent,7730,Nøgne Ø - Det Kompromissløse Bryggeri A/S,4,3.93
+453,6.70,118495,https://www.beeradvocate.com/beer/profile/34460/118495/,Espina De Ferro Dead Monk,34460,Espina De Ferro,4,3.12
+454,6.50,166368,https://www.beeradvocate.com/beer/profile/31746/166368/,The Deuce,31746,Forked River Brewing Company,4,3.83
+455,7.00,150498,https://www.beeradvocate.com/beer/profile/33108/150498/,Scarlet Vortex,33108,Abandon Brewing Co.,4,3.88
+456,8.00,137191,https://www.beeradvocate.com/beer/profile/34079/137191/,Dubbel Blade,34079,Angry Erik Brewing,4,3.8
+457,9.00,164841,https://www.beeradvocate.com/beer/profile/33058/164841/,Tarantula Belgian Dubbel,33058,Ecliptic Brewing,4,4.21
+458,5.10,171756,https://www.beeradvocate.com/beer/profile/40488/171756/,Dubbel Rainbow,40488,Destination Unknown Beer Co.,4,3.82
+459,8.50,249325,https://www.beeradvocate.com/beer/profile/30871/249325/,Sacrosanct,30871,The BottleHouse Brewing Company,4,4.15
+460,7.50,195314,https://www.beeradvocate.com/beer/profile/31825/195314/,Sage_Blackberry,31825,Propolis Brewing,4,3.94
+461,6.00,32503,https://www.beeradvocate.com/beer/profile/149/32503/,Durboyse Brune,149,Brasserie Lefèbvre SA,4,3.18
+462,10.00,65015,https://www.beeradvocate.com/beer/profile/1032/65015/,Lumbergh Dubbel,1032,Five Seasons Prado,4,4.01
+463,6.00,17401,https://www.beeradvocate.com/beer/profile/8994/17401/,Abbaye De Premontres,8994,Les Brasseurs De Lorraine,4,3.64
+464,7.50,259322,https://www.beeradvocate.com/beer/profile/47375/259322/,Lanham,47375,Briar Common Brewery + Eatery,4,3.67
+465,7.60,292348,https://www.beeradvocate.com/beer/profile/49781/292348/,Monkee Bars,49781,Backyard Brewery & Kitchen,4,4.24
+466,9.20,170237,https://www.beeradvocate.com/beer/profile/34650/170237/,Belgian Dubbel,34650,Adventure Brewing Company,4,3.59
+467,8.00,247297,https://www.beeradvocate.com/beer/profile/1146/247297/,Abbey Normal,1146,Goose Island Beer Co.,3,3.8
+468,7.50,246532,https://www.beeradvocate.com/beer/profile/46252/246532/,Dubbel Time,46252,Parker's Hilltop Brewery,3,3.55
+469,7.50,313604,https://www.beeradvocate.com/beer/profile/34426/313604/,"It's Christmas, Dammit",34426,Jailbreak Brewing Company,3,4.06
+470,7.20,121607,https://www.beeradvocate.com/beer/profile/29076/121607/,Sustainer,29076,Cranker's Brewery,3,3.55
+471,7.00,118792,https://www.beeradvocate.com/beer/profile/20864/118792/,Ægir Skumring Dubbel,20864,Ægir Bryggeri,3,3.52
+472, ? ,55820,https://www.beeradvocate.com/beer/profile/13879/55820/,Broken Oak Abbey Dubble Ale,13879,Riverside Brewery And Restaurant,3,3.01
+473,7.80,48142,https://www.beeradvocate.com/beer/profile/10153/48142/,Pisgah Dubbel,10153,Pisgah Brewing Co.,3,4.18
+474,6.60,39440,https://www.beeradvocate.com/beer/profile/9784/39440/,Belgian Dubbel,9784,Zero Gravity Craft Brewery / American Flatbread,3,3.85
+475,7.30,129556,https://www.beeradvocate.com/beer/profile/32540/129556/,Clara-B's,32540,Antietam Brewery & Restaurant,3,3.98
+476,8.00,68374,https://www.beeradvocate.com/beer/profile/19190/68374/,A Big Ail,19190,Rust Belt Brewing Company,3,4.38
+477,7.00,8219,https://www.beeradvocate.com/beer/profile/3777/8219/,Augusta Winter Ale,3777,Augusta Brewing Company,3,3.32
+478,8.50,279839,https://www.beeradvocate.com/beer/profile/29008/279839/,The Great Curve,29008,Bluejacket / Arsenal Restaurant,3,3.53
+479,8.20,169505,https://www.beeradvocate.com/beer/profile/39686/169505/,Cherubim,39686,Black Cloister Brewing Company,3,4.04
+480,6.90,168994,https://www.beeradvocate.com/beer/profile/40211/168994/,Blomberg Caramel Dubbel,40211,Cervecera Artesana del Oeste,3,2.5
+481,7.20,177189,https://www.beeradvocate.com/beer/profile/34737/177189/,Rubbel Dubbel,34737,Infinite Ale Works,3,3.64
+482,9.10,221486,https://www.beeradvocate.com/beer/profile/32731/221486/,Belgian Dubbel,32731,Engrained Brewing Company,3,3.7
+483,7.80,197171,https://www.beeradvocate.com/beer/profile/42886/197171/,Belgian Dubbel,42886,Crucible Brewing,3,3.84
+484,7.80,103220,https://www.beeradvocate.com/beer/profile/31049/103220/,Estate Dubbel,31049,Scratch Brewing Company,3,3.46
+485,8.30,71733,https://www.beeradvocate.com/beer/profile/20430/71733/,Belgian,20430,Dust Bowl Brewing Company - Downtown Taproom,3,3.29
+486,6.10,142133,https://www.beeradvocate.com/beer/profile/36336/142133/,Belgian Dubbel,36336,North River Hops and Brewing,3,3.68
+487,6.50,300598,https://www.beeradvocate.com/beer/profile/47279/300598/,Neobosski Swearing Senorita,47279,Neobosski Brewing Company,3,2.04
+488,7.50,218431,https://www.beeradvocate.com/beer/profile/4861/218431/,Ground Rule Dubbel,4861,Frankenmuth Brewery,3,4.11
+489,9.00,291392,https://www.beeradvocate.com/beer/profile/10607/291392/,Dubbel Take,10607,Sixpoint Brewery,3,4.09
+490,7.50,109376,https://www.beeradvocate.com/beer/profile/9854/109376/,Tuatara Belgian Dubbel,9854,Tuatara Brewing Co.,3,3.83
+491,6.90,213572,https://www.beeradvocate.com/beer/profile/22797/213572/,Wolf 6,22797,Brouwerij Wolf,3,3.89
+492,7.20,251977,https://www.beeradvocate.com/beer/profile/41428/251977/,Sneakin' Lindsey Through The Alley,41428,Call to Arms Brewing Company,3,3.77
+493,6.90,131914,https://www.beeradvocate.com/beer/profile/2724/131914/,Neptune's Nemesis,2724,Pacific Coast Brewing Company,3,3.62
+494,7.80,210764,https://www.beeradvocate.com/beer/profile/39686/210764/,Balthasar,39686,Black Cloister Brewing Company,3,4.07
+495,7.70,88141,https://www.beeradvocate.com/beer/profile/26850/88141/,Judas Yeast,26850,Against The Grain Brewery & Smokehouse,3,3.59
+496,8.60,223566,https://www.beeradvocate.com/beer/profile/44130/223566/,Monk In The Rye,44130,Mollusk Restaurant & Brewery,3,4.02
+497,7.00,69714,https://www.beeradvocate.com/beer/profile/436/69714/,Grimbergen Selection Speciaal Dubbel,436,Brouwerij Alken-Maes,3,4.15
+498,7.00,44372,https://www.beeradvocate.com/beer/profile/3768/44372/,Buzz Aldrin,3768,Lunar Brewing,3,4.35
+499,9.00,168027,https://www.beeradvocate.com/beer/profile/21006/168027/,Simple Malt Double,21006,Brasseurs Illimités,3,3.67
+500,8.00,230239,https://www.beeradvocate.com/beer/profile/45655/230239/,Meester Dubbel,45655,Brouwerij De Meester,3,4.25
+501,7.00,211042,https://www.beeradvocate.com/beer/profile/40646/211042/,Waardamse Dubbel,40646,Brouwerij Stokhove,3,3.68
+502,5.50,278626,https://www.beeradvocate.com/beer/profile/48976/278626/,Dubbel Trouble,48976,Rusty Bull Brewing Company,3,3.71
+503,8.50,290406,https://www.beeradvocate.com/beer/profile/32480/290406/,Barrel-Aged Mexican Chocolate Cake Deduction,32480,Taxman Brewing Co.,3,3.92
+504,6.90,166774,https://www.beeradvocate.com/beer/profile/2642/166774/,Mt. St. Helens,2642,North by Northwest Restaurant & Brewery,3,3.3
+505,10.00,329598,https://www.beeradvocate.com/beer/profile/144/329598/,Night Demon,144,Sprecher Brewing Company,3,4.32
+506,6.40,174719,https://www.beeradvocate.com/beer/profile/30581/174719/,Abby Dubbel,30581,Wicked Weed Brewing,3,3.84
+507,7.20,32641,https://www.beeradvocate.com/beer/profile/10667/32641/,Cardinal Sin,10667,Cornerstone Brewing Company,3,3.76
+508,5.20,139140,https://www.beeradvocate.com/beer/profile/33888/139140/,Monks Melk,33888,Six Ten Brewing,3,3.95
+509,7.45,266633,https://www.beeradvocate.com/beer/profile/47205/266633/,Marywood,47205,Creston Brewery,3,3.62
+510,8.00,89739,https://www.beeradvocate.com/beer/profile/30692/89739/,Duplex,30692,Justice Brewing,3,3.26
+511,8.20,189324,https://www.beeradvocate.com/beer/profile/1146/189324/,Honeymoon,1146,Goose Island Beer Co.,3,3.74
+512,7.00,260236,https://www.beeradvocate.com/beer/profile/46251/260236/,OH Nutcracker,46251,Tradition Brewing,3,3.44
+513,6.50,279187,https://www.beeradvocate.com/beer/profile/24776/279187/,CampusWerks: Soest Road,24776,Public House Brewing Company,3,3.85
+514,8.10,72340,https://www.beeradvocate.com/beer/profile/16353/72340/,Muscles From Brussels,16353,Hopworks Urban Brewery,3,3.99
+515,6.40,248215,https://www.beeradvocate.com/beer/profile/41928/248215/,Belgian Dubbel,41928,Czig Meister Brewing Company,3,3.98
+516,5.30,220824,https://www.beeradvocate.com/beer/profile/42665/220824/,Substitution,42665,Loudoun Brewing Co.,3,3.62
+517,6.30,217497,https://www.beeradvocate.com/beer/profile/44507/217497/,Dubbel Trubbel,44507,Thirsty Street Brewing Company,3,3.75
+518, ? ,56222,https://www.beeradvocate.com/beer/profile/1066/56222/,Dubbel,1066,Anacortes Brewery & Rockfish Grill,3,3.75
+519,9.30,94368,https://www.beeradvocate.com/beer/profile/28261/94368/,Banana Dubbel,28261,I & I Brewing,3,3.8
+520,7.20,195752,https://www.beeradvocate.com/beer/profile/25898/195752/,Shovelhead,25898,Green Room Brewing,3,3.88
+521,9.00,203436,https://www.beeradvocate.com/beer/profile/38227/203436/,Krampus Dubbell,38227,Strange Fellows Brewing,3,3.52
+522,6.00,184236,https://www.beeradvocate.com/beer/profile/39491/184236/,Unknown Shore,39491,Bosun's Brewing Company,3,3.62
+523,7.20,310445,https://www.beeradvocate.com/beer/profile/16963/310445/,Rouge Maverique,16963,Marble Brewery,3,3.59
+524,6.50,263342,https://www.beeradvocate.com/beer/profile/805/263342/,La Gauloise Dubbel,805,Brasserie Du Bocq,3,3.59
+525,7.00,155829,https://www.beeradvocate.com/beer/profile/1550/155829/,Fallen Angel Abbey Dubbel,1550,Rock Bottom Restaurant & Brewery,3,4.11
+526,7.70,313526,https://www.beeradvocate.com/beer/profile/694/313526/,Scratch Beer 301 - 2017  (Belgian Style Brown Ale),694,Tröegs Brewing Company,3,3.99
+527,8.00,296124,https://www.beeradvocate.com/beer/profile/50077/296124/,Vanilla Dubbel,50077,Väsen Brewing Company,3,4.3
+528,8.00,306879,https://www.beeradvocate.com/beer/profile/32480/306879/,Berry Ratio,32480,Taxman Brewing Co.,3,4.04
+529,7.00,133319,https://www.beeradvocate.com/beer/profile/36221/133319/,Krak Des Chevaliers,36221,Saint James Brewery,3,4.17
+530,6.60,220871,https://www.beeradvocate.com/beer/profile/20810/220871/,Belgiškas Dubbel,20810,Vilkmergės Alus,3,3.9
+531,7.50,47563,https://www.beeradvocate.com/beer/profile/5188/47563/,Morning Wood Belgian Dubbel,5188,Emmett's Brewing Company,3,3.62
+532,7.10,88012,https://www.beeradvocate.com/beer/profile/612/88012/,Fountain Of Joy,612,Flossmoor Station Restaurant & Brewery,3,3.81
+533,7.70,68813,https://www.beeradvocate.com/beer/profile/24529/68813/,Deer Abbey,24529,Black Tooth Brewing Company,3,3.75
+534, ? ,66001,https://www.beeradvocate.com/beer/profile/18823/66001/,Figgy Puddin',18823,Freetail Brewing Company,3,3.57
+535,7.00,174801,https://www.beeradvocate.com/beer/profile/33589/174801/,Convocation,33589,Columbia Kettle Works,3,3.46
+536,6.80,64722,https://www.beeradvocate.com/beer/profile/16048/64722/,Abbey Dubbel,16048,Hollister Brewing Co.,3,3.49
+537,7.20,176596,https://www.beeradvocate.com/beer/profile/40983/176596/,Irony,40983,Tap & Screw Brewery,3,3.99
+538,6.50,200661,https://www.beeradvocate.com/beer/profile/38473/200661/,Glarus Dubbel,38473,Glarus Craft Brewing Co.,3,2.99
+539,4.60,46551,https://www.beeradvocate.com/beer/profile/1659/46551/,Dubbel,1659,South Street Brewery,3,3.44
+540,6.50,194264,https://www.beeradvocate.com/beer/profile/30450/194264/,Coal Kriek,30450,Gravity Brewing,3,3.58
+541,4.00,29916,https://www.beeradvocate.com/beer/profile/1412/29916/,Red Rock Abbey Ale,1412,Red Rock Brewing Company,3,3.26
+542,7.00,308447,https://www.beeradvocate.com/beer/profile/35540/308447/,Hipmonk,35540,Old Ox Brewery,3,3.84
+543,6.50,43488,https://www.beeradvocate.com/beer/profile/1749/43488/,Belgium Double,1749,Wisconsin Dells Brewing Co.,3,3.44
+544, ? ,49889,https://www.beeradvocate.com/beer/profile/588/49889/,Dubbel,588,Krogh's Restaurant And Brewpub,3,3.27
+545,7.00,282083,https://www.beeradvocate.com/beer/profile/10990/282083/,Dubbel Pecan,10990,Lazy Magnolia Brewing Company,3,4
+546,7.00,132325,https://www.beeradvocate.com/beer/profile/36141/132325/,Oude Haas,36141,Eijkenrode Bier BV,3,3.68
+547, ? ,83685,https://www.beeradvocate.com/beer/profile/28641/83685/,Belgian Dubbel,28641,Water Street Brewing Co.,3,3.37
+548,7.40,168933,https://www.beeradvocate.com/beer/profile/38443/168933/,Caffe Dubbel,38443,Torn Label Brewing Co.,3,3.49
+549,7.80,152550,https://www.beeradvocate.com/beer/profile/37521/152550/,Honey Bee Belgian,37521,Playalinda Brewing Company - Hardware Store,3,3.79
+550,9.50,220134,https://www.beeradvocate.com/beer/profile/1618/220134/,Belgian Dubbel,1618,Sarasota Brewing Company,3,3.89
+551, ? ,110058,https://www.beeradvocate.com/beer/profile/27378/110058/,Dubbel,27378,Congregation Ale House,3,3.51
+552,7.50,148971,https://www.beeradvocate.com/beer/profile/32967/148971/,Bors Tuck Barát,32967,Cervisia Kft. - Győrzámolyi Serfőzde,3,3.51
+553,6.70,112108,https://www.beeradvocate.com/beer/profile/27946/112108/,Dubble,27946,Track 7 Brewing Co.,3,3.35
+554,7.20,126444,https://www.beeradvocate.com/beer/profile/30354/126444/,Monk's Phunk,30354,The Very Nice Brewing Company,3,3.6
+555,6.50,75246,https://www.beeradvocate.com/beer/profile/26673/75246/,Dubbel,26673,Lantern Brewing,3,3.47
+556,6.30,131313,https://www.beeradvocate.com/beer/profile/31789/131313/,The Synergist,31789,The Brewery at Abigaile,3,3.57
+557,6.50,139251,https://www.beeradvocate.com/beer/profile/33899/139251/,Dubbel,33899,TicketyBrew,3,3.75
+558,7.40,193523,https://www.beeradvocate.com/beer/profile/41330/193523/,Shanghai'd,41330,Local Brewing Co.,3,3.12
+559,7.60,150008,https://www.beeradvocate.com/beer/profile/25839/150008/,Xmas Abbey Partridge In A Plum Tree (Collab With Sea Dog),25839,St. Petersburg Brewing Company,3,3.54
+560,6.90,107768,https://www.beeradvocate.com/beer/profile/23108/107768/,Abbey Normal Belgian Dubbel,23108,Engine 15 Brewing Company,3,3.68
+561,7.50,181242,https://www.beeradvocate.com/beer/profile/37749/181242/,Demognome,37749,Fall Brewing Company,3,3.86
+562,6.80,190458,https://www.beeradvocate.com/beer/profile/33020/190458/,Belgian Dubbel,33020,Grimross Brewing Co.,3,4.08
+563,7.80,135932,https://www.beeradvocate.com/beer/profile/24056/135932/,Dub Sack,24056,Melvin Brewing / Thai Me Up,3,4.6
+564,7.00,295422,https://www.beeradvocate.com/beer/profile/47362/295422/,Tungri Dubbel,47362,Amburon Belgian Craftbrewery NV,3,3.24
+565,7.60,264192,https://www.beeradvocate.com/beer/profile/45944/264192/,Yuletide Reinbeer,45944,Lorelei Brewing Company,2,4.56
+566,7.00,69376,https://www.beeradvocate.com/beer/profile/2845/69376/,Dubbel Happy,2845,Invercargill Brewery,2,3.41
+567,6.00,267264,https://www.beeradvocate.com/beer/profile/705/267264/,Shabby Abbey,705,Union Station Brewery,2,3.47
+568,7.00,305408,https://www.beeradvocate.com/beer/profile/31674/305408/,Dubbel,31674,Shacklands Brewing Company,2,3.66
+569,6.70,69122,https://www.beeradvocate.com/beer/profile/25435/69122/,Doonies Dubbel,25435,Turkey Hill Brewing Co. Pub & Grille,2,3.99
+570,6.90,209157,https://www.beeradvocate.com/beer/profile/42880/209157/,St. Berlinda,42880,Waverly Brewing Company,2,3.32
+571, ? ,46853,https://www.beeradvocate.com/beer/profile/1872/46853/,Blackberry Dubbel,1872,McKenzie Brew House,2,4.03
+572,7.00,206854,https://www.beeradvocate.com/beer/profile/1513/206854/,Death Trapp,1513,Smokehouse Brewing Co.,2,3.98
+573,5.70,163590,https://www.beeradvocate.com/beer/profile/4832/163590/,Belgian Dubbel,4832,Triumph Brewing Company,2,3.77
+574,6.75,309514,https://www.beeradvocate.com/beer/profile/14/309514/,Fun Guy At The Party,14,Cambridge Brewing Company,2,4
+575,7.10,208397,https://www.beeradvocate.com/beer/profile/41472/208397/,Belgian Dubbel,41472,Bay City Brewing Co.,2,3.77
+576,7.50,144913,https://www.beeradvocate.com/beer/profile/37127/144913/,Abby Ale,37127,Monk's Cellar,2,3.49
+577,7.50,289809,https://www.beeradvocate.com/beer/profile/32376/289809/,Punk'd Pie,32376,West O Beer,2,3.96
+578,6.50,284434,https://www.beeradvocate.com/beer/profile/42486/284434/,Brother Doug,42486,Redline Brewhouse,2,3.69
+579,8.30,287506,https://www.beeradvocate.com/beer/profile/49491/287506/,Dubbel XX,49491,Steinhardt Brewing Co,2,3.97
+580,7.50,156946,https://www.beeradvocate.com/beer/profile/30980/156946/,Dubbel,30980,Zipline Brewing Co,2,3.77
+581,7.30,270355,https://www.beeradvocate.com/beer/profile/46614/270355/,Tempted Angel,46614,Ghostface Brewing,2,4.12
+582,5.50,212499,https://www.beeradvocate.com/beer/profile/42493/212499/,Monk's Head,42493,Royal Docks Brewing Company,2,2.66
+583,6.00,199446,https://www.beeradvocate.com/beer/profile/40333/199446/,Out Of Your Gourd,40333,Demented Brewing Company,2,3.72
+584, ? ,78102,https://www.beeradvocate.com/beer/profile/14886/78102/,Big Easy Belgium,14886,The Brewerie At Union Station,2,3.78
+585, ? ,160534,https://www.beeradvocate.com/beer/profile/20017/160534/,1977,20017,5 Seasons Westside,2,4.12
+586,7.50,184598,https://www.beeradvocate.com/beer/profile/40661/184598/,Diepolder Dubbel,40661,Marker 48 Brewing,2,4.17
+587,7.50,74775,https://www.beeradvocate.com/beer/profile/24444/74775/,Long Fang Abbey Ale,24444,Thr3e Wise Men,2,4.37
+588,7.20,156183,https://www.beeradvocate.com/beer/profile/32412/156183/,Dubbel Penetration,32412,The Vineyard and Brewery at Hershey,2,3.62
+589,7.50,110103,https://www.beeradvocate.com/beer/profile/30030/110103/,The Selling Of Indulgences,30030,Drop-In Brewing Company,2,3.77
+590,8.00,309528,https://www.beeradvocate.com/beer/profile/9617/309528/,Reserve 7,9617,Bastone Brewery,2,3.61
+591,7.50,60442,https://www.beeradvocate.com/beer/profile/554/60442/,Spelt Bier Dubbel,554,Bierbrouwerij Sint-Servattumus,2,3.47
+592,8.90,164124,https://www.beeradvocate.com/beer/profile/37625/164124/,The Dragon,37625,BrewLAB,2,3.75
+593,6.80,217373,https://www.beeradvocate.com/beer/profile/34737/217373/,Two Singles,34737,Infinite Ale Works,2,3.83
+594,7.60,282909,https://www.beeradvocate.com/beer/profile/1788/282909/,Abbey Dubbel,1788,Flying Goose Brew Pub & Grille,2,3.53
+595,8.10,220445,https://www.beeradvocate.com/beer/profile/31730/220445/,Belgian Dubbel,31730,Sons of Liberty Aleworks,2,3.97
+596, ? ,37150,https://www.beeradvocate.com/beer/profile/2669/37150/,Black Forest Klosterbrau,2669,Black Forest Brew Haus,2,3.37
+597,6.40,227103,https://www.beeradvocate.com/beer/profile/813/227103/,Saint Landelin Brune,813,Les Brasseurs de Gayant,2,2.72
+598,7.10,137248,https://www.beeradvocate.com/beer/profile/35985/137248/,Beleaguered Bastards Of Bastogne Belgian Dubbel,35985,Service Brewing Company,2,4.11
+599,8.00,14112,https://www.beeradvocate.com/beer/profile/1154/14112/,Willoughby Abbey Road Belgian Dubbel,1154,Willoughby Brewing,2,4.49
+600,7.60,220705,https://www.beeradvocate.com/beer/profile/30209/220705/,Dubbel Auger,30209,Canal Park Brewing Co.,2,3.33
+601,7.50,99106,https://www.beeradvocate.com/beer/profile/32661/99106/,Heartsong,32661,Crooked Run Brewing,2,3.32
+602,6.40,251938,https://www.beeradvocate.com/beer/profile/47056/251938/,Quiet Car,47056,Eight & Sand Beer Co.,2,3.85
+603,7.50,143652,https://www.beeradvocate.com/beer/profile/31320/143652/,Bieré De Abbaye Double,31320,Pax Bräu,2,3.8
+604,8.00,79141,https://www.beeradvocate.com/beer/profile/27632/79141/,Dos Padres Dubbel,27632,Aztec Brewing Company,2,3.66
+605,7.00,209703,https://www.beeradvocate.com/beer/profile/36225/209703/,Snake Hips,36225,Brewtus Brewing Company,2,3.91
+606,6.00,69416,https://www.beeradvocate.com/beer/profile/18139/69416/,Belgian Dubbel,18139,Pacific Beach Ale House,2,3.13
+607,7.40,305960,https://www.beeradvocate.com/beer/profile/43110/305960/,Dead Dubbel D,43110,Dead Hippie Brewing,2,3.66
+608,6.60,143146,https://www.beeradvocate.com/beer/profile/31049/143146/,9 Hour Dubbel,31049,Scratch Brewing Company,2,3.92
+609,10.30,285483,https://www.beeradvocate.com/beer/profile/37809/285483/,Asmodeus - Bourbon Barrel-Aged,37809,Ethereal Brewing,2,4.6
+610,6.50,170027,https://www.beeradvocate.com/beer/profile/27641/170027/,Dubbel,27641,Rail House Restaurant & Brewpub,2,3.85
+611,6.60,93740,https://www.beeradvocate.com/beer/profile/31554/93740/,Oracle,31554,Refuge Brewery,2,3.47
+612,8.00,84270,https://www.beeradvocate.com/beer/profile/21834/84270/,Ambacht Hillsboro Brown Ale,21834,Ambacht Brewing,2,4.52
+613,6.50,141615,https://www.beeradvocate.com/beer/profile/27040/141615/,Kifabock,27040,The Big Five Breweries,2,3.87
+614, ? ,60720,https://www.beeradvocate.com/beer/profile/987/60720/,Brewmaster's Special Abbey,987,SandLot Brewery @ Coors Field (Blue Moon Brewing Company),2,3.71
+615,8.00,74033,https://www.beeradvocate.com/beer/profile/25965/74033/,Leuven Dubbel,25965,Cervejaria Leuven,2,3.22
+616, ? ,167217,https://www.beeradvocate.com/beer/profile/24871/167217/,The Tantalizing Succulent Monk,24871,Yorkholo Brewing Co.,2,4.04
+617, ? ,113202,https://www.beeradvocate.com/beer/profile/28192/113202/,Dubbel Deuce,28192,Urban Family Brewing Co.,2,3.38
+618,8.50,313394,https://www.beeradvocate.com/beer/profile/33824/313394/,Hubble Trouble,33824,Bottle Logic Brewing,2,4.11
+619,6.00,320563,https://www.beeradvocate.com/beer/profile/36949/320563/,Cursed Realm,36949,Holy Mountain Brewing Company,2,3.57
+620, ? ,48693,https://www.beeradvocate.com/beer/profile/18635/48693/,MadMonk Dubbel,18635,Aviator Brewing Company,2,3.82
+621,7.60,257333,https://www.beeradvocate.com/beer/profile/43007/257333/,Belgian Dubbel,43007,Pinthouse Pizza - South Austin,2,3.5
+622,7.30,209206,https://www.beeradvocate.com/beer/profile/43724/209206/,Abbey 6,43724,The Tank Brewing Co.,2,3.82
+623,6.00,196919,https://www.beeradvocate.com/beer/profile/42838/196919/,Gulden Spoor Dubbel,42838,Brouwerij Gulden Spoor,2,3.56
+624,7.00,165431,https://www.beeradvocate.com/beer/profile/39022/165431/,Dubbel,39022,Savour Beer,2,3.76
+625,7.00,126265,https://www.beeradvocate.com/beer/profile/14503/126265/,Balloon Buster,14503,Flyers Restaurant And Brewery,2,3.47
+626, ? ,145722,https://www.beeradvocate.com/beer/profile/34319/145722/,Brothers,34319,ZümBier,2,3.97
+627,8.50,85050,https://www.beeradvocate.com/beer/profile/409/85050/,Vespertine,409,Central Coast Brewing,2,4.18
+628,6.20,129850,https://www.beeradvocate.com/beer/profile/34100/129850/,Two Times A Lady,34100,LowDown Brewery + Kitchen,2,3.36
+629,7.00,314172,https://www.beeradvocate.com/beer/profile/40035/314172/,Belgian Dubbel,40035,Lupulin Brewing,2,4.02
+630,6.80,196669,https://www.beeradvocate.com/beer/profile/37452/196669/,Thoroughgood,37452,Pleasure House Brewing,2,3.9
+631,7.80,223293,https://www.beeradvocate.com/beer/profile/33476/223293/,Belgian Dubbel,33476,3 Daughters Brewing,2,3.65
+632,7.50,194366,https://www.beeradvocate.com/beer/profile/36710/194366/,Dubbel Bagger,36710,J. Wakefield Brewing,2,3.56
+633,8.00,68671,https://www.beeradvocate.com/beer/profile/3442/68671/,Paternoster,3442,Microbrouwerij Achilles,2,3.25
+634,6.70,331329,https://www.beeradvocate.com/beer/profile/51376/331329/,The Problem,51376,Böser Geist Brewing,2,1.83
+635,6.30,99650,https://www.beeradvocate.com/beer/profile/29170/99650/,Belgian Ale,29170,Village Vintner Winery & Brewery,2,3.42
+636,7.00,177732,https://www.beeradvocate.com/beer/profile/41117/177732/,Dubbel,41117,Heartly Craft Brewery,2,3.53
+637,6.90,149317,https://www.beeradvocate.com/beer/profile/34200/149317/,The Golden Spruce,34200,Iron John's Brewing Company,2,4.19
+638,6.60,296005,https://www.beeradvocate.com/beer/profile/20810/296005/,Vilkmerges Belgiskas Dubbel,20810,Vilkmergės Alus,2,3.71
+639,7.20,247623,https://www.beeradvocate.com/beer/profile/44005/247623/,Dubbel,44005,The Exchange Brewery,2,3.85
+640,8.00,157256,https://www.beeradvocate.com/beer/profile/28821/157256/,Stumble Double,28821,Stumblefoot Brewing Company,2,3.83
+641,7.10,177480,https://www.beeradvocate.com/beer/profile/41023/177480/,Red Neck Rodeo,41023,Verde Brewing Company,2,4.26
+642,7.00,334921,https://www.beeradvocate.com/beer/profile/46787/334921/,Albert E.,46787,Broken Symmetry Gastro Brewery,2,3.82
+643,10.00,188747,https://www.beeradvocate.com/beer/profile/42109/188747/,Rood Donker,42109,Third Monk Brewing Company,2,3.66
+644, ? ,254283,https://www.beeradvocate.com/beer/profile/1924/254283/,French Oak Dubbel,1924,DuClaw Brewing Company,2,3.4
+645,8.50,45645,https://www.beeradvocate.com/beer/profile/11341/45645/,Aged Abbey Ale,11341,Hideout Brewing Company,2,3.63
+646,8.00,256589,https://www.beeradvocate.com/beer/profile/34748/256589/,Admiral Ackbeer - It's A Trap(pist)! Gin Barrel Aged,34748,Imperial Oak Brewing,2,4.11
+647, ? ,174670,https://www.beeradvocate.com/beer/profile/34785/174670/,Dubbel In Apple Brandy Barrel,34785,Grist House Craft Brewery,2,3.82
+648,9.60,267856,https://www.beeradvocate.com/beer/profile/695/267856/,Dubbel Down,695,Manayunk Brewery and Restaurant,2,3.48
+649,6.60,68433,https://www.beeradvocate.com/beer/profile/21316/68433/,Abbey Normal,21316,BJ's Restaurant,2,3.54
+650,8.00,134994,https://www.beeradvocate.com/beer/profile/35516/134994/,Ragnar,35516,Noble Order Brewing Company,2,3.25
+651,7.60,288338,https://www.beeradvocate.com/beer/profile/343/288338/,Better Make It A Dubbel,343,"Jasper Murdock’s Alehouse, Dining Room & Microbrewery (The Norwich Inn)",2,3.74
+652,6.70,98899,https://www.beeradvocate.com/beer/profile/27912/98899/,St. Denny Dubbel - Experiment Ale,27912,Ground Breaker Brewing,2,3.69
+653,8.00,242771,https://www.beeradvocate.com/beer/profile/41674/242771/,The Dubbe Abides,41674,Spilled Grain Brewhouse,2,4.12
+654,7.50,250708,https://www.beeradvocate.com/beer/profile/35371/250708/,Punk’d Pie Belgian Dubbel Pumpkin Spiced Ale,35371,West O Beer,2,3.69
+655,7.30,226645,https://www.beeradvocate.com/beer/profile/45230/226645/,Abbey Dubbel,45230,Inbound BrewCo,2,3.63
+656,6.90,110422,https://www.beeradvocate.com/beer/profile/32280/110422/,Timeless Dubbel,32280,Timeless Pints Brewing Company,2,3.36
+657,6.70,149079,https://www.beeradvocate.com/beer/profile/2447/149079/,Dubble Trouble,2447,Coronado Brewing Company,2,4
+658,6.66,111964,https://www.beeradvocate.com/beer/profile/771/111964/,La Part Du Diable,771,Ferme Brasserie Schoune,2,3
+659,6.70,242781,https://www.beeradvocate.com/beer/profile/3722/242781/,Geminus,3722,"Le Bilboquet, Brasseur Artisan",2,3.66
+660,8.30,279649,https://www.beeradvocate.com/beer/profile/46089/279649/,Into The Machine,46089,Kings County Brewers Collective (KCBC),2,3.88
+661,7.50,236386,https://www.beeradvocate.com/beer/profile/46124/236386/,Bux Brown,46124,Brouwerij Biermaekers,2,3.79
+662,6.40,256356,https://www.beeradvocate.com/beer/profile/41498/256356/,Paradise Dubbel - Blackberry,41498,Cypress Brewing Company,2,3.65
+663,5.50,141158,https://www.beeradvocate.com/beer/profile/23261/141158/,Abbey Ale,23261,Pecan Grill & Brewery,2,3.67
+664,7.50,182374,https://www.beeradvocate.com/beer/profile/23303/182374/,Esprit Trappiste,23303,Brasserie De Metropole,2,3.71
+665,7.00,330857,https://www.beeradvocate.com/beer/profile/49549/330857/,Dubbel Coffee Porter,49549,Celis Brewery,2,3.58
+666, ? ,146537,https://www.beeradvocate.com/beer/profile/30962/146537/,Farmhouse Pumpkin Ale,30962,Hall Brewing Co.,2,3.52
+667, ? ,309612,https://www.beeradvocate.com/beer/profile/41552/309612/,WubbaLubbaDubbDubbel,41552,Canton Brew Works,2,3.77
+668,7.50,311917,https://www.beeradvocate.com/beer/profile/50990/311917/,Dubbel aux Framboises,50990,Microbrasserie Au Frontibus,2,4.19
+669,8.00,333166,https://www.beeradvocate.com/beer/profile/50495/333166/,Dubbel Fisherman,50495,Wallenpaupack Brewing Company,2,3.94
+670,8.00,143470,https://www.beeradvocate.com/beer/profile/31010/143470/,Halen Dubbel,31010,Halen Breweries NV,2,3.6
+671,12.10,243315,https://www.beeradvocate.com/beer/profile/43656/243315/,Rum Smuggler Barrel Aged Dubbel,43656,Salt Marsh Brewing,2,4.01
+672,7.10,250227,https://www.beeradvocate.com/beer/profile/47172/250227/,Double,47172,Cynosure Brewing,2,3.85
+673,6.70,204916,https://www.beeradvocate.com/beer/profile/3521/204916/,Nog Eentje Dubbel,3521,De Proefbrouwerij (bvba Andelot),2,3.34
+674,7.50,207990,https://www.beeradvocate.com/beer/profile/41110/207990/,Dubbel Ornery,41110,Ornery Beer Company Public House,2,4.54
+675,6.20,274295,https://www.beeradvocate.com/beer/profile/48531/274295/,Winter Bronze,48531,Portner Brewhouse,2,3.54
+676,7.00,147575,https://www.beeradvocate.com/beer/profile/37784/147575/,Alraune,37784,Macken Bryggeri,2,3.42
+677,9.80,171129,https://www.beeradvocate.com/beer/profile/4980/171129/,Diablo Rogue,4980,Engine House No. 9,2,4.34
+678, ? ,239481,https://www.beeradvocate.com/beer/profile/32798/239481/,Wine Barrel Belgian Golden Ale (Cabernet Barrels),32798,Badger State Brewing Company,2,3.84
+679,7.60,210300,https://www.beeradvocate.com/beer/profile/35541/210300/,Belgian Dubbel,35541,Fieldhouse Brewing Company,2,2.62
+680,8.70,320636,https://www.beeradvocate.com/beer/profile/46089/320636/,Into The Machine: Cranberry,46089,Kings County Brewers Collective (KCBC),2,3.88
+681,8.00,90493,https://www.beeradvocate.com/beer/profile/12003/90493/,Mad Monk Abbey Ale,12003,Emmett's Brewing Company,2,3.97
+682,6.50,136574,https://www.beeradvocate.com/beer/profile/36582/136574/,Last Man Standing,36582,3 Freaks Brewery,2,3.25
+683,7.50,155774,https://www.beeradvocate.com/beer/profile/34508/155774/,Friar Tuck Belgian Dubbel,34508,Olds College Teaching Brewery,2,3.7
+684,7.50,168574,https://www.beeradvocate.com/beer/profile/37759/168574/,Order Of The Rabbit,37759,Jackrabbit Brewing Company,2,3.71
+685,6.80,270720,https://www.beeradvocate.com/beer/profile/34887/270720/,Colonel John Baker,34887,Brasseurs du Petit-Sault,2,3.82
+686,7.40,272512,https://www.beeradvocate.com/beer/profile/34104/272512/,Au Courant,34104,Greenpoint Beer & Ale Company,2,3.87
+687, ? ,238208,https://www.beeradvocate.com/beer/profile/34964/238208/,Loveshine,34964,Mexitaly,2,3.6
+688,8.60,70785,https://www.beeradvocate.com/beer/profile/6045/70785/,Cabby Boysenberry,6045,Iron Hill Brewery & Restaurant,2,3.79
+689,7.40,164229,https://www.beeradvocate.com/beer/profile/35529/164229/,Dubbel Entendre,35529,River's Edge Brewing Co,2,4.11
+690,7.50,292231,https://www.beeradvocate.com/beer/profile/29070/292231/,Nonneke,29070,Brouwerij Anders,2,4.35
+691, ? ,264840,https://www.beeradvocate.com/beer/profile/42818/264840/,Plum Dubbel (Pretentious Beer Company),42818,Alliance Brewing Company,2,3.02
+692,5.20,139145,https://www.beeradvocate.com/beer/profile/33888/139145/,Monks Melk Dubbel,33888,Six Ten Brewing,2,3.62
+693,7.00,38794,https://www.beeradvocate.com/beer/profile/1619/38794/,Cherry Dubbel,1619,C.H. Evans Brewing Company,2,3.96
+694,6.70,281486,https://www.beeradvocate.com/beer/profile/48213/281486/,L Dub Belgian Dubbel,48213,Lost Winds Brewing Company,2,3.62
+695,7.30,167054,https://www.beeradvocate.com/beer/profile/30744/167054/,Belgian Dubbel,30744,Yonkers Brewing Co.,2,4.2
+696,9.00,288655,https://www.beeradvocate.com/beer/profile/29813/288655/,Stanneman Extra Dubbel,29813,Brouwerij Pirlot,2,4.16
+697,7.00,173967,https://www.beeradvocate.com/beer/profile/33738/173967/,IndieFerm Dubbel,33738,Independent Fermentations Brewing (IndieFerm),2,3.94
+698,7.50,302224,https://www.beeradvocate.com/beer/profile/40590/302224/,Dr. Dubbel,40590,River Rouge Brewing Company,2,3.71
+699, ? ,205202,https://www.beeradvocate.com/beer/profile/34765/205202/,Gladius,34765,Save The World Brewing Company,2,3.54
+700,8.20,278162,https://www.beeradvocate.com/beer/profile/44083/278162/,Wabba Lubba Dub Dubbel,44083,Metal Monkey Brewing,2,3.52
+701,7.40,177298,https://www.beeradvocate.com/beer/profile/21876/177298/,Philosophe,21876,The LAB (Lexington Avenue Brewery),2,4.1
+702,7.20,107412,https://www.beeradvocate.com/beer/profile/339/107412/,Stuff Yer Face Anniversary Ale,339,Flying Fish Brewing Company,2,3.59
+703,7.50,193941,https://www.beeradvocate.com/beer/profile/42617/193941/,Belgian Double,42617,Big Water Brewery,2,3.21
+704, ? ,314006,https://www.beeradvocate.com/beer/profile/42489/314006/,Joy From The World Holiday Dubble,42489,Central 28 Beer Co.,2,3.55
+705,7.20,253078,https://www.beeradvocate.com/beer/profile/46536/253078/,Parade Of Giants Belgian Dubbel,46536,North Pier Brewing Company,2,4.09
+706,5.00,274584,https://www.beeradvocate.com/beer/profile/46057/274584/,Belgian Amber Ale,46057,Life Brewpub,2,3.91
+707,8.20,145051,https://www.beeradvocate.com/beer/profile/28608/145051/,Brew 2,28608,Brewfinity Brewing Company,2,3.31
+708,8.50,132764,https://www.beeradvocate.com/beer/profile/33737/132764/,Grand Majesty Dubbel,33737,Granite Falls Brewing Co.,2,3.76
+709,7.30,147869,https://www.beeradvocate.com/beer/profile/32043/147869/,33 Acres Of Reverence,32043,33 Acres Brewing Co.,2,3.43
+710,7.00,167837,https://www.beeradvocate.com/beer/profile/31228/167837/,Rye Dubbel,31228,The Granary,2,3.53
+711,8.10,313501,https://www.beeradvocate.com/beer/profile/35529/313501/,Indubious,35529,River's Edge Brewing Co,2,3.86
+712,7.50,94110,https://www.beeradvocate.com/beer/profile/31674/94110/,Shacklands Dubbel,31674,Shacklands Brewing Company,2,3.39
+713,7.50,288672,https://www.beeradvocate.com/beer/profile/34748/288672/,Admiral Piebeer - It's A Cherry Pie Dubbel,34748,Imperial Oak Brewing,2,4.08
+714,8.30,292512,https://www.beeradvocate.com/beer/profile/41/292512/,Corsendonk Dark Dubbel,41,Brouwerij Corsendonk,2,4.88
+715,7.50,46240,https://www.beeradvocate.com/beer/profile/18012/46240/,Abbey,18012,Seven Brides Brewing,2,3
+716,6.80,219554,https://www.beeradvocate.com/beer/profile/29858/219554/,Dubbel Decker Belgian Ale,29858,Fifty West Brewing Co,2,3.75
+717,6.50,64675,https://www.beeradvocate.com/beer/profile/6970/64675/,Tiense Kweiker Donker,6970,Brouwerij Den Hopperd,2,3.94
+718,6.00,171685,https://www.beeradvocate.com/beer/profile/40037/171685/,Abbey De Loco,40037,Garden Grove Brewing Company,2,3.89
+719,7.40,45989,https://www.beeradvocate.com/beer/profile/6045/45989/,Bourbon Dubbel,6045,Iron Hill Brewery & Restaurant,2,4
+720,6.50,207527,https://www.beeradvocate.com/beer/profile/28359/207527/,Brabante Oscura,28359,Brabante Cervezas,2,3.98
+721,7.60,149671,https://www.beeradvocate.com/beer/profile/35527/149671/,Dubbel,35527,The Lone Wolfe Brewing Co.,2,3.55
+722,6.00,217000,https://www.beeradvocate.com/beer/profile/36030/217000/,Dundulis Magistra,36030,Širvėnos Bravoras,2,3.02
+723, ? ,112555,https://www.beeradvocate.com/beer/profile/4317/112555/,Cabernet Dubbel,4317,Six Rivers Brewery,2,3.63
+724,7.60,214190,https://www.beeradvocate.com/beer/profile/40117/214190/,Abbaye Dubbel,40117,Levante Brewing Company,2,3.85
+725,7.20,187566,https://www.beeradvocate.com/beer/profile/25260/187566/,Double,25260,Enegren Brewing Company,2,3.73
+726,6.90,255150,https://www.beeradvocate.com/beer/profile/46338/255150/,Downtown Abbaye,46338,Tarboro Brewing Company,2,4.01
+727,9.00,219059,https://www.beeradvocate.com/beer/profile/29641/219059/,L'Après-Ski,29641,Microbrasserie Goudale,2,3.73
+728, ? ,46003,https://www.beeradvocate.com/beer/profile/5892/46003/,Rescue Ale,5892,Walnut Brewery,2,4.06
+729,6.50,319411,https://www.beeradvocate.com/beer/profile/47004/319411/,Jour De L'Armistace,47004,Dog Money Restaurant & Brewery,2,3.87
+730,7.60,273333,https://www.beeradvocate.com/beer/profile/48597/273333/,Sprout,48597,Brewery Bhavana,2,3.94
+731,6.50,98487,https://www.beeradvocate.com/beer/profile/32535/98487/,Brune,32535,Brasserie Aliénor,2,2.95
+732,8.70,291769,https://www.beeradvocate.com/beer/profile/46008/291769/,Belgian Dubbel,46008,Jughandle Brewing,2,3.91
+733,7.50,144574,https://www.beeradvocate.com/beer/profile/36256/144574/,Brothers Mason Dubbel,36256,Lost Province Brewing Co.,2,3.42
+734, ? ,319937,https://www.beeradvocate.com/beer/profile/34647/319937/,Belsnickel's Wrath,34647,Ursula Brewery,2,2.78
+735, ? ,167618,https://www.beeradvocate.com/beer/profile/11141/167618/,Double Dutch Oak Aged,11141,Hank is Wiser Brewery,2,4.09
+736,8.00,105156,https://www.beeradvocate.com/beer/profile/23519/105156/,Bruin,23519,Extraomnes,2,4.27
+737,7.50,235461,https://www.beeradvocate.com/beer/profile/34058/235461/,Maria Dubbel,34058,Kehrwieder Kreativbrauerei,2,3.4
+738,8.00,320198,https://www.beeradvocate.com/beer/profile/45235/320198/,La Windsor Dubbel,45235,Unsung Brewing Company,2,3.99
+739,6.80,138439,https://www.beeradvocate.com/beer/profile/512/138439/,Ramses Beir Poolvos,512,De 3 Horne Bierbrouwerij,2,2.62
+740,8.00,44490,https://www.beeradvocate.com/beer/profile/11862/44490/,La Déferlante,11862,Bières de Ré,2,3.69
+741,7.00,100299,https://www.beeradvocate.com/beer/profile/23628/100299/,Dubbel,23628,Brouwerij West,2,3.25
+742,7.80,114129,https://www.beeradvocate.com/beer/profile/2346/114129/,Rochester Mills Schapen Scheren Belgian Dubbel,2346,Rochester Mills Beer Co.,2,3.43
+743,6.50,229586,https://www.beeradvocate.com/beer/profile/28188/229586/,Belgian Dubbel,28188,Country Boy Brewing,2,3.87
+744,6.80,167890,https://www.beeradvocate.com/beer/profile/28693/167890/,Dubbel Barrel,28693,Outlaw Brewing,2,4.08
+745,7.10,227795,https://www.beeradvocate.com/beer/profile/40393/227795/,Devotion,40393,LTS Brewing Company (Life's Too Short),2,3.83
+746,7.50,185811,https://www.beeradvocate.com/beer/profile/3720/185811/,L’Amoszus Double,3720,Brasserie Belgh Brasse,2,3.89
+747,7.80,222167,https://www.beeradvocate.com/beer/profile/6984/222167/,Cardinal Syn,6984,St. Austell Brewery,2,3.84
+748,7.00,207320,https://www.beeradvocate.com/beer/profile/1784/207320/,The Day After Holiday Ale,1784,Outer Banks Brewing Station,2,4.34
+749,8.00,101852,https://www.beeradvocate.com/beer/profile/29747/101852/,The Choice Dubbel,29747,Druthers Brewing Company,2,3.92
+750,7.00,129244,https://www.beeradvocate.com/beer/profile/34720/129244/,Bell's Dubbel Trubbel,34720,Abilene Brewing Co.,2,3.99
+751,6.70,256989,https://www.beeradvocate.com/beer/profile/27946/256989/,Dubbel Track,27946,Track 7 Brewing Co.,2,3.84
+752,7.40,146142,https://www.beeradvocate.com/beer/profile/12959/146142/,Pilot Batch Candy Man,12959,Captain Lawrence Brewing Co.,2,3.95
+753,8.20,138463,https://www.beeradvocate.com/beer/profile/36170/138463/,The Anxious Abbot,36170,Roots Brewing Company,2,4.53
+754,6.00,322273,https://www.beeradvocate.com/beer/profile/51611/322273/,Urban Dubbel,51611,Urban Brewery,2,3.44
+755, ? ,28130,https://www.beeradvocate.com/beer/profile/2351/28130/,Dubbel Trubbel,2351,Royal Oak Brewery,2,3.75
+756, ? ,244450,https://www.beeradvocate.com/beer/profile/46685/244450/,XXnaigleB_BelgianXX,46685,Artisanal Brew Works,2,4.34
+757,7.00,262883,https://www.beeradvocate.com/beer/profile/45685/262883/,100 Pts.,45685,Halo Brewery,2,3.48
+758,7.30,225507,https://www.beeradvocate.com/beer/profile/24180/225507/,Dubbel Ale,24180,Wild Wolf Brewing Company,2,3.45
+759, ? ,286182,https://www.beeradvocate.com/beer/profile/337/286182/,Dubbelganger,337,Saint Arnold Brewing Company,2,4.24
+760,8.00,71655,https://www.beeradvocate.com/beer/profile/6045/71655/,St. Bethardus Abt 8,6045,Iron Hill Brewery & Restaurant,2,3.84
+761,8.50,69864,https://www.beeradvocate.com/beer/profile/17752/69864/,Double De Bonsecours,17752,Broue Pub Brouhaha,2,3.85
+762,6.90,230376,https://www.beeradvocate.com/beer/profile/42081/230376/,Twerkalicious,42081,Stickman Brews,2,3.71
+763,6.80,77291,https://www.beeradvocate.com/beer/profile/1178/77291/,Belgian Bruin,1178,Great Waters Brewing,2,3.66
+764,7.40,277227,https://www.beeradvocate.com/beer/profile/37078/277227/,Dubbel Overtime,37078,Land-Grant Brewing Company,2,3.66
+765,7.80,323564,https://www.beeradvocate.com/beer/profile/45700/323564/,Memphis,45700,Black Bellows Brewing Company,2,3.04
+766,7.00,208365,https://www.beeradvocate.com/beer/profile/41427/208365/,Dubbel,41427,Topa Topa Brewing,2,3.54
+767,8.70,280046,https://www.beeradvocate.com/beer/profile/43085/280046/,Cat'z Pajamaz,43085,Brewyard Beer Company,2,4.1
+768,7.00,140015,https://www.beeradvocate.com/beer/profile/16084/140015/,Dubbel Down,16084,James Peak Brewery & Smokehouse,2,3.29
+769,7.50,293616,https://www.beeradvocate.com/beer/profile/32991/293616/,Dog Chews Out Gerald,32991,Stormcloud Brewing Company,2,4.03
+770,7.00,46321,https://www.beeradvocate.com/beer/profile/2156/46321/,Dubbel Fantasy,2156,San Diego Brewing Co.,2,3.77
+771,6.50,159218,https://www.beeradvocate.com/beer/profile/32110/159218/,Júpiter Habanero Dubbel,32110,Cervejaria Júpiter,2,3.55
+772,5.80,227314,https://www.beeradvocate.com/beer/profile/43655/227314/,Belgian Dubbel,43655,Khoffner Craft Ale & Lagers,2,3.75
+773,8.00,282611,https://www.beeradvocate.com/beer/profile/33589/282611/,Barrel Aged Convocation,33589,Columbia Kettle Works,2,4.1
+774,7.10,164084,https://www.beeradvocate.com/beer/profile/27243/164084/,Hobo Spider Dubbel,27243,Spider Bite Beer Company,2,3.56
+775, ? ,106229,https://www.beeradvocate.com/beer/profile/4063/106229/,Belgian Dubbel,4063,River City Brewing Co.,2,3.5
+776,6.30,80374,https://www.beeradvocate.com/beer/profile/25168/80374/,Sir Pantaloons,25168,Holy City Brewing,2,3.59
+777,6.50,260600,https://www.beeradvocate.com/beer/profile/34779/260600/,Franklin's Abbey Dubbel,34779,Saint Benjamin Brewing Company,2,3.82
+778,8.20,324350,https://www.beeradvocate.com/beer/profile/34327/324350/,Cursed Tree,34327,Buoy Beer Company,2,3.78
+779,7.00,98559,https://www.beeradvocate.com/beer/profile/9784/98559/,Gucci Cru,9784,Zero Gravity Craft Brewery / American Flatbread,2,3.62
+780,6.80,213504,https://www.beeradvocate.com/beer/profile/38386/213504/,Dubbel Tap,38386,Tin Cannon Brewing Company,1,3.83
+781,6.50,218880,https://www.beeradvocate.com/beer/profile/41497/218880/,Dormouse,41497,Metazoa Brewing Company,1,3.66
+782,7.30,166912,https://www.beeradvocate.com/beer/profile/31920/166912/,Cherry Dubbel,31920,FATE Brewing Company,1,3.75
+783,7.00,298496,https://www.beeradvocate.com/beer/profile/25378/298496/,Pryl,25378,Kinn Bryggeri AS,1,4
+784,5.50,290049,https://www.beeradvocate.com/beer/profile/515/290049/,Lutherbier,515,Brouwerij Klein Duimpje,1,2.36
+785,6.80,304641,https://www.beeradvocate.com/beer/profile/50591/304641/,In de Naam van de Vader Dubbel,50591,Heilig Hart Brouwerij,1,3.68
+786,8.00,268035,https://www.beeradvocate.com/beer/profile/36212/268035/,Dubbelicious,36212,Texas Beer Refinery,1,3.52
+787,6.90,233475,https://www.beeradvocate.com/beer/profile/38506/233475/,Ortelius Bel Dubbel,38506,Compass Rose Brewery,1,2.01
+788,7.80,117251,https://www.beeradvocate.com/beer/profile/25805/117251/,Agave Dubbel,25805,Flix Brewhouse,1,4
+789,5.50,291332,https://www.beeradvocate.com/beer/profile/33108/291332/,Black Currant Amber,33108,Abandon Brewing Co.,1,3.25
+790,6.50,226565,https://www.beeradvocate.com/beer/profile/8776/226565/,Moulin Bruges,8776,Barley and Hops,1,3.9
+791,8.00,260357,https://www.beeradvocate.com/beer/profile/31384/260357/,Roundhouse,31384,Old Rail Brewing Company,1,3.83
+792,6.10,289798,https://www.beeradvocate.com/beer/profile/35025/289798/,Belgian Dubbel,35025,Miner Brewing Company,1,4
+793,6.50,197127,https://www.beeradvocate.com/beer/profile/42845/197127/,Abt Fundum Bruin,42845,Zonderik / Colombus Management BVBA,1,3.69
+794,10.00,292871,https://www.beeradvocate.com/beer/profile/29517/292871/,Bière Divers,29517,Noire & Blanche,1,3.7
+795,7.80,302087,https://www.beeradvocate.com/beer/profile/49794/302087/,SARDS - 145 Eclipse,49794,Burnt Marshmallow Brewing,1,3.21
+796,7.30,65033,https://www.beeradvocate.com/beer/profile/11466/65033/,Belgian Brown Ale,11466,Lodi Beer Company,1,4
+797,7.80,331276,https://www.beeradvocate.com/beer/profile/30858/331276/,Dubbel Team,30858,Aardwolf Brewing Company,1,4.25
+798,8.00,154380,https://www.beeradvocate.com/beer/profile/35764/154380/,Belgian Dubbel With Cinnamon And Raisins,35764,4 Noses Brewing Company,1,3.41
+799,5.50,330765,https://www.beeradvocate.com/beer/profile/52059/330765/,Maartens Dubbel,52059,Uppsala Brygghus,1,2.37
+800,7.50,296461,https://www.beeradvocate.com/beer/profile/34058/296461/,Maria Rum Barrel Aged,34058,Kehrwieder Kreativbrauerei,1,3
+801,8.00,172301,https://www.beeradvocate.com/beer/profile/22655/172301/,Cognac Bro,22655,Straight To Ale,1,4
+802,7.50,322573,https://www.beeradvocate.com/beer/profile/47872/322573/,Leaf Dropper,47872,New Park Brewing,1,4
+803,6.50,283662,https://www.beeradvocate.com/beer/profile/34388/283662/,VorstelijkBier,34388,Apeldoornse Bierbrouwerij De Vlijt,1,3.36
+804,7.50,74255,https://www.beeradvocate.com/beer/profile/24957/74255/,Dubbel + Dik,24957,Brouwerij De 7 Deugden,1,2.77
+805,8.20,271119,https://www.beeradvocate.com/beer/profile/47189/271119/,Belgian Dubbel,47189,Figurehead Brewing Co.,1,3.52
+806,7.20,95759,https://www.beeradvocate.com/beer/profile/2361/95759/,Jean Nicot Dubbel Maduro,2361,Brouwerij De Graal,1,3.2
+807,6.50,318991,https://www.beeradvocate.com/beer/profile/29619/318991/,Hifi Stumptown COLAB,29619,Base Camp Brewing Company,1,3.5
+808, ? ,330000,https://www.beeradvocate.com/beer/profile/47779/330000/,Masala,47779,Brewery ARS,1,4.17
+809,8.00,64017,https://www.beeradvocate.com/beer/profile/1550/64017/,Nature's Candy,1550,Rock Bottom Restaurant & Brewery,1,3.87
+810,8.00,78866,https://www.beeradvocate.com/beer/profile/20684/78866/,Brune,20684,Maltus Faber,1,4.85
+811,7.00,285971,https://www.beeradvocate.com/beer/profile/30030/285971/,The New Brunette,30030,Drop-In Brewing Company,1,3.52
+812,7.00,276500,https://www.beeradvocate.com/beer/profile/48855/276500/,Belgium Duble,48855,Cervecería Artesanal Insitu,1,2.37
+813,6.80,162068,https://www.beeradvocate.com/beer/profile/27773/162068/,Flap Dragon,27773,Mystery Brewing Company,1,3.69
+814,7.00,228372,https://www.beeradvocate.com/beer/profile/40037/228372/,Little Devil,40037,Garden Grove Brewing Company,1,3.5
+815,6.60,257813,https://www.beeradvocate.com/beer/profile/33763/257813/,Punk'd,33763,Banger Brewing,1,3.84
+816,8.00,200726,https://www.beeradvocate.com/beer/profile/33064/200726/,Red Cup,33064,Coppertail Brewing Co.,1,4.16
+817,7.20,291862,https://www.beeradvocate.com/beer/profile/30405/291862/,Brasserie Dubbel,30405,Champion Brewing Company,1,3.75
+818,6.60,212247,https://www.beeradvocate.com/beer/profile/43348/212247/,Snapdragon,43348,Arts District Brewing Co.,1,3.6
+819,8.00,87575,https://www.beeradvocate.com/beer/profile/27326/87575/,The Raven's Thong,27326,Thirsty Crow,1,3.56
+820,7.00,221976,https://www.beeradvocate.com/beer/profile/33521/221976/,Two For The Seesaw,33521,Right Proper Brewing Company - Shaw Brewpub,1,3.92
+821,8.30,164632,https://www.beeradvocate.com/beer/profile/36664/164632/,Dubbel Jointed,36664,Wild Oak Artisan Ales,1,3.56
+822,7.50,243224,https://www.beeradvocate.com/beer/profile/44194/243224/,Little Cherry Dubbel,44194,SPbrew,1,3.96
+823,7.00,331289,https://www.beeradvocate.com/beer/profile/38374/331289/,Belgian Dubbel,38374,Hop Nuts Brewing,1,3.23
+824, ? ,143897,https://www.beeradvocate.com/beer/profile/29008/143897/,Oude Brun,29008,Bluejacket / Arsenal Restaurant,1,4
+825,7.00,98329,https://www.beeradvocate.com/beer/profile/32509/98329/,Brune Bio,32509,La Brasserie Mascaret,1,3.55
+826,8.00,115225,https://www.beeradvocate.com/beer/profile/29200/115225/,Saturnalia,29200,Tahoe Mountain Brewing Co.,1,3.5
+827,7.60,129305,https://www.beeradvocate.com/beer/profile/30516/129305/,Anthem For A New Tomorrow,30516,Black Bottle Brewery,1,3.68
+828,7.00,230427,https://www.beeradvocate.com/beer/profile/38963/230427/,Double Play,38963,Half Door Brewing Co.,1,4.18
+829,6.50,170267,https://www.beeradvocate.com/beer/profile/40123/170267/,Nr. 2 Donker,40123,Brouwerij Marckensteijn,1,3.14
+830,6.50,240667,https://www.beeradvocate.com/beer/profile/545/240667/,Gouverneur Dubbel,545,Lindeboom Bierbrouwerij B.V.,1,3
+831,8.10,192283,https://www.beeradvocate.com/beer/profile/42220/192283/,Matt Lindsay's Dubbel Jeopardy,42220,Legal Remedy Brewing,1,3.91
+832, ? ,81436,https://www.beeradvocate.com/beer/profile/24029/81436/,Dubbel,24029,Wingman Brewers,1,2.78
+833,7.30,324895,https://www.beeradvocate.com/beer/profile/9704/324895/,Greed - Dubbel w/ The Devil Belgian Dubbel,9704,Emmett's Brewing Company,1,3.56
+834,6.50,142624,https://www.beeradvocate.com/beer/profile/36073/142624/,Dubbel Shot,36073,Barreled Souls Brewing Company,1,4
+835,8.50,144416,https://www.beeradvocate.com/beer/profile/660/144416/,Boudelo,660,Huisbrouwerij Boelens,1,3
+836,8.00,255520,https://www.beeradvocate.com/beer/profile/35323/255520/,Isle Of Sark,35323,Lazy Beach Brewing,1,5
+837,8.80,132641,https://www.beeradvocate.com/beer/profile/14518/132641/,Your Mom,14518,Kassik's Kenai Brew Stop,1,3.5
+838,7.40,248609,https://www.beeradvocate.com/beer/profile/27017/248609/,Belgu Dubbel,27017,Lacpleša Alus,1,3.71
+839,8.00,316964,https://www.beeradvocate.com/beer/profile/49309/316964/,Bolwerck 8,49309,Wilskracht Stadsbrouwerij Ravenstein,1,3
+840,6.40,257828,https://www.beeradvocate.com/beer/profile/38563/257828/,Crepuscula,38563,MonsRegius bières artisanales,1,3.99
+841,7.00,273189,https://www.beeradvocate.com/beer/profile/46383/273189/,Habemus Cereviciam,46383,Munich Brew Mafia,1,2.53
+842,8.00,292645,https://www.beeradvocate.com/beer/profile/35053/292645/,Trappist 2,35053,Tradesman Brewing Co.,1,3.81
+843,8.10,255781,https://www.beeradvocate.com/beer/profile/29922/255781/,I Need Dubs,29922,Heist Brewery,1,4
+844,7.40,287526,https://www.beeradvocate.com/beer/profile/40576/287526/,Dubbel,40576,Abe Erb Brewing Co.,1,3.62
+845,6.70,114470,https://www.beeradvocate.com/beer/profile/31099/114470/,Double Holiday,31099,Pan-American Grill & Brewery,1,5
+846, ? ,121127,https://www.beeradvocate.com/beer/profile/34402/121127/,Dubbel,34402,Perry Street Brewing Company,1,3.75
+847,6.60,319530,https://www.beeradvocate.com/beer/profile/41928/319530/,Forge Batch 19.3/White Wine Barrel Aged Belgian Dubbel,41928,Czig Meister Brewing Company,1,3.23
+848,7.60,93995,https://www.beeradvocate.com/beer/profile/31609/93995/,Bijdehand Dubbellam,31609,Bijdehand Bierbrouwerij,1,3.75
+849,7.90,74797,https://www.beeradvocate.com/beer/profile/27042/74797/,Tourmaline Abbey Ale,27042,Middleton Brewing,1,3.77
+850,6.50,313133,https://www.beeradvocate.com/beer/profile/725/313133/,Tongerlo NOX,725,Brouwerij Haacht NV,1,3.25
+851,8.20,74798,https://www.beeradvocate.com/beer/profile/27042/74798/,Cinnabar Belgian Dubble (with Cherries),27042,Middleton Brewing,1,3.02
+852,8.50,169263,https://www.beeradvocate.com/beer/profile/22598/169263/,Dubbel,22598,Cismontane Brewing Company,1,3
+853, ? ,312367,https://www.beeradvocate.com/beer/profile/48569/312367/,Farmhouse Dubbel Maple Ale,48569,Griffin Hill Farm Brewery,1,4.46
+854,7.50,326959,https://www.beeradvocate.com/beer/profile/33895/326959/,Wide Awake,33895,Van Moll,1,3.75
+855,7.40,198448,https://www.beeradvocate.com/beer/profile/42541/198448/,Friar Nuts,42541,Quattro Goomba's Brewery,1,3.58
+856,7.30,189232,https://www.beeradvocate.com/beer/profile/31049/189232/,Wild Dubbel,31049,Scratch Brewing Company,1,4
+857,7.90,321330,https://www.beeradvocate.com/beer/profile/38311/321330/,Dubbel Giggidy,38311,Noon Whistle Brewing,1,3.65
+858,7.00,122675,https://www.beeradvocate.com/beer/profile/3456/122675/,Ne Janneman,3456,Brouwerij Cornelissen,1,3.1
+859, ? ,70453,https://www.beeradvocate.com/beer/profile/5076/70453/,Mountain Monk,5076,Big Horse Brew Pub / Horse Feathers & Co.,1,3.38
+860,7.00,293429,https://www.beeradvocate.com/beer/profile/34340/293429/,Dubbel Edge,34340,Edge Brewing,1,3.24
+861,7.00,162613,https://www.beeradvocate.com/beer/profile/25832/162613/,Saint Arnould,25832,Cervejaria Bodebrown Ltda.,1,3.84
+862, ? ,305205,https://www.beeradvocate.com/beer/profile/35874/305205/,Dubbel,35874,Brewery Becker,1,3.6
+863, ? ,44342,https://www.beeradvocate.com/beer/profile/12314/44342/,Dockside Dubbel,12314,Dry Dock Brewing Co.,1,4.1
+864,7.70,185399,https://www.beeradvocate.com/beer/profile/33665/185399/,Belgian Dubbel,33665,Storm Peak Brewing Co.,1,4.1
+865,8.00,208952,https://www.beeradvocate.com/beer/profile/4837/208952/,L'Alsacienne Brune,4837,Brasserie Le Gambrinus,1,3.8
+866,6.90,121400,https://www.beeradvocate.com/beer/profile/31920/121400/,Belgian Dubbel,31920,FATE Brewing Company,1,3.75
+867, ? ,131385,https://www.beeradvocate.com/beer/profile/28748/131385/,Bourbon Aged Mon Cherries,28748,Borealis Fermentery,1,3.5
+868,6.40,283961,https://www.beeradvocate.com/beer/profile/35617/283961/,Dubbel Butt,35617,Rare Bird Brewpub,1,4.25
+869,4.80,90425,https://www.beeradvocate.com/beer/profile/1644/90425/,Belgian Yuletide,1644,Kutztown Tavern,1,3.49
+870,5.00,291898,https://www.beeradvocate.com/beer/profile/2520/291898/,Nuit Rousse Bio,2520,Brasserie Lancelot,1,3.6
+871,5.70,293946,https://www.beeradvocate.com/beer/profile/9563/293946/,Black Friar,9563,Queen City Brewing Limited,1,3.51
+872,6.70,235834,https://www.beeradvocate.com/beer/profile/34501/235834/,Belgian Dubbel,34501,Innovation Brewing,1,3.81
+873,6.60,148027,https://www.beeradvocate.com/beer/profile/24245/148027/,Poolvos,24245,Ramses Bier,1,3.5
+874,7.20,340285,https://www.beeradvocate.com/beer/profile/43731/340285/,Chemistry,43731,Brues Alehouse Brewing Co,1,3.75
+875,7.80,335167,https://www.beeradvocate.com/beer/profile/33522/335167/,2017 Pinot Noir Cadence,33522,Reformation Brewery,1,4
+876,6.80,305216,https://www.beeradvocate.com/beer/profile/44611/305216/,Tribute,44611,Westfax Brewing Company,1,3.54
+877,7.60,321600,https://www.beeradvocate.com/beer/profile/47585/321600/,Special Ale Edition N° 03,47585,Cerveja Artesanal Vitriol,1,3.43
+878,10.00,321857,https://www.beeradvocate.com/beer/profile/51176/321857/,Dubbel Penetration,51176,Midnight Run Brewing,1,3.77
+879,8.00,224579,https://www.beeradvocate.com/beer/profile/11421/224579/,Grand Cru,11421,Sin City Brewing Co.,1,3.22
+880,6.00,175171,https://www.beeradvocate.com/beer/profile/28362/175171/,St-Jones,28362,Brasserie Artisanale La Souche,1,4
+881,6.90,302150,https://www.beeradvocate.com/beer/profile/44399/302150/,No.#5 Belgian Dubbel,44399,Brown Truck Brewery,1,3.88
+882,8.90,309574,https://www.beeradvocate.com/beer/profile/36582/309574/,Ester Obsessed,36582,3 Freaks Brewery,1,2.6
+883,7.20,168263,https://www.beeradvocate.com/beer/profile/1344/168263/,Small Batch - Dubbel,1344,Cricket Hill Brewing Co.,1,3.69
+884,7.50,112199,https://www.beeradvocate.com/beer/profile/33619/112199/,See’n Dübbel,33619,Kokopelli Beer Company,1,3.5
+885, ? ,322375,https://www.beeradvocate.com/beer/profile/21448/322375/,Blindly Ambitious,21448,Ladyface Ale Companie,1,4.11
+886,7.80,81992,https://www.beeradvocate.com/beer/profile/16096/81992/,Allentown Dubbel,16096,Allentown Brew Works,1,3.83
+887,7.20,225352,https://www.beeradvocate.com/beer/profile/33642/225352/,Abbaye Normal,33642,Village Idiot Brewing Company,1,3.65
+888,8.50,46920,https://www.beeradvocate.com/beer/profile/456/46920/,Belgian Brown,456,Trinity Brewhouse,1,3.65
+889, ? ,243018,https://www.beeradvocate.com/beer/profile/33637/243018/,Barrel Aged Dubbel Night Vision,33637,Kalona Brewing Company,1,4
+890,6.70,249674,https://www.beeradvocate.com/beer/profile/28356/249674/,Dendermonde Dubbel,28356,Doylestown Brewing Co,1,3.88
+891,8.30,145995,https://www.beeradvocate.com/beer/profile/31029/145995/,Belgian Dubbel,31029,Peddler Brewing Co.,1,3.94
+892,6.50,282956,https://www.beeradvocate.com/beer/profile/3912/282956/,Brother Douglas,3912,Cameron's Brewing Co.,1,3.69
+893,6.00,341581,https://www.beeradvocate.com/beer/profile/52602/341581/,Petre Devos Courant,52602,Petre Devos Audenaerde,1,3.77
+894,7.00,220237,https://www.beeradvocate.com/beer/profile/44054/220237/,Evening Vespers,44054,Laughing Monk Brewing,1,3.52
+895,7.90,196173,https://www.beeradvocate.com/beer/profile/33064/196173/,Dubbel,33064,Coppertail Brewing Co.,1,3.72
+896,7.00,325454,https://www.beeradvocate.com/beer/profile/40580/325454/,Doo-Dah Dubbel,40580,Hopping Gnome Brewing,1,3.62
+897,7.20,262991,https://www.beeradvocate.com/beer/profile/10836/262991/,Abbey Rowed,10836,Rooster Fish Brewing Co.,1,4
+898,6.60,237392,https://www.beeradvocate.com/beer/profile/44312/237392/,Category 2 - Belgian Dubbel,44312,Big Storm Brewing Co. - Pinellas Taproom,1,3.29
+899,6.30,322384,https://www.beeradvocate.com/beer/profile/28437/322384/,Brune De Lutin,28437,Vasileostrovskaya Brewery (Василеостровская Пивоварня),1,3.65
+900,7.10,83282,https://www.beeradvocate.com/beer/profile/28261/83282/,Belgian Dubbel,28261,I & I Brewing,1,3.78
+901,7.50,189522,https://www.beeradvocate.com/beer/profile/39442/189522/,Belgian Dubbel,39442,St. Nicholas Brewing Company,1,3.55
+902,7.10,169045,https://www.beeradvocate.com/beer/profile/39873/169045/,Clown Assassin,39873,Recess Brewing,1,4.4
+903,8.50,296534,https://www.beeradvocate.com/beer/profile/49660/296534/,Barrel Point Belgian Dubbel,49660,MoMac Brewing,1,3.77
+904,8.60,264791,https://www.beeradvocate.com/beer/profile/37521/264791/,Dubbel Entendre,37521,Playalinda Brewing Company - Hardware Store,1,3.84
+905,7.00,222039,https://www.beeradvocate.com/beer/profile/43426/222039/,Dubbel,43426,Brouwerij Noordt,1,3.13
+906,7.50,318295,https://www.beeradvocate.com/beer/profile/27114/318295/,Gravesend Ghoul,27114,Coney Island Brewing Company,1,3.68
+907, ? ,119384,https://www.beeradvocate.com/beer/profile/1135/119384/,Kingslayer,1135,"Franklin's Restaurant, Brewery & General Store",1,4
+908,7.50,324696,https://www.beeradvocate.com/beer/profile/22856/324696/,Rum & Raisins,22856,Trouble Brewing,1,3.5
+909,6.50,330073,https://www.beeradvocate.com/beer/profile/31093/330073/,Butchertown Belgian,31093,MadTree Brewing,1,3.9
+910,6.20,223065,https://www.beeradvocate.com/beer/profile/9775/223065/,Kings Brau Abbaye,9775,Brasserie de Saint-Omer,1,3.25
+911,7.00,176217,https://www.beeradvocate.com/beer/profile/6339/176217/,Dubbel Duck Abbey Ale,6339,The Dodging Duck Brewhaus,1,3.33
+912,8.00,315481,https://www.beeradvocate.com/beer/profile/38403/315481/,Golden Gourd Ale,38403,Moonzen Brewery,1,3.19
+913,9.30,207962,https://www.beeradvocate.com/beer/profile/43623/207962/,Smokehouse 8,43623,Old Glade Brewery,1,4.49
+914,6.30,213850,https://www.beeradvocate.com/beer/profile/34301/213850/,Belgian Brown,34301,Overshores Brewing Co.,1,3.77
+915,5.50,189018,https://www.beeradvocate.com/beer/profile/40037/189018/,St. Rostov,40037,Garden Grove Brewing Company,1,3.83
+916,7.80,64858,https://www.beeradvocate.com/beer/profile/24095/64858/,Double Vision,24095,Columbia River Brewing Co.,1,4.15
+917,7.10,149851,https://www.beeradvocate.com/beer/profile/31972/149851/,Due Benevolence,31972,Warehouse Gourmet Bistro & Brew Pub,1,3.94
+918,8.80,167259,https://www.beeradvocate.com/beer/profile/40037/167259/,St. Rufus,40037,Garden Grove Brewing Company,1,3.48
+919,8.00,189019,https://www.beeradvocate.com/beer/profile/40037/189019/,The Devil,40037,Garden Grove Brewing Company,1,4.03
+920,7.10,142940,https://www.beeradvocate.com/beer/profile/33326/142940/,Walloon,33326,Mispillion River Brewing,1,2.75
+921,6.60,281948,https://www.beeradvocate.com/beer/profile/34301/281948/,Bright Copper Kettles,34301,Overshores Brewing Co.,1,4.03
+922,8.50,143453,https://www.beeradvocate.com/beer/profile/37353/143453/,Abbey Gargoyle Belgian Style Dubbel,37353,Green Wolf Brewing Co.,1,3.95
+923,7.00,316765,https://www.beeradvocate.com/beer/profile/34607/316765/,Genghis Khan Dubbel,34607,Aeronaut Brewing Company,1,4
+924,8.70,298078,https://www.beeradvocate.com/beer/profile/32656/298078/,Aravaipa Abbey Ale,32656,Arizona Wilderness Brewing Co.,1,3.75
+925,7.90,324190,https://www.beeradvocate.com/beer/profile/46328/324190/,Pony Bridge,46328,Lost Tavern Brewing,1,4.15
+926,9.60,116319,https://www.beeradvocate.com/beer/profile/550/116319/,Dubbelbier,550,Stadsbrouwerij de Pelgrim,1,4
+927,8.00,304480,https://www.beeradvocate.com/beer/profile/34748/304480/,Chocolate Coconut Mead Barrel Aged Admiral Ackbeer,34748,Imperial Oak Brewing,1,4.44
+928,7.50,336737,https://www.beeradvocate.com/beer/profile/51047/336737/,Dutchover,51047,Pegasus City Brewery,1,3.92
+929,7.10,134242,https://www.beeradvocate.com/beer/profile/36002/134242/,Dubs Dubbel,36002,Werk Force Brewing Co,1,3.75
+930,6.50,272738,https://www.beeradvocate.com/beer/profile/45164/272738/,Dubbel Time,45164,Rip Rap Brewing Company,1,3.65
+931,6.50,148835,https://www.beeradvocate.com/beer/profile/1170/148835/,Dubbel Up,1170,Upland Brewing Company,1,3.25
+932,8.00,89955,https://www.beeradvocate.com/beer/profile/48/89955/,Arnhems Dubbel,48,Brouwerij Van Steenberge N.V.,1,3.23
+933,7.50,222819,https://www.beeradvocate.com/beer/profile/1169/222819/,Swinging Bridge Belgian Dubbel,1169,Fitger's Brewhouse,1,4.05
+934,6.50,93027,https://www.beeradvocate.com/beer/profile/31467/93027/,L'Hermite Belgian Brune,31467,Cervejaria Urbana,1,3.83
+935,7.20,324707,https://www.beeradvocate.com/beer/profile/48549/324707/,Double Belge,48549,Brasserie Mille-Îles,1,3.2
+936,7.00,260196,https://www.beeradvocate.com/beer/profile/34508/260196/,Winter Harvest,34508,Olds College Teaching Brewery,1,3.99
+937,6.20,194917,https://www.beeradvocate.com/beer/profile/37153/194917/,Black Abbey,37153,Doctor Brew,1,4.6
+938,6.50,70502,https://www.beeradvocate.com/beer/profile/17290/70502/,Abbaye De Valmagne Ambree,17290,Brasserie d'Oc,1,2.11
+939,8.00,174694,https://www.beeradvocate.com/beer/profile/23559/174694/,La Traître,23559,Microbrasserie La Captive,1,3.75
+940,6.80,335207,https://www.beeradvocate.com/beer/profile/52267/335207/,The Incredible Double Zen Boosting Chill Machine,52267,Strieper Craft Beer Company,1,4
+941,6.50,274791,https://www.beeradvocate.com/beer/profile/660/274791/,Elschelot Dubbel,660,Huisbrouwerij Boelens,1,3.49
+942,7.10,85864,https://www.beeradvocate.com/beer/profile/28259/85864/,Dubbel Impact,28259,Wit's End Brewing Company,1,3.5
+943,7.70,296552,https://www.beeradvocate.com/beer/profile/50106/296552/,Dubbel Leven,50106,Puttens Hert Bier,1,3
+944,10.70,341609,https://www.beeradvocate.com/beer/profile/22243/341609/,Revenant Dedication '14,22243,Vintage Brewing Company,1,4.19
+945,8.00,308329,https://www.beeradvocate.com/beer/profile/23519/308329/,Bruin,23519,Extraomnes,1,4
+946,7.25,279914,https://www.beeradvocate.com/beer/profile/26634/279914/,Barrel Aged Belgian Dubbel,26634,Wichita Brewing Co. & Pizzeria West,1,3.98
+947,7.60,232810,https://www.beeradvocate.com/beer/profile/45750/232810/,Snuiter,45750,Brouwerij Het Roze Varken,1,3.25
+948,6.80,212843,https://www.beeradvocate.com/beer/profile/38857/212843/,Marl3y,38857,Notertré,1,3.02
+949,5.80,257899,https://www.beeradvocate.com/beer/profile/46926/257899/,Belgian Abbey Ale,46926,Kindred Spirit Brewing,1,2.98
+950,7.20,279148,https://www.beeradvocate.com/beer/profile/27942/279148/,Bolleke Plus,27942,Boom Island Brewing Company,1,4.38
+951,6.00,100204,https://www.beeradvocate.com/beer/profile/30450/100204/,Framboise,30450,Gravity Brewing,1,3.85
+952, ? ,111724,https://www.beeradvocate.com/beer/profile/31171/111724/,Belgian Style Dubbel,31171,Discretion Brewing,1,4
+953,6.50,214381,https://www.beeradvocate.com/beer/profile/43725/214381/,AbbaziAle,43725,Birrificio Della Granda,1,3.75
+954,7.50,217197,https://www.beeradvocate.com/beer/profile/44477/217197/,Klinker Dubbel,44477,Brouwerij Klinker,1,3.5
+955,7.80,230766,https://www.beeradvocate.com/beer/profile/40894/230766/,Showdown,40894,Roak Brewing Co.,1,3.65
+956,7.10,315759,https://www.beeradvocate.com/beer/profile/37611/315759/,Belgian Dubbel,37611,Farmington Brewing Company,1,3.84
+957,7.10,331376,https://www.beeradvocate.com/beer/profile/44274/331376/,La Mort Belgian Dubbel,44274,Bury Me Brewing,1,4
+958,7.50,142193,https://www.beeradvocate.com/beer/profile/35915/142193/,Torens Tweeling,35915,Torens,1,3.75
+959,8.70,143473,https://www.beeradvocate.com/beer/profile/2361/143473/,Odlo Hiverum,2361,Brouwerij De Graal,1,3.5
+960,7.20,215921,https://www.beeradvocate.com/beer/profile/31554/215921/,Golden Ale,31554,Refuge Brewery,1,4.05
+961,8.50,214899,https://www.beeradvocate.com/beer/profile/30706/214899/,THAT Abbey,30706,THAT Brewery,1,3.87
+962,7.20,282483,https://www.beeradvocate.com/beer/profile/10836/282483/,Belgian Dubbel,10836,Rooster Fish Brewing Co.,1,3.77
+963,7.40,292980,https://www.beeradvocate.com/beer/profile/4992/292980/,Slaapmutske Dubbel Glutenvrij,4992,Brouwerij Slaapmutske,1,3.78
+964,8.30,189556,https://www.beeradvocate.com/beer/profile/35180/189556/,Dirk Dubbelr,35180,MashCraft Brewing,1,3
+965, ? ,330613,https://www.beeradvocate.com/beer/profile/34303/330613/,Interrogator,34303,Singin' River Brewing Co.,1,3.83
+966,6.50,94581,https://www.beeradvocate.com/beer/profile/2301/94581/,Rebuffone,2301,Manerba Brewery,1,3.48
+967,6.90,249973,https://www.beeradvocate.com/beer/profile/21465/249973/,Neuzebier Tripel Bruin,21465,Microbrouwerij Den Triest,1,2.72
+968,9.75,198774,https://www.beeradvocate.com/beer/profile/43045/198774/,Dubbel Trouble,43045,Tilted Axis Brewing Company,1,4.13
+969,6.00,168567,https://www.beeradvocate.com/beer/profile/37759/168567/,Monk Belly,37759,Jackrabbit Brewing Company,1,4
+970, ? ,220281,https://www.beeradvocate.com/beer/profile/42942/220281/,Springtime Dubbel,42942,Crafty Bastard Brewery,1,3.74
+971,7.30,313210,https://www.beeradvocate.com/beer/profile/418/313210/,Belgian Dubbel,418,Left Hand Brewing Company,1,3.5
+972, ? ,266363,https://www.beeradvocate.com/beer/profile/28702/266363/,Abbaye Rose,28702,Argilla Brewing Co.,1,3.88
+973,8.00,217211,https://www.beeradvocate.com/beer/profile/4261/217211/,Ambiorix,4261,Brasserie Des Légendes,1,3.27
+974,7.00,200316,https://www.beeradvocate.com/beer/profile/43171/200316/,Keusters Dubbel,43171,Cerveza Keusters,1,3.52
+975,7.00,172412,https://www.beeradvocate.com/beer/profile/19114/172412/,Cherry Dubbel,19114,Spice Trade Brewing / Yak & Yeti,1,4.5
+976,7.50,323708,https://www.beeradvocate.com/beer/profile/16352/323708/,Cruisin' For A Bruges'n,16352,Blue Mountain Brewery,1,3.85
+977,7.00,228733,https://www.beeradvocate.com/beer/profile/32941/228733/,The Burl,32941,Old Redwood Brewing Company,1,3.25
+978,9.00,93566,https://www.beeradvocate.com/beer/profile/31467/93566/,Gordelicia Extra Gorda,31467,Cervejaria Urbana,1,3.64
+979,7.00,301438,https://www.beeradvocate.com/beer/profile/50405/301438/,Dubbel Slot,50405,Bierbrouwerij Slot Oostende en Emelisse,1,3.53
+980,10.20,138879,https://www.beeradvocate.com/beer/profile/22243/138879/,Dedication - Cabernet Barrel Aged,22243,Vintage Brewing Company,1,4
+981,9.80,210560,https://www.beeradvocate.com/beer/profile/33611/210560/,Monks Vacation,33611,SaltWater Brewery,1,3.5
+982,6.20,234880,https://www.beeradvocate.com/beer/profile/46013/234880/,La Salve Munich,46013,La Salve,1,4
+983, ? ,338050,https://www.beeradvocate.com/beer/profile/33463/338050/,Dubbel Date,33463,Back Bay Brewing Co.,1,3.05
+984,6.50,104578,https://www.beeradvocate.com/beer/profile/33138/104578/,"""Abbaye"" De Buckland",33138,Microbrasserie de Bellechasse,1,4.33
+985,6.00,159619,https://www.beeradvocate.com/beer/profile/38181/159619/,Oktopus,38181,Jarva Brewing Company,1,3.35
+986,8.40,170115,https://www.beeradvocate.com/beer/profile/4861/170115/,Abbey Maria,4861,Frankenmuth Brewery,1,3.52
+987,6.30,200324,https://www.beeradvocate.com/beer/profile/43172/200324/,Schäferhund Dubbel,43172,Cervecería Schäferhund,1,3.27
+988,6.50,331396,https://www.beeradvocate.com/beer/profile/43693/331396/,King’s Dubbel,43693,Tomfoolery Brewing Company,1,4.05
+989,6.50,97924,https://www.beeradvocate.com/beer/profile/29952/97924/,Abbey Normal,29952,Perrin Brewery,1,3.43
+990,7.20,296580,https://www.beeradvocate.com/beer/profile/36374/296580/,Wizard Fist,36374,MadCap Brewing Co.,1,4.25
+991,6.80,195972,https://www.beeradvocate.com/beer/profile/33144/195972/,Wood Aged Dark Abby,33144,Devils Backbone Brewing Company - The Outpost,1,4
+992,7.30,162437,https://www.beeradvocate.com/beer/profile/16495/162437/,Dubbel Québécoise,16495,À La Fût,1,3.75
+993,7.70,308869,https://www.beeradvocate.com/beer/profile/48605/308869/,Mother Jones Trappist-style Dubbel,48605,Haymarket Beer Co. Brewery & Taproom,1,3.36
+994, ? ,63877,https://www.beeradvocate.com/beer/profile/4712/63877/,Dave's Demonic XX,4712,The Brewhouse,1,3
+995,7.40,140678,https://www.beeradvocate.com/beer/profile/3521/140678/,Ronsischen Dubbel,3521,De Proefbrouwerij (bvba Andelot),1,3.45
+996,8.20,57222,https://www.beeradvocate.com/beer/profile/6269/57222/,Brother Larry's Belgian,6269,Old Ivy Brewery and Taproom,1,4
+997,6.90,323462,https://www.beeradvocate.com/beer/profile/36718/323462/,Belgian Dubbel,36718,Red Door Brewing,1,3.75
+998,7.20,288135,https://www.beeradvocate.com/beer/profile/39398/288135/,Optimus Vine,39398,Wooden Robot Brewery,1,4.1
+999,7.50,200328,https://www.beeradvocate.com/beer/profile/39588/200328/,Eisenbrücke Dubbel,39588,Cerveza Artesanal Eisenbrücke,1,3.05
+1000,6.60,298121,https://www.beeradvocate.com/beer/profile/31930/298121/,Staminee Bruin,31930,Brouwerij De Plukker,1,3.85
+1001,8.00,167305,https://www.beeradvocate.com/beer/profile/100/167305/,Abbey Dubbel,100,McNeill's Brewery,1,3.4
+1002,8.80,303241,https://www.beeradvocate.com/beer/profile/43862/303241/,Dubbel With Cherries,43862,WoodGrain Brewing Co,1,4
+1003,7.00,321930,https://www.beeradvocate.com/beer/profile/46616/321930/,Abbey Road Dubbel,46616,Lone Eagle Brewing,1,3.5
+1004,6.80,138891,https://www.beeradvocate.com/beer/profile/36717/138891/,Dubbel,36717,Lizard Tail Brewing,1,3
+1005,6.80,255115,https://www.beeradvocate.com/beer/profile/44127/255115/,6 Fingered Man,44127,Lincoln's Beard Brewing Co.,1,3.89
+1006,11.00,316813,https://www.beeradvocate.com/beer/profile/48337/316813/,Kronkel XII,48337,Twisted Spur Brewing,1,4.2
+1007,5.60,274062,https://www.beeradvocate.com/beer/profile/43087/274062/,Waaait For It....,43087,Forge Brewhouse,1,3.81
+1008,7.50,209038,https://www.beeradvocate.com/beer/profile/32396/209038/,Dubbel DP,32396,Duel Brewing,1,4.04
+1009,9.00,239758,https://www.beeradvocate.com/beer/profile/43296/239758/,Dorado,43296,Dry River Brewing,1,4
+1010,6.90,160399,https://www.beeradvocate.com/beer/profile/30584/160399/,Abbey Wall,30584,Thorn Street Brewery,1,4.38
+1011,5.40,229775,https://www.beeradvocate.com/beer/profile/42770/229775/,Liquid Pleasure,42770,Independent Brewing Co.,1,3.85
+1012,8.00,169359,https://www.beeradvocate.com/beer/profile/22655/169359/,Hermanos Jose,22655,Straight To Ale,1,3.94
+1013,6.00,106127,https://www.beeradvocate.com/beer/profile/32271/106127/,Progenitor,32271,Planetary Brewing Company,1,3.75
+1014,8.00,242063,https://www.beeradvocate.com/beer/profile/45537/242063/,Petal To The Fleur,45537,Low Tide Brewing,1,4
+1015,7.90,282768,https://www.beeradvocate.com/beer/profile/49080/282768/,Belgian Dubbel,49080,Cellar Works Brewing,1,4
+1016,7.40,232848,https://www.beeradvocate.com/beer/profile/24680/232848/,Plum Crazy,24680,Lager Heads Smokehouse & Brewing Co.,1,3
+1017,8.50,315024,https://www.beeradvocate.com/beer/profile/9816/315024/,Stærke Julius,9816,Bryggeriet Refsvindinge,1,3.25
+1018,7.30,62352,https://www.beeradvocate.com/beer/profile/20400/62352/,Belgian Dubbel,20400,The Ruddy Duck Brewery And Grill,1,3.2
+1019,9.40,222097,https://www.beeradvocate.com/beer/profile/35354/222097/,Prior’s Conviction,35354,Wolf Hollow Brewing Company,1,3.5
+1020,9.60,114833,https://www.beeradvocate.com/beer/profile/30809/114833/,Dubbel Trubbel,30809,Cask & Larder,1,4
+1021,5.50,314769,https://www.beeradvocate.com/beer/profile/34427/314769/,Monolith,34427,Hitchhiker Brewing Company,1,3.39
+1022,6.40,254609,https://www.beeradvocate.com/beer/profile/46121/254609/,Lucky 10 - Candied Yam Dubbel,46121,Trapezium Brewing Company,1,4.19
+1023,6.30,319890,https://www.beeradvocate.com/beer/profile/33138/319890/,St-Ale “X” (8 malts),33138,Microbrasserie de Bellechasse,1,4.33
+1024,8.50,64146,https://www.beeradvocate.com/beer/profile/15064/64146/,Dubbel Kloat,15064,Huttenkloas,1,4
+1025,8.80,282771,https://www.beeradvocate.com/beer/profile/27032/282771/,Belgian Dubbel,27032,Cheboygan Brewing Company,1,3.92
+1026,9.20,169875,https://www.beeradvocate.com/beer/profile/21329/169875/,Roseys Hips,21329,Cool Springs Brewery,1,3.75
+1027,6.50,251796,https://www.beeradvocate.com/beer/profile/30909/251796/,Dubbel Winter,30909,Partizan Brewery,1,3.52
+1028,11.00,325525,https://www.beeradvocate.com/beer/profile/16787/325525/,B(r)ok In De Keel - Auchentoshan Barrel-Aged,16787,Bronckhorster Brewing Company,1,4.25
+1029,6.40,102038,https://www.beeradvocate.com/beer/profile/30909/102038/,Dubbel,30909,Partizan Brewery,1,3.69
+1030,8.20,253847,https://www.beeradvocate.com/beer/profile/39737/253847/,Belgian Dubbel,39737,Cerveceria Mamut,1,3.79
+1031,8.00,332696,https://www.beeradvocate.com/beer/profile/42195/332696/,B-52 Belgian Dubbel,42195,Cox Brewing Company,1,2.66
+1032,7.40,259480,https://www.beeradvocate.com/beer/profile/45236/259480/,VI,45236,Third Window Brewing Co.,1,3.88
+1033,7.00,85401,https://www.beeradvocate.com/beer/profile/1037/85401/,Barleys Monstre,1037,Barley's Brewing Company,1,3.53
+1034,6.80,101273,https://www.beeradvocate.com/beer/profile/32922/101273/,Belgian Dubbel,32922,Woodfour Brewing Company,1,4
+1035,8.00,326809,https://www.beeradvocate.com/beer/profile/43482/326809/,Abbey Dubbel,43482,Vanish Beer,1,3.98
+1036,5.80,201626,https://www.beeradvocate.com/beer/profile/39398/201626/,Cut It In Half And Dubble It,39398,Wooden Robot Brewery,1,3.5
+1037,6.80,338075,https://www.beeradvocate.com/beer/profile/29881/338075/,Bruce's Birthday Beer,29881,Triple C Brewing Co.,1,3.88
+1038,8.30,145307,https://www.beeradvocate.com/beer/profile/27921/145307/,La Dorval,27921,L'Espace Public-Brasseurs de quartier,1,3.75
+1039,7.00,232347,https://www.beeradvocate.com/beer/profile/45787/232347/,Migrant,45787,New Province Brewing Company,1,2.78
+1040, ? ,213148,https://www.beeradvocate.com/beer/profile/43591/213148/,Dupont Et Dupond,43591,Birra Bar à Bières Maison,1,3.75
+1041,8.50,213660,https://www.beeradvocate.com/beer/profile/29022/213660/,"The Files Are ""IN"" The Computer?",29022,Evil Genius Beer Company,1,4.32
+1042,9.00,174492,https://www.beeradvocate.com/beer/profile/39707/174492/,Dubbel Tongue,39707,Crooked Tongue Brewing,1,3.51
+1043,6.10,70813,https://www.beeradvocate.com/beer/profile/25938/70813/,Dubbel,25938,Degrees Brewery,1,3.5
+1044,6.40,140701,https://www.beeradvocate.com/beer/profile/29885/140701/,Belgian Dubbel,29885,Loveland Aleworks,1,3.7
+1045,10.00,282526,https://www.beeradvocate.com/beer/profile/31995/282526/,Quaff Bros Grand Cru,31995,Rhinegeist Brewery,1,4.21
+1046,8.00,309662,https://www.beeradvocate.com/beer/profile/40027/309662/,Oude Samson,40027,Brouwerij de Poes,1,3.73
+1047,7.20,315295,https://www.beeradvocate.com/beer/profile/34142/315295/,Monks Corner Abbey Ale Barrel Aged,34142,River Rat Brewery,1,3.5
+1048,6.30,266144,https://www.beeradvocate.com/beer/profile/45211/266144/,Dear ABBEY: Ale,45211,Ravenna Brewing Co,1,3.5
+1049,6.50,282016,https://www.beeradvocate.com/beer/profile/30258/282016/,Inky Brown,30258,Brouwerij De Witte Leeuw,1,2.75
+1050,7.30,290208,https://www.beeradvocate.com/beer/profile/25844/290208/,Van Dubbel Belgian Ale,25844,Keg & Lantern Brewing Co,1,3.9
+1051,6.90,302496,https://www.beeradvocate.com/beer/profile/50276/302496/,The Dubbel,50276,Brewcaipa Brewery,1,3.5
+1052,7.50,295074,https://www.beeradvocate.com/beer/profile/45869/295074/,Long Drive Dubbel,45869,Evil Horse Brewing Company,1,3.85
+1053,5.80,332707,https://www.beeradvocate.com/beer/profile/52117/332707/,Dubbel trubbel,52117,Beer Me Brewery / The Belgian Cafe,1,5
+1054,9.00,164517,https://www.beeradvocate.com/beer/profile/39761/164517/,Carolinus Belgian Dubbel IPA,39761,Aldus Brewing Company,1,3.75
+1055,8.00,310693,https://www.beeradvocate.com/beer/profile/27835/310693/,Lorica Special (Jameson Barrel Aged),27835,The Black Abbey Brewing Company,1,4
+1056,7.10,125605,https://www.beeradvocate.com/beer/profile/35376/125605/,Dubbel,35376,Time & Tide Brewing,1,4.25
+1057,8.30,340391,https://www.beeradvocate.com/beer/profile/23312/340391/,Barrel 37 Aged Daily Dubbel,23312,Paradise Creek Brewery,1,4.25
+1058,6.60,116135,https://www.beeradvocate.com/beer/profile/24870/116135/,Dirty Dog Dubbel,24870,Marley's Brewery And Grille,1,3.75
+1059, ? ,177320,https://www.beeradvocate.com/beer/profile/27470/177320/,Cherrywood Dubbel,27470,High Hops Brewery,1,4
+1060, ? ,228010,https://www.beeradvocate.com/beer/profile/40865/228010/,Belgian Dubbel,40865,Post Scriptum Brewery,1,3.13
+1061,7.10,230058,https://www.beeradvocate.com/beer/profile/38353/230058/,Belgian Dubbel,38353,Montgomery Brewing Company,1,3.6
+1062,6.10,233130,https://www.beeradvocate.com/beer/profile/860/233130/,Dubbel O Seven,860,The Vermont Pub & Brewery,1,3.47
+1063,5.50,301738,https://www.beeradvocate.com/beer/profile/32158/301738/,Badger Belgium,32158,Gillette Brewing Company,1,2.5
+1064,7.30,322218,https://www.beeradvocate.com/beer/profile/29164/322218/,Dubularity,29164,HenHouse Brewing,1,3.38
+1065,6.20,272300,https://www.beeradvocate.com/beer/profile/46718/272300/,Abbey,46718,Collusion Tap Works,1,3.25
+1066,9.10,109740,https://www.beeradvocate.com/beer/profile/26850/109740/,Sh*t Jeans,26850,Against The Grain Brewery & Smokehouse,1,3.75
+1067,6.50,245932,https://www.beeradvocate.com/beer/profile/36544/245932/,Dubbel Van Tarwe,36544,Brouwerij Bourgogne Kruis,1,3.69
+1068,6.70,325037,https://www.beeradvocate.com/beer/profile/51766/325037/,Diving Elk,51766,Bircus Brewing Company,1,3.52
+1069,7.50,211886,https://www.beeradvocate.com/beer/profile/48/211886/,Walsberger Dubbel,48,Brouwerij Van Steenberge N.V.,1,3.38
+1070,10.70,304046,https://www.beeradvocate.com/beer/profile/22243/304046/,Honeycrisp Dedication,22243,Vintage Brewing Company,1,4.5
+1071, ? ,324271,https://www.beeradvocate.com/beer/profile/43368/324271/,Bourbon Barrel Derrickman,43368,Spindletap Brewery,1,4.02
+1072,7.20,207025,https://www.beeradvocate.com/beer/profile/25898/207025/,Juniper Ginger Dubbel,25898,Green Room Brewing,1,3.98
+1073,8.00,223665,https://www.beeradvocate.com/beer/profile/34650/223665/,Smoked Belgian Ale,34650,Adventure Brewing Company,1,3.73
+1074,6.20,289201,https://www.beeradvocate.com/beer/profile/25844/289201/,Slight Of Hand,25844,Keg & Lantern Brewing Co,1,3.71
+1075,7.00,248497,https://www.beeradvocate.com/beer/profile/32406/248497/,Belgian Dubbel,32406,Crooked Ladder Brewing Company,1,3.84
+1076,7.00,339378,https://www.beeradvocate.com/beer/profile/52498/339378/,Santoor Dark,52498,Melody Brew,1,3.91
+1077,8.00,94386,https://www.beeradvocate.com/beer/profile/1114/94386/,Chubbel,1114,Bullfrog Brewery,1,3.35
+1078,6.70,118706,https://www.beeradvocate.com/beer/profile/5410/118706/,Belgian Dubbel,5410,River City Brewing Company,1,3.5
+1079,7.00,202164,https://www.beeradvocate.com/beer/profile/1683/202164/,Ever Changing Series: Belgian Dubbel,1683,Santa Fe Brewing Company,1,3.29
+1080,7.50,311733,https://www.beeradvocate.com/beer/profile/32087/311733/,Voyager,32087,Benchmark Brewing,1,3.81
+1081,7.80,260021,https://www.beeradvocate.com/beer/profile/40577/260021/,One And A Halfth Belgian,40577,Flying Bike Cooperative Brewery,1,3.91
+1082,7.50,312502,https://www.beeradvocate.com/beer/profile/34102/312502/,Koan,34102,Banded Horn Brewing Co.,1,3.94
+1083,8.10,199351,https://www.beeradvocate.com/beer/profile/34334/199351/,Doppel Indemnity,34334,Books & Brews,1,4.14
+1084,9.00,146103,https://www.beeradvocate.com/beer/profile/11749/146103/,Flo Brune,11749,Brasserie Artisanale Du Flo,1,2
+1085,7.10,231863,https://www.beeradvocate.com/beer/profile/39028/231863/,Cloven Hoof W/Cacao Nibs And Cherries,39028,Rockingham Brewing Company,1,3.74
+1086,7.90,319928,https://www.beeradvocate.com/beer/profile/28091/319928/,Jack's Fault,28091,Free Will Brewing Co.,1,4
+1087,8.10,87225,https://www.beeradvocate.com/beer/profile/16296/87225/,Sankt Jacobi,16296,Warwick Bryghus Aps,1,3.58
+1088,6.50,244666,https://www.beeradvocate.com/beer/profile/36855/244666/,Double Double Toil & Trouble,36855,2 Witches Winery & Brewing Co.,1,3.93
+1089, ? ,80315,https://www.beeradvocate.com/beer/profile/4929/80315/,Oak Aged Dry Hopped Belgian Dubbel,4929,Liberty Steakhouse Brewery,1,3.97
+1090,6.66,222907,https://www.beeradvocate.com/beer/profile/44274/222907/,Apostate Ambrosio,44274,Bury Me Brewing,1,3.73
+1091,6.00,93116,https://www.beeradvocate.com/beer/profile/31487/93116/,Stolz Belgium Dubbel,31487,Cruz de Malta Cervejas Especiais Ltda.,1,3.45
+1092,7.70,275133,https://www.beeradvocate.com/beer/profile/47746/275133/,Double Trubbel,47746,The Lone Girl Brewing Company,1,3.94
+1093,6.70,319421,https://www.beeradvocate.com/beer/profile/1627/319421/,Organic Climax California Classic,1627,Eel River Brewing Co.,1,3.5
+1094,10.00,155326,https://www.beeradvocate.com/beer/profile/32991/155326/,Gerald's Talking Dog,32991,Stormcloud Brewing Company,1,4.06
+1095,6.70,253374,https://www.beeradvocate.com/beer/profile/19114/253374/,Care Bear Stare,19114,Spice Trade Brewing / Yak & Yeti,1,3.67
+1096,6.10,325566,https://www.beeradvocate.com/beer/profile/33706/325566/,Binary Theory,33706,Forge Brew Works,1,3.58
+1097,7.50,143039,https://www.beeradvocate.com/beer/profile/34617/143039/,Dubbel Ringer,34617,Yard Owl Craft Brewery,1,4.75
+1098,7.00,308415,https://www.beeradvocate.com/beer/profile/16787/308415/,Dubbel - Coop,16787,Bronckhorster Brewing Company,1,3.5
+1099,6.90,317631,https://www.beeradvocate.com/beer/profile/14102/317631/,Ale des Fêtes,14102,Les 3 Brasseurs,1,3.42
+1100,7.50,324543,https://www.beeradvocate.com/beer/profile/1754/324543/,Battle Axe Belgian Brown Ale,1754,Stewart's Brewing Co.,1,3.87
+1101,7.00,160448,https://www.beeradvocate.com/beer/profile/33735/160448/,Belgian Dubbel,33735,Nano 108 Brewing Company,1,4.06
+1102,7.80,297152,https://www.beeradvocate.com/beer/profile/38097/297152/,Brother Grahambinos,38097,Bonsai Brewing Project,1,3.94
+1103,8.00,239040,https://www.beeradvocate.com/beer/profile/23200/239040/,Twisted Barre,23200,Knee Deep Brewing Company,1,3.6
+1104,7.50,304578,https://www.beeradvocate.com/beer/profile/50588/304578/,Ragnarök Kranium Red,50588,RagnaröK - Destino de Dioses Cerveza Artesanal,1,2.84
+1105,6.20,313538,https://www.beeradvocate.com/beer/profile/51089/313538/,Brugge City Brune,51089,Munkle Brewing Company,1,3.86
+1106,6.20,233411,https://www.beeradvocate.com/beer/profile/45885/233411/,Curuxera Conventin,45885,Brew Pub Espumeru & Curuxera Brewery,1,3.46
+1107,8.00,341188,https://www.beeradvocate.com/beer/profile/52242/341188/,JBlack,52242,J63 Birrificio Agricolo Artigianale,1,3.52
+1108,9.90,287428,https://www.beeradvocate.com/beer/profile/42650/287428/,Da Beer,42650,Cajun Brewing,1,3.71
+1109,8.20,253636,https://www.beeradvocate.com/beer/profile/47189/253636/,Dubbel,47189,Figurehead Brewing Co.,1,3.52
+1110,6.50,59077,https://www.beeradvocate.com/beer/profile/11753/59077/,Douce Brunette,11753,Brasserie Artisanale Millevertus De Toernich,1,3
+1111,8.30,273862,https://www.beeradvocate.com/beer/profile/24326/273862/,Belgo Back,24326,No Label Brewing Company,1,4.02
+1112,7.00,214214,https://www.beeradvocate.com/beer/profile/44211/214214/,Crus - Sacra Birra,44211,Birrificio Artigianale Opera,1,3.88
+1113,7.90,322246,https://www.beeradvocate.com/beer/profile/44046/322246/,Belgian Winter Rye,44046,Stockyards Brewing Co.,1,3.78
+1114,6.50,95177,https://www.beeradvocate.com/beer/profile/31688/95177/,Belgian Double,31688,Wicks Brewing Co.,1,3.39
+1115,8.00,238537,https://www.beeradvocate.com/beer/profile/31372/238537/,Taxman Deduction,31372,Carson's Brewery,1,3.85
+1116,7.00,123850,https://www.beeradvocate.com/beer/profile/29501/123850/,Berentemmer,29501,Brouwerij Maenhout,1,3.5
+1117,6.80,328907,https://www.beeradvocate.com/beer/profile/43129/328907/,Sugar and Spice,43129,Bond Brothers Beer Company,1,4.15
+1118,7.50,310988,https://www.beeradvocate.com/beer/profile/50950/310988/,Nachtraaf Dubbel,50950,Nachtraaf Brouwers,1,3.87
+1119,7.00,311501,https://www.beeradvocate.com/beer/profile/41791/311501/,Cierva Abbey,41791,Cerveceros Artesanos del Asón S.L.,1,2.46
+1120,7.00,321485,https://www.beeradvocate.com/beer/profile/36871/321485/,Raisin Spice Dubbel,36871,Cleophus Quealy Beer Company,1,4.35
+1121,6.90,266702,https://www.beeradvocate.com/beer/profile/35976/266702/,Parlamentaarikko,35976,Ruosniemen Panimo,1,3.66
+1122,9.70,233166,https://www.beeradvocate.com/beer/profile/6045/233166/,Trubbel With Monks,6045,Iron Hill Brewery & Restaurant,1,3.85
+1123,6.50,59086,https://www.beeradvocate.com/beer/profile/13159/59086/,Rétro,13159,Brasserie Artisanale La Frasnoise,1,3.5
+1124,10.00,336849,https://www.beeradvocate.com/beer/profile/997/336849/,Crosstown Triple-Dubbel,997,The Brewer's Art,1,3.57
+1125,8.00,267987,https://www.beeradvocate.com/beer/profile/30536/267987/,The Schoof  Belgian Dubbel,30536,Two Rivers Brewing Company,1,3.48
+1126,6.20,306133,https://www.beeradvocate.com/beer/profile/42938/306133/,Dubbel,42938,J'ville Craft Brewery,1,3.22
+1127,10.60,128469,https://www.beeradvocate.com/beer/profile/32271/128469/,Hovercraft,32271,Planetary Brewing Company,1,4
+1128,6.40,212694,https://www.beeradvocate.com/beer/profile/44105/212694/,Dubbel,44105,Brouwerij Pronck,1,2.14
+1129,6.60,285911,https://www.beeradvocate.com/beer/profile/41928/285911/,IDDQD,41928,Czig Meister Brewing Company,1,3.9
+1130,6.80,234711,https://www.beeradvocate.com/beer/profile/36244/234711/,L'Exproprié,36244,Microbrasserie Moulin 7,1,3.79
+1131,6.00,72664,https://www.beeradvocate.com/beer/profile/22564/72664/,Hysteria,22564,Odd Side Ales,1,3.18
+1132,6.80,320216,https://www.beeradvocate.com/beer/profile/22513/320216/,Monk House,22513,Madhouse Brewing Company,1,3.85
+1133,8.00,129240,https://www.beeradvocate.com/beer/profile/25310/129240/,Poulsbo Abbey Ale,25310,Valholl Brewing Co. LLC,1,3.5
+1134,8.40,336089,https://www.beeradvocate.com/beer/profile/6045/336089/,Double Dutch Dubbel,6045,Iron Hill Brewery & Restaurant,1,3.75
+1135,7.00,277977,https://www.beeradvocate.com/beer/profile/46776/277977/,La Rochelle,46776,Homage Brewing,1,3.48
+1136,7.50,224217,https://www.beeradvocate.com/beer/profile/42628/224217/,Dubbel Dose,42628,Pro Re Nata Brewery,1,3.41
+1137,8.00,161241,https://www.beeradvocate.com/beer/profile/701/161241/,Trappist Style Dubbel,701,Boundary Bay Brewery & Bistro,1,3.32
+1138,8.00,185305,https://www.beeradvocate.com/beer/profile/24888/185305/,Abbey Dubbel,24888,Midtown Brewing Company,1,3.78
+1139,7.00,128217,https://www.beeradvocate.com/beer/profile/29118/128217/,St. Bernard Abbey Ale,29118,Timber Creek Tap & Table,1,3.5
+1140,7.00,85979,https://www.beeradvocate.com/beer/profile/24026/85979/,Abbey Normal Dubbel,24026,The Beer Company,1,3.97
+1141,6.50,174043,https://www.beeradvocate.com/beer/profile/8270/174043/,Hoppy Monk,8270,Brewerkz - Riverside Point,1,4.29
+1142,7.00,273628,https://www.beeradvocate.com/beer/profile/45001/273628/,The Unholy Goat,45001,Abbey Of The Holy Goats,1,4.61
+1143,8.70,336349,https://www.beeradvocate.com/beer/profile/46089/336349/,Into the Machine: Strawberry,46089,Kings County Brewers Collective (KCBC),1,5
+1144, ? ,284637,https://www.beeradvocate.com/beer/profile/39686/284637/,Cherubim With Coffee & Vanilla,39686,Black Cloister Brewing Company,1,4.42
+1145,7.70,154845,https://www.beeradvocate.com/beer/profile/31049/154845/,Persimmon Spicebush Abbey,31049,Scratch Brewing Company,1,3.65
+1146,7.50,340958,https://www.beeradvocate.com/beer/profile/47367/340958/,Duval Dubbel,47367,Wicked Barley Brewing Co.,1,3.65
+1147, ? ,91614,https://www.beeradvocate.com/beer/profile/16818/91614/,Honey Dubbel,16818,Berwick Brewing Company,1,3.74
+1148, ? ,57054,https://www.beeradvocate.com/beer/profile/882/57054/,Backwater Belgian Dubbel,882,Beach Chalet Brewery and Restaurant,1,4.36
+1149,7.50,324574,https://www.beeradvocate.com/beer/profile/36061/324574/,For Whom Dubbel Tolls,36061,Dominion City Brewing Co.,1,4.03
+1150,6.70,196575,https://www.beeradvocate.com/beer/profile/29070/196575/,Charlepoeng St. Roch,29070,Brouwerij Anders,1,2.4
+1151,7.90,232928,https://www.beeradvocate.com/beer/profile/31929/232928/,Big Black Berries,31929,Backshore Brewing Company,1,3.75
+1152,7.50,118241,https://www.beeradvocate.com/beer/profile/34359/118241/,La Cala Principe,34359,Grupo La Cala,1,3.21
+1153,7.50,269027,https://www.beeradvocate.com/beer/profile/42389/269027/,Deux Belle,42389,Blood Brothers Brewing,1,3.8
+1154,7.80,261091,https://www.beeradvocate.com/beer/profile/35271/261091/,St. Trappeur,35271,Microbrasserie Le Prospecteur,1,3.33
+1155,7.00,331492,https://www.beeradvocate.com/beer/profile/23680/331492/,Barabbas Nr. 57,23680,Borg Brugghús,1,3.22
+1156,6.80,175076,https://www.beeradvocate.com/beer/profile/32798/175076/,Gold Ranger,32798,Badger State Brewing Company,1,3.83
+1157, ? ,45028,https://www.beeradvocate.com/beer/profile/1784/45028/,Slap Happy Abbey,1784,Outer Banks Brewing Station,1,4.03
+1158,8.60,201445,https://www.beeradvocate.com/beer/profile/35612/201445/,Dubbel Dragon,35612,Ex Novo Brewing,1,4.15
+1159,8.30,203237,https://www.beeradvocate.com/beer/profile/25711/203237/,Dubbel Dragon,25711,La Birreria,1,4.25
+1160,7.90,153061,https://www.beeradvocate.com/beer/profile/31178/153061/,Bromancing Bastogne Belgian Ale,31178,Yellow Springs Brewery,1,3.96
+1161, ? ,284645,https://www.beeradvocate.com/beer/profile/13837/284645/,Diablo Belga (Bourbon-Barrel Aged),13837,Ale Asylum,1,4
+1162,6.50,288997,https://www.beeradvocate.com/beer/profile/49588/288997/,Rubin Double Ale,49588,The Phoenix Raw Beer,1,3.75
+1163,7.50,215014,https://www.beeradvocate.com/beer/profile/34193/215014/,Hazelnut Coffee Dubbel,34193,"Phantom Ales, Cider, & Cellar",1,4.5
+1164,5.80,269287,https://www.beeradvocate.com/beer/profile/3196/269287/,Belgian Crystal Rye,3196,Flat Branch Pub & Brewery,1,3.48
+1165,7.50,252903,https://www.beeradvocate.com/beer/profile/40685/252903/,Hazel Run Dubble,40685,Spencer Devon Brewing,1,4.02
+1166,4.50,303592,https://www.beeradvocate.com/beer/profile/37002/303592/,0.5,37002,Stigbergets Bryggeri,1,3.9
+1167,7.60,109032,https://www.beeradvocate.com/beer/profile/33061/109032/,京A-ling Celebration Ale,33061,Jing-A (京A) Brewing Co.,1,4
+1168,5.50,101354,https://www.beeradvocate.com/beer/profile/22459/101354/,Belgian Dubbel,22459,JoBoy's Brew Pub,1,3.5
+1169,10.50,67307,https://www.beeradvocate.com/beer/profile/409/67307/,Abbey Ale,409,Central Coast Brewing,1,4
+1170,6.20,147435,https://www.beeradvocate.com/beer/profile/34193/147435/,Phantom Dubbel,34193,"Phantom Ales, Cider, & Cellar",1,3.5
+1171,8.00,144364,https://www.beeradvocate.com/beer/profile/29070/144364/,Paternoster Dubbel,29070,Brouwerij Anders,1,2.7
+1172,8.00,258028,https://www.beeradvocate.com/beer/profile/47642/258028/,15 & 30,47642,Vinos Y Maridaje (Grupo Merino),1,1.68
+1173, ? ,226797,https://www.beeradvocate.com/beer/profile/2306/226797/,Pints Belgian Dubbel,2306,Pints Brewery & Sports Bar,1,3.72
+1174,7.50,308461,https://www.beeradvocate.com/beer/profile/48293/308461/,Belgian Dubbel,48293,6 Bears & A Goat Brewing,1,3.58
+1175,6.50,196589,https://www.beeradvocate.com/beer/profile/29070/196589/,Vossen Met De Meynen Six O Six,29070,Brouwerij Anders,1,3.32
+1176, ? ,76014,https://www.beeradvocate.com/beer/profile/25436/76014/,Dubbel,25436,Copper Kettle Brewing Company,1,4
+1177,6.50,124142,https://www.beeradvocate.com/beer/profile/529/124142/,Java Dobbele,529,Bierbrouwerij Vermeersen,1,3.75
+1178,5.50,127470,https://www.beeradvocate.com/beer/profile/34166/127470/,Belgian Dubbel,34166,Prairie Street Brewing Company,1,3
+1179,8.00,201967,https://www.beeradvocate.com/beer/profile/705/201967/,Flabby Abbey,705,Union Station Brewery,1,3.74
+1180,8.10,264432,https://www.beeradvocate.com/beer/profile/45041/264432/,Barrel Aged Belgian,45041,Ironmonger Brewing,1,3.83
+1181,6.30,284144,https://www.beeradvocate.com/beer/profile/49302/284144/,BOFT Dubbel,49302,Barrel Oak Farm Taproom,1,3.74
+1182,8.00,206577,https://www.beeradvocate.com/beer/profile/1032/206577/,Cartoon Brune,1032,Five Seasons Prado,1,3.95
+1183,5.50,280561,https://www.beeradvocate.com/beer/profile/46089/280561/,Eastern Bloc,46089,Kings County Brewers Collective (KCBC),1,3.9
+1184,8.40,260849,https://www.beeradvocate.com/beer/profile/28608/260849/,Dark Monk,28608,Brewfinity Brewing Company,1,3.75
+1185,6.50,272371,https://www.beeradvocate.com/beer/profile/47795/272371/,Queenie,47795,Blackadder Brewing Company,1,3.47
+1186,7.60,147187,https://www.beeradvocate.com/beer/profile/4378/147187/,Clap Your Hands Say Squash,4378,Georgetown Brewing Company,1,3.5
+1187, ? ,54004,https://www.beeradvocate.com/beer/profile/1050/54004/,Dubbel,1050,Vine Park Brewing Co.,1,4.01
+1188,8.50,316404,https://www.beeradvocate.com/beer/profile/37463/316404/,Crooked Window,37463,Monument City Brewing Company,1,3.67
+1189,7.75,317172,https://www.beeradvocate.com/beer/profile/44951/317172/,Brandy Barrel Aged Gingerbread Dubbel,44951,Oak Park Brewing Company / Hamburger Mary’s Show Lounge,1,3.75
+1190,8.30,156150,https://www.beeradvocate.com/beer/profile/27996/156150/,Accelerator,27996,Kinetic Brewing Company,1,3.54
+1191,7.00,240118,https://www.beeradvocate.com/beer/profile/24245/240118/,Willem Bever,24245,Ramses Bier,1,3.5
+1192,7.50,124406,https://www.beeradvocate.com/beer/profile/30501/124406/,Burn Barrel Dubbel,30501,Flatrock Brewing Company,1,4.46
+1193,6.00,261878,https://www.beeradvocate.com/beer/profile/47483/261878/,D'Oostpoort,47483,Delftse Stadsbrouwerij De Koperen Kat,1,3.25
+1194,7.50,209655,https://www.beeradvocate.com/beer/profile/6269/209655/,St. Ivy,6269,Old Ivy Brewery and Taproom,1,3.72
+1195,7.00,210167,https://www.beeradvocate.com/beer/profile/37967/210167/,Belgian Dubbel,37967,Pueblo Vida Brewing Company,1,3.78
+1196,7.53,235511,https://www.beeradvocate.com/beer/profile/16873/235511/,Belgian Dubbel,16873,10 Barrel Brewing Co.,1,3.9
+1197,7.50,322296,https://www.beeradvocate.com/beer/profile/37345/322296/,Déguste - Dubbel,37345,Brouwerij Haagsche Broeder,1,3.5
+1198,8.10,282617,https://www.beeradvocate.com/beer/profile/42276/282617/,Burgundy,42276,Commonwealth Brewing Company,1,3.58
+1199,8.50,31737,https://www.beeradvocate.com/beer/profile/11341/31737/,Abbey Ale,11341,Hideout Brewing Company,1,3.26
+1200, ? ,45050,https://www.beeradvocate.com/beer/profile/1622/45050/,Dubbel Trouble,1622,Titanic Brewing Company,1,2.94
+1201,7.40,160251,https://www.beeradvocate.com/beer/profile/27329/160251/,Dubbel,27329,Black Heart Brewery,1,2.2
+1202,9.20,318459,https://www.beeradvocate.com/beer/profile/41975/318459/,Abby Royal,41975,Double Shift Brewing Company,1,4
+1203,7.40,159996,https://www.beeradvocate.com/beer/profile/27021/159996/,Knock On,27021,Tighthead Brewing Company,1,3.71
+1204,6.50,307197,https://www.beeradvocate.com/beer/profile/33627/307197/,Beach Plum Dubbel,33627,Bad Martha Brewing Co.,1,3.72
+1205,6.80,179709,https://www.beeradvocate.com/beer/profile/32074/179709/,Bryggeri Kanttori,32074,Bryggeri Helsinki,1,3.15
+1206, ? ,178942,https://www.beeradvocate.com/beer/profile/34334/178942/,Bertie Botts,34334,Books & Brews,1,3.87
+1207,7.00,126974,https://www.beeradvocate.com/beer/profile/31805/126974/,Dubbel Dragon,31805,Funky Buddha Brewery,1,3.74
+1208,6.30,229887,https://www.beeradvocate.com/beer/profile/37328/229887/,Abbey Ale,37328,Minglewood Brewery,1,2.53
+1209,8.00,335104,https://www.beeradvocate.com/beer/profile/45404/335104/,Jacques Dubbel,45404,Cerveja Independente Musa,0,0
+1210,8.50,228096,https://www.beeradvocate.com/beer/profile/45141/228096/,Turandot Dark Abbey,45141,Birrificio San Michele,0,0
+1211, ? ,220161,https://www.beeradvocate.com/beer/profile/40209/220161/,Timber Lake Dubbel,40209,Goat Ridge Brewing Co.,0,0
+1212,7.90,202242,https://www.beeradvocate.com/beer/profile/43001/202242/,The Irreverent Reverend,43001,Sackbut Brewing and Barrelwerks,0,0
+1213,8.50,335876,https://www.beeradvocate.com/beer/profile/48774/335876/,Dubbel Date,48774,Green Mountain Beer Company,0,0
+1214,8.20,339974,https://www.beeradvocate.com/beer/profile/16269/339974/,Dubbel Monk,16269,Inlet Brewing Co.,0,0
+1215, ? ,282374,https://www.beeradvocate.com/beer/profile/35315/282374/,Dubbel Maple Ale,35315,The FarmHouse Brewery,0,0
+1216, ? ,204295,https://www.beeradvocate.com/beer/profile/27470/204295/,C-Dub,27470,High Hops Brewery,0,0
+1217,5.50,330506,https://www.beeradvocate.com/beer/profile/51874/330506/,Rossa,51874,AgriBirrificio La Morosina,0,0
+1218,7.30,207115,https://www.beeradvocate.com/beer/profile/35738/207115/,Dubbel Tap,35738,Wild Run Brewery,0,0
+1219,6.60,228875,https://www.beeradvocate.com/beer/profile/34076/228875/,Ormond Abbey Ale,34076,Ormond Brewing Company,0,0
+1220,6.80,222732,https://www.beeradvocate.com/beer/profile/34329/222732/,Belgian Dubbel,34329,Navigation Brewing Co.,0,0
+1221,8.50,318735,https://www.beeradvocate.com/beer/profile/29546/318735/,Dubbel Jinx,29546,HiJinx Brewing Company,0,0
+1222,9.00,137232,https://www.beeradvocate.com/beer/profile/23391/137232/,Tartigou,23391,Brasserie Artisanale La Fabrique,0,0
+1223,8.50,161552,https://www.beeradvocate.com/beer/profile/31423/161552/,Moer Bruin,31423,Stickmen Brewing Company,0,0
+1224,7.80,162578,https://www.beeradvocate.com/beer/profile/26438/162578/,Bierpruver Dubbel Bruin,26438,Huisbrouwerij De 3 Vaten,0,0
+1225,7.00,312597,https://www.beeradvocate.com/beer/profile/9578/312597/,Michael Dubbel,9578,Lefty's Main Street Grille / Right Mind Brewing,0,0
+1226,9.20,218647,https://www.beeradvocate.com/beer/profile/44617/218647/,Dead Squirrel Ale,44617,Mad Princes Brewing,0,0
+1227, ? ,219159,https://www.beeradvocate.com/beer/profile/44467/219159/,Belgian Dubbel,44467,Cogstone Brewing Company,0,0
+1228,9.00,175639,https://www.beeradvocate.com/beer/profile/36753/175639/,Belgian Dubbel Polar Vortex,36753,Rusty Nickel Brewing Co,0,0
+1229,8.00,289050,https://www.beeradvocate.com/beer/profile/22779/289050/,Kentucky Dubbel,22779,Falls City Brewing Company,0,0
+1230,7.20,106011,https://www.beeradvocate.com/beer/profile/30492/106011/,Backpacker,30492,Bosque Brewing Co.,0,0
+1231,7.00,329501,https://www.beeradvocate.com/beer/profile/50704/329501/,Gentilrossa,50704,Birrificio La Stecciaia,0,0
+1232,6.30,111133,https://www.beeradvocate.com/beer/profile/33822/111133/,Belgian Funk,33822,Booze Brothers Brewing Co.,0,0
+1233, ? ,128285,https://www.beeradvocate.com/beer/profile/30303/128285/,Double Trouble,30303,Beerfoot Beach Bar,0,0
+1234,8.00,288031,https://www.beeradvocate.com/beer/profile/37332/288031/,Belgian Dubbel,37332,Wooden Bear Brewing Company,0,0
+1235,9.00,160800,https://www.beeradvocate.com/beer/profile/31535/160800/,Date Night- Date And Fig Dubbel,31535,Adroit Theory Brewing Company,0,0
+1236,7.20,206886,https://www.beeradvocate.com/beer/profile/29481/206886/,Santa's Seeing Dubbel,29481,Bravery Brewing,0,0
+1237,7.50,228134,https://www.beeradvocate.com/beer/profile/45395/228134/,Belgian Dubbel,45395,Cerveja Artesanal Burguesa,0,0
+1238,8.10,337704,https://www.beeradvocate.com/beer/profile/51573/337704/,Treble Dubbel,51573,New Realm Brewing Company,0,0
+1239,7.50,296232,https://www.beeradvocate.com/beer/profile/29390/296232/,Ammen Rock,29390,Boothbay Craft Brewery / Watershed Tavern,0,0
+1240,6.80,340009,https://www.beeradvocate.com/beer/profile/51954/340009/,De-belle,51954,Macushla Brewing Co.,0,0
+1241,8.00,206634,https://www.beeradvocate.com/beer/profile/43556/206634/,Vagebruin,43556,Brouwerij Vagebond,0,0
+1242,8.70,206635,https://www.beeradvocate.com/beer/profile/43556/206635/,Vagebruin Winter,43556,Brouwerij Vagebond,0,0
+1243,6.40,242987,https://www.beeradvocate.com/beer/profile/41498/242987/,Paradise Dubbel,41498,Cypress Brewing Company,0,0
+1244,8.50,264236,https://www.beeradvocate.com/beer/profile/42278/264236/,Belgian Dubbel,42278,Hidden Springs Ale Works,0,0
+1245,7.00,246828,https://www.beeradvocate.com/beer/profile/46903/246828/,Eidos 5,46903,Eidos Beer,0,0
+1246,7.90,303149,https://www.beeradvocate.com/beer/profile/30024/303149/,Dubbel Horn,30024,Triplehorn Brewing Company,0,0
+1247, ? ,165167,https://www.beeradvocate.com/beer/profile/25964/165167/,Goede Buur,25964,Berghoeve Brouwerij,0,0
+1248,6.60,238640,https://www.beeradvocate.com/beer/profile/28807/238640/,Dubbel,28807,Fossil Cove Brewing Co.,0,0
+1249,6.20,129328,https://www.beeradvocate.com/beer/profile/32412/129328/,Code Red: Spiced Cherry Dubbel,32412,The Vineyard and Brewery at Hershey,0,0
+1250,7.50,145201,https://www.beeradvocate.com/beer/profile/32555/145201/,L'Obispón,32555,Bayura Cerveza Artesano Asturiano,0,0
+1251,6.90,292657,https://www.beeradvocate.com/beer/profile/49798/292657/,Dubbel,49798,Cerveza Artesanal Volcanica,0,0
+1252,7.00,165169,https://www.beeradvocate.com/beer/profile/504/165169/,Bap,504,Bierbrouwerij 't Vølendam,0,0
+1253,8.60,202804,https://www.beeradvocate.com/beer/profile/22065/202804/,Dubbel,22065,Redwood Curtain Brewing Company,0,0
+1254,6.50,165172,https://www.beeradvocate.com/beer/profile/497/165172/,Dubbel,497,Bierbrouwerij De Drie Ringen,0,0
+1255,6.20,140597,https://www.beeradvocate.com/beer/profile/30007/140597/,Pipeline,30007,3rd Wave Brewing Company,0,0
+1256,6.60,340533,https://www.beeradvocate.com/beer/profile/52417/340533/,Dubbel Nutz,52417,The Brewtorium,0,0
+1257,8.00,119349,https://www.beeradvocate.com/beer/profile/586/119349/,The Prior's Passion,586,Martha's Exchange,0,0
+1258,8.20,332342,https://www.beeradvocate.com/beer/profile/46813/332342/,Bernal Aged Dubbel Feature,46813,Barebottle Brewing Company,0,0
+1259,5.50,145462,https://www.beeradvocate.com/beer/profile/36243/145462/,L'Ange Gardienne,36243,Microbrasserie La Boîte à Malt,0,0
+1260,7.20,304182,https://www.beeradvocate.com/beer/profile/50083/304182/,Belgian Dubbel,50083,Spada Farmhouse Brewery,0,0
+1261,6.70,341047,https://www.beeradvocate.com/beer/profile/49577/341047/,Dubbel Date,49577,Market Brewing Company,0,0
+1262,6.50,187959,https://www.beeradvocate.com/beer/profile/33138/187959/,Double Belge De Buckland,33138,Microbrasserie de Bellechasse,0,0
+1263,7.88,285240,https://www.beeradvocate.com/beer/profile/42220/285240/,Exhibit E: Belgian Dubbel,42220,Legal Remedy Brewing,0,0
+1264,8.20,149818,https://www.beeradvocate.com/beer/profile/1937/149818/,Cadeau De Noel - Dubbel,1937,"Swashbuckler Brewing Co, LTD",0,0
+1265,7.60,272187,https://www.beeradvocate.com/beer/profile/46794/272187/,​​​Accidental Belgian Dubbel,46794,Fainting Goat Brewing Company,0,0
+1266,7.40,172091,https://www.beeradvocate.com/beer/profile/31571/172091/,Belgian Dubbel,31571,Bulldog Brewery,0,0
+1267,7.20,325180,https://www.beeradvocate.com/beer/profile/50310/325180/,Yabba Dabba,50310,Novel Brewing Company,0,0
+1268,7.50,165693,https://www.beeradvocate.com/beer/profile/39853/165693/,Dumaguete,39853,The Cebruery,0,0
+1269,6.80,232254,https://www.beeradvocate.com/beer/profile/18159/232254/,Monastically Challenged,18159,Southern Brewing & Winemaking Supply,0,0
+1270,4.50,239167,https://www.beeradvocate.com/beer/profile/16385/239167/,Belgian Dubbel With Coffee,16385,Linden Street Brewery,0,0
+1271,8.00,275521,https://www.beeradvocate.com/beer/profile/42069/275521/,Belgian Dubbel,42069,Six Mile Bridge Beer,0,0
+1272, ? ,167745,https://www.beeradvocate.com/beer/profile/35943/167745/,Savage Dubel,35943,North Slope Brewing Company,0,0
+1273,7.00,262466,https://www.beeradvocate.com/beer/profile/10085/262466/,La Trappe Dubbel,10085,Brouwerij De Kemphaan,0,0
+1274,6.90,255043,https://www.beeradvocate.com/beer/profile/46656/255043/,Abbey Dubbel,46656,Iron Hill Brewery & Restaurant,0,0
+1275,7.00,329284,https://www.beeradvocate.com/beer/profile/44604/329284/,Get Thee To A Monastery,44604,Burning Beard Brewing Company,0,0
+1276,8.00,159300,https://www.beeradvocate.com/beer/profile/39061/159300/,La Vieille Thielle,39061,La Brasserie du Manoir,0,0
+1277,6.20,176708,https://www.beeradvocate.com/beer/profile/1860/176708/,Sour Cherry Belgo-Bimbo,1860,Bube's Brewery,0,0
+1278,10.00,161605,https://www.beeradvocate.com/beer/profile/37915/161605/,Holiday Express,37915,Blue Canoe Brewing Co.,0,0
+1279,6.00,164934,https://www.beeradvocate.com/beer/profile/31792/164934/,Double Sec,31792,Les Brasseurs du Grand Paris,0,0
+1280,7.10,320072,https://www.beeradvocate.com/beer/profile/51465/320072/,Downstairs,51465,Abridged Beer Company,0,0
+1281,7.90,190280,https://www.beeradvocate.com/beer/profile/40634/190280/,Belgian Dubbel,40634,Barn Brewery,0,0
+1282,7.10,259145,https://www.beeradvocate.com/beer/profile/47732/259145/,Dubbel,47732,Cervejaria Confraria De Minas,0,0
+1283,7.90,159818,https://www.beeradvocate.com/beer/profile/27074/159818/,Dubbel Entendre,27074,Big Wood Brewery,0,0
+1284,7.10,208203,https://www.beeradvocate.com/beer/profile/43046/208203/,Plums Two Ways Belgian Style Dubbel,43046,Zoiglhaus Brewing Company,0,0
+1285,7.80,289614,https://www.beeradvocate.com/beer/profile/49201/289614/,Dubbel,49201,Hillman Beer,0,0
+1286,7.00,219727,https://www.beeradvocate.com/beer/profile/43086/219727/,Pedal Haus Dubbel,43086,Pedal Haus Brewery,0,0
+1287,6.40,220753,https://www.beeradvocate.com/beer/profile/33187/220753/,Bella Donna,33187,Big Head Brewing Co.,0,0
+1288,7.50,179537,https://www.beeradvocate.com/beer/profile/37648/179537/,Arctic Abbey,37648,Resolution Brewing Company,0,0
+1289,7.20,132434,https://www.beeradvocate.com/beer/profile/29910/132434/,Deer Grandpa,29910,Offbeat Brewing Company,0,0
+1290,7.70,142930,https://www.beeradvocate.com/beer/profile/30914/142930/,Legacy,30914,Horse Thief Hollow,0,0
+1291,7.00,175186,https://www.beeradvocate.com/beer/profile/25775/175186/,La Réserve Du Picoleur - L'Assoifé 8 Bourbon,25775,Brasseurs Du Monde,0,0
+1292,7.10,200276,https://www.beeradvocate.com/beer/profile/30816/200276/,Belgian Dubbel,30816,Armstrong Brewing Co.,0,0
+1293,6.50,211030,https://www.beeradvocate.com/beer/profile/42356/211030/,Draft Pumpk,42356,Brothers Brewing Co. & Ale House,0,0
+1294,8.50,230742,https://www.beeradvocate.com/beer/profile/11552/230742/,The Fundamentalist,11552,Redlight Redlight,0,0
+1295,7.50,162391,https://www.beeradvocate.com/beer/profile/39161/162391/,Witlov C,39161,Brouwerij Van Campenhout,0,0
+1296,8.90,324952,https://www.beeradvocate.com/beer/profile/41409/324952/,Hubble's Dubbel,41409,Columbus House Brewery,0,0
+1297,7.00,142683,https://www.beeradvocate.com/beer/profile/37203/142683/,Brune,37203,Picaro,0,0
+1298,7.60,331868,https://www.beeradvocate.com/beer/profile/35874/331868/,Kriek Dubbel,35874,Brewery Becker,0,0
+1299,9.50,302173,https://www.beeradvocate.com/beer/profile/43862/302173/,Wine Barrel-Aged Belgian Style Dubbel W/ Cherries,43862,WoodGrain Brewing Co,0,0
+1300,8.20,323421,https://www.beeradvocate.com/beer/profile/51466/323421/,Belgian Dubbel,51466,Iron Brewing Company,0,0
+1301, ? ,328032,https://www.beeradvocate.com/beer/profile/21448/328032/,Raspbeery Valentine,21448,Ladyface Ale Companie,0,0
+1302,8.70,334945,https://www.beeradvocate.com/beer/profile/50801/334945/,Toil and Trubbel,50801,Aston Abbey Brewing Co.,0,0
+1303,8.60,220001,https://www.beeradvocate.com/beer/profile/40647/220001/,St. Paine,40647,Campbell Brewing Company,0,0
+1304,6.90,338020,https://www.beeradvocate.com/beer/profile/52314/338020/,Raisin Hell,52314,People's Pint Brewing Collective,0,0
+1305,7.10,339301,https://www.beeradvocate.com/beer/profile/48011/339301/,Red Light Rosie,48011,Prosperity Brewers,0,0
+1306,7.40,266599,https://www.beeradvocate.com/beer/profile/48309/266599/,Dabber Dubbel,48309,Dystopian State Brewing Co.,0,0
+1307,6.50,89705,https://www.beeradvocate.com/beer/profile/30821/89705/,Kifabock,30821,Brew Bistro & Lounge,0,0
+1308,6.60,217194,https://www.beeradvocate.com/beer/profile/42160/217194/,Double Trouble Belgian Bear,42160,Growling Bear Brewing Company,0,0
+1309, ? ,211307,https://www.beeradvocate.com/beer/profile/43994/211307/,Hoppalong Banana,43994,Wobbly Hopps Brewery,0,0
+1310,7.50,203884,https://www.beeradvocate.com/beer/profile/3174/203884/,Blaine's Sweet Brown Sugar Thai Fighter 6000,3174,Coopersmith's Pub & Brewing,0,0
+1311,7.60,277868,https://www.beeradvocate.com/beer/profile/48367/277868/,Belgian Dubbel,48367,Uptown Brewing Company,0,0
+1312,7.50,102252,https://www.beeradvocate.com/beer/profile/29398/102252/,Abbey Dubbel,29398,Charter Oak Brewing Co.,0,0
+1313,7.00,312431,https://www.beeradvocate.com/beer/profile/33463/312431/,Fig Lebowski,33463,Back Bay Brewing Co.,0,0
+1314,5.70,100976,https://www.beeradvocate.com/beer/profile/6045/100976/,Cloister Dubbel,6045,Iron Hill Brewery & Restaurant,0,0
+1315, ? ,204146,https://www.beeradvocate.com/beer/profile/32269/204146/,Snowguard Barrel-Aged,32269,Front Range Brewing Company,0,0
+1316,7.50,188531,https://www.beeradvocate.com/beer/profile/22319/188531/,Dogma Dubbel,22319,Figure 8 Brewing,0,0
+1317,6.00,215924,https://www.beeradvocate.com/beer/profile/31554/215924/,Refuge Dubbel,31554,Refuge Brewery,0,0
+1318, ? ,294517,https://www.beeradvocate.com/beer/profile/18539/294517/,Trailblazer,18539,Devils Backbone Brewing Company,0,0
+1319,8.00,204406,https://www.beeradvocate.com/beer/profile/32810/204406/,Dubbel Black Diamond,32810,Jagged Mountain Craft Brewery,0,0
+1320,7.60,131447,https://www.beeradvocate.com/beer/profile/34431/131447/,Soeur Jumelle Belgian Dubbel,34431,Coal Creek TAP,0,0
+1321,6.00,298615,https://www.beeradvocate.com/beer/profile/33273/298615/,Swamp Donkey,33273,7th Settlement Brewery,0,0
+1322,7.00,311415,https://www.beeradvocate.com/beer/profile/30934/311415/,Dubbel Down,30934,Souris River Brewing,0,0
+1323, ? ,270462,https://www.beeradvocate.com/beer/profile/48514/270462/,Mammoth Rock Belgian Dubbel,48514,El Paso Brewing Company,0,0
+1324,7.20,339328,https://www.beeradvocate.com/beer/profile/49413/339328/,Dubbel Trubbel,49413,Cueni Brewing Co,0,0
+1325, ? ,150146,https://www.beeradvocate.com/beer/profile/32265/150146/,Abby's Seeing Dubbel,32265,Milkhouse Brewery,0,0
+1326,7.00,205699,https://www.beeradvocate.com/beer/profile/1742/205699/,Vladimirskoye Monastyrskoye,1742,Vladimirskaya Pivovarnya,0,0
+1327,7.10,219779,https://www.beeradvocate.com/beer/profile/44671/219779/,Turbulent Juice,44671,8 Bit Brewing,0,0
+1328,7.10,126084,https://www.beeradvocate.com/beer/profile/16525/126084/,Deadbeat Belgian Dubbel,16525,Monks House of Ale Repute / Gandy Dancer Brew Works,0,0
+1329,8.00,225157,https://www.beeradvocate.com/beer/profile/27921/225157/,Dorval,27921,L'Espace Public-Brasseurs de quartier,0,0
+1330,9.00,232069,https://www.beeradvocate.com/beer/profile/1618/232069/,Abbey Double,1618,Sarasota Brewing Company,0,0
+1331,8.00,328582,https://www.beeradvocate.com/beer/profile/47183/328582/,Dubbel,47183,Domesticus,0,0
+1332,8.50,313478,https://www.beeradvocate.com/beer/profile/50717/313478/,Divination,50717,Drink Me Brewing Co.,0,0
+1333,7.40,226695,https://www.beeradvocate.com/beer/profile/42278/226695/,Dubbel Dragon,42278,Hidden Springs Ale Works,0,0
+1334, ? ,202120,https://www.beeradvocate.com/beer/profile/34194/202120/,Double Minor,34194,Four Sons Brewing,0,0
+1335,7.86,204424,https://www.beeradvocate.com/beer/profile/35835/204424/,Defiance,35835,Joyride Brewing Company,0,0
+1336,6.50,162442,https://www.beeradvocate.com/beer/profile/11750/162442/,Aubel Double,11750,Brasserie Grain D'Orge,0,0
+1337,8.00,145291,https://www.beeradvocate.com/beer/profile/15697/145291/,Dubbel T,15697,Broadway Pub,0,0
+1338,7.90,238219,https://www.beeradvocate.com/beer/profile/41136/238219/,Dubstep Dubbel,41136,Gino's East - River North,0,0
+1339,7.50,328589,https://www.beeradvocate.com/beer/profile/31989/328589/,Donker,31989,De Brouwerij van Vlaanderen,0,0
+1340, ? ,115600,https://www.beeradvocate.com/beer/profile/34164/115600/,Dubbel,34164,Tin Dog Brewing,0,0
+1341,7.00,224145,https://www.beeradvocate.com/beer/profile/42418/224145/,Bob The Belgian,42418,Decatur Brew Works,0,0
+1342,8.70,214163,https://www.beeradvocate.com/beer/profile/12502/214163/,Dubbel Yer Hunny Belgian Ale,12502,Blue Heron BrewPub,0,0
+1343,7.50,287892,https://www.beeradvocate.com/beer/profile/34748/287892/,Admiral Sundaebeer- It's A Strawberry/Coco/Almond Dubbel,34748,Imperial Oak Brewing,0,0
+1344,7.60,297364,https://www.beeradvocate.com/beer/profile/38141/297364/,Answer It,38141,The Brewery Of Broken Dreams,0,0
+1345,7.50,176788,https://www.beeradvocate.com/beer/profile/39094/176788/,Tripel Dubbel,39094,Colectivo Keg Co.,0,0
+1346,7.70,331157,https://www.beeradvocate.com/beer/profile/30458/331157/,Dubbel Point Break,30458,Rip Current Brewing,0,0
+1347, ? ,159637,https://www.beeradvocate.com/beer/profile/38222/159637/,Triskell Dubbel,38222,Triskell Brewing Co.,0,0
+1348, ? ,153494,https://www.beeradvocate.com/beer/profile/34399/153494/,Binary System,34399,Black Hole Beer Company,0,0
+1349, ? ,293528,https://www.beeradvocate.com/beer/profile/43862/293528/,Belgian Dubbel,43862,WoodGrain Brewing Co,0,0
+1350,7.00,239258,https://www.beeradvocate.com/beer/profile/31896/239258/,Dubbel - Mole,31896,Blackberry Farm Brewery,0,0
+1351,7.00,307101,https://www.beeradvocate.com/beer/profile/29690/307101/,Dobbele Baske,29690,Microbrouwerij Urthel & Eet- En Brouwhuis De Hoppeschuur,0,0
+1352,6.40,244125,https://www.beeradvocate.com/beer/profile/44541/244125/,Lost Philosopher VI,44541,Mad Brewlads Craft Co.,0,0
+1353,7.90,325021,https://www.beeradvocate.com/beer/profile/51609/325021/,Deadwood Dubbel,51609,Idyllwild Brewpub,0,0
+1354, ? ,215712,https://www.beeradvocate.com/beer/profile/44379/215712/,Drunken Cupid Dubbel,44379,Rebel Toad Brewing Company,0,0
+1355,6.70,262561,https://www.beeradvocate.com/beer/profile/46022/262561/,Coconut Caramel Dubbel,46022,Woods Cervecería,0,0
+1356,6.00,219041,https://www.beeradvocate.com/beer/profile/44556/219041/,L'alambic,44556,Les Maltcommodes,0,0
+1357,7.50,203172,https://www.beeradvocate.com/beer/profile/39158/203172/,Figgy Terno,39158,Barrel of Monks Brewing,0,0
+1358,7.70,158884,https://www.beeradvocate.com/beer/profile/39020/158884/,Bière Forte Brune,39020,Brasserie Les Fleurs du Malt,0,0
+1359,7.10,314020,https://www.beeradvocate.com/beer/profile/44924/314020/,Sator arepo eccetera,44924,Birra Godog,0,0
+1360,7.80,301479,https://www.beeradvocate.com/beer/profile/47274/301479/,Dubble Decker,47274,Craft Life Brewing Co.,0,0
+1361,8.00,157353,https://www.beeradvocate.com/beer/profile/21465/157353/,Dubbel,21465,Microbrouwerij Den Triest,0,0
+1362,7.00,223405,https://www.beeradvocate.com/beer/profile/42354/223405/,Duncan's Tarrytown Dubbel,42354,Duncan's Abbey,0,0
+1363,5.70,331950,https://www.beeradvocate.com/beer/profile/48728/331950/,Dubbel Play,48728,Brew 32 Craft Brewery,0,0
+1364,8.00,334255,https://www.beeradvocate.com/beer/profile/52232/334255/,Dubbel Bruin,52232,Brouwerij Werbrouck / Café Den Gouden Arend,0,0
+1365,6.50,269488,https://www.beeradvocate.com/beer/profile/43019/269488/,Chocolate Monastery,43019,Tangled Roots Brewing Company / The Lone Buffalo,0,0
+1366,7.00,298417,https://www.beeradvocate.com/beer/profile/46668/298417/,Squatting Monk Dubbel,46668,Macatawa Ale Company,0,0
+1367,6.00,163766,https://www.beeradvocate.com/beer/profile/33050/163766/,Falkon Dubbel No.1,33050,Pivovar Falkon,0,0
+1368,6.00,210615,https://www.beeradvocate.com/beer/profile/39185/210615/,Yule Alright?,39185,WarPigs Brewpub,0,0
+1369,8.00,324023,https://www.beeradvocate.com/beer/profile/45816/324023/,One ..Sour Belgian Dubbel,45816,Talking Waters Brewing,0,0
+1370,6.60,331192,https://www.beeradvocate.com/beer/profile/47095/331192/,Black Ark,47095,Decibel Brewing Co.,0,0
+1371,4.70,240825,https://www.beeradvocate.com/beer/profile/24180/240825/,Two Paws,24180,Wild Wolf Brewing Company,0,0
+1372,8.40,277435,https://www.beeradvocate.com/beer/profile/48918/277435/,Dubbel Date,48918,AZU Restaurant & Ojai Valley Brewery,0,0
+1373,6.00,266429,https://www.beeradvocate.com/beer/profile/48291/266429/,Come Heres,48291,Montross Brewery,0,0
+1374,8.80,326846,https://www.beeradvocate.com/beer/profile/44580/326846/,Belgian Dubbel,44580,Gentile Brewing Company,0,0
+1375,6.80,324287,https://www.beeradvocate.com/beer/profile/15280/324287/,II,15280,Atwater Brewery,0,0
+1376,8.80,204480,https://www.beeradvocate.com/beer/profile/37623/204480/,Abbey Someone,37623,Locavore Beer Works,0,0
+1377,8.20,235456,https://www.beeradvocate.com/beer/profile/29757/235456/,Beatrijs,29757,The Hourglass Brewery,0,0
+1378,6.60,286913,https://www.beeradvocate.com/beer/profile/47303/286913/,Gnome Mercy,47303,Sedition Brewing Company,0,0
+1379,5.50,275651,https://www.beeradvocate.com/beer/profile/44038/275651/,Pass The Dutchie,44038,Birdfish Brewing Company,0,0
+1380,7.20,187843,https://www.beeradvocate.com/beer/profile/20537/187843/,Double Tranchant,20537,Le Trèfle Noir,0,0
+1381,7.15,63427,https://www.beeradvocate.com/beer/profile/11203/63427/,Abbey Road Belgian Dubbel,11203,Hog Haus Brewing Company,0,0
+1382,7.00,334020,https://www.beeradvocate.com/beer/profile/45563/334020/,Dark Night Rises,45563,Twisted Barrel Ale,0,0
+1383,6.80,324292,https://www.beeradvocate.com/beer/profile/48595/324292/,II,48595,Atwater Brewery,0,0
+1384,5.50,333766,https://www.beeradvocate.com/beer/profile/51081/333766/,Gondel Belgian,51081,The Washington Brewing Company,0,0
+1385, ? ,215495,https://www.beeradvocate.com/beer/profile/31011/215495/,Dubbel B,31011,515 Brewing Company,0,0
+1386,7.00,194759,https://www.beeradvocate.com/beer/profile/35990/194759/,Dubbel,35990,Cervejaria Tupiniquim,0,0
+1387,7.00,159946,https://www.beeradvocate.com/beer/profile/39124/159946/,Dubbel Trubbel,39124,Mondo Brewing Company,0,0
+1388,8.10,298443,https://www.beeradvocate.com/beer/profile/34028/298443/,Ten Pin Dubbel,34028,Ten Pin Brewing Co.,0,0
+1389,5.40,258764,https://www.beeradvocate.com/beer/profile/47123/258764/,Nimbus,47123,Random Row Brewing Co.,0,0
+1390, ? ,211918,https://www.beeradvocate.com/beer/profile/41975/211918/,Abbey Dubbel,41975,Double Shift Brewing Company,0,0
+1391,6.80,328911,https://www.beeradvocate.com/beer/profile/42742/328911/,Abbey Dubbel,42742,Berlin Brewing Co.,0,0
+1392,8.00,329423,https://www.beeradvocate.com/beer/profile/31300/329423/,Blessed Kettle Dubbel,31300,Our Brewing Co.,0,0
+1393,7.00,209871,https://www.beeradvocate.com/beer/profile/2520/209871/,Lux Divina,2520,Brasserie Lancelot,0,0
+1394,7.10,322511,https://www.beeradvocate.com/beer/profile/50560/322511/,Dubbel Dip,50560,Dew Point Brewing Company,0,0
+1395,8.00,305105,https://www.beeradvocate.com/beer/profile/63/305105/,Wasp Nest,63,Deschutes Brewery,0,0
+1396,7.00,164052,https://www.beeradvocate.com/beer/profile/30756/164052/,Büllingen,30756,Gainsbourg Bistro & Brasserie,0,0
+1397, ? ,162005,https://www.beeradvocate.com/beer/profile/32749/162005/,Dub-Step,32749,ShuBrew,0,0
+1398,7.60,315861,https://www.beeradvocate.com/beer/profile/51218/315861/,La Double Patience,51218,Le Caveau des Trois-Pistoles,0,0
+1399,6.50,316885,https://www.beeradvocate.com/beer/profile/50990/316885/,Dubbel aux Fleurs de Sureau,50990,Microbrasserie Au Frontibus,0,0
+1400,7.10,203223,https://www.beeradvocate.com/beer/profile/35011/203223/,Dubbel Trubbel,35011,Sundowner Brewery,0,0
+1401,7.20,280535,https://www.beeradvocate.com/beer/profile/38539/280535/,Dubbel Monk,38539,Mad Chef Craft Brewing,0,0
+1402,7.80,266201,https://www.beeradvocate.com/beer/profile/39686/266201/,Magi,39686,Black Cloister Brewing Company,0,0
+1403,6.50,215002,https://www.beeradvocate.com/beer/profile/44313/215002/,Saint Martin,44313,Four Fathers Brewing Co.,0,0
+1404,7.00,249818,https://www.beeradvocate.com/beer/profile/47133/249818/,Ne Bruine Loemelaer,47133,Brouwerij Amai,0,0
+1405,8.00,265436,https://www.beeradvocate.com/beer/profile/48172/265436/,I.C.A. 15&30 / Sherry Cask,48172,Instituto De La Cerveza Artesana (I.C.A),0,0
+1406,7.80,325340,https://www.beeradvocate.com/beer/profile/49663/325340/,Brother Marc,49663,Blue Oak Brewing Company,0,0
+1407, ? ,202719,https://www.beeradvocate.com/beer/profile/42970/202719/,Belgian Duppel,42970,Old Stump Brewing Co.,0,0
+1408,7.00,328160,https://www.beeradvocate.com/beer/profile/50477/328160/,Belgian Dubbel,50477,KPU Brewing Lab,0,0
+1409,9.00,275169,https://www.beeradvocate.com/beer/profile/48187/275169/,Belgian Dubble,48187,Morgan Ridge Railwalk Brewery And Eatery,0,0
+1410,7.50,145633,https://www.beeradvocate.com/beer/profile/34223/145633/,Big Baby,34223,Peckish Pig,0,0
+1411, ? ,204516,https://www.beeradvocate.com/beer/profile/29885/204516/,Mark's Belgian Dubbel,29885,Loveland Aleworks,0,0
+1412,8.90,168420,https://www.beeradvocate.com/beer/profile/26673/168420/,Des Moines,26673,Lantern Brewing,0,0
+1413,8.00,202471,https://www.beeradvocate.com/beer/profile/29371/202471/,Belgian Style XX Dubbel,29371,Lassen Ale Works,0,0
+1414,8.20,67304,https://www.beeradvocate.com/beer/profile/409/67304/,Belgian Brown Ale,409,Central Coast Brewing,0,0
+1415,7.20,242666,https://www.beeradvocate.com/beer/profile/46666/242666/,Sinful Monk,46666,Monkfish,0,0
+1416,8.40,264683,https://www.beeradvocate.com/beer/profile/44159/264683/,Grandma's Fruitcake,44159,Wild Card Brewing Company,0,0
+1417,5.40,146667,https://www.beeradvocate.com/beer/profile/37705/146667/,Far West Predicador,37705,Far West Cerveza Artesanal,0,0
+1418,7.50,228843,https://www.beeradvocate.com/beer/profile/45479/228843/,Rappahannock Dubbel,45479,Hopkins Ordinary Bed & Breakfast + Ale Works,0,0
+1419,7.20,332524,https://www.beeradvocate.com/beer/profile/48318/332524/,Two Headed Monster,48318,Brew Republic Bierwerks,0,0
+1420,7.40,297708,https://www.beeradvocate.com/beer/profile/50227/297708/,Berries In The Brew,50227,Mountain Valley Brewing,0,0
+1421,7.20,101868,https://www.beeradvocate.com/beer/profile/29792/101868/,Brothers’ Belgian,29792,Fairport Brewing Company,0,0
+1422,8.70,339438,https://www.beeradvocate.com/beer/profile/48698/339438/,Dubbel Wide,48698,Zephyrhills Brewing Company,0,0
+1423,6.50,279022,https://www.beeradvocate.com/beer/profile/48145/279022/,Pokro's Dyngus,48145,Pokro Brewing Company,0,0
+1424,8.00,288750,https://www.beeradvocate.com/beer/profile/49001/288750/,Nobel Dubbel,49001,Bold Missy Brewery,0,0
+1425,6.70,322545,https://www.beeradvocate.com/beer/profile/50156/322545/,Double Belge,50156,Brasseurs sur Demande,0,0
+1426,7.30,176371,https://www.beeradvocate.com/beer/profile/40366/176371/,Verily,40366,Parched Eagle Brewpub,0,0
+1427,7.50,202742,https://www.beeradvocate.com/beer/profile/30982/202742/,Guardian,30982,Pine Street Brewery,0,0
+1428,7.30,129270,https://www.beeradvocate.com/beer/profile/29316/129270/,De Clerck Dubbel,29316,"White Labs, Inc.",0,0
+1429,6.00,204023,https://www.beeradvocate.com/beer/profile/23303/204023/,Dubbel,23303,Brasserie De Metropole,0,0
+1430,7.00,341495,https://www.beeradvocate.com/beer/profile/40283/341495/,Vedo Doppio,40283,Bibibir,0,0
+1431,7.00,332536,https://www.beeradvocate.com/beer/profile/41110/332536/,Monastery Mayhem,41110,Ornery Beer Company Public House,0,0
+1432,7.50,253945,https://www.beeradvocate.com/beer/profile/41110/253945/,Double Down,41110,Ornery Beer Company Public House,0,0
+1433,7.50,162554,https://www.beeradvocate.com/beer/profile/29813/162554/,Kempisch Vuur 3-Dubbel,29813,Brouwerij Pirlot,0,0
+1434,6.40,319482,https://www.beeradvocate.com/beer/profile/46398/319482/,Cotton Headed Ninny Muggins,46398,Black Flag Brewing Company,0,0
+1435,6.70,211964,https://www.beeradvocate.com/beer/profile/1069/211964/,Double Down Brown,1069,Elliott Bay Brewing Co.,0,0
+1436, ? ,163325,https://www.beeradvocate.com/beer/profile/25264/163325/,Sauber Dubbel,25264,Sauber Beer,0,0
+1437,7.80,190461,https://www.beeradvocate.com/beer/profile/38212/190461/,8° Abbey Ale,38212,North Abbey Brewing Company,0,0
+1438,6.90,262654,https://www.beeradvocate.com/beer/profile/45045/262654/,Lam's Dam Dubbel,45045,Dorchester Brewing Company,0,0

@@ -1,0 +1,665 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.60,1914,https://www.beeradvocate.com/beer/profile/192/1914/,1554 Black Lager,192,New Belgium Brewing,"4,135",3.82
+1,4.50,57285,https://www.beeradvocate.com/beer/profile/209/57285/,Guinness Black Lager,209,Guinness Ltd.,"1,977",3.14
+2,4.90,2940,https://www.beeradvocate.com/beer/profile/710/2940/,Leinenkugel's Creamy Dark,710,Jacob Leinenkugel Brewing Company,992,3.35
+3,5.00,1186,https://www.beeradvocate.com/beer/profile/404/1186/,Blackened Voodoo Lager,404,Dixie Brewing Co.,832,3.37
+4,5.00,1167,https://www.beeradvocate.com/beer/profile/81/1167/,Heineken Dark Lager,81,Heineken Nederland B.V.,637,3.21
+5,5.60,2235,https://www.beeradvocate.com/beer/profile/401/2235/,Baltika #4 Original (Dark),401,Baltika Breweries,446,3.38
+6,4.80,698,https://www.beeradvocate.com/beer/profile/224/698/,St. Pauli Girl Special Dark,224,St. Pauli Brauerei C.L. Wilh. Brandt Gmbh & Co.,408,3.04
+7,6.50,48508,https://www.beeradvocate.com/beer/profile/13839/48508/,Hot Rocks Lager,13839,Port Brewing,367,3.73
+8,6.00,710,https://www.beeradvocate.com/beer/profile/197/710/,Fischer Tradition Amber,197,Brasserie Fischer / Fischer Biere d' Alsace,365,2.93
+9,5.00,2306,https://www.beeradvocate.com/beer/profile/763/2306/,Death & Taxes Black Beer,763,Moonlight Brewing Company,310,4.17
+10,5.00,7102,https://www.beeradvocate.com/beer/profile/355/7102/,San Miguel Dark Lager,355,San Miguel Brewery Inc.,268,3.44
+11,4.70,35967,https://www.beeradvocate.com/beer/profile/304/35967/,Budweiser Budvar Czech Dark Lager,304,"Budějovický Budvar, n.p.",227,3.66
+12,6.50,12362,https://www.beeradvocate.com/beer/profile/569/12362/,Efes Dark,569,Anadolu Efes Brewery,194,3.11
+13,5.00,5196,https://www.beeradvocate.com/beer/profile/416/5196/,Brick Waterloo Dark Lager,416,Brick Brewing Co.,188,3.09
+14,8.00,37147,https://www.beeradvocate.com/beer/profile/9629/37147/,Black Licorice Lager,9629,Short's Brewing Company,185,3.87
+15,7.00,86044,https://www.beeradvocate.com/beer/profile/5316/86044/,LTD Series - 06,5316,Full Sail Brewery & Tasting Room & Pub,178,3.82
+16,6.50,27607,https://www.beeradvocate.com/beer/profile/2970/27607/,Beerlao Dark,2970,Lao Brewery Co.,177,3.3
+17,5.00,83646,https://www.beeradvocate.com/beer/profile/193/83646/,El Steinber Dark Lager,193,Anderson Valley Brewing Company,165,3.51
+18,5.40,22584,https://www.beeradvocate.com/beer/profile/9262/22584/,Alhambra Negra,9262,"Grupo Cervezas Alhambra, SL",157,3.29
+19,5.75,33357,https://www.beeradvocate.com/beer/profile/8768/33357/,Kelso Nut Brown Lager,8768,Greenpoint Beerworks / Kelso of Brooklyn,149,3.73
+20,4.90,86001,https://www.beeradvocate.com/beer/profile/29196/86001/,Pils Noir,29196,Susquehanna Brewing Company,136,3.49
+21,4.50,82289,https://www.beeradvocate.com/beer/profile/303/82289/,Praga Dark Lager,303,První Budějovický Pivovar Samson,131,3.55
+22,5.30,40147,https://www.beeradvocate.com/beer/profile/1464/40147/,Elevator Dark Horse Lager,1464,Elevator Brewery & Draught Haus,128,3.64
+23,6.00,7195,https://www.beeradvocate.com/beer/profile/2977/7195/,Pietra,2977,Brasserie Pietra,122,3.22
+24,5.70,57920,https://www.beeradvocate.com/beer/profile/4106/57920/,Žatec Dark Lager,4106,Žatecký Pivovar,108,3.78
+25,5.50,25468,https://www.beeradvocate.com/beer/profile/568/25468/,Palone,568,Browar Okocim S.A. (Carlsberg),99,3.7
+26,4.60,11961,https://www.beeradvocate.com/beer/profile/783/11961/,Faxe Amber,783,Royal Unibrew A/S,89,2.83
+27,4.40,8689,https://www.beeradvocate.com/beer/profile/437/8689/,Staropramen Černý,437,Pivovary Staropramen,89,3.62
+28,4.00,76132,https://www.beeradvocate.com/beer/profile/22723/76132/,Black Lager (Černé Pivo),22723,Notch Brewing,80,3.94
+29,5.00,37864,https://www.beeradvocate.com/beer/profile/439/37864/,Super Bock Stout,439,UNICER União Cervejeira S.A.,77,3.11
+30,5.00,10237,https://www.beeradvocate.com/beer/profile/726/10237/,DAB Dark Beer,726,Dortmunder Actien Brauerei / DAB,77,3.36
+31,4.30,6187,https://www.beeradvocate.com/beer/profile/301/6187/,Sagres Cerveja Preta (Dark),301,Sociedade Central de Cervejas,75,3.12
+32,5.30,35035,https://www.beeradvocate.com/beer/profile/601/35035/,Obolon Oksamytove (Deep Velvet),601,Obolon Brewery,72,3.32
+33,5.00,21521,https://www.beeradvocate.com/beer/profile/2055/21521/,Bernard Cerne,2055,Bernard Family Brewery,68,3.78
+34,4.50,6614,https://www.beeradvocate.com/beer/profile/2805/6614/,U Fleku Dark Lager,2805,U Fleků Pivovar a Restaurace,68,4.26
+35,4.80,14167,https://www.beeradvocate.com/beer/profile/437/14167/,Staropramen Granat Beer,437,Pivovary Staropramen,67,3.46
+36,5.00,11175,https://www.beeradvocate.com/beer/profile/391/11175/,Big Rock Honey Brown Lager,391,Big Rock Brewery,67,3.08
+37,4.50,9395,https://www.beeradvocate.com/beer/profile/168/9395/,Lev Black Lion,168,Měšťanský pivovar Havlíčkův Brod,67,3.41
+38,5.00,11490,https://www.beeradvocate.com/beer/profile/284/11490/,Yebisu Black Beer,284,Sapporo Breweries Ltd.,67,3.5
+39,6.20,7078,https://www.beeradvocate.com/beer/profile/301/7078/,Bohemia,301,Sociedade Central de Cervejas,66,3.34
+40,5.50,36001,https://www.beeradvocate.com/beer/profile/15922/36001/,Moa Noir,15922,Moa Brewing Company,65,3.72
+41,4.80,14874,https://www.beeradvocate.com/beer/profile/707/14874/,Primator Dark Lager,707,Pivovar Náchod a.s.,60,3.58
+42,4.50,27684,https://www.beeradvocate.com/beer/profile/3912/27684/,Dark 266,3912,Cameron's Brewing Co.,60,3.25
+43,9.30,101387,https://www.beeradvocate.com/beer/profile/29656/101387/,Lakewood Goatman,29656,Lakewood Brewing Company,58,3.8
+44,7.00,116077,https://www.beeradvocate.com/beer/profile/219/116077/,3 Best Friends,219,Sudwerk Brewing Company,53,3.7
+45,5.50,89545,https://www.beeradvocate.com/beer/profile/716/89545/,Asahi Dry Black,716,Asahi Breweries Ltd,53,3.18
+46,5.90,97943,https://www.beeradvocate.com/beer/profile/32426/97943/,Nightfall Lager,32426,Pecatonica Beer Company,52,3.38
+47,2.50,4087,https://www.beeradvocate.com/beer/profile/81/4087/,Heineken Oud Bruin,81,Heineken Nederland B.V.,52,2.79
+48,7.30,42822,https://www.beeradvocate.com/beer/profile/1720/42822/,Tomislav Pivo,1720,Zagrebaèka Pivovara D.d.,51,3.7
+49,5.10,118880,https://www.beeradvocate.com/beer/profile/29619/118880/,Celestial Meridian Cascadian Dark Lager,29619,Base Camp Brewing Company,47,3.73
+50,5.00,2054,https://www.beeradvocate.com/beer/profile/22/2054/,U Rousse,22,Unibroue,44,2.89
+51,6.50,231344,https://www.beeradvocate.com/beer/profile/43654/231344/,First Call,43654,Modist Brewing Co.,43,4.1
+52,5.20,85171,https://www.beeradvocate.com/beer/profile/3963/85171/,Fix Dark,3963,Hellenic Breweries Of Atalanti S.A.,43,3.12
+53,5.00,149452,https://www.beeradvocate.com/beer/profile/284/149452/,Sapporo Premium Black Beer,284,Sapporo Breweries Ltd.,42,3.76
+54,5.00,8590,https://www.beeradvocate.com/beer/profile/765/8590/,Trafalgar Paddy's Irish Red Lager,765,All or Nothing Brewhouse,39,2.79
+55, ? ,12687,https://www.beeradvocate.com/beer/profile/1939/12687/,Layla Dirty Blonde Lager,1939,Ibbl Ashkelon / Tank Beer,39,3.13
+56,5.00,58010,https://www.beeradvocate.com/beer/profile/21333/58010/,Granát - BrouCzech Dark,21333,Nova Paka Brewery,39,3.61
+57,7.00,4808,https://www.beeradvocate.com/beer/profile/1705/4808/,Silva Strong Dark Beer,1705,Silva Reghin S.A. (Brau-Union Romania),39,3.45
+58,6.00,20446,https://www.beeradvocate.com/beer/profile/763/20446/,Bony Fingers,763,Moonlight Brewing Company,39,4.24
+59,6.30,45326,https://www.beeradvocate.com/beer/profile/5687/45326/,Schwarzer Kristall,5687,Brauerei Locher AG,37,4.17
+60,5.20,25835,https://www.beeradvocate.com/beer/profile/12215/25835/,Oldgott,12215,Minipivovar U Medvídků,37,3.57
+61,5.50,45087,https://www.beeradvocate.com/beer/profile/1084/45087/,Mythos Red,1084,Mythos Breweries S.A.,36,3.27
+62, ? ,42663,https://www.beeradvocate.com/beer/profile/447/42663/,McSorley's Dark Lager,447,Pabst Brewing Company,36,3.19
+63,4.40,14349,https://www.beeradvocate.com/beer/profile/7366/14349/,Bohemia Regent Premium Dark,7366,Pivovar Regent Třeboň,35,3.37
+64,5.00,72163,https://www.beeradvocate.com/beer/profile/24808/72163/,Wolverine Dark,24808,Wolverine State Brewing Company,35,3.58
+65,4.40,2061,https://www.beeradvocate.com/beer/profile/671/2061/,Kilikia Dark,671,Beer of Yerevan JSC,33,3.26
+66,4.50,6245,https://www.beeradvocate.com/beer/profile/2520/6245/,Telenn Du,2520,Brasserie Lancelot,33,3.78
+67,4.80,40370,https://www.beeradvocate.com/beer/profile/8818/40370/,California Black Beer,8818,Last Name Brewing,32,3.22
+68,5.50,46215,https://www.beeradvocate.com/beer/profile/12238/46215/,Saint Norbert Dark,12238,Klášterní pivovar Strahov,30,4.01
+69,5.00,248291,https://www.beeradvocate.com/beer/profile/41980/248291/,Bones Shirt,41980,Suarez Family Brewery,30,3.95
+70,6.00,98186,https://www.beeradvocate.com/beer/profile/30452/98186/,John Michael Dark Lyric Lagrrr!,30452,SingleCut Beersmiths,28,3.81
+71,4.50,4001,https://www.beeradvocate.com/beer/profile/839/4001/,Tooheys Red,839,Tooheys Brewing,27,1.98
+72,4.70,87071,https://www.beeradvocate.com/beer/profile/4089/87071/,IKEA Öl Mörk Lager,4089,Krönleins Bryggeri AB,26,2.48
+73,6.00,87958,https://www.beeradvocate.com/beer/profile/3218/87958/,Licorne Black,3218,Brasserie Licorne,26,2.79
+74,5.20,112661,https://www.beeradvocate.com/beer/profile/258/112661/,Gran Riserva Rossa,258,Birra Peroni Industriale S.p.A.,25,3.35
+75,5.60,15222,https://www.beeradvocate.com/beer/profile/81/15222/,McFarland Red Beer,81,Heineken Nederland B.V.,25,2.95
+76,3.80,28049,https://www.beeradvocate.com/beer/profile/11206/28049/,Podkovan Dark,11206,Pivovar Podkováň,25,3.58
+77,4.80,37361,https://www.beeradvocate.com/beer/profile/303/37361/,B.B. Dark Bohemia Beer - 1795 Original Czech Dark Lager,303,První Budějovický Pivovar Samson,25,3.31
+78,5.30,44373,https://www.beeradvocate.com/beer/profile/14127/44373/,Sap Vampire Maple Lager,14127,Amber's Brewing Co.,24,3.4
+79,4.00,13798,https://www.beeradvocate.com/beer/profile/915/13798/,Speight's Old Dark,915,New Zealand Breweries Limited,24,3.63
+80,3.80,10544,https://www.beeradvocate.com/beer/profile/303/10544/,Samson Budweiser Bier Černý,303,První Budějovický Pivovar Samson,23,3.52
+81,4.80,155473,https://www.beeradvocate.com/beer/profile/35396/155473/,Dark Star,35396,Bur Oak Brewing Company,22,3.62
+82, ? ,14539,https://www.beeradvocate.com/beer/profile/4442/14539/,Kávové Pivo,4442,Pivovarský dům,22,3.78
+83,5.70,62572,https://www.beeradvocate.com/beer/profile/18605/62572/,Dark Lager,18605,Great Crescent Brewery,20,3.78
+84,5.20,21101,https://www.beeradvocate.com/beer/profile/9346/21101/,Svijanská Kněžna 13%,9346,Pivovar Svijany,20,3.82
+85,7.00,39317,https://www.beeradvocate.com/beer/profile/448/39317/,Master Tmavy,448,Pivovar Velké Popovice a.s.,20,3.87
+86,4.10,99814,https://www.beeradvocate.com/beer/profile/1941/99814/,Ksiazece Ciemne Lagodne,1941,Tyskie Browary Książęce (SABMiller),20,3.7
+87,3.50,5886,https://www.beeradvocate.com/beer/profile/531/5886/,Brand Oud Bruin,531,Brand Bierbrouwerij,19,2.8
+88,4.50,3459,https://www.beeradvocate.com/beer/profile/185/3459/,Aass Bayer (Aass Dark),185,Aass Brewery,18,3.43
+89,6.20,98187,https://www.beeradvocate.com/beer/profile/30452/98187/,John Michael Rum Barrel Aged Dark Lyric Lagrrr!,30452,SingleCut Beersmiths,18,3.98
+90,5.50,24722,https://www.beeradvocate.com/beer/profile/9347/24722/,Sedm Kulí (13% Speciální Pivo Polotmavé ),9347,Pivovar Ferdinand / Pivovar Beneov,18,3.71
+91,5.70,290216,https://www.beeradvocate.com/beer/profile/18539/290216/,No Problemo,18539,Devils Backbone Brewing Company,18,3.58
+92,5.50,30688,https://www.beeradvocate.com/beer/profile/734/30688/,Herold Granat,734,Pivovar Herold Březnice A.s.,18,3.4
+93,7.10,105189,https://www.beeradvocate.com/beer/profile/33272/105189/,Zăganu Brună,33272,Fabrica de Bere Bună,18,3.55
+94, ? ,47373,https://www.beeradvocate.com/beer/profile/3453/47373/,Sarajevska Tamno,3453,Sarajevska Pivara,17,3.49
+95,3.50,65095,https://www.beeradvocate.com/beer/profile/401/65095/,Zatecký Gus Černý,401,Baltika Breweries,17,3.09
+96,5.00,11878,https://www.beeradvocate.com/beer/profile/473/11878/,Canterbury Dark Mild,473,Pacific Western Brewing Company,17,3.15
+97,5.30,20925,https://www.beeradvocate.com/beer/profile/4087/20925/,"Spendrups Julbrygd 5,3",4087,Spendrups Bryggeri AB,17,2.87
+98,4.10,27690,https://www.beeradvocate.com/beer/profile/2846/27690/,Saris 11% Tmavý,2846,Pivovar Saris,16,3.6
+99, ? ,17994,https://www.beeradvocate.com/beer/profile/4442/17994/,Štěpán - český Klasický Ležák Tmavý,4442,Pivovarský dům,16,3.74
+100,6.20,112535,https://www.beeradvocate.com/beer/profile/25818/112535/,Tmavý,25818,Lost Rhino Brewing Company,16,3.53
+101,5.50,28895,https://www.beeradvocate.com/beer/profile/2438/28895/,Zamkowe Dark,2438,Browar Namysłów Sp. z o.o.,16,3.11
+102,5.00,7907,https://www.beeradvocate.com/beer/profile/3065/7907/,Bärnsten,3065,Jämtlands Bryggeri AB,16,3.67
+103,4.80,43018,https://www.beeradvocate.com/beer/profile/16590/43018/,Bakalář Tmavý Leák 12° (Dark Lager),16590,Pivovar Rakovnik,15,3.28
+104,4.30,18903,https://www.beeradvocate.com/beer/profile/9347/18903/,Ferdinand Tmavy Lezak,9347,Pivovar Ferdinand / Pivovar Beneov,15,3.27
+105,5.00,135668,https://www.beeradvocate.com/beer/profile/35695/135668/,Dark Lager,35695,Steel & Oak Brewing Co.,15,3.72
+106,5.00,215833,https://www.beeradvocate.com/beer/profile/34465/215833/,Dog River Bavarian Dark,34465,District Brewing Company,14,3.28
+107,4.90,72796,https://www.beeradvocate.com/beer/profile/18390/72796/,Vale Dark,18390,McLaren Vale Beer Company,13,3.38
+108,4.80,130181,https://www.beeradvocate.com/beer/profile/18223/130181/,Crna Kraljica,18223,Pivnica Medvedgrad Adijina,13,3.7
+109,6.00,185806,https://www.beeradvocate.com/beer/profile/1730/185806/,Karlovacko Crno,1730,Karlovaċka Pivovara,13,3.1
+110,5.80,32787,https://www.beeradvocate.com/beer/profile/11941/32787/,Szalon Barna,11941,Pécsi Sörfözde,12,3.38
+111,6.00,46103,https://www.beeradvocate.com/beer/profile/10523/46103/,Wisby Julbrygd,10523,Gotlands Bryggeri,12,3.47
+112,6.20,68143,https://www.beeradvocate.com/beer/profile/18046/68143/,Lav Tamno,18046,Carlsberg Srbija D.O.O. Pivara,12,2.67
+113,5.00,106317,https://www.beeradvocate.com/beer/profile/30113/106317/,Tmavý Ležák,30113,Pivovar U Tří Růží,12,3.97
+114,4.50,140238,https://www.beeradvocate.com/beer/profile/32889/140238/,Black Lager,32889,Persephone Brewing,12,4.09
+115,6.00,196877,https://www.beeradvocate.com/beer/profile/30452/196877/,John Michael White Coffee Bean Dark Lyric Lagrrr!,30452,SingleCut Beersmiths,11,3.85
+116,8.70,186137,https://www.beeradvocate.com/beer/profile/158/186137/,The Smoothness,158,Great Divide Brewing Company,11,4.06
+117,7.90,119418,https://www.beeradvocate.com/beer/profile/498/119418/,Bavaria 8.6 Black,498,Bavaria Brouwerij N.V.,11,3.36
+118, ? ,11926,https://www.beeradvocate.com/beer/profile/1489/11926/,Krušovice Velvet,1489,Královský Pivovar Krušovice a.s.,11,3.59
+119,5.00,133028,https://www.beeradvocate.com/beer/profile/34066/133028/,Black Lager,34066,Perth Brewing Co.,11,3.34
+120,5.00,104216,https://www.beeradvocate.com/beer/profile/2689/104216/,Timisoreana Bruna,2689,Ursus S.A. (SAB) / Compania de Bere Romania,10,2.97
+121,4.80,34079,https://www.beeradvocate.com/beer/profile/440/34079/,Ochakovo Premium Black Light,440,Ochakovo,10,3.92
+122,6.00,96368,https://www.beeradvocate.com/beer/profile/30151/96368/,Kemenysepro,30151,Fóti Kézműves Sörfőzde,10,3.4
+123,5.00,36762,https://www.beeradvocate.com/beer/profile/2700/36762/,Oscura,2700,Taps Fish House & Brewery,10,3.56
+124,5.00,215003,https://www.beeradvocate.com/beer/profile/44313/215003/,Shevchenko 9,44313,Four Fathers Brewing Co.,10,3.43
+125,8.50,261164,https://www.beeradvocate.com/beer/profile/37749/261164/,Bourbon Barrel-Aged Jinxremover,37749,Fall Brewing Company,9,4.18
+126,4.00,8254,https://www.beeradvocate.com/beer/profile/2064/8254/,DB Draught,2064,DB Breweries,9,2.64
+127,5.00,130182,https://www.beeradvocate.com/beer/profile/34212/130182/,San Servolo Tamno Pivo,34212,Bujska Pivovara,9,3.57
+128, ? ,8366,https://www.beeradvocate.com/beer/profile/2309/8366/,Ellis Island Dark,2309,Ellis Island Casino & Brewery,9,3.01
+129,5.40,154042,https://www.beeradvocate.com/beer/profile/9784/154042/,Tmavé,9784,Zero Gravity Craft Brewery / American Flatbread,9,3.84
+130,4.40,181532,https://www.beeradvocate.com/beer/profile/16873/181532/,Cerveza Negra - Mexican Dark Lager,16873,10 Barrel Brewing Co.,8,3.65
+131, ? ,170274,https://www.beeradvocate.com/beer/profile/2953/170274/,Portsmouth Brewing Vulcan Dark Lager,2953,Portsmouth Brewing Co. / Mault's Brewpub,8,3.66
+132,5.60,14638,https://www.beeradvocate.com/beer/profile/1369/14638/,Tuborg Christmas Brew,1369,Vena Brewery,8,3.16
+133, ? ,25647,https://www.beeradvocate.com/beer/profile/1151/25647/,Dark Bier,1151,Piece Brewery & Pizzeria,8,3.44
+134, ? ,83793,https://www.beeradvocate.com/beer/profile/11174/83793/,Evans Premium Black,11174,Cerveceria Mexicana S.A. De C.V.,8,3.18
+135,5.00,32372,https://www.beeradvocate.com/beer/profile/2181/32372/,Kamenitza Dark Beer,2181,Kamenitza AD,8,3.32
+136,4.30,72053,https://www.beeradvocate.com/beer/profile/713/72053/,Yanjing Black,713,Beijing Yanjing Beer Group Corporation,8,2.94
+137,5.30,281246,https://www.beeradvocate.com/beer/profile/2230/281246/,Wolf Warning Double Brew Lager,2230,Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts),8,2.96
+138,7.50,80058,https://www.beeradvocate.com/beer/profile/18154/80058/,Miłosław Koźlak,18154,Browar Fortuna,8,3.47
+139,5.10,272317,https://www.beeradvocate.com/beer/profile/48592/272317/,Spare Parts,48592,Blackstack Brewing,8,3.74
+140,6.50,41994,https://www.beeradvocate.com/beer/profile/9065/41994/,Tri Martolod Brune,9065,Brasseries Artisanales Tri Martolod,7,3.86
+141,5.20,48930,https://www.beeradvocate.com/beer/profile/448/48930/,Master Polotmavý,448,Pivovar Velké Popovice a.s.,7,3.6
+142,5.60,5456,https://www.beeradvocate.com/beer/profile/908/5456/,Vergina Red Lager,908,Macedonian Thrace Brewery SA,7,3.37
+143,5.00,9044,https://www.beeradvocate.com/beer/profile/3527/9044/,Bofferding Christmas Béier,3527,Brasserie Bofferding,7,3.25
+144,5.00,18775,https://www.beeradvocate.com/beer/profile/3825/18775/,Åbro Bryggmästarens Mörka Lager,3825,Åbro Bryggeri,7,3.35
+145,5.80,18841,https://www.beeradvocate.com/beer/profile/9880/18841/,Mandrin Bière Aux Noix,9880,Brasserie Artisanale Du Dauphiné,7,3.42
+146,5.20,98209,https://www.beeradvocate.com/beer/profile/556/98209/,City Steam Uncle Dunkel,556,City Steam Brewery Café,7,3.68
+147,4.20,121259,https://www.beeradvocate.com/beer/profile/10430/121259/,Lvivske Dunkel,10430,Lvivska Pivovarnya (BBH),7,3.42
+148,4.60,197569,https://www.beeradvocate.com/beer/profile/32906/197569/,Modernism,32906,Schilling Beer Co.,7,3.79
+149,5.60,107736,https://www.beeradvocate.com/beer/profile/58/107736/,Negra Dark Lager,58,Compania Cervecera Del Sur Del Peru S.A. (Cervesur),7,3.13
+150,5.00,99816,https://www.beeradvocate.com/beer/profile/888/99816/,Moza Gold,888,"Cervecería Centro Americana, S.A.",7,3.03
+151,6.50,13304,https://www.beeradvocate.com/beer/profile/5434/13304/,Zolotaya Bochka Vyidyerzhanoye,5434,Kaluzhskaya Pivovarennaya Kompaniya,7,2.89
+152,6.50,130564,https://www.beeradvocate.com/beer/profile/16304/130564/,Enigma Black Lager,16304,Grand River Brewing,6,3.4
+153,5.50,291386,https://www.beeradvocate.com/beer/profile/32855/291386/,Bad Donkey,32855,Lickinghole Creek Craft Brewery,6,3.71
+154,7.50,122952,https://www.beeradvocate.com/beer/profile/526/122952/,Texels Noorderwiend,526,Texelse Bierbrouwerij,6,3.23
+155,2.00,64078,https://www.beeradvocate.com/beer/profile/4087/64078/,Spendrups Gammeldags Svagdricka,4087,Spendrups Bryggeri AB,6,3.01
+156,4.70,225626,https://www.beeradvocate.com/beer/profile/167/225626/,Lobkowicz Premium Černý,167,Brewery Lobkowicz,6,3.9
+157,5.80,207707,https://www.beeradvocate.com/beer/profile/24814/207707/,Midnight Special,24814,Yellowhammer Brewing,6,3.88
+158,5.00,119139,https://www.beeradvocate.com/beer/profile/416/119139/,PC Black Lager,416,Brick Brewing Co.,6,3.19
+159,4.50,195427,https://www.beeradvocate.com/beer/profile/21333/195427/,Tamplier Dark,21333,Nova Paka Brewery,6,3.52
+160,5.00,84589,https://www.beeradvocate.com/beer/profile/9377/84589/,Eidgenoss Amber Naturtrub,9377,Brauerei Falken AG,6,3.32
+161,5.50,109943,https://www.beeradvocate.com/beer/profile/9033/109943/,Tuborg Pure Gold,9033,Turk Tuborg Brewing and Malting,6,3.37
+162,4.60,150665,https://www.beeradvocate.com/beer/profile/401/150665/,Velvet (Barhatnoye),401,Baltika Breweries,6,2.96
+163,3.90,20116,https://www.beeradvocate.com/beer/profile/440/20116/,Chyernoye Lyegkoye,440,Ochakovo,6,3
+164,5.90,43944,https://www.beeradvocate.com/beer/profile/1454/43944/,Black Heart Lager,1454,Broad Ripple Brew Pub,6,3.96
+165,5.00,281023,https://www.beeradvocate.com/beer/profile/36710/281023/,Part Time Lager,36710,J. Wakefield Brewing,6,3.97
+166, ? ,298197,https://www.beeradvocate.com/beer/profile/304/298197/,Czechvar B. Dark,304,"Budějovický Budvar, n.p.",6,4.14
+167,5.70,72150,https://www.beeradvocate.com/beer/profile/13882/72150/,Arboga Mörk Lager,13882,Galatea AB,6,3.16
+168,5.20,121834,https://www.beeradvocate.com/beer/profile/16331/121834/,Crni Djordje,16331,Banjalučka Pivara,6,2.42
+169,5.10,212973,https://www.beeradvocate.com/beer/profile/2055/212973/,Bernard Černý Ležák 12°,2055,Bernard Family Brewery,6,3.86
+170,3.00,5874,https://www.beeradvocate.com/beer/profile/498/5874/,Bavaria Oud Bruin,498,Bavaria Brouwerij N.V.,6,3.25
+171,5.80,41481,https://www.beeradvocate.com/beer/profile/10897/41481/,Eriksberg Påsköl,10897,Carlsberg Sverige AB,5,2.88
+172,4.70,132874,https://www.beeradvocate.com/beer/profile/4107/132874/,Karlovar Cerny Granat,4107,Pivovar Černá Hora,5,3.84
+173,5.60,104479,https://www.beeradvocate.com/beer/profile/33173/104479/,Varniukų,33173,Davra,5,3.38
+174,4.80,141605,https://www.beeradvocate.com/beer/profile/783/141605/,Royal Classic,783,Royal Unibrew A/S,5,2.42
+175,5.00,86570,https://www.beeradvocate.com/beer/profile/569/86570/,Weifert,569,Anadolu Efes Brewery,5,3.05
+176,5.00,150828,https://www.beeradvocate.com/beer/profile/35033/150828/,Dark Lager,35033,Brewers & Union UG,5,3.37
+177,7.00,180535,https://www.beeradvocate.com/beer/profile/1435/180535/,Boilermaker By Tuborg,1435,Tuborgs Bryggerier A/S,5,2.37
+178,6.30,149053,https://www.beeradvocate.com/beer/profile/763/149053/,Crushed To Death,763,Moonlight Brewing Company,5,3.98
+179,5.20,44864,https://www.beeradvocate.com/beer/profile/17225/44864/,Korça Pils Dark (e Zezë),17225,Birra Korça,5,3.37
+180,5.30,114523,https://www.beeradvocate.com/beer/profile/28018/114523/,Polotmavy,28018,Rapp Brewing Company,5,3.79
+181,5.31,276327,https://www.beeradvocate.com/beer/profile/46725/276327/,Dark Lager,46725,Stestí Brewing Company,5,3.77
+182,5.50,221799,https://www.beeradvocate.com/beer/profile/2802/221799/,Lomska Dark Lager,2802,Lomsko Pivo,5,3.11
+183,4.90,140663,https://www.beeradvocate.com/beer/profile/10871/140663/,Perlenbacher Schwarzbier,10871,Mauritius Brauerei,5,2.97
+184,5.70,66942,https://www.beeradvocate.com/beer/profile/24132/66942/,Miodne,24132,Browar Kormoran,5,3.89
+185,5.00,221067,https://www.beeradvocate.com/beer/profile/2594/221067/,Black Lager,2594,Tree Brewing,5,3.96
+186, ? ,15009,https://www.beeradvocate.com/beer/profile/7486/15009/,Christmas Special,7486,Pivovar Krakonos,5,3.54
+187,3.80,139429,https://www.beeradvocate.com/beer/profile/138/139429/,Artesian Dark Ale,138,Shepherd Neame Ltd,5,3.05
+188,5.00,113342,https://www.beeradvocate.com/beer/profile/440/113342/,Stolichnoe Black,440,Ochakovo,5,3.64
+189,5.50,45782,https://www.beeradvocate.com/beer/profile/2619/45782/,Ariana Tumno (Dark),2619,Ariana Brewery,5,3.5
+190,7.20,188635,https://www.beeradvocate.com/beer/profile/18386/188635/,Coruja Noctua Dark,18386,Cerveja Coruja,5,3.83
+191,5.00,184313,https://www.beeradvocate.com/beer/profile/7216/184313/,Chatiemac Black Lager,7216,Adirondack Pub & Brewery,5,3.89
+192,5.20,74242,https://www.beeradvocate.com/beer/profile/14439/74242/,Sigtuna Vinterlager,14439,Sigtuna Brygghus,4,3
+193,5.60,118282,https://www.beeradvocate.com/beer/profile/27086/118282/,Noteckie Eire,27086,Browar Czarnków (Gontyniec Group),4,3.12
+194,4.60,259338,https://www.beeradvocate.com/beer/profile/14991/259338/,Oppler Brună,14991,Pivovar Konrad / Pivovar Hols,4,3.37
+195,5.20,183564,https://www.beeradvocate.com/beer/profile/12477/183564/,Skopsko Temno,12477,Skopska Pivara (Heineken),4,2.58
+196,5.10,181520,https://www.beeradvocate.com/beer/profile/642/181520/,Cherry Bomb,642,Free State Brewing Co.,4,3.55
+197,5.10,330005,https://www.beeradvocate.com/beer/profile/26753/330005/,Pint of no Return,26753,Hardywood Park Craft Brewery,4,3.67
+198,6.00,22298,https://www.beeradvocate.com/beer/profile/4089/22298/,"Three Hearts Påskebrygd 6,0",4089,Krönleins Bryggeri AB,4,2.86
+199,7.00,51485,https://www.beeradvocate.com/beer/profile/886/51485/,Gubernija Kunigaikčių (Dukes'),886,Gubernija Brewery,4,3.25
+200,4.20,37666,https://www.beeradvocate.com/beer/profile/439/37666/,Cristal Preta,439,UNICER União Cervejeira S.A.,4,2.66
+201,4.50,209708,https://www.beeradvocate.com/beer/profile/35986/209708/,Fear No Dark,35986,The Knuckle Saloon & Grill,4,3.78
+202,5.00,172112,https://www.beeradvocate.com/beer/profile/2700/172112/,El Moreno,2700,Taps Fish House & Brewery,4,3.72
+203, ? ,259155,https://www.beeradvocate.com/beer/profile/38743/259155/,Potash Pivo,38743,Brocklebank Craft Brewing,4,3.67
+204,5.00,252501,https://www.beeradvocate.com/beer/profile/35033/252501/,NEU BLK,35033,Brewers & Union UG,4,3.41
+205,6.50,142688,https://www.beeradvocate.com/beer/profile/37222/142688/,Virunga Mist,37222,Brasserie des Mille Collines (Unibra),4,3.53
+206,5.30,69985,https://www.beeradvocate.com/beer/profile/13882/69985/,S:t Eriks Skördeöl,13882,Galatea AB,4,3.79
+207,5.00,27233,https://www.beeradvocate.com/beer/profile/4375/27233/,Arctic Dark,4375,Bushwakker Brewing Company,4,3.39
+208,8.75,235108,https://www.beeradvocate.com/beer/profile/125/235108/,New Moon,125,Pennsylvania Brewing Company,4,3.56
+209, ? ,300389,https://www.beeradvocate.com/beer/profile/3273/300389/,Bavarian Inn Dark Beer,3273,Mountain Town Station Brewing Co. & Steakhouse,4,3.33
+210,5.30,140392,https://www.beeradvocate.com/beer/profile/888/140392/,Monte Carlo Bock,888,"Cervecería Centro Americana, S.A.",4,3.12
+211,5.90,189546,https://www.beeradvocate.com/beer/profile/1720/189546/,Ožujsko Rezano,1720,Zagrebaèka Pivovara D.d.,4,3.34
+212,6.00,46190,https://www.beeradvocate.com/beer/profile/3825/46190/,Åbro Sigill Julöl,3825,Åbro Bryggeri,4,2.52
+213,5.20,212611,https://www.beeradvocate.com/beer/profile/14653/212611/,Zaječarsko Crno,14653,Pivara Zajecar D. D.,4,3.07
+214,4.10,78215,https://www.beeradvocate.com/beer/profile/28292/78215/,Barkhatnoye,28292,"OOO ""Zavod Trehsosenskiy""",4,2.95
+215,4.60,106138,https://www.beeradvocate.com/beer/profile/7286/106138/,Schremser Doppelmalz,7286,Brauerei Schrems,4,3.05
+216,4.00,173724,https://www.beeradvocate.com/beer/profile/5426/173724/,Kruger Dunkel,5426,Tomskoye Pivo,4,3.54
+217,4.70,11698,https://www.beeradvocate.com/beer/profile/621/11698/,Dark Unfiltered (Temnoe Unfiltered),621,Tinkoff,4,3.13
+218,5.40,46275,https://www.beeradvocate.com/beer/profile/17207/46275/,Jóla Kaldi,17207,Bruggsmiðjan,4,3.95
+219,4.20,226523,https://www.beeradvocate.com/beer/profile/8468/226523/,Koronet Stout,8468,Lidskoye Pivo OAO,4,3.4
+220,6.10,80093,https://www.beeradvocate.com/beer/profile/835/80093/,Black Lager,835,Barley Creek Brewing Company,4,3.06
+221,4.00,119521,https://www.beeradvocate.com/beer/profile/32906/119521/,Jaroslav 10*,32906,Schilling Beer Co.,4,4.07
+222,4.50,194278,https://www.beeradvocate.com/beer/profile/22412/194278/,Another Beer,22412,Noble Ale Works,4,3.7
+223, ? ,316908,https://www.beeradvocate.com/beer/profile/18168/316908/,Seeing Is Believing,18168,Peekskill Brewery,4,3.45
+224,5.30,270850,https://www.beeradvocate.com/beer/profile/36061/270850/,Bonspiel Brown,36061,Dominion City Brewing Co.,3,4
+225,8.70,306434,https://www.beeradvocate.com/beer/profile/158/306434/,The Smoothness (Jameson Caskmates),158,Great Divide Brewing Company,3,4.4
+226,4.80,80644,https://www.beeradvocate.com/beer/profile/4108/80644/,Litovel Premium Schwarzbier,4108,Pivovar Litovel,3,3.27
+227,4.60,73230,https://www.beeradvocate.com/beer/profile/13662/73230/,Saimaan Marsalkka Tumma,13662,Saimaan Juomatehdas,3,2.73
+228,5.90,169755,https://www.beeradvocate.com/beer/profile/24076/169755/,Cornelius Dunkel,24076,Sulimar Sp. - Browar Cornelius,3,3.33
+229,5.20,62747,https://www.beeradvocate.com/beer/profile/1631/62747/,Boxer Brunette,1631,Brasserie du Boxer SA,3,2.83
+230,5.40,144929,https://www.beeradvocate.com/beer/profile/32832/144929/,Plato 14,32832,Evil Czech Brewery,3,3.82
+231,5.50,81956,https://www.beeradvocate.com/beer/profile/26458/81956/,The Wolfgang Chocolate Lager,26458,Mudhook Brewing Company,3,3.87
+232,4.50,104232,https://www.beeradvocate.com/beer/profile/9350/104232/,Vyškovské Tmavý Džbán,9350,Pivovar Vykov,3,3.48
+233, ? ,62257,https://www.beeradvocate.com/beer/profile/16197/62257/,Rohozec Skalák Tmavé 13°,16197,Pivovar Rohozec,3,2.62
+234,4.80,310839,https://www.beeradvocate.com/beer/profile/4108/310839/,PRAGA Dark Lager,4108,Pivovar Litovel,3,3.42
+235,3.00,93763,https://www.beeradvocate.com/beer/profile/21905/93763/,Lager Brune Légère,21905,Brasserie Tchequébec,3,2.41
+236,7.80,105027,https://www.beeradvocate.com/beer/profile/29481/105027/,Night Game,29481,Bravery Brewing,3,3.11
+237,5.60,116811,https://www.beeradvocate.com/beer/profile/2181/116811/,Astika Tumno,2181,Kamenitza AD,3,3.08
+238,4.50,133709,https://www.beeradvocate.com/beer/profile/6528/133709/,Keisari Luomu Tumma Lager,6528,Nokian Panimo,3,3.13
+239,5.20,106577,https://www.beeradvocate.com/beer/profile/14679/106577/,Dark Gold,14679,Brauerei H. Müller AG,3,2.88
+240,6.00,317784,https://www.beeradvocate.com/beer/profile/28383/317784/,idl,28383,Tired Hands Brewing Company,3,4.14
+241,4.20,198749,https://www.beeradvocate.com/beer/profile/560/198749/,Saku The Cream Of Dublin,560,Saku Brewery LTD,3,3.01
+242,6.70,223583,https://www.beeradvocate.com/beer/profile/29347/223583/,I’m So Horny!,29347,Browar Pinta,3,4.05
+243, ? ,226401,https://www.beeradvocate.com/beer/profile/25220/226401/,Starlite Black Nite Lager,25220,Bull City Burger And Brewery,3,3.99
+244,4.60,205668,https://www.beeradvocate.com/beer/profile/6484/205668/,Staryy Myelnik Iz Bochonka Tyomnoye,6484,Pivovariya Moskva-Efes ZAO,3,3.02
+245,5.00,219494,https://www.beeradvocate.com/beer/profile/2594/219494/,Raw Series Black Lager,2594,Tree Brewing,3,3.76
+246, ? ,163185,https://www.beeradvocate.com/beer/profile/23898/163185/,Bratislavský Bubák,23898,Bratislavský Meštiansky Pivovar,3,3.41
+247,4.10,83329,https://www.beeradvocate.com/beer/profile/301/83329/,Sagres Chocolate Preta,301,Sociedade Central de Cervejas,3,2.77
+248,6.50,76424,https://www.beeradvocate.com/beer/profile/8768/76424/,Kelso Winter Lager,8768,Greenpoint Beerworks / Kelso of Brooklyn,3,3.75
+249,4.50,24970,https://www.beeradvocate.com/beer/profile/9350/24970/,Havran (11% Tmavé-Leák),9350,Pivovar Vykov,3,3.6
+250,4.80,95626,https://www.beeradvocate.com/beer/profile/8818/95626/,Bl'oak,8818,Last Name Brewing,3,3.7
+251,4.20,214417,https://www.beeradvocate.com/beer/profile/20914/214417/,Bohemijos Tamsusis,20914,Volfas Engelman,3,3.32
+252,4.50,318869,https://www.beeradvocate.com/beer/profile/18563/318869/,93x Beer Of The Dark,18563,Lift Bridge Brewery,3,3.82
+253,5.60,172183,https://www.beeradvocate.com/beer/profile/30030/172183/,Oh Vienna,30030,Drop-In Brewing Company,3,3.69
+254,7.20,178840,https://www.beeradvocate.com/beer/profile/28047/178840/,Steinburg Negra,28047,Brasserie Champigneulles (TCB Beverages),3,3.24
+255,2.50,71326,https://www.beeradvocate.com/beer/profile/546/71326/,Alfa Oud Bruin,546,Alfa Bierbrouwerij B.V.,3,2.95
+256,5.50,136863,https://www.beeradvocate.com/beer/profile/24633/136863/,Brokát Dark Lager 13°,24633,Kaltenecker,3,4.01
+257,5.20,174239,https://www.beeradvocate.com/beer/profile/1463/174239/,Harboe Dark,1463,Harboes Bryggeri A/S,3,2.79
+258,5.80,226468,https://www.beeradvocate.com/beer/profile/26510/226468/,Kácov Hubertus 13° Speciálni Tmavé,26510,Pivovar Kácov,3,3.82
+259,8.00,325796,https://www.beeradvocate.com/beer/profile/18854/325796/,Vendredi Noir,18854,New Orleans Lager & Ale Brewing Company (NOLA),3,3.94
+260,2.60,82353,https://www.beeradvocate.com/beer/profile/6703/82353/,Kung Markatta Mörk Lager,6703,Härtsfelder Familienbrauerei Hald e.K.,3,2.62
+261,6.50,80060,https://www.beeradvocate.com/beer/profile/24132/80060/,Warmiak Niepasteryzovane,24132,Browar Kormoran,3,3.58
+262,5.60,33476,https://www.beeradvocate.com/beer/profile/13882/33476/,Arboga Julöl,13882,Galatea AB,3,2.69
+263,4.50,203494,https://www.beeradvocate.com/beer/profile/33874/203494/,Dunkel,33874,Doppelleu Brauwerkstatt,3,3.89
+264,5.90,198139,https://www.beeradvocate.com/beer/profile/18045/198139/,Prazsky Most Dark,18045,Pražský Most U Valšů,3,3.7
+265,6.40,74496,https://www.beeradvocate.com/beer/profile/16594/74496/,The Old Porch Dog,16594,LagerHaus Grill & Brewery,2,3.83
+266,4.20,77059,https://www.beeradvocate.com/beer/profile/887/77059/,Utenos Dark,887,Utenos Alus,2,3.13
+267, ? ,238339,https://www.beeradvocate.com/beer/profile/37897/238339/,Captain Holly's Black Lager,37897,Mother Bunch Brewing,2,3.25
+268,5.80,291076,https://www.beeradvocate.com/beer/profile/1730/291076/,Karlovačko Rezano,1730,Karlovaċka Pivovara,2,3.03
+269,4.90,300804,https://www.beeradvocate.com/beer/profile/39655/300804/,Brake Czech,39655,Chainline Brewing Company,2,3.51
+270,8.50,170251,https://www.beeradvocate.com/beer/profile/8818/170251/,Strong India Black Lager,8818,Last Name Brewing,2,3.71
+271,4.60,93710,https://www.beeradvocate.com/beer/profile/12358/93710/,Temnoe Zoloto,12358,Dvinskiy Brovar,2,3.4
+272,4.70,264207,https://www.beeradvocate.com/beer/profile/47264/264207/,Black Lager,47264,Clockwerks Brewing,2,3.5
+273,4.10,328722,https://www.beeradvocate.com/beer/profile/365/328722/,Third Story - Dark Lager,365,Pike Brewing Company,2,3.63
+274,4.70,69653,https://www.beeradvocate.com/beer/profile/875/69653/,Stoney's Dark Premium Lager,875,Jones Brewing Company,2,2.88
+275, ? ,336410,https://www.beeradvocate.com/beer/profile/28383/336410/,Wiccan Worship Circle,28383,Tired Hands Brewing Company,2,3.8
+276, ? ,151579,https://www.beeradvocate.com/beer/profile/1423/151579/,Von Schtupps Black Lager,1423,Hyde Park Brewing Company,2,3.59
+277,4.70,130588,https://www.beeradvocate.com/beer/profile/35944/130588/,Lade Gaards Brygghus Mørk Lager,35944,Lade Gaard Brygghus,2,2.88
+278,6.30,67357,https://www.beeradvocate.com/beer/profile/272/67357/,Black Wolf,272,Carib Brewery Limited,2,3.54
+279,5.00,299038,https://www.beeradvocate.com/beer/profile/33589/299038/,Clan Gun Scottish Lager,33589,Columbia Kettle Works,2,4.04
+280,5.00,58401,https://www.beeradvocate.com/beer/profile/16197/58401/,Rohozec Skalák Řezaný Jarní Leák 11°,16197,Pivovar Rohozec,2,3.48
+281,5.00,198178,https://www.beeradvocate.com/beer/profile/31448/198178/,Swartzbier,31448,Alpha Brewing Company,2,3.92
+282,5.30,317475,https://www.beeradvocate.com/beer/profile/51286/317475/,#2 Black Lager,51286,Venn Brewing Co.,2,4.05
+283,4.90,55333,https://www.beeradvocate.com/beer/profile/13232/55333/,Vana Viini Lager,13232,Beer House,2,3.32
+284,5.50,164647,https://www.beeradvocate.com/beer/profile/37533/164647/,Buckhorn Black Lager,37533,Ulele,2,3.84
+285,6.20,333610,https://www.beeradvocate.com/beer/profile/22843/333610/,Yamber,22843,Breakside Brewery,2,3.79
+286, ? ,48688,https://www.beeradvocate.com/beer/profile/176/48688/,Würzburger Hofbräu Special Holiday Beer,176,Würzburger Hofbräu AG,2,3.74
+287,5.30,311344,https://www.beeradvocate.com/beer/profile/46725/311344/,Dia De Los Muertos Czech,46725,Stestí Brewing Company,2,3.5
+288,5.20,48946,https://www.beeradvocate.com/beer/profile/3957/48946/,"Påsköl 5,2%",3957,Grebbestad Bryggeri,2,3.38
+289,4.70,51506,https://www.beeradvocate.com/beer/profile/168/51506/,Rebel Černý,168,Měšťanský pivovar Havlíčkův Brod,2,3.62
+290,5.80,71220,https://www.beeradvocate.com/beer/profile/18539/71220/,Barclay's London Dark Lager,18539,Devils Backbone Brewing Company,2,3.64
+291,5.20,195895,https://www.beeradvocate.com/beer/profile/24600/195895/,Lighter Than I Look,24600,Figueroa Mountain Brewing Co.,2,3.81
+292,5.30,281912,https://www.beeradvocate.com/beer/profile/45544/281912/,Where There's Smoke,45544,Cervecería Cruz Blanca,2,3.86
+293,4.50,51769,https://www.beeradvocate.com/beer/profile/12606/51769/,Steiger 11% Tmavý,12606,Pivovar Steiger,2,3.5
+294,5.00,245051,https://www.beeradvocate.com/beer/profile/1337/245051/,Short Swartz,1337,Pizza Port Solana Beach,2,4.15
+295,5.00,49211,https://www.beeradvocate.com/beer/profile/18954/49211/,Dark Swedish Lapland,18954,Nyckel-Bryggerier,2,3.34
+296,4.80,167487,https://www.beeradvocate.com/beer/profile/34732/167487/,Þari Páskabjór,34732,Brugghús Steðja,2,3.46
+297,5.50,88642,https://www.beeradvocate.com/beer/profile/19929/88642/,Vinter,19929,Qvänum Mat & Malt,2,2.87
+298,6.00,170308,https://www.beeradvocate.com/beer/profile/26701/170308/,Karksi Must Nunn,26701,"Karme AS, Karksi Õlle",2,3.24
+299,6.00,262217,https://www.beeradvocate.com/beer/profile/43809/262217/,Spotswood's Expedition,43809,New District Brewing Company,2,3.65
+300,4.60,96074,https://www.beeradvocate.com/beer/profile/28900/96074/,Doss Blockos Dark Lager,28900,East 9th Brewing Co,2,3.56
+301,5.20,169035,https://www.beeradvocate.com/beer/profile/2695/169035/,Black Rooster,2695,Bull & Bush Brewery,2,3.65
+302,6.00,335692,https://www.beeradvocate.com/beer/profile/38383/335692/,Nemțeana Bordo,38383,Fabrica de Bere Nemțeana,2,3.18
+303,5.50,221519,https://www.beeradvocate.com/beer/profile/6272/221519/,Dark Ale,6272,CANOE Brewpub,2,3.74
+304,5.50,9040,https://www.beeradvocate.com/beer/profile/3526/9040/,Battin Christmas,3526,Brasserie Battin,2,2.27
+305,5.80,71515,https://www.beeradvocate.com/beer/profile/26518/71515/,Maranello - Special Amber Beer,26518,De Tacchi,2,4.15
+306,5.00,75611,https://www.beeradvocate.com/beer/profile/27330/75611/,Black Pilsner,27330,Pinchgut Brewing Company,2,3.4
+307, ? ,233054,https://www.beeradvocate.com/beer/profile/34092/233054/,Kosaca,34092,Hercegovačka Pivovara (Heppro),2,3.38
+308,4.80,44639,https://www.beeradvocate.com/beer/profile/13208/44639/,Tagus Preta,13208,Cereuro - Cervejeira Europeia (Tagus),2,3
+309,5.00,203618,https://www.beeradvocate.com/beer/profile/4460/203618/,Kenner Dark Beer,4460,Privatbrauerei Fritz Egger GmbH & Co,2,2.85
+310, ? ,101221,https://www.beeradvocate.com/beer/profile/32939/101221/,Falkenštejn 14° Tmavý Speciál,32939,Křinický Pivovar,2,4.03
+311,6.30,306538,https://www.beeradvocate.com/beer/profile/49781/306538/,Novemberfest,49781,Backyard Brewery & Kitchen,2,3.86
+312,5.60,251246,https://www.beeradvocate.com/beer/profile/20782/251246/,Senojo Vilniaus Tamsusis Alus,20782,Vilniaus Alus UAB,2,3.36
+313,5.70,21873,https://www.beeradvocate.com/beer/profile/1717/21873/,Pennaya Kollektsiya Barkhat,1717,"Cheboksarskaya Pivovariya ""Buket Chuvashii""",2,4.03
+314,5.40,197235,https://www.beeradvocate.com/beer/profile/1551/197235/,Brown,1551,Gordon Biersch Brewery Restaurant,2,3.74
+315,4.90,156022,https://www.beeradvocate.com/beer/profile/11599/156022/,Czech Dark Lager,11599,Green Man Brewery,2,4.24
+316,6.10,258937,https://www.beeradvocate.com/beer/profile/3792/258937/,McSmack Scottish Lager,3792,Turtle Mountain Brewing Company,2,3
+317,4.90,88442,https://www.beeradvocate.com/beer/profile/30440/88442/,Bavaria Temnoe,30440,"Pivovarennyi Dom ""Bavaria""",2,3.23
+318,5.50,326015,https://www.beeradvocate.com/beer/profile/19866/326015/,Juzek 13º,19866,Upright Brewing Company,2,3.71
+319,7.50,65923,https://www.beeradvocate.com/beer/profile/19146/65923/,Czarny Dąb,19146,Browar Konstancin,2,3.88
+320,5.50,323203,https://www.beeradvocate.com/beer/profile/44354/323203/,Enigma,44354,Valcour Brewing Company,2,3.75
+321,4.80,276874,https://www.beeradvocate.com/beer/profile/44864/276874/,Spring,44864,Anderson Craft Ales,2,4.27
+322,4.10,172683,https://www.beeradvocate.com/beer/profile/5426/172683/,Barhatnoye,5426,Tomskoye Pivo,2,2.76
+323,8.00,154252,https://www.beeradvocate.com/beer/profile/7333/154252/,Burg Premium Strong Stout,7333,Darguner Brauerei GmbH,2,2.06
+324,5.50,333199,https://www.beeradvocate.com/beer/profile/45096/333199/,Šopeno 6,45096,Kalnapilio – Tauro Grupė,2,3.19
+325,5.50,9874,https://www.beeradvocate.com/beer/profile/1425/9874/,Malta Pilsen Polar,1425,Union De Cervecerias Peruanas Backus y Johnston,2,3.33
+326,5.00,31380,https://www.beeradvocate.com/beer/profile/5512/31380/,Krajan Ciemne,5512,Browar Krajan,2,3.35
+327,6.00,54936,https://www.beeradvocate.com/beer/profile/21597/54936/,La Rossa Dell'Officina,21597,Officina Della Birra,2,2.87
+328,7.00,61087,https://www.beeradvocate.com/beer/profile/23473/61087/,Naleczowskie,23473,Browar Jagiełło,2,3.06
+329,5.50,243367,https://www.beeradvocate.com/beer/profile/46713/243367/,Lietuviškas Juodasis Alus,46713,"UAB ""Kauen Craft"" (UAB Selita Ir Ko)",2,3.62
+330,5.00,314279,https://www.beeradvocate.com/beer/profile/9374/314279/,Sezoninis,9374,UAB Švyturys - Utenos alus,2,3.61
+331,6.10,156333,https://www.beeradvocate.com/beer/profile/36357/156333/,Snowcrest Dark Lager,36357,Beaverhead Brewing Company,2,3.75
+332,4.50,129454,https://www.beeradvocate.com/beer/profile/18223/129454/,Mrki Medvjed,18223,Pivnica Medvedgrad Adijina,2,3.5
+333,4.50,181431,https://www.beeradvocate.com/beer/profile/40986/181431/,European Dark Lager,40986,Little Rivers Brewing Co,2,3.74
+334,4.50,253370,https://www.beeradvocate.com/beer/profile/707/253370/,Primator Premium Dark,707,Pivovar Náchod a.s.,2,3.73
+335,4.00,197054,https://www.beeradvocate.com/beer/profile/11206/197054/,Czech Inn Dark Premium,11206,Pivovar Podkováň,2,3.93
+336,6.30,73406,https://www.beeradvocate.com/beer/profile/26848/73406/,München Vaskne,26848,Sillamäe Õlletehas,2,3.21
+337,4.50,146623,https://www.beeradvocate.com/beer/profile/6528/146623/,Keisari Dark,6528,Nokian Panimo,2,3.37
+338,4.70,308928,https://www.beeradvocate.com/beer/profile/39446/308928/,Cerveza Oscura,39446,Braindead Brewing,2,3.78
+339,5.00,190656,https://www.beeradvocate.com/beer/profile/25922/190656/,Firefighter’s Red Pilsner,25922,Red Truck Beer Company Ltd.,2,3.74
+340,5.60,46279,https://www.beeradvocate.com/beer/profile/10539/46279/,Malt Jólabjór,10539,Ölgerðin Egill Skallagrímsson,2,3.67
+341,5.30,93385,https://www.beeradvocate.com/beer/profile/7366/93385/,Bohemia Regent Petr Vok Polotmavý Speciální Ležák,7366,Pivovar Regent Třeboň,2,3.54
+342,5.30,232905,https://www.beeradvocate.com/beer/profile/32821/232905/,American Dark Lager,32821,Saint Patrick's Brewing Company,2,4.17
+343,5.80,163786,https://www.beeradvocate.com/beer/profile/21759/163786/,Black Sheep,21759,Föroya Bjór,2,3.44
+344,5.90,228300,https://www.beeradvocate.com/beer/profile/24586/228300/,Liger,24586,Kingdom Breweries,2,3.28
+345,7.80,304345,https://www.beeradvocate.com/beer/profile/39604/304345/,Quadralach,39604,Blue Island Beer Co.,2,4.14
+346,4.85,177625,https://www.beeradvocate.com/beer/profile/700/177625/,Raconteur Dark Lager,700,Elysian Brewing Company,2,3.72
+347,6.50,48859,https://www.beeradvocate.com/beer/profile/19606/48859/,Guineu Rocaters,19606,Ca l'Arenys / Cervesa Guineu,2,3.44
+348, ? ,71644,https://www.beeradvocate.com/beer/profile/25966/71644/,LOTR Polotmavy 14,25966,Pivovar Groll,2,4.37
+349,5.00,96992,https://www.beeradvocate.com/beer/profile/21589/96992/,Dark Lager,21589,Something Brewing,2,3.32
+350, ? ,70882,https://www.beeradvocate.com/beer/profile/19610/70882/,Mestansky Hradebni Tmave 10,19610,"Měšťanský pivovar v Poličce, a.s.",2,3.19
+351,4.00,174823,https://www.beeradvocate.com/beer/profile/11065/174823/,Kotimaista Tumma Lager,11065,Olvi Oyj,2,2.96
+352,6.00,316392,https://www.beeradvocate.com/beer/profile/20914/316392/,Brandintas Ąžuolu Karibų,20914,Volfas Engelman,2,4.07
+353, ? ,39913,https://www.beeradvocate.com/beer/profile/5339/39913/,Isenbeck Dark,5339,Cerveceria Argentina S.A. Isenbeck,2,3.27
+354,4.50,198126,https://www.beeradvocate.com/beer/profile/1809/198126/,Urpiner Dark 11°,1809,"Banskobystricky Pivovar, a.s. (Brewery Urpin BB Ltd.)",2,3.75
+355,5.30,200430,https://www.beeradvocate.com/beer/profile/36090/200430/,Nääs Mörk Lager Julöl,36090,Nääs Gårdsbryggeri AB,2,3.41
+356,3.90,122097,https://www.beeradvocate.com/beer/profile/7486/122097/,Krakonoš Tmavé 10°,7486,Pivovar Krakonos,2,3.88
+357,5.00,51954,https://www.beeradvocate.com/beer/profile/16197/51954/,Rohozec Skalák Řezaný Zimni Leák 11°,16197,Pivovar Rohozec,2,2.55
+358,4.70,151035,https://www.beeradvocate.com/beer/profile/18604/151035/,Juleøl,18604,Lervig Aktiebryggeri,2,3.51
+359,5.20,213244,https://www.beeradvocate.com/beer/profile/15917/213244/,Zlaten Dab Dark Beer,15917,Prilepska Pivarnica,2,2.32
+360,5.70,54013,https://www.beeradvocate.com/beer/profile/4106/54013/,Žatec Xantho,4106,Žatecký Pivovar,2,3.42
+361,5.80,314626,https://www.beeradvocate.com/beer/profile/42264/314626/,Lakrits,42264,Göteborgs Nya Bryggeri AB,1,3.41
+362,5.20,223493,https://www.beeradvocate.com/beer/profile/12524/223493/,Rugenbrau Spezial Dunkel,12524,Rugenbräu AG,1,4
+363,4.00,248581,https://www.beeradvocate.com/beer/profile/1200/248581/,Pernštejn Polotmavé Výčepní 10°,1200,Pardubický pivovar a.s.,1,3.6
+364,5.70,93704,https://www.beeradvocate.com/beer/profile/1717/93704/,Ledi-Noch',1717,"Cheboksarskaya Pivovariya ""Buket Chuvashii""",1,3.2
+365,4.00,169224,https://www.beeradvocate.com/beer/profile/11206/169224/,Podkovan Karamel,11206,Pivovar Podkováň,1,3.05
+366,7.50,303880,https://www.beeradvocate.com/beer/profile/12224/303880/,Svečio Tamsusis,12224,Rinkuškiai,1,2.05
+367,4.20,285193,https://www.beeradvocate.com/beer/profile/31061/285193/,Benedict Tmavý Ležák,31061,Břevnovský Klášterní Pivovar,1,3.99
+368, ? ,47369,https://www.beeradvocate.com/beer/profile/18738/47369/,Teerenpeli Dark Lager,18738,Bar Teerenpeli,1,3.87
+369,6.20,49930,https://www.beeradvocate.com/beer/profile/14663/49930/,Amaranta,14663,Birrificio L'Orso Verde,1,2.6
+370,3.50,5900,https://www.beeradvocate.com/beer/profile/532/5900/,Budels Oud Bruin,532,Budelse Brouwerij B.V.,1,3.14
+371,4.30,81932,https://www.beeradvocate.com/beer/profile/22382/81932/,Vansteiner,22382,Pivovarennaya Kompaniya Nord-West,1,3.53
+372,4.90,90636,https://www.beeradvocate.com/beer/profile/5062/90636/,Bohemian Dark,5062,Meantime Brewing Company Limited,1,3.68
+373, ? ,237324,https://www.beeradvocate.com/beer/profile/46216/237324/,Hoa Vien Dark Lager,46216,Hoa Vien Brauhaus,1,2.8
+374, ? ,196621,https://www.beeradvocate.com/beer/profile/4916/196621/,Black Bear Black Lager,4916,Big Bear Mountain Brewery,1,4.5
+375,5.00,291086,https://www.beeradvocate.com/beer/profile/49633/291086/,Dark,49633,Peter's Brewhouse,1,3.5
+376,8.00,170254,https://www.beeradvocate.com/beer/profile/8818/170254/,Triple Black India Lager,8818,Last Name Brewing,1,3.62
+377,4.40,194574,https://www.beeradvocate.com/beer/profile/14991/194574/,Saaz 11°P Dark Pils,14991,Pivovar Konrad / Pivovar Hols,1,2.85
+378,4.00,127247,https://www.beeradvocate.com/beer/profile/24784/127247/,Harrach Černé Pivo,24784,Malostránský Pivovar,1,3.75
+379, ? ,237328,https://www.beeradvocate.com/beer/profile/24649/237328/,Bia Đen,24649,Cientos Beer,1,3
+380, ? ,107282,https://www.beeradvocate.com/beer/profile/176/107282/,Wurzburger Dark Beer,176,Würzburger Hofbräu AG,1,3.5
+381,5.70,264468,https://www.beeradvocate.com/beer/profile/41218/264468/,Munich Lager,41218,Sherwood Mountain,1,4.16
+382,3.50,245268,https://www.beeradvocate.com/beer/profile/4443/245268/,Novoměstský Kvasnicový Ležák Tmavý Karamel,4443,První Novoměstský restaurační pivovar,1,3.38
+383,6.00,332823,https://www.beeradvocate.com/beer/profile/29059/332823/,Alcove,29059,DryHop Brewers,1,4.19
+384,5.50,319767,https://www.beeradvocate.com/beer/profile/43862/319767/,Dunkel Lager,43862,WoodGrain Brewing Co,1,3.66
+385,6.00,260888,https://www.beeradvocate.com/beer/profile/36022/260888/,Kalėdinis,36022,Prie Katedros Bravoras,1,3.59
+386,4.50,293913,https://www.beeradvocate.com/beer/profile/31247/293913/,Onyx,31247,Cervejaria Praxis,1,2.49
+387,4.70,330010,https://www.beeradvocate.com/beer/profile/12586/330010/,Praga Semi-dark,12586,Pivovar Holba,1,3.58
+388,3.50,245274,https://www.beeradvocate.com/beer/profile/4443/245274/,Novoměstský Kvasnicový Ležák Tmavý Káva,4443,První Novoměstský restaurační pivovar,1,3.6
+389,5.00,268059,https://www.beeradvocate.com/beer/profile/40725/268059/,Black Lager,40725,Doan's Craft Brewing Company,1,4.32
+390,5.60,333595,https://www.beeradvocate.com/beer/profile/52190/333595/,Dark Angel,52190,Pinatubo Craft Beer,1,3.38
+391,4.70,335644,https://www.beeradvocate.com/beer/profile/51286/335644/,#38 Mexican Dark Lager,51286,Venn Brewing Co.,1,4.08
+392,5.00,196380,https://www.beeradvocate.com/beer/profile/21333/196380/,ZlatoPražske Dark,21333,Nova Paka Brewery,1,3.25
+393,3.40,328995,https://www.beeradvocate.com/beer/profile/46725/328995/,Kava,46725,Stestí Brewing Company,1,3.49
+394,4.80,305955,https://www.beeradvocate.com/beer/profile/92/305955/,Suprema Negra,92,Cerveceria La Constancia S.A. / BevCo Ltd,1,4.21
+395,5.60,330789,https://www.beeradvocate.com/beer/profile/22977/330789/,Jenny Nyströms Påsköl,22977,Ängöl,1,3
+396,4.70,283173,https://www.beeradvocate.com/beer/profile/35910/283173/,Black Crow Lager,35910,Crowbar & Bryggeri,1,3.75
+397,5.00,277543,https://www.beeradvocate.com/beer/profile/27802/277543/,Black Lager,27802,Brasserie Du Mont Salève,1,4.24
+398,4.90,304938,https://www.beeradvocate.com/beer/profile/50101/304938/,Argus Tamsus Elis,50101,Lidl Lietuva,1,3.62
+399,3.90,79915,https://www.beeradvocate.com/beer/profile/22382/79915/,Orlovskoye Zhivoye,22382,Pivovarennaya Kompaniya Nord-West,1,3.53
+400,5.00,89899,https://www.beeradvocate.com/beer/profile/3925/89899/,Cerveza Negra,3925,Mickey Finn's Brewery,1,3.5
+401,4.90,239915,https://www.beeradvocate.com/beer/profile/46391/239915/,Imperial Dark (Империал Темное),46391,Imperial (Империал),1,3.84
+402, ? ,73774,https://www.beeradvocate.com/beer/profile/26888/73774/,Zvikovsky Tmavy Special 13°,26888,Pivovarsky Dvur Zvikov,1,3.88
+403, ? ,75567,https://www.beeradvocate.com/beer/profile/2493/75567/,Star City Dark Lager,2493,Lafayette Brewing Co.,1,3.92
+404,5.60,322096,https://www.beeradvocate.com/beer/profile/50520/322096/,Hankering,50520,Shakopee Brewhall,1,3.93
+405,4.30,51508,https://www.beeradvocate.com/beer/profile/4106/51508/,Žatec Premium Tmavé,4106,Žatecký Pivovar,1,3.1
+406,6.00,339765,https://www.beeradvocate.com/beer/profile/19866/339765/,Barrel Aged Juzek 13º,19866,Upright Brewing Company,1,3.99
+407,3.80,281141,https://www.beeradvocate.com/beer/profile/1195/281141/,Zlatý Bažant Tmavé,1195,Pivovar Zlaty Bazant a.s.,1,4.01
+408,4.10,180533,https://www.beeradvocate.com/beer/profile/28423/180533/,Makariy Barhatnoye,28423,"ZAO ''Pivovarenniy Zavod Lyskovskiy'' (ЗАО ""Пивоваренный Завод Лысковский",1,3.32
+409, ? ,249400,https://www.beeradvocate.com/beer/profile/46504/249400/,Bia Den,46504,Nhà Hàng Lan Anh,1,3.45
+410, ? ,250682,https://www.beeradvocate.com/beer/profile/47185/250682/,Dark Beer,47185,III Draakon,1,3.4
+411,5.20,252730,https://www.beeradvocate.com/beer/profile/46899/252730/,Anbessa Tella,46899,Ruba Brewing,1,3.63
+412, ? ,249403,https://www.beeradvocate.com/beer/profile/24648/249403/,Bia Tiếp Den,24648,Tulip Beer,1,3.08
+413, ? ,312637,https://www.beeradvocate.com/beer/profile/51013/312637/,Czech Side Of The Moon,51013,Augustino Brewing,1,3.64
+414, ? ,249408,https://www.beeradvocate.com/beer/profile/46241/249408/,Black,46241,GoldMalt,1,2.65
+415,5.50,209731,https://www.beeradvocate.com/beer/profile/39880/209731/,Say Dunkel!,39880,13 Virtues Brewing Co.,1,3.59
+416,5.50,180037,https://www.beeradvocate.com/beer/profile/11977/180037/,Anvil Island Dark Lager,11977,Howe Sound Inn & Brewing Company,1,3.92
+417,4.75,290630,https://www.beeradvocate.com/beer/profile/448/290630/,Kozel Cerny Nefiltrovany / Black Unfiltered,448,Pivovar Velké Popovice a.s.,1,3.09
+418,5.20,291144,https://www.beeradvocate.com/beer/profile/10546/291144/,Thunberg's Dockyard,10546,Suomenlinnan Panimo Sveaborgs Bryggeri,1,3.5
+419, ? ,55626,https://www.beeradvocate.com/beer/profile/6794/55626/,Wolfs Blunt,6794,Brauerei Max Wolf GmbH,1,2.71
+420,5.00,319050,https://www.beeradvocate.com/beer/profile/34066/319050/,Pistachi Ho Ho,34066,Perth Brewing Co.,1,3.88
+421,5.00,268623,https://www.beeradvocate.com/beer/profile/4408/268623/,Black Lager,4408,RJ Rockers Brewing Company,1,3.5
+422,5.00,321104,https://www.beeradvocate.com/beer/profile/292/321104/,Kirin Ichiban Shibori Kuro Nama,292,"Kirin Brewery Company, Limited",1,4.24
+423,4.80,283730,https://www.beeradvocate.com/beer/profile/43219/283730/,Poplest,43219,Lariat Lodge Brewing Company,1,3.67
+424,5.10,223570,https://www.beeradvocate.com/beer/profile/28752/223570/,Rough Magic,28752,Tempest Brewing Company,1,3.44
+425,5.00,303186,https://www.beeradvocate.com/beer/profile/50529/303186/,Lionkavos Karamela,50529,Linkuvos Alus,1,3.02
+426,5.60,177490,https://www.beeradvocate.com/beer/profile/15098/177490/,Argus Negra,15098,Font Salem,1,2
+427,5.00,141396,https://www.beeradvocate.com/beer/profile/25393/141396/,Winter Drumfire,25393,Icicle Brewing Company,1,3.7
+428, ? ,240470,https://www.beeradvocate.com/beer/profile/6432/240470/,Bia Đen,6432,Hoa Vien Brauhaus Restaurant,1,2.84
+429,5.00,18264,https://www.beeradvocate.com/beer/profile/2248/18264/,La Grand Duc (Rousse Au Seigle),2248,La Barberie,1,3.5
+430, ? ,206172,https://www.beeradvocate.com/beer/profile/40634/206172/,Farmhouse Noire,40634,Barn Brewery,1,3.77
+431,8.50,309854,https://www.beeradvocate.com/beer/profile/44641/309854/,Bockabilly,44641,Fore River Brewing Co.,1,4.49
+432,5.00,269408,https://www.beeradvocate.com/beer/profile/28399/269408/,Žaliakalnio Tamsusis,28399,"AB ""Kauno Alus""",1,2.75
+433,4.70,178528,https://www.beeradvocate.com/beer/profile/40896/178528/,20v Juhlaolut,40896,Alahovin Viinitila Oy,1,2.48
+434,9.00,292193,https://www.beeradvocate.com/beer/profile/125/292193/,Rum Barrel Aged New Moon,125,Pennsylvania Brewing Company,1,1.45
+435,5.40,314977,https://www.beeradvocate.com/beer/profile/30812/314977/,Poppels Mörk Lager,30812,Poppels Bryggeri,1,3.4
+436,7.30,330595,https://www.beeradvocate.com/beer/profile/45697/330595/,Nova Luna,45697,Bellefonte Brewing Co.,1,3.94
+437,4.70,178531,https://www.beeradvocate.com/beer/profile/40896/178531/,Vanhan Tornin Tumma Olut,40896,Alahovin Viinitila Oy,1,2.5
+438,7.50,299620,https://www.beeradvocate.com/beer/profile/27802/299620/,Export Black Lager,27802,Brasserie Du Mont Salève,1,3.25
+439,4.50,322662,https://www.beeradvocate.com/beer/profile/37463/322662/,First Cup (Brown Lager with Charm City Coffee),37463,Monument City Brewing Company,1,3.75
+440,5.00,75111,https://www.beeradvocate.com/beer/profile/26701/75111/,Karksi Tume,26701,"Karme AS, Karksi Õlle",1,2.5
+441,5.80,133481,https://www.beeradvocate.com/beer/profile/36090/133481/,Nääs Mörk Lager,36090,Nääs Gårdsbryggeri AB,1,3.5
+442,5.50,147817,https://www.beeradvocate.com/beer/profile/24828/147817/,Black Lager,24828,Jaden James Brewery,1,3.75
+443,4.70,136817,https://www.beeradvocate.com/beer/profile/32652/136817/,Export Stout,32652,Great Southern Brewing Pty Ltd,1,3
+444,4.70,318577,https://www.beeradvocate.com/beer/profile/7366/318577/,Zlato Prazske Dark,7366,Pivovar Regent Třeboň,1,3.64
+445,6.10,176242,https://www.beeradvocate.com/beer/profile/1445/176242/,Knob City Dark Lager,1445,Barley Island Brewing Company,1,3.77
+446,6.00,143988,https://www.beeradvocate.com/beer/profile/5512/143988/,Irlandzkie Ciemne,5512,Browar Krajan,1,4.5
+447,5.00,141174,https://www.beeradvocate.com/beer/profile/37049/141174/,Kadji Beer Brune,37049,Union Camerounaise de Brasseries,1,2.22
+448,5.20,318840,https://www.beeradvocate.com/beer/profile/9784/318840/,Bohemian Dark,9784,Zero Gravity Craft Brewery / American Flatbread,1,3.92
+449,5.80,202361,https://www.beeradvocate.com/beer/profile/34334/202361/,The Dark Passenger,34334,Books & Brews,1,3.62
+450,4.30,24697,https://www.beeradvocate.com/beer/profile/11065/24697/,Olvi Tumma,11065,Olvi Oyj,1,2.18
+451,6.00,309114,https://www.beeradvocate.com/beer/profile/20783/309114/,Senovinis,20783,Birų Alus,1,3.09
+452, ? ,94332,https://www.beeradvocate.com/beer/profile/28399/94332/,Žaliakalnio Tamsusis Gyvas,28399,"AB ""Kauno Alus""",1,3.52
+453,4.60,175228,https://www.beeradvocate.com/beer/profile/4102/175228/,Arctic Malt Dark Lager,4102,Hartwall Helsinki Panimo,1,2.43
+454,3.50,49276,https://www.beeradvocate.com/beer/profile/625/49276/,Uppsala Julöl,625,Gamla Slottskällans Bryggeri AB,1,2.41
+455,4.00,93822,https://www.beeradvocate.com/beer/profile/28283/93822/,Nemetskoe Temnoe,28283,Бочкаревский пивоваренный завод (Bochkarevskiy Pivovarennyi Zavod),1,3.02
+456,5.60,284801,https://www.beeradvocate.com/beer/profile/42926/284801/,Gniewosz,42926,Browar Kamionka (Gontyniec Group),1,3.26
+457,5.60,301442,https://www.beeradvocate.com/beer/profile/44425/301442/,Dvaro Mergelių,44425,Joalda,1,3.53
+458,5.70,312962,https://www.beeradvocate.com/beer/profile/45456/312962/,Hidden Hand,45456,Wayfinder Beer,1,4.53
+459,5.90,325762,https://www.beeradvocate.com/beer/profile/9629/325762/,Neon Snowsuit,9629,Short's Brewing Company,1,3.94
+460,5.00,255875,https://www.beeradvocate.com/beer/profile/28399/255875/,Grynas Tamsusis,28399,"AB ""Kauno Alus""",1,3
+461,7.50,76165,https://www.beeradvocate.com/beer/profile/27433/76165/,Koźlak,27433,Browar De Brasil,1,3
+462, ? ,177285,https://www.beeradvocate.com/beer/profile/23344/177285/,Chickbock Lager,23344,Chattanooga Brewing Company,1,3.84
+463,6.30,253317,https://www.beeradvocate.com/beer/profile/12238/253317/,Antidepressant Autumn Dark Lager,12238,Klášterní pivovar Strahov,1,3.6
+464,5.80,255878,https://www.beeradvocate.com/beer/profile/20788/255878/,Astravo Ūtos,20788,"UAB ""Astravo""",1,3.75
+465,4.30,271495,https://www.beeradvocate.com/beer/profile/20601/271495/,Monsteiner Schwarzbär,20601,Brauerei BierVision Monstein AG,1,2.94
+466,4.50,183945,https://www.beeradvocate.com/beer/profile/3517/183945/,Lasso Dark,3517,Brouwerij Martens NV,1,2.58
+467,4.20,90254,https://www.beeradvocate.com/beer/profile/28309/90254/,Brestskoe Temnoe,28309,Brestskiy Kombinat Bezalkogolnych Napitkov,1,2.86
+468,4.10,300945,https://www.beeradvocate.com/beer/profile/12358/300945/,Urstein Dunkel,12358,Dvinskiy Brovar,1,3.13
+469,7.30,274066,https://www.beeradvocate.com/beer/profile/43087/274066/,Black Mamba,43087,Forge Brewhouse,1,3.65
+470,4.80,203670,https://www.beeradvocate.com/beer/profile/1376/203670/,Dzhoy Tyomnoye,1376,Ayan,1,2.98
+471,4.50,335766,https://www.beeradvocate.com/beer/profile/16873/335766/,Dark Queen,16873,10 Barrel Brewing Co.,1,4
+472,5.40,149654,https://www.beeradvocate.com/beer/profile/19587/149654/,Braunbier,19587,Hofbräuhaus Pittsburgh,1,2.74
+473,5.00,310168,https://www.beeradvocate.com/beer/profile/49813/310168/,Kanec Premium Polotmavý ležák,49813,Zámecký Pivovar Břeclav,1,3.68
+474, ? ,163482,https://www.beeradvocate.com/beer/profile/39597/163482/,Dark,39597,Taglaura,1,2.5
+475, ? ,226461,https://www.beeradvocate.com/beer/profile/33568/226461/,Marina Tmavý Speciál 13°,33568,Pivovar Marina,1,3.25
+476,4.50,296349,https://www.beeradvocate.com/beer/profile/30405/296349/,Unrequited Love,30405,Champion Brewing Company,1,4.02
+477, ? ,45987,https://www.beeradvocate.com/beer/profile/15218/45987/,Dunkelstilsken,15218,C.B. & Potts,1,3.55
+478,5.20,228773,https://www.beeradvocate.com/beer/profile/45510/228773/,Edicão Limitada,45510,Cerveja Balluta,1,3.75
+479,4.80,320423,https://www.beeradvocate.com/beer/profile/10312/320423/,Ashby Hops American Pilsen Escura,10312,Cervejaria Ashby,1,2.73
+480,5.20,299688,https://www.beeradvocate.com/beer/profile/44470/299688/,Pirklio Tamsusis,44470,Girinio Alus,1,3.24
+481,4.00,314281,https://www.beeradvocate.com/beer/profile/31901/314281/,Brewer's ExperimentALE Series #59: Czád,31901,Bent Brewstillery,1,3.6
+482,5.00,283309,https://www.beeradvocate.com/beer/profile/49263/283309/,Buena Suerte Black Lager,49263,Cervecería Valquiria,1,1.54
+483,4.20,162221,https://www.beeradvocate.com/beer/profile/28309/162221/,Brestskoye Dark,28309,Brestskiy Kombinat Bezalkogolnych Napitkov,1,3.82
+484,6.50,310958,https://www.beeradvocate.com/beer/profile/45678/310958/,Blogger,45678,Chapman Crafted Beer,1,3.79
+485,4.60,320174,https://www.beeradvocate.com/beer/profile/96/320174/,Black Lager,96,Magic Hat Brewing Company,1,4
+486,5.50,285359,https://www.beeradvocate.com/beer/profile/47665/285359/,El Luchador,47665,Crooked Goat Brewing,1,4
+487,5.30,184240,https://www.beeradvocate.com/beer/profile/12706/184240/,Euro Ale,12706,Kannah Creek Brewing Company,1,4
+488,4.50,61872,https://www.beeradvocate.com/beer/profile/22383/61872/,Staropokrovskoye Polutemnoye,22383,OOO UK Pokrovskaya,1,2.82
+489, ? ,206001,https://www.beeradvocate.com/beer/profile/1747/206001/,Barkhatnoye,1747,Vyatich,1,2.7
+490,7.50,215985,https://www.beeradvocate.com/beer/profile/36410/215985/,Baltic Porter,36410,Blue Collar Brewery Inc.,1,4.25
+491,5.70,174001,https://www.beeradvocate.com/beer/profile/36078/174001/,Tamsus,36078,Vasaknų Dvaro,1,2.86
+492,3.20,52145,https://www.beeradvocate.com/beer/profile/12604/52145/,Popper Tmavé 10%,12604,Pivovar Popper,1,3.51
+493,5.90,318897,https://www.beeradvocate.com/beer/profile/1304/318897/,BaDonka Dunkel,1304,Pelican Pub & Brewery,1,3.79
+494,4.00,162226,https://www.beeradvocate.com/beer/profile/12359/162226/,Stará Pivnice Cerne,12359,Krinitsa,1,2.79
+495,5.40,241074,https://www.beeradvocate.com/beer/profile/46037/241074/,Laužo Liepsna,46037,Mažas Alaus Cechas,1,3.75
+496,4.00,52147,https://www.beeradvocate.com/beer/profile/13207/52147/,Corgoň Tmavé 11.5%,13207,Pivovar Corgoň (Heineken Slovensko),1,3.62
+497, ? ,179638,https://www.beeradvocate.com/beer/profile/25966/179638/,KAPR 14°,25966,Pivovar Groll,1,3.69
+498, ? ,215480,https://www.beeradvocate.com/beer/profile/44176/215480/,Goce Delchev Dark,44176,Pivnica Star Grad Old Town Brewery,1,2.9
+499,5.20,51898,https://www.beeradvocate.com/beer/profile/12224/51898/,Port Night,12224,Rinkuškiai,1,2.68
+500,3.50,186814,https://www.beeradvocate.com/beer/profile/507/186814/,Oud Bruin,507,Gulpener Bierbrouwerij B.V.,1,2
+501,5.00,22975,https://www.beeradvocate.com/beer/profile/10525/22975/,Fuglsang Hertug Hans,10525,Bryggeriet S.C. Fuglsang,1,2.78
+502,4.90,340418,https://www.beeradvocate.com/beer/profile/50167/340418/,Dark English Lager,50167,Scrappy Punk Brewing,1,3.92
+503,5.50,17347,https://www.beeradvocate.com/beer/profile/2044/17347/,Starobrno Black Drak,2044,"Pivovar Starbrno, A.S.",1,4.57
+504,6.50,131525,https://www.beeradvocate.com/beer/profile/292/131525/,Grand Kirin Browny,292,"Kirin Brewery Company, Limited",1,3
+505,4.80,74949,https://www.beeradvocate.com/beer/profile/18231/74949/,Purkmistr 12° - Semi-Dark Lager (Polotmavy Lezak),18231,Pivovarský dvůr Plzeň / Purkmistr Restaurant,1,4
+506,6.00,190149,https://www.beeradvocate.com/beer/profile/2597/190149/,India Dark Lager,2597,Mission Springs Brewing Company,1,3.25
+507,4.80,105673,https://www.beeradvocate.com/beer/profile/8818/105673/,Sour Pomegranate Black Beer,8818,Last Name Brewing,1,3.71
+508,5.00,160715,https://www.beeradvocate.com/beer/profile/26607/160715/,St. John's Dark Lager,26607,Occidental Brewing Co.,1,4.35
+509, ? ,117713,https://www.beeradvocate.com/beer/profile/2549/117713/,Ringnes Dark,2549,Ringnes Bryggeri (Carlsberg),1,3.5
+510,5.00,48082,https://www.beeradvocate.com/beer/profile/13278/48082/,Oirase Dark Lager,13278,Oirase Brewery,1,3.7
+511,4.00,256979,https://www.beeradvocate.com/beer/profile/22723/256979/,Tmavy,22723,Notch Brewing,1,4.25
+512,4.80,293850,https://www.beeradvocate.com/beer/profile/48863/293850/,Keltské Dědictví Premium Tmavy Lezak,48863,United Breweries,1,3.5
+513,4.80,184282,https://www.beeradvocate.com/beer/profile/38220/184282/,ART3 Coffee Milk Dark Lager,38220,Browar Stu Mostów,1,3.6
+514,5.80,272603,https://www.beeradvocate.com/beer/profile/35017/272603/,Rådanäs Ekologiska Påsköl,35017,Rådanäs Bryggeri,1,3.18
+515, ? ,275423,https://www.beeradvocate.com/beer/profile/48776/275423/,Dark Lager,48776,"The Downtown - Pub, Microbrewery, & Air Bar",1,3.26
+516,4.40,82399,https://www.beeradvocate.com/beer/profile/24929/82399/,Vagant 1516 Temnoye,24929,Vagant Beer,1,2.45
+517,4.50,177119,https://www.beeradvocate.com/beer/profile/40124/177119/,Barkhatnoye,40124,Varnitsa (Варница),1,2.74
+518,5.90,141280,https://www.beeradvocate.com/beer/profile/37056/141280/,Nkoyi Black,37056,Les Brasseries du Congo (Bracongo),1,4.62
+519,5.40,281056,https://www.beeradvocate.com/beer/profile/37983/281056/,Nero,37983,Wop's Hops Brewing Company,1,3.68
+520,4.50,319456,https://www.beeradvocate.com/beer/profile/44113/319456/,Buena Noche,44113,Liars' Bench Beer Company,1,3.75
+521,4.40,103137,https://www.beeradvocate.com/beer/profile/32968/103137/,Ponarth Rotbier,32968,Ponarth Brauerei,1,2.3
+522,2.80,182497,https://www.beeradvocate.com/beer/profile/264/182497/,Karhu Tumma I,264,Oy Sinebrychoff Ab,1,3.15
+523,5.00,191713,https://www.beeradvocate.com/beer/profile/1200/191713/,Pernstejn Tmavy Lezak,1200,Pardubický pivovar a.s.,1,3.52
+524,5.00,262882,https://www.beeradvocate.com/beer/profile/3825/262882/,Åbro Bryggmästarens Premium Dark,3825,Åbro Bryggeri,1,3.25
+525, ? ,5858,https://www.beeradvocate.com/beer/profile/530/5858/,Hertog Jan Oud Bruin,530,Arcense Stoombierbouwerij (Hertog Jan Brouwerij),1,4
+526,5.60,217059,https://www.beeradvocate.com/beer/profile/20782/217059/,Amber City Tamsusis,20782,Vilniaus Alus UAB,1,3.15
+527,5.20,217315,https://www.beeradvocate.com/beer/profile/36041/217315/,UKIS Iki Tradicinis Alus,36041,Taruškų Alaus Bravoras,1,2.1
+528,5.90,279270,https://www.beeradvocate.com/beer/profile/20783/279270/,Legenda Tamsusis,20783,Birų Alus,1,2.59
+529, ? ,86249,https://www.beeradvocate.com/beer/profile/15427/86249/,U Richarda Tmavý 12°,15427,Minipivovar U Richarda,1,3.48
+530,5.20,87275,https://www.beeradvocate.com/beer/profile/24655/87275/,Black Lager,24655,Mimbres Valley Brewing Company,1,3.88
+531, ? ,243947,https://www.beeradvocate.com/beer/profile/46040/243947/,Temne Nefiltrovane,46040,Bigos Pub,1,2.82
+532,4.50,79852,https://www.beeradvocate.com/beer/profile/1742/79852/,Pyatyi Okean Blagorodnoye Krasnoye,1742,Vladimirskaya Pivovarnya,1,3.23
+533,4.40,81900,https://www.beeradvocate.com/beer/profile/24929/81900/,Vagant Irish Ale,24929,Vagant Beer,1,2.83
+534,4.50,173549,https://www.beeradvocate.com/beer/profile/36341/173549/,Savo Dark Lager,36341,Iso-Kallan Panimo Oy,1,3.15
+535,5.50,202993,https://www.beeradvocate.com/beer/profile/4375/202993/,Flek's Czech Dark Lager,4375,Bushwakker Brewing Company,1,3.95
+536,5.00,269554,https://www.beeradvocate.com/beer/profile/28399/269554/,Savas Kaunas Tamsusis,28399,"AB ""Kauno Alus""",1,2.77
+537,5.00,311028,https://www.beeradvocate.com/beer/profile/50954/311028/,Dark Light Lager,50954,Lindinha Lucas,1,3.86
+538,7.50,235000,https://www.beeradvocate.com/beer/profile/20914/235000/,Šnekorių Tamsusis,20914,Volfas Engelman,1,3.1
+539,5.13,105465,https://www.beeradvocate.com/beer/profile/32474/105465/,Wildfyre,32474,Shrub Steppe Smokehouse Brewery,1,4.3
+540,4.80,244217,https://www.beeradvocate.com/beer/profile/27114/244217/,Black Lager,27114,Coney Island Brewing Company,1,3.75
+541,5.20,254457,https://www.beeradvocate.com/beer/profile/39841/254457/,Udgårdsloke,39841,Munkebo Mikrobryg,1,4
+542,4.90,202235,https://www.beeradvocate.com/beer/profile/28018/202235/,Tmavy Lezak,28018,Rapp Brewing Company,1,3.75
+543,4.50,295932,https://www.beeradvocate.com/beer/profile/28437/295932/,Ivan Da Maria,28437,Vasileostrovskaya Brewery (Василеостровская Пивоварня),1,4
+544, ? ,176637,https://www.beeradvocate.com/beer/profile/264/176637/,Nikolai Sinebrychoff Tumma Lager,264,Oy Sinebrychoff Ab,1,2.86
+545,5.10,125700,https://www.beeradvocate.com/beer/profile/2055/125700/,Bernardova černá Lavina,2055,Bernard Family Brewery,0,0
+546,5.20,161287,https://www.beeradvocate.com/beer/profile/3995/161287/,Byron Bay Billy Goat,3995,The Byron Bay Brewing Company,0,0
+547,5.00,199177,https://www.beeradvocate.com/beer/profile/32645/199177/,Czechmate Dark Lager,32645,Stone's Throw Brewing,0,0
+548,4.70,204554,https://www.beeradvocate.com/beer/profile/1737/204554/,Bratskoye Tyomnoye,1737,Gelios,0,0
+549, ? ,164106,https://www.beeradvocate.com/beer/profile/39598/164106/,Osetniskoe Oy Plotnosti,39598,Tshinvalskiy Pivovarenniy Zavod,0,0
+550,5.20,260109,https://www.beeradvocate.com/beer/profile/28663/260109/,Winter Lager,28663,Prohibition Pig,0,0
+551,3.90,204302,https://www.beeradvocate.com/beer/profile/1715/204302/,Bulgarpivo Tyomnoye,1715,Bulgarpivo,0,0
+552,4.70,306446,https://www.beeradvocate.com/beer/profile/5688/306446/,Mrs. Brown's Lovely Lager,5688,Humperdinks Brewpub (Arlington),0,0
+553,5.90,174351,https://www.beeradvocate.com/beer/profile/40408/174351/,Dunkle Schnee,40408,Ordnance Brewing,0,0
+554,4.40,204560,https://www.beeradvocate.com/beer/profile/1737/204560/,Yarmarka Plyus,1737,Gelios,0,0
+555,5.40,141074,https://www.beeradvocate.com/beer/profile/16053/141074/,Strela Preta,16053,CERIS - Sociedade Caboverdiana De Cerveja E Refrigerantes S.A.R.,0,0
+556,3.70,204309,https://www.beeradvocate.com/beer/profile/1715/204309/,Barkhatnoye,1715,Bulgarpivo,0,0
+557,4.40,204566,https://www.beeradvocate.com/beer/profile/1737/204566/,Barkhatnoye Plyus,1737,Gelios,0,0
+558,5.00,204568,https://www.beeradvocate.com/beer/profile/1738/204568/,Pyersyey,1738,Gidrolizny Zavod,0,0
+559,6.00,317469,https://www.beeradvocate.com/beer/profile/33273/317469/,Chernabog,33273,7th Settlement Brewery,0,0
+560,6.20,215584,https://www.beeradvocate.com/beer/profile/40453/215584/,Tmavý,40453,Lost Rhino Retreat,0,0
+561,5.80,241184,https://www.beeradvocate.com/beer/profile/12215/241184/,Blackgott,12215,Minipivovar U Medvídků,0,0
+562,5.80,204324,https://www.beeradvocate.com/beer/profile/1717/204324/,Pyennyy Barkhat,1717,"Cheboksarskaya Pivovariya ""Buket Chuvashii""",0,0
+563,4.80,204582,https://www.beeradvocate.com/beer/profile/28448/204582/,Hansebier Tyomnoye,28448,Hansebier,0,0
+564,5.80,163622,https://www.beeradvocate.com/beer/profile/38906/163622/,Beri,38906,Brasserie Kapadokya / Resto-Grillades Zema,0,0
+565,4.90,204075,https://www.beeradvocate.com/beer/profile/1712/204075/,Prazhskiy Grad,1712,Bryanskpivo,0,0
+566, ? ,249391,https://www.beeradvocate.com/beer/profile/46515/249391/,Bia Nau,46515,Brauhof - Nguyen Du,0,0
+567,5.10,325681,https://www.beeradvocate.com/beer/profile/33706/325681/,Threat Level Midnight,33706,Forge Brew Works,0,0
+568,4.90,204338,https://www.beeradvocate.com/beer/profile/1735/204338/,Gambrinus Rubinovoye Tyomnoye,1735,Gambrinus,0,0
+569,6.20,325683,https://www.beeradvocate.com/beer/profile/603/325683/,Maximus Lager,603,Church Brew Works,0,0
+570,4.10,204340,https://www.beeradvocate.com/beer/profile/1735/204340/,Chyeshskiy Svatyek Barkhatnoye Tyomnoye,1735,Gambrinus,0,0
+571,4.80,212021,https://www.beeradvocate.com/beer/profile/44000/212021/,Chyeshskoye Tyomnoye,44000,Krop-pivo,0,0
+572,3.70,204086,https://www.beeradvocate.com/beer/profile/1715/204086/,Pryemium Barkhatnoye,1715,Bulgarpivo,0,0
+573, ? ,165689,https://www.beeradvocate.com/beer/profile/39820/165689/,Starker Dunkel,39820,Napex Brewery,0,0
+574,4.90,204346,https://www.beeradvocate.com/beer/profile/1735/204346/,Gambrinus Tyomnoye Pastyerizovannoye,1735,Gambrinus,0,0
+575,4.70,204604,https://www.beeradvocate.com/beer/profile/7073/204604/,Syeroglazka,7073,Kamchatskoye Pivo OAO,0,0
+576, ? ,141638,https://www.beeradvocate.com/beer/profile/31505/141638/,Club Dark Beer,31505,Monrovia Breweries Inc.,0,0
+577,5.50,162887,https://www.beeradvocate.com/beer/profile/30324/162887/,Puro Malte Escura Forte,30324,Cervejaria Santa Catarina Ltda (Saint Bier),0,0
+578,4.50,200010,https://www.beeradvocate.com/beer/profile/31586/200010/,La Bohéme,31586,Benelux Brasserie Artisanale,0,0
+579,4.50,126794,https://www.beeradvocate.com/beer/profile/24784/126794/,Harrach Tmavý Ležák,24784,Malostránský Pivovar,0,0
+580,6.00,142668,https://www.beeradvocate.com/beer/profile/37229/142668/,Trophy Black Lager,37229,International Breweries Plc,0,0
+581,4.10,204621,https://www.beeradvocate.com/beer/profile/28276/204621/,Haninger Black,28276,Khaninskaya Pivovarnya,0,0
+582,4.30,203598,https://www.beeradvocate.com/beer/profile/28384/203598/,Kosoukhov Dark Star,28384,"Private Brewery ""Kosouhoff"" (Частная Пивоваренная Компания ""Косоухофф"")",0,0
+583,4.90,205391,https://www.beeradvocate.com/beer/profile/24810/205391/,Yemyelya Tyomnoye,24810,Lakinskiy Pivzavod,0,0
+584,7.50,205392,https://www.beeradvocate.com/beer/profile/24810/205392/,Yemyelya Kryepkoye,24810,Lakinskiy Pivzavod,0,0
+585,6.00,162387,https://www.beeradvocate.com/beer/profile/13640/162387/,Xirdalan Qara,13640,Baltika-Baku,0,0
+586,6.00,234581,https://www.beeradvocate.com/beer/profile/5512/234581/,VIVA HEL Ciemne,5512,Browar Krajan,0,0
+587,4.40,203606,https://www.beeradvocate.com/beer/profile/28384/203606/,Bryeggir Tyomnoye,28384,"Private Brewery ""Kosouhoff"" (Частная Пивоваренная Компания ""Косоухофф"")",0,0
+588,5.00,153174,https://www.beeradvocate.com/beer/profile/34644/153174/,Černé Pivo,34644,Outliers Brewing Company,0,0
+589,5.00,300889,https://www.beeradvocate.com/beer/profile/5316/300889/,Sesion Negra,5316,Full Sail Brewery & Tasting Room & Pub,0,0
+590,4.50,204635,https://www.beeradvocate.com/beer/profile/5430/204635/,Bir Vyechyernyeye,5430,Kolos OAO/ Ledyanoy Stakanchik,0,0
+591,4.40,204638,https://www.beeradvocate.com/beer/profile/5430/204638/,Yevropa Plyus Sakhalin,5430,Kolos OAO/ Ledyanoy Stakanchik,0,0
+592,4.10,206174,https://www.beeradvocate.com/beer/profile/28246/206174/,Domashnyeye Tyomnoye,28246,Марксовский Пивзавод (Marxovskiy Pivzavod),0,0
+593,4.70,204639,https://www.beeradvocate.com/beer/profile/5430/204639/,Gryechishnoye,5430,Kolos OAO/ Ledyanoy Stakanchik,0,0
+594,5.20,205407,https://www.beeradvocate.com/beer/profile/40578/205407/,Dyeryevyenskiy Kozyol Tyomnoye,40578,ZPP Kozhevnikovo / Nikitas Brewery,0,0
+595,4.50,206178,https://www.beeradvocate.com/beer/profile/28246/206178/,Chyeshskoye Tyomnoye Nyefiltrovannoye,28246,Марксовский Пивзавод (Marxovskiy Pivzavod),0,0
+596,4.50,204644,https://www.beeradvocate.com/beer/profile/28284/204644/,Starodub Chyornoye,28284,Kovrovskaya Pivovarennaya Kompaniya Lyubets,0,0
+597, ? ,166250,https://www.beeradvocate.com/beer/profile/39929/166250/,Heuk-Saeng-Maekju,39929,Koryo Hotel Microbrewery,0,0
+598,4.10,265323,https://www.beeradvocate.com/beer/profile/1735/265323/,Amber Beer Captain Dark,1735,Gambrinus,0,0
+599,5.00,155244,https://www.beeradvocate.com/beer/profile/27017/155244/,3 IESALU,27017,Lacpleša Alus,0,0
+600, ? ,205686,https://www.beeradvocate.com/beer/profile/6484/205686/,Rytsar Primorya Tyomnoye,6484,Pivovariya Moskva-Efes ZAO,0,0
+601, ? ,203640,https://www.beeradvocate.com/beer/profile/28319/203640/,Atya Tyomnoye,28319,"Artemovskiy Zavod ""VikBeer""",0,0
+602,4.10,265341,https://www.beeradvocate.com/beer/profile/47528/265341/,Pryeobrazhenskoye Barkhatnoye (Преображенское Бархатное),47528,Alpina (Альпина),0,0
+603,4.70,226174,https://www.beeradvocate.com/beer/profile/44038/226174/,Blueberry Doughnut,44038,Birdfish Brewing Company,0,0
+604,4.80,205695,https://www.beeradvocate.com/beer/profile/1742/205695/,Vladimirskoye Tyomnoye,1742,Vladimirskaya Pivovarnya,0,0
+605,4.40,203648,https://www.beeradvocate.com/beer/profile/28319/203648/,Walden Schloss Tyomnoye,28319,"Artemovskiy Zavod ""VikBeer""",0,0
+606,4.70,265345,https://www.beeradvocate.com/beer/profile/47528/265345/,Vyenskoye Originalnoye Tyomnoye (Венское Оригинальное Тёмное),47528,Alpina (Альпина),0,0
+607,4.80,205698,https://www.beeradvocate.com/beer/profile/1742/205698/,Vladimirskoye Eksportnoye Tyomnoye,1742,Vladimirskaya Pivovarnya,0,0
+608,4.50,204677,https://www.beeradvocate.com/beer/profile/24810/204677/,Lakinskoye Barkhatnoye,24810,Lakinskiy Pivzavod,0,0
+609,4.50,205447,https://www.beeradvocate.com/beer/profile/43370/205447/,Varnitsa Barkhatnoye,43370,"OOO ""Varnitza""",0,0
+610,5.00,164747,https://www.beeradvocate.com/beer/profile/39784/164747/,Pilsner Special,39784,Osterbrau,0,0
+611,4.50,205708,https://www.beeradvocate.com/beer/profile/1742/205708/,Chyeshskoye Granatovoye,1742,Vladimirskaya Pivovarnya,0,0
+612,5.50,205453,https://www.beeradvocate.com/beer/profile/43370/205453/,Chyeshskoye Tyomnoye,43370,"OOO ""Varnitza""",0,0
+613,4.70,164749,https://www.beeradvocate.com/beer/profile/39785/164749/,Alt Stadt Temnoe,39785,Pivzavod Tomin,0,0
+614,5.20,163215,https://www.beeradvocate.com/beer/profile/39524/163215/,Starapraga Dark,39524,Bakı-Praqa,0,0
+615,4.10,205971,https://www.beeradvocate.com/beer/profile/6305/205971/,Chyeshskoye Tyomnoye,6305,Vizit OAO,0,0
+616,4.70,204180,https://www.beeradvocate.com/beer/profile/43433/204180/,Bladbaher Tyomnoye,43433,Blad Baher,0,0
+617,4.00,205978,https://www.beeradvocate.com/beer/profile/6305/205978/,Prazhskoye Tyomnoye,6305,Vizit OAO,0,0
+618,4.60,205467,https://www.beeradvocate.com/beer/profile/28292/205467/,Volzhskaya Pivovarnya,28292,"OOO ""Zavod Trehsosenskiy""",0,0
+619,6.80,341403,https://www.beeradvocate.com/beer/profile/52593/341403/,Vetra Black,52593,Vetra,0,0
+620,4.50,205727,https://www.beeradvocate.com/beer/profile/36569/205727/,Khmel Boyarskoye,36569,"Restaurant-brewery ""Khmel' (Ресторан-Пивоварня ""Хмель"")",0,0
+621,4.00,205730,https://www.beeradvocate.com/beer/profile/7928/205730/,Zhivoye Tyomnoye,7928,"Russkaya Pivovarennaya Kompaniya ""Chmelyoff""",0,0
+622,6.70,198054,https://www.beeradvocate.com/beer/profile/9076/198054/,Era Ottantatre L'Ambrata,9076,Birreria Pedavena,0,0
+623,5.00,204198,https://www.beeradvocate.com/beer/profile/43433/204198/,Kendi Men,43433,Blad Baher,0,0
+624,4.50,232614,https://www.beeradvocate.com/beer/profile/22654/232614/,La Mousse Des Moines,22654,Bières De Saint-Louis,0,0
+625,4.10,205479,https://www.beeradvocate.com/beer/profile/28322/205479/,Barkhatnoye,28322,OOO ''Ussuriyskoe Pivo'',0,0
+626, ? ,205993,https://www.beeradvocate.com/beer/profile/1747/205993/,Vyatich Osoboye,1747,Vyatich,0,0
+627, ? ,163753,https://www.beeradvocate.com/beer/profile/34448/163753/,Fledermaus,34448,Pivovar Dalešice,0,0
+628,4.10,205482,https://www.beeradvocate.com/beer/profile/28317/205482/,Barkhatnoye,28317,OOO Bark,0,0
+629, ? ,163754,https://www.beeradvocate.com/beer/profile/34448/163754/,The Smoking Rabbit,34448,Pivovar Dalešice,0,0
+630,4.40,205483,https://www.beeradvocate.com/beer/profile/28317/205483/,Beiner #2,28317,OOO Bark,0,0
+631,5.50,341675,https://www.beeradvocate.com/beer/profile/50536/341675/,Tamsus Miškas,50536,D.Krikščiūno IĮ,0,0
+632,4.10,205485,https://www.beeradvocate.com/beer/profile/28317/205485/,Malta Tyomnoye,28317,OOO Bark,0,0
+633, ? ,189357,https://www.beeradvocate.com/beer/profile/3043/189357/,Tolkien's House Beer,3043,Brauerei Hirt GmbH,0,0
+634, ? ,307886,https://www.beeradvocate.com/beer/profile/46947/307886/,Short Flight,46947,Flying Boat Brewing Company,0,0
+635,4.10,205487,https://www.beeradvocate.com/beer/profile/28317/205487/,Tayozhnoye,28317,OOO Bark,0,0
+636,4.40,205488,https://www.beeradvocate.com/beer/profile/28317/205488/,Mongol,28317,OOO Bark,0,0
+637,5.00,55481,https://www.beeradvocate.com/beer/profile/21680/55481/,Kobber & Karamel,21680,Stensbogaard Bryghus,0,0
+638,4.40,246714,https://www.beeradvocate.com/beer/profile/14991/246714/,Konrad Kapucín,14991,Pivovar Konrad / Pivovar Hols,0,0
+639,4.30,203964,https://www.beeradvocate.com/beer/profile/1429/203964/,Barkhatnoye,1429,Barnaul Brewery,0,0
+640,4.10,166076,https://www.beeradvocate.com/beer/profile/39914/166076/,Toroz Temnoye,39914,Bear Beer,0,0
+641,4.00,176060,https://www.beeradvocate.com/beer/profile/11065/176060/,Sandels Tumma Lager,11065,Olvi Oyj,0,0
+642,4.80,205757,https://www.beeradvocate.com/beer/profile/5428/205757/,Okhotskoye Osoboye,5428,Severnaya Zvezda,0,0
+643,5.50,203969,https://www.beeradvocate.com/beer/profile/1429/203969/,Chyeshskoye Tyomnoye,1429,Barnaul Brewery,0,0
+644,4.50,176065,https://www.beeradvocate.com/beer/profile/11065/176065/,Olvi Hiili,11065,Olvi Oyj,0,0
+645,6.00,206020,https://www.beeradvocate.com/beer/profile/6278/206020/,Fon Vakano Tyomnoye,6278,Zhigulovskiy Pivo-Byezalkogolniy Kombinat/U Vakano,0,0
+646,7.60,126148,https://www.beeradvocate.com/beer/profile/7015/126148/,Schwartzbockenator,7015,Babe's Bar-B-Que And Brewery,0,0
+647,6.50,143045,https://www.beeradvocate.com/beer/profile/36515/143045/,Flipside,36515,Mean Max Brew Works,0,0
+648, ? ,166092,https://www.beeradvocate.com/beer/profile/39919/166092/,Gem Draft Dark,39919,Gem International (ЖЕМ Интернэшнл),0,0
+649,4.10,205773,https://www.beeradvocate.com/beer/profile/31418/205773/,Barkhatnoye,31418,Siberia (Сибирь),0,0
+650,4.30,206036,https://www.beeradvocate.com/beer/profile/28283/206036/,Barkhatnoye,28283,Бочкаревский пивоваренный завод (Bochkarevskiy Pivovarennyi Zavod),0,0
+651,4.80,205531,https://www.beeradvocate.com/beer/profile/22216/205531/,Maltsov Elitnoye,22216,Pivobezalkogolnyi Zavod Gus'-Chrustalnyi,0,0
+652,4.10,203741,https://www.beeradvocate.com/beer/profile/1428/203741/,Faraon,1428,Balakovsky Brewery,0,0
+653,5.00,73437,https://www.beeradvocate.com/beer/profile/5083/73437/,Roel Linköpingsöl Mörk,5083,Roel Brewery,0,0
+654,5.00,126942,https://www.beeradvocate.com/beer/profile/35507/126942/,Best Black Gold (#11),35507,The Standeaven Brewery,0,0
+655,3.90,205536,https://www.beeradvocate.com/beer/profile/22382/205536/,Birhaus Zhivoye Tyomnoye,22382,Pivovarennaya Kompaniya Nord-West,0,0
+656,3.90,205537,https://www.beeradvocate.com/beer/profile/22382/205537/,Orlovskoye Zhivoye Tyomnoye,22382,Pivovarennaya Kompaniya Nord-West,0,0
+657,5.00,126949,https://www.beeradvocate.com/beer/profile/28307/126949/,Dark Lager,28307,Copper Lake Brewery,0,0
+658,5.80,205547,https://www.beeradvocate.com/beer/profile/6390/205547/,Samko-2,6390,Pivovarinniy Zavod Samko,0,0
+659,5.30,235500,https://www.beeradvocate.com/beer/profile/29757/235500/,I Am The Knight,29757,The Hourglass Brewery,0,0
+660,4.80,230131,https://www.beeradvocate.com/beer/profile/45658/230131/,Brink's Dark,45658,Brink's - Rethymnian Brewery S.A.,0,0
+661,5.80,314359,https://www.beeradvocate.com/beer/profile/31841/314359/,Better Than U,31841,Wooden Legs Brewing Company,0,0
+662,5.40,152828,https://www.beeradvocate.com/beer/profile/4685/152828/,Braunbier,4685,Hofbräuhaus Newport,0,0
+663,5.20,219134,https://www.beeradvocate.com/beer/profile/43883/219134/,Small Hours,43883,Rally King Brewing,0,0

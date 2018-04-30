@@ -1,0 +1,1031 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.30,808,https://www.beeradvocate.com/beer/profile/252/808/,Weihenstephaner Hefeweissbier Dunkel,252,Bayerische Staatsbrauerei Weihenstephan,"3,059",4.25
+1,5.00,924,https://www.beeradvocate.com/beer/profile/142/924/,Franziskaner Hefe-Weisse Dunkel,142,Spaten-Franziskaner-Bräu,"1,691",3.83
+2,5.40,45591,https://www.beeradvocate.com/beer/profile/143/45591/,Shiner Holiday Cheer,143,Spoetzl Brewery / Shiner,"1,632",3.56
+3,5.30,2041,https://www.beeradvocate.com/beer/profile/703/2041/,Erdinger Weissbier Dunkel,703,Erdinger Weissbräu,"1,390",3.75
+4,5.80,135,https://www.beeradvocate.com/beer/profile/39/135/,Ayinger Ur-Weisse,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,"1,180",4.09
+5,5.10,38366,https://www.beeradvocate.com/beer/profile/35/38366/,Samuel Adams Dunkelweizen,35,Boston Beer Company (Samuel Adams),867,3.49
+6,5.30,666,https://www.beeradvocate.com/beer/profile/76/666/,Hacker-Pschorr Dunkel Weisse (Weisse Dark),76,Hacker-Pschorr Bräu GmbH,509,3.99
+7,5.30,616,https://www.beeradvocate.com/beer/profile/176/616/,Julius Echter Hefe-Weissbier Dunkel,176,Würzburger Hofbräu AG,427,3.83
+8,5.30,3763,https://www.beeradvocate.com/beer/profile/124/3763/,Paulaner Hefe-Weissbier Dunkel,124,Paulaner Brauerei GmbH & Co. KG,355,3.85
+9,5.50,43929,https://www.beeradvocate.com/beer/profile/29/43929/,Michelob Dunkel Weisse,29,Anheuser-Busch,323,3.46
+10,5.70,281133,https://www.beeradvocate.com/beer/profile/140/281133/,Beer Camp Across The World: Dunkle Weisse,140,Sierra Nevada Brewing Co.,316,3.91
+11,5.00,3994,https://www.beeradvocate.com/beer/profile/911/3994/,Andechs Weissbier Dunkel,911,Klosterbrauerei Andechs,298,3.97
+12,5.35,370,https://www.beeradvocate.com/beer/profile/129/370/,Tucher Dunkles Hefe Weizen,129,Brauerei Tucher Brau,284,3.8
+13,5.40,17140,https://www.beeradvocate.com/beer/profile/412/17140/,Kapuziner Schwarz-Weizen,412,Kulmbacher Brauerei AG,262,3.73
+14,5.40,70516,https://www.beeradvocate.com/beer/profile/24764/70516/,Winged Nut,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,224,3.62
+15,6.60,75797,https://www.beeradvocate.com/beer/profile/25888/75797/,Black Walnut Dunkel,25888,Perennial Artisan Ales,215,3.83
+16,5.00,30173,https://www.beeradvocate.com/beer/profile/6143/30173/,Moosbacher Schwarze Weisse,6143,Private Landbrauerei Scheuerer,134,3.5
+17,4.70,50473,https://www.beeradvocate.com/beer/profile/684/50473/,Leavenworth Boulder Bend Dunkelweizen,684,Fish Brewing Company / Fishbowl Brewpub,128,3.29
+18,6.00,49354,https://www.beeradvocate.com/beer/profile/605/49354/,Bayern Dragon's Breath,605,"Bayern Brewing, Inc. / Edelweiss Bistro",123,3.57
+19,5.40,26654,https://www.beeradvocate.com/beer/profile/143/26654/,Shiner Dunkelweizen,143,Spoetzl Brewery / Shiner,105,3.35
+20,5.40,34373,https://www.beeradvocate.com/beer/profile/585/34373/,Maisel's Weisse Dunkel,585,Brauerei Gebrüder Maisel GmbH & Co.,104,3.72
+21,5.50,47862,https://www.beeradvocate.com/beer/profile/3900/47862/,König Ludwig Weissbier Dunkel,3900,Kaltenberg International / König Ludwig International GmbH & Co.KG,100,3.82
+22,5.50,2617,https://www.beeradvocate.com/beer/profile/607/2617/,Ramstein Classic,607,High Point Brewing Company,97,3.78
+23,5.10,11265,https://www.beeradvocate.com/beer/profile/4686/11265/,Hofbräu Schwarze Weisse,4686,Hofbräuhaus München,92,3.77
+24,5.30,6968,https://www.beeradvocate.com/beer/profile/1315/6968/,Weltenburger Hefe-Weissbier Dunkel,1315,Klosterbrauerei Weltenburg,89,3.65
+25,5.00,3672,https://www.beeradvocate.com/beer/profile/1357/3672/,Hopf Dunkle Weisse,1357,Weissbierbrauerei Hopf,89,3.72
+26,5.20,87765,https://www.beeradvocate.com/beer/profile/29021/87765/,Dunks Ferry Dunkelweizen,29021,Neshaminy Creek Brewing Company,80,3.62
+27,5.00,106814,https://www.beeradvocate.com/beer/profile/661/106814/,Muskoka Winter Weiss,661,Muskoka Brewery,79,3.7
+28,5.20,22158,https://www.beeradvocate.com/beer/profile/1551/22158/,Gordon Biersch Dunkelweizen,1551,Gordon Biersch Brewery Restaurant,77,3.89
+29,5.00,7400,https://www.beeradvocate.com/beer/profile/290/7400/,Schöfferhofer Dunkles Hefeweizen,290,Binding-Brauerei AG,76,3.66
+30,5.50,34536,https://www.beeradvocate.com/beer/profile/1151/34536/,Dark 'n Curvy,1151,Piece Brewery & Pizzeria,73,4
+31,6.00,22191,https://www.beeradvocate.com/beer/profile/526/22191/,Texels Skuumkoppe,526,Texelse Bierbrouwerij,67,3.59
+32,7.50,101653,https://www.beeradvocate.com/beer/profile/13014/101653/,El Hefe Negro,13014,Surly Brewing Company,63,3.86
+33, ? ,69524,https://www.beeradvocate.com/beer/profile/4686/69524/,Hofbrau Hefe Weisse Dunkel,4686,Hofbräuhaus München,60,4.08
+34,5.50,1257,https://www.beeradvocate.com/beer/profile/84/1257/,Edelweiss Dunkel Weissbier,84,Hofbräu Kaltenhausen (Brau Union),57,3.86
+35,4.20,85405,https://www.beeradvocate.com/beer/profile/29666/85405/,Dunkelweiss,29666,Prost Brewing Company,54,3.86
+36,5.40,114970,https://www.beeradvocate.com/beer/profile/2432/114970/,Benediktiner Weissbier Dunkel,2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,51,3.72
+37,4.65,53875,https://www.beeradvocate.com/beer/profile/144/53875/,Dunkle Weizen,144,Sprecher Brewing Company,51,3.47
+38,5.30,175631,https://www.beeradvocate.com/beer/profile/703/175631/,Erdinger Hefe-Weizen Dunkel,703,Erdinger Weissbräu,50,3.81
+39,4.80,8727,https://www.beeradvocate.com/beer/profile/3694/8727/,Unertl Weissbier,3694,Unertl Weissbier GmbH,50,3.82
+40,6.90,62821,https://www.beeradvocate.com/beer/profile/19213/62821/,Dunkelweizen,19213,Blue Hills Brewery,48,3.55
+41,10.00,120156,https://www.beeradvocate.com/beer/profile/17033/120156/,Triple Dunkel,17033,Franconia Brewing Company,47,3.97
+42,6.00,21329,https://www.beeradvocate.com/beer/profile/596/21329/,Portsmouth Winter Weizen,596,Portsmouth Brewery,45,4.13
+43,5.40,11105,https://www.beeradvocate.com/beer/profile/3182/11105/,Fürstenberg Weizen Hefe Dunkel,3182,Fürstlich Fürstenbergische Brauerei KG,44,3.43
+44,5.50,78818,https://www.beeradvocate.com/beer/profile/607/78818/,Ramstein Dunkel Hefe-Weizen,607,High Point Brewing Company,44,3.6
+45,5.00,198309,https://www.beeradvocate.com/beer/profile/6129/198309/,Eaglebrau Weizenbier Dunkel,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,43,3.58
+46,5.20,17713,https://www.beeradvocate.com/beer/profile/620/17713/,Dunkler Hirsch Allgäuer Weizen,620,Der HirschBrau/Privatbrauerei Höss,38,3.66
+47,6.00,21647,https://www.beeradvocate.com/beer/profile/2304/21647/,Vùdù,2304,Birrificio Italiano,37,4.05
+48, ? ,4584,https://www.beeradvocate.com/beer/profile/1623/4584/,Steingadener Weisse Dunkel,1623,Aktienbrauerei Kaufbeuren AG,36,3.29
+49,5.30,98479,https://www.beeradvocate.com/beer/profile/383/98479/,Dunkelweizen,383,Live Oak Brewing Company,35,3.82
+50,6.00,6049,https://www.beeradvocate.com/beer/profile/596/6049/,Portsmouth Dunkelweizen,596,Portsmouth Brewery,34,3.74
+51,5.40,65116,https://www.beeradvocate.com/beer/profile/5581/65116/,Veldensteiner Dunkles Weißbier,5581,Kaiser Bräu GmbH & Co KG,33,3.58
+52,6.25,23094,https://www.beeradvocate.com/beer/profile/2097/23094/,Kuhnhenn Iron Monger Dunkel,2097,Kuhnhenn Brewing Company,31,3.7
+53,5.40,87914,https://www.beeradvocate.com/beer/profile/29022/87914/,Doomsday,29022,Evil Genius Beer Company,31,3.16
+54,5.00,71800,https://www.beeradvocate.com/beer/profile/391/71800/,Big Rock Dunkelwizen (Kasper Shultz Line),391,Big Rock Brewery,31,3.27
+55,4.90,4286,https://www.beeradvocate.com/beer/profile/1539/4286/,Original Oettinger Dunkles Hefeweissbier,1539,Oettinger International Getränke-Vertriebs GmbH,31,3.23
+56,5.00,26613,https://www.beeradvocate.com/beer/profile/596/26613/,Portsmouth Smoked Dunkelweizen,596,Portsmouth Brewery,31,3.98
+57,5.00,76121,https://www.beeradvocate.com/beer/profile/14349/76121/,Winter Dunkel,14349,Whistler Brewing Company,30,3.46
+58,8.00,64588,https://www.beeradvocate.com/beer/profile/4048/64588/,Bob's Your Dunkel,4048,Mt. Begbie Brewing Co.,29,3.78
+59,6.30,139937,https://www.beeradvocate.com/beer/profile/15435/139937/,Boghopper,15435,Beau's All Natural Brewing Company,28,3.85
+60,5.30,73501,https://www.beeradvocate.com/beer/profile/3341/73501/,Valentins Hefeweissbier Dunkel,3341,Park & Bellheimer AG,26,3.32
+61,5.40,78928,https://www.beeradvocate.com/beer/profile/27400/78928/,Skylight Dunkelweizen,27400,New Republic Brewing Company,26,3.66
+62,5.50,65668,https://www.beeradvocate.com/beer/profile/21635/65668/,Smokey,21635,Jailhouse Brewing Company,25,3.76
+63,5.50,56970,https://www.beeradvocate.com/beer/profile/15189/56970/,D'Icer,15189,Big Boss Brewing,25,3.66
+64,5.00,125595,https://www.beeradvocate.com/beer/profile/35359/125595/,Volkan Santorini Black,35359,Volkan,25,3.48
+65,5.20,8910,https://www.beeradvocate.com/beer/profile/3686/8910/,Kuchlbauer Alte Liebe Dunkle Weisse,3686,Weissbierbrauerei Kuchlbauer,25,3.41
+66,7.50,41437,https://www.beeradvocate.com/beer/profile/2455/41437/,Dunkle Witte (Dark & White),2455,French Broad Brewing Co.,24,3.76
+67,7.80,128328,https://www.beeradvocate.com/beer/profile/34963/128328/,Thunder Kiss,34963,New Braunfels Brewing Company,22,3.6
+68,5.70,107096,https://www.beeradvocate.com/beer/profile/33476/107096/,Brown Pelican,33476,3 Daughters Brewing,22,3.47
+69,4.90,23979,https://www.beeradvocate.com/beer/profile/3340/23979/,Sanwald Dunkel Weizen,3340,Dinkelacker-Schwabenbraeu AG,22,3.56
+70,5.50,114777,https://www.beeradvocate.com/beer/profile/34141/114777/,Kommandant Lassard,34141,Stubborn Beauty Brewing Company,21,3.78
+71,4.00,191717,https://www.beeradvocate.com/beer/profile/41924/191717/,Peanut Butter Back 40,41924,Lionstone Brewing,21,3.54
+72,4.80,52788,https://www.beeradvocate.com/beer/profile/6045/52788/,Dunkelweizen,6045,Iron Hill Brewery & Restaurant,20,3.83
+73,5.50,27502,https://www.beeradvocate.com/beer/profile/781/27502/,Steam Punk (Dunkelwiezenbrau),781,Longwood Brewpub & Restaurant,20,3.47
+74,5.70,116868,https://www.beeradvocate.com/beer/profile/28018/116868/,Rapp Bastard,28018,Rapp Brewing Company,20,3.83
+75, ? ,81043,https://www.beeradvocate.com/beer/profile/26607/81043/,Dunkelweizen,26607,Occidental Brewing Co.,20,3.96
+76,5.20,38119,https://www.beeradvocate.com/beer/profile/9151/38119/,Faust Hefeweizen Dunkel,9151,Brauhaus Faust-Miltenberger,20,4.09
+77,5.00,125374,https://www.beeradvocate.com/beer/profile/18223/125374/,Dva Klasa,18223,Pivnica Medvedgrad Adijina,19,3.52
+78,6.20,184035,https://www.beeradvocate.com/beer/profile/4408/184035/,Dunkulele,4408,RJ Rockers Brewing Company,19,3.76
+79,5.10,37422,https://www.beeradvocate.com/beer/profile/3426/37422/,Keiler Dunkel Weissbier,3426,Lohrer Bier/Privatbrauerei Stumpf GmbH,18,3.74
+80,5.33,302209,https://www.beeradvocate.com/beer/profile/6129/302209/,Holzknecht,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,18,3.67
+81,5.40,22439,https://www.beeradvocate.com/beer/profile/1666/22439/,Dunkelweizen,1666,Selin's Grove Brewing Company,18,3.93
+82,5.30,18627,https://www.beeradvocate.com/beer/profile/5709/18627/,Arcobräu Weissbier Dunkel,5709,Arcobräu Gräfliches Brauhaus,18,3.4
+83, ? ,37111,https://www.beeradvocate.com/beer/profile/603/37111/,Church Brew Dunkel Weizen,603,Church Brew Works,18,3.76
+84,5.40,86574,https://www.beeradvocate.com/beer/profile/28510/86574/,Witching Hour,28510,Relic Brewing Co.,17,3.88
+85,7.00,187248,https://www.beeradvocate.com/beer/profile/42042/187248/,DfDub,42042,Oak Highlands Brewery,17,3.67
+86,6.10,203241,https://www.beeradvocate.com/beer/profile/416/203241/,Waterloo Spiced Dunkel,416,Brick Brewing Co.,17,3.51
+87,4.00,109411,https://www.beeradvocate.com/beer/profile/28908/109411/,Snowbird Dunkelweizen,28908,Utah Brewers Cooperative,16,3.82
+88,5.50,77801,https://www.beeradvocate.com/beer/profile/472/77801/,Leikeim Dunkle Weisse,472,Brauerei Leikeim,16,3.42
+89,5.80,95295,https://www.beeradvocate.com/beer/profile/28018/95295/,Dunkelweizen,28018,Rapp Brewing Company,15,3.77
+90,5.10,34412,https://www.beeradvocate.com/beer/profile/9792/34412/,Slam Dunkelweizen,9792,Natty Greene's Pub & Brewing Co.,15,3.52
+91,5.50,27862,https://www.beeradvocate.com/beer/profile/6078/27862/,Scheyern Kloster-Weisse Dunkel,6078,Klosterbrauerei Scheyern,15,3.59
+92,5.30,87520,https://www.beeradvocate.com/beer/profile/1475/87520/,Five-Hole Winter Wheat,1475,Maumee Bay Brewing Company,15,3.65
+93,5.20,40928,https://www.beeradvocate.com/beer/profile/7209/40928/,Gutmann Dunkles Hefeweizen,7209,Brauerei Fritz Gutmann,15,3.9
+94,6.40,74218,https://www.beeradvocate.com/beer/profile/23572/74218/,Uncle Krunkle's Dunkelweizen,23572,Cellar Brewing Company,15,3.41
+95,7.30,141802,https://www.beeradvocate.com/beer/profile/18564/141802/,Dunkelweizen,18564,Upslope Brewing Company - Lee Hill,15,4.01
+96,5.20,7422,https://www.beeradvocate.com/beer/profile/2629/7422/,Alpirsbacher Klosterbräu Weizen Hefe-Dunkel,2629,Alpirsbacher Klosterbräu,15,3.76
+97,6.70,129792,https://www.beeradvocate.com/beer/profile/1001/129792/,Honey Badger,1001,Firehouse Brewing Co.,14,3.45
+98,5.00,200523,https://www.beeradvocate.com/beer/profile/6129/200523/,Winter Weisse,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,14,3.46
+99,4.60,88671,https://www.beeradvocate.com/beer/profile/29971/88671/,Dunkelweizen,29971,Vault Brewing Company,14,3.79
+100,5.10,14998,https://www.beeradvocate.com/beer/profile/5755/14998/,Bischofshof Dunkelweizen,5755,Brauerei Bischofshof,14,3.46
+101,5.30,140197,https://www.beeradvocate.com/beer/profile/36817/140197/,Dunkelweizen,36817,4204 Main Street Brewing Co.,14,3.77
+102,4.40,139992,https://www.beeradvocate.com/beer/profile/36781/139992/,Uncle Tyson's Dunkelweizen,36781,Lena Brewing Company,14,3.59
+103,5.00,89849,https://www.beeradvocate.com/beer/profile/3722/89849/,Nelligan,3722,"Le Bilboquet, Brasseur Artisan",14,3.53
+104,4.80,29715,https://www.beeradvocate.com/beer/profile/5562/29715/,Vetter's Dunkles Hefeweizen,5562,Vetter Alt Heidelberger Brauhaus Neuenheim,13,3.87
+105,5.70,135973,https://www.beeradvocate.com/beer/profile/32326/135973/,Gretel,32326,Tapistry Brewing,13,3.79
+106,5.80,9861,https://www.beeradvocate.com/beer/profile/3694/9861/,Unertl Ursud,3694,Unertl Weissbier GmbH,13,3.74
+107,5.00,41461,https://www.beeradvocate.com/beer/profile/5850/41461/,Riegele Alte Weisse,5850,Brauhaus Riegele,13,3.7
+108,5.40,53757,https://www.beeradvocate.com/beer/profile/9602/53757/,Dunkel Weizen,9602,Cape Cod Beer,13,3.71
+109,5.40,8994,https://www.beeradvocate.com/beer/profile/3689/8994/,Huber Weisses Dunkel,3689,Hofbrauhaus Freising,12,3.65
+110,8.30,194116,https://www.beeradvocate.com/beer/profile/31326/194116/,Dunkelwald,31326,HammerHeart Brewing Company,12,4.13
+111,5.20,15686,https://www.beeradvocate.com/beer/profile/921/15686/,Falkensteiner Ur-Schwarze,921,Privatbrauerei Bischoff,12,3.38
+112,5.00,69967,https://www.beeradvocate.com/beer/profile/17286/69967/,Black Mak,17286,Zeos Brewing Company S.A.,12,2.92
+113,4.80,5228,https://www.beeradvocate.com/beer/profile/1000/5228/,Brewer's Alley Dunkel Weizen,1000,Brewer's Alley Restaurant & Brewery,12,4.1
+114,5.50,51605,https://www.beeradvocate.com/beer/profile/569/51605/,Gusta Dark,569,Anadolu Efes Brewery,12,2.76
+115,5.50,92600,https://www.beeradvocate.com/beer/profile/30585/92600/,Dunkelweizen,30585,Bog Iron Brewing,12,3.77
+116,5.00,30142,https://www.beeradvocate.com/beer/profile/1337/30142/,Junkel In Da Trunkel Dunkel,1337,Pizza Port Solana Beach,12,3.79
+117, ? ,36880,https://www.beeradvocate.com/beer/profile/14207/36880/,Effin' Beer,14207,Sprague Farm & Brew Works,11,3.76
+118,5.20,212503,https://www.beeradvocate.com/beer/profile/35695/212503/,Smoked Dunkelweizen,35695,Steel & Oak Brewing Co.,11,3.71
+119,5.10,255025,https://www.beeradvocate.com/beer/profile/45802/255025/,Dunkelweizen,45802,Dovetail Brewery,11,3.82
+120,5.30,49798,https://www.beeradvocate.com/beer/profile/18086/49798/,Dunkel John's Band,18086,The Run of the Mill Public House & Brewery,11,3.69
+121, ? ,31394,https://www.beeradvocate.com/beer/profile/2642/31394/,Dunkleweizen,2642,North by Northwest Restaurant & Brewery,11,3.57
+122,5.30,93945,https://www.beeradvocate.com/beer/profile/16422/93945/,Durlacher Hof Hefeweissbier Dunkel,16422,Frankenthaler Brauhaus,11,3.34
+123,6.50,228099,https://www.beeradvocate.com/beer/profile/36710/228099/,Dark Horizon,36710,J. Wakefield Brewing,10,3.77
+124,5.00,35082,https://www.beeradvocate.com/beer/profile/9558/35082/,Brown's Dunkel Weizen,9558,Brown's Brewing Company,10,3.73
+125,6.00,121363,https://www.beeradvocate.com/beer/profile/18639/121363/,Rapscallion Munich Dark,18639,Rapscallion,10,3.92
+126, ? ,90424,https://www.beeradvocate.com/beer/profile/29171/90424/,Dunkelweiz,29171,Saddlebock Brewery,10,4.17
+127,5.20,132939,https://www.beeradvocate.com/beer/profile/36177/132939/,The Kunkel,36177,TwoDEEP Brewing Co.,10,4.11
+128,5.20,72011,https://www.beeradvocate.com/beer/profile/22886/72011/,Darth Vernal Dunkelweizen,22886,Equinox Brewing Company,10,3.78
+129,5.20,111700,https://www.beeradvocate.com/beer/profile/19544/111700/,Dunkleosteus,19544,Fat Head's Brewery & Saloon,10,3.67
+130,5.10,37463,https://www.beeradvocate.com/beer/profile/73/37463/,Lorelei,73,Great Lakes Brewing Co.,10,3.73
+131,5.20,41048,https://www.beeradvocate.com/beer/profile/11611/41048/,Chevalier Hefeweizen Dunkel,11611,Bridge Road Brewers,10,3.48
+132,5.50,42101,https://www.beeradvocate.com/beer/profile/871/42101/,Thurn Und Taxis Weissbier Dunkel,871,Thurn Und Taxis Regensburg Gmbh Fürstliche Brauerei,10,3.69
+133,5.80,172418,https://www.beeradvocate.com/beer/profile/1535/172418/,Belle Gueule Dunkelweizen,1535,Brasseurs R.J.,10,3.76
+134,5.00,202698,https://www.beeradvocate.com/beer/profile/6129/202698/,König Wilhelm Ur-Weisse Dunkel,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,10,3.52
+135,5.00,26836,https://www.beeradvocate.com/beer/profile/5784/26836/,Karg Dunkles Hefe-Weißbier,5784,Brauerei Karg,10,3.71
+136,5.00,13536,https://www.beeradvocate.com/beer/profile/890/13536/,Allgäuer Alt Kemptener Weisse,890,Allgäuer Brauhaus AG,10,3.23
+137,4.40,103919,https://www.beeradvocate.com/beer/profile/28873/103919/,Half Moon Dunkel Weiss,28873,Dragoon Brewing Co.,10,3.56
+138,5.00,186357,https://www.beeradvocate.com/beer/profile/39622/186357/,Bocanegra Dunkel Weizen,39622,Cerveza Bocanegra,10,3.27
+139,4.90,54062,https://www.beeradvocate.com/beer/profile/6627/54062/,Justus Weizen Dunkel,6627,Pfungstädter Brauerei,9,3.74
+140,4.70,142488,https://www.beeradvocate.com/beer/profile/34963/142488/,Wicked Fuel,34963,New Braunfels Brewing Company,9,3.16
+141,5.30,7105,https://www.beeradvocate.com/beer/profile/226/7105/,Dunkelweizen,226,Nashoba Valley Brewery,9,2.65
+142,5.30,220100,https://www.beeradvocate.com/beer/profile/176/220100/,Julius Echter Weisbier Dunkel,176,Würzburger Hofbräu AG,9,3.66
+143,6.00,104400,https://www.beeradvocate.com/beer/profile/24411/104400/,Dunkleweizen,24411,The Bier Brewery,9,3.88
+144,4.50,46032,https://www.beeradvocate.com/beer/profile/1177/46032/,Dunkleweizen,1177,Minneapolis Town Hall Brewery,9,3.8
+145,6.20,46547,https://www.beeradvocate.com/beer/profile/2321/46547/,Craftsman Dunkleweisse,2321,Craftsman Brewing Co.,9,3.69
+146,6.00,93191,https://www.beeradvocate.com/beer/profile/28821/93191/,Vixen Dunkelweizen,28821,Stumblefoot Brewing Company,8,3.45
+147,6.00,63506,https://www.beeradvocate.com/beer/profile/20132/63506/,Kaput Mauer,20132,Les Brasseurs Du Temps,8,3.72
+148,5.40,84256,https://www.beeradvocate.com/beer/profile/16818/84256/,Dunkel-Weizen,16818,Berwick Brewing Company,8,3.76
+149,5.00,23605,https://www.beeradvocate.com/beer/profile/11338/23605/,Ozeno Yukidoke Brown Weizen,11338,"Ryujin Shuzo Co,. Ltd.",8,3.63
+150, ? ,37458,https://www.beeradvocate.com/beer/profile/12/37458/,Dunkel Weizen,12,John Harvard's Brewery & Ale House,8,4.01
+151,6.00,127829,https://www.beeradvocate.com/beer/profile/129/127829/,Sebaldus Weizen Nürnberg Dunkles Hefe,129,Brauerei Tucher Brau,8,3.85
+152, ? ,71512,https://www.beeradvocate.com/beer/profile/25957/71512/,Pearl Street P.M.,25957,Market Garden Brewery,8,3.61
+153,6.00,181633,https://www.beeradvocate.com/beer/profile/11341/181633/,Chocolate Banana Dunkelweizen,11341,Hideout Brewing Company,8,3.06
+154,6.40,128899,https://www.beeradvocate.com/beer/profile/34748/128899/,Dunkelschizer,34748,Imperial Oak Brewing,8,3.8
+155,5.10,101000,https://www.beeradvocate.com/beer/profile/5752/101000/,Aldersbacher Kloster Weisse Dunkel,5752,Brauerei Aldersbach,8,3.88
+156, ? ,87448,https://www.beeradvocate.com/beer/profile/26548/87448/,Fresh Hop Slam Dunk,26548,Rolling Meadows Farm Brewery,8,3.54
+157,5.20,28582,https://www.beeradvocate.com/beer/profile/95/28582/,Löwenbräu Schwarze Weisse,95,Löwenbräu AG,8,3.76
+158,5.00,79552,https://www.beeradvocate.com/beer/profile/15697/79552/,Sein Desprit Dunkelweizen,15697,Broadway Pub,8,3.48
+159,5.40,102368,https://www.beeradvocate.com/beer/profile/16393/102368/,Mission Dunkelweizen,16393,Mission Brewery,8,3.81
+160, ? ,25319,https://www.beeradvocate.com/beer/profile/4832/25319/,Dunkel Weizen,4832,Triumph Brewing Company,8,3.62
+161,5.70,37880,https://www.beeradvocate.com/beer/profile/451/37880/,Moat Dunkel Weizen,451,Moat Mountain Smoke House & Brewing Co.,8,3.62
+162,5.20,148249,https://www.beeradvocate.com/beer/profile/34781/148249/,Dunkelweizen,34781,Smithavens Brewing Company,7,3.34
+163,6.50,66330,https://www.beeradvocate.com/beer/profile/12520/66330/,Mojo A'Peel,12520,Sherbrooke Liquor Store,7,3.9
+164,5.50,70938,https://www.beeradvocate.com/beer/profile/1169/70938/,Dread Pirate Dunkelweizen,1169,Fitger's Brewhouse,7,4.1
+165,5.30,150043,https://www.beeradvocate.com/beer/profile/2431/150043/,Valentins Weissbier Dunkel,2431,Privatbrauerei Eichbaum GmbH & Co. KG,7,3.03
+166,5.10,28189,https://www.beeradvocate.com/beer/profile/1754/28189/,Dunkelweizen,1754,Stewart's Brewing Co.,7,3.66
+167,4.50,69674,https://www.beeradvocate.com/beer/profile/25436/69674/,Biergarden Dunkel,25436,Copper Kettle Brewing Company,7,3.71
+168,5.30,36660,https://www.beeradvocate.com/beer/profile/15280/36660/,Atwater Dunkelweizen,15280,Atwater Brewery,7,3.46
+169, ? ,12377,https://www.beeradvocate.com/beer/profile/5408/12377/,High Point Dunkel,5408,Herkimer Pub & Brewery,7,3.31
+170,6.90,308600,https://www.beeradvocate.com/beer/profile/26/308600/,War of Varus,26,3 Floyds Brewing Co.,7,3.9
+171,5.20,62589,https://www.beeradvocate.com/beer/profile/6834/62589/,Baisinger Teufels Weisse Dunkles Hefe,6834,Baisinger BierManufaktur Familie Teufel,7,3.77
+172,5.40,150407,https://www.beeradvocate.com/beer/profile/35494/150407/,Dunkelweuzen,35494,Black Cap Brewing Company,7,3.62
+173,5.00,10410,https://www.beeradvocate.com/beer/profile/1341/10410/,Dunkelweizen,1341,J.J. Bitting Brewing Company,7,3.9
+174,5.50,118702,https://www.beeradvocate.com/beer/profile/30/118702/,Liebenweizen ,30,Avery Brewing Company,7,3.82
+175,5.20,17843,https://www.beeradvocate.com/beer/profile/2470/17843/,Ringneck Dunkel Weizen,2470,The Brew Kettle Taproom & Smokehouse / Production Works,7,4.11
+176,5.20,113850,https://www.beeradvocate.com/beer/profile/32952/113850/,Dunkelweizen,32952,Three Notch'd Brewing Company,7,3.51
+177,5.70,108230,https://www.beeradvocate.com/beer/profile/31805/108230/,Gunkle's Weiss,31805,Funky Buddha Brewery,7,3.57
+178,5.30,12500,https://www.beeradvocate.com/beer/profile/1652/12500/,Herrnbräu Hefe-Weißbier Dunkel,1652,Herrnbräu Bürgerliches Brauhaus Ingolstadt,7,3.69
+179,5.50,104409,https://www.beeradvocate.com/beer/profile/28569/104409/,Dunkel Weiss,28569,Obed & Isaac's Microbrewery & Eatery,7,3.57
+180, ? ,20191,https://www.beeradvocate.com/beer/profile/987/20191/,Sandlot Wild Pitch Dunkelweizen,987,SandLot Brewery @ Coors Field (Blue Moon Brewing Company),7,4.05
+181,5.50,9706,https://www.beeradvocate.com/beer/profile/3900/9706/,Prinzregent Luitpold Weissbier Dunkel,3900,Kaltenberg International / König Ludwig International GmbH & Co.KG,7,3.77
+182,7.00,168938,https://www.beeradvocate.com/beer/profile/611/168938/,Long Nights Dunkelweizen,611,Wagner Valley Brewing Co.,7,4.03
+183,5.00,170734,https://www.beeradvocate.com/beer/profile/34069/170734/,Dunkelweizen,34069,Kansas City Bier Company,7,4.01
+184,4.50,60398,https://www.beeradvocate.com/beer/profile/18680/60398/,Dunkel Weiss,18680,Milwaukee Brewing Company,7,3.79
+185,5.00,77822,https://www.beeradvocate.com/beer/profile/34719/77822/,Longbeard Winter Wheat,34719,Bank Brewing Co.,7,3.52
+186,5.30,148780,https://www.beeradvocate.com/beer/profile/30746/148780/,Wild Rice Dunkel,30746,612 Brew,6,3.58
+187,5.30,82540,https://www.beeradvocate.com/beer/profile/507/82540/,Gulpener Ur Amber Biologisch,507,Gulpener Bierbrouwerij B.V.,6,3.24
+188,5.00,99188,https://www.beeradvocate.com/beer/profile/7285/99188/,Rieder Dunkle Weisse,7285,Brauerei Ried,6,3.93
+189,5.50,50809,https://www.beeradvocate.com/beer/profile/235/50809/,Dunkelweizen,235,Northampton Brewery,6,3.72
+190,5.00,117387,https://www.beeradvocate.com/beer/profile/33283/117387/,Funkin' Gonuts,33283,Historic Brewing Company,6,3.85
+191,5.60,124812,https://www.beeradvocate.com/beer/profile/33763/124812/,BA-Dunkel,33763,Banger Brewing,6,3.68
+192, ? ,58254,https://www.beeradvocate.com/beer/profile/176/58254/,Keiler Weissbier Dunkel,176,Würzburger Hofbräu AG,6,3.68
+193,5.00,210585,https://www.beeradvocate.com/beer/profile/34132/210585/,Steinhaken,34132,Stoneface Brewing Co.,6,3.86
+194,5.25,163506,https://www.beeradvocate.com/beer/profile/34191/163506/,Dunkelweizen,34191,Czann's Brewing Company,6,3.9
+195,6.20,146868,https://www.beeradvocate.com/beer/profile/37532/146868/,Blitzweizen,37532,Whole Foods - Post Oak,6,3.59
+196,5.90,32439,https://www.beeradvocate.com/beer/profile/9797/32439/,Daum Dunkel Weizen,9797,North Country Brewing,6,3.61
+197,5.20,96968,https://www.beeradvocate.com/beer/profile/30007/96968/,Dark Wave Dunkelweizen,30007,3rd Wave Brewing Company,6,3.23
+198,5.10,91854,https://www.beeradvocate.com/beer/profile/31022/91854/,Hofbräu Hefe Weizen Dunkel,31022,Hofbräuhaus Chicago,6,3.73
+199,4.50,35537,https://www.beeradvocate.com/beer/profile/3925/35537/,Gudendark Dunkel-Weizen,3925,Mickey Finn's Brewery,6,3.84
+200,5.00,112357,https://www.beeradvocate.com/beer/profile/418/112357/,Dunkelweiss,418,Left Hand Brewing Company,6,3.47
+201,4.90,152300,https://www.beeradvocate.com/beer/profile/36402/152300/,Dunkelweizen,36402,Swamp Cabbage Brewing Company,6,3.51
+202, ? ,56300,https://www.beeradvocate.com/beer/profile/4490/56300/,Vetter Dunkel Hefeweizen,4490,Vetter Alt Heidelberger Brauhaus,6,3.41
+203,5.00,145901,https://www.beeradvocate.com/beer/profile/37556/145901/,Little Dutch,37556,Wacker Brewing Co.,6,3.88
+204,5.10,53489,https://www.beeradvocate.com/beer/profile/742/53489/,Dunkelweizen,742,District ChopHouse & Brewery,6,3.76
+205,5.00,43254,https://www.beeradvocate.com/beer/profile/3694/43254/,Unertl Mühldorfer Weissbier,3694,Unertl Weissbier GmbH,6,4.1
+206,5.50,144893,https://www.beeradvocate.com/beer/profile/2876/144893/,Weissbier Dunkel,2876,Hofbräuhaus Traunstein Josef Sailer KG,6,3.56
+207,5.50,177409,https://www.beeradvocate.com/beer/profile/33147/177409/,Dark Palm,33147,Isley Brewing Company,5,3.41
+208,5.60,118275,https://www.beeradvocate.com/beer/profile/34404/118275/,Dunkelweizen (Das Dunkel),34404,Desert Eagle Brewing Company,5,2.87
+209,5.10,109317,https://www.beeradvocate.com/beer/profile/6223/109317/,Weissbier Brauerei Dunkelweiss,6223,Weissbierbrauerei Simon KG,5,3.37
+210,7.20,287762,https://www.beeradvocate.com/beer/profile/63/287762/,Seas Of Doom,63,Deschutes Brewery,5,4.04
+211,7.60,155924,https://www.beeradvocate.com/beer/profile/25920/155924/,Horn Of Plenty,25920,El Segundo Brewing Company,5,4.04
+212,6.20,260635,https://www.beeradvocate.com/beer/profile/45104/260635/,Stone Hearth,45104,The Fermentorium,5,3.85
+213,7.10,110366,https://www.beeradvocate.com/beer/profile/16503/110366/,Angel's Nectar,16503,Right Brain Brewery,5,3.95
+214,6.00,89633,https://www.beeradvocate.com/beer/profile/17292/89633/,Dunkel,17292,Cervecería Bayernbräu de México,5,3.38
+215,4.90,48675,https://www.beeradvocate.com/beer/profile/36757/48675/,Drunken Weasel,36757,DESTIHL Brewery,5,3.82
+216,5.00,114732,https://www.beeradvocate.com/beer/profile/6045/114732/,Wolfgang's Fulfillment,6045,Iron Hill Brewery & Restaurant,5,3.55
+217,5.40,50988,https://www.beeradvocate.com/beer/profile/17893/50988/,Wildflower Wheat,17893,Shooting Creek Farm Brewery,5,3.38
+218,5.00,109887,https://www.beeradvocate.com/beer/profile/16404/109887/,Zillertal Weißbier Dunkel,16404,Zillertal Bier GmbH,5,3.6
+219,6.00,119876,https://www.beeradvocate.com/beer/profile/34303/119876/,Dunkelweizen,34303,Singin' River Brewing Co.,5,3.4
+220,5.50,232792,https://www.beeradvocate.com/beer/profile/1879/232792/,Klingon Warnog Roggen Dunkel Ale,1879,Garrison Brewing Company,5,3.57
+221,5.40,48731,https://www.beeradvocate.com/beer/profile/19587/48731/,Hofbräu Bavarian Wheat,19587,Hofbräuhaus Pittsburgh,5,4.04
+222,10.10,208221,https://www.beeradvocate.com/beer/profile/42214/208221/,Dapper Detonator Mahogany Ale,42214,Neighborhood Beer Co.,5,3.94
+223,5.00,12637,https://www.beeradvocate.com/beer/profile/4472/12637/,Die Weisse Dunkel,4472,Die Weisse,5,3.48
+224, ? ,131949,https://www.beeradvocate.com/beer/profile/29656/131949/,Lakewood Bourbon Barrel Punkel,29656,Lakewood Brewing Company,5,3.8
+225,5.20,170871,https://www.beeradvocate.com/beer/profile/32600/170871/,Mr. D's Dunkel,32600,Intracoastal Brewing Company,5,3.32
+226,5.00,120956,https://www.beeradvocate.com/beer/profile/26743/120956/,Unholy Wheat,26743,49th State Brewing Company,5,3.72
+227,10.10,286590,https://www.beeradvocate.com/beer/profile/140/286590/,Trip In The Woods: Rye Barrel-Aged Dunkelweizen,140,Sierra Nevada Brewing Co.,5,4.14
+228,5.20,216982,https://www.beeradvocate.com/beer/profile/2431/216982/,Gerstel Hefeweizen Dunkel,2431,Privatbrauerei Eichbaum GmbH & Co. KG,5,3.05
+229,4.40,142487,https://www.beeradvocate.com/beer/profile/34315/142487/,Drunk Uncle Dunkel,34315,Hailstorm Brewing Co.,5,4.21
+230,8.50,149918,https://www.beeradvocate.com/beer/profile/8269/149918/,Saint Nick's Dunkel,8269,Blackhorse Pub & Brewery,5,3.58
+231,5.20,108458,https://www.beeradvocate.com/beer/profile/31059/108458/,Dunkelweizen,31059,Culture Brewing Co.,5,3.64
+232, ? ,13493,https://www.beeradvocate.com/beer/profile/1321/13493/,Amber Hefeweizen,1321,Wig And Pen,5,3.37
+233,6.30,36024,https://www.beeradvocate.com/beer/profile/666/36024/,Dunkel,666,The Emerson Brewing Company,5,3.85
+234, ? ,70585,https://www.beeradvocate.com/beer/profile/1819/70585/,Dunkelweizen,1819,Granite City Food & Brewery,5,2.96
+235, ? ,101577,https://www.beeradvocate.com/beer/profile/25593/101577/,Jazz Honkey Dunkel,25593,Jackalope Brewing Company,5,3.33
+236,5.30,73932,https://www.beeradvocate.com/beer/profile/566/73932/,Krombacher Weizen Dunkel,566,Krombacher Brauerei,5,3.55
+237,5.50,125391,https://www.beeradvocate.com/beer/profile/34327/125391/,Buoy Dunkel,34327,Buoy Beer Company,5,3.57
+238,5.60,252880,https://www.beeradvocate.com/beer/profile/41928/252880/,Pumper Dunkelweizen,41928,Czig Meister Brewing Company,5,3.95
+239, ? ,62165,https://www.beeradvocate.com/beer/profile/23876/62165/,Dunkel Weizen,23876,BierWerks Brewery,5,4.05
+240,5.90,286939,https://www.beeradvocate.com/beer/profile/694/286939/,Scratch Beer 282 - 2017 (Brotherly Suds Ale),694,Tröegs Brewing Company,5,3.85
+241,5.30,62174,https://www.beeradvocate.com/beer/profile/2891/62174/,Karlsberg Weizen Dunkel,2891,Karlsberg Brauerei,5,3.37
+242,5.30,148703,https://www.beeradvocate.com/beer/profile/25168/148703/,The Gruesome Twosome,25168,Holy City Brewing,5,3.81
+243,4.00,191712,https://www.beeradvocate.com/beer/profile/41924/191712/,Back 40 Wheat Stout,41924,Lionstone Brewing,5,3.7
+244,5.10,54506,https://www.beeradvocate.com/beer/profile/4155/54506/,Neumarkter Lammsbräu Schwarze,4155,Neumarkter Lammsbräu,5,3.57
+245,5.40,293356,https://www.beeradvocate.com/beer/profile/3268/293356/,Pumpkin Bread,3268,O'Fallon Brewery,5,3.7
+246,6.00,9219,https://www.beeradvocate.com/beer/profile/2669/9219/,Black Forest Dunkles Weissbier,2669,Black Forest Brew Haus,4,3.76
+247, ? ,25607,https://www.beeradvocate.com/beer/profile/471/25607/,Fässla Weizla Dunkel,471,Brauerei Fässla,4,3.68
+248,5.50,120076,https://www.beeradvocate.com/beer/profile/25667/120076/,Dunkel Father,25667,Austin Beerworks,4,3.62
+249, ? ,160528,https://www.beeradvocate.com/beer/profile/20017/160528/,The Slam Dunkel,20017,5 Seasons Westside,4,3.68
+250,5.10,74513,https://www.beeradvocate.com/beer/profile/25800/74513/,BaDunkeldonk,25800,The Wrecking Bar Brewpub,4,3.92
+251,5.10,146961,https://www.beeradvocate.com/beer/profile/3105/146961/,Schönbuch Hefeweizen Dunkel,3105,Schönbuch Brauhaus & Biergarten,4,4.1
+252,5.40,213012,https://www.beeradvocate.com/beer/profile/30813/213012/,Pedunkelweizen,30813,Monocacy Brewing Co.,4,3.36
+253,5.40,173589,https://www.beeradvocate.com/beer/profile/6050/173589/,Hutthurmer Dunkle Weisse,6050,Hutthurmer Bayerwald Brauerei,4,2.96
+254,5.20,56085,https://www.beeradvocate.com/beer/profile/6784/56085/,Ladenburger Hefeweizen Dunkel,6784,Brauerei Ladenburger GmbH,4,3.76
+255,5.40,147999,https://www.beeradvocate.com/beer/profile/37791/147999/,Razzia,37791,Bigfoot Sörfőzde,4,2.75
+256, ? ,3107,https://www.beeradvocate.com/beer/profile/612/3107/,Chautauqua Dunkel Weiss,612,Flossmoor Station Restaurant & Brewery,4,3.5
+257,4.80,183845,https://www.beeradvocate.com/beer/profile/32679/183845/,Dunkel Puppy,32679,Wiseacre Brewing,4,3.57
+258,5.50,220715,https://www.beeradvocate.com/beer/profile/20537/220715/,Trololo Dunkel Bock,20537,Le Trèfle Noir,4,3.68
+259,4.50,94510,https://www.beeradvocate.com/beer/profile/31178/94510/,Roundabout,31178,Yellow Springs Brewery,4,3.64
+260,5.50,118578,https://www.beeradvocate.com/beer/profile/18154/118578/,Miłosław Pszeniczne,18154,Browar Fortuna,4,4.06
+261,5.20,126773,https://www.beeradvocate.com/beer/profile/24764/126773/,Dunkelganger,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,4,3.97
+262,4.60,239418,https://www.beeradvocate.com/beer/profile/43128/239418/,Black Witow,43128,Bone Up Brewing Company,4,3.65
+263,5.30,131390,https://www.beeradvocate.com/beer/profile/548/131390/,Weidmann Hefeweissbier (Dunkel),548,Oranjeboom Bierbrouwerij B. V.,4,3.06
+264, ? ,57918,https://www.beeradvocate.com/beer/profile/5709/57918/,Hefe-Weisse Dunkel,5709,Arcobräu Gräfliches Brauhaus,4,3.55
+265,5.00,140609,https://www.beeradvocate.com/beer/profile/31872/140609/,Lazer Hosen,31872,Stack Brewing,4,3.75
+266,4.90,40014,https://www.beeradvocate.com/beer/profile/1659/40014/,Dunkelweizen,1659,South Street Brewery,4,3
+267,4.40,73296,https://www.beeradvocate.com/beer/profile/16378/73296/,Dinkel Dunkel,16378,Heater Allen Brewing,4,3.97
+268,5.60,124503,https://www.beeradvocate.com/beer/profile/11814/124503/,Not Your Uncle's Dunkel,11814,Saugatuck Brewing Company,4,3.62
+269,5.50,77913,https://www.beeradvocate.com/beer/profile/26458/77913/,Crappie Dunkel,26458,Mudhook Brewing Company,4,3.66
+270,5.80,31326,https://www.beeradvocate.com/beer/profile/12881/31326/,Dunkel Weizen,12881,Square One Brewery & Distillery,4,3.79
+271,5.00,316771,https://www.beeradvocate.com/beer/profile/7591/316771/,Feldschlösschen Hefeweizen Dark,7591,Feldschlösschen AG,4,4.07
+272,5.50,71269,https://www.beeradvocate.com/beer/profile/1336/71269/,Appalachian Dunkelweizen,1336,Appalachian Brewing Company,4,3.56
+273,5.00,95596,https://www.beeradvocate.com/beer/profile/31578/95596/,Stark Dark Wheat,31578,Lovina Beach Brewery,4,3.16
+274,5.00,67697,https://www.beeradvocate.com/beer/profile/21591/67697/,Sleepy Dog Dunkel Weizen,21591,Sleepy Dog Brewery,4,3.58
+275,5.40,46196,https://www.beeradvocate.com/beer/profile/2669/46196/,Black Forest Dunkelweizen,2669,Black Forest Brew Haus,4,3.3
+276, ? ,46455,https://www.beeradvocate.com/beer/profile/16818/46455/,Dark Wheat Ale,16818,Berwick Brewing Company,4,3.93
+277, ? ,75650,https://www.beeradvocate.com/beer/profile/7458/75650/,Dunkelweizen,7458,The Library,4,3.16
+278,5.30,41858,https://www.beeradvocate.com/beer/profile/5141/41858/,Ustersbacher Dunkle Weisse,5141,Brauerei Ustersbach,4,3.28
+279,5.30,36228,https://www.beeradvocate.com/beer/profile/3793/36228/,Dunkelweizen,3793,Kelly's Brewpub,4,3.48
+280,4.85,126342,https://www.beeradvocate.com/beer/profile/35428/126342/,Red Eye Wheat,35428,Pure Order Brewing Co.,4,3.81
+281,5.10,60808,https://www.beeradvocate.com/beer/profile/12510/60808/,Zötler Hefe-Weizen Dunkel,12510,Privat Brauerei Zötler,4,3.24
+282,5.50,107419,https://www.beeradvocate.com/beer/profile/25926/107419/,Anaheim Winter Wheat,25926,Anaheim Brewery,4,3.73
+283,5.40,84896,https://www.beeradvocate.com/beer/profile/6188/84896/,Weissbier Dunkel,6188,Schwarzbräu GmbH,4,3.37
+284,4.80,97451,https://www.beeradvocate.com/beer/profile/31746/97451/,Ridunkelous,31746,Forked River Brewing Company,4,3.42
+285,4.90,38833,https://www.beeradvocate.com/beer/profile/4151/38833/,Bio Heinz Von Stein Hefeweissbier Dunkel,4151,Schlossbrauerei Stein Wiskott GmbH & Co. KG,4,2.81
+286,5.30,139442,https://www.beeradvocate.com/beer/profile/32540/139442/,Dunker's Dunkel-weiss,32540,Antietam Brewery & Restaurant,4,4.18
+287,5.00,28594,https://www.beeradvocate.com/beer/profile/2431/28594/,Eichbaum Hefeweizen Dunkel,2431,Privatbrauerei Eichbaum GmbH & Co. KG,4,3.46
+288,5.50,105408,https://www.beeradvocate.com/beer/profile/1177/105408/,Dark Krystal,1177,Minneapolis Town Hall Brewery,4,4.16
+289,5.40,99777,https://www.beeradvocate.com/beer/profile/30711/99777/,Jesse Dunkel,30711,Oast House Brewers,4,3.66
+290,4.20,223945,https://www.beeradvocate.com/beer/profile/33530/223945/,Weizenbrot,33530,Wolf's Ridge Brewing,4,3.82
+291,5.60,126412,https://www.beeradvocate.com/beer/profile/30291/126412/,Krumholz Ale,30291,Wildwood Brewery,4,3.64
+292,4.00,146127,https://www.beeradvocate.com/beer/profile/36410/146127/,Honey Buckwheat Dunkel Weisse,36410,Blue Collar Brewery Inc.,4,3.45
+293,5.90,59613,https://www.beeradvocate.com/beer/profile/19136/59613/,Dunkel Sam,19136,Terminal Brewhouse,4,3.42
+294,5.20,158436,https://www.beeradvocate.com/beer/profile/9017/158436/,Hubauer Hefe-Weisse Dunkel,9017,Hubauer GmbH Getränke,4,3.38
+295,5.60,296169,https://www.beeradvocate.com/beer/profile/147/296169/,Stone / Avery / The Bruery - They Actually Brued,147,Stone Brewing,4,3.75
+296,5.50,92396,https://www.beeradvocate.com/beer/profile/3655/92396/,Johann Auer Dunkle Weisse,3655,Schlossbrauerei Au-Hallertau,4,3.54
+297,5.50,232684,https://www.beeradvocate.com/beer/profile/35296/232684/,Narrenschiff,35296,Belgian Mare Brewery,4,3.53
+298,5.20,69116,https://www.beeradvocate.com/beer/profile/24952/69116/,Dunkelweizen,24952,Hopmonk Tavern,4,3.6
+299,5.40,157955,https://www.beeradvocate.com/beer/profile/5854/157955/,Schaffler Brau Dunkle Weisse,5854,Brauerei Schäffler,3,3.76
+300,5.90,98826,https://www.beeradvocate.com/beer/profile/695/98826/,Yunkelweizen,695,Manayunk Brewery and Restaurant,3,3.4
+301,5.70,118797,https://www.beeradvocate.com/beer/profile/32295/118797/,Windchill Winter Wheat,32295,Big Shoulders Beer Company,3,3.67
+302,5.91,212240,https://www.beeradvocate.com/beer/profile/43110/212240/,Dead Dunkel,43110,Dead Hippie Brewing,3,3.88
+303,6.00,283666,https://www.beeradvocate.com/beer/profile/33638/283666/,Dark,33638,Brewery,3,2.92
+304,7.50,143891,https://www.beeradvocate.com/beer/profile/34209/143891/,Winter Dunkelweizen,34209,Iron Spike Brewing Company,3,4.01
+305,4.50,122646,https://www.beeradvocate.com/beer/profile/34963/122646/,Erde Weiss,34963,New Braunfels Brewing Company,3,3.79
+306,4.90,57622,https://www.beeradvocate.com/beer/profile/2506/57622/,Hoepfner Keller-Weizen,2506,Privatbrauerei Hoepfner,3,3.23
+307, ? ,51739,https://www.beeradvocate.com/beer/profile/9617/51739/,Bastone Dunkel,9617,Bastone Brewery,3,3.76
+308,4.80,193824,https://www.beeradvocate.com/beer/profile/22655/193824/,Ale Raiser,22655,Straight To Ale,3,3.5
+309,5.60,319523,https://www.beeradvocate.com/beer/profile/41928/319523/,The Vigilante,41928,Czig Meister Brewing Company,3,3.71
+310,5.00,44330,https://www.beeradvocate.com/beer/profile/961/44330/,Schmucker Hefe-Weizen Dunkel,961,Privat Brauerei Schmucker Ober-Mossau KG,3,3.66
+311,5.60,102700,https://www.beeradvocate.com/beer/profile/15205/102700/,Dunkelweizen,15205,Tri-City Brewing Company,3,2.83
+312,4.70,237874,https://www.beeradvocate.com/beer/profile/44159/237874/,Saved By The Dunk,44159,Wild Card Brewing Company,3,3.3
+313, ? ,81718,https://www.beeradvocate.com/beer/profile/25220/81718/,DPAC Dunkelweizen,25220,Bull City Burger And Brewery,3,3.68
+314,5.30,249655,https://www.beeradvocate.com/beer/profile/1765/249655/,Father Ray''s Swarztweizen,1765,Abbey Brewing Co.,3,3.91
+315,5.50,210744,https://www.beeradvocate.com/beer/profile/43879/210744/,Brotherly Love,43879,Bitter Brothers Brewing Co.,3,3.48
+316,5.50,41787,https://www.beeradvocate.com/beer/profile/5708/41787/,Rieser Dunkles Weizen,5708,Ankerbräu Nördlingen,3,3.09
+317, ? ,216892,https://www.beeradvocate.com/beer/profile/38873/216892/,One More Line,38873,SquareHead Brewing Company,3,3.85
+318,5.50,6719,https://www.beeradvocate.com/beer/profile/2832/6719/,AuerBräu Rosenheimer Dunkel Weizen,2832,AuerBräu AG,3,3.8
+319,5.20,122433,https://www.beeradvocate.com/beer/profile/34634/122433/,Noi Nera,34634,Cervejaria Noi,3,3.62
+320,5.00,106833,https://www.beeradvocate.com/beer/profile/3956/106833/,Davenport Supercharged,3956,Brewsters Brewing Company & Restaurant - Oliver Square,3,3.65
+321,5.40,226643,https://www.beeradvocate.com/beer/profile/45230/226643/,Dunkelweizen,45230,Inbound BrewCo,3,3.83
+322,5.10,105308,https://www.beeradvocate.com/beer/profile/32906/105308/,Besserwisser,32906,Schilling Beer Co.,3,4.39
+323,5.20,249436,https://www.beeradvocate.com/beer/profile/16866/249436/,Dunkelweizen,16866,The Bruery,3,3.91
+324,5.30,68957,https://www.beeradvocate.com/beer/profile/4598/68957/,Altweizen Dunkel,4598,Schlossbrauerei Grünbach,3,3.35
+325,5.90,315999,https://www.beeradvocate.com/beer/profile/33931/315999/,Dunkelweizen,33931,Dead Armadillo Craft Brewing,3,3.55
+326, ? ,54377,https://www.beeradvocate.com/beer/profile/1337/54377/,Badonk-A-Dunkel,1337,Pizza Port Solana Beach,3,4.05
+327,5.00,63339,https://www.beeradvocate.com/beer/profile/21876/63339/,Dunkelweizen,21876,The LAB (Lexington Avenue Brewery),3,3.69
+328,5.30,316528,https://www.beeradvocate.com/beer/profile/46720/316528/,Fahr North Dunkelweizen,46720,Brauerei Fahr,3,3.68
+329, ? ,197233,https://www.beeradvocate.com/beer/profile/33/197233/,Dunkel Weizen,33,Berkshire Brewing Company Inc.,3,3.9
+330,4.90,245873,https://www.beeradvocate.com/beer/profile/40740/245873/,Domine Dunkel Weiss,40740,St. Joseph Brewery & Public House,3,3.94
+331,4.90,171641,https://www.beeradvocate.com/beer/profile/34642/171641/,Dingslebener Weissbier Dunkel,34642,Dingslebener Privatbrauerei Metzler,3,2.68
+332,7.00,122745,https://www.beeradvocate.com/beer/profile/28214/122745/,Dammerung Dunkel,28214,Mill Street Brew Pub,3,3.57
+333,5.60,189306,https://www.beeradvocate.com/beer/profile/40333/189306/,Der Wolf,40333,Demented Brewing Company,3,3.76
+334,5.00,128378,https://www.beeradvocate.com/beer/profile/35424/128378/,Dunkelweiss,35424,Smylie Brothers Brewing Co.,3,3.5
+335,5.60,193664,https://www.beeradvocate.com/beer/profile/33273/193664/,Dunkelweizen,33273,7th Settlement Brewery,3,3.82
+336,5.50,42886,https://www.beeradvocate.com/beer/profile/3694/42886/,Gourmet Weisse,3694,Unertl Weissbier GmbH,3,3.58
+337,4.70,228749,https://www.beeradvocate.com/beer/profile/36470/228749/,Word To The Weizen,36470,Vice District Brewing Company,3,3.75
+338,5.20,115854,https://www.beeradvocate.com/beer/profile/5048/115854/,Fujizakura Kogen Schwarzweizen,5048,Fujikankokaihatsu Co. Ltd. / Sylvans Restaurant,3,3.39
+339, ? ,198042,https://www.beeradvocate.com/beer/profile/30711/198042/,Dunkel,30711,Oast House Brewers,3,3.86
+340,5.10,215451,https://www.beeradvocate.com/beer/profile/33060/215451/,Alluvial,33060,Gneiss Brewing Company,3,4.14
+341,5.50,104356,https://www.beeradvocate.com/beer/profile/6228/104356/,Wolferstetter Dunkles Weizen,6228,Wolferstetter Bräu Georg Huber,3,3.29
+342,5.20,86950,https://www.beeradvocate.com/beer/profile/29170/86950/,Dunkelweizen,29170,Village Vintner Winery & Brewery,3,3.19
+343,6.00,224936,https://www.beeradvocate.com/beer/profile/45089/224936/,Brute's Desire Dunkelweizen,45089,Prairie Krafts Brewing Company,3,4.17
+344,4.90,103336,https://www.beeradvocate.com/beer/profile/5142/103336/,Wabar Dunkel,5142,Oettinger Brauerei,3,3.61
+345,5.00,148394,https://www.beeradvocate.com/beer/profile/199/148394/,Deep Six,199,Ballast Point Brewing Company,3,3.58
+346,5.40,71851,https://www.beeradvocate.com/beer/profile/6045/71851/,Chocolate Weisse,6045,Iron Hill Brewery & Restaurant,3,3.99
+347,5.70,31917,https://www.beeradvocate.com/beer/profile/6609/31917/,Jacobinus Dunkles Weizen.,6609,Eschweger Klosterbrauerei,3,3.69
+348,3.80,250803,https://www.beeradvocate.com/beer/profile/45802/250803/,Rauchweizen,45802,Dovetail Brewery,3,3.82
+349, ? ,195763,https://www.beeradvocate.com/beer/profile/31705/195763/,Dunkelweisen,31705,Mountain Toad Brewing,3,3.57
+350, ? ,49590,https://www.beeradvocate.com/beer/profile/16060/49590/,Dunkleweizen,16060,Weeping Radish Eco Farm & Brewery,3,3.76
+351,5.50,54714,https://www.beeradvocate.com/beer/profile/14518/54714/,Dunkel Weizen,14518,Kassik's Kenai Brew Stop,3,3.49
+352,6.30,232894,https://www.beeradvocate.com/beer/profile/45307/232894/,Bohemian Dunkel,45307,Seedstock Brewery,3,3.39
+353,5.20,186815,https://www.beeradvocate.com/beer/profile/6099/186815/,Schönbrunner Weissbier Dunkel,6099,Lang Bräu OHG,3,3.66
+354,6.00,250817,https://www.beeradvocate.com/beer/profile/36763/250817/,Dunkelweizen,36763,Kalispell Brewing Co.,3,4.22
+355,7.90,102082,https://www.beeradvocate.com/beer/profile/31111/102082/,Kaiserlich Dunkleweiss,31111,North Mountain Brewing Co.,3,3.97
+356, ? ,51907,https://www.beeradvocate.com/beer/profile/10279/51907/,Opa Opa Dark Wheat,10279,OPA-OPA Steakhouse & Brewery,3,3.3
+357,5.30,154313,https://www.beeradvocate.com/beer/profile/16495/154313/,Dunkel,16495,À La Fût,3,4.07
+358,4.50,101326,https://www.beeradvocate.com/beer/profile/1114/101326/,Oktoberfest Hefe Marzen,1114,Bullfrog Brewery,3,3.11
+359,5.30,120281,https://www.beeradvocate.com/beer/profile/578/120281/,Dunkel John's Band,578,The Liberal Cup Public House & Brewery,3,4.21
+360,5.80,87002,https://www.beeradvocate.com/beer/profile/27768/87002/,Das Bart Dunkelweizen,27768,Lone Tree Brewing Company,3,3.78
+361,5.20,241380,https://www.beeradvocate.com/beer/profile/6116/241380/,Meckatzer Urweizen,6116,Meckatzer Löwenbräu Benedikt Weiss KG,3,3.27
+362,5.20,262116,https://www.beeradvocate.com/beer/profile/33657/262116/,Demi-Mondaine,33657,Barkerville Brewing Co.,3,4.18
+363,0.50,38122,https://www.beeradvocate.com/beer/profile/4155/38122/,Neumarkter Lammsbräu Dunkle Weisse Alkoholfrei,4155,Neumarkter Lammsbräu,3,1.67
+364,4.90,47861,https://www.beeradvocate.com/beer/profile/18399/47861/,Lahnsteiner Weizenbier Hefe Dunkel,18399,Lahnsteiner Brauerei,3,3.8
+365,5.60,70137,https://www.beeradvocate.com/beer/profile/4063/70137/,Dunkelweizen,4063,River City Brewing Co.,3,3.15
+366,4.80,177916,https://www.beeradvocate.com/beer/profile/38386/177916/,Uncle Dunkel,38386,Tin Cannon Brewing Company,3,3.77
+367,5.10,145918,https://www.beeradvocate.com/beer/profile/4453/145918/,Memminger Dunkle Weise,4453,Memminger Brauerei,3,3.83
+368,5.30,248319,https://www.beeradvocate.com/beer/profile/36504/248319/,Dunkelweiss,36504,Biscayne Bay Brewing Co.,3,3.73
+369,5.40,165636,https://www.beeradvocate.com/beer/profile/34964/165636/,Dunkelweizen,34964,Mexitaly,2,3.67
+370,5.40,169989,https://www.beeradvocate.com/beer/profile/37352/169989/,Sommer Weizen,37352,Hofbräuhaus Columbus,2,3.53
+371,5.00,121350,https://www.beeradvocate.com/beer/profile/34401/121350/,Grassau Weizen,34401,Compañía Cervecera Yellow Sea (Grassau),2,3.28
+372, ? ,59142,https://www.beeradvocate.com/beer/profile/20728/59142/,BrowArmia Dunkelweizen,20728,Browarmia Królewkska,2,3.2
+373,5.80,317704,https://www.beeradvocate.com/beer/profile/47184/317704/,Dick Dastardly,47184,Mirror Twin Brewing,2,3.74
+374,5.10,260617,https://www.beeradvocate.com/beer/profile/33060/260617/,Delta,33060,Gneiss Brewing Company,2,4.06
+375, ? ,100618,https://www.beeradvocate.com/beer/profile/26548/100618/,Slamdunkel,26548,Rolling Meadows Farm Brewery,2,4.38
+376, ? ,110092,https://www.beeradvocate.com/beer/profile/31271/110092/,Zenitude,31271,Hunter's Brewing,2,3.25
+377, ? ,107278,https://www.beeradvocate.com/beer/profile/412/107278/,EKU Hefe-Weissbier Dunkel,412,Kulmbacher Brauerei AG,2,3.38
+378,5.25,205327,https://www.beeradvocate.com/beer/profile/36865/205327/,Dunkelweizen,36865,Zwei Brüder Brewing,2,3.88
+379,5.60,302095,https://www.beeradvocate.com/beer/profile/299/302095/,Dunkelweis,299,Boston Beer Works - Canal Street,2,3.77
+380,5.80,250896,https://www.beeradvocate.com/beer/profile/20782/250896/,Vilniaus Alus Tamsusis Kvietinis,20782,Vilniaus Alus UAB,2,2.75
+381,5.00,219409,https://www.beeradvocate.com/beer/profile/36225/219409/,Grifter,36225,Brewtus Brewing Company,2,3.68
+382,5.00,74258,https://www.beeradvocate.com/beer/profile/24957/74258/,Wijs + Neuzig,24957,Brouwerij De 7 Deugden,2,3.01
+383,6.00,95506,https://www.beeradvocate.com/beer/profile/23675/95506/,Dunkle Weizen,23675,Lumberyard Brewing Company,2,2.64
+384,6.10,148500,https://www.beeradvocate.com/beer/profile/37821/148500/,Dutton Dunkel,37821,Railtown Brewing Company,2,3.72
+385, ? ,45589,https://www.beeradvocate.com/beer/profile/803/45589/,Dunkel Weizen,803,Faultline Brewing Company,2,2.41
+386,5.80,184341,https://www.beeradvocate.com/beer/profile/41807/184341/,Dunkel Lager,41807,Wasserhund Brewing Company,2,3.77
+387,4.80,233494,https://www.beeradvocate.com/beer/profile/39742/233494/,Dunkelweiss,39742,Dru Bru,2,3.79
+388,6.20,251927,https://www.beeradvocate.com/beer/profile/33525/251927/,Dunkelweizen,33525,Stoup Brewing,2,3.76
+389, ? ,254232,https://www.beeradvocate.com/beer/profile/43369/254232/,Pococktoberfest,43369,Pocock Brewing Co.,2,3.86
+390,5.25,182297,https://www.beeradvocate.com/beer/profile/37551/182297/,Double Dyed Deceiver Dunkelweizen,37551,Gibb's Hundred Brewing Co.,2,3.85
+391,5.00,263707,https://www.beeradvocate.com/beer/profile/32265/263707/,Dunkelweizen,32265,Milkhouse Brewery,2,4.24
+392,5.10,79133,https://www.beeradvocate.com/beer/profile/22610/79133/,Sleigh Ride,22610,Mother Earth Brew Co.,2,4.06
+393,5.70,23838,https://www.beeradvocate.com/beer/profile/3196/23838/,Dunkel Weizen,3196,Flat Branch Pub & Brewery,2,2.73
+394,5.20,312097,https://www.beeradvocate.com/beer/profile/46991/312097/,Portfire,46991,The Oozlefinch Craft Brewery,2,3.95
+395,5.30,105764,https://www.beeradvocate.com/beer/profile/33102/105764/,Angry Amel Dunkelweizen,33102,Bridge and Tunnel Brewery,2,3.43
+396,6.00,264229,https://www.beeradvocate.com/beer/profile/507/264229/,Gulpener Bier Van Verse Hop,507,Gulpener Bierbrouwerij B.V.,2,3.3
+397, ? ,38949,https://www.beeradvocate.com/beer/profile/15656/38949/,Regensburger Weißbräuhaus Dunkel Weizen,15656,Regensburger Weissbräuhaus,2,3.76
+398,4.60,219686,https://www.beeradvocate.com/beer/profile/37649/219686/,Dega Dunkelweizen,37649,Cheaha Brewing Company,2,3.72
+399,5.70,237608,https://www.beeradvocate.com/beer/profile/41110/237608/,Dark AdWeiss,41110,Ornery Beer Company Public House,2,3.51
+400,5.40,262185,https://www.beeradvocate.com/beer/profile/45047/262185/,Dunkel Schleuter,45047,Brewport Brewing Co.,2,3.85
+401,5.50,174633,https://www.beeradvocate.com/beer/profile/39910/174633/,Nordman Kaiser,39910,Nordman Beers,2,3.26
+402,5.00,87594,https://www.beeradvocate.com/beer/profile/26336/87594/,Degenbier Dunkel,26336,Degenbier,2,4.18
+403,4.70,88874,https://www.beeradvocate.com/beer/profile/29179/88874/,Dystopian Dunkleweizen,29179,Apocalypse Brew Works,2,3.49
+404,5.40,100907,https://www.beeradvocate.com/beer/profile/32645/100907/,Rene Descartes Dunkelwiezen,32645,Stone's Throw Brewing,2,3.88
+405,5.00,57387,https://www.beeradvocate.com/beer/profile/219/57387/,Dunkel,219,Sudwerk Brewing Company,2,3.65
+406,4.70,180268,https://www.beeradvocate.com/beer/profile/41023/180268/,Pecan Dunkelweizen,41023,Verde Brewing Company,2,3.54
+407,5.90,145453,https://www.beeradvocate.com/beer/profile/27863/145453/,Saint-Joachim,27863,Microbrasserie Des Beaux Prés,2,3.66
+408,5.10,261166,https://www.beeradvocate.com/beer/profile/45647/261166/,Dunkelweizen,45647,Holler Brewing Co.,2,3.64
+409,5.20,238643,https://www.beeradvocate.com/beer/profile/9704/238643/,Munich Dunkel,9704,Emmett's Brewing Company,2,3.86
+410,5.10,77620,https://www.beeradvocate.com/beer/profile/27329/77620/,Dunkelweizen,27329,Black Heart Brewery,2,3.61
+411,5.00,306741,https://www.beeradvocate.com/beer/profile/9969/306741/,Bloody Dunkels,9969,Rahr & Sons Brewing Company,2,3.75
+412,8.20,177206,https://www.beeradvocate.com/beer/profile/36539/177206/,Uber Dunkelweizen,36539,Mockery Brewing Co.,2,4.37
+413,5.40,106295,https://www.beeradvocate.com/beer/profile/24659/106295/,Dunkel Hefe,24659,La Cumbre Brewing Co.,2,4.25
+414, ? ,61751,https://www.beeradvocate.com/beer/profile/1135/61751/,Dunkelweizen,1135,"Franklin's Restaurant, Brewery & General Store",2,3.81
+415,4.50,28217,https://www.beeradvocate.com/beer/profile/13096/28217/,Darken Boar Wheat Special,13096,Hideji Beer,2,4.75
+416,7.00,286522,https://www.beeradvocate.com/beer/profile/48142/286522/,Bandito Antonito,48142,Chili Line Brewing Co.,2,3.7
+417,6.00,141373,https://www.beeradvocate.com/beer/profile/35502/141373/,Dyslexic Heart Dunkelweizen,35502,Chilly Water Brewing Company,2,3.75
+418,8.00,54077,https://www.beeradvocate.com/beer/profile/12911/54077/,Imperial Chocolate Weizen,12911,Land Beer,2,3.51
+419,4.80,123197,https://www.beeradvocate.com/beer/profile/32379/123197/,Freimann's Dunkelweiss,32379,Pressure Drop,2,3.62
+420,7.40,64318,https://www.beeradvocate.com/beer/profile/1397/64318/,Oak Aged 10 Degrees Below,1397,Scuttlebutt Brewing Company - Restaurant and Pub,2,3.06
+421,5.60,132929,https://www.beeradvocate.com/beer/profile/32312/132929/,Dunklebiken,32312,Crank Arm Brewing,2,3.25
+422,5.60,315203,https://www.beeradvocate.com/beer/profile/50617/315203/,Amber Weizen,50617,Waldmann Brewery & Wurstery,2,3.81
+423, ? ,84036,https://www.beeradvocate.com/beer/profile/18724/84036/,Dunkelweizen,18724,Old Forge Brewing Company,2,4.08
+424,5.20,38725,https://www.beeradvocate.com/beer/profile/6844/38725/,Dunkel Weizen,6844,Welde Bräu GmbH & Co. KG,2,3.86
+425,4.80,149062,https://www.beeradvocate.com/beer/profile/37912/149062/,Neapolitan,37912,Alpha State Beer,2,2.75
+426,5.00,250703,https://www.beeradvocate.com/beer/profile/35868/250703/,Sir Dunkel,35868,Ploughshare Brewing Company,2,3.87
+427, ? ,115027,https://www.beeradvocate.com/beer/profile/31790/115027/,Dunkel Weiss,31790,High Cotton Brewing Co.,2,3.25
+428,5.10,215636,https://www.beeradvocate.com/beer/profile/4155/215636/,Dunkle Weisse,4155,Neumarkter Lammsbräu,2,3.18
+429, ? ,44630,https://www.beeradvocate.com/beer/profile/2707/44630/,Olde Peninsula Dunkleweizen,2707,Olde Peninsula Brewpub & Restaurant,2,3.69
+430,5.00,166743,https://www.beeradvocate.com/beer/profile/29616/166743/,Batch #96 - Slam Dunkel,29616,Whetstone Craft Beers / Whetstone Station,2,3.81
+431,5.00,104024,https://www.beeradvocate.com/beer/profile/31972/104024/,Unkle Joe's Dunkleweiss,31972,Warehouse Gourmet Bistro & Brew Pub,2,3.51
+432,6.20,207706,https://www.beeradvocate.com/beer/profile/24814/207706/,Dunkel,24814,Yellowhammer Brewing,2,3.87
+433,5.00,155994,https://www.beeradvocate.com/beer/profile/646/155994/,O'Hara's Dunkelweizen,646,Carlow Brewing Company,2,3.79
+434,6.00,163930,https://www.beeradvocate.com/beer/profile/31177/163930/,Lune Noire,31177,Brasserie artisanale du Léman,2,3.58
+435,7.70,262491,https://www.beeradvocate.com/beer/profile/30230/262491/,Bench Weiss,30230,Confluence Brewing Company,2,4
+436, ? ,3675,https://www.beeradvocate.com/beer/profile/1356/3675/,Bräu Im Moos Dunkle Weisse,1356,Bräu im Moos,2,3.73
+437,5.50,214876,https://www.beeradvocate.com/beer/profile/603/214876/,Short-Day Dunkelweizen,603,Church Brew Works,2,3.62
+438, ? ,280157,https://www.beeradvocate.com/beer/profile/140/280157/,Audition Dark Wheat,140,Sierra Nevada Brewing Co.,2,3.81
+439,10.30,227421,https://www.beeradvocate.com/beer/profile/1146/227421/,Our World,1146,Goose Island Beer Co.,2,4.17
+440,5.20,270686,https://www.beeradvocate.com/beer/profile/46718/270686/,Finkelstein,46718,Collusion Tap Works,2,3.46
+441,5.20,183135,https://www.beeradvocate.com/beer/profile/32705/183135/,Bavarian Dunkelweizen,32705,Pacific Plate Brewing Company,2,3.8
+442,7.00,281698,https://www.beeradvocate.com/beer/profile/37702/281698/,Onix,37702,Cervecera del Centro,2,3.84
+443,5.30,146791,https://www.beeradvocate.com/beer/profile/6807/146791/,Distelhauser Dunkles Weizen,6807,Distelhäuser Brauerei,2,3.78
+444,5.30,98409,https://www.beeradvocate.com/beer/profile/3185/98409/,Dark Wheat,3185,The Tap Brewing Company,2,3.74
+445, ? ,56170,https://www.beeradvocate.com/beer/profile/1091/56170/,Dunkelweizen,1091,Northwoods Brewpub and Grill,2,2.76
+446,6.90,259436,https://www.beeradvocate.com/beer/profile/44307/259436/,Dark Harvest,44307,Bow & Arrow Brewing,2,4.39
+447,5.30,73839,https://www.beeradvocate.com/beer/profile/11285/73839/,Weizen Falk Dunkles Falk,11285,Brauerei Bruckmüller,2,2.89
+448,6.50,211823,https://www.beeradvocate.com/beer/profile/27077/211823/,"Brass Dunkel, That Funky Dunkel",27077,Due South Brewing Co.,2,3.2
+449, ? ,74352,https://www.beeradvocate.com/beer/profile/1177/74352/,Chocolate Dunkel Weizen,1177,Minneapolis Town Hall Brewery,2,3.92
+450,4.00,29296,https://www.beeradvocate.com/beer/profile/1413/29296/,Downhill Dunkelweizen,1413,Desert Edge Brewery,2,3.12
+451,4.90,71537,https://www.beeradvocate.com/beer/profile/22896/71537/,Chocolate Wheat,22896,Artisan Brewing Co.,2,2.98
+452, ? ,50293,https://www.beeradvocate.com/beer/profile/6339/50293/,Duckenbach Dunkelwiezen,6339,The Dodging Duck Brewhaus,2,3.62
+453,4.70,217206,https://www.beeradvocate.com/beer/profile/44484/217206/,Smoky Flats Dunkelweizen,44484,Grain Bin Brewing Company,2,3.77
+454,4.80,304758,https://www.beeradvocate.com/beer/profile/49734/304758/,Mumpitz,49734,Remedy Brewing Company,2,3.78
+455, ? ,185718,https://www.beeradvocate.com/beer/profile/5188/185718/,Munich Dunkel,5188,Emmett's Brewing Company,2,3.5
+456,4.40,188536,https://www.beeradvocate.com/beer/profile/158/188536/,Dirty Dunkel Bob,158,Great Divide Brewing Company,2,3.97
+457,5.40,198265,https://www.beeradvocate.com/beer/profile/29511/198265/,Wilderer Weisse,29511,Camba Bavaria,2,3.23
+458,5.10,61050,https://www.beeradvocate.com/beer/profile/6152/61050/,Schwarzer Ritter,6152,Ritter St. Georgenbrauerei Karl Glossner GmbH & Co. KG,2,3.71
+459,4.50,236669,https://www.beeradvocate.com/beer/profile/858/236669/,One And Done Dunkel,858,Mac and Jack's Brewery,2,3
+460, ? ,44416,https://www.beeradvocate.com/beer/profile/3062/44416/,Dunkel Weizen,3062,Amos Howard's Brew Pub,2,3.84
+461,8.00,181377,https://www.beeradvocate.com/beer/profile/24056/181377/,Mud Season,24056,Melvin Brewing / Thai Me Up,2,3.87
+462,5.00,162178,https://www.beeradvocate.com/beer/profile/7593/162178/,Schaumhof Naturtrub Hefeweizen Dunkel,7593,Feldschloesschen AG,2,3.39
+463,4.90,261765,https://www.beeradvocate.com/beer/profile/46277/261765/,Dunkelweizen,46277,Riggs Beer Company,2,4.05
+464,4.50,324487,https://www.beeradvocate.com/beer/profile/50006/324487/,Dunkelweizen,50006,Island Dog Brewing Company,2,3.64
+465, ? ,28298,https://www.beeradvocate.com/beer/profile/13094/28298/,Dunkel,13094,Rocky Coulee Brewing Co.,2,3.03
+466,5.60,151435,https://www.beeradvocate.com/beer/profile/33228/151435/,Dunkelweizen,33228,Climbing Bines Hop Farm,2,2.87
+467,5.30,84878,https://www.beeradvocate.com/beer/profile/761/84878/,CB's Chief Thundercloud Dunkel Weisse,761,CB Craft Brewers,2,3.43
+468, ? ,106638,https://www.beeradvocate.com/beer/profile/11141/106638/,Dunkelweizen,11141,Hank is Wiser Brewery,2,3.5
+469,5.40,188816,https://www.beeradvocate.com/beer/profile/41428/188816/,Burkhalter ,41428,Call to Arms Brewing Company,2,3.8
+470, ? ,109201,https://www.beeradvocate.com/beer/profile/4632/109201/,Deep Burn Dunkelweizen,4632,Pumphouse Brewery,2,3.62
+471,7.50,70546,https://www.beeradvocate.com/beer/profile/17278/70546/,Dunkel Weizen,17278,Crown Brewing,2,3.56
+472,5.20,84884,https://www.beeradvocate.com/beer/profile/3956/84884/,Barbarossa,3956,Brewsters Brewing Company & Restaurant - Oliver Square,2,3.61
+473,4.60,304279,https://www.beeradvocate.com/beer/profile/49137/304279/,Small Change,49137,Collision Bend Brewing Company,2,4.07
+474,6.50,183447,https://www.beeradvocate.com/beer/profile/586/183447/,Mutter Zebain's Dunkelhefe,586,Martha's Exchange,2,3.38
+475,5.00,104600,https://www.beeradvocate.com/beer/profile/2294/104600/,Hopfven Weisse,2294,Franciscan Well Micro Brewery,2,4.25
+476,5.50,317848,https://www.beeradvocate.com/beer/profile/30501/317848/,Dämmerung,30501,Flatrock Brewing Company,2,4.21
+477,4.60,224921,https://www.beeradvocate.com/beer/profile/44874/224921/,Dunkel Rauch,44874,BadWolf Brewing Company (Big BadWolf),2,4.2
+478,5.80,236187,https://www.beeradvocate.com/beer/profile/30492/236187/,Dunkel-what?,30492,Bosque Brewing Co.,2,3.68
+479,5.50,253083,https://www.beeradvocate.com/beer/profile/46531/253083/,Dunkel Weisser,46531,Silver Harbor Brewing Company,2,3.61
+480,5.40,169376,https://www.beeradvocate.com/beer/profile/35025/169376/,Dunkels Weissbier,35025,Miner Brewing Company,2,3.29
+481,5.50,74915,https://www.beeradvocate.com/beer/profile/11285/74915/,Bruckmüller Knappentrunk,11285,Brauerei Bruckmüller,2,3.84
+482,5.00,165795,https://www.beeradvocate.com/beer/profile/35424/165795/,Blood Orange Dunkelweiss,35424,Smylie Brothers Brewing Co.,2,3.81
+483,5.10,251047,https://www.beeradvocate.com/beer/profile/44127/251047/,Black - Wynwood Brewing Collaboration,44127,Lincoln's Beard Brewing Co.,2,3.62
+484,6.20,111528,https://www.beeradvocate.com/beer/profile/1590/111528/,Dunkelweizen,1590,Diamond Knot Brewery,2,3.27
+485,4.70,274857,https://www.beeradvocate.com/beer/profile/29334/274857/,Dunkelweizen,29334,Iron Goat Brewing Co.,2,3.77
+486, ? ,171694,https://www.beeradvocate.com/beer/profile/13879/171694/,Time To Dye Dunkelweizen,13879,Riverside Brewery And Restaurant,2,3.57
+487,4.60,125616,https://www.beeradvocate.com/beer/profile/35378/125616/,Bysen Nº:1,35378,Barlingbo Bryggeri,2,2
+488, ? ,51378,https://www.beeradvocate.com/beer/profile/463/51378/,Dunkelweizen,463,Magnolia Pub & Brewery,2,3.11
+489,6.00,262066,https://www.beeradvocate.com/beer/profile/43216/262066/,Unkle Dunkel,43216,Olde Mother Brewing Co.,2,3.91
+490,8.40,284595,https://www.beeradvocate.com/beer/profile/35329/284595/,Double Wheat Flip,35329,Jaws Brewery,2,3.89
+491,5.00,168373,https://www.beeradvocate.com/beer/profile/30176/168373/,Der Couvensteiner,30176,Loowit Brewing Company,2,3.87
+492, ? ,65206,https://www.beeradvocate.com/beer/profile/4458/65206/,Rathaus Dunkelweizen,4458,Rathaus Brauerei,2,3.82
+493, ? ,109243,https://www.beeradvocate.com/beer/profile/27075/109243/,Dunkel Weizen,27075,Taos Ale House,2,3.5
+494,5.00,78013,https://www.beeradvocate.com/beer/profile/16048/78013/,Dunkelweizen,16048,Hollister Brewing Co.,2,3.5
+495,5.00,88000,https://www.beeradvocate.com/beer/profile/5798/88000/,Kauzen Weissbier Dunkel,5798,Kauzen Bräu,2,4.03
+496,9.00,159424,https://www.beeradvocate.com/beer/profile/1168/159424/,Cobblepot's,1168,Barley John's Brew Pub,2,4.23
+497,5.20,313025,https://www.beeradvocate.com/beer/profile/49200/313025/,Decoy,49200,Black Hoof Brewing Co.,2,3.83
+498, ? ,119492,https://www.beeradvocate.com/beer/profile/5191/119492/,Bavarian Sun,5191,Ram Restaurant & Brewery,2,3.38
+499,4.90,294600,https://www.beeradvocate.com/beer/profile/36487/294600/,Professor Dunkeldore,36487,Platform Beer Co.,2,4.46
+500, ? ,51656,https://www.beeradvocate.com/beer/profile/4288/51656/,Imperial Dunkel Weizen,4288,Newport Beach Brewing Company,2,3.53
+501,5.50,55498,https://www.beeradvocate.com/beer/profile/3656/55498/,Hofmark Dunkle Weisse,3656,Hofmark Brauerei,2,3.66
+502,4.00,282059,https://www.beeradvocate.com/beer/profile/22854/282059/,Dunkel Ryezen,22854,Full Pint Brewing Company,2,4.1
+503, ? ,70607,https://www.beeradvocate.com/beer/profile/5408/70607/,Dunkel Weiss,5408,Herkimer Pub & Brewery,2,3.8
+504, ? ,152016,https://www.beeradvocate.com/beer/profile/11008/152016/,Whiskey Barrel-Aged Dunkel,11008,Pug Ryan's Brewery,2,4.12
+505,6.00,98512,https://www.beeradvocate.com/beer/profile/553/98512/,Christoffel WIJS,553,Bierbrouwerij Sint Christoffel B.V,2,3.7
+506,6.80,192465,https://www.beeradvocate.com/beer/profile/42321/192465/,Dockside Dunkelweiss,42321,Galveston Bay Beer Company,2,3.38
+507,5.40,200148,https://www.beeradvocate.com/beer/profile/1463/200148/,Bear Beer Dark Wheat,1463,Harboes Bryggeri A/S,2,3.73
+508,5.20,40404,https://www.beeradvocate.com/beer/profile/5838/40404/,Hauf's Dunkle Weisse,5838,Brauerei Hauf GmbH,2,3.05
+509, ? ,73942,https://www.beeradvocate.com/beer/profile/18111/73942/,4 Pines Dunkelweizen,18111,4 Pines Brewing Company,2,3.77
+510, ? ,57814,https://www.beeradvocate.com/beer/profile/17271/57814/,Old World Dunkelweizen,17271,Bootlegger's Brewery,2,3.41
+511,4.20,29911,https://www.beeradvocate.com/beer/profile/11689/29911/,No. 21 German Dunkelweizen,11689,Gella's Diner & Lb. Brewing Co.,2,3.51
+512, ? ,184535,https://www.beeradvocate.com/beer/profile/24412/184535/,FBA: Rye Dunkel,24412,Flat 12 Bierwerks,2,4.02
+513, ? ,45276,https://www.beeradvocate.com/beer/profile/11956/45276/,Dunkel-Wisen,11956,Gunnison Brewery,2,3.65
+514,4.80,321760,https://www.beeradvocate.com/beer/profile/46008/321760/,Dunkelweizen,46008,Jughandle Brewing,2,3.38
+515,5.30,224994,https://www.beeradvocate.com/beer/profile/6144/224994/,Angerwirts Weizen Altfraenkisch Dunkel,6144,Pyraser Bier GmbH & Co. KG,2,4.08
+516,5.20,146664,https://www.beeradvocate.com/beer/profile/37705/146664/,Far West Black Diamond Ale,37705,Far West Cerveza Artesanal,2,2.76
+517,5.40,294888,https://www.beeradvocate.com/beer/profile/1146/294888/,Cult Classic,1146,Goose Island Beer Co.,2,3.77
+518,5.70,133357,https://www.beeradvocate.com/beer/profile/33476/133357/,Dunkel Weissen,33476,3 Daughters Brewing,2,3.89
+519,5.00,289523,https://www.beeradvocate.com/beer/profile/48955/289523/,Dunkelweizen,48955,Fillmore 13 Brewery,2,3.6
+520,5.00,44275,https://www.beeradvocate.com/beer/profile/1937/44275/,Danny Boy Dunkel,1937,"Swashbuckler Brewing Co, LTD",2,4.11
+521,5.00,69878,https://www.beeradvocate.com/beer/profile/7628/69878/,Vormann Sauerländer Weizenbier Dunkel,7628,Brauerei Vormann,2,3.44
+522,5.40,154619,https://www.beeradvocate.com/beer/profile/33589/154619/,Dunkelweizen,33589,Columbia Kettle Works,2,3.75
+523,4.50,333564,https://www.beeradvocate.com/beer/profile/3835/333564/,Dunkin' Bronuts,3835,Drake's Brewing Co.,2,3.91
+524,5.00,246524,https://www.beeradvocate.com/beer/profile/45030/246524/,Schwarzbier,45030,Lost Cabin Beer Co.,2,4.05
+525, ? ,122621,https://www.beeradvocate.com/beer/profile/34731/122621/,Oak Wheat,34731,Braustil,2,4.36
+526,4.40,214784,https://www.beeradvocate.com/beer/profile/23639/214784/,Dunkel,23639,Rising Tide Brewing Company,1,3.29
+527, ? ,117507,https://www.beeradvocate.com/beer/profile/6508/117507/,Dunkelweisen,6508,BrewHouse at Whistler / High Mountain Brewing Company,1,2.25
+528,5.60,304133,https://www.beeradvocate.com/beer/profile/29599/304133/,Dunkelweizen,29599,JAFB Wooster Brewery,1,3.93
+529,5.40,271110,https://www.beeradvocate.com/beer/profile/46332/271110/,Del Monte Dunkelweizen,46332,Ocean Beach Brewery,1,3.52
+530,5.20,290054,https://www.beeradvocate.com/beer/profile/49535/290054/,#5051 Dunkelweizen,49535,Hoops Brewing Company,1,3.58
+531,5.60,321542,https://www.beeradvocate.com/beer/profile/46853/321542/,Drunkelweizen,46853,Milton's Brewing,1,4.94
+532,5.30,224519,https://www.beeradvocate.com/beer/profile/319/224519/,Edelweiss Dunkel Weizenbier,319,Brau Union Österreich AG,1,2.77
+533,5.50,137736,https://www.beeradvocate.com/beer/profile/4216/137736/,Engel Hefeweizen Dunkel,4216,Crailsheimer Engelbräu,1,3.5
+534,4.80,221193,https://www.beeradvocate.com/beer/profile/36243/221193/,Belle Brume,36243,Microbrasserie La Boîte à Malt,1,2.91
+535,4.20,340235,https://www.beeradvocate.com/beer/profile/51033/340235/,Dirty Bismark,51033,Endo Brewing Company,1,3.93
+536,5.10,332300,https://www.beeradvocate.com/beer/profile/612/332300/,Imminent Dusk,612,Flossmoor Station Restaurant & Brewery,1,3.79
+537, ? ,105228,https://www.beeradvocate.com/beer/profile/26620/105228/,Helga's Dunkelweizen,26620,Denver Beer Co.,1,3.25
+538,5.00,303629,https://www.beeradvocate.com/beer/profile/28569/303629/,Dunkel Weizen,28569,Obed & Isaac's Microbrewery & Eatery,1,4
+539,5.00,204815,https://www.beeradvocate.com/beer/profile/39762/204815/,Starvin Marvin Dunkelweizen,39762,Florida Keys Brewing Co.,1,3.69
+540,5.00,76815,https://www.beeradvocate.com/beer/profile/4835/76815/,Weizen Shine,4835,Thirsty Pagan Brewing,1,3.18
+541, ? ,202769,https://www.beeradvocate.com/beer/profile/27231/202769/,Dunkleweizen,27231,Prohibition Brewing Company,1,4.6
+542,5.20,95505,https://www.beeradvocate.com/beer/profile/2278/95505/,Schwarze Weisse,2278,Schussenrieder Erlebnisbrauerei,1,3
+543,7.50,161553,https://www.beeradvocate.com/beer/profile/31423/161553/,Bananas On Fire,31423,Stickmen Brewing Company,1,4.38
+544,4.10,309265,https://www.beeradvocate.com/beer/profile/44874/309265/,Watch It Crash,44874,BadWolf Brewing Company (Big BadWolf),1,3.74
+545,6.50,251923,https://www.beeradvocate.com/beer/profile/25957/251923/,Harvest Wheat,25957,Market Garden Brewery,1,4.04
+546,8.50,239636,https://www.beeradvocate.com/beer/profile/35868/239636/,Sicklemoon Weizenbock,35868,Ploughshare Brewing Company,1,3.58
+547,5.80,193556,https://www.beeradvocate.com/beer/profile/27007/193556/,Crescendo,27007,12 String Brewing Company,1,3.53
+548,6.00,175381,https://www.beeradvocate.com/beer/profile/13605/175381/,Weizgripp Dunkelweizen,13605,Le Trou Du Diable,1,3.7
+549,7.00,264982,https://www.beeradvocate.com/beer/profile/37070/264982/,Lovettsville Dunkel,37070,Mad Horse Brewery,1,2.71
+550,6.90,190998,https://www.beeradvocate.com/beer/profile/38528/190998/,Folks Weizenbock,38528,Appalachian Brewing Company,1,3.84
+551,5.30,75800,https://www.beeradvocate.com/beer/profile/598/75800/,Dunkel-Vice,598,Onion Pub & Brewery / Wild Onion Brewing Co.,1,3
+552, ? ,212504,https://www.beeradvocate.com/beer/profile/5944/212504/,Bärenweisse,5944,Brauerei Mühlbauer,1,4.75
+553, ? ,64024,https://www.beeradvocate.com/beer/profile/6928/64024/,Twain's Unberufen Dunkelweiss,6928,Twain's Billiards and Tap,1,4
+554,5.10,177690,https://www.beeradvocate.com/beer/profile/6811/177690/,Dunkel,6811,Heidelberger Brauerei GmbH,1,3.39
+555,6.00,123162,https://www.beeradvocate.com/beer/profile/999/123162/,Young Dunkel,999,Montana Brewing Company,1,3
+556,6.00,239390,https://www.beeradvocate.com/beer/profile/15834/239390/,Munich Dunkel,15834,Dock Street Brewery & Restaurant,1,4.08
+557,5.40,152608,https://www.beeradvocate.com/beer/profile/37297/152608/,Barkeep Dark Wheat,37297,Waddell's Brewpub & Grille,1,3.32
+558,5.50,297504,https://www.beeradvocate.com/beer/profile/47621/297504/,B.A.D. Brew Dunkel,47621,Copper City Brewing Co,1,4.27
+559,5.30,303392,https://www.beeradvocate.com/beer/profile/26963/303392/,The King's Sandwich,26963,Keg Creek Brewing Company,1,4
+560,5.30,59680,https://www.beeradvocate.com/beer/profile/5947/59680/,Klett-Bräu Dunkle Weisse,5947,Brauerei Mälzerei Otto Kienberger,1,4.32
+561,8.00,248353,https://www.beeradvocate.com/beer/profile/5755/248353/,Weltenburger Kloster,5755,Brauerei Bischofshof,1,3.31
+562,5.20,269346,https://www.beeradvocate.com/beer/profile/48462/269346/,Full Moon Dunkelweizen,48462,Whistle Hop Brewing Company,1,4.25
+563,4.50,147747,https://www.beeradvocate.com/beer/profile/23344/147747/,Dunkel Vice,23344,Chattanooga Brewing Company,1,3.51
+564,5.50,135461,https://www.beeradvocate.com/beer/profile/35900/135461/,Medievalis Dunkel,35900,"Faustino – Microcervejeira, Lda.",1,3.78
+565,4.80,257061,https://www.beeradvocate.com/beer/profile/43182/257061/,Dunkelweizen,43182,12 Gates Brewing Company,1,3.99
+566, ? ,321062,https://www.beeradvocate.com/beer/profile/49649/321062/,Pumpkin Gus,49649,Smelter City Brewing,1,4.16
+567,5.10,274217,https://www.beeradvocate.com/beer/profile/19739/274217/,Dunkelweizen,19739,Rockbottom Bar & Brewery,1,3.73
+568,4.50,172329,https://www.beeradvocate.com/beer/profile/3447/172329/,Red Fife Dunkelweizen,3447,Spinnakers Gastro Brewpub & Guesthouse,1,3.62
+569,5.60,254505,https://www.beeradvocate.com/beer/profile/6186/254505/,Adam Riese Urtrunk,6186,Ebensfelder Brauhaus,1,4.13
+570,6.20,242986,https://www.beeradvocate.com/beer/profile/14359/242986/,Geracherie Dunkelweizen,14359,The Defiant Brewing Company,1,4.14
+571,5.50,211758,https://www.beeradvocate.com/beer/profile/41807/211758/,Bavarian Brunette Dunkleweizen,41807,Wasserhund Brewing Company,1,3.9
+572,6.20,303919,https://www.beeradvocate.com/beer/profile/45307/303919/,Bohemian Ale,45307,Seedstock Brewery,1,3.56
+573,5.60,306223,https://www.beeradvocate.com/beer/profile/143/306223/,Shiner Dark Hefeweizen,143,Spoetzl Brewery / Shiner,1,3.37
+574,5.00,324144,https://www.beeradvocate.com/beer/profile/50608/324144/,Dunkelweizen,50608,Spahr Brewing Company,1,4.21
+575,5.50,75569,https://www.beeradvocate.com/beer/profile/1032/75569/,Slam Dunkel,1032,Five Seasons Prado,1,4.23
+576,4.50,74293,https://www.beeradvocate.com/beer/profile/188/74293/,Idleweiss Dunkelweizen,188,The Caledonian Brewing Company,1,3.06
+577,5.20,271669,https://www.beeradvocate.com/beer/profile/2303/271669/,366,2303,Birrificio Lambrate,1,4
+578,5.40,212277,https://www.beeradvocate.com/beer/profile/7333/212277/,Mecklenburger Dunkles Weibbier,7333,Darguner Brauerei GmbH,1,3.75
+579,7.00,85045,https://www.beeradvocate.com/beer/profile/12402/85045/,Double Dunkelweizen,12402,SLO Brewing Co.,1,3.53
+580,5.20,301878,https://www.beeradvocate.com/beer/profile/50317/301878/,11th St Dark Wheat,50317,Pabst Milwaukee Brewing,1,3.75
+581, ? ,51254,https://www.beeradvocate.com/beer/profile/1336/51254/,Dan's Dunkleweizen,1336,Appalachian Brewing Company,1,3.38
+582,5.00,334647,https://www.beeradvocate.com/beer/profile/43986/334647/,Simon & Gardunkel,43986,Resonate Brewery + Pizzeria,1,3.69
+583,6.10,128568,https://www.beeradvocate.com/beer/profile/34175/128568/,Ronen HaHita HaMehutzefet (Cheeky Wheat),34175,Srigim Brewery,1,3.52
+584, ? ,145721,https://www.beeradvocate.com/beer/profile/34319/145721/,Baron Von Ricchio,34319,ZümBier,1,3.21
+585,5.00,331066,https://www.beeradvocate.com/beer/profile/555/331066/,Feldschlösschen Hefeweizen Dunkel,555,Feldschlösschen Beverages Group,1,3.65
+586,4.60,227131,https://www.beeradvocate.com/beer/profile/40774/227131/,Slamdunkel-weizen,40774,Old School Brewing Company,1,3.04
+587,5.30,179515,https://www.beeradvocate.com/beer/profile/3697/179515/,Flötzinger Bräu Weißbier Dunkel,3697,Flötzinger Bräu/Privatbrauerei Franz Steegmüller,1,3.82
+588,10.00,85820,https://www.beeradvocate.com/beer/profile/1622/85820/,Imperial Dunkel Hefeweizen,1622,Titanic Brewing Company,1,4.35
+589,5.90,314940,https://www.beeradvocate.com/beer/profile/49755/314940/,Barn Dunkel,49755,Barnshed Brewing,1,3.17
+590,5.30,323388,https://www.beeradvocate.com/beer/profile/19247/323388/,1768 Dunkelweizen,19247,The Olde Mecklenburg Brewery,1,3.85
+591,5.20,251711,https://www.beeradvocate.com/beer/profile/43291/251711/,1516,43291,Urban Comfort,1,4.13
+592, ? ,56384,https://www.beeradvocate.com/beer/profile/20637/56384/,Bierhalle Dunkelweizen,20637,Bierhalle,1,3.68
+593, ? ,308545,https://www.beeradvocate.com/beer/profile/45861/308545/,Slam Dunkel,45861,Under The Radar Brewery,1,3.56
+594,6.10,304706,https://www.beeradvocate.com/beer/profile/4063/304706/,Potassium-40,4063,River City Brewing Co.,1,3.75
+595,4.90,336964,https://www.beeradvocate.com/beer/profile/19247/336964/,Dunkel - Rua Whiskey Barrel-Aged,19247,The Olde Mecklenburg Brewery,1,3.79
+596,6.80,276292,https://www.beeradvocate.com/beer/profile/41279/276292/,The Carpenter,41279,BNA Brewing Co.,1,3.75
+597,5.40,291140,https://www.beeradvocate.com/beer/profile/41029/291140/,Dunkel Wize,41029,Humboldt Regeneration Brewery & Farm,1,3.24
+598,5.50,111429,https://www.beeradvocate.com/beer/profile/31190/111429/,Choc Cherry Dunkelweizen,31190,Six String Brewing Company,1,3
+599,5.10,318277,https://www.beeradvocate.com/beer/profile/44202/318277/,Experimental Brew Club #19,44202,Crooked Handle Brewing Co.,1,3.25
+600,5.10,328520,https://www.beeradvocate.com/beer/profile/47056/328520/,Dunk’s Plan,47056,Eight & Sand Beer Co.,1,4.26
+601,5.50,266057,https://www.beeradvocate.com/beer/profile/25378/266057/,Haustøl,25378,Kinn Bryggeri AS,1,3.31
+602,5.40,337225,https://www.beeradvocate.com/beer/profile/33589/337225/,Munich Dunkel,33589,Columbia Kettle Works,1,4.08
+603,4.00,222281,https://www.beeradvocate.com/beer/profile/30102/222281/,German Table Beer,30102,Brasserie Saint James,1,4.3
+604,6.00,298060,https://www.beeradvocate.com/beer/profile/25593/298060/,The Great Horned Owl,25593,Jackalope Brewing Company,1,3.5
+605,4.50,149581,https://www.beeradvocate.com/beer/profile/774/149581/,Mr. D's Dunkelweiss,774,Idaho Brewing Company,1,3.56
+606,4.90,71759,https://www.beeradvocate.com/beer/profile/6227/71759/,Dagesteiner Rittertrunk,6227,Winkler Bräu Schlicht GmbH & Co.,1,3.91
+607,5.30,103247,https://www.beeradvocate.com/beer/profile/6210/103247/,Weidman Dunkel Weissbier,6210,Weissbräu Deisenhofen,1,3.57
+608,5.50,193105,https://www.beeradvocate.com/beer/profile/10546/193105/,Svartön Vehnä,10546,Suomenlinnan Panimo Sveaborgs Bryggeri,1,3.3
+609,5.10,279892,https://www.beeradvocate.com/beer/profile/589/279892/,Slam Dunkel,589,Fox River Brewing Co. at Fratellos Waterfront Restaurant,1,3.3
+610,5.60,86612,https://www.beeradvocate.com/beer/profile/29481/86612/,Braun Bar,29481,Bravery Brewing,1,3.53
+611,5.00,95060,https://www.beeradvocate.com/beer/profile/29100/95060/,Dunkles Vollbier,29100,Brauerei Alt Dietzhof,1,3.55
+612,5.00,81237,https://www.beeradvocate.com/beer/profile/2875/81237/,Carolina Dunkelweizen,2875,Carolina Brewery,1,3.11
+613,5.40,153685,https://www.beeradvocate.com/beer/profile/33187/153685/,Dunkel Weiss,33187,Big Head Brewing Co.,1,3.79
+614,5.30,223829,https://www.beeradvocate.com/beer/profile/689/223829/,Nacht Wachter,689,Two Brothers Brewing Company,1,4.12
+615,5.00,308310,https://www.beeradvocate.com/beer/profile/47907/308310/,Carpathian Dunkel,47907,The Queen City Brewery of Cincinnati,1,3.77
+616, ? ,341591,https://www.beeradvocate.com/beer/profile/51109/341591/,Dunkelweizen,51109,Big Lost Meadery and Brewery,1,3.53
+617,5.80,221783,https://www.beeradvocate.com/beer/profile/1708/221783/,Rusty Roadrunner Lager,1708,Sweetwater Tavern & Brewery,1,3.77
+618,5.50,65880,https://www.beeradvocate.com/beer/profile/5048/65880/,Fujizakura Kougen Chocolate Weizen,5048,Fujikankokaihatsu Co. Ltd. / Sylvans Restaurant,1,2.76
+619,5.20,139608,https://www.beeradvocate.com/beer/profile/5957/139608/,Hochstahl Dunkel,5957,Brauerei Reichold,1,4.25
+620,4.40,160856,https://www.beeradvocate.com/beer/profile/33800/160856/,Storm Chaser,33800,Fork & Brewer,1,4.44
+621,5.30,221787,https://www.beeradvocate.com/beer/profile/41674/221787/,Dunkelweizen,41674,Spilled Grain Brewhouse,1,3.21
+622, ? ,189532,https://www.beeradvocate.com/beer/profile/21505/189532/,Hemelinger Dunkel,21505,Hofbrauhaus Wolters GmbH,1,3.94
+623,8.00,238685,https://www.beeradvocate.com/beer/profile/41783/238685/,The Prinz,41783,Old Nation Brewing Co.,1,3.73
+624,5.80,255069,https://www.beeradvocate.com/beer/profile/3865/255069/,Dunkleweizen,3865,North End Tavern & Brewery,1,4.25
+625,5.00,322653,https://www.beeradvocate.com/beer/profile/39874/322653/,PA Dunkel,39874,The Millworks,1,4.05
+626,9.00,159838,https://www.beeradvocate.com/beer/profile/31573/159838/,Coco Noir,31573,Blacklist Artisan Ales,1,3.5
+627,5.70,254302,https://www.beeradvocate.com/beer/profile/38854/254302/,Bearpaw Dunkelweizen,38854,Voyageur Brewing Company,1,3.94
+628,5.20,154975,https://www.beeradvocate.com/beer/profile/34427/154975/,Royal Thumb,34427,Hitchhiker Brewing Company,1,3.64
+629, ? ,301664,https://www.beeradvocate.com/beer/profile/19798/301664/,Dan Dandy's Dunkelweiss,19798,Wimberley Brewing Company And Brewpub,1,2.88
+630,5.20,49760,https://www.beeradvocate.com/beer/profile/2155/49760/,Big Sue Dunkelweizen,2155,Red Brick Station,1,4
+631,5.00,324448,https://www.beeradvocate.com/beer/profile/38140/324448/,Frau Blucher,38140,Prison City Pub & Brewery,1,4.49
+632,5.80,260192,https://www.beeradvocate.com/beer/profile/42224/260192/,Coltsville Dunkelweizen,42224,Hog River Brewing Co.,1,4.06
+633,5.90,85858,https://www.beeradvocate.com/beer/profile/28259/85858/,Slam Dunkelweizen,28259,Wit's End Brewing Company,1,4
+634,5.50,162658,https://www.beeradvocate.com/beer/profile/30726/162658/,Bergstaat,30726,J Wells Brewery,1,3.69
+635,5.10,179810,https://www.beeradvocate.com/beer/profile/6797/179810/,Ruppaner Hefe Weizen Dunkel,6797,Ruppaner Bräu Gebr. Ruppaner,1,4.25
+636, ? ,55650,https://www.beeradvocate.com/beer/profile/17033/55650/,Osbakken Dunkelweiss,17033,Franconia Brewing Company,1,4.2
+637,5.00,56162,https://www.beeradvocate.com/beer/profile/1144/56162/,Dunkelweizen,1144,Le Cheval Blanc,1,3.85
+638,5.00,141411,https://www.beeradvocate.com/beer/profile/179/141411/,Dark Kristall,179,Snake River Brewing Company & Brewpub,1,3.98
+639,4.50,141412,https://www.beeradvocate.com/beer/profile/34507/141412/,Kadigan,34507,Pollyanna Brewing Company,1,3.91
+640,5.10,307557,https://www.beeradvocate.com/beer/profile/50697/307557/,Over There,50697,Thunderhawk Alements,1,4.16
+641,5.80,325990,https://www.beeradvocate.com/beer/profile/51824/325990/,Kupfer Dunkel,51824,Copper Mine Brewing Company,1,3.94
+642,4.40,47976,https://www.beeradvocate.com/beer/profile/14516/47976/,Longest Night Dunkelweizen,14516,Elysian Fields,1,4.01
+643,5.30,114024,https://www.beeradvocate.com/beer/profile/6104/114024/,Dunkle Weisse,6104,Müllerbräu Neuötting K. Müller,1,3.46
+644,4.80,275049,https://www.beeradvocate.com/beer/profile/16325/275049/,Downtown Dunkel,16325,Carter's Brewing,1,3.64
+645,5.20,284266,https://www.beeradvocate.com/beer/profile/38743/284266/,Dummkopf,38743,Brocklebank Craft Brewing,1,3.85
+646,6.70,179818,https://www.beeradvocate.com/beer/profile/38524/179818/,Dunkelweizen,38524,Scottsdale Beer Company,1,3.94
+647,4.10,312426,https://www.beeradvocate.com/beer/profile/30858/312426/,Dungeons and Dunkels,30858,Aardwolf Brewing Company,1,3.89
+648,4.99,255083,https://www.beeradvocate.com/beer/profile/31865/255083/,CF Dunkelweizen,31865,Hopvine Brewing Company,1,3.58
+649,5.20,90220,https://www.beeradvocate.com/beer/profile/20472/90220/,Dunkelhorn,20472,Hornbeer,1,3.35
+650,5.10,252012,https://www.beeradvocate.com/beer/profile/47281/252012/,Basement Bavarian Wheat,47281,Bosacki's Home Brew,1,3.43
+651,6.00,140653,https://www.beeradvocate.com/beer/profile/20786/140653/,Bokbeer,20786,Camelthorn Brewing Company Ltd,1,3.07
+652,4.90,341357,https://www.beeradvocate.com/beer/profile/34281/341357/,Dunkelweizen,34281,Cloud 9 Brewery,1,3.1
+653,5.62,327278,https://www.beeradvocate.com/beer/profile/51881/327278/,Dirt Tracker,51881,Redline Brewing Company,1,2.75
+654,4.70,262256,https://www.beeradvocate.com/beer/profile/47141/262256/,"Tall, Dark, And Hefe Dunkel",47141,Mastry's Brewing Company,1,3.5
+655, ? ,156020,https://www.beeradvocate.com/beer/profile/25129/156020/,Donar's Dunkelweizen,25129,MoMo's Pizza & Brewpub,1,3.53
+656,5.10,285046,https://www.beeradvocate.com/beer/profile/33060/285046/,Coffee Delta,33060,Gneiss Brewing Company,1,4.25
+657,5.20,270455,https://www.beeradvocate.com/beer/profile/48514/270455/,Whiptail Dunkelweizen,48514,El Paso Brewing Company,1,3.73
+658,6.00,271735,https://www.beeradvocate.com/beer/profile/6050/271735/,Hutthurmer Ernte-Weisse,6050,Hutthurmer Bayerwald Brauerei,1,3.6
+659,5.00,295289,https://www.beeradvocate.com/beer/profile/34776/295289/,Shevchenko,34776,Four Fathers Brewing,1,3.24
+660, ? ,60793,https://www.beeradvocate.com/beer/profile/6144/60793/,Felsen Brau Dunkel,6144,Pyraser Bier GmbH & Co. KG,1,3.15
+661, ? ,189818,https://www.beeradvocate.com/beer/profile/36019/189818/,Dunkelweisen,36019,Levi Garrison & Sons Brewing Company,1,3.49
+662,5.80,135805,https://www.beeradvocate.com/beer/profile/2436/135805/,Funkadelic Dunkel,2436,Blue Corn Brewery,1,3.5
+663,8.50,292221,https://www.beeradvocate.com/beer/profile/36833/292221/,Nice Marmot Imperial Dunkelweizen,36833,Meadowlark Brewing,1,4.38
+664,5.30,282499,https://www.beeradvocate.com/beer/profile/36086/282499/,Dunkel Weizen,36086,Broken Compass Brewing,1,4.16
+665,5.60,226692,https://www.beeradvocate.com/beer/profile/44161/226692/,Bavarian Dunkelweizen,44161,Gulf Coast Brewery,1,3.7
+666,5.40,110726,https://www.beeradvocate.com/beer/profile/33138/110726/,Dunkel Weizen De Beaumont,33138,Microbrasserie de Bellechasse,1,2.78
+667, ? ,75655,https://www.beeradvocate.com/beer/profile/11508/75655/,Taxi Pete Wheat,11508,Red Jacket Brewing Company,1,3.68
+668,4.70,281735,https://www.beeradvocate.com/beer/profile/40905/281735/,Jungle Dunkel,40905,Lake Arenal Hotel & Brewery,1,3.43
+669,5.00,87175,https://www.beeradvocate.com/beer/profile/25628/87175/,Mund Vorhang Dunkelweizen,25628,Double Horn Brewing Company,1,3.28
+670,5.00,307335,https://www.beeradvocate.com/beer/profile/765/307335/,All Or Nothing Dunkelweizen,765,All or Nothing Brewhouse,1,3.5
+671,5.20,141960,https://www.beeradvocate.com/beer/profile/1860/141960/,Unkle-Krunkle Dunkel,1860,Bube's Brewery,1,3.23
+672,5.60,217226,https://www.beeradvocate.com/beer/profile/36041/217226/,Iki Gourmet Dark Beer,36041,Taruškų Alaus Bravoras,1,2.39
+673,5.00,325514,https://www.beeradvocate.com/beer/profile/44721/325514/,Can You Fig It?,44721,Peabody Heights Brewery,1,3.75
+674,6.00,313484,https://www.beeradvocate.com/beer/profile/51085/313484/,"Brothers Don't Shake Hands, Brothers Gotta Brew",51085,Little Brother Brewing,1,3.61
+675,5.80,302989,https://www.beeradvocate.com/beer/profile/6256/302989/,Magisch Dunkel,6256,Brauerei Ganter GmbH & Co. KG,1,3.63
+676, ? ,115341,https://www.beeradvocate.com/beer/profile/31271/115341/,Ace Weizenryemer,31271,Hunter's Brewing,1,3.25
+677,5.50,141454,https://www.beeradvocate.com/beer/profile/16713/141454/,Dunkel Fester,16713,HopCat,1,4
+678, ? ,212110,https://www.beeradvocate.com/beer/profile/42942/212110/,Dunkelweizen,42942,Crafty Bastard Brewery,1,2.64
+679,5.10,330127,https://www.beeradvocate.com/beer/profile/33182/330127/,Kraggle Munich Dunkel,33182,Grist Brewing Company,1,3.92
+680,4.90,152463,https://www.beeradvocate.com/beer/profile/34740/152463/,Augustiańskie,34740,Browar Widawa Gospoda Pod Czarnym Kurem S.c.,1,2.15
+681,5.00,115857,https://www.beeradvocate.com/beer/profile/34193/115857/,Phantom Dunkelweizen,34193,"Phantom Ales, Cider, & Cellar",1,3
+682,4.70,265106,https://www.beeradvocate.com/beer/profile/46205/265106/,Weiss' Dunkel,46205,Cibolo Creek Brewing Company,1,2.69
+683,5.60,176018,https://www.beeradvocate.com/beer/profile/37964/176018/,Dunkel,37964,Earthbound Brewing,1,3.75
+684,5.60,318867,https://www.beeradvocate.com/beer/profile/39873/318867/,Dr. Dunkelstein,39873,Recess Brewing,1,3.97
+685,2.80,9876,https://www.beeradvocate.com/beer/profile/3686/9876/,Kuchlbauer Sportsfreund,3686,Weissbierbrauerei Kuchlbauer,1,2.36
+686,5.30,340116,https://www.beeradvocate.com/beer/profile/49839/340116/,Dunkel,49839,Riverhead Brewing Company,1,3.25
+687,4.50,282004,https://www.beeradvocate.com/beer/profile/4832/282004/,Munich Dunkel,4832,Triumph Brewing Company,1,3.79
+688,5.00,181652,https://www.beeradvocate.com/beer/profile/32392/181652/,Moretta,32392,Microbirrificio Lara,1,3.67
+689,5.50,317332,https://www.beeradvocate.com/beer/profile/47159/317332/,Biller Time,47159,Old Irving Brewing Co.,1,3.6
+690,5.00,202390,https://www.beeradvocate.com/beer/profile/20914/202390/,Dunkel Kvietinis,20914,Volfas Engelman,1,3.69
+691,5.60,52376,https://www.beeradvocate.com/beer/profile/2556/52376/,Sunshine Coast Dunkel,2556,"Sunshine Coast Brewery, The",1,3.75
+692,6.00,174233,https://www.beeradvocate.com/beer/profile/5047/174233/,Minami Shinshu Dunkelweizen,5047,Minamishinsyu Brewery,1,3.75
+693,5.30,181657,https://www.beeradvocate.com/beer/profile/35879/181657/,Malt Assault,35879,Shenanigans Brewing,1,4.04
+694,6.00,121497,https://www.beeradvocate.com/beer/profile/29641/121497/,Faussback Allégée,29641,Microbrasserie Goudale,1,3.5
+695,5.10,333722,https://www.beeradvocate.com/beer/profile/1793/333722/,Dunkelweizen,1793,Capitol City Brewing Company,1,4.05
+696,4.90,182170,https://www.beeradvocate.com/beer/profile/6652/182170/,Schüttinger Hell Dunkel,6652,Schüttinger Brauerei,1,4.21
+697,7.50,212123,https://www.beeradvocate.com/beer/profile/40789/212123/,Imperial Sturmisch,40789,Goshen Brewing Company,1,4.15
+698,6.60,314523,https://www.beeradvocate.com/beer/profile/3865/314523/,Danke Dunkel,3865,North End Tavern & Brewery,1,3.68
+699,4.50,219036,https://www.beeradvocate.com/beer/profile/40658/219036/,Weiz So Serious,40658,Vail Brewing Co.,1,3.55
+700,5.20,200861,https://www.beeradvocate.com/beer/profile/14359/200861/,DunkleWeizen,14359,The Defiant Brewing Company,1,3.75
+701,4.40,75165,https://www.beeradvocate.com/beer/profile/24836/75165/,Dunkel Weiss,24836,Tequesta Brewing Company,1,4
+702,5.40,47005,https://www.beeradvocate.com/beer/profile/4926/47005/,Jackalope Dark Wheat,4926,Seabright Brewery,1,4.5
+703, ? ,185757,https://www.beeradvocate.com/beer/profile/33850/185757/,Dunkelweizen,33850,Bomber Brewing,1,2.5
+704,5.20,194461,https://www.beeradvocate.com/beer/profile/25260/194461/,Schone Nacht,25260,Enegren Brewing Company,1,3.51
+705,6.00,282014,https://www.beeradvocate.com/beer/profile/45508/282014/,Witte Beer,45508,Gebrouwen Door Vrouwen,1,3.25
+706,5.20,303262,https://www.beeradvocate.com/beer/profile/45030/303262/,Dunkelweizen,45030,Lost Cabin Beer Co.,1,3.75
+707,5.60,271263,https://www.beeradvocate.com/beer/profile/35883/271263/,Ba Dunkel Dünk,35883,Southern Pines Brewing Company,1,3.79
+708, ? ,101791,https://www.beeradvocate.com/beer/profile/1305/101791/,Dunkelweizen,1305,Vino's Brewpub,1,4
+709,5.30,104354,https://www.beeradvocate.com/beer/profile/5859/104354/,Wittmann Schwarz-Weisse,5859,Brauerei Wittmann,1,3.5
+710,5.60,312482,https://www.beeradvocate.com/beer/profile/36789/312482/,Plantain Pícaro Dunkelweizen,36789,Concrete Beach Brewery,1,3.75
+711,6.00,258979,https://www.beeradvocate.com/beer/profile/45955/258979/,Slam Dunkelweizen,45955,Stones Throw Brewing Co.,1,3.69
+712, ? ,110244,https://www.beeradvocate.com/beer/profile/27350/110244/,Grumpy Old Dunkel,27350,Reads Landing Brewing Company,1,3.75
+713,6.70,334245,https://www.beeradvocate.com/beer/profile/35410/334245/,Bruleed Banana Dunkelweizen,35410,Moody Tongue Brewing Company,1,3.73
+714,5.30,154021,https://www.beeradvocate.com/beer/profile/35985/154021/,Dunkelweizen,35985,Service Brewing Company,1,3.53
+715,4.90,329895,https://www.beeradvocate.com/beer/profile/1659/329895/,Dunkel,1659,South Street Brewery,1,3.92
+716,5.50,134311,https://www.beeradvocate.com/beer/profile/11412/134311/,Oktoberfest,11412,Bedondaine & Bedons Ronds,1,4
+717,5.00,205223,https://www.beeradvocate.com/beer/profile/38813/205223/,Fruitcake,38813,Ghostfish Brewing Co.,1,3.56
+718,5.50,174759,https://www.beeradvocate.com/beer/profile/30015/174759/,Flowers Grove,30015,Southbound Brewing Company,1,4
+719,5.20,240552,https://www.beeradvocate.com/beer/profile/2431/240552/,Schloss Fels Hefeweissbier Dunkel,2431,Privatbrauerei Eichbaum GmbH & Co. KG,1,3.62
+720,6.00,233898,https://www.beeradvocate.com/beer/profile/44764/233898/,Dunkelweizen,44764,Woodwright Brewing Co,1,5
+721,5.10,179627,https://www.beeradvocate.com/beer/profile/40789/179627/,Sturmisch,40789,Goshen Brewing Company,1,3.5
+722,4.90,241325,https://www.beeradvocate.com/beer/profile/3694/241325/,Hirzinger Weissbier,3694,Unertl Weissbier GmbH,1,3.65
+723, ? ,13230,https://www.beeradvocate.com/beer/profile/5847/13230/,Maisacher Dunkel Weizen,5847,Brauerei Maisach - Bräustüberl Maisach,1,4.03
+724,6.80,305839,https://www.beeradvocate.com/beer/profile/41817/305839/,Stuck Truck,41817,Boggy Draw Brewery,1,3.33
+725,5.30,242608,https://www.beeradvocate.com/beer/profile/33631/242608/,Dunkhead,33631,SoMe Brewing Company,1,3.66
+726,5.00,275121,https://www.beeradvocate.com/beer/profile/44823/275121/,Dunkelweizen,44823,Tuned Up Brewing Company,1,3.57
+727,5.20,114097,https://www.beeradvocate.com/beer/profile/31972/114097/,Uncle Joe's Funky Unkle Dunkle,31972,Warehouse Gourmet Bistro & Brew Pub,1,3.75
+728,6.00,64689,https://www.beeradvocate.com/beer/profile/14563/64689/,Dropped 7 Dunkel,14563,Sherwood Brewing Company,1,3.53
+729,5.80,241843,https://www.beeradvocate.com/beer/profile/16110/241843/,Dammerlicht Dunkelweizen,16110,Rivertowne Pourhouse,1,4.04
+730,5.30,305333,https://www.beeradvocate.com/beer/profile/31995/305333/,Dirk,31995,Rhinegeist Brewery,1,3.81
+731,7.70,310966,https://www.beeradvocate.com/beer/profile/105/310966/,Miller Valley Dunkel Berry,105,Miller Brewing Co.,1,3.5
+732,5.25,191158,https://www.beeradvocate.com/beer/profile/12706/191158/,Dunkelweizen,12706,Kannah Creek Brewing Company,1,4
+733,6.00,282039,https://www.beeradvocate.com/beer/profile/36045/282039/,Tamsusis 666,36045,Armeniukas UAB,1,3.75
+734,5.26,327095,https://www.beeradvocate.com/beer/profile/40873/327095/,Dunkelweizen,40873,R. Shea Brewing,1,3.82
+735,5.30,27320,https://www.beeradvocate.com/beer/profile/5765/27320/,Weideneder Schlankl Weiss,5765,Weideneder Brau,1,4.22
+736,4.50,173754,https://www.beeradvocate.com/beer/profile/37475/173754/,Dunkelweiss,37475,Hellbender Brewing Company,1,3.59
+737,6.00,246970,https://www.beeradvocate.com/beer/profile/33627/246970/,Banana Bread Dunkel,33627,Bad Martha Brewing Co.,1,4.04
+738,4.50,144059,https://www.beeradvocate.com/beer/profile/22459/144059/,Dunkelweizen,22459,JoBoy's Brew Pub,1,2.74
+739, ? ,215483,https://www.beeradvocate.com/beer/profile/44176/215483/,Weiss Dark,44176,Pivnica Star Grad Old Town Brewery,1,3.15
+740, ? ,257467,https://www.beeradvocate.com/beer/profile/33770/257467/,Dunkelweizen,33770,Wanderlust Brewing Company,1,3.75
+741,4.20,329916,https://www.beeradvocate.com/beer/profile/49832/329916/,Aegir's Omen,49832,Longship Brewery,1,4.82
+742,5.80,65981,https://www.beeradvocate.com/beer/profile/21449/65981/,Harvest Dunkelweiss,21449,Sonoma Springs Brewing Co.,1,1.59
+743,4.20,276926,https://www.beeradvocate.com/beer/profile/48384/276926/,Dr. Dunkelweizenheimer,48384,IBU Brewery,1,3.18
+744, ? ,28862,https://www.beeradvocate.com/beer/profile/9563/28862/,Dunkelweizen Ale,9563,Queen City Brewing Limited,1,3.69
+745,5.40,124350,https://www.beeradvocate.com/beer/profile/6256/124350/,Badisch Weizen Hefedunkel,6256,Brauerei Ganter GmbH & Co. KG,1,4.01
+746,6.30,103359,https://www.beeradvocate.com/beer/profile/30567/103359/,Kirsche Me,30567,Rockford Brewing Company,1,3.25
+747,4.20,67520,https://www.beeradvocate.com/beer/profile/22622/67520/,Frank,22622,Social Kitchen & Brewery,1,3.92
+748,5.80,176320,https://www.beeradvocate.com/beer/profile/40968/176320/,Sabat Czarownic,40968,BR Perun SA,1,3.42
+749,5.40,171713,https://www.beeradvocate.com/beer/profile/8776/171713/,Dwayyo Dunkelweizen,8776,Barley and Hops,1,4.35
+750,4.50,264131,https://www.beeradvocate.com/beer/profile/46831/264131/,Sweet Potato Dunkel,46831,Blank Canvas Brewery,1,2.23
+751, ? ,221637,https://www.beeradvocate.com/beer/profile/16378/221637/,Dunkelweizen,16378,Heater Allen Brewing,1,4.28
+752,5.40,224197,https://www.beeradvocate.com/beer/profile/4117/224197/,Rossbräu SchwarzWeiss,4117,Brauerei Raschhofer,1,3.15
+753,6.20,163525,https://www.beeradvocate.com/beer/profile/29573/163525/,Dunkelweizen,29573,pFriem Family Brewers,1,3.89
+754,6.90,58309,https://www.beeradvocate.com/beer/profile/19544/58309/,Wazupwidis Weizen,19544,Fat Head's Brewery & Saloon,1,3.95
+755,6.00,75718,https://www.beeradvocate.com/beer/profile/9704/75718/,Dunkelweizen,9704,Emmett's Brewing Company,1,4.13
+756,4.70,272582,https://www.beeradvocate.com/beer/profile/46831/272582/,Salted Caramel,46831,Blank Canvas Brewery,1,4.05
+757,5.20,153286,https://www.beeradvocate.com/beer/profile/16096/153286/,Dunkel,16096,Allentown Brew Works,1,3.94
+758,6.50,217799,https://www.beeradvocate.com/beer/profile/986/217799/,Eisbecher Weissbier,986,Wynkoop Brewing Company,1,3.29
+759, ? ,307399,https://www.beeradvocate.com/beer/profile/45558/307399/,Oktoberfest,45558,Nivol Brewery,1,3.6
+760,5.20,197064,https://www.beeradvocate.com/beer/profile/28641/197064/,Big Daddy Dunkel,28641,Water Street Brewing Co.,1,3.85
+761,4.50,159944,https://www.beeradvocate.com/beer/profile/39103/159944/,Bohemia Dark Beer,39103,Hospoda Brewery,1,4.03
+762, ? ,315080,https://www.beeradvocate.com/beer/profile/38140/315080/,frau blucher dunkel,38140,Prison City Pub & Brewery,1,3.5
+763,7.20,319432,https://www.beeradvocate.com/beer/profile/46535/319432/,Sweet Thistle Pie,46535,Tattered Flag Brewery & Still Works,1,4
+764,5.00,232137,https://www.beeradvocate.com/beer/profile/39308/232137/,Dämmerung,39308,Medusa Brewing Company,1,3.25
+765,4.00,3786,https://www.beeradvocate.com/beer/profile/1412/3786/,Red Rock Dunkel Weizen,1412,Red Rock Brewing Company,1,3.02
+766,5.60,118218,https://www.beeradvocate.com/beer/profile/34276/118218/,Dunkel,34276,Cassels & Sons Brewing Co.,1,3.5
+767, ? ,58058,https://www.beeradvocate.com/beer/profile/5751/58058/,Hefeweissbier Dunkel,5751,Bayerische Löwenbrauerei,1,3.67
+768,5.70,102092,https://www.beeradvocate.com/beer/profile/27354/102092/,Dunkelweizen,27354,O.H.S.O. Eatery & Nano-Brewery,1,2
+769,6.00,201677,https://www.beeradvocate.com/beer/profile/34605/201677/,Dunkelweizen,34605,Biloba Brewing Company,1,2.68
+770,5.50,253901,https://www.beeradvocate.com/beer/profile/47392/253901/,Dunkleweizen,47392,Triphammer Bierwerks,1,3.9
+771,5.00,74704,https://www.beeradvocate.com/beer/profile/6056/74704/,Jura Weizen Dunkel,6056,Jura Bräu,1,3.5
+772,6.20,215761,https://www.beeradvocate.com/beer/profile/39248/215761/,Dunkel Weisse,39248,Last Stand Brewing Company,1,3.75
+773,5.50,34769,https://www.beeradvocate.com/beer/profile/12922/34769/,Gourmetbryggeriet Cloudy Wheat,12922,Gourmetbryggeriet,1,3.59
+774,4.10,312785,https://www.beeradvocate.com/beer/profile/47796/312785/,Dunkle Weisse,47796,GearHouse Brewing Company,1,4.24
+775,6.20,325073,https://www.beeradvocate.com/beer/profile/51782/325073/,Kottbusser,51782,CO-Brew,1,3.99
+776,6.00,70610,https://www.beeradvocate.com/beer/profile/22917/70610/,Dunkelweizen,22917,Ferguson Brewing Company,1,3.7
+777,6.60,180434,https://www.beeradvocate.com/beer/profile/1467/180434/,L'Inédite,1467,Micro-brasserie Saint-Arnould,1,3.49
+778,5.70,340691,https://www.beeradvocate.com/beer/profile/51676/340691/,Conduit,51676,Noble Creature Cask House,1,3.9
+779, ? ,153811,https://www.beeradvocate.com/beer/profile/17310/153811/,Barking Owl,17310,Otway Estate Winery & Brewery,1,3.75
+780,5.00,132820,https://www.beeradvocate.com/beer/profile/31586/132820/,Edna,31586,Benelux Brasserie Artisanale,1,3.5
+781,4.10,294616,https://www.beeradvocate.com/beer/profile/48188/294616/,Dark Side Dunkel,48188,Millennial Brewing Company,1,3.76
+782,5.80,198617,https://www.beeradvocate.com/beer/profile/34158/198617/,Dunkelweizen,34158,Luminous Brewhouse,1,3.54
+783, ? ,331226,https://www.beeradvocate.com/beer/profile/41739/331226/,Duckinn-kleweizen,41739,Miskatonic Brewing Company,1,3.52
+784,4.90,271834,https://www.beeradvocate.com/beer/profile/37641/271834/,Dunkel,37641,Burwood Brewing Company,1,3.88
+785,6.10,198108,https://www.beeradvocate.com/beer/profile/36959/198108/,Dis Dunkel,36959,Rök House Brewing Company,1,3.5
+786,5.40,114140,https://www.beeradvocate.com/beer/profile/6212/114140/,Kirta,6212,Graminger Weissbräu,1,3.45
+787,5.00,151261,https://www.beeradvocate.com/beer/profile/5010/151261/,Dunkelweizen,5010,Buller Brewing Co.,1,2.99
+788, ? ,223709,https://www.beeradvocate.com/beer/profile/7122/223709/,Liver Eatin' Johnson Dark Wheat Ale,7122,Red Lodge Ales,1,3.67
+789,5.30,242909,https://www.beeradvocate.com/beer/profile/6155/242909/,Dunkles Weizen,6155,Schlossbrauerei Autenried GmbH,1,3.63
+790,5.60,184286,https://www.beeradvocate.com/beer/profile/9510/184286/,Waldhaus Schwarzwald Weisse Dunkelweizen,9510,Privatbrauerei Waldhaus,1,3.15
+791, ? ,270559,https://www.beeradvocate.com/beer/profile/9264/270559/,Dunkelweizen,9264,Royal Bavaria Restaurant & Brewery,1,3.47
+792,5.10,304351,https://www.beeradvocate.com/beer/profile/41814/304351/,Dark Side of the Weiss,41814,Salt Springs Brewery,1,3.94
+793,5.60,124127,https://www.beeradvocate.com/beer/profile/34458/124127/,Dunkel Dunk,34458,La Vella Caravana,1,3.68
+794, ? ,270560,https://www.beeradvocate.com/beer/profile/9264/270560/,Munich Dunkelweizen,9264,Royal Bavaria Restaurant & Brewery,1,2.71
+795,6.50,212960,https://www.beeradvocate.com/beer/profile/2306/212960/,Dunkelweiss,2306,Pints Brewery & Sports Bar,1,4.04
+796,4.95,279264,https://www.beeradvocate.com/beer/profile/15218/279264/,Dunkle Rico,15218,C.B. & Potts,1,3.78
+797,4.40,330977,https://www.beeradvocate.com/beer/profile/50744/330977/,Dunkelweizen,50744,Scotty's Bierwerks,1,3.75
+798,5.20,142306,https://www.beeradvocate.com/beer/profile/817/142306/,Stiegl Hausbier Nachtschwärmer,817,Stieglbrauerei zu Salzburg GmbH,1,3.4
+799, ? ,226276,https://www.beeradvocate.com/beer/profile/44318/226276/,Munich Dunkel,44318,Table Brewing Co.,1,3.53
+800,5.30,45540,https://www.beeradvocate.com/beer/profile/3665/45540/,Urweizen Dunkel,3665,Grosswald Brauerei,1,4.32
+801,7.00,127204,https://www.beeradvocate.com/beer/profile/35446/127204/,Amarilis Dunkelweizen,35446,Cervecería Aldon,1,2.24
+802,4.00,262373,https://www.beeradvocate.com/beer/profile/44641/262373/,Spurwink,44641,Fore River Brewing Co.,1,3.55
+803,4.80,70373,https://www.beeradvocate.com/beer/profile/11819/70373/,Hopfenmandli Zuger Lager Dunkel,11819,Brauerei Baar AG,1,2.31
+804,7.00,196581,https://www.beeradvocate.com/beer/profile/26933/196581/,Mad Corcoran,26933,Corcoran Brewing Company,1,3.62
+805, ? ,52968,https://www.beeradvocate.com/beer/profile/15740/52968/,Zierholz Dunkelweizen,15740,Zierholz Premium Brewery,1,4.38
+806,4.80,274922,https://www.beeradvocate.com/beer/profile/3517/274922/,Bruzer Weizen Black Beer,3517,Brouwerij Martens NV,1,3.42
+807,4.50,280298,https://www.beeradvocate.com/beer/profile/22723/280298/,Dunkel Weisse,22723,Notch Brewing,1,4.34
+808,5.30,238570,https://www.beeradvocate.com/beer/profile/295/238570/,St. Georgenbräu Weissbier Dunkel,295,St. Georgenbräu,1,3.64
+809,5.20,335339,https://www.beeradvocate.com/beer/profile/23066/335339/,Creepy Dunkel,23066,Boneyard Beer Company,1,4.1
+810,6.00,163307,https://www.beeradvocate.com/beer/profile/30482/163307/,Ale-Égante,30482,Lagabière Brasserie Artisanale,1,3.67
+811,4.50,319723,https://www.beeradvocate.com/beer/profile/32731/319723/,Dunkel,32731,Engrained Brewing Company,1,3.15
+812, ? ,238828,https://www.beeradvocate.com/beer/profile/29923/238828/,Dunkelweiss,29923,Northbound Brewpub,1,4.16
+813,6.00,130540,https://www.beeradvocate.com/beer/profile/3838/130540/,Ciemne,3838,Minibrowar Restauracja Spiz,1,3.79
+814,5.10,315885,https://www.beeradvocate.com/beer/profile/43660/315885/,Dunkel Down,43660,O'Fallon Brewery,1,3.95
+815,5.30,266478,https://www.beeradvocate.com/beer/profile/43260/266478/,Dunkelweizen,43260,Riptide Brewing Company,1,3.91
+816,4.90,185838,https://www.beeradvocate.com/beer/profile/31586/185838/,Verdun,31586,Benelux Brasserie Artisanale,1,3.6
+817,5.10,56302,https://www.beeradvocate.com/beer/profile/6809/56302/,Ulmer Hefeweizen Dunkel,6809,Familienbrauerei Bauhöfer GmbH & Co. KG,1,3.57
+818,5.00,172527,https://www.beeradvocate.com/beer/profile/25618/172527/,Dunkel Weizen,25618,La Succursale Brasserie Artisanale,1,3.02
+819, ? ,194287,https://www.beeradvocate.com/beer/profile/9282/194287/,Monkeys Dunkel,9282,Boscos Restaurant & Brewing Co.,1,4.25
+820,8.20,213232,https://www.beeradvocate.com/beer/profile/22861/213232/,Kompass,22861,Galway Bay Brewery,1,4.4
+821,4.10,89073,https://www.beeradvocate.com/beer/profile/26824/89073/,Dunkelweizen,26824,The Civil Life Brewing Company,1,3.77
+822,5.90,231153,https://www.beeradvocate.com/beer/profile/25436/231153/,Dunkelweizen,25436,Copper Kettle Brewing Company,1,3.55
+823,6.20,187635,https://www.beeradvocate.com/beer/profile/29059/187635/,Franklin Kisses,29059,DryHop Brewers,1,3.84
+824,5.50,141046,https://www.beeradvocate.com/beer/profile/26851/141046/,Achtebahn,26851,Junction Craft Brewing,1,3
+825, ? ,215542,https://www.beeradvocate.com/beer/profile/35968/215542/,Steam Donkey Dunkel,35968,Old Rock Brewery,1,3.25
+826,5.30,235767,https://www.beeradvocate.com/beer/profile/29204/235767/,Wichtel Hefeweizen Dunkel,29204,Böblinger Wichtel Hausbrauerei,1,3.49
+827,6.00,263930,https://www.beeradvocate.com/beer/profile/45697/263930/,Down State Dunkel Weiss,45697,Bellefonte Brewing Co.,1,4.06
+828,5.40,271098,https://www.beeradvocate.com/beer/profile/38284/271098/,Dunkelweizen,38284,Kilowatt Brewing,1,3.71
+829,5.20,282874,https://www.beeradvocate.com/beer/profile/48876/282874/,Lionshead Dunkel,48876,Limestone Beer Co.,1,3.79
+830,5.30,124154,https://www.beeradvocate.com/beer/profile/6012/124154/,Jacob Dunkles Weissbier,6012,Familienbrauerei Jacob,1,3.75
+831,5.50,295419,https://www.beeradvocate.com/beer/profile/12959/295419/,Dunkel & Einhorn,12959,Captain Lawrence Brewing Co.,1,3.52
+832, ? ,30716,https://www.beeradvocate.com/beer/profile/4196/30716/,Dunkel Weizen,4196,Copper Creek Brewing Co.,1,3.8
+833,6.30,280062,https://www.beeradvocate.com/beer/profile/49058/280062/,501st Dunkelweizen,49058,Long Wooden Spoon (LWS) Brewing,1,3.58
+834, ? ,150526,https://www.beeradvocate.com/beer/profile/952/150526/,Polar Vortex Dunkelweizen,952,Great Dane Pub & Brewing Company (Downtown),1,3.76
+835,4.00,151807,https://www.beeradvocate.com/beer/profile/28693/151807/,Dunkel-Weizen,28693,Outlaw Brewing,1,3.6
+836,7.20,299775,https://www.beeradvocate.com/beer/profile/598/299775/,Slam!,598,Onion Pub & Brewery / Wild Onion Brewing Co.,1,3.75
+837,5.30,254464,https://www.beeradvocate.com/beer/profile/46598/254464/,Dunkelweizen,46598,Goldhorn Brewery,0,0
+838,5.40,152834,https://www.beeradvocate.com/beer/profile/4685/152834/,Dunkelweizen,4685,Hofbräuhaus Newport,0,0
+839, ? ,163330,https://www.beeradvocate.com/beer/profile/25264/163330/,Sauber Dunkel Weizen,25264,Sauber Beer,0,0
+840,5.00,280579,https://www.beeradvocate.com/beer/profile/33483/280579/,Uncle Dunkel,33483,Shiretown Beer,0,0
+841,5.10,313603,https://www.beeradvocate.com/beer/profile/6214/313603/,Grandauer Dunkle Weisse,6214,Brauerei Grandauer - Wildbräu Grafing vor München,0,0
+842,7.10,146949,https://www.beeradvocate.com/beer/profile/37625/146949/,Hoppy Dunkel Weizen,37625,BrewLAB,0,0
+843,5.40,161541,https://www.beeradvocate.com/beer/profile/4117/161541/,Weizen Dunkel,4117,Brauerei Raschhofer,0,0
+844,6.00,124678,https://www.beeradvocate.com/beer/profile/24888/124678/,Downtown Dunkel Weizen,24888,Midtown Brewing Company,0,0
+845, ? ,203785,https://www.beeradvocate.com/beer/profile/32072/203785/,Prudence,32072,BREW Pub & Kitchen,0,0
+846,4.80,326921,https://www.beeradvocate.com/beer/profile/51502/326921/,Dunkel Steve,51502,Amor Artis Brewing,0,0
+847,5.60,324106,https://www.beeradvocate.com/beer/profile/51096/324106/,Dunkelweizen,51096,Southern Lights Brewing,0,0
+848,5.20,259851,https://www.beeradvocate.com/beer/profile/24600/259851/,Banana Hammock Panic,24600,Figueroa Mountain Brewing Co.,0,0
+849,5.00,102669,https://www.beeradvocate.com/beer/profile/3482/102669/,Dunkelweizen,3482,Aloha Beer Company,0,0
+850,6.00,101134,https://www.beeradvocate.com/beer/profile/26035/101134/,Dunkel,26035,Twisted Crew Brewing Company,0,0
+851, ? ,68112,https://www.beeradvocate.com/beer/profile/25329/68112/,Třebonické Ludmila Pšeničné Tmavé 12°,25329,Třebonický Rukodělný Pivovárek,0,0
+852,4.90,288017,https://www.beeradvocate.com/beer/profile/42569/288017/,The Unlauterable,42569,Wabash Brewing Taproom & Brewery,0,0
+853,7.80,268308,https://www.beeradvocate.com/beer/profile/31093/268308/,Pacific Rim,31093,MadTree Brewing,0,0
+854, ? ,214805,https://www.beeradvocate.com/beer/profile/36946/214805/,Dunkel,36946,Mudbug Brewery,0,0
+855, ? ,60949,https://www.beeradvocate.com/beer/profile/12140/60949/,Steinbach Dunkles Weizen,12140,Steinbach Bräu,0,0
+856,5.30,265238,https://www.beeradvocate.com/beer/profile/28673/265238/,Monkey Dunkel,28673,Valley Vinyards / Cellar Dweller Craft Beers,0,0
+857,4.00,124183,https://www.beeradvocate.com/beer/profile/35208/124183/,URSA Dobra Karma,35208,Bieszczadzka Wytwórnia Piwa Ursa Maior,0,0
+858,5.90,141081,https://www.beeradvocate.com/beer/profile/34404/141081/,Pumpkin Dunkel,34404,Desert Eagle Brewing Company,0,0
+859,5.00,237594,https://www.beeradvocate.com/beer/profile/45140/237594/,Pszenica Z Księżyca,45140,ReCraft Brewery,0,0
+860,5.00,216347,https://www.beeradvocate.com/beer/profile/44422/216347/,Mud Creek Dark Wheat,44422,Mancos Brewing Company,0,0
+861,5.40,233756,https://www.beeradvocate.com/beer/profile/6813/233756/,Hirsch Dunk­le Weis­se,6813,Hirschbrauerei GmbH & Co. KG,0,0
+862,5.90,231453,https://www.beeradvocate.com/beer/profile/32875/231453/,Dubai Reaper Dunkel,32875,Sailfish Brewing Company,0,0
+863, ? ,220191,https://www.beeradvocate.com/beer/profile/26983/220191/,Dunkelweizen,26983,Rusty Truck Brewing Company / Roadhouse 101,0,0
+864,5.00,143392,https://www.beeradvocate.com/beer/profile/35427/143392/,El Duque - Dunkelweizen,35427,Barranco Beer Company,0,0
+865,4.90,168739,https://www.beeradvocate.com/beer/profile/5142/168739/,Oettinger Dunkles Hefeweizen,5142,Oettinger Brauerei,0,0
+866,5.80,334628,https://www.beeradvocate.com/beer/profile/38904/334628/,Prost!,38904,Muddy York Brewing Co.,0,0
+867,5.20,165157,https://www.beeradvocate.com/beer/profile/30821/165157/,Dunkelweizen,30821,Brew Bistro & Lounge,0,0
+868,5.30,247846,https://www.beeradvocate.com/beer/profile/2792/247846/,Out Of Town Jasper,2792,Phantom Canyon Brewing Company,0,0
+869, ? ,202024,https://www.beeradvocate.com/beer/profile/8540/202024/,Deadwood Dunkel,8540,Etna Brewery,0,0
+870,5.20,314664,https://www.beeradvocate.com/beer/profile/50835/314664/,Call Me a Monkey's Dunkel,50835,Saints Row Brewing,0,0
+871,5.20,208941,https://www.beeradvocate.com/beer/profile/11082/208941/,Weiss Christmas Noir,11082,Stewart Brewing Ltd,0,0
+872,5.20,166957,https://www.beeradvocate.com/beer/profile/39838/166957/,1342,39838,New Bohemia Brewing Company,0,0
+873,5.30,332079,https://www.beeradvocate.com/beer/profile/48193/332079/,Jolly Dunkel,48193,The Jolly Scholar,0,0
+874,5.30,168241,https://www.beeradvocate.com/beer/profile/23312/168241/,Hoe's Daddy Dunkel,23312,Paradise Creek Brewery,0,0
+875, ? ,44849,https://www.beeradvocate.com/beer/profile/7101/44849/,Chocolate Wheat,7101,Marzoni's Brick Oven & Brewing Company,0,0
+876,6.20,310833,https://www.beeradvocate.com/beer/profile/30284/310833/,Verbunden Dunkelheit,30284,Center of the Universe Brewing Company,0,0
+877,5.30,333362,https://www.beeradvocate.com/beer/profile/33030/333362/,Dunkel Leo,33030,Arch Brewing Company Inc.,0,0
+878,5.80,262454,https://www.beeradvocate.com/beer/profile/360/262454/,Winter,360,Warsteiner Brauerei,0,0
+879, ? ,193594,https://www.beeradvocate.com/beer/profile/32784/193594/,Dunkelweizen,32784,Salty Nut Brewery,0,0
+880,5.20,141627,https://www.beeradvocate.com/beer/profile/27040/141627/,Dunkelweizen,27040,The Big Five Breweries,0,0
+881,5.30,204861,https://www.beeradvocate.com/beer/profile/5605/204861/,Dity Dunkel,5605,Palisade Brewing Co.,0,0
+882,5.00,205120,https://www.beeradvocate.com/beer/profile/33128/205120/,Dynamo,33128,The Industrial Revolution Brewing Company,0,0
+883,5.10,330825,https://www.beeradvocate.com/beer/profile/51111/330825/,GrandDunkel Dunkelweizen,51111,Oconee Brewing Company,0,0
+884,5.80,202826,https://www.beeradvocate.com/beer/profile/22065/202826/,Dunkel Weissbier,22065,Redwood Curtain Brewing Company,0,0
+885,5.60,23882,https://www.beeradvocate.com/beer/profile/2144/23882/,Unkel Dunkel Dunkelweizen,2144,McCoy's Public House,0,0
+886,5.20,318282,https://www.beeradvocate.com/beer/profile/24047/318282/,Munich Dunkel,24047,Crossroads Brewing Company,0,0
+887,5.40,326475,https://www.beeradvocate.com/beer/profile/50832/326475/,Hyggeweizen,50832,Pedro Point Brewing,0,0
+888,6.10,332108,https://www.beeradvocate.com/beer/profile/52114/332108/,Dunkelweizen,52114,Grains of Wrath,0,0
+889,4.50,216140,https://www.beeradvocate.com/beer/profile/44274/216140/,Dead On,44274,Bury Me Brewing,0,0
+890,5.50,201552,https://www.beeradvocate.com/beer/profile/32021/201552/,La Maïté,32021,Microbrasserie Maltéus,0,0
+891,5.40,181584,https://www.beeradvocate.com/beer/profile/35611/181584/,It's B-A-N-A-N-A-S,35611,Platt Park Brewing Company,0,0
+892, ? ,129873,https://www.beeradvocate.com/beer/profile/35880/129873/,On Your Knees Dunkelwisse,35880,Pigeon River Brewing Co,0,0
+893,4.90,159316,https://www.beeradvocate.com/beer/profile/39068/159316/,Dunku,39068,Oberdörfer Chäuerbräu,0,0
+894, ? ,158552,https://www.beeradvocate.com/beer/profile/38971/158552/,La Barranca,38971,Gabarrera,0,0
+895,5.50,310875,https://www.beeradvocate.com/beer/profile/43862/310875/,Munich Dunkel,43862,WoodGrain Brewing Co,0,0
+896, ? ,199006,https://www.beeradvocate.com/beer/profile/43021/199006/,Slamdunkel,43021,Damgoode Pies,0,0
+897, ? ,162142,https://www.beeradvocate.com/beer/profile/10807/162142/,Ritterbräu Dunkle Weisse,10807,Ritterbräu Privatbrauerei Neumarkt GmbH & Co. KG,0,0
+898,5.00,337759,https://www.beeradvocate.com/beer/profile/51573/337759/,Baccoo,51573,New Realm Brewing Company,0,0
+899,5.60,339807,https://www.beeradvocate.com/beer/profile/42207/339807/,Say Dunkel Say Dunkel,42207,Ancient City Brewing,0,0
+900, ? ,168287,https://www.beeradvocate.com/beer/profile/24517/168287/,Dunkelweiss,24517,White Bluffs Brewing Company,0,0
+901,5.60,161378,https://www.beeradvocate.com/beer/profile/39365/161378/,Dunkelweizen,39365,FlyBoy Brewing,0,0
+902,4.40,305251,https://www.beeradvocate.com/beer/profile/50617/305251/,Harvert Hefeweizen,50617,Waldmann Brewery & Wurstery,0,0
+903, ? ,318051,https://www.beeradvocate.com/beer/profile/51300/318051/,Digger,51300,2 Basset Brewery,0,0
+904,5.00,337252,https://www.beeradvocate.com/beer/profile/48479/337252/,Night Skies Dunkelweizen,48479,Hop Hill Brewing Co.,0,0
+905,4.40,220775,https://www.beeradvocate.com/beer/profile/33346/220775/,Longest Night,33346,Kozy Yak Brewery,0,0
+906, ? ,290408,https://www.beeradvocate.com/beer/profile/9629/290408/,Dunkelweizen,9629,Short's Brewing Company,0,0
+907, ? ,151657,https://www.beeradvocate.com/beer/profile/556/151657/,Philomania,556,City Steam Brewery Café,0,0
+908,5.50,289644,https://www.beeradvocate.com/beer/profile/45302/289644/,Dark Matter Dunkelweizen,45302,Northwood Public House / Little Dipper Brewing,0,0
+909,4.50,268141,https://www.beeradvocate.com/beer/profile/46826/268141/,Wulfblut Dunkel,46826,Forest City Brewery,0,0
+910,5.10,260973,https://www.beeradvocate.com/beer/profile/8468/260973/,Lidskae Pshanichnae Tsomnae (Лiдскае Пшанічнае цёмнае),8468,Lidskoye Pivo OAO,0,0
+911, ? ,60526,https://www.beeradvocate.com/beer/profile/23313/60526/,Giesinger Weber's Dunkle Weiße,23313,Giesinger Bräu - Das Bierlaboratorium,0,0
+912,5.10,190833,https://www.beeradvocate.com/beer/profile/6509/190833/,Discreet Dark Wheat,6509,Yaletown Brewing Co.,0,0
+913, ? ,162930,https://www.beeradvocate.com/beer/profile/38420/162930/,Spiced Dunkelweizen,38420,Carillon Brewing Co.,0,0
+914,5.50,175474,https://www.beeradvocate.com/beer/profile/4453/175474/,Bayerisch Zunftherrn Dunkle Weisse,4453,Memminger Brauerei,0,0
+915,5.30,175476,https://www.beeradvocate.com/beer/profile/6052/175476/,Passauer Weiße Hefe Dunkel,6052,Innstadt Brauerei,0,0
+916,4.90,60533,https://www.beeradvocate.com/beer/profile/5922/60533/,Kanone Weizen Dunkel,5922,Brauerei Kanone,0,0
+917,5.30,330871,https://www.beeradvocate.com/beer/profile/51633/330871/,Dark Wheat,51633,Cervejaria Rio Negro,0,0
+918,6.80,222584,https://www.beeradvocate.com/beer/profile/41807/222584/,Frankenbier,41807,Wasserhund Brewing Company,0,0
+919,8.30,174969,https://www.beeradvocate.com/beer/profile/39856/174969/,Johannisbeeren DunkelWeizen,39856,Bulk Head Brewing Co.,0,0
+920, ? ,102778,https://www.beeradvocate.com/beer/profile/4077/102778/,Chocolate Dunkle Weizen,4077,M.J. Barleyhoppers Sports Bar and Brew Pub,0,0
+921,6.00,168571,https://www.beeradvocate.com/beer/profile/37759/168571/,California Dunkelweizen,37759,Jackrabbit Brewing Company,0,0
+922,4.80,157569,https://www.beeradvocate.com/beer/profile/38648/157569/,La Bruson,38648,White Frontier Brewery,0,0
+923,8.30,263301,https://www.beeradvocate.com/beer/profile/47227/263301/,La Rubia,47227,Cheluna Brewing Company,0,0
+924,5.20,285318,https://www.beeradvocate.com/beer/profile/661/285318/,Moonlight Kettle Series (2017): Dunkel Calls The Kettle Black,661,Muskoka Brewery,0,0
+925,5.30,175494,https://www.beeradvocate.com/beer/profile/2432/175494/,Ettaler Kloster Weissbier Dunkel,2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,0,0
+926,4.60,219274,https://www.beeradvocate.com/beer/profile/36381/219274/,Krampus,36381,Mad Hatter Brewing,0,0
+927,7.20,162186,https://www.beeradvocate.com/beer/profile/30816/162186/,Dunkelweizen,30816,Armstrong Brewing Co.,0,0
+928,5.50,297354,https://www.beeradvocate.com/beer/profile/38141/297354/,New Moon,38141,The Brewery Of Broken Dreams,0,0
+929,11.10,240522,https://www.beeradvocate.com/beer/profile/45951/240522/,Not On Porpoise Dunkel,45951,81Bay Brewing,0,0
+930,5.20,331915,https://www.beeradvocate.com/beer/profile/52115/331915/,Potsdam Dunkel,52115,A Homestead Brew,0,0
+931,4.40,205964,https://www.beeradvocate.com/beer/profile/6305/205964/,Vizit Barkhatnoye,6305,Vizit OAO,0,0
+932,4.50,180365,https://www.beeradvocate.com/beer/profile/30467/180365/,Ampelmänn Dunkel,30467,Walkerville Brewery,0,0
+933,6.00,153230,https://www.beeradvocate.com/beer/profile/26035/153230/,Unkel Dunkel,26035,Twisted Crew Brewing Company,0,0
+934,5.40,195215,https://www.beeradvocate.com/beer/profile/37791/195215/,Gerardo Sagredo,37791,Bigfoot Sörfőzde,0,0
+935,5.10,330385,https://www.beeradvocate.com/beer/profile/52006/330385/,Warrior Wheat,52006,Nonesuch River Brewing,0,0
+936,5.60,52115,https://www.beeradvocate.com/beer/profile/5707/52115/,Airbräu Mayday,5707,Airbräu,0,0
+937,5.20,204436,https://www.beeradvocate.com/beer/profile/33619/204436/,Mein Schatz,33619,Kokopelli Beer Company,0,0
+938,5.50,209300,https://www.beeradvocate.com/beer/profile/43294/209300/,Dunkleweiss,43294,Vision Quest Brewery,0,0
+939,6.10,209812,https://www.beeradvocate.com/beer/profile/43738/209812/,Destination Dunkel,43738,Fire Ant Brewing Company,0,0
+940,7.00,166292,https://www.beeradvocate.com/beer/profile/8270/166292/,Black Rabbit,8270,Brewerkz - Riverside Point,0,0
+941,5.50,320916,https://www.beeradvocate.com/beer/profile/35597/320916/,The Dunk,35597,Dobra Zupas,0,0
+942,5.40,187798,https://www.beeradvocate.com/beer/profile/42072/187798/,Bad Moon Ryezen,42072,The Root Cellar / London Brewing Co-op,0,0
+943,4.30,201880,https://www.beeradvocate.com/beer/profile/20430/201880/,Dunkel Wheat,20430,Dust Bowl Brewing Company - Downtown Taproom,0,0
+944,5.20,297625,https://www.beeradvocate.com/beer/profile/30584/297625/,Dunkelstiltskin,30584,Thorn Street Brewery,0,0
+945,5.40,315036,https://www.beeradvocate.com/beer/profile/42220/315036/,Exhibit J: Dunkelweizen,42220,Legal Remedy Brewing,0,0
+946,5.50,122524,https://www.beeradvocate.com/beer/profile/15057/122524/,Groll Dunkelweizen,15057,Helm,0,0
+947,4.80,159390,https://www.beeradvocate.com/beer/profile/39074/159390/,Brögstein Hell,39074,Wartauer Seegal Bräu,0,0
+948, ? ,229790,https://www.beeradvocate.com/beer/profile/32758/229790/,Knights Of Passion,32758,Castle Grill / Red Castle Brewery & Distillery,0,0
+949,5.00,231584,https://www.beeradvocate.com/beer/profile/32875/231584/,Das Meer Dunkel,32875,Sailfish Brewing Company,0,0
+950,5.40,204449,https://www.beeradvocate.com/beer/profile/43219/204449/,Dunkelweizen,43219,Lariat Lodge Brewing Company,0,0
+951,4.70,183713,https://www.beeradvocate.com/beer/profile/34334/183713/,The Malt In Our Stars,34334,Books & Brews,0,0
+952,5.40,316577,https://www.beeradvocate.com/beer/profile/40393/316577/,Dunkelweizen,40393,LTS Brewing Company (Life's Too Short),0,0
+953,4.80,159395,https://www.beeradvocate.com/beer/profile/39074/159395/,Magletsch Dunkel,39074,Wartauer Seegal Bräu,0,0
+954,5.10,105891,https://www.beeradvocate.com/beer/profile/6770/105891/,Werschemer Woiza,6770,Adler Bräu,0,0
+955,5.20,159397,https://www.beeradvocate.com/beer/profile/39074/159397/,Weizen Dunkel,39074,Wartauer Seegal Bräu,0,0
+956,5.00,312230,https://www.beeradvocate.com/beer/profile/47198/312230/,Jealous Monk Dunkel,47198,Jealous Monk,0,0
+957,4.10,338856,https://www.beeradvocate.com/beer/profile/52477/338856/,GlovesOff,52477,TwoGuys Brewing,0,0
+958, ? ,181417,https://www.beeradvocate.com/beer/profile/1899/181417/,H.G. Davis Dunkelweizen,1899,Blackwater Brewing Company,0,0
+959,5.80,145578,https://www.beeradvocate.com/beer/profile/2426/145578/,Dunkelweizen,2426,Madison Brewing Co.,0,0
+960,4.80,102315,https://www.beeradvocate.com/beer/profile/32463/102315/,Ouachita Dunkelweizen,32463,Apple Blossom Brewing Co.,0,0
+961,5.10,255403,https://www.beeradvocate.com/beer/profile/36581/255403/,Tag Trinker Dunkelweizen,36581,38 State Brewing Company,0,0
+962,5.00,205741,https://www.beeradvocate.com/beer/profile/39505/205741/,Dunkelweizen,39505,Salden's Brewery,0,0
+963,5.20,166829,https://www.beeradvocate.com/beer/profile/7313/166829/,Apoldaer Hefeweizen Dunkel,7313,Vereinsbrauerei Apolda GmbH,0,0
+964, ? ,223664,https://www.beeradvocate.com/beer/profile/40893/223664/,Sundown Dunkelweizen,40893,Winterlong Brewing Co.,0,0
+965, ? ,203698,https://www.beeradvocate.com/beer/profile/41817/203698/,Dolores Dunk!,41817,Boggy Draw Brewery,0,0
+966,5.80,323506,https://www.beeradvocate.com/beer/profile/51704/323506/,Rumble Rider,51704,Fenders Brewing,0,0
+967,5.20,140212,https://www.beeradvocate.com/beer/profile/21641/140212/,Black Forest Cherry Dunkelweiss,21641,Hamburger Mary's / Andersonville Brewing,0,0
+968,5.40,224692,https://www.beeradvocate.com/beer/profile/31704/224692/,Uncle Dunkel,31704,Agrarian Ales,0,0
+969, ? ,186549,https://www.beeradvocate.com/beer/profile/10774/186549/,Dunkelweizen,10774,Micro-Brasserie Brouemont,0,0
+970,4.70,193717,https://www.beeradvocate.com/beer/profile/29018/193717/,Festbier Dunkelweizen,29018,Arkose Brewery,0,0
+971,5.66,29366,https://www.beeradvocate.com/beer/profile/377/29366/,Dunkelweizen,377,Glacier Brewhouse,0,0
+972,5.10,232374,https://www.beeradvocate.com/beer/profile/6795/232374/,Zoller-Hof Fidelis Hefe Dunkel,6795,Brauerei Zoller-Hof,0,0
+973,5.00,300471,https://www.beeradvocate.com/beer/profile/48295/300471/,Todeswunsch Weizen,48295,BRIM Kitchen + Brewery,0,0
+974, ? ,58553,https://www.beeradvocate.com/beer/profile/13447/58553/,Winter Wheat,13447,Lander Brewing Company,0,0
+975,6.60,216507,https://www.beeradvocate.com/beer/profile/43441/216507/,Dunk A Wench,43441,Floyd County Brewing Company,0,0
+976,5.30,234939,https://www.beeradvocate.com/beer/profile/36101/234939/,Holiday Greetings,36101,Tampa Beer Works,0,0
+977, ? ,193723,https://www.beeradvocate.com/beer/profile/21517/193723/,Uncle Dunkel,21517,Denali Brewing Company / Twister Creek Restaurant,0,0
+978,5.30,256700,https://www.beeradvocate.com/beer/profile/35536/256700/,AshRiver Dunkelwiesen,35536,Riverbend Brewing Company,0,0
+979,5.00,60350,https://www.beeradvocate.com/beer/profile/23285/60350/,Moninger Dunkles Weizen,23285,Brauerei Moninger GmbH,0,0
+980,5.50,334528,https://www.beeradvocate.com/beer/profile/5920/334528/,Kaiser Fest Weizen,5920,Brauerei Kaiser,0,0
+981,4.90,148162,https://www.beeradvocate.com/beer/profile/7326/148162/,Rhöner Schwarze,7326,Rhoenbrauerei Dittmar,0,0
+982,6.30,177859,https://www.beeradvocate.com/beer/profile/36381/177859/,Drink Me Dunkel Weizen,36381,Mad Hatter Brewing,0,0
+983,5.00,317379,https://www.beeradvocate.com/beer/profile/12007/317379/,Dunkel,12007,Hayashibune Yakurai Beer,0,0
+984,5.20,197060,https://www.beeradvocate.com/beer/profile/1910/197060/,Big Daddy Dunkel,1910,Water Street Brewery,0,0
+985,5.00,160967,https://www.beeradvocate.com/beer/profile/15597/160967/,Dunkel Sturm,15597,Gulf Brewery,0,0
+986,6.70,144584,https://www.beeradvocate.com/beer/profile/29792/144584/,Scum Jumper,29792,Fairport Brewing Company,0,0
+987,5.00,184778,https://www.beeradvocate.com/beer/profile/41754/184778/,Heavens To Betsy,41754,Harsens Island Brewery,0,0
+988,4.80,162764,https://www.beeradvocate.com/beer/profile/39489/162764/,Night Light Dark Lager,39489,Livingoods Restaurant & Brewery,0,0
+989,4.80,204239,https://www.beeradvocate.com/beer/profile/43432/204239/,Schwarzkaiser Weissbier Dunkel,43432,Schwarz Kaiser Brewery,0,0
+990,4.80,175311,https://www.beeradvocate.com/beer/profile/30232/175311/,Brass Goggles,30232,The Tap Brewery,0,0
+991,5.20,237521,https://www.beeradvocate.com/beer/profile/46231/237521/,Grodzisko,46231,Szczyrzycki Browar Cystersów Gryf,0,0
+992,8.50,205268,https://www.beeradvocate.com/beer/profile/31684/205268/,Pimps Don't Cry,31684,Verboten Brewing and Barrel Project,0,0
+993,5.10,259542,https://www.beeradvocate.com/beer/profile/42817/259542/,Hammerschlagen Dunkelweizen,42817,Little Machine,0,0
+994,4.80,312793,https://www.beeradvocate.com/beer/profile/41018/312793/,Steve,41018,The Veil Brewing Co.,0,0
+995,6.00,265947,https://www.beeradvocate.com/beer/profile/42935/265947/,Burnal Equinox,42935,Black Hammer Brewing,0,0
+996,5.30,217564,https://www.beeradvocate.com/beer/profile/44367/217564/,Angry Amel,44367,Bridge and Tunnel Brewery,0,0
+997, ? ,279517,https://www.beeradvocate.com/beer/profile/49003/279517/,Nunkelweizen,49003,Saint Benedict's Brew Works,0,0
+998,5.00,157405,https://www.beeradvocate.com/beer/profile/12508/157405/,Griesbräu Weißbier Dunkel,12508,Griesbräu Zu Murnau,0,0
+999,4.30,268766,https://www.beeradvocate.com/beer/profile/37300/268766/,Betrunkener Onkel,37300,Manantler Craft Brewing,0,0
+1000,5.00,208862,https://www.beeradvocate.com/beer/profile/11620/208862/,Dunkel Weiss,11620,Microbrasserie Archibald,0,0
+1001,4.37,224478,https://www.beeradvocate.com/beer/profile/32660/224478/,My Weizened Old Dunkel,32660,Bugnutty Brewing Company,0,0
+1002,5.20,159710,https://www.beeradvocate.com/beer/profile/34719/159710/,Swamp Black,34719,Bank Brewing Co.,0,0
+1003,5.00,310495,https://www.beeradvocate.com/beer/profile/48944/310495/,Doughnut City Dunkel,48944,Fiddlin' Fish Brewing Company,0,0
+1004,5.00,270305,https://www.beeradvocate.com/beer/profile/48479/270305/,Dunkelweizen,48479,Hop Hill Brewing Co.,0,0
+1005,6.00,97250,https://www.beeradvocate.com/beer/profile/30314/97250/,Banana Nut Muffin,30314,Fairhope Brewing Company,0,0
+1006,7.00,187876,https://www.beeradvocate.com/beer/profile/2217/187876/,Dunkelweizen,2217,L'Inox,0,0
+1007, ? ,125413,https://www.beeradvocate.com/beer/profile/33496/125413/,Pickelhaube,33496,Brew Link Brewing Company,0,0
+1008,5.00,192741,https://www.beeradvocate.com/beer/profile/25051/192741/,Certified Originals Schwarzweizen,25051,First Draft - Niagara College Teaching Brewery,0,0
+1009,5.00,339177,https://www.beeradvocate.com/beer/profile/51568/339177/,Dunkle Prada,51568,Pesky Pelican,0,0
+1010, ? ,161515,https://www.beeradvocate.com/beer/profile/32714/161515/,Sandberg Dunkel,32714,Bauernhofbrauerei Bergmair,0,0
+1011,6.30,124910,https://www.beeradvocate.com/beer/profile/32062/124910/,Winter Wheat,32062,The Other Farm Brewing Company,0,0
+1012,5.40,121071,https://www.beeradvocate.com/beer/profile/6020/121071/,Förster-Weisse Dunkel,6020,Gampertbräu Gebr. Gampert GmbH & Co. KG,0,0
+1013,5.60,153073,https://www.beeradvocate.com/beer/profile/27926/153073/,Dunklewiezen,27926,Bare Hands Brewery,0,0
+1014,5.30,127473,https://www.beeradvocate.com/beer/profile/34166/127473/,Dunkel,34166,Prairie Street Brewing Company,0,0
+1015,5.20,329202,https://www.beeradvocate.com/beer/profile/49255/329202/,Red Wheat,49255,Birra & Blues,0,0
+1016,5.30,330738,https://www.beeradvocate.com/beer/profile/5976/330738/,Weissbier Dunkel,5976,Brauerei Wilhelm Krieger KG,0,0
+1017,5.00,226290,https://www.beeradvocate.com/beer/profile/45071/226290/,Mr. Hyde,45071,Crow Brewery,0,0
+1018,4.90,161522,https://www.beeradvocate.com/beer/profile/4463/161522/,Dunkls,4463,Brauerei Egg GmbH & Co. KG,0,0
+1019,5.80,335603,https://www.beeradvocate.com/beer/profile/4739/335603/,Dunkelweiss,4739,Moffat Station Brewery,0,0
+1020,5.60,168179,https://www.beeradvocate.com/beer/profile/25310/168179/,Unkie's Squig Dunkel,25310,Valholl Brewing Co. LLC,0,0
+1021,5.50,161527,https://www.beeradvocate.com/beer/profile/715/161527/,Fohrenburger Dunkles,715,Brauerei Fohrenburg GmbH & Co,0,0
+1022,5.50,317688,https://www.beeradvocate.com/beer/profile/51301/317688/,Dunkel,51301,Matsushima Brewery Pub Restaurant,0,0
+1023,8.30,177147,https://www.beeradvocate.com/beer/profile/28259/177147/,The Mad King,28259,Wit's End Brewing Company,0,0
+1024,6.80,253435,https://www.beeradvocate.com/beer/profile/42643/253435/,Dunkel God,42643,Harmonic Brewing,0,0
+1025,5.50,161532,https://www.beeradvocate.com/beer/profile/4787/161532/,S'Dunkle,4787,Brauerei Frastanz,0,0
+1026,5.10,161534,https://www.beeradvocate.com/beer/profile/7280/161534/,Jörger Weisse Dunkel,7280,Brauerei Grieskirchen AG,0,0
+1027,7.50,303102,https://www.beeradvocate.com/beer/profile/28753/303102/,Hombres,28753,Bunker Brewing Co.,0,0
+1028,5.50,339199,https://www.beeradvocate.com/beer/profile/50212/339199/,Old Uncle Dunkel,50212,Beachside Brewpub,0,0
+1029,5.50,326143,https://www.beeradvocate.com/beer/profile/44102/326143/,The Reel Rialto,44102,Florence Brewing Company,0,0

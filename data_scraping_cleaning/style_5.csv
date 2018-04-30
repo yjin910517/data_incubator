@@ -1,0 +1,510 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,0.50,5727,https://www.beeradvocate.com/beer/profile/29/5727/,O'Doul's,29,Anheuser-Busch,600,1.99
+1,0.50,5728,https://www.beeradvocate.com/beer/profile/29/5728/,O'Doul's Amber,29,Anheuser-Busch,254,2.24
+2,0.50,5333,https://www.beeradvocate.com/beer/profile/209/5333/,Kaliber,209,Guinness Ltd.,227,2.5
+3,0.40,5747,https://www.beeradvocate.com/beer/profile/105/5747/,Sharp's,105,Miller Brewing Co.,161,1.66
+4,0.50,5636,https://www.beeradvocate.com/beer/profile/81/5636/,Buckler Non-Alcoholic Brew,81,Heineken Nederland B.V.,148,2.56
+5,0.50,826,https://www.beeradvocate.com/beer/profile/224/826/,St. Pauli N. A.,224,St. Pauli Brauerei C.L. Wilh. Brandt Gmbh & Co.,146,2.3
+6,0.45,6906,https://www.beeradvocate.com/beer/profile/290/6906/,Clausthaler Premium (Non-Alcoholic/Alkoholfrei),290,Binding-Brauerei AG,138,2.91
+7,0.50,7211,https://www.beeradvocate.com/beer/profile/703/7211/,Erdinger Weissbier Alkoholfrei (Non-Alcoholic),703,Erdinger Weissbräu,125,2.9
+8,0.50,53885,https://www.beeradvocate.com/beer/profile/16315/53885/,Nanny State,16315,BrewDog,108,3.12
+9,0.30,11093,https://www.beeradvocate.com/beer/profile/32/11093/,Beck's Non-Alcoholic,32,Brauerei Beck & Co.,99,2.37
+10,0.50,13733,https://www.beeradvocate.com/beer/profile/29/13733/,Busch NA,29,Anheuser-Busch,92,2.1
+11,0.30,842,https://www.beeradvocate.com/beer/profile/290/842/,Clausthaler Golden Amber,290,Binding-Brauerei AG,89,3.26
+12,0.50,8588,https://www.beeradvocate.com/beer/profile/306/8588/,Coors Non-Alcoholic,306,Coors Brewing Company (Molson-Coors),89,2.16
+13,0.50,2140,https://www.beeradvocate.com/beer/profile/360/2140/,Warsteiner Premium Fresh,360,Warsteiner Brauerei,61,2.4
+14,0.50,5415,https://www.beeradvocate.com/beer/profile/613/5415/,Bitburger Drive,613,Bitburger Brauerei,59,2.8
+15,0.40,5719,https://www.beeradvocate.com/beer/profile/447/5719/,Old Milwaukee Non Alcoholic,447,Pabst Brewing Company,55,2.37
+16, ? ,3766,https://www.beeradvocate.com/beer/profile/124/3766/,Paulaner Hefe-Weissbier Alkoholfrei,124,Paulaner Brauerei GmbH & Co. KG,50,3.12
+17, ? ,35553,https://www.beeradvocate.com/beer/profile/290/35553/,Clausthaler Classic Alkoholfrei,290,Binding-Brauerei AG,49,2.8
+18,0.50,4697,https://www.beeradvocate.com/beer/profile/401/4697/,Baltika #0 Non-Alcoholic,401,Baltika Breweries,37,2.5
+19,0.50,12600,https://www.beeradvocate.com/beer/profile/252/12600/,Weihenstephaner Hefeweissbier Alkoholfrei,252,Bayerische Staatsbrauerei Weihenstephan,35,3.34
+20,0.50,23697,https://www.beeradvocate.com/beer/profile/124/23697/,ThomasBrau,124,Paulaner Brauerei GmbH & Co. KG,34,2.46
+21,0.30,104692,https://www.beeradvocate.com/beer/profile/13307/104692/,Drink'in The Snow,13307,Mikkeller ApS,32,3.29
+22, ? ,10106,https://www.beeradvocate.com/beer/profile/2431/10106/,Gerstel Non Alcoholic,2431,Privatbrauerei Eichbaum GmbH & Co. KG,31,2.8
+23,0.50,57077,https://www.beeradvocate.com/beer/profile/72/57077/,Schneider Weisse Tap 3 Mein Alkoholfreies,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,29,2.78
+24, ? ,7143,https://www.beeradvocate.com/beer/profile/32/7143/,Haake Beck NA,32,Brauerei Beck & Co.,27,2.81
+25,0.50,61510,https://www.beeradvocate.com/beer/profile/478/61510/,Labatt Blue De-Alcoholized Pilsener,478,Labatt Brewing Company Ltd.,24,2.55
+26, ? ,84833,https://www.beeradvocate.com/beer/profile/498/84833/,Bavaria 0.0%,498,Bavaria Brouwerij N.V.,24,2.57
+27,0.50,21911,https://www.beeradvocate.com/beer/profile/410/21911/,Penn's Best N.A.,410,Pittsburgh Brewing Co.,23,2.76
+28,2.50,137971,https://www.beeradvocate.com/beer/profile/613/137971/,Bitburger Radler,613,Bitburger Brauerei,23,3.39
+29,0.50,13071,https://www.beeradvocate.com/beer/profile/566/13071/,Krombacher Alkoholfrie,566,Krombacher Brauerei,22,3.42
+30,0.05,84503,https://www.beeradvocate.com/beer/profile/32/84503/,Beck's Blue,32,Brauerei Beck & Co.,22,2.67
+31,0.50,39457,https://www.beeradvocate.com/beer/profile/66/39457/,Einbecker Brauherren Non-Alcoholic,66,Einbecker Brauhaus AG,20,2.84
+32,0.50,58438,https://www.beeradvocate.com/beer/profile/19144/58438/,Fentimans Full Bodied Shandy,19144,Fentimans Ltd.,20,3.39
+33,0.50,7876,https://www.beeradvocate.com/beer/profile/433/7876/,Molson Exel,433,Molson Coors Canada,19,2.31
+34,0.50,254563,https://www.beeradvocate.com/beer/profile/290/254563/,Clausthaler Dry Hopped,290,Binding-Brauerei AG,18,3.14
+35, ? ,70717,https://www.beeradvocate.com/beer/profile/498/70717/,Bavaria 0.0% Wit,498,Bavaria Brouwerij N.V.,17,3.59
+36,0.50,5952,https://www.beeradvocate.com/beer/profile/2349/5952/,Malta India,2349,Cervecería Vegana S.A.,17,2.83
+37,0.50,39770,https://www.beeradvocate.com/beer/profile/134/39770/,Jupiler NA,134,Brasserie Piedboeuf,17,1.97
+38,0.50,8589,https://www.beeradvocate.com/beer/profile/447/8589/,Pabst NA,447,Pabst Brewing Company,17,2.56
+39, ? ,132025,https://www.beeradvocate.com/beer/profile/36032/132025/,MADD Virgin Lager,36032,MADD Virgin Drinks,16,2.04
+40,0.05,11198,https://www.beeradvocate.com/beer/profile/302/11198/,Genesee NA,302,Genesee Brewing Co. / Dundee Brewing Co.,16,1.98
+41, ? ,35837,https://www.beeradvocate.com/beer/profile/613/35837/,Bitburger Alkoholfrei,613,Bitburger Brauerei,15,2.46
+42,0.50,185168,https://www.beeradvocate.com/beer/profile/124/185168/,Paulaner Weizen-Radler Non-Alcoholic,124,Paulaner Brauerei GmbH & Co. KG,14,3.24
+43,0.38,80278,https://www.beeradvocate.com/beer/profile/566/80278/,Krombacher Weizen Alkoholfrei,566,Krombacher Brauerei,14,3.57
+44, ? ,3771,https://www.beeradvocate.com/beer/profile/124/3771/,Paulaner Original Münchner Alkoholfrei,124,Paulaner Brauerei GmbH & Co. KG,14,2.58
+45, ? ,233789,https://www.beeradvocate.com/beer/profile/29/233789/,Budweiser Prohibition Brew,29,Anheuser-Busch,13,2.12
+46,0.40,72283,https://www.beeradvocate.com/beer/profile/252/72283/,Weihenstephaner Original Alkoholfrei,252,Bayerische Staatsbrauerei Weihenstephan,13,3.7
+47,0.50,36650,https://www.beeradvocate.com/beer/profile/57/36650/,Sol Cero,57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",12,1.2
+48,0.20,43102,https://www.beeradvocate.com/beer/profile/585/43102/,Maisel's Weisse Alkoholfrei,585,Brauerei Gebrüder Maisel GmbH & Co.,12,3.09
+49,0.50,8603,https://www.beeradvocate.com/beer/profile/491/8603/,Birell,491,Coopers Brewery Limited,12,2.61
+50,0.10,71521,https://www.beeradvocate.com/beer/profile/840/71521/,Laziza,840,Brasserie Almaza S.A.L.,11,2.39
+51, ? ,80382,https://www.beeradvocate.com/beer/profile/83/80382/,"Hoegaarden 0,0 Rosee",83,Brouwerij van Hoegaarden,11,2.89
+52,0.50,30367,https://www.beeradvocate.com/beer/profile/721/30367/,Carlsberg Non-Alcoholic,721,Carlsberg Danmark A/S,10,2.53
+53,0.50,14246,https://www.beeradvocate.com/beer/profile/95/14246/,Löwenbräu Alkoholfrei,95,Löwenbräu AG,10,2.98
+54,0.45,6848,https://www.beeradvocate.com/beer/profile/737/6848/,Jever Fun,737,Friesisches Brauhaus zu Jever GmbH & Co KG,10,3.09
+55, ? ,29695,https://www.beeradvocate.com/beer/profile/628/29695/,Holsten Non-Alcoholic,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,10,3.05
+56,0.50,107300,https://www.beeradvocate.com/beer/profile/10629/107300/,120,10629,Schmohz Brewing Company,9,3.07
+57,0.50,67249,https://www.beeradvocate.com/beer/profile/12511/67249/,Störtebeker Frei-Bier,12511,Störtebeker Braumanufaktur,9,2.37
+58, ? ,11193,https://www.beeradvocate.com/beer/profile/581/11193/,Tiger Malt,581,Banks (Barbados) Breweries Limited,9,2.61
+59,0.50,9468,https://www.beeradvocate.com/beer/profile/498/9468/,Bavaria NA,498,Bavaria Brouwerij N.V.,9,2.76
+60,0.50,111619,https://www.beeradvocate.com/beer/profile/304/111619/,Budweiser Budvar Nealkoholické Pivo,304,"Budějovický Budvar, n.p.",8,2.66
+61,0.50,65069,https://www.beeradvocate.com/beer/profile/1491/65069/,Kaiser,1491,Cerveceria Costa Rica,8,1.65
+62,0.05,5872,https://www.beeradvocate.com/beer/profile/498/5872/,Bavaria Malt,498,Bavaria Brouwerij N.V.,8,2.9
+63,2.00,104494,https://www.beeradvocate.com/beer/profile/575/104494/,Foster's Radler,575,Foster's Group Limited,7,2.65
+64,0.05,36162,https://www.beeradvocate.com/beer/profile/29/36162/,Budweiser NA,29,Anheuser-Busch,7,1.92
+65,0.50,30800,https://www.beeradvocate.com/beer/profile/571/30800/,Radegast Birell,571,Pivovar Radegast a.s.,7,3.09
+66,0.50,71779,https://www.beeradvocate.com/beer/profile/1720/71779/,Ozujsko Cool,1720,Zagrebaèka Pivovara D.d.,7,2.29
+67,0.10,59239,https://www.beeradvocate.com/beer/profile/163/59239/,Amstel Malt,163,Amstel Brouwerij B. V.,7,2.36
+68,0.50,149643,https://www.beeradvocate.com/beer/profile/19144/149643/,Fentimans Dandelion & Burdock,19144,Fentimans Ltd.,7,3.64
+69, ? ,117135,https://www.beeradvocate.com/beer/profile/4949/117135/,Free Damm,4949,Damm S. A.,7,2.38
+70,0.50,68527,https://www.beeradvocate.com/beer/profile/506/68527/,Stender,506,Grolsch Bierbrouwerij N.V.,7,2.99
+71, ? ,181426,https://www.beeradvocate.com/beer/profile/613/181426/,Bitburger Drive 0.0,613,Bitburger Brauerei,7,2.89
+72, ? ,88778,https://www.beeradvocate.com/beer/profile/506/88778/,Grolsch Non-Alcoholic,506,Grolsch Bierbrouwerij N.V.,7,2.75
+73,1.00,70634,https://www.beeradvocate.com/beer/profile/920/70634/,Sin,920,Mahou S.A.,7,1.93
+74,0.40,27115,https://www.beeradvocate.com/beer/profile/319/27115/,Schlossgold,319,Brau Union Österreich AG,7,1.94
+75,0.05,78062,https://www.beeradvocate.com/beer/profile/10161/78062/,Birra Moretti Zero,10161,Birra Moretti (Heineken),7,2.88
+76, ? ,117767,https://www.beeradvocate.com/beer/profile/498/117767/,Bavaria 0.0 Apple,498,Bavaria Brouwerij N.V.,6,2.93
+77,2.00,12847,https://www.beeradvocate.com/beer/profile/6903/12847/,Hoppy,6903,"Hoppy Beverage Co., Ltd.",6,2.04
+78, ? ,80441,https://www.beeradvocate.com/beer/profile/498/80441/,Bavaria 0.0 Lemon,498,Bavaria Brouwerij N.V.,6,3
+79,0.50,26447,https://www.beeradvocate.com/beer/profile/412/26447/,Kulmbacher Alcoholfrei,412,Kulmbacher Brauerei AG,6,3.17
+80,0.08,69508,https://www.beeradvocate.com/beer/profile/134/69508/,Jupiler Force,134,Brasserie Piedboeuf,6,1.68
+81,2.70,59531,https://www.beeradvocate.com/beer/profile/1478/59531/,Grand Ridge Almighty Light,1478,Grand Ridge Brewing Co.,6,2.2
+82,2.25,62386,https://www.beeradvocate.com/beer/profile/3516/62386/,Ridder,3516,Leroy Breweries,6,2.69
+83, ? ,139447,https://www.beeradvocate.com/beer/profile/2100/139447/,"Estrella Galicia 0,0",2100,"Hijos De Rivera, S.A.",6,1.95
+84,0.50,4291,https://www.beeradvocate.com/beer/profile/1539/4291/,Original Oettinger Alkoholfrei,1539,Oettinger International Getränke-Vertriebs GmbH,6,2.7
+85,2.25,34516,https://www.beeradvocate.com/beer/profile/4748/34516/,Víking Light Beer,4748,Viking Brewery - Vifilfell Ltd.,6,2.18
+86,0.01,20210,https://www.beeradvocate.com/beer/profile/2444/20210/,Liber,2444,Companhia Cervejaria Brahma,6,1.16
+87, ? ,137739,https://www.beeradvocate.com/beer/profile/2444/137739/,"Brahma 0,0%",2444,Companhia Cervejaria Brahma,5,1.47
+88, ? ,54289,https://www.beeradvocate.com/beer/profile/292/54289/,Kirin Free,292,"Kirin Brewery Company, Limited",5,2.97
+89,2.70,69907,https://www.beeradvocate.com/beer/profile/2557/69907/,Clipper Light,2557,Sail and Anchor Pub Brewery,5,2.16
+90,0.50,139807,https://www.beeradvocate.com/beer/profile/293/139807/,Shandy Bass,293,Bass Brewers Limited,5,2.81
+91,2.90,43553,https://www.beeradvocate.com/beer/profile/17310/43553/,Prickly Moses Otway Light,17310,Otway Estate Winery & Brewery,5,2.65
+92,0.50,120374,https://www.beeradvocate.com/beer/profile/439/120374/,Super Bock Sem Álcool Preta,439,UNICER União Cervejeira S.A.,5,2.35
+93,0.50,58698,https://www.beeradvocate.com/beer/profile/416/58698/,PC Blonde Brew,416,Brick Brewing Co.,5,2.89
+94, ? ,79950,https://www.beeradvocate.com/beer/profile/163/79950/,Amstel 0.0,163,Amstel Brouwerij B. V.,5,2
+95, ? ,175967,https://www.beeradvocate.com/beer/profile/498/175967/,Bavaria 0.0% Peach,498,Bavaria Brouwerij N.V.,5,3.51
+96,0.50,60025,https://www.beeradvocate.com/beer/profile/840/60025/,Almaza Non Alcoholic,840,Brasserie Almaza S.A.L.,5,1.98
+97,0.50,52123,https://www.beeradvocate.com/beer/profile/568/52123/,Karmi Classic,568,Browar Okocim S.A. (Carlsberg),5,1.68
+98,0.50,35758,https://www.beeradvocate.com/beer/profile/290/35758/,Clausthaler Extra Herb Premium Alkoholfrei,290,Binding-Brauerei AG,5,3.93
+99,0.80,83640,https://www.beeradvocate.com/beer/profile/5142/83640/,Finkbräu Panaché,5142,Oettinger Brauerei,5,2.71
+100,0.70,29398,https://www.beeradvocate.com/beer/profile/2222/29398/,Prostel Alkoholfrei,2222,Kaiserdom Privatbrauerei Bamberg,5,3.15
+101, ? ,276696,https://www.beeradvocate.com/beer/profile/81/276696/,Heineken 0.0,81,Heineken Nederland B.V.,5,2.56
+102,0.50,70123,https://www.beeradvocate.com/beer/profile/433/70123/,Molson .5,433,Molson Coors Canada,5,1.58
+103,2.00,18924,https://www.beeradvocate.com/beer/profile/722/18924/,Cola Y Pola,722,Cervecería Bavaria,5,2.34
+104,0.50,112391,https://www.beeradvocate.com/beer/profile/817/112391/,Stiegl Sport Weisse,817,Stieglbrauerei zu Salzburg GmbH,4,2.45
+105, ? ,48903,https://www.beeradvocate.com/beer/profile/628/48903/,Vita-malz,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,4,3.21
+106, ? ,117002,https://www.beeradvocate.com/beer/profile/12511/117002/,Störtebeker Bernstein-Weizen Alkoholfrei,12511,Störtebeker Braumanufaktur,4,2.36
+107, ? ,93204,https://www.beeradvocate.com/beer/profile/2550/93204/,Orion Clear Free,2550,"Orion Beer Co., Ltd.",4,2.62
+108,0.10,66843,https://www.beeradvocate.com/beer/profile/840/66843/,Laziza Apple,840,Brasserie Almaza S.A.L.,4,3.34
+109,0.50,138799,https://www.beeradvocate.com/beer/profile/9775/138799/,Le Panaché,9775,Brasserie de Saint-Omer,4,2.66
+110,0.50,312881,https://www.beeradvocate.com/beer/profile/51039/312881/,Milk Stout,51039,Big Drop Brewing Co. Limited,4,3.74
+111,0.50,312882,https://www.beeradvocate.com/beer/profile/51039/312882/,Pale Ale,51039,Big Drop Brewing Co. Limited,4,3.2
+112,0.30,62800,https://www.beeradvocate.com/beer/profile/301/62800/,Sagres Zero,301,Sociedade Central de Cervejas,4,1.67
+113,0.10,66897,https://www.beeradvocate.com/beer/profile/10544/66897/,Malta Guinness,10544,Guinness Nigeria PLC,4,3.67
+114,0.50,39771,https://www.beeradvocate.com/beer/profile/169/39771/,Stella Artois NA,169,Stella Artois,4,2.25
+115,0.50,209762,https://www.beeradvocate.com/beer/profile/2432/209762/,Benediktiner Weissbier Alkoholfrei,2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,4,2.14
+116,0.30,72806,https://www.beeradvocate.com/beer/profile/301/72806/,Sagres Zero Preta (Dark),301,Sociedade Central de Cervejas,4,2.93
+117,3.00,35961,https://www.beeradvocate.com/beer/profile/12319/35961/,Sun Light,12319,Mildura Theatre Brewery Pty Ltd,4,2.02
+118, ? ,48771,https://www.beeradvocate.com/beer/profile/290/48771/,Clausthaler Lemon,290,Binding-Brauerei AG,4,2.18
+119, ? ,77449,https://www.beeradvocate.com/beer/profile/436/77449/,Maes Zero,436,Brouwerij Alken-Maes,4,1.2
+120,4.30,317875,https://www.beeradvocate.com/beer/profile/48585/317875/,Cremo Ale,48585,Alvarium Beer Company,4,3.48
+121,0.10,75713,https://www.beeradvocate.com/beer/profile/722/75713/,Pony Malta,722,Cervecería Bavaria,4,2.58
+122,1.00,39120,https://www.beeradvocate.com/beer/profile/10539/39120/,Maltextrakt,10539,Ölgerðin Egill Skallagrímsson,4,3.35
+123,0.25,104670,https://www.beeradvocate.com/beer/profile/889/104670/,Palm N.A.,889,Brouwerij Palm NV,4,2.78
+124,1.80,127485,https://www.beeradvocate.com/beer/profile/3516/127485/,Leroy Bruin,3516,Leroy Breweries,4,2.64
+125,2.25,127486,https://www.beeradvocate.com/beer/profile/3516/127486/,Leroy Bock,3516,Leroy Breweries,4,2
+126, ? ,87314,https://www.beeradvocate.com/beer/profile/498/87314/,Bavaria 0.0% Gold,498,Bavaria Brouwerij N.V.,3,3.13
+127,2.50,24595,https://www.beeradvocate.com/beer/profile/264/24595/,Koff I,264,Oy Sinebrychoff Ab,3,3.11
+128,0.50,53523,https://www.beeradvocate.com/beer/profile/2055/53523/,Bernard S čistou Hlavou,2055,Bernard Family Brewery,3,2.67
+129,2.70,281364,https://www.beeradvocate.com/beer/profile/530/281364/,Bastaard Gember En Citroen,530,Arcense Stoombierbouwerij (Hertog Jan Brouwerij),3,2.49
+130,0.50,99614,https://www.beeradvocate.com/beer/profile/601/99614/,Obolon Bezalkogolne (Non-alcoholic),601,Obolon Brewery,3,1.95
+131,2.20,148527,https://www.beeradvocate.com/beer/profile/37042/148527/,Wermlands Lättöl,37042,Wermlands Brygghus,3,3.61
+132,0.50,117807,https://www.beeradvocate.com/beer/profile/10897/117807/,Falcon Smakfull Alkoholfri,10897,Carlsberg Sverige AB,3,2.17
+133,2.70,22845,https://www.beeradvocate.com/beer/profile/11065/22845/,Olvi Ykkönen,11065,Olvi Oyj,3,2.71
+134, ? ,266562,https://www.beeradvocate.com/beer/profile/134/266562/,Jupiler 0.0,134,Brasserie Piedboeuf,3,1.78
+135,3.00,32587,https://www.beeradvocate.com/beer/profile/1321/32587/,Mr Natural,1321,Wig And Pen,3,2.63
+136,1.00,117079,https://www.beeradvocate.com/beer/profile/34048/117079/,Guayacán Uno,34048,Cerveza Guayacán,3,3.26
+137, ? ,175198,https://www.beeradvocate.com/beer/profile/81/175198/,"Buckler 0,0",81,Heineken Nederland B.V.,3,2.93
+138,2.20,290155,https://www.beeradvocate.com/beer/profile/24299/290155/,Totem Passion,24299,To Øl,3,3.59
+139,0.76,311148,https://www.beeradvocate.com/beer/profile/35329/311148/,Don't Worry Baby,35329,Jaws Brewery,3,3.83
+140,0.40,198260,https://www.beeradvocate.com/beer/profile/894/198260/,Nils Oscar Alkoholfri,894,Nils Oscar,3,2.35
+141,0.10,60549,https://www.beeradvocate.com/beer/profile/840/60549/,Laziza Peach,840,Brasserie Almaza S.A.L.,3,3.66
+142,3.50,178311,https://www.beeradvocate.com/beer/profile/24491/178311/,Cricketers Arms Journeyman Mid Strength Lager,24491,Sundance Brewing International,3,3.15
+143,1.50,200849,https://www.beeradvocate.com/beer/profile/33102/200849/,Bucha Baby,33102,Bridge and Tunnel Brewery,3,4.05
+144,0.50,98974,https://www.beeradvocate.com/beer/profile/4089/98974/,Stockholm Fine Festival Beer Alkoholfri,4089,Krönleins Bryggeri AB,3,1.92
+145,1.50,127904,https://www.beeradvocate.com/beer/profile/718/127904/,Dinner Beer (Blond),718,De Brabandere,3,1.98
+146,0.50,54186,https://www.beeradvocate.com/beer/profile/457/54186/,President's Choice Red Brew,457,Lakeport Brewing Company,3,2.09
+147, ? ,72887,https://www.beeradvocate.com/beer/profile/840/72887/,Laziza Lemon,840,Brasserie Almaza S.A.L.,3,3.31
+148,1.50,123576,https://www.beeradvocate.com/beer/profile/718/123576/,Dinner Beer (Faro),718,De Brabandere,3,2.48
+149, ? ,118970,https://www.beeradvocate.com/beer/profile/129/118970/,Tucher Helles Hefe Weizen Alkoholfrei,129,Brauerei Tucher Brau,3,2.62
+150,0.50,211656,https://www.beeradvocate.com/beer/profile/43999/211656/,Texas Select,43999,Texas Select Beverage Company,3,2.33
+151, ? ,26570,https://www.beeradvocate.com/beer/profile/917/26570/,Ambar Green,917,La Zaragozana S.A.,3,1.63
+152,0.50,111061,https://www.beeradvocate.com/beer/profile/2472/111061/,Riedenburger Dinkel Alkoholfrei,2472,Riedenburger Brauhaus,3,2.08
+153, ? ,117205,https://www.beeradvocate.com/beer/profile/3715/117205/,Schin Zero Álcool,3715,Brasil Kirin,3,2.02
+154,0.40,63192,https://www.beeradvocate.com/beer/profile/150/63192/,Malta El Sol,150,"Lion Brewery, Inc.",3,3.3
+155,0.50,64222,https://www.beeradvocate.com/beer/profile/6748/64222/,Preta Doce,6748,Melo Abreu / Fabrica de Cervejas e Refrigerantes,3,1.9
+156,0.38,107744,https://www.beeradvocate.com/beer/profile/285/107744/,Birell,285,Brauerei Schloss Eggenberg,3,2.36
+157, ? ,124388,https://www.beeradvocate.com/beer/profile/2689/124388/,Ursus Fara Alcool,2689,Ursus S.A. (SAB) / Compania de Bere Romania,3,2.38
+158,0.40,189160,https://www.beeradvocate.com/beer/profile/2924/189160/,Aguila Cero,2924,Cervecería De Barranquilla,3,2.46
+159,0.50,104938,https://www.beeradvocate.com/beer/profile/172/104938/,Veltins Alkoholfrei,172,Brauerei C. & A. Veltins GmbH & Co.,3,2.07
+160,0.50,321520,https://www.beeradvocate.com/beer/profile/32329/321520/,Playground - Alcohol Vrij IPA,32329,vandeStreek Bier,3,3.39
+161,2.90,127996,https://www.beeradvocate.com/beer/profile/172/127996/,Veltins V+ Kola,172,Brauerei C. & A. Veltins GmbH & Co.,3,2.02
+162,2.25,68099,https://www.beeradvocate.com/beer/profile/25323/68099/,Skånehill 99 Guldale,25323,Skånehills Gårdsbryggeri,2,2.9
+163,2.50,292623,https://www.beeradvocate.com/beer/profile/1539/292623/,Oettinger Weissbier And Grapefruit,1539,Oettinger International Getränke-Vertriebs GmbH,2,3.6
+164,2.70,281365,https://www.beeradvocate.com/beer/profile/530/281365/,Bastaard Appel En Citroengras,530,Arcense Stoombierbouwerij (Hertog Jan Brouwerij),2,1.8
+165,0.50,80153,https://www.beeradvocate.com/beer/profile/506/80153/,Stender Lemon & Lime,506,Grolsch Bierbrouwerij N.V.,2,2.4
+166,3.00,175899,https://www.beeradvocate.com/beer/profile/3799/175899/,Zipfer Drei,3799,Brauerei Zipf (Brau Union),2,2.25
+167,0.10,266012,https://www.beeradvocate.com/beer/profile/13307/266012/,Hallo Ich Bin Berliner Weisse Alkoholfrei,13307,Mikkeller ApS,2,1.91
+168,3.50,153373,https://www.beeradvocate.com/beer/profile/752/153373/,St Louis Lager,752,Kgalagadi Breweries Limited,2,2.55
+169,2.20,163869,https://www.beeradvocate.com/beer/profile/10898/163869/,Kusken,10898,Hantverksbryggeriet AB,2,2.93
+170,0.40,268065,https://www.beeradvocate.com/beer/profile/10523/268065/,Easy Rider Bulldog,10523,Gotlands Bryggeri,2,3.6
+171,0.90,181538,https://www.beeradvocate.com/beer/profile/28047/181538/,Steinburg Sin,28047,Brasserie Champigneulles (TCB Beverages),2,1.65
+172,4.60,300332,https://www.beeradvocate.com/beer/profile/2681/300332/,Avocado Toast,2681,Oskar Blues Grill & Brew,2,3.52
+173,0.50,117806,https://www.beeradvocate.com/beer/profile/10897/117806/,Falcon Alkoholfri Lager,10897,Carlsberg Sverige AB,2,2.39
+174,0.50,117556,https://www.beeradvocate.com/beer/profile/2055/117556/,Bernard S Čistou Hlavou Jantar,2055,Bernard Family Brewery,2,1.97
+175, ? ,335925,https://www.beeradvocate.com/beer/profile/45096/335925/,Šopeno 0,45096,Kalnapilio – Tauro Grupė,2,2.88
+176,0.80,17467,https://www.beeradvocate.com/beer/profile/6903/17467/,Hoppy Black,6903,"Hoppy Beverage Co., Ltd.",2,3.42
+177, ? ,72255,https://www.beeradvocate.com/beer/profile/1704/72255/,Bergenbier Fara Alcool,1704,Bergenbier SA,2,2.14
+178, ? ,296000,https://www.beeradvocate.com/beer/profile/506/296000/,Non Alcoholic Radler,506,Grolsch Bierbrouwerij N.V.,2,2.73
+179, ? ,337477,https://www.beeradvocate.com/beer/profile/20810/337477/,Nealkoholinis,20810,Vilkmergės Alus,2,2.99
+180,0.50,194374,https://www.beeradvocate.com/beer/profile/34642/194374/,AUBI,34642,Dingslebener Privatbrauerei Metzler,2,2.51
+181,2.00,77128,https://www.beeradvocate.com/beer/profile/6657/77128/,Extracto De Malta,6657,Bavaria-St. Pauli-Brauerei GmbH,2,4
+182, ? ,171592,https://www.beeradvocate.com/beer/profile/865/171592/,All-Free,865,Suntory,2,1.35
+183,0.50,279369,https://www.beeradvocate.com/beer/profile/779/279369/,Southwold Pale 0.5%,779,"Adnams plc, Sole Bay Brewery",2,3.01
+184,2.40,61002,https://www.beeradvocate.com/beer/profile/601/61002/,Obolon Beer Mix Energy,601,Obolon Brewery,2,3.05
+185, ? ,187979,https://www.beeradvocate.com/beer/profile/290/187979/,Clausthaler Zwickl Alkoholfrei,290,Binding-Brauerei AG,2,3.62
+186,0.50,128075,https://www.beeradvocate.com/beer/profile/33981/128075/,Non Alcoholic Beer,33981,Albrau SA,2,2.38
+187,1.50,72015,https://www.beeradvocate.com/beer/profile/7628/72015/,Vormann Malzbier,7628,Brauerei Vormann,2,3.06
+188, ? ,213583,https://www.beeradvocate.com/beer/profile/2689/213583/,Ursus Cooler Fara Alcool,2689,Ursus S.A. (SAB) / Compania de Bere Romania,2,2
+189,0.40,235865,https://www.beeradvocate.com/beer/profile/34058/235865/,Ü.NN IPA,34058,Kehrwieder Kreativbrauerei,2,3.24
+190,0.30,331355,https://www.beeradvocate.com/beer/profile/13307/331355/,Drink'in The Sun,13307,Mikkeller ApS,2,3.57
+191,0.50,97627,https://www.beeradvocate.com/beer/profile/568/97627/,Karmi Malinowa Pasja,568,Browar Okocim S.A. (Carlsberg),2,2.24
+192,2.00,179807,https://www.beeradvocate.com/beer/profile/35564/179807/,1842 Ginger Beer,35564,Corfu Beer,2,3.43
+193, ? ,184674,https://www.beeradvocate.com/beer/profile/4155/184674/,Neumarkter Lammsbräu Alkoholfrei,4155,Neumarkter Lammsbräu,2,1.95
+194,0.50,119140,https://www.beeradvocate.com/beer/profile/439/119140/,Super Bock Sem Alcool,439,UNICER União Cervejeira S.A.,2,2.65
+195,0.01,281191,https://www.beeradvocate.com/beer/profile/10272/281191/,Innis & None,10272,Innis & Gunn,2,2.56
+196,2.50,91240,https://www.beeradvocate.com/beer/profile/886/91240/,Ledu Kas,886,Gubernija Brewery,2,2.15
+197, ? ,331369,https://www.beeradvocate.com/beer/profile/12224/331369/,Nealkoholinis IPA,12224,Rinkuškiai,2,3.48
+198,0.10,163435,https://www.beeradvocate.com/beer/profile/1685/163435/,Bucanero Malta,1685,Cerveceria Bucanero S.A.,2,1.87
+199, ? ,132717,https://www.beeradvocate.com/beer/profile/1700/132717/,Golden Brau 0.0,1700,Bere Craiova (Brau-Union Romania),2,1.44
+200,2.00,63086,https://www.beeradvocate.com/beer/profile/7631/63086/,Koch’sches Malzbier,7631,Brauerei zur Malzmühle,2,1.56
+201, ? ,157296,https://www.beeradvocate.com/beer/profile/2854/157296/,Flensburger Malz,2854,Flensburger Brauerei GmbH Und Co. KG,2,3.5
+202, ? ,232305,https://www.beeradvocate.com/beer/profile/498/232305/,Bavaria 0.0% Strawberry,498,Bavaria Brouwerij N.V.,2,4.11
+203,0.90,107127,https://www.beeradvocate.com/beer/profile/498/107127/,Bavaria Lager Shandy,498,Bavaria Brouwerij N.V.,2,2.3
+204,4.70,284026,https://www.beeradvocate.com/beer/profile/44314/284026/,Biere De Joie,44314,Kinsmen Brewing Company,2,4.3
+205, ? ,48766,https://www.beeradvocate.com/beer/profile/506/48766/,Liberator,506,Grolsch Bierbrouwerij N.V.,2,2.44
+206, ? ,197260,https://www.beeradvocate.com/beer/profile/4453/197260/,Nenea Iancu Bere Blondă Specială Fără Alcool,4453,Memminger Brauerei,2,2.77
+207,0.30,121229,https://www.beeradvocate.com/beer/profile/9372/121229/,Kunstmann Sin Alcohol,9372,"Compania Cervecera Kunstmann, S.A.",2,1.87
+208,4.00,322445,https://www.beeradvocate.com/beer/profile/20563/322445/,Happy Landing,20563,Highlander Brew Co.,2,3.31
+209,3.50,177811,https://www.beeradvocate.com/beer/profile/353/177811/,Pure Blonde Premium Mid,353,"Carlton & United Breweries, Ltd.",2,2.96
+210,0.50,61335,https://www.beeradvocate.com/beer/profile/4087/61335/,Spendrups Premium Lager Alkoholfri,4087,Spendrups Bryggeri AB,2,1.81
+211,2.40,35744,https://www.beeradvocate.com/beer/profile/4155/35744/,Neumarkter Lammsbräu Schankbier,4155,Neumarkter Lammsbräu,2,3
+212,0.49,127908,https://www.beeradvocate.com/beer/profile/11205/127908/,Platan Nealko,11205,Městský Pivovar Platan S.r.o.,2,2.75
+213,2.90,168119,https://www.beeradvocate.com/beer/profile/3655/168119/,Auer Leichtes,3655,Schlossbrauerei Au-Hallertau,2,3
+214,0.49,124856,https://www.beeradvocate.com/beer/profile/4107/124856/,Černá Hora Forman Polotmavý,4107,Pivovar Černá Hora,2,3
+215,0.50,225729,https://www.beeradvocate.com/beer/profile/9775/225729/,Dia Shandy Panaché,9775,Brasserie de Saint-Omer,2,2.97
+216,0.50,163785,https://www.beeradvocate.com/beer/profile/4089/163785/,"Three Hearts Green EKO Lager 0,5%",4089,Krönleins Bryggeri AB,2,2.08
+217, ? ,31693,https://www.beeradvocate.com/beer/profile/1450/31693/,Früh Kölsch Alkoholfrei,1450,Brauerei Früh am Dom,2,2.25
+218, ? ,193230,https://www.beeradvocate.com/beer/profile/716/193230/,Asahi Dry Zero,716,Asahi Breweries Ltd,2,3.05
+219, ? ,112338,https://www.beeradvocate.com/beer/profile/4477/112338/,Gösser Naturgold,4477,Brauerei Göss (Brau Union),2,3.38
+220, ? ,84436,https://www.beeradvocate.com/beer/profile/3453/84436/,Sarajevo 0% Bezalkoholno Pivo,3453,Sarajevska Pivara,2,1.94
+221,0.30,59094,https://www.beeradvocate.com/beer/profile/2181/59094/,Kamenitza 0%,2181,Kamenitza AD,2,2.06
+222, ? ,174807,https://www.beeradvocate.com/beer/profile/5142/174807/,Finkbräu Alkoholfrei,5142,Oettinger Brauerei,2,1.77
+223,0.90,218841,https://www.beeradvocate.com/beer/profile/573/218841/,Hahn Ultra,573,Hahn Brewing Co. Pty. Ltd.,2,1.97
+224,0.50,55004,https://www.beeradvocate.com/beer/profile/713/55004/,Yanjing Wuchun N/A,713,Beijing Yanjing Beer Group Corporation,2,2.38
+225, ? ,164830,https://www.beeradvocate.com/beer/profile/39821/164830/,Barbican,39821,Aujan Industries Co.,2,1.94
+226,1.00,161247,https://www.beeradvocate.com/beer/profile/5012/161247/,Shandy,5012,Cervecería Estrella De Galicia,2,2.28
+227,2.20,87265,https://www.beeradvocate.com/beer/profile/7220/87265/,Helsinge Svagdricka,7220,Helsinge Ångbryggeri,2,2.94
+228,0.25,71143,https://www.beeradvocate.com/beer/profile/290/71143/,Clausthaler Radler,290,Binding-Brauerei AG,2,2.41
+229,0.50,141288,https://www.beeradvocate.com/beer/profile/2430/141288/,Birell,2430,Al Ahram Beverages Company,2,2.71
+230,0.50,266732,https://www.beeradvocate.com/beer/profile/1917/266732/,Lech Free,1917,Kompania Piwowarska,2,2.5
+231, ? ,101613,https://www.beeradvocate.com/beer/profile/32966/101613/,Delster Classic,32966,Behnoush Co.,2,2.17
+232,0.10,128237,https://www.beeradvocate.com/beer/profile/8469/128237/,Ciuc 0.0%,8469,Miercurea Ciuc (Brau Union Romania),2,2.33
+233,0.50,118512,https://www.beeradvocate.com/beer/profile/2480/118512/,Bavaria Sem Álcool,2480,Cervejaria Kaiser,2,1.38
+234, ? ,100340,https://www.beeradvocate.com/beer/profile/10214/100340/,"Crystal Beer 0,0%",10214,Cervejaria Petrópolis,2,1.64
+235,0.50,110845,https://www.beeradvocate.com/beer/profile/568/110845/,Karmi Poema Di Caffé,568,Browar Okocim S.A. (Carlsberg),2,2.93
+236, ? ,176638,https://www.beeradvocate.com/beer/profile/264/176638/,Nikolai Sinebrychoff Vaalea Lager,264,Oy Sinebrychoff Ab,2,2.57
+237,0.49,127489,https://www.beeradvocate.com/beer/profile/167/127489/,Lobkowicz Premium Nealko,167,Brewery Lobkowicz,1,2.25
+238,2.25,68098,https://www.beeradvocate.com/beer/profile/25323/68098/,Skånehill Qvidinge Lättpilsner,25323,Skånehills Gårdsbryggeri,1,2.69
+239,2.50,172292,https://www.beeradvocate.com/beer/profile/40536/172292/,Lemon Shandy,40536,Green & Pleasant,1,2.93
+240,2.10,147974,https://www.beeradvocate.com/beer/profile/4087/147974/,"Risingsbo 1856 2,1%",4087,Spendrups Bryggeri AB,1,1.5
+241, ? ,48905,https://www.beeradvocate.com/beer/profile/18389/48905/,Malta,18389,Fabricas Nacionales De Cerveza,1,3.15
+242, ? ,87310,https://www.beeradvocate.com/beer/profile/532/87310/,Budels Malt,532,Budelse Brouwerij B.V.,1,3.25
+243, ? ,185103,https://www.beeradvocate.com/beer/profile/498/185103/,Dia Sin,498,Bavaria Brouwerij N.V.,1,2.4
+244, ? ,314128,https://www.beeradvocate.com/beer/profile/36041/314128/,Beerville Alcohol Free,36041,Taruškų Alaus Bravoras,1,2.52
+245,2.20,174865,https://www.beeradvocate.com/beer/profile/264/174865/,Perinne,264,Oy Sinebrychoff Ab,1,2.38
+246, ? ,194322,https://www.beeradvocate.com/beer/profile/15098/194322/,Coviran Sin,15098,Font Salem,1,1.5
+247,2.20,87066,https://www.beeradvocate.com/beer/profile/30212/87066/,Ängslyckans Svagdricka,30212,Ängslyckans Gårdsbryggeri,1,2.71
+248, ? ,265500,https://www.beeradvocate.com/beer/profile/2549/265500/,Munkholm Fatøl,2549,Ringnes Bryggeri (Carlsberg),1,1.9
+249,0.50,332575,https://www.beeradvocate.com/beer/profile/5142/332575/,Oettinger Alkoholfrei,5142,Oettinger Brauerei,1,3
+250,0.50,310047,https://www.beeradvocate.com/beer/profile/809/310047/,Belco Sem Alcool,809,Belco Beer House S/A,1,1.06
+251,0.40,61472,https://www.beeradvocate.com/beer/profile/150/61472/,Malta Corona,150,"Lion Brewery, Inc.",1,3.31
+252,0.05,136739,https://www.beeradvocate.com/beer/profile/31399/136739/,Don's Non-Alcoholic,31399,Aslan Brewing Company,1,4.33
+253, ? ,62243,https://www.beeradvocate.com/beer/profile/1539/62243/,Original Oettinger Malz,1539,Oettinger International Getränke-Vertriebs GmbH,1,1.67
+254, ? ,261668,https://www.beeradvocate.com/beer/profile/4173/261668/,Cruzcampo 0.0,4173,Grupo Cruzcampo SA,1,1.33
+255,2.90,87589,https://www.beeradvocate.com/beer/profile/2418/87589/,Diebels Dimix,2418,Brauerei Diebels GmbH & Co KG,1,2.34
+256,0.50,175398,https://www.beeradvocate.com/beer/profile/76/175398/,Münchner Alkoholfrei - Naturtrübes Helles,76,Hacker-Pschorr Bräu GmbH,1,1.42
+257,0.50,310054,https://www.beeradvocate.com/beer/profile/10214/310054/,Itaipava Sem Álcool,10214,Cervejaria Petrópolis,1,1.17
+258,0.50,180519,https://www.beeradvocate.com/beer/profile/15098/180519/,Aliada Sin Alcohol,15098,Font Salem,1,1.5
+259, ? ,177961,https://www.beeradvocate.com/beer/profile/9262/177961/,Alhambra Sin,9262,"Grupo Cervezas Alhambra, SL",1,1.53
+260,0.44,309545,https://www.beeradvocate.com/beer/profile/9374/309545/,Go Nealkoholinis Juodas,9374,UAB Švyturys - Utenos alus,1,2.65
+261, ? ,178729,https://www.beeradvocate.com/beer/profile/498/178729/,Carrefour Lager 0.0%,498,Bavaria Brouwerij N.V.,1,1.25
+262,0.70,175915,https://www.beeradvocate.com/beer/profile/15098/175915/,Molen Bier Sin,15098,Font Salem,1,1
+263,0.50,175406,https://www.beeradvocate.com/beer/profile/176/175406/,Julius Echter Alkoholfreies Weissbier,176,Würzburger Hofbräu AG,1,4.06
+264,0.50,330799,https://www.beeradvocate.com/beer/profile/3778/330799/,Edelmeister Non-alcoholic,3778,Browar Van Pur S.A. (Brau Union Polska),1,3.02
+265, ? ,267057,https://www.beeradvocate.com/beer/profile/2549/267057/,Munkholm Weiss,2549,Ringnes Bryggeri (Carlsberg),1,2.95
+266,0.50,310323,https://www.beeradvocate.com/beer/profile/49754/310323/,Província Alcohol Free,49754,Cerveja Província (Cervejaria Riograndense),1,2.1
+267,0.50,312883,https://www.beeradvocate.com/beer/profile/51039/312883/,Lager,51039,Big Drop Brewing Co. Limited,1,2.82
+268,3.30,185139,https://www.beeradvocate.com/beer/profile/35280/185139/,TUN Mid,35280,Pinnacle Liquor Group,1,2.9
+269,0.50,335924,https://www.beeradvocate.com/beer/profile/3778/335924/,Van Pur Non-Alcoholic,3778,Browar Van Pur S.A. (Brau Union Polska),1,2.22
+270,0.50,312884,https://www.beeradvocate.com/beer/profile/51039/312884/,Spiced Ale,51039,Big Drop Brewing Co. Limited,1,2.55
+271, ? ,224569,https://www.beeradvocate.com/beer/profile/498/224569/,Dia 0.0,498,Bavaria Brouwerij N.V.,1,1.3
+272,1.00,70970,https://www.beeradvocate.com/beer/profile/718/70970/,Fancy Low Alcohol Beer,718,De Brabandere,1,3.47
+273,1.00,94778,https://www.beeradvocate.com/beer/profile/16004/94778/,Anglia Shandy,16004,Guinness Anchor Berhad / Sungei Way Brewery,1,1.93
+274,0.90,176186,https://www.beeradvocate.com/beer/profile/40931/176186/,Rainbow Kotikalja,40931,Finn Spring Oy,1,2.68
+275,0.50,198715,https://www.beeradvocate.com/beer/profile/3805/198715/,Fuchschen Alt Alkoholfrei,3805,Brauerei Im Füchschen,1,4.35
+276, ? ,300859,https://www.beeradvocate.com/beer/profile/498/300859/,"Steinburg 0,0 Sin Gluten",498,Bavaria Brouwerij N.V.,1,1
+277, ? ,177212,https://www.beeradvocate.com/beer/profile/6983/177212/,Bikkuri Donkey Stout Free,6983,Otaru Beer,1,1.3
+278,1.00,234558,https://www.beeradvocate.com/beer/profile/24132/234558/,1 Na 100 Lite APA,24132,Browar Kormoran,1,3.52
+279, ? ,122174,https://www.beeradvocate.com/beer/profile/6033/122174/,Graf Arco Helles Alkoholfrei,6033,Gräfliche Brauerei Arco Valley,1,2.25
+280, ? ,236608,https://www.beeradvocate.com/beer/profile/817/236608/,Stiegl Freibier,817,Stieglbrauerei zu Salzburg GmbH,1,2.59
+281,0.90,11585,https://www.beeradvocate.com/beer/profile/1498/11585/,Kronenbourg Pur Malt,1498,Brasseries Kronenbourg,1,2
+282, ? ,292420,https://www.beeradvocate.com/beer/profile/4949/292420/,Estrella De Levante Sin,4949,Damm S. A.,1,1.54
+283, ? ,209989,https://www.beeradvocate.com/beer/profile/2308/209989/,Root Beer,2308,Chicago Brewing Company,1,3.19
+284, ? ,313159,https://www.beeradvocate.com/beer/profile/1273/313159/,"Kalnapilis 0,0",1273,Alaus Darykla Kalnapilis,1,2.09
+285,0.30,338506,https://www.beeradvocate.com/beer/profile/50985/338506/,Partake IPA,50985,Partake Brewing,1,3
+286,1.00,141646,https://www.beeradvocate.com/beer/profile/18963/141646/,Three Horses Beer Fresh,18963,Brasseries Star Madagascar,1,1.75
+287,0.49,316755,https://www.beeradvocate.com/beer/profile/4155/316755/,Neumarkter Lammsbräu Glutenfrei Alkoholfrei,4155,Neumarkter Lammsbräu,1,1.58
+288,0.50,237909,https://www.beeradvocate.com/beer/profile/264/237909/,Nikolai Alkoholiton Vehnä,264,Oy Sinebrychoff Ab,1,3
+289,0.50,192085,https://www.beeradvocate.com/beer/profile/168/192085/,Rebel Nealko,168,Měšťanský pivovar Havlíčkův Brod,1,2.89
+290,0.10,163417,https://www.beeradvocate.com/beer/profile/21200/163417/,Apóstol Sin,21200,Inducerv SA,1,2.43
+291,3.00,335194,https://www.beeradvocate.com/beer/profile/49404/335194/,Melo Gold Grapefruit Shandy,49404,Green Cheek Beer Company,1,4.25
+292,0.50,101979,https://www.beeradvocate.com/beer/profile/434/101979/,Colônia Sem Álcool,434,Indústria Nacional de Bebidas,1,1
+293,0.50,304482,https://www.beeradvocate.com/beer/profile/40690/304482/,IPA Sans Alcool,40690,Le BockAle,1,1.8
+294, ? ,112997,https://www.beeradvocate.com/beer/profile/33145/112997/,Root Beer,33145,Fonta Flora Brewery,1,4.59
+295,0.50,221286,https://www.beeradvocate.com/beer/profile/2629/221286/,Alpirsbacher Klosterbräu Weizen Hefe Hell Alkoholfrei,2629,Alpirsbacher Klosterbräu,1,2.88
+296, ? ,175718,https://www.beeradvocate.com/beer/profile/12633/175718/,"San Miguel 0,0%",12633,San Miguel Fabricas De Cervaza Y Maltas S.A.,1,2.45
+297, ? ,317542,https://www.beeradvocate.com/beer/profile/19720/317542/,H.F. Puls Non-Alcoholic,19720,Viru Õlu AS,1,2.94
+298, ? ,175719,https://www.beeradvocate.com/beer/profile/12633/175719/,"San Miguel 0,0% Limón",12633,San Miguel Fabricas De Cervaza Y Maltas S.A.,1,3.07
+299, ? ,305256,https://www.beeradvocate.com/beer/profile/42158/305256/,Mica Sin Alcohol,42158,Cerveza Mica,1,1.36
+300,4.30,327273,https://www.beeradvocate.com/beer/profile/51882/327273/,Jose's Lime Lite,51882,Tenacity Brewing,1,2.75
+301,2.00,58474,https://www.beeradvocate.com/beer/profile/48/58474/,Bios Hop & Mout,48,Brouwerij Van Steenberge N.V.,1,1.91
+302,0.90,301419,https://www.beeradvocate.com/beer/profile/43555/301419/,Emdbrau Sin,43555,Belgo (Brauerei Nemo Namenlos),1,2
+303, ? ,229996,https://www.beeradvocate.com/beer/profile/7591/229996/,Malz Klassik,7591,Feldschlösschen AG,1,3
+304,2.50,196461,https://www.beeradvocate.com/beer/profile/14239/196461/,BBC 2,14239,Brentwood Brewing Co. Ltd,1,3.81
+305,0.50,311150,https://www.beeradvocate.com/beer/profile/23305/311150/,Zhiguli Barnoye Non-Alcoholic (Жигули Барное Безалкогольное),23305,Moskovskaya Pivovarennaya Kompaniya,1,3.29
+306, ? ,229743,https://www.beeradvocate.com/beer/profile/1472/229743/,Hite Zero,1472,Hite Brewery Company LTD,1,2.8
+307, ? ,162416,https://www.beeradvocate.com/beer/profile/12583/162416/,Taybeh Non-Alcoholic,12583,Taybeh Brewing Co.,1,2.85
+308, ? ,180850,https://www.beeradvocate.com/beer/profile/15781/180850/,Skol Sin Alcohol 0.0,15781,Carlsberg Breweries A/S,1,1.56
+309,0.50,283252,https://www.beeradvocate.com/beer/profile/1498/283252/,Kronenbourg 1664 Blanc Non-Alco,1498,Brasseries Kronenbourg,1,2.48
+310,3.50,123252,https://www.beeradvocate.com/beer/profile/14478/123252/,Jessenhofke LGHT,14478,Jessenhofke NV,1,3.75
+311, ? ,245621,https://www.beeradvocate.com/beer/profile/12633/245621/,"San Miguel 0,0% Isotónica",12633,San Miguel Fabricas De Cervaza Y Maltas S.A.,1,1.15
+312, ? ,174713,https://www.beeradvocate.com/beer/profile/4173/174713/,Cruzcampo Sin,4173,Grupo Cruzcampo SA,1,1.77
+313,0.50,175485,https://www.beeradvocate.com/beer/profile/2629/175485/,Alkoholfrei,2629,Alpirsbacher Klosterbräu,1,3
+314, ? ,175999,https://www.beeradvocate.com/beer/profile/9775/175999/,Karlsquell Shandy,9775,Brasserie de Saint-Omer,1,1.39
+315,0.05,209541,https://www.beeradvocate.com/beer/profile/498/209541/,Holbrand Sin / Free,498,Bavaria Brouwerij N.V.,1,1.25
+316,2.10,167303,https://www.beeradvocate.com/beer/profile/2299/167303/,Strubbe Pilsen,2299,Brouwerij Strubbe,1,2.18
+317, ? ,176523,https://www.beeradvocate.com/beer/profile/12633/176523/,"San Miguel 0,0% Manzana",12633,San Miguel Fabricas De Cervaza Y Maltas S.A.,1,2.13
+318,3.30,237454,https://www.beeradvocate.com/beer/profile/33521/237454/,The Invisible City Of Bladensburg,33521,Right Proper Brewing Company - Shaw Brewpub,1,3.84
+319, ? ,238990,https://www.beeradvocate.com/beer/profile/264/238990/,Nikolai Alkoholiton Tumma Lager,264,Oy Sinebrychoff Ab,1,2.98
+320,3.20,252563,https://www.beeradvocate.com/beer/profile/40396/252563/,Maxbrauerei Session Lager,40396,Maxbrauerei Biermanufaktur,1,2.4
+321, ? ,164764,https://www.beeradvocate.com/beer/profile/32966/164764/,Black Delster,32966,Behnoush Co.,1,4.26
+322,0.50,180382,https://www.beeradvocate.com/beer/profile/4686/180382/,Hofbräu Weisse Alkoholfrei,4686,Hofbräuhaus München,1,3.55
+323,2.80,87199,https://www.beeradvocate.com/beer/profile/10901/87199/,Mora Svagdricka,10901,Mora Brygeri,1,2.26
+324, ? ,311202,https://www.beeradvocate.com/beer/profile/9374/311202/,Go Nealkoholinis Pilsner,9374,UAB Švyturys - Utenos alus,1,3
+325,0.90,278691,https://www.beeradvocate.com/beer/profile/48974/278691/,Chula Sin,48974,Cervezas Villa De Madrid,1,4.35
+326,3.90,150181,https://www.beeradvocate.com/beer/profile/13136/150181/,Narrow Neck Session Ale,13136,Gage Roads Brewing Company,1,3.59
+327,0.50,89257,https://www.beeradvocate.com/beer/profile/81/89257/,Royal Club Shandy,81,Heineken Nederland B.V.,1,1.65
+328,0.50,54185,https://www.beeradvocate.com/beer/profile/457/54185/,Master Choice De-Alcoholized Ice Beer,457,Lakeport Brewing Company,1,1.18
+329, ? ,174506,https://www.beeradvocate.com/beer/profile/1315/174506/,Weltenburger Hefe-Weissbier Alkoholfrei,1315,Klosterbrauerei Weltenburg,1,3
+330,1.80,104878,https://www.beeradvocate.com/beer/profile/2968/104878/,Hancock Jule Hvidt-Øl No. 1,2968,Hancock Bryggerierne,1,3.5
+331, ? ,200879,https://www.beeradvocate.com/beer/profile/3943/200879/,"Cristal Cero,0%",3943,Cervecera CCU Chile Ltda,1,1.65
+332,0.10,162223,https://www.beeradvocate.com/beer/profile/8468/162223/,Lidskoe Nulevochka,8468,Lidskoye Pivo OAO,1,2.02
+333,2.70,261295,https://www.beeradvocate.com/beer/profile/31177/261295/,BUL,31177,Brasserie artisanale du Léman,1,4.04
+334,0.40,241841,https://www.beeradvocate.com/beer/profile/5964/241841/,Schlappeseppel Pils Alkoholfrei,5964,Brauerei Schlappeseppel GmbH,1,2.37
+335, ? ,164786,https://www.beeradvocate.com/beer/profile/39629/164786/,Brood,39629,Kassatly Chtaura,1,2.27
+336,0.10,162227,https://www.beeradvocate.com/beer/profile/12359/162227/,Alexandria N.A,12359,Krinitsa,1,2.15
+337, ? ,69301,https://www.beeradvocate.com/beer/profile/2472/69301/,Riedenburger Dinkel Radler,2472,Riedenburger Brauhaus,1,3
+338,0.49,213941,https://www.beeradvocate.com/beer/profile/15098/213941/,Burge Meester Sin,15098,Font Salem,1,1.33
+339,0.50,229814,https://www.beeradvocate.com/beer/profile/2055/229814/,Bernard S Čistou Hlavou Švestka,2055,Bernard Family Brewery,1,1.18
+340,1.30,298934,https://www.beeradvocate.com/beer/profile/675/298934/,Roman Tafelbier Blond,675,Roman N.V.,1,2.18
+341,0.30,288439,https://www.beeradvocate.com/beer/profile/31/288439/,Pinkus Naturlich Erfrischend Alkoholfrei,31,Brauerei Pinkus Mueller,1,1.42
+342,0.40,239543,https://www.beeradvocate.com/beer/profile/10871/239543/,Perlenbacher Alkoholfrei,10871,Mauritius Brauerei,1,1.12
+343,2.80,243128,https://www.beeradvocate.com/beer/profile/1463/243128/,Burgenfels 2.8%,1463,Harboes Bryggeri A/S,1,3.38
+344,1.50,298937,https://www.beeradvocate.com/beer/profile/180/298937/,Verlinden Special Blond,180,Brouwerij Huyghe,1,1.64
+345, ? ,178361,https://www.beeradvocate.com/beer/profile/15098/178361/,Carrefour Lager Sin,15098,Font Salem,1,1
+346,0.40,212923,https://www.beeradvocate.com/beer/profile/18881/212923/,Zanahoria,18881,Bogota Beer Company,1,2.27
+347, ? ,122043,https://www.beeradvocate.com/beer/profile/34654/122043/,"Mestra 0,0",34654,Cervezas Artesanales S.A. (Mestra),1,1.55
+348, ? ,215230,https://www.beeradvocate.com/beer/profile/917/215230/,Ambar 0.0,917,La Zaragozana S.A.,1,2
+349,0.90,225983,https://www.beeradvocate.com/beer/profile/9775/225983/,Dia Sin,9775,Brasserie de Saint-Omer,1,2.17
+350,1.20,107713,https://www.beeradvocate.com/beer/profile/7607/107713/,Sternberg Doppel Karamel,7607,Leipziger Brauhaus zu Reudnitz GmbH,1,1
+351, ? ,264898,https://www.beeradvocate.com/beer/profile/569/264898/,Efes Zero,569,Anadolu Efes Brewery,1,2.19
+352,0.10,75714,https://www.beeradvocate.com/beer/profile/2270/75714/,Xtra Malt,2270,Samba Brewing Co. & Winery,1,2
+353, ? ,87491,https://www.beeradvocate.com/beer/profile/628/87491/,Karlskrone Malz,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,1,2.46
+354, ? ,286659,https://www.beeradvocate.com/beer/profile/920/286659/,"Mahou 0,0 Tostada",920,Mahou S.A.,1,2.26
+355,0.40,325571,https://www.beeradvocate.com/beer/profile/5994/325571/,Le Chauffeur,5994,Brauhaus Nittenau,1,2.96
+356,0.04,234948,https://www.beeradvocate.com/beer/profile/45372/234948/,Día Sin,45372,"Día, S.A.",1,2.4
+357, ? ,113095,https://www.beeradvocate.com/beer/profile/613/113095/,Bitburger Alkoholfrei 0.0% Apfel,613,Bitburger Brauerei,1,3.3
+358, ? ,179655,https://www.beeradvocate.com/beer/profile/81/179655/,Buckler 0.0 Blanca,81,Heineken Nederland B.V.,1,3.57
+359, ? ,247239,https://www.beeradvocate.com/beer/profile/81/247239/,Falke 0.0,81,Heineken Nederland B.V.,1,1.83
+360,2.25,86984,https://www.beeradvocate.com/beer/profile/30211/86984/,Svagdricka,30211,Sandhems Bryggeri,1,4.42
+361, ? ,179656,https://www.beeradvocate.com/beer/profile/81/179656/,Buckler 0.0 Negra,81,Heineken Nederland B.V.,1,2.03
+362, ? ,177865,https://www.beeradvocate.com/beer/profile/129/177865/,Tucher Pilsener Alkoholfrei,129,Brauerei Tucher Brau,1,2.74
+363,1.40,73675,https://www.beeradvocate.com/beer/profile/26877/73675/,Sopranen,26877,Worlds Smallest Brewery,1,3.75
+364,2.80,149451,https://www.beeradvocate.com/beer/profile/6157/149451/,Friedenfelser Pils Leicht,6157,Schlossbrauerei Friedenfels GmbH,1,3.75
+365, ? ,339404,https://www.beeradvocate.com/beer/profile/20782/339404/,Vilniaus Nealkoholinis Su Citrina,20782,Vilniaus Alus UAB,1,1.5
+366,0.50,271567,https://www.beeradvocate.com/beer/profile/42043/271567/,Argus Free,42043,Lidl Polska,1,2.81
+367,0.90,326352,https://www.beeradvocate.com/beer/profile/9262/326352/,Alhambra Especial Sin,9262,"Grupo Cervezas Alhambra, SL",1,3
+368,0.05,277201,https://www.beeradvocate.com/beer/profile/296/277201/,St. Peter's Without,296,St. Peter's Brewery Co Ltd,1,3.53
+369, ? ,313042,https://www.beeradvocate.com/beer/profile/12224/313042/,Microhistory Beer Monteball 2020,12224,Rinkuškiai,1,3.19
+370, ? ,142548,https://www.beeradvocate.com/beer/profile/37218/142548/,Brau Zero,37218,Abou Atni,1,3.11
+371, ? ,149460,https://www.beeradvocate.com/beer/profile/6157/149460/,Friedenfelser Urtyp Alkoholfrei,6157,Schlossbrauerei Friedenfels GmbH,1,1.25
+372, ? ,94932,https://www.beeradvocate.com/beer/profile/284/94932/,Sapporo Premium Alcohol Free,284,Sapporo Breweries Ltd.,1,2.37
+373,1.00,175316,https://www.beeradvocate.com/beer/profile/163/175316/,Amstel Sin,163,Amstel Brouwerij B. V.,1,2.35
+374,3.20,252375,https://www.beeradvocate.com/beer/profile/613/252375/,Bitburger Sommerbier,613,Bitburger Brauerei,1,3.72
+375, ? ,112344,https://www.beeradvocate.com/beer/profile/84/112344/,Edelweiss Alkoholfrei,84,Hofbräu Kaltenhausen (Brau Union),1,3.75
+376,0.50,315352,https://www.beeradvocate.com/beer/profile/2431/315352/,Valentins Weissbier Premium Hefeweissbier,2431,Privatbrauerei Eichbaum GmbH & Co. KG,1,3.75
+377,0.50,322264,https://www.beeradvocate.com/beer/profile/14439/322264/,Sigtuna Non Alco Pale Ale (NAPA),14439,Sigtuna Brygghus,1,3.85
+378,0.90,209369,https://www.beeradvocate.com/beer/profile/15098/209369/,Heifer Sin,15098,Font Salem,1,1.5
+379, ? ,173529,https://www.beeradvocate.com/beer/profile/142/173529/,Spaten Alkoholfrei,142,Spaten-Franziskaner-Bräu,1,3.01
+380,0.44,310234,https://www.beeradvocate.com/beer/profile/9374/310234/,Go Nealkoholinis Baltas,9374,UAB Švyturys - Utenos alus,1,2.96
+381, ? ,180698,https://www.beeradvocate.com/beer/profile/4949/180698/,Estrella Del Sur Sin Alcohol 0.0,4949,Damm S. A.,1,2.02
+382,0.50,123100,https://www.beeradvocate.com/beer/profile/3783/123100/,Lech Free,3783,Lech Browary Wielkopolski (SABMiller),1,3
+383, ? ,164829,https://www.beeradvocate.com/beer/profile/39816/164829/,Hoffenberg,39816,Danjeh Aria,1,2.48
+384, ? ,125409,https://www.beeradvocate.com/beer/profile/6703/125409/,Härtsfelder Export Alkoholfrei,6703,Härtsfelder Familienbrauerei Hald e.K.,1,1
+385,0.50,176099,https://www.beeradvocate.com/beer/profile/457/176099/,Our Compliments De-Alcoholized Beer,457,Lakeport Brewing Company,1,2
+386,0.50,291044,https://www.beeradvocate.com/beer/profile/3778/291044/,Kustosz,3778,Browar Van Pur S.A. (Brau Union Polska),1,3.24
+387, ? ,241381,https://www.beeradvocate.com/beer/profile/502/241381/,Guinness Zero ABV,502,Bintang,1,1.89
+388, ? ,253157,https://www.beeradvocate.com/beer/profile/10174/253157/,Cobra Zero,10174,Cobra Beer Partnership Limited,1,1.11
+389, ? ,233190,https://www.beeradvocate.com/beer/profile/15098/233190/,Aurum 0.0%,15098,Font Salem,1,1.3
+390, ? ,174568,https://www.beeradvocate.com/beer/profile/15098/174568/,Karlsquell Sin,15098,Font Salem,1,1.88
+391,0.49,231401,https://www.beeradvocate.com/beer/profile/290/231401/,Unfiltered,290,Binding-Brauerei AG,1,3.69
+392,0.50,112873,https://www.beeradvocate.com/beer/profile/2472/112873/,Riedenburger Hefe-Hefeweizen Alkoholfrei,2472,Riedenburger Brauhaus,1,2.75
+393, ? ,189163,https://www.beeradvocate.com/beer/profile/18902/189163/,3 Cordilleras Páramo Cero Grados,18902,3 Cordilleras,1,1.98
+394,0.50,340980,https://www.beeradvocate.com/beer/profile/30540/340980/,Badgast Ripped,30540,Kompaan Bier,1,3.28
+395,2.70,94198,https://www.beeradvocate.com/beer/profile/15740/94198/,Zierholz Schankbier,15740,Zierholz Premium Brewery,1,2.94
+396,0.90,239094,https://www.beeradvocate.com/beer/profile/15098/239094/,Supersol Sin Alcohol,15098,Font Salem,1,1.26
+397,2.50,158457,https://www.beeradvocate.com/beer/profile/11890/158457/,Emelisse 2.5,11890,Bierbrouwerij Grand-Café  Emelisse,1,3.5
+398, ? ,326394,https://www.beeradvocate.com/beer/profile/15098/326394/,"El Corte Inglés Zero,0",15098,Font Salem,1,1.54
+399,0.50,281852,https://www.beeradvocate.com/beer/profile/568/281852/,Karmi Zurawina,568,Browar Okocim S.A. (Carlsberg),1,1.97
+400,0.10,161545,https://www.beeradvocate.com/beer/profile/7290/161545/,Luftikus,7290,Brauerei Zwettl Karl Schwarz GmbH,0,0
+401, ? ,340750,https://www.beeradvocate.com/beer/profile/503/340750/,D24,503,Dreher Brewery,0,0
+402,0.50,283416,https://www.beeradvocate.com/beer/profile/23305/283416/,Trekhgornoe Non-alcoholic (Трёхгорное Безалкогольное),23305,Moskovskaya Pivovarennaya Kompaniya,0,0
+403, ? ,335898,https://www.beeradvocate.com/beer/profile/4102/335898/,"Lapin Kulta Zero 0,0% Dark",4102,Hartwall Helsinki Panimo,0,0
+404,0.40,330784,https://www.beeradvocate.com/beer/profile/894/330784/,Nils Oscar Alkoholfri Påsköl,894,Nils Oscar,0,0
+405,0.50,102176,https://www.beeradvocate.com/beer/profile/33014/102176/,Alt-Bamberg Weißbier Alkoholfrei,33014,Braumanufactur Alt-Bamberg,0,0
+406,0.50,163617,https://www.beeradvocate.com/beer/profile/9349/163617/,Dudak Driver,9349,Měťanský Pivovar Strakonice,0,0
+407, ? ,175396,https://www.beeradvocate.com/beer/profile/76/175396/,Weißbier-Zitrone Alkoholfrei,76,Hacker-Pschorr Bräu GmbH,0,0
+408,0.50,168741,https://www.beeradvocate.com/beer/profile/5142/168741/,Oettinger Weissbier Alkoholfrei,5142,Oettinger Brauerei,0,0
+409,0.40,204327,https://www.beeradvocate.com/beer/profile/1717/204327/,Pyennoye Byezalkogolnoye,1717,"Cheboksarskaya Pivovariya ""Buket Chuvashii""",0,0
+410,1.00,207655,https://www.beeradvocate.com/beer/profile/31786/207655/,VIVA Libre,31786,Cervecería Viva,0,0
+411, ? ,331307,https://www.beeradvocate.com/beer/profile/264/331307/,Koff Crisp Tumma Lager,264,Oy Sinebrychoff Ab,0,0
+412,0.50,331308,https://www.beeradvocate.com/beer/profile/264/331308/,Koff Crisp Vehnä,264,Oy Sinebrychoff Ab,0,0
+413, ? ,331309,https://www.beeradvocate.com/beer/profile/264/331309/,Koff Crisp Vaalea Lager,264,Oy Sinebrychoff Ab,0,0
+414,0.50,204591,https://www.beeradvocate.com/beer/profile/1374/204591/,Amstel Non-Alcoholic,1374,Heineken St.Petersburg Brewery Ltd.,0,0
+415,0.50,175409,https://www.beeradvocate.com/beer/profile/464/175409/,Alkoholfrei Zäpfle,464,Badische Staatsbrauerei Rothaus AG,0,0
+416,0.10,162112,https://www.beeradvocate.com/beer/profile/30153/162112/,Golser Nullerl Alkoholfrei,30153,Pannonia Brauerei Gols Gmbh,0,0
+417,0.50,234562,https://www.beeradvocate.com/beer/profile/24132/234562/,Podpiwek Warmiński,24132,Browar Kormoran,0,0
+418,0.10,162118,https://www.beeradvocate.com/beer/profile/4460/162118/,Egger Zisch Alcohol-free,4460,Privatbrauerei Fritz Egger GmbH & Co,0,0
+419, ? ,331082,https://www.beeradvocate.com/beer/profile/52018/331082/,Lasso Zero,52018,Lasso Drinks,0,0
+420,0.50,206667,https://www.beeradvocate.com/beer/profile/1809/206667/,Urpiner Nealko,1809,"Banskobystricky Pivovar, a.s. (Brewery Urpin BB Ltd.)",0,0
+421, ? ,339277,https://www.beeradvocate.com/beer/profile/52494/339277/,SubZero,52494,Crazy Brew,0,0
+422,1.00,141647,https://www.beeradvocate.com/beer/profile/18963/141647/,Three Horses Beer Lite,18963,Brasseries Star Madagascar,0,0
+423,0.50,187985,https://www.beeradvocate.com/beer/profile/10897/187985/,Eriksberg Hovmästarlager,10897,Carlsberg Sverige AB,0,0
+424, ? ,331090,https://www.beeradvocate.com/beer/profile/1349/331090/,A. Le Coq Premium 0.0%,1349,AS Tartu Õlletehas,0,0
+425, ? ,141650,https://www.beeradvocate.com/beer/profile/1272/141650/,Crown,1272,Brasseries Du Maroc,0,0
+426,0.40,111447,https://www.beeradvocate.com/beer/profile/7017/111447/,Lübzer Alkoholfrei,7017,Mecklenburgische Brauerei Lübz GmbH,0,0
+427,0.50,338779,https://www.beeradvocate.com/beer/profile/439/338779/,Cheers,439,UNICER União Cervejeira S.A.,0,0
+428, ? ,331357,https://www.beeradvocate.com/beer/profile/17006/331357/,Aigua de Moritz,17006,"Cervezas Moritz, S.A.",0,0
+429,0.50,338781,https://www.beeradvocate.com/beer/profile/124/338781/,Paulaner Münchner Hell Alkoholfrei,124,Paulaner Brauerei GmbH & Co. KG,0,0
+430,0.30,340829,https://www.beeradvocate.com/beer/profile/503/340829/,D24 Lime-málna,503,Dreher Brewery,0,0
+431,0.30,340830,https://www.beeradvocate.com/beer/profile/503/340830/,D24 Pomelo-Grapefruit,503,Dreher Brewery,0,0
+432,0.30,340831,https://www.beeradvocate.com/beer/profile/503/340831/,D24 Gyömbér,503,Dreher Brewery,0,0
+433,0.10,161631,https://www.beeradvocate.com/beer/profile/4472/161631/,Alkoholfrei,4472,Die Weisse,0,0
+434,0.30,340832,https://www.beeradvocate.com/beer/profile/503/340832/,D24 Egzotikus Citrom,503,Dreher Brewery,0,0
+435,0.10,161633,https://www.beeradvocate.com/beer/profile/10808/161633/,Die Wiesse Alkoholfrei,10808,Die Weisse Salzburger Weissbierbrauerei,0,0
+436,0.50,142691,https://www.beeradvocate.com/beer/profile/37228/142691/,Christie's Gold Beer Shandy,37228,Swaziland Breweries,0,0
+437,0.50,175464,https://www.beeradvocate.com/beer/profile/5755/175464/,Falkensteiner Alkoholfrei,5755,Brauerei Bischofshof,0,0
+438, ? ,203632,https://www.beeradvocate.com/beer/profile/1384/203632/,Marochnoye Svyetloye Bezalkogolnoye,1384,Afanasy Pivo (Brau Service),0,0
+439,1.00,146036,https://www.beeradvocate.com/beer/profile/2382/146036/,Panaché Du Brasseur,2382,Brasserie Meteor,0,0
+440,1.00,146037,https://www.beeradvocate.com/beer/profile/2382/146037/,Meteor Sans Alcool,2382,Brasserie Meteor,0,0
+441, ? ,145270,https://www.beeradvocate.com/beer/profile/1141/145270/,Blanche Cilantro,1141,Brasserie Dieu du Ciel!,0,0
+442,0.50,204665,https://www.beeradvocate.com/beer/profile/4936/204665/,Solodov Byezalkogolnoye,4936,Krasniy Vostok,0,0
+443,0.50,333435,https://www.beeradvocate.com/beer/profile/3182/333435/,Fürstenberg Alkoholfrei,3182,Fürstlich Fürstenbergische Brauerei KG,0,0
+444, ? ,333437,https://www.beeradvocate.com/beer/profile/35033/333437/,Der Graf von Bayern,35033,Brewers & Union UG,0,0
+445,0.50,162429,https://www.beeradvocate.com/beer/profile/2429/162429/,Fagnes Cuvée  Junior,2429,Brasserie Des Fagnes,0,0
+446,0.50,333439,https://www.beeradvocate.com/beer/profile/2055/333439/,Bernard Free Amber,2055,Bernard Family Brewery,0,0
+447, ? ,131712,https://www.beeradvocate.com/beer/profile/12623/131712/,Pearl River Non-Alcohol Beer,12623,Guangzhou Zhujiang Brewery Co. Ltd.,0,0
+448,0.50,175488,https://www.beeradvocate.com/beer/profile/6536/175488/,Alkoholfreies Weißbier,6536,Kitzmann Bräu,0,0
+449, ? ,175235,https://www.beeradvocate.com/beer/profile/4102/175235/,"Lapin Kulta Arctic Malt 0,0%",4102,Hartwall Helsinki Panimo,0,0
+450, ? ,141704,https://www.beeradvocate.com/beer/profile/11940/141704/,Celestia,11940,Brasserie De Tunis,0,0
+451,2.90,131723,https://www.beeradvocate.com/beer/profile/874/131723/,Cass 2X,874,"Oriental Brewery Co., Ltd",0,0
+452,0.40,67979,https://www.beeradvocate.com/beer/profile/7730/67979/,Stuten,7730,Nøgne Ø - Det Kompromissløse Bryggeri A/S,0,0
+453,3.90,108175,https://www.beeradvocate.com/beer/profile/33573/108175/,Bio-Mittagsbier (working Class Edition),33573,Neustädter Hausbrauerei,0,0
+454,0.50,137874,https://www.beeradvocate.com/beer/profile/6784/137874/,Ladenburger Hefeweizen Alkoholfrei,6784,Brauerei Ladenburger GmbH,0,0
+455,0.50,137877,https://www.beeradvocate.com/beer/profile/6784/137877/,Ladenburger Alkoholfrei,6784,Brauerei Ladenburger GmbH,0,0
+456, ? ,331670,https://www.beeradvocate.com/beer/profile/4102/331670/,"Lapin Kulta Zero 0,0%",4102,Hartwall Helsinki Panimo,0,0
+457,0.50,205979,https://www.beeradvocate.com/beer/profile/6305/205979/,Nulloff Weizen,6305,Vizit OAO,0,0
+458,0.50,205980,https://www.beeradvocate.com/beer/profile/6305/205980/,Nulloff Premium,6305,Vizit OAO,0,0
+459, ? ,164765,https://www.beeradvocate.com/beer/profile/32966/164765/,Delster Cooper Original,32966,Behnoush Co.,0,0
+460, ? ,164766,https://www.beeradvocate.com/beer/profile/32966/164766/,Golden Delster,32966,Behnoush Co.,0,0
+461, ? ,164767,https://www.beeradvocate.com/beer/profile/32966/164767/,Delster Light,32966,Behnoush Co.,0,0
+462,0.50,68261,https://www.beeradvocate.com/beer/profile/1536/68261/,Gaffel Kölsch Frei,1536,Privatbrauerei Gaffel Becker & Co.,0,0
+463,0.50,163755,https://www.beeradvocate.com/beer/profile/7482/163755/,Nealkoholické Světlé Pivo,7482,Pivovar Eggenberg & Restaurant Eggenberg,0,0
+464,0.50,253355,https://www.beeradvocate.com/beer/profile/4087/253355/,Mariestads Alkoholfri Julebrygd,4087,Spendrups Bryggeri AB,0,0
+465, ? ,339628,https://www.beeradvocate.com/beer/profile/52346/339628/,Tantra,52346,Nirvana Brewery,0,0
+466,0.40,253358,https://www.beeradvocate.com/beer/profile/894/253358/,Nils Oscar Alkoholfri Julöl,894,Nils Oscar,0,0
+467,0.50,203954,https://www.beeradvocate.com/beer/profile/1429/203954/,Besser 0,1429,Barnaul Brewery,0,0
+468, ? ,339634,https://www.beeradvocate.com/beer/profile/52346/339634/,Kosmic,52346,Nirvana Brewery,0,0
+469, ? ,339639,https://www.beeradvocate.com/beer/profile/296/339639/,St. Peter’s Without Gold,296,St. Peter's Brewery Co Ltd,0,0
+470,0.50,232378,https://www.beeradvocate.com/beer/profile/6795/232378/,Zoller-Hof Fidelis Hefe Alkoholfrei,6795,Brauerei Zoller-Hof,0,0
+471,0.40,328635,https://www.beeradvocate.com/beer/profile/10808/328635/,Die Bio Weisse Organic Glutenfree,10808,Die Weisse Salzburger Weissbierbrauerei,0,0
+472,0.50,332988,https://www.beeradvocate.com/beer/profile/6484/332988/,Stary Melnik Alcohol Free,6484,Pivovariya Moskva-Efes ZAO,0,0
+473,0.50,341692,https://www.beeradvocate.com/beer/profile/50984/341692/,Oatmeal Stout,50984,Bravus Brewing Company,0,0
+474,0.40,304576,https://www.beeradvocate.com/beer/profile/894/304576/,Nils Oscar Alkoholfri Brown Ale,894,Nils Oscar,0,0
+475,2.20,176064,https://www.beeradvocate.com/beer/profile/11065/176064/,Olvi Kotikalja,11065,Olvi Oyj,0,0
+476, ? ,332225,https://www.beeradvocate.com/beer/profile/52123/332225/,"Rainbow Vaalea Lager alkoholiton olut 0,0%",52123,SOK-yhtymä,0,0
+477,0.50,339649,https://www.beeradvocate.com/beer/profile/464/339649/,Alkoholfrei Hefeweizen,464,Badische Staatsbrauerei Rothaus AG,0,0
+478,2.80,194753,https://www.beeradvocate.com/beer/profile/12172/194753/,Organic Lager,12172,Dugges Ale- & Porterbryggeri AB,0,0
+479, ? ,332228,https://www.beeradvocate.com/beer/profile/52123/332228/,"Rainbow Tumma Lager alkoholiton olut 0,0%",52123,SOK-yhtymä,0,0
+480, ? ,335819,https://www.beeradvocate.com/beer/profile/296/335819/,St. Peter's Without Organic,296,St. Peter's Brewery Co Ltd,0,0
+481,0.50,139467,https://www.beeradvocate.com/beer/profile/2891/139467/,Gründel’s Classic,2891,Karlsberg Brauerei,0,0
+482,0.50,139468,https://www.beeradvocate.com/beer/profile/2891/139468/,Gründel’s Fresh,2891,Karlsberg Brauerei,0,0
+483,0.50,139469,https://www.beeradvocate.com/beer/profile/2891/139469/,Gründel’s Radler,2891,Karlsberg Brauerei,0,0
+484,0.50,231886,https://www.beeradvocate.com/beer/profile/10897/231886/,Backyard Brew High Wheeler,10897,Carlsberg Sverige AB,0,0
+485,0.10,242385,https://www.beeradvocate.com/beer/profile/13307/242385/,Energibajer,13307,Mikkeller ApS,0,0
+486,0.50,272604,https://www.beeradvocate.com/beer/profile/4087/272604/,Mariestads Påskbrygd Alkoholfri,4087,Spendrups Bryggeri AB,0,0
+487,0.10,163294,https://www.beeradvocate.com/beer/profile/434/163294/,Colônia Zero Álcool,434,Indústria Nacional de Bebidas,0,0
+488, ? ,164831,https://www.beeradvocate.com/beer/profile/39822/164831/,Maaza,39822,Union Beverage Factory,0,0
+489, ? ,254176,https://www.beeradvocate.com/beer/profile/75/254176/,Corona Cero,75,Grupo Modelo S.A. de C.V.,0,0
+490,0.49,329699,https://www.beeradvocate.com/beer/profile/437/329699/,Staropramen Non Alcoholic,437,Pivovary Staropramen,0,0
+491,0.40,329956,https://www.beeradvocate.com/beer/profile/560/329956/,Saku Originaal Alkoholivaba nisuõlu,560,Saku Brewery LTD,0,0
+492,0.50,194021,https://www.beeradvocate.com/beer/profile/2888/194021/,Driver NA (Non Alcohol),2888,S. C. Martens S. A.,0,0
+493, ? ,329958,https://www.beeradvocate.com/beer/profile/40931/329958/,Ukko-Pekka täyteläinen alkoholiton olut,40931,Finn Spring Oy,0,0
+494,0.10,162790,https://www.beeradvocate.com/beer/profile/10728/162790/,Malta Pilsen Sem Álcool,10728,Cervejaria Malta,0,0
+495, ? ,340199,https://www.beeradvocate.com/beer/profile/52512/340199/,Virginia,52512,Honkajoen Panimo,0,0
+496,0.10,162791,https://www.beeradvocate.com/beer/profile/10728/162791/,Malta Malzbier Sem Álcool,10728,Cervejaria Malta,0,0
+497,0.50,205545,https://www.beeradvocate.com/beer/profile/6390/205545/,Samko-0,6390,Pivovarinniy Zavod Samko,0,0
+498, ? ,223209,https://www.beeradvocate.com/beer/profile/6209/223209/,Schalchner Alkoholfreie Weisse,6209,Weissbierbrauerei Schwendl,0,0
+499, ? ,340202,https://www.beeradvocate.com/beer/profile/52511/340202/,FitBeer,52511,FitBeer Ltd.,0,0
+500,0.50,306926,https://www.beeradvocate.com/beer/profile/18389/306926/,Pilsen Soul,18389,Fabricas Nacionales De Cerveza,0,0
+501, ? ,141296,https://www.beeradvocate.com/beer/profile/19457/141296/,Santana,19457,Egyptian International Beverages Company,0,0
+502, ? ,141298,https://www.beeradvocate.com/beer/profile/15607/141298/,Asmara Non-Alcoholic,15607,Asmara Breweries,0,0
+503, ? ,244210,https://www.beeradvocate.com/beer/profile/46045/244210/,Bezalkogolne,46045,Mykulynetskyj Brovar - Mykulinetske,0,0
+504,0.10,161525,https://www.beeradvocate.com/beer/profile/715/161525/,Fohrenburger Weizen Alkoholfrei,715,Brauerei Fohrenburg GmbH & Co,0,0
+505,0.10,161526,https://www.beeradvocate.com/beer/profile/715/161526/,Fohrenburger Alkoholfrei,715,Brauerei Fohrenburg GmbH & Co,0,0
+506,2.50,300024,https://www.beeradvocate.com/beer/profile/50347/300024/,Dawat 2,50347,Cerveza Dawat,0,0
+507,0.50,205562,https://www.beeradvocate.com/beer/profile/6484/205562/,Byelyy Myedved Byezalkogolnyy,6484,Pivovariya Moskva-Efes ZAO,0,0
+508, ? ,20990,https://www.beeradvocate.com/beer/profile/6627/20990/,Pfungstädter Frei,6627,Pfungstädter Brauerei,0,0

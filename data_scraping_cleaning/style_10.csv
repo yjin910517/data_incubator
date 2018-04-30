@@ -1,0 +1,441 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.00,5281,https://www.beeradvocate.com/beer/profile/388/5281/,Cantillon Fou' Foune,388,Brasserie Cantillon,"3,004",4.65
+1,2.50,599,https://www.beeradvocate.com/beer/profile/187/599/,Lindemans Framboise,187,Brouwerij Lindemans,"2,855",3.88
+2,5.00,1632,https://www.beeradvocate.com/beer/profile/388/1632/,Cantillon Kriek 100% Lambic,388,Brasserie Cantillon,"2,468",4.36
+3,5.00,2557,https://www.beeradvocate.com/beer/profile/388/2557/,Cantillon Rosé De Gambrinus,388,Brasserie Cantillon,"2,395",4.32
+4,5.00,8954,https://www.beeradvocate.com/beer/profile/388/8954/,Cantillon Saint Lamvinus,388,Brasserie Cantillon,"2,155",4.54
+5,5.00,3659,https://www.beeradvocate.com/beer/profile/388/3659/,Cantillon Lou Pepe - Kriek,388,Brasserie Cantillon,"1,772",4.62
+6,5.00,2558,https://www.beeradvocate.com/beer/profile/388/2558/,Vigneronne,388,Brasserie Cantillon,"1,411",4.42
+7,5.00,13825,https://www.beeradvocate.com/beer/profile/388/13825/,Cantillon Lou Pepe - Framboise,388,Brasserie Cantillon,"1,342",4.58
+8,4.00,600,https://www.beeradvocate.com/beer/profile/187/600/,Lindemans Kriek,187,Brouwerij Lindemans,"1,286",3.85
+9,6.00,6306,https://www.beeradvocate.com/beer/profile/2216/6306/,Drie Fonteinen Oude Kriek,2216,Brouwerij 3 Fonteinen,"1,197",4.31
+10,2.50,598,https://www.beeradvocate.com/beer/profile/187/598/,Lindemans Pêche,187,Brouwerij Lindemans,"1,186",3.94
+11,6.40,85743,https://www.beeradvocate.com/beer/profile/25923/85743/,Oude Quetsche Tilquin à L'Ancienne,25923,Gueuzerie Tilquin,"1,034",4.38
+12,6.00,39096,https://www.beeradvocate.com/beer/profile/2216/39096/,Drie Fonteinen Hommage,2216,Brouwerij 3 Fonteinen,938,4.5
+13,5.00,53958,https://www.beeradvocate.com/beer/profile/388/53958/,Cantillon Mamouche,388,Brasserie Cantillon,853,4.22
+14,5.00,36316,https://www.beeradvocate.com/beer/profile/388/36316/,Cantillon Blåbær Lambik,388,Brasserie Cantillon,813,4.52
+15,3.50,36583,https://www.beeradvocate.com/beer/profile/187/36583/,Lindemans Apple,187,Brouwerij Lindemans,794,3.67
+16,6.50,2596,https://www.beeradvocate.com/beer/profile/828/2596/,Oud Beersel Oude Kriek Vieille,828,Brouwerij Oud Beersel,777,4.17
+17,6.00,1709,https://www.beeradvocate.com/beer/profile/636/1709/,Oude Kriek,636,Hanssens Artisanaal bvba,745,4.12
+18,5.00,8773,https://www.beeradvocate.com/beer/profile/2216/8773/,Drie Fonteinen Framboos,2216,Brouwerij 3 Fonteinen,727,4.52
+19,3.50,601,https://www.beeradvocate.com/beer/profile/187/601/,Lindemans Cassis,187,Brouwerij Lindemans,716,3.83
+20,6.00,136135,https://www.beeradvocate.com/beer/profile/590/136135/,Thumbprint Cran-Bic,590,New Glarus Brewing Company,672,4.26
+21,5.00,92640,https://www.beeradvocate.com/beer/profile/2216/92640/,Drie Fonteinen Intense Red Oude Kriek,2216,Brouwerij 3 Fonteinen,659,4.19
+22,5.70,58839,https://www.beeradvocate.com/beer/profile/4/58839/,Coolship Red,4,Allagash Brewing Company,616,4.49
+23,5.00,2426,https://www.beeradvocate.com/beer/profile/47/2426/,Boon Kriek,47,Brouwerij Boon,609,3.6
+24,8.00,5961,https://www.beeradvocate.com/beer/profile/47/5961/,Boon Oude Kriek Mariage Parfait,47,Brouwerij Boon,550,4.18
+25, ? ,41206,https://www.beeradvocate.com/beer/profile/1170/41206/,Raspberry,1170,Upland Brewing Company,517,4.16
+26,6.00,5586,https://www.beeradvocate.com/beer/profile/636/5586/,Oudbeitje Lambic,636,Hanssens Artisanaal bvba,500,3.74
+27,7.00,4924,https://www.beeradvocate.com/beer/profile/739/4924/,Kriek De Ranke,739,Brouwerij Brasserie De Ranke,497,4.2
+28,5.50,2427,https://www.beeradvocate.com/beer/profile/47/2427/,Boon Framboise,47,Brouwerij Boon,485,3.71
+29,6.00,39066,https://www.beeradvocate.com/beer/profile/1170/39066/,Blackberry ,1170,Upland Brewing Company,446,4.23
+30,6.00,45334,https://www.beeradvocate.com/beer/profile/1170/45334/,Peach,1170,Upland Brewing Company,430,4.14
+31, ? ,39372,https://www.beeradvocate.com/beer/profile/1170/39372/,Strawberry Lambic,1170,Upland Brewing Company,390,4.04
+32, ? ,57992,https://www.beeradvocate.com/beer/profile/1170/57992/,Persimmon Lambic,1170,Upland Brewing Company,379,4.25
+33,7.00,42679,https://www.beeradvocate.com/beer/profile/187/42679/,Lindemans Oude Kriek Cuvée René,187,Brouwerij Lindemans,375,4.16
+34,5.00,25277,https://www.beeradvocate.com/beer/profile/828/25277/,Oud Beersel Framboise,828,Brouwerij Oud Beersel,367,3.74
+35,7.70,68582,https://www.beeradvocate.com/beer/profile/13307/68582/,Spontanframboos,13307,Mikkeller ApS,365,4.08
+36,4.00,85847,https://www.beeradvocate.com/beer/profile/2791/85847/,Timmermans Pumpkin Lambicus,2791,Brouwerij Timmermans-John Martin N.V.,351,3.65
+37,4.50,5454,https://www.beeradvocate.com/beer/profile/654/5454/,Mort Subite Kriek,654,Brouwerij Mort Subite,348,3.64
+38,4.50,5796,https://www.beeradvocate.com/beer/profile/212/5796/,St. Louis Framboise,212,Brouwerij Van Honsebrouck N.V.,332,3.82
+39,8.10,58838,https://www.beeradvocate.com/beer/profile/4/58838/,Coolship Cerise,4,Allagash Brewing Company,318,4.32
+40,6.00,45144,https://www.beeradvocate.com/beer/profile/1170/45144/,Cherry Lambic,1170,Upland Brewing Company,312,3.95
+41,5.00,50513,https://www.beeradvocate.com/beer/profile/388/50513/,Cantillon Lambic Rhubarbe,388,Brasserie Cantillon,272,4.37
+42,6.00,52864,https://www.beeradvocate.com/beer/profile/636/52864/,Hanssens Experimental Raspberry,636,Hanssens Artisanaal bvba,265,3.48
+43,6.00,48203,https://www.beeradvocate.com/beer/profile/636/48203/,Hanssens Experimental Cassis,636,Hanssens Artisanaal bvba,253,3.7
+44,4.00,62185,https://www.beeradvocate.com/beer/profile/2791/62185/,Timmermans Strawberry,2791,Brouwerij Timmermans-John Martin N.V.,233,3.35
+45,4.00,9577,https://www.beeradvocate.com/beer/profile/2791/9577/,Timmermans Framboise Lambic,2791,Brouwerij Timmermans-John Martin N.V.,222,3.29
+46,6.00,64558,https://www.beeradvocate.com/beer/profile/636/64558/,Scarenbecca Kriek,636,Hanssens Artisanaal bvba,218,3.88
+47,5.20,4686,https://www.beeradvocate.com/beer/profile/945/4686/,Belle Vue Kriek,945,Brasserie Belle-Vue,208,3.44
+48,5.80,42157,https://www.beeradvocate.com/beer/profile/3120/42157/,Chez Monieux,3120,Alpine Beer Company,203,3.69
+49,4.50,5110,https://www.beeradvocate.com/beer/profile/654/5110/,Mort Subite Framboise,654,Brouwerij Mort Subite,199,3.75
+50,6.40,170141,https://www.beeradvocate.com/beer/profile/25923/170141/,Oude Mûre Tilquin à L'ancienne,25923,Gueuzerie Tilquin,197,4.29
+51,8.20,93399,https://www.beeradvocate.com/beer/profile/13307/93399/,SpontanCherryFrederiksdal,13307,Mikkeller ApS,192,4.07
+52,6.00,59064,https://www.beeradvocate.com/beer/profile/388/59064/,Cantillon Pinot D'Aunis,388,Brasserie Cantillon,190,4.44
+53,6.50,8047,https://www.beeradvocate.com/beer/profile/47/8047/,Boon Oude Kriek,47,Brouwerij Boon,186,4.02
+54,9.00,43808,https://www.beeradvocate.com/beer/profile/16094/43808/,Devil's Kriek,16094,Double Mountain Brewery & Taproom,183,4.07
+55,4.50,6562,https://www.beeradvocate.com/beer/profile/2791/6562/,Timmermans Kriek Lambic,2791,Brouwerij Timmermans-John Martin N.V.,178,3.42
+56,5.00,19680,https://www.beeradvocate.com/beer/profile/2216/19680/,Drie Fonteinen Kriek,2216,Brouwerij 3 Fonteinen,176,4.34
+57,6.20,69719,https://www.beeradvocate.com/beer/profile/16043/69719/,Beersel Mattina,16043,Birrificio Del Ducato,175,4.11
+58,6.50,101822,https://www.beeradvocate.com/beer/profile/22399/101822/,Lambickx Kriek,22399,Vanberg & DeWulf,173,4.2
+59,3.50,5358,https://www.beeradvocate.com/beer/profile/190/5358/,Chapeau Banana Lambic,190,Brouwerij De Troch,162,3.16
+60,4.00,5795,https://www.beeradvocate.com/beer/profile/212/5795/,St. Louis Kriek,212,Brouwerij Van Honsebrouck N.V.,161,3.54
+61,7.70,73333,https://www.beeradvocate.com/beer/profile/13307/73333/,Spontancassis,13307,Mikkeller ApS,159,4.03
+62,6.50,34122,https://www.beeradvocate.com/beer/profile/2170/34122/,Oude Kriek De Cam,2170,De Cam Geuzestekerij,145,4.34
+63,5.00,2498,https://www.beeradvocate.com/beer/profile/48/2498/,Cherish Kriek Lambic,48,Brouwerij Van Steenberge N.V.,142,3.62
+64,6.00,88205,https://www.beeradvocate.com/beer/profile/2170/88205/,De Cam Framboise Lambiek,2170,De Cam Geuzestekerij,141,4.21
+65,2.50,21382,https://www.beeradvocate.com/beer/profile/187/21382/,Pecheresse,187,Brouwerij Lindemans,139,3.57
+66,5.50,59904,https://www.beeradvocate.com/beer/profile/2791/59904/,Timmermans Oude Kriek Limited Edition,2791,Brouwerij Timmermans-John Martin N.V.,136,3.95
+67,7.00,13722,https://www.beeradvocate.com/beer/profile/64/13722/,Festina Lente,64,Dogfish Head Craft Brewery,135,3.92
+68,5.00,6318,https://www.beeradvocate.com/beer/profile/2541/6318/,Girardin Kriek 1882,2541,Brouwerij Girardin,132,3.71
+69,9.00,71179,https://www.beeradvocate.com/beer/profile/16094/71179/,Tahoma Kriek,16094,Double Mountain Brewery & Taproom,129,4.06
+70,6.40,179769,https://www.beeradvocate.com/beer/profile/25923/179769/,Oude Quetsche Tilquin à L'Ancienne Avec Prunes De Namur,25923,Gueuzerie Tilquin,128,4.32
+71,7.70,98857,https://www.beeradvocate.com/beer/profile/13307/98857/,Spontanpeach,13307,Mikkeller ApS,127,3.68
+72,4.00,45225,https://www.beeradvocate.com/beer/profile/828/45225/,Oud Beersel Kriek,828,Brouwerij Oud Beersel,125,3.73
+73,3.50,605,https://www.beeradvocate.com/beer/profile/190/605/,Chapeau Framboise Lambic,190,Brouwerij De Troch,120,3.61
+74,5.50,91359,https://www.beeradvocate.com/beer/profile/2170/91359/,Lambiek Special,2170,De Cam Geuzestekerij,120,4.37
+75,5.00,2500,https://www.beeradvocate.com/beer/profile/48/2500/,Cherish Raspberry Lambic,48,Brouwerij Van Steenberge N.V.,113,3.87
+76,2.80,26243,https://www.beeradvocate.com/beer/profile/212/26243/,St. Louis Premium Framboise,212,Brouwerij Van Honsebrouck N.V.,109,3.74
+77,3.50,6988,https://www.beeradvocate.com/beer/profile/190/6988/,Chapeau Exotic,190,Brouwerij De Troch,93,2.89
+78,7.00,170614,https://www.beeradvocate.com/beer/profile/192/170614/,Transatlantique Kriek (Oud Beersel),192,New Belgium Brewing,93,4.01
+79,3.20,5798,https://www.beeradvocate.com/beer/profile/212/5798/,St. Louis Premium Kriek,212,Brouwerij Van Honsebrouck N.V.,93,3.35
+80,4.90,120367,https://www.beeradvocate.com/beer/profile/28091/120367/,Kriek Lambic,28091,Free Will Brewing Co.,91,3.78
+81,7.70,97967,https://www.beeradvocate.com/beer/profile/13307/97967/,Spontanrosehip,13307,Mikkeller ApS,90,3.73
+82, ? ,189248,https://www.beeradvocate.com/beer/profile/36686/189248/,Frampaars,36686,Funk Factory Geuzeria,85,4.54
+83,3.50,7290,https://www.beeradvocate.com/beer/profile/190/7290/,Chapeau Kriek Lambic,190,Brouwerij De Troch,85,3.34
+84,8.50,97850,https://www.beeradvocate.com/beer/profile/1683/97850/,Kriek,1683,Santa Fe Brewing Company,80,4.03
+85,5.00,9116,https://www.beeradvocate.com/beer/profile/388/9116/,Cantillon Soleil De Minuit,388,Brasserie Cantillon,80,4.42
+86,5.50,254797,https://www.beeradvocate.com/beer/profile/24018/254797/,SPON FRUIT — Peach & Apricot,24018,Jester King Brewery,79,4.39
+87,7.70,129423,https://www.beeradvocate.com/beer/profile/13307/129423/,Spontanbeetroot,13307,Mikkeller ApS,79,4.02
+88,7.00,64995,https://www.beeradvocate.com/beer/profile/15711/64995/,HaandBic,15711,HaandBryggeriet,79,3.65
+89,5.00,6319,https://www.beeradvocate.com/beer/profile/2541/6319/,Girardin Framboise,2541,Brouwerij Girardin,78,3.65
+90,7.70,121234,https://www.beeradvocate.com/beer/profile/13307/121234/,Spontanelderflower,13307,Mikkeller ApS,76,3.93
+91,6.50,160082,https://www.beeradvocate.com/beer/profile/212/160082/,St. Louis Fond Tradition Kriek,212,Brouwerij Van Honsebrouck N.V.,74,3.89
+92,3.00,7150,https://www.beeradvocate.com/beer/profile/190/7150/,Chapeau Fraise Lambic,190,Brouwerij De Troch,72,3.26
+93,6.00,172799,https://www.beeradvocate.com/beer/profile/636/172799/,Oude Schaarbeekse Kriek,636,Hanssens Artisanaal bvba,69,4.3
+94,5.00,59147,https://www.beeradvocate.com/beer/profile/388/59147/,Cantillon Cuvee Moeder (Kriek),388,Brasserie Cantillon,67,4.46
+95,5.00,285400,https://www.beeradvocate.com/beer/profile/388/285400/,Cantillon Nath,388,Brasserie Cantillon,67,4.27
+96,4.90,136396,https://www.beeradvocate.com/beer/profile/28091/136396/,Key Lime Lambic,28091,Free Will Brewing Co.,66,3.48
+97,3.00,1957,https://www.beeradvocate.com/beer/profile/190/1957/,Chapeau Abricot Lambic,190,Brouwerij De Troch,65,3.23
+98,6.50,93670,https://www.beeradvocate.com/beer/profile/2170/93670/,Kriek Lambiek,2170,De Cam Geuzestekerij,65,4.09
+99,4.50,19794,https://www.beeradvocate.com/beer/profile/654/19794/,Mort Subite Blanche,654,Brouwerij Mort Subite,60,3.66
+100,6.50,174814,https://www.beeradvocate.com/beer/profile/23031/174814/,Kriek,23031,Brouwerij Hof Ten Dormaal,56,4.11
+101,3.00,3617,https://www.beeradvocate.com/beer/profile/190/3617/,Chapeau Mirabelle Lambic,190,Brouwerij De Troch,54,3.25
+102,5.00,84111,https://www.beeradvocate.com/beer/profile/2216/84111/,Drie Fonteinen Oude Kriek Van Schaerbeekse Krieken,2216,Brouwerij 3 Fonteinen,51,4.36
+103,4.00,6563,https://www.beeradvocate.com/beer/profile/2791/6563/,Timmermans Pêche Lambic,2791,Brouwerij Timmermans-John Martin N.V.,51,3.33
+104,2.60,26244,https://www.beeradvocate.com/beer/profile/212/26244/,St. Louis Premium Pêche,212,Brouwerij Van Honsebrouck N.V.,50,3.29
+105,3.00,7603,https://www.beeradvocate.com/beer/profile/190/7603/,Chapeau Peche,190,Brouwerij De Troch,49,3.04
+106,5.50,82708,https://www.beeradvocate.com/beer/profile/654/82708/,Mort Subite Witte Lambic,654,Brouwerij Mort Subite,48,3.34
+107,7.70,154518,https://www.beeradvocate.com/beer/profile/13307/154518/,Spontansourcherry,13307,Mikkeller ApS,47,4.07
+108, ? ,50773,https://www.beeradvocate.com/beer/profile/1169/50773/,Framboise,1169,Fitger's Brewhouse,45,4.15
+109,6.50,34177,https://www.beeradvocate.com/beer/profile/654/34177/,Mort Subite Oude Kriek,654,Brouwerij Mort Subite,44,3.86
+110, ? ,294641,https://www.beeradvocate.com/beer/profile/388/294641/,Cantillon Zwanze 2017,388,Brasserie Cantillon,44,4.3
+111,7.70,73442,https://www.beeradvocate.com/beer/profile/13307/73442/,Spontanredcurrant,13307,Mikkeller ApS,43,4.02
+112,5.80,225596,https://www.beeradvocate.com/beer/profile/29573/225596/,Pêche,29573,pFriem Family Brewers,42,4.23
+113,5.60,231737,https://www.beeradvocate.com/beer/profile/29573/231737/,Oude Kriek,29573,pFriem Family Brewers,41,4.06
+114,7.20,41913,https://www.beeradvocate.com/beer/profile/4317/41913/,Raspberry Lambic,4317,Six Rivers Brewery,39,3.5
+115,5.70,236928,https://www.beeradvocate.com/beer/profile/29573/236928/,Frambozen,29573,pFriem Family Brewers,38,4.05
+116,6.50,221413,https://www.beeradvocate.com/beer/profile/388/221413/,Cantillon Lambic D'Aunis,388,Brasserie Cantillon,38,4.43
+117,6.00,241213,https://www.beeradvocate.com/beer/profile/2170/241213/,Nectarine Lambiek,2170,De Cam Geuzestekerij,37,4.11
+118,7.70,73438,https://www.beeradvocate.com/beer/profile/13307/73438/,Spontancranberry,13307,Mikkeller ApS,37,3.8
+119,4.80,48389,https://www.beeradvocate.com/beer/profile/6045/48389/,Framboise De Hill,6045,Iron Hill Brewery & Restaurant,36,3.39
+120,6.00,183399,https://www.beeradvocate.com/beer/profile/828/183399/,Oud Beersel Green Walnut Lambic,828,Brouwerij Oud Beersel,36,4.13
+121,5.50,113225,https://www.beeradvocate.com/beer/profile/24489/113225/,OWA Yuzu Lambic,24489,OWA Brewery SPRL,33,3.71
+122,6.50,111050,https://www.beeradvocate.com/beer/profile/24764/111050/,Cuvée De Pěche Peach Lambic,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,33,3.57
+123,6.50,259976,https://www.beeradvocate.com/beer/profile/48475/259976/,Kriek Mythology,48475,Springdale Barrel Room,32,4.15
+124,4.00,19384,https://www.beeradvocate.com/beer/profile/223/19384/,Jacobins Kriek Max,223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,32,3.51
+125,6.70,284948,https://www.beeradvocate.com/beer/profile/24018/284948/,SPON Albariño & Blanc Du Bois,24018,Jester King Brewery,31,4.35
+126,8.00,98253,https://www.beeradvocate.com/beer/profile/828/98253/,Oud Beersel Bzart Kriekenlambiek,828,Brouwerij Oud Beersel,31,4.09
+127,3.50,2661,https://www.beeradvocate.com/beer/profile/190/2661/,Chapeau Lemon Lambic,190,Brouwerij De Troch,30,3.15
+128,5.00,50059,https://www.beeradvocate.com/beer/profile/2216/50059/,Drie Fonteinen Oude Kriekenlambik,2216,Brouwerij 3 Fonteinen,30,4.23
+129,7.00,150688,https://www.beeradvocate.com/beer/profile/7730/150688/,Kriek Of Telemark,7730,Nøgne Ø - Det Kompromissløse Bryggeri A/S,30,3.94
+130,4.30,5455,https://www.beeradvocate.com/beer/profile/654/5455/,Mort Subite Peche,654,Brouwerij Mort Subite,29,3.53
+131,5.00,10553,https://www.beeradvocate.com/beer/profile/2791/10553/,Timmermans Tradition Kriek Lambic,2791,Brouwerij Timmermans-John Martin N.V.,28,3.72
+132,5.50,103044,https://www.beeradvocate.com/beer/profile/24489/103044/,OWA Sakura Lambic,24489,OWA Brewery SPRL,28,4.1
+133,5.70,288937,https://www.beeradvocate.com/beer/profile/24018/288937/,SPON Blueberry & Pitaya,24018,Jester King Brewery,28,4.2
+134, ? ,60719,https://www.beeradvocate.com/beer/profile/6045/60719/,Kriek De Hill,6045,Iron Hill Brewery & Restaurant,27,3.76
+135, ? ,93616,https://www.beeradvocate.com/beer/profile/22157/93616/,Pomegranate Lambic,22157,Rivertown Brewery & Barrel House,27,4.21
+136,7.70,170530,https://www.beeradvocate.com/beer/profile/13307/170530/,Spontanapricot,13307,Mikkeller ApS,26,3.91
+137,7.70,214657,https://www.beeradvocate.com/beer/profile/13307/214657/,Spontanpineapple,13307,Mikkeller ApS,25,4.14
+138,7.70,212206,https://www.beeradvocate.com/beer/profile/13307/212206/,Spontanorange,13307,Mikkeller ApS,25,3.91
+139,4.90,246642,https://www.beeradvocate.com/beer/profile/39318/246642/,Albricot - Dry-Hopped,39318,Deciduous Brewing Company,24,4.24
+140,10.00,140683,https://www.beeradvocate.com/beer/profile/13307/140683/,Spontantripleblueberry,13307,Mikkeller ApS,24,4.28
+141, ? ,48407,https://www.beeradvocate.com/beer/profile/2642/48407/,Barton Kriek,2642,North by Northwest Restaurant & Brewery,23,4.24
+142,5.50,113226,https://www.beeradvocate.com/beer/profile/24489/113226/,OWA Ume Lambic,24489,OWA Brewery SPRL,23,3.86
+143,4.30,38502,https://www.beeradvocate.com/beer/profile/654/38502/,Mort Subite Xtreme Kriek,654,Brouwerij Mort Subite,23,3.12
+144,7.70,214656,https://www.beeradvocate.com/beer/profile/13307/214656/,Spontanpear,13307,Mikkeller ApS,23,3.99
+145,5.00,2499,https://www.beeradvocate.com/beer/profile/48/2499/,Cherish Peach Lambic,48,Brouwerij Van Steenberge N.V.,23,3.48
+146,7.70,259840,https://www.beeradvocate.com/beer/profile/25923/259840/,Oude Pinot Noir Tilquin à L'ancienne,25923,Gueuzerie Tilquin,22,4.32
+147,7.70,172874,https://www.beeradvocate.com/beer/profile/13307/172874/,Spontanlingonberry,13307,Mikkeller ApS,22,3.9
+148,5.50,249678,https://www.beeradvocate.com/beer/profile/388/249678/,Cantillon Cuvée Moeder (Framboise),388,Brasserie Cantillon,22,4.44
+149,4.50,80773,https://www.beeradvocate.com/beer/profile/654/80773/,Mort Subite Original Kriek,654,Brouwerij Mort Subite,22,3.63
+150,5.00,6338,https://www.beeradvocate.com/beer/profile/2541/6338/,Kriekenlambik,2541,Brouwerij Girardin,22,3.94
+151,7.70,154584,https://www.beeradvocate.com/beer/profile/13307/154584/,Spontanblackthorn,13307,Mikkeller ApS,22,4.05
+152,4.90,246641,https://www.beeradvocate.com/beer/profile/39318/246641/,Albricot,39318,Deciduous Brewing Company,21,4.19
+153,6.50,11894,https://www.beeradvocate.com/beer/profile/1636/11894/,Framboise,1636,Fegley's Bethlehem Brew Works,19,3.86
+154,7.70,155792,https://www.beeradvocate.com/beer/profile/13307/155792/,Spontansweetcherry,13307,Mikkeller ApS,19,3.99
+155,4.30,24809,https://www.beeradvocate.com/beer/profile/945/24809/,Kriek Extra,945,Brasserie Belle-Vue,19,2.46
+156,5.00,13598,https://www.beeradvocate.com/beer/profile/169/13598/,La Bécasse Kriek,169,Stella Artois,18,3.59
+157, ? ,46191,https://www.beeradvocate.com/beer/profile/6045/46191/,Cassis De Hill,6045,Iron Hill Brewery & Restaurant,18,3.86
+158,5.50,237203,https://www.beeradvocate.com/beer/profile/187/237203/,Grand Cru Oude Gueuze Cuvée René,187,Brouwerij Lindemans,16,4.11
+159,7.50,120602,https://www.beeradvocate.com/beer/profile/15711/120602/,Blåbær,15711,HaandBryggeriet,15,3.43
+160,4.10,307080,https://www.beeradvocate.com/beer/profile/187/307080/,Lindemans Strawberry,187,Brouwerij Lindemans,15,3.99
+161,3.50,184472,https://www.beeradvocate.com/beer/profile/190/184472/,De Troch Kriek Lambic,190,Brouwerij De Troch,15,3.69
+162,5.40,268583,https://www.beeradvocate.com/beer/profile/39318/268583/,Blaujolais,39318,Deciduous Brewing Company,14,3.89
+163,5.40,277602,https://www.beeradvocate.com/beer/profile/29573/277602/,Abrikoos,29573,pFriem Family Brewers,14,4.36
+164,4.00,210191,https://www.beeradvocate.com/beer/profile/2791/210191/,Timmermans Strawberry Lambicus,2791,Brouwerij Timmermans-John Martin N.V.,13,3.72
+165,3.20,44853,https://www.beeradvocate.com/beer/profile/212/44853/,St. Louis Premium Cassis,212,Brouwerij Van Honsebrouck N.V.,13,3.48
+166,5.50,206665,https://www.beeradvocate.com/beer/profile/190/206665/,De Troch Oude Kriek,190,Brouwerij De Troch,13,3.98
+167,4.00,230735,https://www.beeradvocate.com/beer/profile/654/230735/,Mort Subite Kriek Lambic,654,Brouwerij Mort Subite,13,3.23
+168, ? ,288378,https://www.beeradvocate.com/beer/profile/36686/288378/,Framrood - Punchdown,36686,Funk Factory Geuzeria,13,4.4
+169,3.60,17273,https://www.beeradvocate.com/beer/profile/212/17273/,St. Louis Cassis Lambic,212,Brouwerij Van Honsebrouck N.V.,12,2.72
+170,6.00,247069,https://www.beeradvocate.com/beer/profile/29573/247069/,Bosbessen,29573,pFriem Family Brewers,11,4.1
+171,7.70,263492,https://www.beeradvocate.com/beer/profile/13307/263492/,Spontancherryframboos,13307,Mikkeller ApS,11,4.15
+172,3.50,189820,https://www.beeradvocate.com/beer/profile/190/189820/,De Troch Framboise Lambic,190,Brouwerij De Troch,11,3.9
+173,8.00,146111,https://www.beeradvocate.com/beer/profile/41/146111/,Corsendonk Dubbel Kriek,41,Brouwerij Corsendonk,11,3.44
+174,4.00,62406,https://www.beeradvocate.com/beer/profile/47/62406/,Boon Kriekenlambik,47,Brouwerij Boon,11,3.66
+175,5.00,6423,https://www.beeradvocate.com/beer/profile/48/6423/,Bios Kriek,48,Brouwerij Van Steenberge N.V.,10,3.31
+176,7.80,228984,https://www.beeradvocate.com/beer/profile/828/228984/,Oud Beersel Schaarbeekse Oude Kriek,828,Brouwerij Oud Beersel,10,4.16
+177,2.90,59518,https://www.beeradvocate.com/beer/profile/945/59518/,Belle-Vue Extra Framboise (2.9%abv),945,Brasserie Belle-Vue,10,2.87
+178,6.50,280708,https://www.beeradvocate.com/beer/profile/2170/280708/,De Cam Tros Bessen,2170,De Cam Geuzestekerij,10,3.85
+179,6.50,280727,https://www.beeradvocate.com/beer/profile/2170/280727/,De Cam Wilde Bosbessen Lambiek,2170,De Cam Geuzestekerij,10,4.13
+180,6.10,317849,https://www.beeradvocate.com/beer/profile/24018/317849/,SPON Syrah & Sangiovese,24018,Jester King Brewery,10,4.39
+181,6.50,182940,https://www.beeradvocate.com/beer/profile/9792/182940/,Wooden Ladder Kriek Lambic,9792,Natty Greene's Pub & Brewing Co.,10,3.99
+182,4.30,104617,https://www.beeradvocate.com/beer/profile/654/104617/,Mort Subite Xtreme Framboise,654,Brouwerij Mort Subite,10,3.33
+183,5.10,50642,https://www.beeradvocate.com/beer/profile/945/50642/,Kriek Classique,945,Brasserie Belle-Vue,10,2.58
+184,7.00,261089,https://www.beeradvocate.com/beer/profile/42930/261089/,"Careful With That Peach, Eugene",42930,Beachwood Blendery,10,4.26
+185,5.40,268584,https://www.beeradvocate.com/beer/profile/39318/268584/,Frangosta,39318,Deciduous Brewing Company,9,4.45
+186,4.50,45389,https://www.beeradvocate.com/beer/profile/2791/45389/,Timmermans Fruits De La Foret Lambic,2791,Brouwerij Timmermans-John Martin N.V.,9,3.3
+187,7.70,242368,https://www.beeradvocate.com/beer/profile/13307/242368/,Spontanlemon,13307,Mikkeller ApS,9,3.92
+188,6.00,295120,https://www.beeradvocate.com/beer/profile/36686/295120/,Framrood,36686,Funk Factory Geuzeria,9,4.38
+189,5.80,17123,https://www.beeradvocate.com/beer/profile/169/17123/,La Becasse Framboise,169,Stella Artois,9,3.12
+190,6.10,322312,https://www.beeradvocate.com/beer/profile/24018/322312/,SPON Muscat,24018,Jester King Brewery,8,4.38
+191,8.50,275215,https://www.beeradvocate.com/beer/profile/42930/275215/,"Come In Grape, Your Time Is Up [Muscat Edition]",42930,Beachwood Blendery,8,3.9
+192,6.70,18472,https://www.beeradvocate.com/beer/profile/3174/18472/,Belgian Style Kriek Ale,3174,Coopersmith's Pub & Brewing,8,3.75
+193,5.60,297772,https://www.beeradvocate.com/beer/profile/30437/297772/,Jambic,30437,Two Roads Brewing Company,8,4.04
+194,6.20,174949,https://www.beeradvocate.com/beer/profile/22157/174949/,Rivertown Kriek,22157,Rivertown Brewery & Barrel House,8,3.88
+195, ? ,265448,https://www.beeradvocate.com/beer/profile/4/265448/,Coolship La Mûre,4,Allagash Brewing Company,8,4.42
+196,4.80,233738,https://www.beeradvocate.com/beer/profile/44980/233738/,"9th Island, Carmelized Pineapple Sour",44980,Lovelady Brewing,7,3.61
+197,5.50,139795,https://www.beeradvocate.com/beer/profile/20864/139795/,Lærdøl - Sour Cherry Rye,20864,Ægir Bryggeri,7,3.71
+198,12.00,59722,https://www.beeradvocate.com/beer/profile/16594/59722/,Wildberry Lambic,16594,LagerHaus Grill & Brewery,7,3.01
+199,5.30,216666,https://www.beeradvocate.com/beer/profile/35479/216666/,Papio Kriek,35479,Farnam House Brewing Company,7,3.75
+200,5.00,241774,https://www.beeradvocate.com/beer/profile/36769/241774/,Opus Mango,36769,Arclight Brewing Company,7,4.54
+201, ? ,315274,https://www.beeradvocate.com/beer/profile/47353/315274/,Ice-nine,47353,The Referend Bier Blendery,7,4.08
+202,5.50,294558,https://www.beeradvocate.com/beer/profile/388/294558/,Cantillon Reine Des Prés,388,Brasserie Cantillon,7,4.44
+203,5.80,9462,https://www.beeradvocate.com/beer/profile/3054/9462/,Uitzet Kriekenbier,3054,Brouwerij Paeleman,7,3.95
+204, ? ,316955,https://www.beeradvocate.com/beer/profile/34667/316955/,Clavis and Purpura,34667,OEC Brewing (Ordinem Ecentrici Coctores),6,4.49
+205,4.50,56113,https://www.beeradvocate.com/beer/profile/9558/56113/,Brown's Raspberry Lambic,9558,Brown's Brewing Company,6,3.79
+206,5.50,299587,https://www.beeradvocate.com/beer/profile/47176/299587/,Ghost Kriek,47176,Bokkereyder,6,4.35
+207, ? ,17998,https://www.beeradvocate.com/beer/profile/1457/17998/,Arbor Brewing Brasserie Greff Kriek,1457,Arbor Brewing Company,6,3.75
+208,6.00,291178,https://www.beeradvocate.com/beer/profile/47353/291178/,Liber Novus,47353,The Referend Bier Blendery,6,4.32
+209,7.00,15737,https://www.beeradvocate.com/beer/profile/2428/15737/,L'Ampounette De Redu (Bière à La Framboise),2428,Brasserie Caulier,6,3.1
+210,4.50,111750,https://www.beeradvocate.com/beer/profile/654/111750/,Mort Subite Original Framboise,654,Brouwerij Mort Subite,6,3.37
+211,7.70,288905,https://www.beeradvocate.com/beer/profile/13307/288905/,Spontanblueberry,13307,Mikkeller ApS,6,3.82
+212,5.50,215183,https://www.beeradvocate.com/beer/profile/23966/215183/,Cantelope Alalambic,23966,Blue Pants Brewery,6,3.81
+213,7.60,273299,https://www.beeradvocate.com/beer/profile/33824/273299/,Emergent Behavior: Framboise,33824,Bottle Logic Brewing,6,3.9
+214,8.00,310468,https://www.beeradvocate.com/beer/profile/34667/310468/,Cease & Narcist,34667,OEC Brewing (Ordinem Ecentrici Coctores),6,4.07
+215,6.50,290781,https://www.beeradvocate.com/beer/profile/42930/290781/,"Careful With That Raspberry, Eugene",42930,Beachwood Blendery,6,3.94
+216,6.00,282894,https://www.beeradvocate.com/beer/profile/47176/282894/,&,47176,Bokkereyder,5,4.42
+217,4.80,14885,https://www.beeradvocate.com/beer/profile/4377/14885/,Black Cherry Weizen/Lambic,4377,Syracuse Suds Factory,5,3.58
+218, ? ,232289,https://www.beeradvocate.com/beer/profile/18085/232289/,Frapple,18085,St. Elias Brewing Company,5,3.58
+219,5.00,38777,https://www.beeradvocate.com/beer/profile/10898/38777/,Alkemisten,10898,Hantverksbryggeriet AB,5,2.93
+220,5.00,115327,https://www.beeradvocate.com/beer/profile/2791/115327/,Timmermans Tradition Kriek Retro Lambicus,2791,Brouwerij Timmermans-John Martin N.V.,5,3.38
+221,7.70,288906,https://www.beeradvocate.com/beer/profile/13307/288906/,Spontanblackberry,13307,Mikkeller ApS,5,3.96
+222,11.00,124062,https://www.beeradvocate.com/beer/profile/35190/124062/,Spoiled Brat,35190,Ocean City Brewing Company,5,2.7
+223,4.00,55491,https://www.beeradvocate.com/beer/profile/212/55491/,Vieux Bruxelles Kriek,212,Brouwerij Van Honsebrouck N.V.,5,2.7
+224,5.50,2501,https://www.beeradvocate.com/beer/profile/223/2501/,Jacobins Framboise,223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,5,3.65
+225,4.50,280777,https://www.beeradvocate.com/beer/profile/24678/280777/,House Sour,24678,Brewery Vivant,5,3.81
+226,6.50,228869,https://www.beeradvocate.com/beer/profile/654/228869/,Mort Subite Oude Kriek Lambic,654,Brouwerij Mort Subite,4,4.02
+227,6.40,316421,https://www.beeradvocate.com/beer/profile/47340/316421/,Côte-d'Or - Double Cerise,47340,Rowley Farmhouse Ales,4,4.26
+228, ? ,42019,https://www.beeradvocate.com/beer/profile/2642/42019/,Pomelambic,2642,North by Northwest Restaurant & Brewery,4,3.65
+229, ? ,288808,https://www.beeradvocate.com/beer/profile/40377/288808/,ROSWELL: Majestic 12,40377,Black Project Spontaneous & Wild Ales,4,4.32
+230,7.05,334123,https://www.beeradvocate.com/beer/profile/33824/334123/,Key of Ys,33824,Bottle Logic Brewing,4,4.22
+231,5.00,231028,https://www.beeradvocate.com/beer/profile/37726/231028/,Lambic Style Röd Vinbär / Rabarber,37726,Sahtipaja,4,4.15
+232,5.50,222591,https://www.beeradvocate.com/beer/profile/23966/222591/,Peche Alalambic,23966,Blue Pants Brewery,4,3.8
+233,5.00,133512,https://www.beeradvocate.com/beer/profile/16304/133512/,Wild Raspberry Tabby,16304,Grand River Brewing,4,3.54
+234,4.50,279452,https://www.beeradvocate.com/beer/profile/3313/279452/,Bloesem Kriek,3313,Brouwerij Kerkom,4,3.6
+235,5.00,296863,https://www.beeradvocate.com/beer/profile/47353/296863/,The Sound And The Fury,47353,The Referend Bier Blendery,4,4.08
+236,7.00,129956,https://www.beeradvocate.com/beer/profile/771/129956/,Lambic Aux Poires,771,Ferme Brasserie Schoune,4,1.94
+237,6.00,62634,https://www.beeradvocate.com/beer/profile/636/62634/,Hanssens Kriekenlambik,636,Hanssens Artisanaal bvba,4,4
+238, ? ,289202,https://www.beeradvocate.com/beer/profile/718/289202/,Petrus Seasonal Fruit Sour,718,De Brabandere,4,4.25
+239,10.00,309939,https://www.beeradvocate.com/beer/profile/37451/309939/,A scanner tartley,37451,Barley Forge Brewing Co.,4,4.01
+240,8.00,29876,https://www.beeradvocate.com/beer/profile/1636/29876/,Imperial Cranberry Lambic,1636,Fegley's Bethlehem Brew Works,4,3.99
+241,10.00,197817,https://www.beeradvocate.com/beer/profile/13307/197817/,Fruit Salad,13307,Mikkeller ApS,4,3.88
+242,7.00,137403,https://www.beeradvocate.com/beer/profile/771/137403/,Lambic Aux Fruits De La Passion,771,Ferme Brasserie Schoune,4,2.37
+243,4.50,149968,https://www.beeradvocate.com/beer/profile/37979/149968/,Cherry Lambic,37979,Zephyr Brewing Co.,4,3.15
+244,5.50,156643,https://www.beeradvocate.com/beer/profile/33817/156643/,Cherry Chocolate Tarte,33817,Hoparazzi Brewing Co.,4,4.06
+245,3.20,55011,https://www.beeradvocate.com/beer/profile/805/55011/,Brussels Red Fruit Beer,805,Brasserie Du Bocq,4,3.54
+246,6.80,120038,https://www.beeradvocate.com/beer/profile/1872/120038/,Mon Cherie,1872,McKenzie Brew House,4,3.62
+247,8.00,162543,https://www.beeradvocate.com/beer/profile/18182/162543/,Ferme Framboos,18182,Brouwerij De Vlier,4,2.87
+248,5.30,282608,https://www.beeradvocate.com/beer/profile/25923/282608/,Oude Quetsche Tilquin à L'Ancienne - Draft Version,25923,Gueuzerie Tilquin,4,4.26
+249,5.50,219921,https://www.beeradvocate.com/beer/profile/34108/219921/,Pop My Visnja,34108,Kabinet Brewery,3,3.17
+250,5.40,187174,https://www.beeradvocate.com/beer/profile/26634/187174/,Blackberry Lambic,26634,Wichita Brewing Co. & Pizzeria West,3,4.34
+251,5.00,334377,https://www.beeradvocate.com/beer/profile/31540/334377/,The Little Peach,31540,de Garde Brewing,3,4.43
+252,9.30,297268,https://www.beeradvocate.com/beer/profile/30437/297268/,Roadsmary's Stepchild,30437,Two Roads Brewing Company,3,3.77
+253,5.75,293205,https://www.beeradvocate.com/beer/profile/2299/293205/,Lambic X,2299,Brouwerij Strubbe,3,4.2
+254,4.50,182371,https://www.beeradvocate.com/beer/profile/23303/182371/,Petit Lambic,23303,Brasserie De Metropole,3,3.36
+255,7.70,158579,https://www.beeradvocate.com/beer/profile/13307/158579/,Spontandoublekiwi,13307,Mikkeller ApS,3,3.5
+256,7.70,214650,https://www.beeradvocate.com/beer/profile/13307/214650/,Spontanfig,13307,Mikkeller ApS,3,4.04
+257,10.00,214654,https://www.beeradvocate.com/beer/profile/13307/214654/,Spontantriplecassis,13307,Mikkeller ApS,3,4.56
+258,3.60,212106,https://www.beeradvocate.com/beer/profile/27289/212106/,Framboise,27289,Kirkstall Brewery Company,3,3.59
+259,4.00,220816,https://www.beeradvocate.com/beer/profile/43471/220816/,Contains Fruit,43471,Garage Beer Co.,3,3.91
+260,5.50,299408,https://www.beeradvocate.com/beer/profile/25923/299408/,Tilquin Experimental Fruit Series #1 - Sureau Tilquin,25923,Gueuzerie Tilquin,3,4.05
+261,5.50,174741,https://www.beeradvocate.com/beer/profile/190/174741/,Ume Lambic,190,Brouwerij De Troch,3,3.78
+262,3.50,184473,https://www.beeradvocate.com/beer/profile/190/184473/,De Troch Fraise Lambic,190,Brouwerij De Troch,3,3.95
+263, ? ,299684,https://www.beeradvocate.com/beer/profile/2216/299684/,Frambozenlambik 50%,2216,Brouwerij 3 Fonteinen,3,4.43
+264,5.00,299686,https://www.beeradvocate.com/beer/profile/25923/299686/,Tilquin Experimental Fruit Series #1 - Myrtille Sauvage Tilquin,25923,Gueuzerie Tilquin,3,3.72
+265,8.40,271284,https://www.beeradvocate.com/beer/profile/40117/271284/,Urbino,40117,Levante Brewing Company,3,3.66
+266,5.50,201664,https://www.beeradvocate.com/beer/profile/37809/201664/,Lambic With Fresh Peaches,37809,Ethereal Brewing,3,4.79
+267,4.00,79299,https://www.beeradvocate.com/beer/profile/3671/79299/,La Pucelle,3671,Brasserie Artisanale des Vosges,3,2.26
+268,4.00,237513,https://www.beeradvocate.com/beer/profile/46074/237513/,Lambic Style Sour Mango,46074,Taiwan Ale Brewery,3,3.41
+269,5.00,280539,https://www.beeradvocate.com/beer/profile/47176/280539/,Pinot Kriek (2014),47176,Bokkereyder,3,4.56
+270,6.00,252660,https://www.beeradvocate.com/beer/profile/47176/252660/,Kers,47176,Bokkereyder,3,3.89
+271,6.50,236024,https://www.beeradvocate.com/beer/profile/33825/236024/,Upschitt Kriek,33825,Woodland Empire Ale Craft,3,4.28
+272, ? ,248828,https://www.beeradvocate.com/beer/profile/18085/248828/,Framboise Lambic,18085,St. Elias Brewing Company,3,4.35
+273,6.40,247037,https://www.beeradvocate.com/beer/profile/25923/247037/,Oude Quetsche Tilquin à L'Ancienne Avec Prunes D' Alsace,25923,Gueuzerie Tilquin,3,4.14
+274,5.30,60415,https://www.beeradvocate.com/beer/profile/37503/60415/,Framboise,37503,Nørrebro Bryghus,3,4.04
+275,6.00,142087,https://www.beeradvocate.com/beer/profile/31573/142087/,Ligonberry Lambic,31573,Blacklist Artisan Ales,2,3.6
+276,7.00,275218,https://www.beeradvocate.com/beer/profile/42930/275218/,"Careful With That Cherry & Rye, Eugene",42930,Beachwood Blendery,2,4.06
+277,3.20,104210,https://www.beeradvocate.com/beer/profile/212/104210/,St. Louis Premium Glühkriek,212,Brouwerij Van Honsebrouck N.V.,2,3.58
+278,7.50,134419,https://www.beeradvocate.com/beer/profile/36279/134419/,Frambuesa (Raspberry),36279,Cerveceria Blest,2,4.02
+279, ? ,173086,https://www.beeradvocate.com/beer/profile/35083/173086/,Old Lambic BA Sherry,35083,MAD Beer,2,2.66
+280,4.80,288800,https://www.beeradvocate.com/beer/profile/25923/288800/,Mûre Tilquin - Draft Version,25923,Gueuzerie Tilquin,2,3.95
+281,6.50,334376,https://www.beeradvocate.com/beer/profile/31540/334376/,The Apricot,31540,de Garde Brewing,2,4.44
+282,7.50,288810,https://www.beeradvocate.com/beer/profile/40377/288810/,ROSWELL: Sign,40377,Black Project Spontaneous & Wild Ales,2,3.88
+283,7.20,288811,https://www.beeradvocate.com/beer/profile/40377/288811/,ROSWELL: Blue Book,40377,Black Project Spontaneous & Wild Ales,2,4.44
+284, ? ,288813,https://www.beeradvocate.com/beer/profile/40377/288813/,ROSWELL: Grudge,40377,Black Project Spontaneous & Wild Ales,2,4.66
+285,5.00,263996,https://www.beeradvocate.com/beer/profile/42617/263996/,Blackberry Lambic,42617,Big Water Brewery,2,3.88
+286,8.00,333630,https://www.beeradvocate.com/beer/profile/42273/333630/,Pineapples Are In My Head,42273,Forager Brewing Company,2,4.13
+287,6.50,293189,https://www.beeradvocate.com/beer/profile/23031/293189/,Framboos,23031,Brouwerij Hof Ten Dormaal,2,4.4
+288,7.00,334922,https://www.beeradvocate.com/beer/profile/42930/334922/,Umeboshi,42930,Beachwood Blendery,2,4.52
+289,6.00,178258,https://www.beeradvocate.com/beer/profile/25909/178258/,Damson,25909,Stringers Beer,2,3.86
+290,5.00,322643,https://www.beeradvocate.com/beer/profile/50850/322643/,Bomb Pop Rasberry Sour,50850,Kettlehead Brewing Company,2,4.05
+291,5.40,263009,https://www.beeradvocate.com/beer/profile/35143/263009/,Cranberry Single,35143,Forbidden Root Restaurant & Brewery,2,2.85
+292,5.80,238177,https://www.beeradvocate.com/beer/profile/36912/238177/,Without A Paddle,36912,Nomad Brewing Company,2,3.63
+293,6.00,180849,https://www.beeradvocate.com/beer/profile/30181/180849/,Framboisette,30181,Stradaregina,2,3.7
+294,6.60,280438,https://www.beeradvocate.com/beer/profile/42930/280438/,"Careful With That Pineapple, Guava Eugene",42930,Beachwood Blendery,2,3.97
+295,7.53,333943,https://www.beeradvocate.com/beer/profile/33824/333943/,Iris Pseudocorus,33824,Bottle Logic Brewing,2,3.89
+296, ? ,141951,https://www.beeradvocate.com/beer/profile/23030/141951/,Bla Bla Blend,23030,Revelation Cat Craft Brewing,2,3.38
+297,6.00,147077,https://www.beeradvocate.com/beer/profile/37166/147077/,Kriek,37166,Summit City Brewerks,2,3.71
+298,5.80,196235,https://www.beeradvocate.com/beer/profile/23303/196235/,Kriek,23303,Brasserie De Metropole,2,3.18
+299,7.70,283282,https://www.beeradvocate.com/beer/profile/13307/283282/,Spontanpentadrupelblueberry,13307,Mikkeller ApS,2,3.99
+300,8.50,329114,https://www.beeradvocate.com/beer/profile/6288/329114/,Kriek De Mortagne,6288,Picobrouwerij Alvinne,2,4.4
+301,4.20,56479,https://www.beeradvocate.com/beer/profile/169/56479/,La Bécasse Extra Kriek,169,Stella Artois,2,2.79
+302,8.20,297636,https://www.beeradvocate.com/beer/profile/4980/297636/,Frambuesa Moka,4980,Engine House No. 9,2,3.97
+303,5.00,280485,https://www.beeradvocate.com/beer/profile/2216/280485/,Speling Van Het Lot II : Robijn,2216,Brouwerij 3 Fonteinen,2,4.65
+304, ? ,295591,https://www.beeradvocate.com/beer/profile/636/295591/,100% Scharbeekse Kriekenlambiek,636,Hanssens Artisanaal bvba,2,4.13
+305,6.00,218281,https://www.beeradvocate.com/beer/profile/18085/218281/,Kriek,18085,St. Elias Brewing Company,2,3.95
+306, ? ,42154,https://www.beeradvocate.com/beer/profile/11466/42154/,Framboise,11466,Lodi Beer Company,2,3.51
+307,5.00,299691,https://www.beeradvocate.com/beer/profile/25923/299691/,Tilquin Experimental Fruit Series #1 - Cassis Tilquin,25923,Gueuzerie Tilquin,2,3.97
+308,4.60,232371,https://www.beeradvocate.com/beer/profile/887/232371/,Utenos Kriek,887,Utenos Alus,2,3.41
+309,6.20,270522,https://www.beeradvocate.com/beer/profile/47221/270522/,Kriek,47221,Ruse Brewing,2,4.21
+310,6.50,172478,https://www.beeradvocate.com/beer/profile/32368/172478/,Kings Kriek Cherry Ale,32368,White River Brewing Company,2,2.9
+311,6.40,32458,https://www.beeradvocate.com/beer/profile/1636/32458/,Cassis,1636,Fegley's Bethlehem Brew Works,2,4.16
+312,3.50,208080,https://www.beeradvocate.com/beer/profile/187/208080/,Lindemans Kriek Foudroyante,187,Brouwerij Lindemans,2,4.27
+313,12.00,303573,https://www.beeradvocate.com/beer/profile/13307/303573/,Spontanpentradrupelblueberry,13307,Mikkeller ApS,2,4.58
+314,4.80,124889,https://www.beeradvocate.com/beer/profile/25898/124889/,Plant City Lambic,25898,Green Room Brewing,2,4.38
+315, ? ,181466,https://www.beeradvocate.com/beer/profile/31212/181466/,500,31212,Atlas Brew Works,2,3.78
+316,3.00,222687,https://www.beeradvocate.com/beer/profile/32366/222687/,WILDE Raspberry Pale Ale,32366,Koala Beer,2,2.78
+317,6.00,215008,https://www.beeradvocate.com/beer/profile/33817/215008/,Jungle Juice,33817,Hoparazzi Brewing Co.,2,4.23
+318,5.00,302817,https://www.beeradvocate.com/beer/profile/25923/302817/,Tilquin Experimental Fruit Series #1- Rhubarbe Rouge,25923,Gueuzerie Tilquin,2,4.13
+319,6.00,282599,https://www.beeradvocate.com/beer/profile/47176/282599/,Riesling (2016),47176,Bokkereyder,2,4
+320, ? ,303597,https://www.beeradvocate.com/beer/profile/47176/303597/,Framboos (2017),47176,Bokkereyder,2,4.54
+321,6.00,305136,https://www.beeradvocate.com/beer/profile/13605/305136/,10th Anniversar Moeder Lambic,13605,Le Trou Du Diable,2,4.28
+322,5.00,280318,https://www.beeradvocate.com/beer/profile/2216/280318/,Speling Van Het Lot I : Nocturne,2216,Brouwerij 3 Fonteinen,2,3.63
+323,2.80,286720,https://www.beeradvocate.com/beer/profile/212/286720/,Vieux Bruxelles Framboise Lambic,212,Brouwerij Van Honsebrouck N.V.,1,3
+324,4.90,297216,https://www.beeradvocate.com/beer/profile/22658/297216/,Sûr à Cassis,22658,Korrigane - Brasserie Artisanale,1,2.97
+325,6.00,322308,https://www.beeradvocate.com/beer/profile/25923/322308/,Assemblage/Blend,25923,Gueuzerie Tilquin,1,3.75
+326,6.20,245514,https://www.beeradvocate.com/beer/profile/21329/245514/,Blackberry Whiskey Sour,21329,Cool Springs Brewery,1,3.43
+327,5.00,61196,https://www.beeradvocate.com/beer/profile/2470/61196/,The Brew Kettle Funk Works Quick Kriek,2470,The Brew Kettle Taproom & Smokehouse / Production Works,1,3.42
+328,6.70,295697,https://www.beeradvocate.com/beer/profile/917/295697/,Ambar Roja,917,La Zaragozana S.A.,1,2.59
+329,5.40,173590,https://www.beeradvocate.com/beer/profile/30750/173590/,Amuse Bouche,30750,The Wild Beer Co.,1,3.7
+330,5.00,329754,https://www.beeradvocate.com/beer/profile/47353/329754/,The Sound And The Fury (DDH Nelson),47353,The Referend Bier Blendery,1,4.32
+331,7.60,321306,https://www.beeradvocate.com/beer/profile/46554/321306/,Kriek,46554,Yachats Brewing,1,3.51
+332,5.80,173595,https://www.beeradvocate.com/beer/profile/30962/173595/,Raspberry Kettle Sour,30962,Hall Brewing Co.,1,3.56
+333,3.70,302366,https://www.beeradvocate.com/beer/profile/4858/302366/,Cherry Mountain Sour,4858,Draught House Pub & Brewery,1,4.25
+334,7.00,287531,https://www.beeradvocate.com/beer/profile/689/287531/,Project Opus 20 SPD Reserve,689,Two Brothers Brewing Company,1,4.89
+335,6.00,341804,https://www.beeradvocate.com/beer/profile/47176/341804/,Pjassel (2017),47176,Bokkereyder,1,4.64
+336, ? ,288812,https://www.beeradvocate.com/beer/profile/40377/288812/,ROSWELL: Mogul,40377,Black Project Spontaneous & Wild Ales,1,4.21
+337,5.00,231726,https://www.beeradvocate.com/beer/profile/771/231726/,Lambic Kriek,771,Ferme Brasserie Schoune,1,4.16
+338,6.50,48431,https://www.beeradvocate.com/beer/profile/5055/48431/,Ise Kadoya Griotte,5055,Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery,1,3.8
+339,5.00,175410,https://www.beeradvocate.com/beer/profile/40847/175410/,Cerex Cereza,40847,Cerex Brewing Co.,1,2.17
+340,6.00,341815,https://www.beeradvocate.com/beer/profile/47176/341815/,Vlierbloesem (2017),47176,Bokkereyder,1,4.15
+341,4.70,279351,https://www.beeradvocate.com/beer/profile/46451/279351/,Le Phenix,46451,Château De La Bière,1,3.41
+342,6.20,207164,https://www.beeradvocate.com/beer/profile/12314/207164/,Ambassador Barrel-Aged Sour,12314,Dry Dock Brewing Co.,1,3.6
+343,7.53,341055,https://www.beeradvocate.com/beer/profile/33824/341055/,BLB296-297/250-251: Iris Pseudacorus,33824,Bottle Logic Brewing,1,3.94
+344,5.00,299588,https://www.beeradvocate.com/beer/profile/25923/299588/,Cuvée Du Familier - Quetsche-Mûre Tilquin - Draft Version,25923,Gueuzerie Tilquin,1,4.25
+345,4.70,268614,https://www.beeradvocate.com/beer/profile/48295/268614/,Fuzzy Peach Ale,48295,BRIM Kitchen + Brewery,1,3.34
+346,5.20,141648,https://www.beeradvocate.com/beer/profile/35855/141648/,Woodson Cider Beer,35855,The Damascus Brewery,1,3.75
+347,4.50,310097,https://www.beeradvocate.com/beer/profile/10453/310097/,Splatterberry,10453,Wylam Brewery,1,4.27
+348, ? ,324946,https://www.beeradvocate.com/beer/profile/47353/324946/,The Blue Book,47353,The Referend Bier Blendery,1,4.49
+349,5.40,304979,https://www.beeradvocate.com/beer/profile/29180/304979/,Science Sucks,29180,The Hermosillo / Highland Park Brewery,1,4.43
+350, ? ,314198,https://www.beeradvocate.com/beer/profile/388/314198/,Cantillon Cinsault,388,Brasserie Cantillon,1,4.18
+351,4.40,224604,https://www.beeradvocate.com/beer/profile/28311/224604/,Alivariya The Taste Of Manchester,28311,Alivaria Pivzavod,1,1.57
+352,5.30,291676,https://www.beeradvocate.com/beer/profile/29220/291676/,Raspberry Lambic,29220,Dirty Bucket Brewing Co.,1,3.89
+353,6.50,254818,https://www.beeradvocate.com/beer/profile/39432/254818/,Firefall Blood Orange Lambic,39432,Seven Arrows Brewing Company,1,3.5
+354,5.40,285284,https://www.beeradvocate.com/beer/profile/64/285284/,Psychotic Reactor,64,Dogfish Head Craft Brewery,1,4
+355,5.40,94060,https://www.beeradvocate.com/beer/profile/12534/94060/,Pinky Framboise,12534,Bright Brewery,1,3.36
+356,5.00,324212,https://www.beeradvocate.com/beer/profile/47353/324212/,The Iceman Cometh,47353,The Referend Bier Blendery,1,4.33
+357,5.00,193408,https://www.beeradvocate.com/beer/profile/36800/193408/,Hand-Picked,36800,Butcher & the Brewer,1,3.75
+358,5.50,281217,https://www.beeradvocate.com/beer/profile/29573/281217/,Kettled Sour Passionfruit,29573,pFriem Family Brewers,1,3.76
+359,5.60,243842,https://www.beeradvocate.com/beer/profile/44541/243842/,Sour Soul Kriek Style,44541,Mad Brewlads Craft Co.,1,3.89
+360,4.00,335749,https://www.beeradvocate.com/beer/profile/2791/335749/,Timmermans Kriek Lambicus,2791,Brouwerij Timmermans-John Martin N.V.,1,3.87
+361,5.50,324231,https://www.beeradvocate.com/beer/profile/47353/324231/,Welcome To The Monkey House,47353,The Referend Bier Blendery,1,4.11
+362,4.00,276106,https://www.beeradvocate.com/beer/profile/20914/276106/,Pasaulio Skoniai Kriek,20914,Volfas Engelman,1,3.62
+363,5.00,81036,https://www.beeradvocate.com/beer/profile/4974/81036/,Iwatekura Lambic,4974,"Sekinoichi-shuzou, Iwate-kura Brewery",1,4.5
+364,6.20,223122,https://www.beeradvocate.com/beer/profile/13307/223122/,Polly 2,13307,Mikkeller ApS,1,3.83
+365,8.00,121490,https://www.beeradvocate.com/beer/profile/29641/121490/,Zwam,29641,Microbrasserie Goudale,1,4.5
+366,5.00,332692,https://www.beeradvocate.com/beer/profile/37726/332692/,Rod Vinbar / Rabarber Lambic,37726,Sahtipaja,1,4
+367,7.00,334996,https://www.beeradvocate.com/beer/profile/13307/334996/,Spontanpassionfruit,13307,Mikkeller ApS,1,4.44
+368,7.70,334997,https://www.beeradvocate.com/beer/profile/13307/334997/,Spontanseabuckthorn,13307,Mikkeller ApS,1,4.59
+369,5.00,289429,https://www.beeradvocate.com/beer/profile/45041/289429/,Kirsis,45041,Ironmonger Brewing,1,3.94
+370,3.50,304025,https://www.beeradvocate.com/beer/profile/190/304025/,Lambrucha,190,Brouwerij De Troch,1,4
+371,5.00,274331,https://www.beeradvocate.com/beer/profile/23966/274331/,Alalambic Plum,23966,Blue Pants Brewery,1,4.14
+372,7.50,295582,https://www.beeradvocate.com/beer/profile/2791/295582/,Brasserie De La Taupe Brewer's Desire,2791,Brouwerij Timmermans-John Martin N.V.,1,3.46
+373,6.00,295585,https://www.beeradvocate.com/beer/profile/47176/295585/,Peach,47176,Bokkereyder,1,4.41
+374,6.00,325538,https://www.beeradvocate.com/beer/profile/51286/325538/,#23 Pomegranate Guava Sour,51286,Venn Brewing Co.,1,3.46
+375,6.00,291236,https://www.beeradvocate.com/beer/profile/952/291236/,Strawberry Tart,952,Great Dane Pub & Brewing Company (Downtown),1,3.64
+376,4.00,107175,https://www.beeradvocate.com/beer/profile/13423/107175/,Up A Kriek,13423,Roosters Brewing Company and Restaurant,1,3.39
+377, ? ,208553,https://www.beeradvocate.com/beer/profile/42533/208553/,Toon Van Den Broek Quetsche Lambiek,42533,Brouwerij / Stekerij Toon van den Broek,1,3.5
+378,4.00,341686,https://www.beeradvocate.com/beer/profile/47353/341686/,Cien Años De Soledad,47353,The Referend Bier Blendery,1,4.15
+379,5.00,299702,https://www.beeradvocate.com/beer/profile/25923/299702/,Tilquin Experimental Fruit Series #1 - Framboise Tilquin,25923,Gueuzerie Tilquin,1,3.75
+380,5.00,303030,https://www.beeradvocate.com/beer/profile/47408/303030/,La Mure,47408,Playalinda Brewing Company - The Brix Project,1,4.25
+381,6.00,200631,https://www.beeradvocate.com/beer/profile/9792/200631/,Peach Lambic,9792,Natty Greene's Pub & Brewing Co.,1,4.31
+382,6.70,311735,https://www.beeradvocate.com/beer/profile/49642/311735/,Makinaw Peach Sour Ale,49642,Annex Ale Project,1,4.07
+383,4.00,341688,https://www.beeradvocate.com/beer/profile/47353/341688/,Pink Tristram,47353,The Referend Bier Blendery,1,4.15
+384,8.70,272061,https://www.beeradvocate.com/beer/profile/38962/272061/,Sour Green Apple,38962,REV Brewing Co.,1,4
+385,4.80,290749,https://www.beeradvocate.com/beer/profile/45276/290749/,Cupid's Curse Strawberry Tart,45276,Chesapeake Brewing Company,1,4
+386,4.50,283336,https://www.beeradvocate.com/beer/profile/49247/283336/,Cherry Kriek,49247,Palink,1,3.16
+387,8.30,330962,https://www.beeradvocate.com/beer/profile/144/330962/,Touch of Blue,144,Sprecher Brewing Company,1,3.81
+388,6.70,297682,https://www.beeradvocate.com/beer/profile/44252/297682/,Carriage Barn Series American Sour,44252,Hogback Mountain Brewing,1,3.5
+389,6.50,112850,https://www.beeradvocate.com/beer/profile/20132/112850/,La Pommée,20132,Les Brasseurs Du Temps,1,3.25
+390, ? ,291540,https://www.beeradvocate.com/beer/profile/2216/291540/,Speling Van Het Lot III: Aardbei,2216,Brouwerij 3 Fonteinen,1,4.5
+391,4.50,223701,https://www.beeradvocate.com/beer/profile/26932/223701/,Berry Single,26932,Golden Road Brewing,1,4.18
+392,13.00,303574,https://www.beeradvocate.com/beer/profile/13307/303574/,Spontanpentradrupelraspberry,13307,Mikkeller ApS,1,4.39
+393,4.80,307420,https://www.beeradvocate.com/beer/profile/36045/307420/,Vyšniukas,36045,Armeniukas UAB,1,2.77
+394,5.50,208615,https://www.beeradvocate.com/beer/profile/23966/208615/,Grape Alalambic,23966,Blue Pants Brewery,1,3.94
+395,4.00,165099,https://www.beeradvocate.com/beer/profile/39146/165099/,Freddies Fruit Lager Wild Berry,39146,Premium Beverage Refreshments,1,3.13
+396,7.50,303595,https://www.beeradvocate.com/beer/profile/1114/303595/,Le Roar Grrrz Cassis,1114,Bullfrog Brewery,1,4.31
+397,8.00,212719,https://www.beeradvocate.com/beer/profile/149/212719/,Rouge De Bruxelles,149,Brasserie Lefèbvre SA,1,4.08
+398,5.00,61426,https://www.beeradvocate.com/beer/profile/14016/61426/,Lambagreenie,14016,The Mussel Inn,1,3.8
+399, ? ,321017,https://www.beeradvocate.com/beer/profile/47353/321017/,Gluhsanctus,47353,The Referend Bier Blendery,1,4.4
+400,5.00,291071,https://www.beeradvocate.com/beer/profile/32938/291071/,Meggyes Favágó,32938,Békésszentandrási Serfőzde (Agro Flott Bt.),1,3.74
+401, ? ,161035,https://www.beeradvocate.com/beer/profile/28036/161035/,La Sirène Chèrie Kriek,28036,La Sirène Brewing,0,0
+402,12.50,307470,https://www.beeradvocate.com/beer/profile/47176/307470/,Chardonnay Lambic,47176,Bokkereyder,0,0
+403,6.50,331279,https://www.beeradvocate.com/beer/profile/31540/331279/,The Sixth Peach,31540,de Garde Brewing,0,0
+404,6.50,335899,https://www.beeradvocate.com/beer/profile/42930/335899/,Earthbound Misfit with Cherums,42930,Beachwood Blendery,0,0
+405,5.50,137501,https://www.beeradvocate.com/beer/profile/25775/137501/,Dombic,25775,Brasseurs Du Monde,0,0
+406,5.00,317484,https://www.beeradvocate.com/beer/profile/51286/317484/,#13 Rasberry Sour,51286,Venn Brewing Co.,0,0
+407, ? ,240179,https://www.beeradvocate.com/beer/profile/28503/240179/,Raspberry Lambic,28503,Royal Gorge Brewing Co. & Restaurant,0,0
+408,4.80,299064,https://www.beeradvocate.com/beer/profile/45210/299064/,Le Raspberry Sour,45210,Old Stove Brewing Co.,0,0
+409,6.20,295483,https://www.beeradvocate.com/beer/profile/30185/295483/,Burst,30185,Great Rhythm Brewing Company,0,0
+410,5.20,203840,https://www.beeradvocate.com/beer/profile/9798/203840/,Framboise Lambic,9798,Carver Brewing Co.,0,0
+411, ? ,168256,https://www.beeradvocate.com/beer/profile/19868/168256/,Friar's Blessing Raspberry Lambic,19868,Whitstran Brewing Company,0,0
+412,6.00,203077,https://www.beeradvocate.com/beer/profile/4317/203077/,Montmorency Sour Cherry,4317,Six Rivers Brewery,0,0
+413,6.50,180560,https://www.beeradvocate.com/beer/profile/35596/180560/,Cherry Lambic,35596,Good Hops Brewing LLC,0,0
+414,4.20,191058,https://www.beeradvocate.com/beer/profile/1878/191058/,Framboise Lambic,1878,Propeller Brewery,0,0
+415,5.80,331875,https://www.beeradvocate.com/beer/profile/35874/331875/,Chartier,35874,Brewery Becker,0,0
+416,8.00,230243,https://www.beeradvocate.com/beer/profile/2299/230243/,Keyte Kriek Magic,2299,Brouwerij Strubbe,0,0
+417,7.70,190573,https://www.beeradvocate.com/beer/profile/13307/190573/,Sweet And Sour,13307,Mikkeller ApS,0,0
+418,5.50,289135,https://www.beeradvocate.com/beer/profile/30293/289135/,Old Salem Batch #5 Peach Sour,30293,Mayday Brewery,0,0
+419,5.60,322928,https://www.beeradvocate.com/beer/profile/47677/322928/,Soursop Tartè - Fruit Kettle Sour,47677,Flatland Brewery,0,0
+420, ? ,241021,https://www.beeradvocate.com/beer/profile/436/241021/,Mort Subite,436,Brouwerij Alken-Maes,0,0
+421,5.50,214655,https://www.beeradvocate.com/beer/profile/13307/214655/,SpontanVendersgade,13307,Mikkeller ApS,0,0
+422,5.50,214658,https://www.beeradvocate.com/beer/profile/13307/214658/,SpontanSukhumvit,13307,Mikkeller ApS,0,0
+423,4.40,328070,https://www.beeradvocate.com/beer/profile/50865/328070/,Lucky in Love,50865,Town Brewery,0,0
+424,4.50,282508,https://www.beeradvocate.com/beer/profile/40993/282508/,Blanche Framboise,40993,Le Triangle Restaurant & Microbrasserie,0,0
+425,4.50,194968,https://www.beeradvocate.com/beer/profile/11611/194968/,Brewers Creek,11611,Bridge Road Brewers,0,0
+426,5.60,332192,https://www.beeradvocate.com/beer/profile/30143/332192/,Crab/Cherry Sour,30143,Pike 51 Brewing Company,0,0
+427,4.50,204192,https://www.beeradvocate.com/beer/profile/43433/204192/,Vishnyovoye,43433,Blad Baher,0,0
+428,4.30,204196,https://www.beeradvocate.com/beer/profile/43433/204196/,Crazzzy Cherry,43433,Blad Baher,0,0
+429,5.80,151974,https://www.beeradvocate.com/beer/profile/1285/151974/,Milly's Blueberry/Raspberry/Lambics,1285,Stark Brewing Company,0,0
+430,5.50,313256,https://www.beeradvocate.com/beer/profile/24489/313256/,OWA Ichigo Lambic,24489,OWA Brewery SPRL,0,0
+431,5.50,307135,https://www.beeradvocate.com/beer/profile/16495/307135/,QV10,16495,À La Fût,0,0
+432,4.50,186578,https://www.beeradvocate.com/beer/profile/771/186578/,Lambic Framboises,771,Ferme Brasserie Schoune,0,0
+433,4.90,148697,https://www.beeradvocate.com/beer/profile/28091/148697/,Framboise Lambic,28091,Free Will Brewing Co.,0,0
+434,8.00,296670,https://www.beeradvocate.com/beer/profile/42886/296670/,Double Plum Sour,42886,Crucible Brewing,0,0
+435,6.00,320238,https://www.beeradvocate.com/beer/profile/47353/320238/,Tender Buttons - Vanilla,47353,The Referend Bier Blendery,0,0
+436,5.50,236016,https://www.beeradvocate.com/beer/profile/8768/236016/,Kelso Framboise,8768,Greenpoint Beerworks / Kelso of Brooklyn,0,0
+437,7.40,168177,https://www.beeradvocate.com/beer/profile/28843/168177/,Cranberry Kriek,28843,Westport Brewing,0,0
+438,5.50,204018,https://www.beeradvocate.com/beer/profile/23303/204018/,Lambic De Metropole,23303,Brasserie De Metropole,0,0
+439,5.40,235007,https://www.beeradvocate.com/beer/profile/30750/235007/,Amuse Gooseberry,30750,The Wild Beer Co.,0,0

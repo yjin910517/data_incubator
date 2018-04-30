@@ -1,0 +1,699 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,8.00,18975,https://www.beeradvocate.com/beer/profile/9897/18975/,Oro De Calabaza,9897,Jolly Pumpkin Artisan Ales,"1,814",4.12
+1,5.90,2961,https://www.beeradvocate.com/beer/profile/689/2961/,Domaine DuPage French Style Country Ale,689,Two Brothers Brewing Company,"1,546",3.81
+2,11.00,30955,https://www.beeradvocate.com/beer/profile/2958/30955/,Abbaye De Saint Bon-Chien,2958,BFM (Brasserie des Franches-Montagnes),"1,132",4.32
+3,6.20,51300,https://www.beeradvocate.com/beer/profile/192/51300/,Biere De Mars,192,New Belgium Brewing,758,3.65
+4,12.00,37198,https://www.beeradvocate.com/beer/profile/18149/37198/,Gift Of The Magi,18149,The Lost Abbey,751,3.82
+5,7.00,30423,https://www.beeradvocate.com/beer/profile/18149/30423/,Avant Garde,18149,The Lost Abbey,729,3.79
+6,6.10,27545,https://www.beeradvocate.com/beer/profile/9897/27545/,"Fuego Del Otono, Autumn Fire",9897,Jolly Pumpkin Artisan Ales,720,4.04
+7,7.00,25142,https://www.beeradvocate.com/beer/profile/9897/25142/,Bière De Mars,9897,Jolly Pumpkin Artisan Ales,696,4.15
+8,6.10,17442,https://www.beeradvocate.com/beer/profile/863/17442/,Perdition,863,Russian River Brewing Company,638,3.96
+9,7.00,77351,https://www.beeradvocate.com/beer/profile/22511/77351/,Biere De Norma,22511,Hill Farmstead Brewery,608,4.39
+10,8.50,1308,https://www.beeradvocate.com/beer/profile/260/1308/,3 Monts Flanders Golden Ale,260,Brasserie De Saint-Sylvestre,496,3.94
+11,8.50,723,https://www.beeradvocate.com/beer/profile/260/723/,Gavroche,260,Brasserie De Saint-Sylvestre,453,3.79
+12,6.50,31748,https://www.beeradvocate.com/beer/profile/42/31748/,Bière De Mars,42,Brewery Ommegang,404,3.86
+13,6.50,16786,https://www.beeradvocate.com/beer/profile/1628/16786/,Southampton Biere De Mars,1628,Southampton Publick House,396,3.76
+14,6.40,70001,https://www.beeradvocate.com/beer/profile/22150/70001/,Stillwater / Brewer's Art Debutante,22150,Stillwater Artisanal Ales,342,3.84
+15,7.50,27116,https://www.beeradvocate.com/beer/profile/309/27116/,Jenlain Ambrée,309,Brasserie Duyck,315,3.74
+16,7.20,7451,https://www.beeradvocate.com/beer/profile/813/7451/,Goudale,813,Les Brasseurs de Gayant,259,3.59
+17,7.00,39397,https://www.beeradvocate.com/beer/profile/583/39397/,Schlafly Bière De Garde,583,The Schlafly Tap Room,251,3.83
+18,8.30,159551,https://www.beeradvocate.com/beer/profile/24018/159551/,Reposé,24018,Jester King Brewery,231,4.22
+19,6.40,2360,https://www.beeradvocate.com/beer/profile/380/2360/,Castelain Blond Biere De Garde,380,Brasserie Castelain,222,3.86
+20,5.20,179006,https://www.beeradvocate.com/beer/profile/42/179006/,Grains Of Truth,42,Brewery Ommegang,220,3.95
+21,7.00,13813,https://www.beeradvocate.com/beer/profile/7548/13813/,Cuvée Des Jonquilles,7548,Brasserie Au Baron,186,4.11
+22,6.55,76047,https://www.beeradvocate.com/beer/profile/16759/76047/,Le Mort Vivant,16759,Southern Star Brewing Company,180,3.56
+23,7.00,88641,https://www.beeradvocate.com/beer/profile/30437/88641/,Holiday Ale,30437,Two Roads Brewing Company,172,3.7
+24,10.00,5630,https://www.beeradvocate.com/beer/profile/260/5630/,3 Monts Amber Ale On Lees,260,Brasserie De Saint-Sylvestre,161,3.99
+25,6.90,77049,https://www.beeradvocate.com/beer/profile/27934/77049/,Scratchin' Hippo,27934,Adelbert's Brewery,148,3.64
+26,6.50,65876,https://www.beeradvocate.com/beer/profile/24678/65876/,Contemplation Ale,24678,Brewery Vivant,146,3.66
+27,7.50,6919,https://www.beeradvocate.com/beer/profile/309/6919/,Jenlain Blonde,309,Brasserie Duyck,143,3.28
+28,7.00,4777,https://www.beeradvocate.com/beer/profile/1682/4777/,Les Bière Des Sans Culottes,1682,Brasserie La Choulette,139,4.01
+29,8.50,38903,https://www.beeradvocate.com/beer/profile/813/38903/,Saint Landelin La Divine,813,Les Brasseurs de Gayant,139,3.7
+30,6.00,84979,https://www.beeradvocate.com/beer/profile/22408/84979/,LA-31 Acadie,22408,Bayou Teche Brewery,133,3.39
+31,7.50,33855,https://www.beeradvocate.com/beer/profile/11974/33855/,Good Harbor Golden Ale,11974,Leelanau Brewing Company,127,4.15
+32,7.20,34956,https://www.beeradvocate.com/beer/profile/1628/34956/,Southampton Biere De Garde,1628,Southampton Publick House,125,3.87
+33,6.50,80050,https://www.beeradvocate.com/beer/profile/9730/80050/,Bellerose Biere Blonde Extra,9730,Brasserie des Sources,125,3.86
+34,7.20,11991,https://www.beeradvocate.com/beer/profile/741/11991/,Rendezvous,741,"Lakefront Brewery, Inc.",121,3.61
+35,7.00,59003,https://www.beeradvocate.com/beer/profile/287/59003/,Le Contrabassiste,287,Bell's Brewery - Eccentric Café & General Store,120,3.75
+36,7.80,189327,https://www.beeradvocate.com/beer/profile/31678/189327/,Le Woof,31678,Off Color Brewing,120,3.81
+37,7.00,3414,https://www.beeradvocate.com/beer/profile/1263/3414/,La Bavaisienne,1263,Brasserie Theillier,110,4.08
+38,4.00,79806,https://www.beeradvocate.com/beer/profile/26439/79806/,Space Cowboy Country Ale,26439,Oxbow Brewing Company,109,3.79
+39,8.50,144199,https://www.beeradvocate.com/beer/profile/141/144199/,Smuttynose Smistletoe,141,Smuttynose Brewing Company,106,3.86
+40,5.90,2429,https://www.beeradvocate.com/beer/profile/380/2429/,St. Amand,380,Brasserie Castelain,104,3.78
+41,8.00,5214,https://www.beeradvocate.com/beer/profile/1682/5214/,La Choulette Ambrée,1682,Brasserie La Choulette,97,3.96
+42,5.50,74993,https://www.beeradvocate.com/beer/profile/26439/74993/,Oxtoberfest,26439,Oxbow Brewing Company,93,3.83
+43,7.00,14430,https://www.beeradvocate.com/beer/profile/1682/14430/,La Choulette De Noël,1682,Brasserie La Choulette,91,3.83
+44,6.80,17291,https://www.beeradvocate.com/beer/profile/309/17291/,Jenlain Bière De Noël,309,Brasserie Duyck,88,3.52
+45,6.40,17369,https://www.beeradvocate.com/beer/profile/380/17369/,Ch'ti Blonde,380,Brasserie Castelain,87,3.51
+46,6.60,14851,https://www.beeradvocate.com/beer/profile/1628/14851/,French Country Christmas Ale (Biere De Garde),1628,Southampton Publick House,82,4.03
+47,5.80,9794,https://www.beeradvocate.com/beer/profile/4315/9794/,L'Ambrée D'Esquelbecq / Thiriez Amber,4315,Brasserie Thiriez,77,3.88
+48,6.50,63517,https://www.beeradvocate.com/beer/profile/23641/63517/,Spice Of Life,23641,Iron Fist Brewing Company,72,3.72
+49,9.80,219996,https://www.beeradvocate.com/beer/profile/140/219996/,Trip In The Woods: Bière De Garde (Aged In Red Wine Barrels),140,Sierra Nevada Brewing Co.,68,4.1
+50,7.50,5213,https://www.beeradvocate.com/beer/profile/1682/5213/,La Choulette Blonde,1682,Brasserie La Choulette,67,3.68
+51,7.00,39570,https://www.beeradvocate.com/beer/profile/4707/39570/,Bière De Garde,4707,Choc Beer Co. / Pete's Place,65,3.83
+52,5.50,222203,https://www.beeradvocate.com/beer/profile/689/222203/,A Bretter Day Biere De Mars Ale,689,Two Brothers Brewing Company,64,3.79
+53,5.40,16850,https://www.beeradvocate.com/beer/profile/309/16850/,Jenlain Bière De Printemps,309,Brasserie Duyck,63,3.31
+54,7.00,111588,https://www.beeradvocate.com/beer/profile/28019/111588/,Winter Garde,28019,Sante Adairius Rustic Ales,62,4.17
+55,6.00,91065,https://www.beeradvocate.com/beer/profile/26439/91065/,Blended Oxtoberfest,26439,Oxbow Brewing Company,61,3.94
+56,5.00,77369,https://www.beeradvocate.com/beer/profile/22408/77369/,Courir De Mardi Gras,22408,Bayou Teche Brewery,60,3.61
+57,7.80,15705,https://www.beeradvocate.com/beer/profile/997/15705/,Brewer's Art La Petroleuse,997,The Brewer's Art,60,3.96
+58,11.00,50013,https://www.beeradvocate.com/beer/profile/2958/50013/,Abbaye De Saint Bon-Chien Grand Cru (Aged In Vin Jaune Barrels),2958,BFM (Brasserie des Franches-Montagnes),59,4.09
+59,6.00,117785,https://www.beeradvocate.com/beer/profile/24678/117785/,North French Style Ale,24678,Brewery Vivant,57,3.95
+60,6.50,104438,https://www.beeradvocate.com/beer/profile/16773/104438/,Sweet Leif,16773,Local Option,57,3.71
+61,6.00,36700,https://www.beeradvocate.com/beer/profile/16031/36700/,L'Amalthée,16031,Brasserie Lebbe,55,4.11
+62,6.90,39234,https://www.beeradvocate.com/beer/profile/11872/39234/,Page 24 Réserve Hildegarde,11872,Brasserie Saint-Germain,54,3.75
+63,7.10,44140,https://www.beeradvocate.com/beer/profile/15642/44140/,Ovni Ale,15642,Flat Earth Brewing Company,53,3.73
+64,8.00,56728,https://www.beeradvocate.com/beer/profile/12547/56728/,Barrel Aged Maillot Jaune,12547,The Livery,48,3.77
+65,10.00,45480,https://www.beeradvocate.com/beer/profile/12351/45480/,Electrostatic,12351,Lightning Brewery,47,3.71
+66,7.00,94615,https://www.beeradvocate.com/beer/profile/30711/94615/,Biere De Garde,30711,Oast House Brewers,40,3.79
+67,10.00,147358,https://www.beeradvocate.com/beer/profile/33510/147358/,Kerstperiode,33510,Other Half Brewing Co.,40,3.78
+68,7.50,58978,https://www.beeradvocate.com/beer/profile/21448/58978/,Derailleur,21448,Ladyface Ale Companie,39,4.02
+69,7.35,116107,https://www.beeradvocate.com/beer/profile/32279/116107/,Martian Spring Bière De Mars,32279,Strangeways Brewing,39,3.82
+70,7.00,27898,https://www.beeradvocate.com/beer/profile/596/27898/,Portsmouth Bière De Garde,596,Portsmouth Brewery,38,3.86
+71,7.80,85021,https://www.beeradvocate.com/beer/profile/380/85021/,Grand Cru,380,Brasserie Castelain,37,3.77
+72,8.00,7491,https://www.beeradvocate.com/beer/profile/260/7491/,Bière Nouvelle,260,Brasserie De Saint-Sylvestre,37,3.74
+73,7.90,93584,https://www.beeradvocate.com/beer/profile/11872/93584/,Page 24 Brune,11872,Brasserie Saint-Germain,36,3.75
+74,5.50,84592,https://www.beeradvocate.com/beer/profile/470/84592/,Leffe Nectar,470,Abbaye de Leffe S.A.,35,3.19
+75,6.00,222620,https://www.beeradvocate.com/beer/profile/44865/222620/,Rubriq-a-brac,44865,Whiner Beer Company,35,3.8
+76,7.40,88306,https://www.beeradvocate.com/beer/profile/19765/88306/,Raven De Garde,19765,Black Raven Brewing Co.,33,3.82
+77,7.50,46515,https://www.beeradvocate.com/beer/profile/813/46515/,Saint Landelin Mythique,813,Les Brasseurs de Gayant,32,3.19
+78,6.00,51130,https://www.beeradvocate.com/beer/profile/11872/51130/,Page 24 Biere De Printemps,11872,Brasserie Saint-Germain,32,3.95
+79,6.70,137201,https://www.beeradvocate.com/beer/profile/35985/137201/,Old Guard,35985,Service Brewing Company,32,4.04
+80,8.00,68629,https://www.beeradvocate.com/beer/profile/309/68629/,Jenlain Or,309,Brasserie Duyck,31,3.53
+81,7.20,50233,https://www.beeradvocate.com/beer/profile/1114/50233/,French Kiss,1114,Bullfrog Brewery,31,3.8
+82,6.50,68240,https://www.beeradvocate.com/beer/profile/22511/68240/,Bière de Mars,22511,Hill Farmstead Brewery,31,3.85
+83,6.00,279300,https://www.beeradvocate.com/beer/profile/10321/279300/,Across The Nation Bière D'ici Honey Ale,10321,Central City Brewers + Distillers,28,3.4
+84,7.20,21523,https://www.beeradvocate.com/beer/profile/556/21523/,City Steam Careless Love,556,City Steam Brewery Café,28,4.01
+85,7.00,202042,https://www.beeradvocate.com/beer/profile/33521/202042/,Baron Corvo,33521,Right Proper Brewing Company - Shaw Brewpub,28,3.94
+86,6.60,83107,https://www.beeradvocate.com/beer/profile/22072/83107/,Bastille,22072,Revolution Brewing,28,3.63
+87,6.90,54368,https://www.beeradvocate.com/beer/profile/11872/54368/,Page 24 Bière De Noël,11872,Brasserie Saint-Germain,27,3.84
+88,6.90,42008,https://www.beeradvocate.com/beer/profile/11872/42008/,Page 24 Réserve Hildegarde Ambrée,11872,Brasserie Saint-Germain,26,3.65
+89,6.30,109873,https://www.beeradvocate.com/beer/profile/33736/109873/,Bière De Garde Ale,33736,Ponysaurus Brewing Co.,26,3.88
+90,7.00,35450,https://www.beeradvocate.com/beer/profile/12547/35450/,Maillot Jaune,12547,The Livery,26,3.65
+91,7.60,293509,https://www.beeradvocate.com/beer/profile/42/293509/,Bigger And Bretter,42,Brewery Ommegang,26,4.04
+92,7.00,97733,https://www.beeradvocate.com/beer/profile/12547/97733/,Maillot Rouge,12547,The Livery,26,4.24
+93,5.80,20239,https://www.beeradvocate.com/beer/profile/4315/20239/,La Rouge Flamande,4315,Brasserie Thiriez,25,3.92
+94,5.50,158996,https://www.beeradvocate.com/beer/profile/38717/158996/,Dear You,38717,Ratio Beerworks,25,3.88
+95,9.50,226590,https://www.beeradvocate.com/beer/profile/42559/226590/,Exile On Broad Street,42559,The Libertine Brewing Company,25,4.12
+96,6.50,230484,https://www.beeradvocate.com/beer/profile/31049/230484/,Chanterelle Biere De Garde,31049,Scratch Brewing Company,25,3.96
+97,6.30,106601,https://www.beeradvocate.com/beer/profile/26382/106601/,"""Keeper!""",26382,The Phoenix Ale Brewery,24,3.63
+98,7.00,18518,https://www.beeradvocate.com/beer/profile/9411/18518/,Angelus,9411,Brasserie D'Annoeulin,22,3.76
+99,7.10,116682,https://www.beeradvocate.com/beer/profile/33521/116682/,Lookaftering,33521,Right Proper Brewing Company - Shaw Brewpub,22,3.65
+100,7.00,42769,https://www.beeradvocate.com/beer/profile/6045/42769/,Biere De Garde,6045,Iron Hill Brewery & Restaurant,21,3.79
+101,7.60,106555,https://www.beeradvocate.com/beer/profile/31408/106555/,Wilderman,31408,Seventh Son Brewing Co.,21,3.75
+102,6.50,89904,https://www.beeradvocate.com/beer/profile/813/89904/,Abbaye De Vauclair Blonde,813,Les Brasseurs de Gayant,20,3.32
+103,7.70,186687,https://www.beeradvocate.com/beer/profile/24678/186687/,Verdun,24678,Brewery Vivant,20,3.8
+104,6.50,115822,https://www.beeradvocate.com/beer/profile/34186/115822/,Chateau Rouge,34186,Brasserie la Goutte d'Or,20,3.83
+105,6.60,209371,https://www.beeradvocate.com/beer/profile/41563/209371/,Barrel Aged Woodthrush,41563,Little Fish Brewing Company,20,4.02
+106,7.70,106729,https://www.beeradvocate.com/beer/profile/813/106729/,La Goudale De Noel,813,Les Brasseurs de Gayant,20,3.75
+107,7.50,33036,https://www.beeradvocate.com/beer/profile/1151/33036/,Surrender,1151,Piece Brewery & Pizzeria,19,3.64
+108,7.50,36761,https://www.beeradvocate.com/beer/profile/2700/36761/,Biere De Garde,2700,Taps Fish House & Brewery,19,3.66
+109,8.00,28317,https://www.beeradvocate.com/beer/profile/260/28317/,Brassin D'Hiver,260,Brasserie De Saint-Sylvestre,19,3.57
+110,6.50,48042,https://www.beeradvocate.com/beer/profile/16536/48042/,Sella Del Diavolo,16536,Birrificio Barley,19,3.67
+111,5.60,100059,https://www.beeradvocate.com/beer/profile/32499/100059/,Anton Francois French Ale,32499,Diebolt Brewing Company,19,3.64
+112,7.00,187100,https://www.beeradvocate.com/beer/profile/32249/187100/,L'automne,32249,Door County Brewing Co.,19,3.91
+113,7.20,218142,https://www.beeradvocate.com/beer/profile/26676/218142/,Harrow,26676,Kane Brewing Company,18,4
+114,7.00,64799,https://www.beeradvocate.com/beer/profile/2977/64799/,Pietra De Noel,2977,Brasserie Pietra,17,3.57
+115,5.40,77118,https://www.beeradvocate.com/beer/profile/19866/77118/,Kopstootje,19866,Upright Brewing Company,17,3.86
+116,8.10,144763,https://www.beeradvocate.com/beer/profile/34413/144763/,Elysium,34413,Broomtail Craft Brewery,17,4.85
+117,7.50,36061,https://www.beeradvocate.com/beer/profile/11611/36061/,Chevalier Biere De Garde,11611,Bridge Road Brewers,17,3.64
+118,7.00,80436,https://www.beeradvocate.com/beer/profile/28214/80436/,Mill Street Ambre De La Chaudiere,28214,Mill Street Brew Pub,16,3.7
+119,7.10,133721,https://www.beeradvocate.com/beer/profile/33902/133721/,BdG 1 Biere De Garde,33902,Transmitter Brewing,16,3.96
+120,6.70,67473,https://www.beeradvocate.com/beer/profile/1498/67473/,Kronenbourg 1664 Millésime,1498,Brasseries Kronenbourg,16,2.99
+121,7.50,13249,https://www.beeradvocate.com/beer/profile/1304/13249/,Bridal Ale,1304,Pelican Pub & Brewery,16,3.7
+122,7.20,167900,https://www.beeradvocate.com/beer/profile/32480/167900/,Rye't Off,32480,Taxman Brewing Co.,16,3.89
+123,6.80,169712,https://www.beeradvocate.com/beer/profile/36738/169712/,Bière De Garde,36738,Sugar Creek Brewing Company,16,3.76
+124,7.00,191996,https://www.beeradvocate.com/beer/profile/32480/191996/,DeFallt,32480,Taxman Brewing Co.,16,3.84
+125,5.80,108569,https://www.beeradvocate.com/beer/profile/31790/108569/,Biere De Garde,31790,High Cotton Brewing Co.,15,3.85
+126,8.00,118565,https://www.beeradvocate.com/beer/profile/19143/118565/,Anosteke Biere De Garde,19143,La Brasserie du Pays Flamand,15,3.86
+127,8.20,114531,https://www.beeradvocate.com/beer/profile/2593/114531/,Life On Mars,2593,Wild Rose Brewery & Taproom,15,3.83
+128,5.70,91778,https://www.beeradvocate.com/beer/profile/29556/91778/,Spring Ale,29556,Back East Brewing Company,15,3.67
+129,5.00,95640,https://www.beeradvocate.com/beer/profile/30452/95640/,Alex Biere Du Soleil Ale,30452,SingleCut Beersmiths,15,3.96
+130,7.20,109255,https://www.beeradvocate.com/beer/profile/28383/109255/,Circumambulation,28383,Tired Hands Brewing Company,15,3.64
+131,6.90,246501,https://www.beeradvocate.com/beer/profile/31049/246501/,Black Trumpet Bière De Mars,31049,Scratch Brewing Company,15,3.94
+132,5.90,65364,https://www.beeradvocate.com/beer/profile/9730/65364/,French Country Ale,9730,Brasserie des Sources,14,3.35
+133,8.00,125843,https://www.beeradvocate.com/beer/profile/31872/125843/,Les Portes De L'Enfer,31872,Stack Brewing,14,3.98
+134,10.00,156569,https://www.beeradvocate.com/beer/profile/33510/156569/,Rum Barrel-Aged Kerstperiode,33510,Other Half Brewing Co.,14,3.79
+135, ? ,99888,https://www.beeradvocate.com/beer/profile/21868/99888/,Biere De Garde,21868,Back Forty Beer Co.,13,3.43
+136, ? ,318877,https://www.beeradvocate.com/beer/profile/41980/318877/,General Store,41980,Suarez Family Brewery,13,4.12
+137,5.80,320982,https://www.beeradvocate.com/beer/profile/18149/320982/,Farmhouse Lager,18149,The Lost Abbey,13,3.73
+138,8.90,244700,https://www.beeradvocate.com/beer/profile/199/244700/,Roots To Boots: Biere De Garde,199,Ballast Point Brewing Company,13,3.98
+139,6.70,98557,https://www.beeradvocate.com/beer/profile/9784/98557/,Keeper,9784,Zero Gravity Craft Brewery / American Flatbread,13,3.71
+140,8.00,44638,https://www.beeradvocate.com/beer/profile/9880/44638/,Mandrin Au Sapin,9880,Brasserie Artisanale Du Dauphiné,12,3.56
+141,8.30,147304,https://www.beeradvocate.com/beer/profile/34765/147304/,Celestis Thesauri,34765,Save The World Brewing Company,12,4.07
+142,6.90,143752,https://www.beeradvocate.com/beer/profile/33707/143752/,Biere De Garde,33707,Tributary Brewing Co.,12,3.89
+143,7.60,149645,https://www.beeradvocate.com/beer/profile/32656/149645/,Biere De Wassail,32656,Arizona Wilderness Brewing Co.,12,3.75
+144,6.50,79298,https://www.beeradvocate.com/beer/profile/15834/79298/,Dude De Garde,15834,Dock Street Brewery & Restaurant,12,3.83
+145,7.00,56307,https://www.beeradvocate.com/beer/profile/9730/56307/,L'abbatiale Triple Blonde,9730,Brasserie des Sources,12,3.26
+146,6.50,58701,https://www.beeradvocate.com/beer/profile/1263/58701/,La Bavaisienne Bière Ambrée,1263,Brasserie Theillier,11,3.79
+147,6.60,95573,https://www.beeradvocate.com/beer/profile/1619/95573/,Biere De Garde,1619,C.H. Evans Brewing Company,11,4
+148,5.70,259440,https://www.beeradvocate.com/beer/profile/37507/259440/,Bière de Garde,37507,The Collective Brewing Project,11,3.37
+149,7.20,153986,https://www.beeradvocate.com/beer/profile/33521/153986/,Lou,33521,Right Proper Brewing Company - Shaw Brewpub,11,3.87
+150,6.40,18057,https://www.beeradvocate.com/beer/profile/380/18057/,Ch'ti Brune,380,Brasserie Castelain,11,3.41
+151,5.10,118668,https://www.beeradvocate.com/beer/profile/31093/118668/,Ruck Stop,31093,MadTree Brewing,11,3.79
+152,7.00,16527,https://www.beeradvocate.com/beer/profile/9192/16527/,Northmaen Rousse,9192,Brasserie De La Chapelle,11,3.69
+153,9.10,137697,https://www.beeradvocate.com/beer/profile/29021/137697/,Biere De Creek,29021,Neshaminy Creek Brewing Company,11,3.72
+154,7.00,165889,https://www.beeradvocate.com/beer/profile/32499/165889/,Figgy Noir - Bourbon Barrel Aged,32499,Diebolt Brewing Company,10,3.79
+155,5.00,43268,https://www.beeradvocate.com/beer/profile/17086/43268/,Ambrèe,17086,"Bières 23, Brasserie Artisanale",10,3.6
+156,6.00,92203,https://www.beeradvocate.com/beer/profile/27866/92203/,Sovina Amber,27866,Os Três Cervejeiros,10,3.71
+157,10.00,55600,https://www.beeradvocate.com/beer/profile/1872/55600/,Cuvee McK,1872,McKenzie Brew House,10,4.14
+158,7.70,39224,https://www.beeradvocate.com/beer/profile/380/39224/,Maltesse,380,Brasserie Castelain,10,3.43
+159,7.00,266588,https://www.beeradvocate.com/beer/profile/36949/266588/,Biere De Garde,36949,Holy Mountain Brewing Company,10,4.09
+160, ? ,131958,https://www.beeradvocate.com/beer/profile/29656/131958/,La Dame Du Bois,29656,Lakewood Brewing Company,10,3.94
+161,6.80,96923,https://www.beeradvocate.com/beer/profile/30584/96923/,Foreplay Belgian Blond,30584,Thorn Street Brewery,10,3.69
+162,9.00,84928,https://www.beeradvocate.com/beer/profile/23459/84928/,Ale Des Dieux,23459,Hermitage Brewing,10,3.2
+163,5.50,116191,https://www.beeradvocate.com/beer/profile/997/116191/,Biere De Mars,997,The Brewer's Art,10,3.71
+164,6.30,140102,https://www.beeradvocate.com/beer/profile/35479/140102/,Biere De Garde,35479,Farnam House Brewing Company,9,3.93
+165,6.80,43640,https://www.beeradvocate.com/beer/profile/17310/43640/,Prickly Moses Reserve De Otway,17310,Otway Estate Winery & Brewery,9,3.75
+166,4.50,48558,https://www.beeradvocate.com/beer/profile/9192/48558/,Northmæn Blonde,9192,Brasserie De La Chapelle,9,3.45
+167,8.00,114863,https://www.beeradvocate.com/beer/profile/26850/114863/,Fancy Lawyer Terms,26850,Against The Grain Brewery & Smokehouse,9,3.6
+168,6.80,196795,https://www.beeradvocate.com/beer/profile/24803/196795/,"En Garde, Connards!",24803,Mystic Brewery,9,3.96
+169,7.00,199617,https://www.beeradvocate.com/beer/profile/29269/199617/,L'Angelus Au Froment,29269,Brasserie Lepers,9,3.82
+170,9.00,219688,https://www.beeradvocate.com/beer/profile/36710/219688/,I Think I'm French,36710,J. Wakefield Brewing,8,3.73
+171,7.50,78138,https://www.beeradvocate.com/beer/profile/24517/78138/,Biere De Mars,24517,White Bluffs Brewing Company,8,4.09
+172,5.50,79186,https://www.beeradvocate.com/beer/profile/4315/79186/,Thiriez La BiObière,4315,Brasserie Thiriez,8,3.65
+173,11.00,310123,https://www.beeradvocate.com/beer/profile/2958/310123/,Abbaye de Saint Bon-Chien (20th Anniversary Edition),2958,BFM (Brasserie des Franches-Montagnes),8,4.5
+174,8.40,230581,https://www.beeradvocate.com/beer/profile/28657/230581/,Soul Foudre With Boysenberries,28657,Monkish Brewing Co.,8,4.38
+175,6.70,69828,https://www.beeradvocate.com/beer/profile/24517/69828/,Bierre De Garde,24517,White Bluffs Brewing Company,8,4.03
+176,6.00,16888,https://www.beeradvocate.com/beer/profile/9297/16888/,Blonde Du Bouffay,9297,Brasserie du Bouffay,8,3.65
+177,6.00,302593,https://www.beeradvocate.com/beer/profile/26932/302593/,Beerland Doña Neta,26932,Golden Road Brewing,7,3.55
+178,5.30,130074,https://www.beeradvocate.com/beer/profile/29347/130074/,Ce N’est Pas IPA,29347,Browar Pinta,7,2.97
+179,6.50,164394,https://www.beeradvocate.com/beer/profile/7008/164394/,Biere De Garde,7008,Pump House Brewery,7,3.85
+180,7.00,301355,https://www.beeradvocate.com/beer/profile/28383/301355/,Tone Poem,28383,Tired Hands Brewing Company,7,4
+181,7.20,234797,https://www.beeradvocate.com/beer/profile/813/234797/,La Blonde De Ch'nord,813,Les Brasseurs de Gayant,7,3.09
+182,7.50,111407,https://www.beeradvocate.com/beer/profile/1897/111407/,Coreff Dramm Hud,1897,Brasserie Coreff,7,3.75
+183,8.50,253501,https://www.beeradvocate.com/beer/profile/380/253501/,Grand Cru Aux Houblons Des Flandres,380,Brasserie Castelain,7,3.49
+184,7.50,260170,https://www.beeradvocate.com/beer/profile/28192/260170/,Imagined History,28192,Urban Family Brewing Co.,7,3.93
+185,7.00,34661,https://www.beeradvocate.com/beer/profile/603/34661/,Biere De Noel,603,Church Brew Works,7,4.19
+186,6.50,50021,https://www.beeradvocate.com/beer/profile/16055/50021/,Forårsbryg,16055,Amager Bryghus,7,3.61
+187,10.50,136054,https://www.beeradvocate.com/beer/profile/28018/136054/,Bière De Garde,28018,Rapp Brewing Company,7,3.75
+188,8.20,81272,https://www.beeradvocate.com/beer/profile/26850/81272/,Oaken Dagger,26850,Against The Grain Brewery & Smokehouse,7,3.62
+189,6.30,266877,https://www.beeradvocate.com/beer/profile/39318/266877/,Marcescent,39318,Deciduous Brewing Company,7,3.86
+190,8.40,231296,https://www.beeradvocate.com/beer/profile/28657/231296/,Soul Foudre With Cherries,28657,Monkish Brewing Co.,7,3.89
+191,6.10,255666,https://www.beeradvocate.com/beer/profile/40326/255666/,Laughter & Forgetting,40326,Brick & Feather Brewery,7,3.75
+192,5.40,17852,https://www.beeradvocate.com/beer/profile/1140/17852/,Oliver's Biere De Garde,1140,Pratt Street Ale House,7,3.92
+193,6.10,221388,https://www.beeradvocate.com/beer/profile/41563/221388/,Woodthrush,41563,Little Fish Brewing Company,7,3.88
+194,6.20,272618,https://www.beeradvocate.com/beer/profile/40326/272618/,Recreational Intellectual,40326,Brick & Feather Brewery,7,4
+195,5.50,260352,https://www.beeradvocate.com/beer/profile/24803/260352/,La Soledad,24803,Mystic Brewery,6,3.71
+196,5.50,51459,https://www.beeradvocate.com/beer/profile/910/51459/,Farmhouse Ale,910,Thirsty Bear Brewing Company,6,3.99
+197,7.80,297749,https://www.beeradvocate.com/beer/profile/34456/297749/,Booger Hill,34456,Creature Comforts,6,3.99
+198,7.40,39227,https://www.beeradvocate.com/beer/profile/36/39227/,La Géante,36,Brasserie Grain d' Orge (Brasserie Jeanne d'Arc SA),6,3.46
+199, ? ,90693,https://www.beeradvocate.com/beer/profile/1337/90693/,Draft Punk,1337,Pizza Port Solana Beach,6,3.16
+200,8.00,324949,https://www.beeradvocate.com/beer/profile/26/324949/,Argues For Sport,26,3 Floyds Brewing Co.,6,4.27
+201,5.50,201049,https://www.beeradvocate.com/beer/profile/42559/201049/,1234 Broad Street,42559,The Libertine Brewing Company,6,3.97
+202,6.90,127848,https://www.beeradvocate.com/beer/profile/30283/127848/,Helms En Garde,30283,Helm's Brewing Co.,6,3.47
+203,7.50,121961,https://www.beeradvocate.com/beer/profile/32495/121961/,La Rive Du Sud Bière De Garde,32495,Boxing Rock Brewing Co.,6,3.9
+204,5.90,207216,https://www.beeradvocate.com/beer/profile/29200/207216/,Biere De Garde,29200,Tahoe Mountain Brewing Co.,6,3.86
+205,8.40,231299,https://www.beeradvocate.com/beer/profile/28657/231299/,Soul Foudre With Blueberry,28657,Monkish Brewing Co.,6,4.3
+206,6.20,51355,https://www.beeradvocate.com/beer/profile/9775/51355/,Bière D'Abbaye,9775,Brasserie de Saint-Omer,6,3.5
+207,9.00,123551,https://www.beeradvocate.com/beer/profile/26850/123551/,Schmancy Slurrier Terms,26850,Against The Grain Brewery & Smokehouse,6,3.83
+208,6.00,53184,https://www.beeradvocate.com/beer/profile/11212/53184/,Biere De Garde,11212,Iron Horse Brewery,6,3.55
+209,7.00,89047,https://www.beeradvocate.com/beer/profile/30465/89047/,B.A.L Ambrée,30465,Brasserie Artisanale Du Luberon,6,3.24
+210,7.20,94433,https://www.beeradvocate.com/beer/profile/24055/94433/,French Connection,24055,Lucette Brewing Company,6,3.89
+211,8.90,188399,https://www.beeradvocate.com/beer/profile/4861/188399/,Chicken Dancer,4861,Frankenmuth Brewery,6,3.9
+212,6.00,176373,https://www.beeradvocate.com/beer/profile/22408/176373/,Cop Cop,22408,Bayou Teche Brewery,6,3.62
+213,8.20,155909,https://www.beeradvocate.com/beer/profile/3353/155909/,Leroy,3353,Rockyard Brewing,5,3.6
+214,7.40,170255,https://www.beeradvocate.com/beer/profile/16094/170255/,Bier De Mars,16094,Double Mountain Brewery & Taproom,5,3.65
+215, ? ,118803,https://www.beeradvocate.com/beer/profile/29403/118803/,Brome,29403,One Trick Pony,5,4.05
+216,9.20,163863,https://www.beeradvocate.com/beer/profile/32279/163863/,Room 237 Bière D'Hiver,32279,Strangeways Brewing,5,3.67
+217,6.80,109083,https://www.beeradvocate.com/beer/profile/309/109083/,Jenlain Winter Ale,309,Brasserie Duyck,5,3.46
+218,8.00,142124,https://www.beeradvocate.com/beer/profile/24454/142124/,Full Broadside,24454,Reaver Beach Brewing Company,5,3.79
+219,6.00,264514,https://www.beeradvocate.com/beer/profile/689/264514/,Zut Alors,689,Two Brothers Brewing Company,5,3.7
+220,6.10,134478,https://www.beeradvocate.com/beer/profile/25712/134478/,Bier De Garde,25712,Martin City Brewing Company,5,3.95
+221,7.10,265562,https://www.beeradvocate.com/beer/profile/31674/265562/,Biere De Garde,31674,Shacklands Brewing Company,5,3.71
+222,6.60,80270,https://www.beeradvocate.com/beer/profile/309/80270/,Abbaye De Fontenelle Biere Blonde,309,Brasserie Duyck,5,3.17
+223,5.50,236687,https://www.beeradvocate.com/beer/profile/30711/236687/,Biere De Mars,30711,Oast House Brewers,5,3.93
+224,8.30,241050,https://www.beeradvocate.com/beer/profile/18120/241050/,Mad Ear,18120,Trinity Brewing Company,5,4
+225,5.50,39585,https://www.beeradvocate.com/beer/profile/9297/39585/,L'Orge Du Bouffay,9297,Brasserie du Bouffay,5,3.98
+226,8.50,46516,https://www.beeradvocate.com/beer/profile/813/46516/,La Démon,813,Les Brasseurs de Gayant,5,2.77
+227,7.90,100281,https://www.beeradvocate.com/beer/profile/26934/100281/,Operation Quicksilver,26934,Black Acre Brewing Co.,5,4.06
+228,8.00,146118,https://www.beeradvocate.com/beer/profile/30379/146118/,Bearded Guard,30379,Amplified Ale Works,5,3.9
+229,8.50,109770,https://www.beeradvocate.com/beer/profile/380/109770/,La Charnue,380,Brasserie Castelain,5,3.17
+230,7.20,277451,https://www.beeradvocate.com/beer/profile/48745/277451/,Rascal Prince,48745,New Anthem Beer Project,5,3.69
+231,7.50,260558,https://www.beeradvocate.com/beer/profile/813/260558/,Abbaye De Vauclair Imperiale,813,Les Brasseurs de Gayant,5,3.76
+232,6.20,58333,https://www.beeradvocate.com/beer/profile/6578/58333/,Cambridge House Farmer's Daughter,6578,The Cambridge House Brewpub,5,3.84
+233, ? ,78845,https://www.beeradvocate.com/beer/profile/2700/78845/,Biere De Lux,2700,Taps Fish House & Brewery,5,4.38
+234,7.90,129543,https://www.beeradvocate.com/beer/profile/11872/129543/,Page 24 Barrel-Aged Brune (Burgundy),11872,Brasserie Saint-Germain,4,3.63
+235, ? ,97040,https://www.beeradvocate.com/beer/profile/15205/97040/,Biere De Garde,15205,Tri-City Brewing Company,4,3.59
+236,7.00,323602,https://www.beeradvocate.com/beer/profile/25191/323602/,Biere De Garde,25191,Crooked Stave Artisan Beer Project,4,3.97
+237,6.10,179990,https://www.beeradvocate.com/beer/profile/24817/179990/,En Garde,24817,Bonfire Brewing Co.,4,3.71
+238,7.00,74524,https://www.beeradvocate.com/beer/profile/1682/74524/,Hé Biloute T'es D'min Coin,1682,Brasserie La Choulette,4,2.87
+239,8.40,138543,https://www.beeradvocate.com/beer/profile/36800/138543/,Farmhouse Rouge,36800,Butcher & the Brewer,4,3.44
+240,8.10,116798,https://www.beeradvocate.com/beer/profile/32499/116798/,À Votre Santé,32499,Diebolt Brewing Company,4,4.04
+241,7.20,300865,https://www.beeradvocate.com/beer/profile/50398/300865/,Form Extra,50398,Fermentery Form,4,4.35
+242,7.60,157516,https://www.beeradvocate.com/beer/profile/1135/157516/,Crimson Guard,1135,"Franklin's Restaurant, Brewery & General Store",4,3.6
+243,8.50,260173,https://www.beeradvocate.com/beer/profile/47553/260173/,Palimpsest,47553,Cellador Ales,4,4.2
+244,6.60,93016,https://www.beeradvocate.com/beer/profile/10271/93016/,Pardon My French,10271,Silver Moon Brewing,4,3.71
+245,4.25,117366,https://www.beeradvocate.com/beer/profile/32115/117366/,Bastille,32115,Homestead Beer Co.,4,3.6
+246,6.50,63351,https://www.beeradvocate.com/beer/profile/19139/63351/,La Clandestine,19139,Brasserie Des Vignes,4,3.38
+247,6.50,94584,https://www.beeradvocate.com/beer/profile/1838/94584/,Biere De Mars,1838,Bloomington Brewing Company,4,3.68
+248, ? ,196735,https://www.beeradvocate.com/beer/profile/22408/196735/,Dat Biere,22408,Bayou Teche Brewery,4,3.88
+249,5.70,151939,https://www.beeradvocate.com/beer/profile/30047/151939/,Alexander Ambree,30047,Alexander,4,3.39
+250,6.60,173203,https://www.beeradvocate.com/beer/profile/31049/173203/,Cherry Bark Biere De Garde,31049,Scratch Brewing Company,4,4.14
+251,6.00,140950,https://www.beeradvocate.com/beer/profile/30921/140950/,Guard Your Beer,30921,Appalachian Mountain Brewery,4,3.92
+252,5.70,334488,https://www.beeradvocate.com/beer/profile/45647/334488/,Euro-Treasure,45647,Holler Brewing Co.,4,4.22
+253,8.00,265627,https://www.beeradvocate.com/beer/profile/34658/265627/,Bière De Hog - Barrel-Aged,34658,Black Hog Brewing Co.,4,4
+254, ? ,68016,https://www.beeradvocate.com/beer/profile/9282/68016/,Boscos Biere De Garde,9282,Boscos Restaurant & Brewing Co.,4,3.78
+255,5.50,195261,https://www.beeradvocate.com/beer/profile/29618/195261/,Biere De Garde,29618,The Libertine Pub,4,3.94
+256,7.80,248770,https://www.beeradvocate.com/beer/profile/33530/248770/,Liberte Egalite Fraternite,33530,Wolf's Ridge Brewing,4,4.12
+257,6.80,166860,https://www.beeradvocate.com/beer/profile/24802/166860/,Iron Garde,24802,Idle Hands Craft Ales,4,3.92
+258,5.80,320213,https://www.beeradvocate.com/beer/profile/28439/320213/,Hierophant,28439,TRVE Brewing Co.,4,4.39
+259,5.30,45279,https://www.beeradvocate.com/beer/profile/18189/45279/,Biere D'Earth,18189,Earth Bread + Brewery,4,3.81
+260,6.00,217060,https://www.beeradvocate.com/beer/profile/40326/217060/,Biere De Torment,40326,Brick & Feather Brewery,4,3.72
+261,8.80,315109,https://www.beeradvocate.com/beer/profile/28091/315109/,Biere'ded Phantom,28091,Free Will Brewing Co.,4,3.98
+262,6.70,289515,https://www.beeradvocate.com/beer/profile/34426/289515/,De Garde De Faith,34426,Jailbreak Brewing Company,4,3.77
+263,5.50,280556,https://www.beeradvocate.com/beer/profile/44293/280556/,Bier De Garde,44293,Interboro Spirits and Ales,4,3.8
+264,6.60,277997,https://www.beeradvocate.com/beer/profile/48949/277997/,Knox,48949,Battery Steele Brewing,4,3.86
+265,7.00,133361,https://www.beeradvocate.com/beer/profile/33476/133361/,Biere De Garde,33476,3 Daughters Brewing,4,3.81
+266,6.80,277493,https://www.beeradvocate.com/beer/profile/45649/277493/,Keera's Yard,45649,Atwood Ales,4,4
+267,6.00,47352,https://www.beeradvocate.com/beer/profile/19143/47352/,La Bracine Blonde,19143,La Brasserie du Pays Flamand,4,3.7
+268,8.10,122107,https://www.beeradvocate.com/beer/profile/5275/122107/,Low Country,5275,Front Street Brewery,4,3.65
+269,6.80,241153,https://www.beeradvocate.com/beer/profile/45544/241153/,La Guardia Rubia,45544,Cervecería Cruz Blanca,3,4.08
+270,7.50,64777,https://www.beeradvocate.com/beer/profile/23195/64777/,Gatto Mao,23195,Birrificio Dada,3,3.75
+271,6.80,101136,https://www.beeradvocate.com/beer/profile/30882/101136/,Mielito,30882,Branchline Brewing Co.,3,3.75
+272,7.50,104209,https://www.beeradvocate.com/beer/profile/36/104209/,Septante 5 Ambrée,36,Brasserie Grain d' Orge (Brasserie Jeanne d'Arc SA),3,3.28
+273,8.50,289812,https://www.beeradvocate.com/beer/profile/260/289812/,3 Monts,260,Brasserie De Saint-Sylvestre,3,3.01
+274,6.80,119062,https://www.beeradvocate.com/beer/profile/31049/119062/,Biere De Garde,31049,Scratch Brewing Company,3,3.37
+275, ? ,145703,https://www.beeradvocate.com/beer/profile/30914/145703/,Barrel Aged Cheval Deux,30914,Horse Thief Hollow,3,3.58
+276,6.10,296488,https://www.beeradvocate.com/beer/profile/32326/296488/,Biere De Dunes,32326,Tapistry Brewing,3,3.42
+277,7.70,40750,https://www.beeradvocate.com/beer/profile/1872/40750/,Bier D'Hiver,1872,McKenzie Brew House,3,4.21
+278,7.50,193849,https://www.beeradvocate.com/beer/profile/42358/193849/,Stella Maris,42358,Distillerie Fils du Roy,3,3.75
+279,5.80,42042,https://www.beeradvocate.com/beer/profile/380/42042/,Artisan Brasseur Biere Ambree,380,Brasserie Castelain,3,3.36
+280,9.80,324421,https://www.beeradvocate.com/beer/profile/44765/324421/,Cultivated Moments of Gravity,44765,Bhramari Brewing Co,3,4.27
+281,8.00,247625,https://www.beeradvocate.com/beer/profile/26774/247625/,The Mountie,26774,Sawdust City Brewing Co.,3,4.17
+282,7.00,306250,https://www.beeradvocate.com/beer/profile/41563/306250/,Barrel Aged Woodthrush w/ Black Currant,41563,Little Fish Brewing Company,3,3.99
+283,6.50,13650,https://www.beeradvocate.com/beer/profile/7380/13650/,La Rebelle,7380,Brasserie De Milly,3,3.65
+284,6.60,282451,https://www.beeradvocate.com/beer/profile/31049/282451/,Wild Cherry Biere De Garde (Dark Matter Coffee),31049,Scratch Brewing Company,3,4.3
+285,6.20,186963,https://www.beeradvocate.com/beer/profile/40373/186963/,Old Garde,40373,Cloudwater Brew Co.,3,4.08
+286,5.90,179300,https://www.beeradvocate.com/beer/profile/35025/179300/,Strawberry Bieres De Garde,35025,Miner Brewing Company,3,3.43
+287,8.50,321636,https://www.beeradvocate.com/beer/profile/44946/321636/,The Old Garde,44946,Drafting Table Brewing Company,3,4.24
+288,5.00,92522,https://www.beeradvocate.com/beer/profile/9446/92522/,Au Miel De Châtaignier,9446,Brasserie Bourganel,3,4.03
+289, ? ,331127,https://www.beeradvocate.com/beer/profile/22511/331127/,Biére de Norma: Elderberry,22511,Hill Farmstead Brewery,3,4.48
+290,7.50,69506,https://www.beeradvocate.com/beer/profile/9411/69506/,Angélus De Noël,9411,Brasserie D'Annoeulin,3,4.08
+291,8.40,231298,https://www.beeradvocate.com/beer/profile/28657/231298/,Soul Foudre With Peach,28657,Monkish Brewing Co.,3,4.57
+292, ? ,218514,https://www.beeradvocate.com/beer/profile/44266/218514/,Biere De Garde,44266,White Elm Brewing Company,3,3.92
+293,8.50,307859,https://www.beeradvocate.com/beer/profile/50242/307859/,Bier De Garde - Bruin (blend 2),50242,1840 Brewing Company,3,4.3
+294,7.00,113563,https://www.beeradvocate.com/beer/profile/456/113563/,Bière De Garde,456,Trinity Brewhouse,3,3.44
+295,6.00,151717,https://www.beeradvocate.com/beer/profile/38227/151717/,Biere De Garde,38227,Strange Fellows Brewing,3,3.83
+296,5.00,235686,https://www.beeradvocate.com/beer/profile/36847/235686/,Flores,36847,The Good Beer Company,3,3.65
+297,5.80,67753,https://www.beeradvocate.com/beer/profile/24075/67753/,Bastille,24075,Funkwerks,3,4.02
+298,5.80,282283,https://www.beeradvocate.com/beer/profile/16354/282283/,Goon Juice,16354,COAST Brewing Company,3,4.1
+299,6.70,287916,https://www.beeradvocate.com/beer/profile/47475/287916/,Biere De Mars,47475,Dialogue Brewing,3,3.62
+300,5.10,173484,https://www.beeradvocate.com/beer/profile/32148/173484/,Eccentricity,32148,The Actual Brewing Co.,3,3.94
+301,7.00,332981,https://www.beeradvocate.com/beer/profile/42756/332981/,Avant-Garden,42756,Corridor Brewery & Provisions,3,3.42
+302,6.70,139446,https://www.beeradvocate.com/beer/profile/25435/139446/,The Innkeeper's Biere De Garde,25435,Turkey Hill Brewing Co. Pub & Grille,3,3.78
+303,5.40,221880,https://www.beeradvocate.com/beer/profile/9784/221880/,Bière De Mars,9784,Zero Gravity Craft Brewery / American Flatbread,3,3.69
+304,6.20,250819,https://www.beeradvocate.com/beer/profile/34006/250819/,VENTOUX,34006,Funk Brewing Company,3,3.66
+305,8.40,154060,https://www.beeradvocate.com/beer/profile/32499/154060/,Biere De Triomphe - Cabernet Aged,32499,Diebolt Brewing Company,3,3.9
+306,5.60,46030,https://www.beeradvocate.com/beer/profile/11434/46030/,Korlène,11434,Brasserie Du Canardou,3,3.51
+307,5.10,264406,https://www.beeradvocate.com/beer/profile/43128/264406/,Vye-Olent World,43128,Bone Up Brewing Company,3,3.76
+308,7.00,31709,https://www.beeradvocate.com/beer/profile/1682/31709/,La Porte Du Hainaut Ambrée,1682,Brasserie La Choulette,3,3.58
+309,6.70,59620,https://www.beeradvocate.com/beer/profile/21834/59620/,Ambacht Black Gold Porter,21834,Ambacht Brewing,3,4.22
+310,6.50,104939,https://www.beeradvocate.com/beer/profile/16445/104939/,Vivat,16445,Brasserie historique de l'Abbaye du Cateau,3,3.51
+311,4.50,216566,https://www.beeradvocate.com/beer/profile/380/216566/,Biere Blonde Pur Malt Jade,380,Brasserie Castelain,3,3.19
+312,8.50,312572,https://www.beeradvocate.com/beer/profile/10284/312572/,Brain Bread,10284,Independence Brewing Co.,3,3.74
+313,5.60,289025,https://www.beeradvocate.com/beer/profile/27844/289025/,Conversation 16,27844,Round Guys Brewing Company,2,3.56
+314,7.00,165638,https://www.beeradvocate.com/beer/profile/34964/165638/,Biere De Mars,34964,Mexitaly,2,3.67
+315,7.00,287495,https://www.beeradvocate.com/beer/profile/40393/287495/,Biere De Avant Gardener,40393,LTS Brewing Company (Life's Too Short),2,3.85
+316,6.50,184585,https://www.beeradvocate.com/beer/profile/19000/184585/,Charmoy Blonde,19000,Brasserie De Charmoy,2,3.05
+317,7.90,258071,https://www.beeradvocate.com/beer/profile/34748/258071/,Saule De Blond,34748,Imperial Oak Brewing,2,3.84
+318,6.20,56857,https://www.beeradvocate.com/beer/profile/9413/56857/,Sancerroise Val DOr,9413,Brasserie Sancerroise,2,2.77
+319, ? ,76059,https://www.beeradvocate.com/beer/profile/1263/76059/,Pax Romana,1263,Brasserie Theillier,2,3.36
+320,7.20,184603,https://www.beeradvocate.com/beer/profile/2015/184603/,Dig Hard,2015,Golden Valley Brewery and Pub,2,3.38
+321,7.50,293408,https://www.beeradvocate.com/beer/profile/49161/293408/,Biere De Garde,49161,Highway 79 Brewery and Scratch Kitchen,2,3.62
+322,7.00,76581,https://www.beeradvocate.com/beer/profile/9730/76581/,Abbatiale Triple Ambree,9730,Brasserie des Sources,2,3.02
+323,6.20,42022,https://www.beeradvocate.com/beer/profile/380/42022/,Artisan Brasseur Biere Blonde,380,Brasserie Castelain,2,3.25
+324,11.00,201511,https://www.beeradvocate.com/beer/profile/2958/201511/,Abbaye De Saint Bon-Chien (Zymatore) - Chardonnay Barrel -,2958,BFM (Brasserie des Franches-Montagnes),2,4.07
+325, ? ,144682,https://www.beeradvocate.com/beer/profile/1106/144682/,Biere De Automne,1106,Grizzly Peak Brewing Company,2,3.47
+326,6.00,38955,https://www.beeradvocate.com/beer/profile/16323/38955/,Biere Brune De Tradition,16323,Brasserie De La Baie,2,3.75
+327,7.20,269612,https://www.beeradvocate.com/beer/profile/34070/269612/,Avant Gardener,34070,Middle Brow Beer Co.,2,4
+328,7.10,115501,https://www.beeradvocate.com/beer/profile/31920/115501/,Biere De Mars-Di Gras,31920,FATE Brewing Company,2,3.5
+329,6.20,222767,https://www.beeradvocate.com/beer/profile/31704/222767/,Curiosity,31704,Agrarian Ales,2,3.89
+330,7.00,47158,https://www.beeradvocate.com/beer/profile/9297/47158/,L'Hiver Du Bouffay,9297,Brasserie du Bouffay,2,4.06
+331,11.90,209209,https://www.beeradvocate.com/beer/profile/132/209209/,Big Ass Barrel Biere De Garde,132,Rogue Ales,2,3.96
+332,8.50,101436,https://www.beeradvocate.com/beer/profile/30694/101436/,Raconteur Biere De Garde,30694,Wayward Brewing,2,3.96
+333,5.50,284477,https://www.beeradvocate.com/beer/profile/30465/284477/,B.A.L.  Brune,30465,Brasserie Artisanale Du Luberon,2,3.84
+334,6.00,47167,https://www.beeradvocate.com/beer/profile/9730/47167/,La Raoul,9730,Brasserie des Sources,2,3.3
+335,7.50,44608,https://www.beeradvocate.com/beer/profile/9813/44608/,Montbéliarde,9813,Brasserie Rouget De Lisle,2,3.34
+336,7.80,287812,https://www.beeradvocate.com/beer/profile/49516/287812/,Accidental Tourist,49516,Bière de Mac,2,3.92
+337,5.50,251717,https://www.beeradvocate.com/beer/profile/813/251717/,Grain D'Orge,813,Les Brasseurs de Gayant,2,3.43
+338,8.00,292426,https://www.beeradvocate.com/beer/profile/35529/292426/,Strait Of Calais,35529,River's Edge Brewing Co,2,3.24
+339, ? ,60491,https://www.beeradvocate.com/beer/profile/1135/60491/,Guardian Angel,1135,"Franklin's Restaurant, Brewery & General Store",2,3.92
+340,6.00,163921,https://www.beeradvocate.com/beer/profile/9880/163921/,Mandrin Triple Houblon,9880,Brasserie Artisanale Du Dauphiné,2,3.6
+341,8.20,148054,https://www.beeradvocate.com/beer/profile/35374/148054/,Master Of The House,35374,Haw River Farmhouse Ales,2,3.89
+342,6.00,270679,https://www.beeradvocate.com/beer/profile/380/270679/,Reflets De France Biere De Garde,380,Brasserie Castelain,2,3.18
+343,5.80,67674,https://www.beeradvocate.com/beer/profile/24075/67674/,French Resistance,24075,Funkwerks,2,3.75
+344,5.60,256860,https://www.beeradvocate.com/beer/profile/41725/256860/,Favreau Farmhouse Ale,41725,The Brewers Of Nye Hill Farm,2,4.07
+345,7.50,285790,https://www.beeradvocate.com/beer/profile/49348/285790/,Spelt Bier De Garde,49348,Powers Farm & Brewery,2,3.83
+346,6.40,105054,https://www.beeradvocate.com/beer/profile/29481/105054/,Detour,29481,Bravery Brewing,2,3.62
+347,8.50,325726,https://www.beeradvocate.com/beer/profile/34168/325726/,Nathan’s Biere de Garde,34168,Broken Bow Brewery,2,4.19
+348,9.00,304485,https://www.beeradvocate.com/beer/profile/34748/304485/,Bourbon Barrel Aged Saule de Ambre,34748,Imperial Oak Brewing,2,4.07
+349,7.50,239717,https://www.beeradvocate.com/beer/profile/1683/239717/,Bayou Teche/ Santa Fe Brewing Sunset Limited Biere De Garde,1683,Santa Fe Brewing Company,2,3.21
+350,8.14,171878,https://www.beeradvocate.com/beer/profile/35646/171878/,Mischief's Priory,35646,Revelry Brewing Co,2,3.38
+351,6.80,310887,https://www.beeradvocate.com/beer/profile/46083/310887/,Biere de Garde,46083,Bench Brewing Company,2,3.89
+352,5.70,302186,https://www.beeradvocate.com/beer/profile/48876/302186/,Flying Frenchman,48876,Limestone Beer Co.,2,3.89
+353,7.00,47469,https://www.beeradvocate.com/beer/profile/7380/47469/,Milliacus,7380,Brasserie De Milly,2,3.17
+354,6.00,214639,https://www.beeradvocate.com/beer/profile/39925/214639/,Local Color,39925,Bearded Iris Brewing,2,3.44
+355,6.50,289904,https://www.beeradvocate.com/beer/profile/35479/289904/,Brett De Garde,35479,Farnam House Brewing Company,2,4.12
+356,6.90,107889,https://www.beeradvocate.com/beer/profile/30989/107889/,El Oro Bière De Garde,30989,BRU Handbuilt Ales,2,3.88
+357,7.50,137587,https://www.beeradvocate.com/beer/profile/34200/137587/,Copper Sky,34200,Iron John's Brewing Company,2,4.15
+358,8.80,185464,https://www.beeradvocate.com/beer/profile/1146/185464/,Old Town,1146,Goose Island Beer Co.,2,3.91
+359,6.40,52603,https://www.beeradvocate.com/beer/profile/36/52603/,Grain D'Orge Spéciale Noël,36,Brasserie Grain d' Orge (Brasserie Jeanne d'Arc SA),2,3.06
+360,6.50,253063,https://www.beeradvocate.com/beer/profile/39841/253063/,Hugin,39841,Munkebo Mikrobryg,2,3.87
+361,5.70,307593,https://www.beeradvocate.com/beer/profile/33137/307593/,Warehouse Ale,33137,Queen City Brewery,2,3.71
+362,8.30,301196,https://www.beeradvocate.com/beer/profile/49201/301196/,Biere De Garde,49201,Hillman Beer,2,3.95
+363,8.50,280976,https://www.beeradvocate.com/beer/profile/34748/280976/,Saule De Latte,34748,Imperial Oak Brewing,2,4.19
+364,7.00,328341,https://www.beeradvocate.com/beer/profile/19866/328341/,Kopstootje (Frequencies Series Release),19866,Upright Brewing Company,2,4.28
+365, ? ,179350,https://www.beeradvocate.com/beer/profile/31972/179350/,Farmtopia,31972,Warehouse Gourmet Bistro & Brew Pub,2,3.17
+366,6.80,282777,https://www.beeradvocate.com/beer/profile/47666/282777/,Red Fort,47666,Wunderkammer Bier,2,3.92
+367,8.00,291737,https://www.beeradvocate.com/beer/profile/1788/291737/,Biere De Garde,1788,Flying Goose Brew Pub & Grille,2,4.48
+368,5.00,74660,https://www.beeradvocate.com/beer/profile/24243/74660/,Le Mounlin De Saint Martin Blonde,24243,Le Moulin De Saint Martin,2,3.8
+369,5.40,131503,https://www.beeradvocate.com/beer/profile/23458/131503/,Markus Blonde,23458,La Brasserie Du Val De Drôme,2,2.79
+370,6.10,156338,https://www.beeradvocate.com/beer/profile/26673/156338/,Voltaire,26673,Lantern Brewing,2,3.98
+371,9.00,164788,https://www.beeradvocate.com/beer/profile/10245/164788/,St Rieul Grand Cru,10245,Ferme-Brasserie Saint Rieul,2,4.25
+372,8.00,291512,https://www.beeradvocate.com/beer/profile/27768/291512/,Biere De Printemps,27768,Lone Tree Brewing Company,2,3.96
+373,6.30,336057,https://www.beeradvocate.com/beer/profile/28743/336057/,Native Seven,28743,Tree House Brewing Company,2,4.3
+374,5.00,188857,https://www.beeradvocate.com/beer/profile/41702/188857/,Zytha,41702,La Brasserie Artisanale de Nice,2,3.43
+375,7.00,223419,https://www.beeradvocate.com/beer/profile/28356/223419/,Mercer De Garde,28356,Doylestown Brewing Co,2,3.58
+376,8.00,296379,https://www.beeradvocate.com/beer/profile/1788/296379/,Un-oaked Biere De Garde,1788,Flying Goose Brew Pub & Grille,2,3.95
+377,7.10,189628,https://www.beeradvocate.com/beer/profile/24870/189628/,Biere De Garde,24870,Marley's Brewery And Grille,2,3.34
+378,9.10,299711,https://www.beeradvocate.com/beer/profile/29164/299711/,Fowl Play #4: Live Fowl Or Die Hard,29164,HenHouse Brewing,2,3.97
+379,5.00,185032,https://www.beeradvocate.com/beer/profile/16325/185032/,Biere De Mars,16325,Carter's Brewing,2,3.74
+380,7.00,308937,https://www.beeradvocate.com/beer/profile/29269/308937/,L’Angelus Blonde,29269,Brasserie Lepers,2,3.13
+381,6.60,119243,https://www.beeradvocate.com/beer/profile/873/119243/,Aegis,873,BrickHouse Brewery,2,3.62
+382,7.00,114893,https://www.beeradvocate.com/beer/profile/25423/114893/,Biere De Garde,25423,New Boswell Brewery & Tap Room,2,3
+383,9.11,322253,https://www.beeradvocate.com/beer/profile/32265/322253/,Stillpoint Reserve Series: Blackberry Biere de Garde,32265,Milkhouse Brewery,2,4.29
+384,6.70,318671,https://www.beeradvocate.com/beer/profile/46255/318671/,Pillager's Sack Lunch,46255,Norsemen Brewing Company,2,3.85
+385,7.10,166608,https://www.beeradvocate.com/beer/profile/13804/166608/,Mars,13804,Benelux Brewpub & Café,2,3.88
+386,6.60,284625,https://www.beeradvocate.com/beer/profile/48876/284625/,The Keeper,48876,Limestone Beer Co.,2,3.81
+387,6.25,288721,https://www.beeradvocate.com/beer/profile/48411/288721/,Petit Vilain,48411,Second District Brewing Co.,2,3.37
+388,7.50,322522,https://www.beeradvocate.com/beer/profile/51127/322522/,Nuances Sur,51127,Shaidzon Beer Co,2,4
+389,6.50,140257,https://www.beeradvocate.com/beer/profile/16445/140257/,Vivat In Aeternum,16445,Brasserie historique de l'Abbaye du Cateau,2,2.85
+390,6.00,222947,https://www.beeradvocate.com/beer/profile/44830/222947/,Qu'est-ce Que C'est,44830,Half Hours on Earth,2,4.13
+391, ? ,135653,https://www.beeradvocate.com/beer/profile/1853/135653/,Biere De Meiers,1853,Sly Fox Brewing Company,2,4.02
+392,4.50,197607,https://www.beeradvocate.com/beer/profile/31974/197607/,Fistful Of Peel,31974,Point Ybel Brewing Company,2,4.11
+393,7.60,106727,https://www.beeradvocate.com/beer/profile/29059/106727/,Moustache & A Supernova,29059,DryHop Brewers,2,3.72
+394,7.80,297448,https://www.beeradvocate.com/beer/profile/44285/297448/,Chateau De Ponce,44285,Torched Hop Brewing Company,2,4.02
+395,3.70,284907,https://www.beeradvocate.com/beer/profile/25433/284907/,Aura-Plum Sour Ale,25433,Payette Brewing,2,3.77
+396,7.00,313579,https://www.beeradvocate.com/beer/profile/33589/313579/,Bière de Garde,33589,Columbia Kettle Works,2,3.82
+397,6.10,218604,https://www.beeradvocate.com/beer/profile/37551/218604/,Chanson De Boheme,37551,Gibb's Hundred Brewing Co.,2,4.05
+398,7.70,231660,https://www.beeradvocate.com/beer/profile/31722/231660/,The Conjurer,31722,Burial Beer Co.,2,3.9
+399,7.80,207090,https://www.beeradvocate.com/beer/profile/22150/207090/,Hors D'âge,22150,Stillwater Artisanal Ales,2,3.67
+400,6.00,232435,https://www.beeradvocate.com/beer/profile/34605/232435/,Biere De Gordo,34605,Biloba Brewing Company,2,3.51
+401,7.50,171251,https://www.beeradvocate.com/beer/profile/34605/171251/,Biere De Mars,34605,Biloba Brewing Company,2,4.09
+402,6.50,81398,https://www.beeradvocate.com/beer/profile/813/81398/,Saint Landelin Biere De Paques,813,Les Brasseurs de Gayant,2,3.09
+403,8.25,274936,https://www.beeradvocate.com/beer/profile/35424/274936/,Biere De Garde,35424,Smylie Brothers Brewing Co.,2,3.69
+404,7.00,16889,https://www.beeradvocate.com/beer/profile/9297/16889/,Ambree Du Bouffay,9297,Brasserie du Bouffay,2,3.37
+405,4.30,298233,https://www.beeradvocate.com/beer/profile/49598/298233/,Dry Brook,49598,West Kill Brewing,2,3.88
+406,7.50,241154,https://www.beeradvocate.com/beer/profile/45544/241154/,La Guardia Ambar,45544,Cervecería Cruz Blanca,1,3.65
+407,9.00,241155,https://www.beeradvocate.com/beer/profile/45544/241155/,La Gurdia Morena,45544,Cervecería Cruz Blanca,1,4
+408,6.00,307716,https://www.beeradvocate.com/beer/profile/392/307716/,Biere de Mars,392,Weyerbacher Brewing Co.,1,3.85
+409,7.00,56580,https://www.beeradvocate.com/beer/profile/9730/56580/,Vieux Lille Ambrée,9730,Brasserie des Sources,1,3.03
+410,5.60,276741,https://www.beeradvocate.com/beer/profile/34779/276741/,De Cave,34779,Saint Benjamin Brewing Company,1,3.9
+411,5.80,181253,https://www.beeradvocate.com/beer/profile/33257/181253/,Biere De Garde,33257,Thunder Island Brewing,1,3.71
+412,6.00,68361,https://www.beeradvocate.com/beer/profile/16811/68361/,La Goule Kick,16811,Brasserie Artisanale Océane,1,2.97
+413,7.20,317705,https://www.beeradvocate.com/beer/profile/33650/317705/,Vieille Lune,33650,Walnut River Brewing Company,1,3.94
+414,8.00,174602,https://www.beeradvocate.com/beer/profile/32826/174602/,Pestilence,32826,Big Grove Brewery,1,3.75
+415,8.00,306700,https://www.beeradvocate.com/beer/profile/36487/306700/,Neon Rain,36487,Platform Beer Co.,1,3.22
+416,7.00,296975,https://www.beeradvocate.com/beer/profile/50137/296975/,Kerel Bière De Garde,50137,VBDCK Brewery,1,3.28
+417,7.60,325391,https://www.beeradvocate.com/beer/profile/1250/325391/,Biere De Garde,1250,Swans Brewpub / Buckerfield Brewery,1,3.82
+418,7.50,322069,https://www.beeradvocate.com/beer/profile/22411/322069/,Duits & Lauret Biere de Garde Brune,22411,Duits & Lauret Speciaalbierbrouwerij,1,3.75
+419, ? ,230423,https://www.beeradvocate.com/beer/profile/17005/230423/,Biere De Mars,17005,Two Beers Brewing Co.,1,3.75
+420,5.50,272664,https://www.beeradvocate.com/beer/profile/48527/272664/,Sauvage Ambrée,48527,Brasserie Des Hautes Vallées,1,3.62
+421, ? ,338968,https://www.beeradvocate.com/beer/profile/27273/338968/,Hoppy Horus,27273,Forest & Main Brewing Company,1,4.1
+422,7.40,304152,https://www.beeradvocate.com/beer/profile/741/304152/,Rendezvous Hibiscus Dream Tea,741,"Lakefront Brewery, Inc.",1,3.5
+423, ? ,144153,https://www.beeradvocate.com/beer/profile/30001/144153/,Dynamo De Juede,30001,Beards Brewery,1,4
+424,6.80,234521,https://www.beeradvocate.com/beer/profile/41542/234521/,The Beet Goes On,41542,Hidden River Brewing Company,1,4.06
+425,6.70,121628,https://www.beeradvocate.com/beer/profile/34025/121628/,Toulouse To Trek,34025,Chaos Mountain Brewing,1,3.5
+426,6.20,268573,https://www.beeradvocate.com/beer/profile/28188/268573/,All French Saison,28188,Country Boy Brewing,1,3.96
+427,5.90,197662,https://www.beeradvocate.com/beer/profile/26673/197662/,Sagesse,26673,Lantern Brewing,1,3.27
+428,7.70,325918,https://www.beeradvocate.com/beer/profile/41991/325918/,Brig Bound,41991,1912 Brewing Co.,1,4
+429,6.20,248352,https://www.beeradvocate.com/beer/profile/44070/248352/,St. Phoebe,44070,Bar Hygge / Brewery Techne,1,3.97
+430,5.60,161826,https://www.beeradvocate.com/beer/profile/39390/161826/,La Lucila,39390,Brasserie Veyrat,1,3.27
+431,8.20,207395,https://www.beeradvocate.com/beer/profile/29909/207395/,Chateau Attente,29909,White Street Brewing Co.,1,3.64
+432,6.00,50467,https://www.beeradvocate.com/beer/profile/1682/50467/,La Porte Du Hainaut Blonde,1682,Brasserie La Choulette,1,3.7
+433,7.39,180005,https://www.beeradvocate.com/beer/profile/32279/180005/,Chitauri Cherry Martian Spring,32279,Strangeways Brewing,1,4.04
+434,7.70,128550,https://www.beeradvocate.com/beer/profile/5408/128550/,Biere De Garde,5408,Herkimer Pub & Brewery,1,3.5
+435,6.30,288553,https://www.beeradvocate.com/beer/profile/44307/288553/,Experimental #2: Biere De Garde,44307,Bow & Arrow Brewing,1,3.06
+436,8.50,186156,https://www.beeradvocate.com/beer/profile/29617/186156/,Marea Prietenie,29617,Kruhnen,1,3.17
+437,5.90,322092,https://www.beeradvocate.com/beer/profile/28383/322092/,Untimely Overdue,28383,Tired Hands Brewing Company,1,3.83
+438,6.50,134701,https://www.beeradvocate.com/beer/profile/19145/134701/,Alésia Blonde Bio,19145,Brasserie Larché,1,4.08
+439,6.80,237101,https://www.beeradvocate.com/beer/profile/45649/237101/,Biere De Garde,45649,Atwood Ales,1,3.53
+440,8.10,228913,https://www.beeradvocate.com/beer/profile/31704/228913/,Funky Sticky,31704,Agrarian Ales,1,4.04
+441,6.80,286008,https://www.beeradvocate.com/beer/profile/9784/286008/,Buck Wild,9784,Zero Gravity Craft Brewery / American Flatbread,1,3.75
+442,7.60,102713,https://www.beeradvocate.com/beer/profile/31587/102713/,Beard De Garde,31587,Colorado Plus Brewpub,1,4
+443,7.00,274491,https://www.beeradvocate.com/beer/profile/42756/274491/,Cuyahoga,42756,Corridor Brewery & Provisions,1,3.81
+444,5.40,329276,https://www.beeradvocate.com/beer/profile/48925/329276/,Le Bucheron,48925,Nod Hill Brewery,1,3.8
+445, ? ,304189,https://www.beeradvocate.com/beer/profile/21448/304189/,De Peche Mode,21448,Ladyface Ale Companie,1,3.77
+446,6.10,185150,https://www.beeradvocate.com/beer/profile/19000/185150/,Charmoy Ambrée,19000,Brasserie De Charmoy,1,3.46
+447,9.80,291135,https://www.beeradvocate.com/beer/profile/48120/291135/,Biere De Jouett,48120,Bad Shepherd Beer Company / Black Sheep Burrito and Brews,1,3.75
+448,8.50,281920,https://www.beeradvocate.com/beer/profile/34748/281920/,Saule De Berry,34748,Imperial Oak Brewing,1,3.67
+449,5.70,81217,https://www.beeradvocate.com/beer/profile/9904/81217/,Bière De Brie La Briarde,9904,Ferme-Brasserie De Gaillon,1,3.58
+450,4.50,81218,https://www.beeradvocate.com/beer/profile/9904/81218/,Bière De Brie Blanche,9904,Ferme-Brasserie De Gaillon,1,3.5
+451,6.80,203589,https://www.beeradvocate.com/beer/profile/24831/203589/,Fall Harvest Sour,24831,American Brewing Company,1,3.81
+452,8.50,55109,https://www.beeradvocate.com/beer/profile/1169/55109/,Biere De Noel,1169,Fitger's Brewhouse,1,4.2
+453,7.90,317253,https://www.beeradvocate.com/beer/profile/44205/317253/,Casquette,44205,Blackwell Brewery,1,3.75
+454,12.00,256325,https://www.beeradvocate.com/beer/profile/41325/256325/,Bearded Gar,41325,Central State Brewing,1,4
+455,6.50,63045,https://www.beeradvocate.com/beer/profile/9730/63045/,Germinal De Noël,9730,Brasserie des Sources,1,3.53
+456,6.00,281158,https://www.beeradvocate.com/beer/profile/27273/281158/,Hungry Ghost,27273,Forest & Main Brewing Company,1,3.25
+457,9.30,183367,https://www.beeradvocate.com/beer/profile/34964/183367/,Biere De Noel,34964,Mexitaly,1,3.77
+458,6.50,227144,https://www.beeradvocate.com/beer/profile/44830/227144/,Cherry Qu'est-ce Que C'est,44830,Half Hours on Earth,1,4.03
+459,8.30,331337,https://www.beeradvocate.com/beer/profile/260/331337/,"3 Monts Amber Ale Sur Lie, Grand Reserve",260,Brasserie De Saint-Sylvestre,1,3.99
+460,5.30,305482,https://www.beeradvocate.com/beer/profile/3340/305482/,Privat,3340,Dinkelacker-Schwabenbraeu AG,1,3.5
+461,6.20,291915,https://www.beeradvocate.com/beer/profile/32656/291915/,The Stuffing,32656,Arizona Wilderness Brewing Co.,1,4
+462, ? ,164691,https://www.beeradvocate.com/beer/profile/16445/164691/,Vivat Bio,16445,Brasserie historique de l'Abbaye du Cateau,1,3.45
+463,8.00,163925,https://www.beeradvocate.com/beer/profile/9880/163925/,Mandrin De Noël,9880,Brasserie Artisanale Du Dauphiné,1,3.38
+464,4.80,163926,https://www.beeradvocate.com/beer/profile/9880/163926/,Mandrin De Printemps,9880,Brasserie Artisanale Du Dauphiné,1,3.07
+465,8.50,262487,https://www.beeradvocate.com/beer/profile/34748/262487/,Saule De Ambre,34748,Imperial Oak Brewing,1,4.24
+466,7.10,283992,https://www.beeradvocate.com/beer/profile/31674/283992/,Spring Biere De Garde,31674,Shacklands Brewing Company,1,3.84
+467,7.00,269659,https://www.beeradvocate.com/beer/profile/47141/269659/,Spring Cleaning,47141,Mastry's Brewing Company,1,3.75
+468, ? ,275035,https://www.beeradvocate.com/beer/profile/30422/275035/,Maillard De Garde,30422,McFate Tap + Barrel - North Scottsdale,1,3.68
+469,6.10,164702,https://www.beeradvocate.com/beer/profile/14397/164702/,Hotteterre Blonde,14397,Brasserie Hotteterre,1,3.31
+470,6.70,195934,https://www.beeradvocate.com/beer/profile/29059/195934/,Surfing On A Rocket,29059,DryHop Brewers,1,3.19
+471,7.50,291169,https://www.beeradvocate.com/beer/profile/25378/291169/,Solsnu,25378,Kinn Bryggeri AS,1,3.25
+472,8.60,160098,https://www.beeradvocate.com/beer/profile/31265/160098/,Biere De Garde,31265,Standard Brewing,1,3.9
+473,8.10,306786,https://www.beeradvocate.com/beer/profile/32810/306786/,Fetchez La Blonde,32810,Jagged Mountain Craft Brewery,1,3.73
+474,4.60,293219,https://www.beeradvocate.com/beer/profile/28383/293219/,Face Mender,28383,Tired Hands Brewing Company,1,4
+475,6.40,202852,https://www.beeradvocate.com/beer/profile/14/202852/,De Garde,14,Cambridge Brewing Company,1,3.99
+476,8.50,304484,https://www.beeradvocate.com/beer/profile/34748/304484/,Gin Barrel Aged Saule de Blond,34748,Imperial Oak Brewing,1,4
+477,6.20,46436,https://www.beeradvocate.com/beer/profile/11798/46436/,Trois Brasseurs Bière De Mars,11798,Les Trois Brasseurs,1,3.92
+478,7.00,185701,https://www.beeradvocate.com/beer/profile/30871/185701/,Zola,30871,The BottleHouse Brewing Company,1,4
+479,7.90,96358,https://www.beeradvocate.com/beer/profile/25351/96358/,Brett De Garde,25351,Beer Engine,1,3.63
+480,9.00,304486,https://www.beeradvocate.com/beer/profile/34748/304486/,Gin Barrel Aged Saule de Brune,34748,Imperial Oak Brewing,1,4.14
+481,3.30,338282,https://www.beeradvocate.com/beer/profile/27835/338282/,My Girl Wants to Parti Gyle,27835,The Black Abbey Brewing Company,1,3.59
+482,7.00,140908,https://www.beeradvocate.com/beer/profile/30623/140908/,Biere De Garde,30623,Our Mutual Friend Malt & Brew,1,4
+483,7.00,330093,https://www.beeradvocate.com/beer/profile/46318/330093/,B.S. de Mars,46318,Bent Stick Brewing Co.,1,3.77
+484,4.80,323694,https://www.beeradvocate.com/beer/profile/30791/323694/,Lab Rat: Boules De Shubert,30791,Rivertowne Brewing,1,3.83
+485,7.00,268145,https://www.beeradvocate.com/beer/profile/31046/268145/,Biere De Garde,31046,De Steeg Brewing Company,1,3.84
+486,8.00,47217,https://www.beeradvocate.com/beer/profile/9297/47217/,Bière De Noël Du Bouffay,9297,Brasserie du Bouffay,1,4.12
+487,6.50,272243,https://www.beeradvocate.com/beer/profile/29008/272243/,French Navy,29008,Bluejacket / Arsenal Restaurant,1,3.5
+488,7.20,299891,https://www.beeradvocate.com/beer/profile/197/299891/,Trois Houblons Alsaciens,197,Brasserie Fischer / Fischer Biere d' Alsace,1,3.72
+489,7.90,300659,https://www.beeradvocate.com/beer/profile/813/300659/,G De Goudale Grand Cru 2017 Houblon Mistral,813,Les Brasseurs de Gayant,1,3.32
+490, ? ,126835,https://www.beeradvocate.com/beer/profile/24481/126835/,French Style Biere De Garde,24481,Beaver Brewing Company,1,3.25
+491,6.80,336760,https://www.beeradvocate.com/beer/profile/1666/336760/,Beire De Grove,1666,Selin's Grove Brewing Company,1,4.25
+492,8.00,288890,https://www.beeradvocate.com/beer/profile/35767/288890/,Deep Roots,35767,Fiction Beer Company,1,3.75
+493,7.00,243834,https://www.beeradvocate.com/beer/profile/44541/243834/,Biere De Avant-Garde,44541,Mad Brewlads Craft Co.,1,3.74
+494,8.00,188026,https://www.beeradvocate.com/beer/profile/260/188026/,Kassels Bier Flandre,260,Brasserie De Saint-Sylvestre,1,3.85
+495,5.60,44667,https://www.beeradvocate.com/beer/profile/11434/44667/,Canardou Bière De Noël,11434,Brasserie Du Canardou,1,3.7
+496, ? ,281468,https://www.beeradvocate.com/beer/profile/44307/281468/,Biere De Garde,44307,Bow & Arrow Brewing,1,3.52
+497, ? ,164476,https://www.beeradvocate.com/beer/profile/9446/164476/,"Bourganel Brune ""B'10""",9446,Brasserie Bourganel,1,2.76
+498, ? ,164477,https://www.beeradvocate.com/beer/profile/9446/164477/,"Bourganel Ambrée ""AMB' BEER""",9446,Brasserie Bourganel,1,3.49
+499,6.00,72318,https://www.beeradvocate.com/beer/profile/1682/72318/,La Choulette De Printemps,1682,Brasserie La Choulette,1,3.83
+500,7.10,303742,https://www.beeradvocate.com/beer/profile/986/303742/,Barrel-Biere de garde,986,Wynkoop Brewing Company,1,3.91
+501,10.00,275328,https://www.beeradvocate.com/beer/profile/6045/275328/,Biere De Chard,6045,Iron Hill Brewery & Restaurant,1,3.65
+502,6.90,340354,https://www.beeradvocate.com/beer/profile/34278/340354/,Storming The Castle,34278,The Perch Pub & Brewery,1,3.71
+503,7.00,275330,https://www.beeradvocate.com/beer/profile/6045/275330/,Brett De Mars,6045,Iron Hill Brewery & Restaurant,1,4.15
+504,5.50,289668,https://www.beeradvocate.com/beer/profile/43479/289668/,La Mascotte Ambrée,43479,Brasserie Artisanale Picardennes,1,3.56
+505,8.90,179332,https://www.beeradvocate.com/beer/profile/11872/179332/,Page 24 Malts & Hops,11872,Brasserie Saint-Germain,1,3.91
+506,4.50,111754,https://www.beeradvocate.com/beer/profile/19537/111754/,Keks L'Enxaneta Cervesa Amb Clau I Taronja,19537,Cerveseria Birrart,1,2.94
+507,7.00,64141,https://www.beeradvocate.com/beer/profile/24240/64141/,Charlotte De Noël,24240,Les Bières De Charlotte,1,3.92
+508,10.00,303246,https://www.beeradvocate.com/beer/profile/45030/303246/,War & Peach,45030,Lost Cabin Beer Co.,1,4.5
+509,5.00,164496,https://www.beeradvocate.com/beer/profile/16323/164496/,La Bière Ambrée,16323,Brasserie De La Baie,1,2.68
+510,8.70,321936,https://www.beeradvocate.com/beer/profile/46616/321936/,Winter Wonderland,46616,Lone Eagle Brewing,1,3.5
+511, ? ,220817,https://www.beeradvocate.com/beer/profile/1112/220817/,Biere De Garde,1112,Little Apple Brewing Company,1,3.73
+512,8.50,270229,https://www.beeradvocate.com/beer/profile/34748/270229/,Saule De Brune,34748,Imperial Oak Brewing,1,3.75
+513,5.50,48789,https://www.beeradvocate.com/beer/profile/3676/48789/,Poppy,3676,Brasserie De Clerck,1,3.83
+514,6.80,330134,https://www.beeradvocate.com/beer/profile/15824/330134/,Keep It Secret,15824,Skookum Brewery,1,3.91
+515,6.50,224152,https://www.beeradvocate.com/beer/profile/33738/224152/,Biere De Garden,33738,Independent Fermentations Brewing (IndieFerm),1,3.7
+516, ? ,300696,https://www.beeradvocate.com/beer/profile/21448/300696/,Peach Candy,21448,Ladyface Ale Companie,1,3.78
+517,8.30,296601,https://www.beeradvocate.com/beer/profile/46175/296601/,Biere De Garde,46175,1781 Brewing Company,1,3.67
+518,7.60,339611,https://www.beeradvocate.com/beer/profile/35643/339611/,Balin,35643,Broken Goblet Brewing Company,1,3.93
+519,5.40,164507,https://www.beeradvocate.com/beer/profile/27024/164507/,Lunik,27024,Brasserie De La Pleine Lune,1,3.71
+520,7.00,103581,https://www.beeradvocate.com/beer/profile/28983/103581/,Thrashard,28983,"Big Choice Brewing, LLC",1,4
+521,6.00,192673,https://www.beeradvocate.com/beer/profile/42520/192673/,Biere Blonde Artisanale Du Pays Minier,42520,La Gaillette,1,3.67
+522,7.00,254882,https://www.beeradvocate.com/beer/profile/12496/254882/,Le Cygne Biere De Garde  (The North Shore Project),12496,Flathead Lake Brewing Company,1,4.5
+523,4.00,48547,https://www.beeradvocate.com/beer/profile/18385/48547/,La P'tite Bière,18385,Brasserie Des Garrigues,1,3.95
+524,5.50,57763,https://www.beeradvocate.com/beer/profile/22653/57763/,Ambrée,22653,Brasserie Michard,1,3.65
+525,6.20,323747,https://www.beeradvocate.com/beer/profile/34779/323747/,Carrières,34779,Saint Benjamin Brewing Company,1,4
+526,6.40,317606,https://www.beeradvocate.com/beer/profile/9704/317606/,Biere de Garde,9704,Emmett's Brewing Company,1,4.01
+527,7.60,144297,https://www.beeradvocate.com/beer/profile/9167/144297/,Biere De Garde,9167,23rd Street Brewery,1,3
+528,7.80,294828,https://www.beeradvocate.com/beer/profile/8776/294828/,BOB De Garde,8776,Barley and Hops,1,4.2
+529,6.00,95663,https://www.beeradvocate.com/beer/profile/20431/95663/,Spring Fling,20431,The 3 Brewers,1,3.18
+530,6.20,316591,https://www.beeradvocate.com/beer/profile/40927/316591/,Young Buck,40927,Bruery Terreux,1,3.92
+531,8.00,282545,https://www.beeradvocate.com/beer/profile/34258/282545/,Cherry Absinthe Barrel-Aged Bier De Garde,34258,Transient Artisan Ales,1,4.25
+532,6.40,71346,https://www.beeradvocate.com/beer/profile/9922/71346/,La Téméraire Blonde,9922,Brasserie Des Trois Fontaines,1,3.34
+533,7.50,284082,https://www.beeradvocate.com/beer/profile/19764/284082/,Bière De Garde,19764,Schooner Exact Brewing Company,1,4
+534,7.20,338611,https://www.beeradvocate.com/beer/profile/43218/338611/,Bier de Garde,43218,Black Hat Brew Works,1,3.96
+535,5.50,156083,https://www.beeradvocate.com/beer/profile/197/156083/,Fischer Bière De Printemps,197,Brasserie Fischer / Fischer Biere d' Alsace,1,1.78
+536, ? ,64435,https://www.beeradvocate.com/beer/profile/1872/64435/,Biere De Garde,1872,McKenzie Brew House,1,4.15
+537,6.00,108468,https://www.beeradvocate.com/beer/profile/16394/108468/,La Grihète Cuvée Tradition Bière De Noël,16394,Brasserie Artisanale du Sud / La Grihète,1,2.94
+538,7.50,303797,https://www.beeradvocate.com/beer/profile/32204/303797/,Farmhouse Red,32204,North Brewing Company,1,3.5
+539,7.80,333238,https://www.beeradvocate.com/beer/profile/51878/333238/,Insatiable,51878,Spearfish Brewing Company,1,3.49
+540,6.40,295094,https://www.beeradvocate.com/beer/profile/27917/295094/,Maylay,27917,Strange Roots Experimental Ales,1,4.03
+541,7.00,311991,https://www.beeradvocate.com/beer/profile/33521/311991/,Baron Corvo Cuvée,33521,Right Proper Brewing Company - Shaw Brewpub,1,3.53
+542,6.10,79033,https://www.beeradvocate.com/beer/profile/26624/79033/,Art 1000 Nits,26624,Art Cervesers - Cervesa Artesanal,1,3.46
+543,7.00,287678,https://www.beeradvocate.com/beer/profile/32043/287678/,33 Acres Of Coterie,32043,33 Acres Brewing Co.,1,3.25
+544,6.20,167102,https://www.beeradvocate.com/beer/profile/39994/167102/,La Frivole La Verte,39994,Brasserie La Frivole,1,3.34
+545,4.70,222658,https://www.beeradvocate.com/beer/profile/19002/222658/,Volcelest Biere Bio De Printemps,19002,Brasserie De La Vallée De Chevreuse,1,2.82
+546,6.00,330437,https://www.beeradvocate.com/beer/profile/30625/330437/,Stepchild Belglo-American Red,30625,Nevin's Brewing Company,1,2.84
+547,6.00,315592,https://www.beeradvocate.com/beer/profile/33993/315592/,Bière de Noël,33993,Microbrasserie Artisanale Sainte Crucienne,1,2.83
+548,7.50,166090,https://www.beeradvocate.com/beer/profile/39778/166090/,Saint Hilarie,39778,Uaimií,1,4.05
+549,9.60,265933,https://www.beeradvocate.com/beer/profile/42081/265933/,Semple,42081,Stickman Brews,1,4.51
+550,8.30,303054,https://www.beeradvocate.com/beer/profile/21448/303054/,Gardiens De La Galaxie,21448,Ladyface Ale Companie,1,3.94
+551,6.80,317902,https://www.beeradvocate.com/beer/profile/29881/317902/,Bière de Garde,29881,Triple C Brewing Co.,1,4.03
+552,7.00,320206,https://www.beeradvocate.com/beer/profile/32161/320206/,Biere De Chocolate,32161,New Glory Craft Brewery,1,3
+553,8.30,286417,https://www.beeradvocate.com/beer/profile/29325/286417/,Bier Stein De Garde,29325,Rustic Road Brewing Company,1,3.94
+554,7.70,189137,https://www.beeradvocate.com/beer/profile/34426/189137/,Biere De Garde,34426,Jailbreak Brewing Company,1,4
+555,7.70,275666,https://www.beeradvocate.com/beer/profile/48809/275666/,Bière de Garde,48809,White Rooster Farmhouse Brewery,1,4
+556,6.40,337622,https://www.beeradvocate.com/beer/profile/49494/337622/,Biere De Garde,49494,Rebellion Brew Haus,1,3.07
+557,8.50,185814,https://www.beeradvocate.com/beer/profile/31586/185814/,Germinal,31586,Benelux Brasserie Artisanale,1,3.85
+558,7.00,272343,https://www.beeradvocate.com/beer/profile/47383/272343/,Avus,47383,Carpe Diem,1,2.77
+559,7.50,128215,https://www.beeradvocate.com/beer/profile/29118/128215/,Pepe Le Brew,29118,Timber Creek Tap & Table,1,3.5
+560,6.40,303066,https://www.beeradvocate.com/beer/profile/27917/303066/,Vanus,27917,Strange Roots Experimental Ales,1,4.24
+561,7.70,236765,https://www.beeradvocate.com/beer/profile/30909/236765/,Triskel,30909,Partizan Brewery,1,3.5
+562,7.00,333023,https://www.beeradvocate.com/beer/profile/47340/333023/,Notorious BdG - Apple Brandy,47340,Rowley Farmhouse Ales,1,4.25
+563,8.50,115424,https://www.beeradvocate.com/beer/profile/1682/115424/,La D'Artagnan,1682,Brasserie La Choulette,1,4
+564,7.50,244449,https://www.beeradvocate.com/beer/profile/16088/244449/,The Ziggy,16088,Uncle Billy's Brew & Que,1,3.14
+565,7.90,190947,https://www.beeradvocate.com/beer/profile/42019/190947/,Conundrum Bière De Garde,42019,Factotum Brewhouse,1,3.94
+566,7.00,75749,https://www.beeradvocate.com/beer/profile/7380/75749/,Bière De Noël Ambrée,7380,Brasserie De Milly,1,4.08
+567,5.70,248293,https://www.beeradvocate.com/beer/profile/18189/248293/,Gonna Lay Down My Burden,18189,Earth Bread + Brewery,1,3.68
+568,6.00,211431,https://www.beeradvocate.com/beer/profile/16325/211431/,The Keeper,16325,Carter's Brewing,1,3.66
+569,8.50,303848,https://www.beeradvocate.com/beer/profile/50242/303848/,Biér De Garde - Bruin,50242,1840 Brewing Company,1,4
+570,8.50,339690,https://www.beeradvocate.com/beer/profile/31221/339690/,Siren Craft / Naparbier - Dios de la Guerra,31221,Siren Craft Brew,1,4
+571,5.00,204781,https://www.beeradvocate.com/beer/profile/8768/204781/,Kelso Bier De Garde,8768,Greenpoint Beerworks / Kelso of Brooklyn,1,4
+572,7.00,265710,https://www.beeradvocate.com/beer/profile/7548/265710/,Saison Saint Medard Cuvee De Noel,7548,Brasserie Au Baron,1,3.8
+573,7.40,304368,https://www.beeradvocate.com/beer/profile/27979/304368/,Courtly Troubadour,27979,Mankato Brewery,1,4
+574,6.00,290801,https://www.beeradvocate.com/beer/profile/34258/290801/,Blis Maple Syrup Biere De Garde,34258,Transient Artisan Ales,1,4
+575,5.90,46066,https://www.beeradvocate.com/beer/profile/380/46066/,Ch'ti Bière De Printemps,380,Brasserie Castelain,1,3.45
+576,7.30,287734,https://www.beeradvocate.com/beer/profile/37452/287734/,Beware The Ides,37452,Pleasure House Brewing,1,3.99
+577,7.50,240119,https://www.beeradvocate.com/beer/profile/25859/240119/,Beer DeGarde,25859,Lazy Monk Brewing,1,4.25
+578,7.00,264697,https://www.beeradvocate.com/beer/profile/44236/264697/,Biere De Garde,44236,Second Line Brewing,1,4.11
+579,9.00,306938,https://www.beeradvocate.com/beer/profile/29618/306938/,Exile On Broad St: Remastered,29618,The Libertine Pub,1,3.4
+580,7.30,214779,https://www.beeradvocate.com/beer/profile/30073/214779/,Biere Da Garde,30073,Wild Woods Brewery,1,3.99
+581,5.60,198142,https://www.beeradvocate.com/beer/profile/603/198142/,Hop De Garde,603,Church Brew Works,1,3.74
+582,6.00,209919,https://www.beeradvocate.com/beer/profile/43719/209919/,Brasserie Du Marcaire Ambrée Du Chamois,43719,Brasserie du Marcaire,1,3.72
+583,7.20,226559,https://www.beeradvocate.com/beer/profile/33521/226559/,Vintage Lou,33521,Right Proper Brewing Company - Shaw Brewpub,1,3.85
+584,9.20,292610,https://www.beeradvocate.com/beer/profile/48688/292610/,Aurum Defender,48688,Alulu Brewpub,0,0
+585,8.20,335619,https://www.beeradvocate.com/beer/profile/32226/335619/,Biere De Garde,32226,Buckhorn Brewers,0,0
+586,4.40,173060,https://www.beeradvocate.com/beer/profile/40044/173060/,Mont Aiguille Blonde,40044,Brasserie du Mont Aiguille,0,0
+587,6.80,261380,https://www.beeradvocate.com/beer/profile/47841/261380/,Realeza Belgian Golden Ale,47841,Realeza,0,0
+588,7.40,288006,https://www.beeradvocate.com/beer/profile/49529/288006/,Biere De Zy,49529,Zymurgy Brew Works & Tasting Room,0,0
+589,6.70,101128,https://www.beeradvocate.com/beer/profile/26035/101128/,321 Bier,26035,Twisted Crew Brewing Company,0,0
+590,7.00,164880,https://www.beeradvocate.com/beer/profile/31997/164880/,La Grande Marée,31997,La Brasserie du Pilat,0,0
+591, ? ,164883,https://www.beeradvocate.com/beer/profile/31997/164883/,La Veuve Noire,31997,La Brasserie du Pilat,0,0
+592,6.00,149780,https://www.beeradvocate.com/beer/profile/7101/149780/,Biere De Mars,7101,Marzoni's Brick Oven & Brewing Company,0,0
+593,8.40,295703,https://www.beeradvocate.com/beer/profile/30230/295703/,Marquette & Joliet,30230,Confluence Brewing Company,0,0
+594,5.50,164888,https://www.beeradvocate.com/beer/profile/32509/164888/,Blonde Bio Grand Cru,32509,La Brasserie Mascaret,0,0
+595,7.50,338201,https://www.beeradvocate.com/beer/profile/39505/338201/,French Saison,39505,Salden's Brewery,0,0
+596, ? ,175641,https://www.beeradvocate.com/beer/profile/36753/175641/,Pedal Pusher,36753,Rusty Nickel Brewing Co,0,0
+597,7.00,284959,https://www.beeradvocate.com/beer/profile/43361/284959/,Biere De Garde,43361,Doc G's Brewing Co.,0,0
+598,5.50,231968,https://www.beeradvocate.com/beer/profile/45731/231968/,WinterfAle,45731,Bière Cauwe,0,0
+599, ? ,336417,https://www.beeradvocate.com/beer/profile/35633/336417/,Bourbon Blackberry Biere de Garde,35633,Casey Brewing & Blending,0,0
+600,7.50,227875,https://www.beeradvocate.com/beer/profile/1483/227875/,Bearded Guard,1483,Springfield Brewing Company,0,0
+601,8.50,162348,https://www.beeradvocate.com/beer/profile/34605/162348/,Biere De Noel,34605,Biloba Brewing Company,0,0
+602,5.60,253486,https://www.beeradvocate.com/beer/profile/46852/253486/,Bradley Farmhouse Ale,46852,Pull Brewing Co.,0,0
+603,8.00,159535,https://www.beeradvocate.com/beer/profile/31888/159535/,Florina,31888,Cervezas Keltius,0,0
+604,7.50,275764,https://www.beeradvocate.com/beer/profile/19138/275764/,Bière Des Naufrageurs Miel,19138,Brasserie des Naufrageurs,0,0
+605,7.70,317492,https://www.beeradvocate.com/beer/profile/47779/317492/,Slowganger,47779,Brewery ARS,0,0
+606,8.00,214076,https://www.beeradvocate.com/beer/profile/27863/214076/,Brume De Caps,27863,Microbrasserie Des Beaux Prés,0,0
+607,4.80,297025,https://www.beeradvocate.com/beer/profile/36739/297025/,Squeezer,36739,Illuminated Brew Works,0,0
+608,7.00,331588,https://www.beeradvocate.com/beer/profile/51143/331588/,Pivot Point,51143,Barrel + Beam,0,0
+609,6.80,218692,https://www.beeradvocate.com/beer/profile/813/218692/,La Goudale De Printemps,813,Les Brasseurs de Gayant,0,0
+610,7.10,187716,https://www.beeradvocate.com/beer/profile/42081/187716/,Frankie Holland,42081,Stickman Brews,0,0
+611,6.50,164677,https://www.beeradvocate.com/beer/profile/23484/164677/,Eguberriko Garagardoa - Bière De Noël,23484,Brasserie Etxeko Bob's Beer,0,0
+612,5.50,164682,https://www.beeradvocate.com/beer/profile/38322/164682/,Bière De Printemps L'Avesnoise Bio,38322,Brasserie Forest,0,0
+613,7.10,192331,https://www.beeradvocate.com/beer/profile/19782/192331/,Biere A Boire,19782,Dunedin House of Beer,0,0
+614,7.00,164684,https://www.beeradvocate.com/beer/profile/38322/164684/,Bière L'écume Des Jours,38322,Brasserie Forest,0,0
+615,7.70,230476,https://www.beeradvocate.com/beer/profile/45681/230476/,Scale Sand,45681,Fåragården Restaurang / Fårö Bryggeri,0,0
+616,8.40,335183,https://www.beeradvocate.com/beer/profile/39446/335183/,Wiere Gaurds,39446,Braindead Brewing,0,0
+617,7.50,141904,https://www.beeradvocate.com/beer/profile/19143/141904/,La Bracine Origine,19143,La Brasserie du Pays Flamand,0,0
+618,7.70,181585,https://www.beeradvocate.com/beer/profile/35611/181585/,Inna Garde Bier Vida,35611,Platt Park Brewing Company,0,0
+619,7.40,228691,https://www.beeradvocate.com/beer/profile/42862/228691/,Biere De Garde,42862,Odd Breed Wild Ales,0,0
+620,7.10,310355,https://www.beeradvocate.com/beer/profile/49348/310355/,Homeland,49348,Powers Farm & Brewery,0,0
+621, ? ,164692,https://www.beeradvocate.com/beer/profile/16445/164692/,Vivat De Printemps,16445,Brasserie historique de l'Abbaye du Cateau,0,0
+622, ? ,125269,https://www.beeradvocate.com/beer/profile/31425/125269/,Braumeister Nr.8: Bière Du Garde,31425,Lichtenthaler Bräu,0,0
+623, ? ,164694,https://www.beeradvocate.com/beer/profile/3845/164694/,Hollbeer Prestige,3845,Brasserie Hollbeer et Magasin,0,0
+624, ? ,164695,https://www.beeradvocate.com/beer/profile/3845/164695/,La Bière Au Crémant,3845,Brasserie Hollbeer et Magasin,0,0
+625, ? ,164698,https://www.beeradvocate.com/beer/profile/3845/164698/,Hollbeer SUMMUM,3845,Brasserie Hollbeer et Magasin,0,0
+626,7.50,288611,https://www.beeradvocate.com/beer/profile/38563/288611/,Gallica Ambrée,38563,MonsRegius bières artisanales,0,0
+627,7.00,288612,https://www.beeradvocate.com/beer/profile/38563/288612/,Gallica Blonde,38563,MonsRegius bières artisanales,0,0
+628,4.80,148837,https://www.beeradvocate.com/beer/profile/10005/148837/,Salve Garde,10005,Les Brasseurs Du Sornin,0,0
+629,6.00,288613,https://www.beeradvocate.com/beer/profile/38563/288613/,Gallica Blanche,38563,MonsRegius bières artisanales,0,0
+630,6.80,230757,https://www.beeradvocate.com/beer/profile/11552/230757/,Lafayette,11552,Redlight Redlight,0,0
+631, ? ,164710,https://www.beeradvocate.com/beer/profile/18378/164710/,Melen,18378,Brasserie Kerav'ale,0,0
+632,7.00,163946,https://www.beeradvocate.com/beer/profile/18844/163946/,Bière De Noël,18844,Brasserie Artisanale du Val D'Ainan,0,0
+633, ? ,163948,https://www.beeradvocate.com/beer/profile/38491/163948/,La Gavroche,38491,Brasserie Artisanale La Canaille,0,0
+634,4.50,164717,https://www.beeradvocate.com/beer/profile/33081/164717/,La Chervad,33081,Brasserie La Bambelle,0,0
+635,6.80,297838,https://www.beeradvocate.com/beer/profile/44130/297838/,The Abbey,44130,Mollusk Restaurant & Brewery,0,0
+636,8.00,190831,https://www.beeradvocate.com/beer/profile/6509/190831/,Bière De Garde Blonde,6509,Yaletown Brewing Co.,0,0
+637,4.90,279412,https://www.beeradvocate.com/beer/profile/44767/279412/,Biere De Garde,44767,Sawmill Brewing Company,0,0
+638,7.00,153716,https://www.beeradvocate.com/beer/profile/38322/153716/,Bière Ambrée L'Avesnoise,38322,Brasserie Forest,0,0
+639,6.00,153717,https://www.beeradvocate.com/beer/profile/38322/153717/,Bière Blonde L'Avesnoise,38322,Brasserie Forest,0,0
+640,8.00,292215,https://www.beeradvocate.com/beer/profile/36833/292215/,Argo Biere De Garde,36833,Meadowlark Brewing,0,0
+641,9.50,323193,https://www.beeradvocate.com/beer/profile/34734/323193/,Liminal Spaces,34734,Council Brewing Company,0,0
+642,6.70,279932,https://www.beeradvocate.com/beer/profile/49026/279932/,Biere De Garde,49026,Britannia Brewing Company,0,0
+643,6.20,164479,https://www.beeradvocate.com/beer/profile/28047/164479/,La Grande Blonde De Champigneulles,28047,Brasserie Champigneulles (TCB Beverages),0,0
+644,6.30,317311,https://www.beeradvocate.com/beer/profile/32575/317311/,Bière Dr Garde,32575,Paradox Brewery,0,0
+645,6.50,310144,https://www.beeradvocate.com/beer/profile/3353/310144/,Helen Back,3353,Rockyard Brewing,0,0
+646,6.50,164482,https://www.beeradvocate.com/beer/profile/1897/164482/,Coreff Excalibur,1897,Brasserie Coreff,0,0
+647, ? ,164484,https://www.beeradvocate.com/beer/profile/23985/164484/,La Bergère Ambrée,23985,Brasserie De Bel Air,0,0
+648, ? ,164485,https://www.beeradvocate.com/beer/profile/23985/164485/,La Bergère Blonde,23985,Brasserie De Bel Air,0,0
+649, ? ,164486,https://www.beeradvocate.com/beer/profile/23985/164486/,La Bergère Brune,23985,Brasserie De Bel Air,0,0
+650, ? ,164493,https://www.beeradvocate.com/beer/profile/18232/164493/,Bellefois Bière De Mars,18232,Brasserie De Bellefois,0,0
+651,6.50,164495,https://www.beeradvocate.com/beer/profile/32534/164495/,Ambrée Turone,32534,Brasserie de l'Aurore,0,0
+652,8.00,164498,https://www.beeradvocate.com/beer/profile/9192/164498/,Bière à La Châtaigne,9192,Brasserie De La Chapelle,0,0
+653,5.00,164499,https://www.beeradvocate.com/beer/profile/9192/164499/,Bière Au Miel,9192,Brasserie De La Chapelle,0,0
+654,6.50,146069,https://www.beeradvocate.com/beer/profile/3844/146069/,Bière De Printemps,3844,Brasserie Basabürüa,0,0
+655, ? ,146070,https://www.beeradvocate.com/beer/profile/11868/146070/,La Choue Rousse,11868,Brasserie De Vauclair,0,0
+656,5.50,164502,https://www.beeradvocate.com/beer/profile/19001/164502/,Bière Ambrée,19001,Brasserie De La Creuse,0,0
+657,6.00,146071,https://www.beeradvocate.com/beer/profile/19038/146071/,Oxit Brune,19038,Brasserie des Coteaux,0,0
+658,6.80,105367,https://www.beeradvocate.com/beer/profile/31362/105367/,Coup D’état,31362,Strong Arm Brewing,0,0
+659,5.60,146081,https://www.beeradvocate.com/beer/profile/36280/146081/,La Riva,36280,Riva Bière - Microbrassrie De Ouistreham,0,0
+660, ? ,164769,https://www.beeradvocate.com/beer/profile/3299/164769/,Bière De Froment,3299,Brasserie Sainte-Colombe,0,0
+661, ? ,146082,https://www.beeradvocate.com/beer/profile/36268/146082/,La Blonde,36268,TINA (There Is No Alternative),0,0
+662,5.60,164770,https://www.beeradvocate.com/beer/profile/9413/164770/,La Donzelle,9413,Brasserie Sancerroise,0,0
+663,6.00,215971,https://www.beeradvocate.com/beer/profile/34607/215971/,Cache Dans Le Chateau,34607,Aeronaut Brewing Company,0,0
+664,8.00,125860,https://www.beeradvocate.com/beer/profile/27919/125860/,Rover,27919,Fiddlehead Brewing Company,0,0
+665, ? ,164777,https://www.beeradvocate.com/beer/profile/9413/164777/,Lou Pelou,9413,Brasserie Sancerroise,0,0
+666,7.00,275891,https://www.beeradvocate.com/beer/profile/48820/275891/,Hommelpap,48820,Brasserie La Ferme Beck,0,0
+667,7.20,157877,https://www.beeradvocate.com/beer/profile/29911/157877/,Precious,29911,Ol' Republic Brewery,0,0
+668,6.50,214201,https://www.beeradvocate.com/beer/profile/44258/214201/,2 Fuochi,44258,K & L Birrificio Artigianale,0,0
+669, ? ,217535,https://www.beeradvocate.com/beer/profile/43295/217535/,KPNTRKN,43295,Fulton Chain Craft Brewery,0,0
+670,7.60,126147,https://www.beeradvocate.com/beer/profile/30209/126147/,Biere De Mars,30209,Canal Park Brewing Co.,0,0
+671,6.50,330180,https://www.beeradvocate.com/beer/profile/47259/330180/,Ambria,47259,Brasserie Artisanale Lutina,0,0
+672,4.50,330182,https://www.beeradvocate.com/beer/profile/47259/330182/,1735,47259,Brasserie Artisanale Lutina,0,0
+673,8.00,330183,https://www.beeradvocate.com/beer/profile/47259/330183/,Paglia D'oru,47259,Brasserie Artisanale Lutina,0,0
+674,6.00,162759,https://www.beeradvocate.com/beer/profile/37624/162759/,Daiane,37624,Cervejaria DuBier,0,0
+675,8.50,298439,https://www.beeradvocate.com/beer/profile/34028/298439/,Bowlers Bière De Garde,34028,Ten Pin Brewing Co.,0,0
+676,6.00,330184,https://www.beeradvocate.com/beer/profile/47259/330184/,Bionda,47259,Brasserie Artisanale Lutina,0,0
+677, ? ,164552,https://www.beeradvocate.com/beer/profile/11868/164552/,La Choue Brune,11868,Brasserie De Vauclair,0,0
+678,5.50,164558,https://www.beeradvocate.com/beer/profile/9412/164558/,Blonde Des Albères,9412,Brasserie Des Alberes,0,0
+679,7.80,324304,https://www.beeradvocate.com/beer/profile/48595/324304/,Golden Domer,48595,Atwater Brewery,0,0
+680, ? ,202705,https://www.beeradvocate.com/beer/profile/29911/202705/,Bière De Garde,29911,Ol' Republic Brewery,0,0
+681,8.80,38353,https://www.beeradvocate.com/beer/profile/1144/38353/,Triple De Mars,1144,Le Cheval Blanc,0,0
+682,4.50,164564,https://www.beeradvocate.com/beer/profile/9412/164564/,Blonde Bio Pur Malt,9412,Brasserie Des Alberes,0,0
+683,5.00,164569,https://www.beeradvocate.com/beer/profile/19038/164569/,Oxit Blonde,19038,Brasserie des Coteaux,0,0
+684,6.50,164578,https://www.beeradvocate.com/beer/profile/19140/164578/,La Dreum Blonde,19140,Brasserie Dreum,0,0
+685,6.50,168419,https://www.beeradvocate.com/beer/profile/26673/168419/,Au Brun,26673,Lantern Brewing,0,0
+686,7.00,164580,https://www.beeradvocate.com/beer/profile/19140/164580/,La Dreum Rousse,19140,Brasserie Dreum,0,0
+687,7.50,164581,https://www.beeradvocate.com/beer/profile/19140/164581/,La Dreum Brune,19140,Brasserie Dreum,0,0
+688, ? ,204265,https://www.beeradvocate.com/beer/profile/37539/204265/,Wookin' Pa Nub,37539,Grandma's House,0,0
+689,5.50,164585,https://www.beeradvocate.com/beer/profile/32010/164585/,L'ambrée,32010,Brasserie du Marais Poitevin,0,0
+690,10.00,187113,https://www.beeradvocate.com/beer/profile/28362/187113/,Vieux Passage,28362,Brasserie Artisanale La Souche,0,0
+691,4.50,164587,https://www.beeradvocate.com/beer/profile/32010/164587/,La Brune,32010,Brasserie du Marais Poitevin,0,0
+692,8.60,257262,https://www.beeradvocate.com/beer/profile/41849/257262/,Bière De Garde,41849,The Virginia Beer Company,0,0
+693,5.50,163574,https://www.beeradvocate.com/beer/profile/36002/163574/,Munchie,36002,Werk Force Brewing Co,0,0
+694,5.60,165370,https://www.beeradvocate.com/beer/profile/34101/165370/,Biere De Garde,34101,Dorset Brewing Company,0,0
+695,7.35,177405,https://www.beeradvocate.com/beer/profile/32279/177405/,Chitauri Cherry Biére De Mars,32279,Strangeways Brewing,0,0
+696,9.20,177407,https://www.beeradvocate.com/beer/profile/32279/177407/,Cranly Kubrick Room 237,32279,Strangeways Brewing,0,0
+697,7.00,322559,https://www.beeradvocate.com/beer/profile/34599/322559/,Exploration & Discovery No. 3,34599,Brew Gentlemen,0,0

@@ -1,0 +1,51 @@
+---
+title: "Data Incubator Project Proposal - Plot 1"
+author: "Yue Jin"
+date: "April 30, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning=FALSE)
+require(ggplot2)
+```
+
+### Plot #1
+```{r p1}
+styles<-read.csv("data_scraping_cleaning/styles_summary.csv")
+p1<-ggplot(data=styles,aes(x=avg_abv,y=avg_rating,color=cat,size=num_beer))
+p1<-p1+geom_jitter(alpha=0.8)
+p1<-p1+xlab("Average abv (%)")+ylab("Average Rating (0-5)")+ylim(2.0,5.0)
+p1<-p1+labs(color="Style Category",size="# of Product Within Style")
+p1<-p1+ggtitle("Summary of 104 Beer Styles")+theme(plot.title = element_text(hjust = 0.5))
+p1
+```
+
+#### Description
+
+All 104 types of beer styles listed on [BeerAdvocate](https://www.beeradvocate.com/beer/style/) were explored in this summary plot. 
+
+There are 4 dimensions of this plot:
+
+- Color: which large category the style belongs to
+
+- Size of Circle: total number of beer products within each style
+
+- X axis: the average alcohol by volume of each style
+
+- y axis: the average rating the style received on BeerAdvocate (0 is the worst, 5 is the best)
+
+------------------------
+
+Following patterns can be observed:
+
+- There are more ale styles than lager styles, and hybrid is the least common one
+
+- In general, ale styles receive higher ratings than lager
+
+- For ale, a positive association can be observed between alc and rating
+
+- Ale styles tend to have a wider range of alc. For lager, most styles have an average alc around 5%, although a few lager styles have much higher alc
+
+- Ale styles are more popular among beer manufacturers (i.e more products), 
+

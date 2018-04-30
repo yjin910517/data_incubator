@@ -1,0 +1,917 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,6.80,355,https://www.beeradvocate.com/beer/profile/132/355/,Dead Guy Ale,132,Rogue Ales,"7,677",3.94
+1,8.00,1565,https://www.beeradvocate.com/beer/profile/3/1565/,Andygator,3,Abita Brewing Co.,"1,658",3.55
+2,6.50,3001,https://www.beeradvocate.com/beer/profile/3/3001/,Mardi Gras Bock,3,Abita Brewing Co.,775,3.46
+3,7.20,3397,https://www.beeradvocate.com/beer/profile/4686/3397/,Hofbräu Maibock (Urbock),4686,Hofbräuhaus München,754,3.88
+4,6.90,111683,https://www.beeradvocate.com/beer/profile/694/111683/,Cultivator,694,Tröegs Brewing Company,640,3.85
+5,6.40,55317,https://www.beeradvocate.com/beer/profile/132/55317/,John John Dead Guy Ale,132,Rogue Ales,577,3.81
+6,6.00,55418,https://www.beeradvocate.com/beer/profile/590/55418/,Cabin Fever,590,New Glarus Brewing Company,560,3.59
+7,6.25,21861,https://www.beeradvocate.com/beer/profile/302/21861/,Dundee Pale Bock Lager,302,Genesee Brewing Co. / Dundee Brewing Co.,484,3.42
+8,6.70,2734,https://www.beeradvocate.com/beer/profile/467/2734/,Summit Maibock,467,Summit Brewing Company,468,3.61
+9,14.00,39766,https://www.beeradvocate.com/beer/profile/285/39766/,Samichlaus Bier Helles,285,Brauerei Schloss Eggenberg,428,3.79
+10,7.40,1011,https://www.beeradvocate.com/beer/profile/345/1011/,St. Boisterous,345,Victory Brewing Company - Downingtown,428,3.84
+11,6.50,202,https://www.beeradvocate.com/beer/profile/66/202/,Mai-Ur-Bock,66,Einbecker Brauhaus AG,419,3.77
+12,7.00,21639,https://www.beeradvocate.com/beer/profile/10707/21639/,Josephs Brau Heller Bock,10707,Trader Joe's Brewing Company,414,3.42
+13,6.10,56707,https://www.beeradvocate.com/beer/profile/423/56707/,Boss Tom's Golden Bock,423,Boulevard Brewing Co.,336,3.52
+14,7.00,33651,https://www.beeradvocate.com/beer/profile/1551/33651/,Gordon Biersch Blonde Bock,1551,Gordon Biersch Brewery Restaurant,333,3.33
+15,6.20,984,https://www.beeradvocate.com/beer/profile/368/984/,Maibock,368,Capital Brewery,322,3.79
+16,6.50,80801,https://www.beeradvocate.com/beer/profile/26520/80801/,Maibock Hurts Like Helles,26520,Jack's Abby Brewing,298,3.87
+17,6.50,66780,https://www.beeradvocate.com/beer/profile/213/66780/,Narragansett Bock,213,Narragansett Brewing Co.,284,3.82
+18,6.50,923,https://www.beeradvocate.com/beer/profile/33/923/,Berkshire Maibock Lager,33,Berkshire Brewing Company Inc.,227,3.87
+19,7.00,64415,https://www.beeradvocate.com/beer/profile/5316/64415/,LTD Series - 04,5316,Full Sail Brewery & Tasting Room & Pub,222,3.59
+20,7.00,9906,https://www.beeradvocate.com/beer/profile/394/9906/,Stoudt's Blonde Double MaiBock,394,Stoudts Brewing Co.,213,3.78
+21,6.00,995,https://www.beeradvocate.com/beer/profile/144/995/,Mai Bock,144,Sprecher Brewing Company,187,3.73
+22,7.30,29981,https://www.beeradvocate.com/beer/profile/1551/29981/,Gordon Biersch Maibock,1551,Gordon Biersch Brewery Restaurant,176,3.51
+23,8.00,135171,https://www.beeradvocate.com/beer/profile/3/135171/,Abita Strawgator,3,Abita Brewing Co.,171,3.84
+24,6.40,36188,https://www.beeradvocate.com/beer/profile/5316/36188/,LTD Series - 02,5316,Full Sail Brewery & Tasting Room & Pub,167,3.67
+25,7.50,28869,https://www.beeradvocate.com/beer/profile/9969/28869/,Bucking Bock,9969,Rahr & Sons Brewing Company,163,3.44
+26,6.80,17569,https://www.beeradvocate.com/beer/profile/76/17569/,Hacker-Pschorr Hubertus Bock,76,Hacker-Pschorr Bräu GmbH,162,3.8
+27,6.50,46008,https://www.beeradvocate.com/beer/profile/13667/46008/,The Gift (WinterBock Lager),13667,Starr Hill Brewery,148,3.53
+28,7.30,90967,https://www.beeradvocate.com/beer/profile/10707/90967/,Josephs Brau Spring Prost,10707,Trader Joe's Brewing Company,147,3.6
+29,7.50,13845,https://www.beeradvocate.com/beer/profile/707/13845/,Primátor Maibock,707,Pivovar Náchod a.s.,132,3.64
+30,6.50,91735,https://www.beeradvocate.com/beer/profile/16773/91735/,Voku Hila,16773,Local Option,118,3.48
+31,6.50,3744,https://www.beeradvocate.com/beer/profile/142/3744/,Spaten Maibock / Premium Bock,142,Spaten-Franziskaner-Bräu,117,3.76
+32,7.00,6724,https://www.beeradvocate.com/beer/profile/911/6724/,Andechser Bergbock Hell,911,Klosterbrauerei Andechs,111,3.88
+33,7.00,7359,https://www.beeradvocate.com/beer/profile/628/7359/,Holsten Maibock,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,111,2.85
+34,7.50,31104,https://www.beeradvocate.com/beer/profile/15280/31104/,Atwater Maibock,15280,Atwater Brewery,107,3.34
+35,6.80,52044,https://www.beeradvocate.com/beer/profile/11056/52044/,Serie Signature Maibock,11056,Les Trois Mousquetaires,106,3.71
+36,8.00,36925,https://www.beeradvocate.com/beer/profile/125/36925/,PENNdemonium,125,Pennsylvania Brewing Company,105,3.72
+37,6.80,136,https://www.beeradvocate.com/beer/profile/39/136/,Ayinger Maibock,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,101,4.07
+38,6.00,81332,https://www.beeradvocate.com/beer/profile/173/81332/,Lila,173,Hair of the Dog Brewing Company / Brewery and Tasting Room,97,3.87
+39,6.50,17674,https://www.beeradvocate.com/beer/profile/1628/17674/,Southampton May Bock,1628,Southampton Publick House,94,4.02
+40,6.00,57056,https://www.beeradvocate.com/beer/profile/19247/57056/,Früh Bock,19247,The Olde Mecklenburg Brewery,87,4.02
+41,6.80,97097,https://www.beeradvocate.com/beer/profile/18539/97097/,Turbo Cougar,18539,Devils Backbone Brewing Company,83,3.6
+42,6.00,57208,https://www.beeradvocate.com/beer/profile/22413/57208/,Bayou Bock,22413,Covington Brewhouse,81,3.19
+43,6.50,2413,https://www.beeradvocate.com/beer/profile/428/2413/,Mahr's Bock-Bier,428,Mahr's Bräu,80,3.8
+44,6.50,23121,https://www.beeradvocate.com/beer/profile/642/23121/,Brinkley's Maibock,642,Free State Brewing Co.,78,3.6
+45,8.00,28691,https://www.beeradvocate.com/beer/profile/11036/28691/,Gruffmeister 8,11036,Foothills Brewing Company - Downtown Brewpub,76,3.63
+46,6.50,93396,https://www.beeradvocate.com/beer/profile/30437/93396/,Hizzoner Maibock,30437,Two Roads Brewing Company,76,3.87
+47,7.00,9540,https://www.beeradvocate.com/beer/profile/607/9540/,Ramstein Maibock,607,High Point Brewing Company,74,3.99
+48,6.00,59719,https://www.beeradvocate.com/beer/profile/605/59719/,Bayern Dump Truck,605,"Bayern Brewing, Inc. / Edelweiss Bistro",69,3.76
+49,10.00,65239,https://www.beeradvocate.com/beer/profile/16352/65239/,Long Winter's Nap,16352,Blue Mountain Brewery,66,3.78
+50,7.50,65958,https://www.beeradvocate.com/beer/profile/402/65958/,Dominion Big Thaw Bock,402,Old Dominion Brewing Company,62,3.65
+51,8.00,35150,https://www.beeradvocate.com/beer/profile/1805/35150/,Hells Bock,1805,Rock Art Brewery,60,3.61
+52,6.50,68529,https://www.beeradvocate.com/beer/profile/10991/68529/,Saengerfest Maibock,10991,Christian Moerlein Brewing Company,60,3.68
+53,6.60,23301,https://www.beeradvocate.com/beer/profile/486/23301/,Maibock,486,Legend Brewing Co.,59,3.73
+54,6.50,8693,https://www.beeradvocate.com/beer/profile/1499/8693/,Carolina Spring Bock,1499,Carolina Brewing Company,57,3.77
+55,7.00,57590,https://www.beeradvocate.com/beer/profile/200/57590/,Mendocino Spring Seasonal Bock,200,Mendocino Brewing Company,56,3.5
+56,7.50,9392,https://www.beeradvocate.com/beer/profile/890/9392/,Altenmünster Maibock,890,Allgäuer Brauhaus AG,53,3.69
+57,7.20,9707,https://www.beeradvocate.com/beer/profile/1336/9707/,Anniversary Maibock,1336,Appalachian Brewing Company,52,3.73
+58,6.60,224240,https://www.beeradvocate.com/beer/profile/26817/224240/,Ron’s Steam Bock Haircut,26817,Carton Brewing Company,48,3.97
+59,6.90,48922,https://www.beeradvocate.com/beer/profile/3340/48922/,Heller Bock,3340,Dinkelacker-Schwabenbraeu AG,47,3.5
+60,7.20,17146,https://www.beeradvocate.com/beer/profile/219/17146/,Sudwerk Mai Bock,219,Sudwerk Brewing Company,45,3.55
+61,6.70,232288,https://www.beeradvocate.com/beer/profile/66/232288/,Ainpöckisch Bier 1378,66,Einbecker Brauhaus AG,44,3.8
+62,7.50,11724,https://www.beeradvocate.com/beer/profile/1170/11724/,Maibock,1170,Upland Brewing Company,44,3.56
+63,6.30,111893,https://www.beeradvocate.com/beer/profile/3912/111893/,Rye-Bock,3912,Cameron's Brewing Co.,43,3.66
+64,6.20,16013,https://www.beeradvocate.com/beer/profile/3760/16013/,Mill Street Helles Bock,3760,Mill Street Brew Pub,43,3.55
+65,6.60,93631,https://www.beeradvocate.com/beer/profile/16352/93631/,Maggie Maibock,16352,Blue Mountain Brewery,42,3.62
+66,6.80,210257,https://www.beeradvocate.com/beer/profile/741/210257/,Maibock,741,"Lakefront Brewery, Inc.",41,3.94
+67,6.10,98233,https://www.beeradvocate.com/beer/profile/345/98233/,4Hop Bock,345,Victory Brewing Company - Downingtown,41,3.66
+68,7.00,95680,https://www.beeradvocate.com/beer/profile/726/95680/,DAB Maibock,726,Dortmunder Actien Brauerei / DAB,41,3.46
+69,6.90,91912,https://www.beeradvocate.com/beer/profile/880/91912/,Straub Maibock,880,Straub Brewery,40,3.68
+70,6.50,6236,https://www.beeradvocate.com/beer/profile/66/6236/,Einbecker Ur-Bock Hell,66,Einbecker Brauhaus AG,39,3.67
+71,7.60,100426,https://www.beeradvocate.com/beer/profile/458/100426/,Brewers' Cut Maibock,458,Real Ale Brewing Company,38,3.57
+72,5.00,115591,https://www.beeradvocate.com/beer/profile/9020/115591/,Spring Helles Bock,9020,Yazoo Brewing Company,38,3.62
+73,6.60,23517,https://www.beeradvocate.com/beer/profile/1853/23517/,Helles Bock,1853,Sly Fox Brewing Company,37,3.84
+74,6.00,143839,https://www.beeradvocate.com/beer/profile/99/143839/,Saranac Goat Rodeo Pale Bock Lager,99,Matt Brewing Company / Saranac Brewery,37,3.51
+75,7.00,85779,https://www.beeradvocate.com/beer/profile/15435/85779/,Wild Oats Series No. 24 - Oktobock,15435,Beau's All Natural Brewing Company,36,3.41
+76,7.20,25332,https://www.beeradvocate.com/beer/profile/4685/25332/,Maibock,4685,Hofbräuhaus Newport,36,3.9
+77,7.00,170403,https://www.beeradvocate.com/beer/profile/68/170403/,Brewhouse Rarities Maibock,68,Flying Dog Brewery,35,3.83
+78,8.20,302012,https://www.beeradvocate.com/beer/profile/132/302012/,Dead 'N' Dead,132,Rogue Ales,35,4.04
+79,6.50,31485,https://www.beeradvocate.com/beer/profile/605/31485/,Bayern Maibock Lager,605,"Bayern Brewing, Inc. / Edelweiss Bistro",35,3.29
+80,6.80,128031,https://www.beeradvocate.com/beer/profile/140/128031/,Old Chico Brand Pale Bock,140,Sierra Nevada Brewing Co.,34,3.83
+81,7.00,3623,https://www.beeradvocate.com/beer/profile/506/3623/,Grolsch Lentebok,506,Grolsch Bierbrouwerij N.V.,34,3
+82,7.20,42131,https://www.beeradvocate.com/beer/profile/6045/42131/,Maibock,6045,Iron Hill Brewery & Restaurant,34,3.62
+83,8.50,111717,https://www.beeradvocate.com/beer/profile/24791/111717/,Colossal Three,24791,Port City Brewing,33,3.79
+84,6.50,56724,https://www.beeradvocate.com/beer/profile/16304/56724/,Dog Stalker April Bock,16304,Grand River Brewing,32,3.46
+85,8.00,62011,https://www.beeradvocate.com/beer/profile/5855/62011/,Schönramer Saphir Bock,5855,Private Landbrauerei Schönram,31,3.89
+86,4.90,125739,https://www.beeradvocate.com/beer/profile/29619/125739/,Hop In The ‘Pool Late Hop Helles,29619,Base Camp Brewing Company,30,3.77
+87, ? ,17999,https://www.beeradvocate.com/beer/profile/2943/17999/,Maibock,2943,Otto's Pub and Brewery,30,3.92
+88,7.50,112690,https://www.beeradvocate.com/beer/profile/34021/112690/,Quittin' Time,34021,Brewery 85,29,3.71
+89,7.30,93020,https://www.beeradvocate.com/beer/profile/23076/93020/,Maiden's Kiss,23076,Grimm Brothers Brewhouse,28,3.85
+90,8.00,24019,https://www.beeradvocate.com/beer/profile/961/24019/,Schmucker Rosébock,961,Privat Brauerei Schmucker Ober-Mossau KG,28,3.83
+91,6.40,9829,https://www.beeradvocate.com/beer/profile/583/9829/,Schlafly Maibock,583,The Schlafly Tap Room,27,3.61
+92,6.50,60683,https://www.beeradvocate.com/beer/profile/531/60683/,Brand Lentebock,531,Brand Bierbrouwerij,26,3.44
+93,7.20,93189,https://www.beeradvocate.com/beer/profile/29666/93189/,Maibock,29666,Prost Brewing Company,25,3.94
+94,6.40,46117,https://www.beeradvocate.com/beer/profile/17287/46117/,Helles Bock,17287,Wedge Brewing Company,25,3.77
+95,7.00,49400,https://www.beeradvocate.com/beer/profile/18539/49400/,Maibock,18539,Devils Backbone Brewing Company,25,3.71
+96,5.80,218121,https://www.beeradvocate.com/beer/profile/29314/218121/,Hoppin' Maibock,29314,Big Rig Brewery,24,3.61
+97,6.90,99357,https://www.beeradvocate.com/beer/profile/11008/99357/,Hideout Helles,11008,Pug Ryan's Brewery,24,3.58
+98,6.50,117316,https://www.beeradvocate.com/beer/profile/30300/117316/,Magisterium Maibock,30300,Church Street Brewing Company,23,3.6
+99,7.09,57927,https://www.beeradvocate.com/beer/profile/17033/57927/,Franconia Maibock,17033,Franconia Brewing Company,23,3.63
+100,5.80,47513,https://www.beeradvocate.com/beer/profile/19136/47513/,Rock Out With Your Bock Out,19136,Terminal Brewhouse,23,3.62
+101,7.00,21293,https://www.beeradvocate.com/beer/profile/2097/21293/,Kuhnhenn Metry's Winter Lager,2097,Kuhnhenn Brewing Company,22,3.6
+102,7.00,10568,https://www.beeradvocate.com/beer/profile/820/10568/,Augustiner Bräu Heller Bock,820,Augustiner-Bräu Wagner KG,22,3.92
+103,6.50,161167,https://www.beeradvocate.com/beer/profile/33205/161167/,#011 Betray Ale,33205,Wisconsin Brewing Co.,22,3.69
+104,7.00,293279,https://www.beeradvocate.com/beer/profile/35/293279/,Three Ninety Bock,35,Boston Beer Company (Samuel Adams),22,3.84
+105,6.70,93645,https://www.beeradvocate.com/beer/profile/16378/93645/,Lenz Bock,16378,Heater Allen Brewing,22,4.03
+106,4.50,107488,https://www.beeradvocate.com/beer/profile/16088/107488/,Humbucker Helles,16088,Uncle Billy's Brew & Que,22,3.47
+107,7.50,64330,https://www.beeradvocate.com/beer/profile/9370/64330/,Bufadora,9370,Consorcio Cervecero De Baja California ( La Taberna TJ ),21,3.11
+108,5.70,443,https://www.beeradvocate.com/beer/profile/167/443/,Lobkowicz Prince,167,Brewery Lobkowicz,21,3.63
+109,6.30,3608,https://www.beeradvocate.com/beer/profile/1334/3608/,Maibock,1334,Blind Tiger Brewery & Restaurant,20,3.87
+110,6.50,91419,https://www.beeradvocate.com/beer/profile/3266/91419/,Maibock,3266,Sockeye Grill & Brewery,20,3.68
+111,6.70,6367,https://www.beeradvocate.com/beer/profile/1177/6367/,Town Hall Maibock,1177,Minneapolis Town Hall Brewery,20,4.1
+112,6.90,68072,https://www.beeradvocate.com/beer/profile/2854/68072/,Flensburger Frühlingsbock,2854,Flensburger Brauerei GmbH Und Co. KG,20,3.27
+113,5.50,58891,https://www.beeradvocate.com/beer/profile/15526/58891/,Helles,15526,Hopfenstark,19,3.82
+114,6.50,97842,https://www.beeradvocate.com/beer/profile/11068/97842/,Poretti 5 Luppoli Bock Chiara,11068,Carlsberg Italia S.p.A.,19,3.3
+115,7.00,1610,https://www.beeradvocate.com/beer/profile/603/1610/,Mad Brewer Maibock,603,Church Brew Works,19,4.01
+116,6.50,3616,https://www.beeradvocate.com/beer/profile/761/3616/,CB's Spring Fever,761,CB Craft Brewers,18,4.02
+117,7.20,13709,https://www.beeradvocate.com/beer/profile/4216/13709/,Engel Bock Hell,4216,Crailsheimer Engelbräu,18,3.77
+118,6.50,71788,https://www.beeradvocate.com/beer/profile/18386/71788/,Coruja Strix Extra,18386,Cerveja Coruja,17,3.57
+119,7.00,81291,https://www.beeradvocate.com/beer/profile/16105/81291/,Mayflower Maibock,16105,Mayflower Brewing Company,17,3.62
+120,6.90,7926,https://www.beeradvocate.com/beer/profile/2706/7926/,Park Pirminator,2706,Parkbrauerei / Park & Bellheimer AG,17,3.41
+121,6.90,33547,https://www.beeradvocate.com/beer/profile/1623/33547/,Maibock,1623,Aktienbrauerei Kaufbeuren AG,16,3.46
+122,7.20,225080,https://www.beeradvocate.com/beer/profile/7591/225080/,Feldschlösschen Maibock,7591,Feldschlösschen AG,16,3.79
+123,5.00,19259,https://www.beeradvocate.com/beer/profile/5066/19259/,Feierling Inselhopf,5066,Hausbrauerei Feierling,16,4.4
+124,6.80,209386,https://www.beeradvocate.com/beer/profile/34315/209386/,Rock Out With Mai Bock Out,34315,Hailstorm Brewing Co.,16,3.98
+125,8.00,23582,https://www.beeradvocate.com/beer/profile/2097/23582/,Kuhnhenn Maibock,2097,Kuhnhenn Brewing Company,15,3.95
+126,7.00,7532,https://www.beeradvocate.com/beer/profile/890/7532/,St. Magnus Heller Bock,890,Allgäuer Brauhaus AG,15,3.41
+127,6.50,25230,https://www.beeradvocate.com/beer/profile/1666/25230/,Maibock,1666,Selin's Grove Brewing Company,15,3.76
+128,6.50,28833,https://www.beeradvocate.com/beer/profile/6346/28833/,King Pilsbock,6346,King Brewery,15,3.76
+129,8.30,67792,https://www.beeradvocate.com/beer/profile/20672/67792/,Maibock,20672,Sun King Brewing Company,15,3.89
+130,5.00,200202,https://www.beeradvocate.com/beer/profile/10321/200202/,Get Off Maibock,10321,Central City Brewers + Distillers,14,3.63
+131,7.70,28498,https://www.beeradvocate.com/beer/profile/1762/28498/,Fall Bock,1762,The St. George Brewing Company,14,3.8
+132,6.50,23642,https://www.beeradvocate.com/beer/profile/620/23642/,Hirschbrau Heller Bock,620,Der HirschBrau/Privatbrauerei Höss,14,3.46
+133,7.10,29308,https://www.beeradvocate.com/beer/profile/179/29308/,Discombobulator Mai-Bock,179,Snake River Brewing Company & Brewpub,14,3.87
+134,7.00,166564,https://www.beeradvocate.com/beer/profile/34507/166564/,Nose Over Tail,34507,Pollyanna Brewing Company,14,3.68
+135,6.00,81851,https://www.beeradvocate.com/beer/profile/26824/81851/,#CarlBock,26824,The Civil Life Brewing Company,14,3.59
+136,7.00,57367,https://www.beeradvocate.com/beer/profile/8203/57367/,Maibock,8203,Paddock Wood Brewing Co.,13,3.63
+137,7.30,43839,https://www.beeradvocate.com/beer/profile/2629/43839/,Alpirsbacher Klosterbräu Kloster Starkbier,2629,Alpirsbacher Klosterbräu,13,3.81
+138,7.00,30528,https://www.beeradvocate.com/beer/profile/702/30528/,Barrel Roll Bock,702,Flying Bison Brewing Company,13,3.79
+139,6.50,50006,https://www.beeradvocate.com/beer/profile/12516/50006/,Maibark,12516,Thirsty Dog Brewing Company,13,4.02
+140,6.80,5231,https://www.beeradvocate.com/beer/profile/1000/5231/,Brewer's Alley Maibock,1000,Brewer's Alley Restaurant & Brewery,13,3.54
+141,6.90,34434,https://www.beeradvocate.com/beer/profile/1623/34434/,Heller Belli Bock,1623,Aktienbrauerei Kaufbeuren AG,13,3.56
+142,7.00,278957,https://www.beeradvocate.com/beer/profile/302/278957/,Pilot Batch Helles Bock,302,Genesee Brewing Co. / Dundee Brewing Co.,13,3.89
+143,7.10,37574,https://www.beeradvocate.com/beer/profile/16060/37574/,Maibock,16060,Weeping Radish Eco Farm & Brewery,13,3.32
+144,7.50,17384,https://www.beeradvocate.com/beer/profile/1749/17384/,Blonde Bock,1749,Wisconsin Dells Brewing Co.,13,3.78
+145,7.20,167413,https://www.beeradvocate.com/beer/profile/26753/167413/,Walpurgisnacht,26753,Hardywood Park Craft Brewery,13,3.8
+146,9.00,36111,https://www.beeradvocate.com/beer/profile/15793/36111/,Mindblock Maibock,15793,Union Barrel Works,12,3.98
+147,7.00,55837,https://www.beeradvocate.com/beer/profile/7285/55837/,Rieder Festbock,7285,Brauerei Ried,12,3.93
+148,6.10,229757,https://www.beeradvocate.com/beer/profile/32679/229757/,Men Not Machines,32679,Wiseacre Brewing,12,3.86
+149,6.20,120961,https://www.beeradvocate.com/beer/profile/848/120961/,Maibock,848,Bristol Brewing Company,12,4
+150,7.50,93617,https://www.beeradvocate.com/beer/profile/526/93617/,Texels Springtij,526,Texelse Bierbrouwerij,12,3.56
+151, ? ,50612,https://www.beeradvocate.com/beer/profile/15696/50612/,Red Caboose,15696,Tin Mill Brewing Company,12,3.38
+152,6.20,69822,https://www.beeradvocate.com/beer/profile/9784/69822/,Bach Nein,9784,Zero Gravity Craft Brewery / American Flatbread,12,3.72
+153,7.50,9941,https://www.beeradvocate.com/beer/profile/2669/9941/,Black Forest MaiBock,2669,Black Forest Brew Haus,12,3.96
+154,6.50,5853,https://www.beeradvocate.com/beer/profile/546/5853/,Alfa Lentebok,546,Alfa Bierbrouwerij B.V.,12,3.61
+155,9.00,134389,https://www.beeradvocate.com/beer/profile/5850/134389/,Auris 19,5850,Brauhaus Riegele,12,3.8
+156,7.00,8450,https://www.beeradvocate.com/beer/profile/1371/8450/,Kalinkin,1371,Stepan Razin Brewery,11,3.51
+157,4.90,36618,https://www.beeradvocate.com/beer/profile/5848/36618/,Mittenwalder Karwendel Hell,5848,Brauerei Mittenwald,11,3.47
+158,7.20,3084,https://www.beeradvocate.com/beer/profile/959/3084/,Copper Mtn Maibock,959,Silver City Brewing Co.,11,3.96
+159,7.00,93721,https://www.beeradvocate.com/beer/profile/26607/93721/,Maibock,26607,Occidental Brewing Co.,11,3.72
+160,8.00,167709,https://www.beeradvocate.com/beer/profile/793/167709/,The Twins,793,Lake Louie Brewery Company,11,3.89
+161,7.00,80930,https://www.beeradvocate.com/beer/profile/20766/80930/,Maibock,20766,Greenport Harbor Brewing Company,11,3.66
+162,7.00,139845,https://www.beeradvocate.com/beer/profile/14598/139845/,Weeping Reaper Blood Orange Helles Bock,14598,Dead Frog Brewing,11,3.47
+163,6.50,54634,https://www.beeradvocate.com/beer/profile/18386/54634/,Coruja Extra Viva,18386,Cerveja Coruja,11,3.7
+164,7.00,12717,https://www.beeradvocate.com/beer/profile/929/12717/,Klosterbräu Bockbier Hell,929,Brauerei-Gaststätte Klosterbräu,11,3.96
+165,6.50,151472,https://www.beeradvocate.com/beer/profile/1398/151472/,Empire Strikes Bock,1398,Empire Brewing Company - Brewpub,11,3.08
+166,8.20,83720,https://www.beeradvocate.com/beer/profile/10214/83720/,Petra Stark Bier,10214,Cervejaria Petrópolis,10,3.22
+167,7.00,17696,https://www.beeradvocate.com/beer/profile/364/17696/,Maybock,364,Maritime Pacific Brewing Company,10,3.34
+168,6.50,74568,https://www.beeradvocate.com/beer/profile/23201/74568/,Elixer Bock,23201,Mad Fox Brewing Company,10,3.78
+169,7.10,51819,https://www.beeradvocate.com/beer/profile/285/51819/,Birra Magalotti 1845 Bock,285,Brauerei Schloss Eggenberg,10,3
+170,7.30,12915,https://www.beeradvocate.com/beer/profile/100/12915/,McNeill's Maibock,100,McNeill's Brewery,10,2.6
+171,6.60,225406,https://www.beeradvocate.com/beer/profile/396/225406/,Spring Bock,396,AleSmith Brewing Company,10,3.82
+172,7.20,172175,https://www.beeradvocate.com/beer/profile/33137/172175/,Maibock,33137,Queen City Brewery,10,3.99
+173, ? ,100039,https://www.beeradvocate.com/beer/profile/140/100039/,Hips Helles,140,Sierra Nevada Brewing Co.,10,3.59
+174,6.80,107465,https://www.beeradvocate.com/beer/profile/23081/107465/,Maibock,23081,Strange Craft Beer Company,10,3.64
+175,5.30,125394,https://www.beeradvocate.com/beer/profile/34327/125394/,Buoy Helles,34327,Buoy Beer Company,10,3.76
+176,7.70,97505,https://www.beeradvocate.com/beer/profile/32180/97505/,Maibock,32180,Blue Stallion Brewing Co.,10,3.7
+177,9.00,52250,https://www.beeradvocate.com/beer/profile/7282/52250/,Honigbock,7282,Brauerei Hofstetten Krammer GmbH & Co. KG,9,4.04
+178,6.30,13355,https://www.beeradvocate.com/beer/profile/593/13355/,Maibock,593,Morgan Street Brewery,9,3.45
+179,6.70,89646,https://www.beeradvocate.com/beer/profile/596/89646/,Portsmouth Rye Bock,596,Portsmouth Brewery,9,3.73
+180,6.70,99634,https://www.beeradvocate.com/beer/profile/345/99634/,Sommerbock,345,Victory Brewing Company - Downingtown,9,3.85
+181,6.50,50244,https://www.beeradvocate.com/beer/profile/1550/50244/,Goat Toppler,1550,Rock Bottom Restaurant & Brewery,9,3.58
+182,5.70,10852,https://www.beeradvocate.com/beer/profile/1435/10852/,Tuborg Kylle Kylle Påskebryg,1435,Tuborgs Bryggerier A/S,9,3.3
+183,8.10,192374,https://www.beeradvocate.com/beer/profile/18412/192374/,Jabalí Hellesbock,18412,Cerveceria Primus,9,3.8
+184,7.20,197772,https://www.beeradvocate.com/beer/profile/33/197772/,Slue's Maibock Lager,33,Berkshire Brewing Company Inc.,9,3.72
+185,6.90,68754,https://www.beeradvocate.com/beer/profile/412/68754/,Mönchshof Maibock,412,Kulmbacher Brauerei AG,9,3.79
+186,8.00,69267,https://www.beeradvocate.com/beer/profile/11036/69267/,Oak Aged Gruffmeister 8,11036,Foothills Brewing Company - Downtown Brewpub,9,3.8
+187,6.20,9886,https://www.beeradvocate.com/beer/profile/1644/9886/,Spring Bock,1644,Kutztown Tavern,9,3.68
+188,8.00,11201,https://www.beeradvocate.com/beer/profile/451/11201/,Moat Maibock,451,Moat Mountain Smoke House & Brewing Co.,9,3.78
+189,6.80,23782,https://www.beeradvocate.com/beer/profile/6668/23782/,Colbitzer Heide Bock,6668,Colbitzer Heidebrauerei,9,3.2
+190,6.50,167913,https://www.beeradvocate.com/beer/profile/4049/167913/,Stumbling Goat,4049,Cannery Brewing Company,9,3.82
+191,6.60,30207,https://www.beeradvocate.com/beer/profile/6331/30207/,Andre,6331,Brouwerij De Prael,9,3.73
+192,6.20,188166,https://www.beeradvocate.com/beer/profile/29271/188166/,1859,29271,Santiam Brewing Company,8,3.93
+193,7.20,17415,https://www.beeradvocate.com/beer/profile/6809/17415/,Ulmer Maibock,6809,Familienbrauerei Bauhöfer GmbH & Co. KG,8,3.45
+194,6.50,57103,https://www.beeradvocate.com/beer/profile/13659/57103/,Kross Maibock,13659,Kross Microbrew Beer (Southern Brewing Company),8,3.45
+195,6.50,68426,https://www.beeradvocate.com/beer/profile/1446/68426/,Blue Mountain Maibock,1446,Market Cross Pub & Brewery,8,3.76
+196,6.50,183378,https://www.beeradvocate.com/beer/profile/35033/183378/,Beast Of The Deep,35033,Brewers & Union UG,8,3.58
+197,6.50,82003,https://www.beeradvocate.com/beer/profile/2599/82003/,Balanced Rock Maibock,2599,"Fredericksburg Brewing Company, Inc.",8,3.65
+198,6.60,118622,https://www.beeradvocate.com/beer/profile/34069/118622/,Maibock,34069,Kansas City Bier Company,8,4.04
+199,5.50,225131,https://www.beeradvocate.com/beer/profile/44669/225131/,Instigator,44669,Proper Brewing Co,8,3.69
+200,7.20,167796,https://www.beeradvocate.com/beer/profile/7059/167796/,Alamo Maibock,7059,Alamo Beer Co.,8,3.69
+201,7.00,109179,https://www.beeradvocate.com/beer/profile/22655/109179/,Montesano Maibock,22655,Straight To Ale,8,3.62
+202,7.10,230536,https://www.beeradvocate.com/beer/profile/933/230536/,Stolichno Pale Bock,933,Zagorka Brewery / Pivovaren Zavod Zagorka,8,3.44
+203,7.50,36745,https://www.beeradvocate.com/beer/profile/1754/36745/,Maibock,1754,Stewart's Brewing Co.,8,3.77
+204,6.40,69018,https://www.beeradvocate.com/beer/profile/23694/69018/,Bash-Bish Bock,23694,Wandering Star Brewing Company,8,3.48
+205,7.20,58271,https://www.beeradvocate.com/beer/profile/1619/58271/,Maibock,1619,C.H. Evans Brewing Company,8,3.78
+206,6.00,37799,https://www.beeradvocate.com/beer/profile/2695/37799/,Don't Mock Mai Bock,2695,Bull & Bush Brewery,8,3.77
+207,6.70,49322,https://www.beeradvocate.com/beer/profile/4154/49322/,Helles Bock Beer,4154,Klosterbrauerei Reutberg,8,3.53
+208,6.00,87727,https://www.beeradvocate.com/beer/profile/144/87727/,Game On Shoot Out Maibock,144,Sprecher Brewing Company,8,3
+209,7.10,81083,https://www.beeradvocate.com/beer/profile/27021/81083/,Mechanics Grove,27021,Tighthead Brewing Company,8,3.8
+210,8.70,17351,https://www.beeradvocate.com/beer/profile/2078/17351/,Yippee Ei O Springbock,2078,Sweetwater Tavern & Brewery,8,3.68
+211,6.60,18121,https://www.beeradvocate.com/beer/profile/1926/18121/,Bock Of The Bat,1926,Ellicott Mills Brewing Company,8,3.93
+212,7.20,56537,https://www.beeradvocate.com/beer/profile/6024/56537/,Wohn's Heller Bock,6024,Privatbrauerei Frankenwälder Bürgerbräu Naila A. Wohn OHG,8,3.51
+213,7.30,40156,https://www.beeradvocate.com/beer/profile/3800/40156/,Murauer Bock,3800,Erste Obermurtaler Brauereigenossenschaft,8,3.3
+214,9.30,163810,https://www.beeradvocate.com/beer/profile/18316/163810/,Hop Test #1 (Hellnation Hoppy Maibock),18316,Al's of Hampden / Pizza Boy Brewing,8,3.69
+215,7.50,50171,https://www.beeradvocate.com/beer/profile/11890/50171/,Emelisse Lentebock,11890,Bierbrouwerij Grand-Café  Emelisse,8,3.66
+216,7.30,142847,https://www.beeradvocate.com/beer/profile/36177/142847/,19 Days,36177,TwoDEEP Brewing Co.,8,3.87
+217,6.80,53268,https://www.beeradvocate.com/beer/profile/5964/53268/,Winterbock,5964,Brauerei Schlappeseppel GmbH,7,3.51
+218,5.80,225306,https://www.beeradvocate.com/beer/profile/30491/225306/,Maibock,30491,Tractor Brewing Company,7,3.62
+219,6.80,36637,https://www.beeradvocate.com/beer/profile/5337/36637/,Purple Maibock,5337,Rubicon Brewing Company,7,3.56
+220,6.80,50725,https://www.beeradvocate.com/beer/profile/6037/50725/,Günther Bräu Bockbier,6037,Günther Bräu,7,3.81
+221,6.70,83817,https://www.beeradvocate.com/beer/profile/9076/83817/,"Birra Dolomiti Doppio Malto 6,7",9076,Birreria Pedavena,7,2.9
+222,6.00,49771,https://www.beeradvocate.com/beer/profile/5191/49771/,Maibock,5191,Ram Restaurant & Brewery,7,3.6
+223, ? ,11124,https://www.beeradvocate.com/beer/profile/2769/11124/,Ahornberger Maibock,2769,Ahornberger Landbrauerei,7,4.39
+224,6.50,6034,https://www.beeradvocate.com/beer/profile/2414/6034/,Mai Bock,2414,Tied House Cafe & Brewery,7,2.94
+225,6.50,177043,https://www.beeradvocate.com/beer/profile/39445/177043/,Hells Navigator,39445,Fair Winds Brewing Company,7,3.75
+226,6.00,122262,https://www.beeradvocate.com/beer/profile/30230/122262/,Mayday Mayday Maibock,30230,Confluence Brewing Company,7,4.13
+227,7.00,2969,https://www.beeradvocate.com/beer/profile/929/2969/,Klosterbräu Maibock Hell,929,Brauerei-Gaststätte Klosterbräu,7,4.46
+228,6.50,99226,https://www.beeradvocate.com/beer/profile/1534/99226/,Anker Lentebok,1534,Brouwerij Het Anker,7,3.42
+229,6.50,93610,https://www.beeradvocate.com/beer/profile/428/93610/,Ginger Bock,428,Mahr's Bräu,7,3.53
+230,6.80,308141,https://www.beeradvocate.com/beer/profile/618/308141/,Helles Bock,618,Wellington County Brewery,7,3.5
+231,6.30,3505,https://www.beeradvocate.com/beer/profile/477/3505/,Willimantic Mail Carrier Maybock,477,Willimantic Brewing Co.,7,3.41
+232,7.20,49606,https://www.beeradvocate.com/beer/profile/10549/49606/,Maibock,10549,Charleville Vineyard Microbrewery,7,3.94
+233,7.00,37356,https://www.beeradvocate.com/beer/profile/787/37356/,Honey Double Maibock,787,South Shore Brewery,7,3.47
+234,7.20,279555,https://www.beeradvocate.com/beer/profile/31551/279555/,The Collaborator Maple Maibock,31551,14th Star Brewing Co.,6,4.03
+235,7.10,107789,https://www.beeradvocate.com/beer/profile/1177/107789/,Maibock,1177,Minneapolis Town Hall Brewery,6,3.71
+236,6.90,57880,https://www.beeradvocate.com/beer/profile/18416/57880/,Billy Goat Bock,18416,The Flying Horse Bar & Brewery,6,3.18
+237,6.40,227102,https://www.beeradvocate.com/beer/profile/36113/227102/,Greener Pastures,36113,Three Magnets Brewing,6,4.06
+238,8.00,69668,https://www.beeradvocate.com/beer/profile/1032/69668/,Maibock,1032,Five Seasons Prado,6,3.91
+239,6.00,132903,https://www.beeradvocate.com/beer/profile/32679/132903/,Young Turk,32679,Wiseacre Brewing,6,3.92
+240,8.00,17450,https://www.beeradvocate.com/beer/profile/1457/17450/,Arbor Brewing Uskratch Maibock,1457,Arbor Brewing Company,6,3.75
+241,6.50,19269,https://www.beeradvocate.com/beer/profile/8776/19269/,Highway To Helles,8776,Barley and Hops,6,4.17
+242,6.00,42576,https://www.beeradvocate.com/beer/profile/3957/42576/,Majbock,3957,Grebbestad Bryggeri,6,3.7
+243,7.10,173908,https://www.beeradvocate.com/beer/profile/35987/173908/,Macadocious Maibock,35987,Denizens Brewing Co.,6,4.01
+244,6.70,64378,https://www.beeradvocate.com/beer/profile/7312/64378/,Altenburger Bock,7312,Altenburger Brauerei GmbH,6,3.26
+245,6.70,123530,https://www.beeradvocate.com/beer/profile/32952/123530/,Brew Betties' Maibock,32952,Three Notch'd Brewing Company,6,3.52
+246,7.50,23703,https://www.beeradvocate.com/beer/profile/890/23703/,Altenmünster Maibock Hell,890,Allgäuer Brauhaus AG,6,3.89
+247,7.00,286104,https://www.beeradvocate.com/beer/profile/2137/286104/,Maibock Mountain,2137,Breckenridge Brewery,6,3.44
+248,11.00,45985,https://www.beeradvocate.com/beer/profile/4833/45985/,Silver Creek Imperial Mai-Bock,4833,Silver Creek Brewing Co.,6,3.88
+249,6.50,95406,https://www.beeradvocate.com/beer/profile/24102/95406/,Maibock,24102,Naked Dove Brewing Company,6,3.76
+250, ? ,23488,https://www.beeradvocate.com/beer/profile/1634/23488/,Mayday Maibock,1634,Gilded Otter Brewing Company,6,3.69
+251,6.30,184771,https://www.beeradvocate.com/beer/profile/41754/184771/,The Hump,41754,Harsens Island Brewery,6,3.17
+252,4.50,36555,https://www.beeradvocate.com/beer/profile/14359/36555/,Maibock,14359,The Defiant Brewing Company,6,4.07
+253,6.80,47828,https://www.beeradvocate.com/beer/profile/124/47828/,Paulaner St. Thomas Bock,124,Paulaner Brauerei GmbH & Co. KG,6,2.93
+254,6.80,58075,https://www.beeradvocate.com/beer/profile/16402/58075/,A Cart Ride To Mexico,16402,Red Eye Brewing Company,6,3.49
+255,6.30,120298,https://www.beeradvocate.com/beer/profile/22072/120298/,Maibock,22072,Revolution Brewing,6,3.71
+256,7.10,105455,https://www.beeradvocate.com/beer/profile/285/105455/,Festbock,285,Brauerei Schloss Eggenberg,6,3.44
+257,6.20,17395,https://www.beeradvocate.com/beer/profile/1341/17395/,Knockout Maibock,1341,J.J. Bitting Brewing Company,6,3.69
+258, ? ,50935,https://www.beeradvocate.com/beer/profile/1618/50935/,Maibock,1618,Sarasota Brewing Company,6,3.59
+259, ? ,58114,https://www.beeradvocate.com/beer/profile/701/58114/,Mai Bock,701,Boundary Bay Brewery & Bistro,5,3.6
+260,6.50,98823,https://www.beeradvocate.com/beer/profile/12511/98823/,Stralsunder Frühlingsbock,12511,Störtebeker Braumanufaktur,5,4.09
+261,7.50,5902,https://www.beeradvocate.com/beer/profile/532/5902/,Budels Meibock,532,Budelse Brouwerij B.V.,5,3.82
+262,5.30,51224,https://www.beeradvocate.com/beer/profile/386/51224/,Mai Bock,386,Broken Tooth Brewing,5,3.44
+263, ? ,98080,https://www.beeradvocate.com/beer/profile/29171/98080/,Maibock,29171,Saddlebock Brewery,5,3.7
+264,7.00,60451,https://www.beeradvocate.com/beer/profile/890/60451/,Norbertus Heller Bock,890,Allgäuer Brauhaus AG,5,3.15
+265,8.50,71734,https://www.beeradvocate.com/beer/profile/7333/71734/,"Darguner 8,5",7333,Darguner Brauerei GmbH,5,3.16
+266,6.50,226102,https://www.beeradvocate.com/beer/profile/1534/226102/,Maneblusser Lente,1534,Brouwerij Het Anker,5,3.73
+267,6.66,276803,https://www.beeradvocate.com/beer/profile/31515/276803/,Zombie Bunny,31515,Liquid Riot Bottling Company,5,3.5
+268,7.00,173639,https://www.beeradvocate.com/beer/profile/36467/173639/,Helles Bock,36467,Catskill Brewery,5,3.74
+269,6.90,176712,https://www.beeradvocate.com/beer/profile/32433/176712/,KauaiBock,32433,The Kauai Beer Company,5,3.77
+270,6.50,51023,https://www.beeradvocate.com/beer/profile/2877/51023/,Maybock German Lager,2877,Backcountry Brewery,5,4.3
+271,8.00,116310,https://www.beeradvocate.com/beer/profile/32540/116310/,Bust Head Maibock,32540,Antietam Brewery & Restaurant,5,3.97
+272,6.60,39767,https://www.beeradvocate.com/beer/profile/16428/39767/,Herforder Maibock,16428,Herforder Brauerei GmbH & Co. KG,5,3.63
+273, ? ,59742,https://www.beeradvocate.com/beer/profile/761/59742/,CB's Max (Signature Series),761,CB Craft Brewers,5,3.77
+274,7.60,3681,https://www.beeradvocate.com/beer/profile/1353/3681/,Gottfried Jakobs Blonder Bock,1353,Forschungsbrauerei,5,4.33
+275,8.50,179043,https://www.beeradvocate.com/beer/profile/5850/179043/,Riegele Speziator Hell & Stark,5850,Brauhaus Riegele,5,3.41
+276,8.00,23654,https://www.beeradvocate.com/beer/profile/1317/23654/,Triumph Yorick's Maibock,1317,Triumph Brewing Company,5,3.78
+277,7.00,75398,https://www.beeradvocate.com/beer/profile/37503/75398/,Forårs Bock,37503,Nørrebro Bryghus,5,3.5
+278,7.00,37277,https://www.beeradvocate.com/beer/profile/3925/37277/,Scapegoat Maibock,3925,Mickey Finn's Brewery,5,3.59
+279,5.30,19126,https://www.beeradvocate.com/beer/profile/2085/19126/,Dragonmead Tuhelles Enbock,2085,Dragonmead Microbrewery,5,3.49
+280,8.80,27860,https://www.beeradvocate.com/beer/profile/1550/27860/,Goat Toppler Bock,1550,Rock Bottom Restaurant & Brewery,5,3.54
+281,6.00,38104,https://www.beeradvocate.com/beer/profile/1344/38104/,Mai Bock,1344,Cricket Hill Brewing Co.,5,3.79
+282,8.50,81142,https://www.beeradvocate.com/beer/profile/16526/81142/,My O' Maibock,16526,Elk Creek Cafe + Aleworks,5,4.2
+283,6.50,30978,https://www.beeradvocate.com/beer/profile/605/30978/,Maibock Lager,605,"Bayern Brewing, Inc. / Edelweiss Bistro",4,3.29
+284,7.00,51209,https://www.beeradvocate.com/beer/profile/586/51209/,Summah Bock,586,Martha's Exchange,4,3.21
+285,7.00,43537,https://www.beeradvocate.com/beer/profile/8606/43537/,Fearless Maibock,8606,Fearless Brewing Company,4,3.73
+286,6.50,23570,https://www.beeradvocate.com/beer/profile/582/23570/,Maibock,582,Trailhead Brewing Co,4,3.53
+287,7.00,102675,https://www.beeradvocate.com/beer/profile/25961/102675/,Mele Mai Bock,25961,Big Island Brewhaus & Tako Taco Taqueria,4,3.75
+288,7.00,10263,https://www.beeradvocate.com/beer/profile/596/10263/,Portsmouth Maibock,596,Portsmouth Brewery,4,3.93
+289,6.00,240407,https://www.beeradvocate.com/beer/profile/605/240407/,Citra Charged Dump Truck,605,"Bayern Brewing, Inc. / Edelweiss Bistro",4,3.82
+290,7.00,296472,https://www.beeradvocate.com/beer/profile/2137/296472/,Mountain Series: Maibock,2137,Breckenridge Brewery,4,3.65
+291,6.90,266522,https://www.beeradvocate.com/beer/profile/33844/266522/,Jabberbock,33844,Rabbit Hole Brewing,4,3.52
+292,7.10,280605,https://www.beeradvocate.com/beer/profile/28609/280605/,To Helles & Bock,28609,Night Shift Brewing,4,3.17
+293,8.60,16421,https://www.beeradvocate.com/beer/profile/1888/16421/,Matt's Maibock,1888,Lake Placid Craft Brewing Company,4,3.32
+294,7.50,282664,https://www.beeradvocate.com/beer/profile/41195/282664/,Turtle Patrol,41195,Southern Barrel Brewing Co.,4,4
+295, ? ,69421,https://www.beeradvocate.com/beer/profile/1860/69421/,Maibock,1860,Bube's Brewery,4,3.36
+296, ? ,80693,https://www.beeradvocate.com/beer/profile/25220/80693/,Malbourne Maibock,25220,Bull City Burger And Brewery,4,3.77
+297,7.00,9793,https://www.beeradvocate.com/beer/profile/3441/9793/,Fruhlingzeit Maibock,3441,Delafield Brewhaus,4,3.73
+298,6.60,177475,https://www.beeradvocate.com/beer/profile/34607/177475/,Johann Sebastian Maibock,34607,Aeronaut Brewing Company,4,3.69
+299,7.40,36680,https://www.beeradvocate.com/beer/profile/737/36680/,Jever Maibock,737,Friesisches Brauhaus zu Jever GmbH & Co KG,4,3.75
+300,7.00,128334,https://www.beeradvocate.com/beer/profile/450/128334/,Maibock,450,Yards Brewing Co.,4,3.56
+301,6.90,74841,https://www.beeradvocate.com/beer/profile/7637/74841/,Barre Maibock,7637,Privatbrauerei Ernst Barre GmbH,4,2.9
+302,5.90,189553,https://www.beeradvocate.com/beer/profile/33707/189553/,Maine Loggah,33707,Tributary Brewing Co.,4,3.68
+303,6.90,42104,https://www.beeradvocate.com/beer/profile/7344/42104/,Rostocker Bock Hell,7344,Hanseatische Brauerei Rostock GmbH,4,3.14
+304,6.50,41856,https://www.beeradvocate.com/beer/profile/3048/41856/,Dithmarscher Maibock,3048,Dithmarscher Brauerei / Karl Hintz GmbH & Co.KG,4,3.53
+305,7.00,50561,https://www.beeradvocate.com/beer/profile/9914/50561/,Maibock,9914,Sequoia Brewing Company,4,3.67
+306,5.50,327298,https://www.beeradvocate.com/beer/profile/40656/327298/,Rambler Maibock,40656,Caboose Brewing Co.,4,3.43
+307, ? ,89479,https://www.beeradvocate.com/beer/profile/1066/89479/,Helles,1066,Anacortes Brewery & Rockfish Grill,4,3.34
+308,6.40,229257,https://www.beeradvocate.com/beer/profile/41563/229257/,Space Pod-ity,41563,Little Fish Brewing Company,4,3.99
+309,6.20,91275,https://www.beeradvocate.com/beer/profile/25433/91275/,Hell Pony Maibock,25433,Payette Brewing,4,3.44
+310,6.50,85649,https://www.beeradvocate.com/beer/profile/18393/85649/,Bamberg Maibaum,18393,Micro Cervejaria Bamberg,4,3.79
+311,7.80,95128,https://www.beeradvocate.com/beer/profile/30662/95128/,Maibock,30662,Rocky Point Artisan Brewers (RPAB),4,4.12
+312,6.40,121498,https://www.beeradvocate.com/beer/profile/29487/121498/,Maibock,29487,The Old Mill at Ashton / Ashton Brewing Company,4,3
+313,6.30,115356,https://www.beeradvocate.com/beer/profile/32049/115356/,Staročeško Zimsko Pivo,32049,Pivovara Daruvar d.o.o.,4,3.08
+314,7.20,221598,https://www.beeradvocate.com/beer/profile/35568/221598/,Ignitor,35568,Braxton Brewing Company,4,3.84
+315,7.20,227998,https://www.beeradvocate.com/beer/profile/555/227998/,Maibock,555,Feldschlösschen Beverages Group,4,3.61
+316,7.00,93088,https://www.beeradvocate.com/beer/profile/12/93088/,Mayfair Maibock,12,John Harvard's Brewery & Ale House,4,4.19
+317,7.60,163010,https://www.beeradvocate.com/beer/profile/29325/163010/,Springs Back Maibock,29325,Rustic Road Brewing Company,4,4.26
+318,7.10,30668,https://www.beeradvocate.com/beer/profile/7101/30668/,Maibock,7101,Marzoni's Brick Oven & Brewing Company,4,3.47
+319, ? ,26830,https://www.beeradvocate.com/beer/profile/3777/26830/,Augusta Maibock,3777,Augusta Brewing Company,4,3.83
+320, ? ,102096,https://www.beeradvocate.com/beer/profile/15793/102096/,Double Mai Bock,15793,Union Barrel Works,4,3.19
+321,6.50,50139,https://www.beeradvocate.com/beer/profile/299/50139/,May Bock,299,Boston Beer Works - Canal Street,4,3.78
+322,7.00,81372,https://www.beeradvocate.com/beer/profile/20017/81372/,Electric Goat Maibock,20017,5 Seasons Westside,4,3.97
+323,7.00,58079,https://www.beeradvocate.com/beer/profile/14563/58079/,Hellacious B's Maibock,14563,Sherwood Brewing Company,4,3.99
+324,6.80,93668,https://www.beeradvocate.com/beer/profile/2351/93668/,Sunshower Maibock,2351,Royal Oak Brewery,4,3.74
+325, ? ,9958,https://www.beeradvocate.com/beer/profile/588/9958/,Maibock,588,Krogh's Restaurant And Brewpub,4,3.67
+326,6.50,279548,https://www.beeradvocate.com/beer/profile/43165/279548/,Silver Penny,43165,Waredaca Brewing Company,4,3.92
+327,6.50,20993,https://www.beeradvocate.com/beer/profile/6627/20993/,Pfungstädter Maibock,6627,Pfungstädter Brauerei,3,3.61
+328,6.50,226562,https://www.beeradvocate.com/beer/profile/34748/226562/,Mai Way Or The Highway,34748,Imperial Oak Brewing,3,4.01
+329,6.50,168711,https://www.beeradvocate.com/beer/profile/532/168711/,Budels Lentebock,532,Budelse Brouwerij B.V.,3,3.16
+330,7.30,52232,https://www.beeradvocate.com/beer/profile/19582/52232/,MyMaiBock,19582,Krash Brewery,3,2.26
+331,5.90,23817,https://www.beeradvocate.com/beer/profile/3196/23817/,Maibock,3196,Flat Branch Pub & Brewery,3,3.55
+332,6.00,31499,https://www.beeradvocate.com/beer/profile/9863/31499/,Maibock,9863,Brewsters Brewing Company & Restaurant - Eleventh Avenue,3,3.52
+333,7.60,93709,https://www.beeradvocate.com/beer/profile/27032/93709/,Helles Bock,27032,Cheboygan Brewing Company,3,3.41
+334,7.00,252429,https://www.beeradvocate.com/beer/profile/41847/252429/,Hummelstown Bock Party,41847,Howling Henry's Brewery,3,3.57
+335,6.90,286222,https://www.beeradvocate.com/beer/profile/29318/286222/,Hip Hop BeatBock,29318,Baderbräu Brewing Company,3,3.73
+336,5.70,83998,https://www.beeradvocate.com/beer/profile/225/83998/,Muddy Brook Maibock,225,Amherst Brewing,3,3.89
+337,6.00,120096,https://www.beeradvocate.com/beer/profile/25859/120096/,MaiBock Lager,25859,Lazy Monk Brewing,3,3.9
+338,7.00,95265,https://www.beeradvocate.com/beer/profile/6834/95265/,Baisinger Teufels Bock Hell,6834,Baisinger BierManufaktur Familie Teufel,3,3.51
+339,7.40,50723,https://www.beeradvocate.com/beer/profile/7282/50723/,Bockbier,7282,Brauerei Hofstetten Krammer GmbH & Co. KG,3,3.85
+340,7.20,170543,https://www.beeradvocate.com/beer/profile/39432/170543/,Spindrift Miabock,39432,Seven Arrows Brewing Company,3,3.5
+341, ? ,48687,https://www.beeradvocate.com/beer/profile/176/48687/,Würzburger Hofbräu May Bock,176,Würzburger Hofbräu AG,3,3.09
+342,6.70,123439,https://www.beeradvocate.com/beer/profile/18724/123439/,Maibock,18724,Old Forge Brewing Company,3,3.33
+343,6.50,43825,https://www.beeradvocate.com/beer/profile/17210/43825/,Hellers Maibock,17210,Brauerei Heller GmbH,3,3.23
+344,6.20,151859,https://www.beeradvocate.com/beer/profile/1164/151859/,Maibock,1164,Coddington Brewing Co.,3,3.22
+345,7.50,275511,https://www.beeradvocate.com/beer/profile/47159/275511/,Goat Destroyer,47159,Old Irving Brewing Co.,3,3.58
+346,6.00,161847,https://www.beeradvocate.com/beer/profile/29858/161847/,Roadbock,29858,Fifty West Brewing Co,3,3.66
+347,6.00,149816,https://www.beeradvocate.com/beer/profile/1937/149816/,Steil Gehen - Helles Bock,1937,"Swashbuckler Brewing Co, LTD",3,3.2
+348, ? ,64569,https://www.beeradvocate.com/beer/profile/1344/64569/,Reserve Ale - Maibock,1344,Cricket Hill Brewing Co.,3,3.77
+349,8.50,281146,https://www.beeradvocate.com/beer/profile/34318/281146/,May Day Maibock,34318,Comrade Brewing Company,3,3.72
+350,7.00,30524,https://www.beeradvocate.com/beer/profile/7122/30524/,Monster Maibock,7122,Red Lodge Ales,3,3.37
+351,6.00,83007,https://www.beeradvocate.com/beer/profile/26645/83007/,Helles Bock,26645,Rumspringa Brewing Company,3,3.49
+352,7.50,52293,https://www.beeradvocate.com/beer/profile/5959/52293/,Wagner Bock Hell,5959,Brauerei Richard Wagner,3,3.24
+353,6.50,17479,https://www.beeradvocate.com/beer/profile/2635/17479/,Maibock,2635,Brauerei Gasthof Hotel Post,3,3.69
+354, ? ,97352,https://www.beeradvocate.com/beer/profile/22886/97352/,T-Mullet,22886,Equinox Brewing Company,3,3.36
+355,7.40,275785,https://www.beeradvocate.com/beer/profile/43612/275785/,DEBOCKLE,43612,Alter Brewing Company,3,3.54
+356,7.30,42570,https://www.beeradvocate.com/beer/profile/16096/42570/,Maibock,16096,Allentown Brew Works,3,3.92
+357,7.50,82251,https://www.beeradvocate.com/beer/profile/23108/82251/,Maibock,23108,Engine 15 Brewing Company,3,2.16
+358,6.60,287310,https://www.beeradvocate.com/beer/profile/35179/287310/,Spring Maibock,35179,Simple Roots Brewing Company,3,4.08
+359,6.70,287823,https://www.beeradvocate.com/beer/profile/25260/287823/,Maibock,25260,Enegren Brewing Company,3,4.14
+360,6.90,159824,https://www.beeradvocate.com/beer/profile/27074/159824/,Mai Big Bock,27074,Big Wood Brewery,3,3.73
+361, ? ,171601,https://www.beeradvocate.com/beer/profile/30225/171601/,Get Off Maibock,30225,Smartmouth Brewing Company,3,3.8
+362, ? ,42834,https://www.beeradvocate.com/beer/profile/11912/42834/,Big Horn Maibock,11912,C.B. & Potts,3,3.49
+363,6.90,208724,https://www.beeradvocate.com/beer/profile/36225/208724/,Struggle Buggy,36225,Brewtus Brewing Company,3,3.66
+364,6.20,225879,https://www.beeradvocate.com/beer/profile/41430/225879/,Maibock,41430,Yee-haw Brewing Co.,3,3.84
+365,7.40,221018,https://www.beeradvocate.com/beer/profile/31527/221018/,Alpenhammer,31527,Seapine Brewing Company,3,3.95
+366, ? ,58205,https://www.beeradvocate.com/beer/profile/12706/58205/,The Defrostor Maibock,12706,Kannah Creek Brewing Company,3,4.19
+367,7.25,228450,https://www.beeradvocate.com/beer/profile/41947/228450/,Downtown Hop,41947,Wibby Brewing,3,3.73
+368,6.90,237156,https://www.beeradvocate.com/beer/profile/29318/237156/,My Bock,29318,Baderbräu Brewing Company,3,3.83
+369,7.10,240999,https://www.beeradvocate.com/beer/profile/32325/240999/,Helles Ginger Bock,32325,MobCraft Beer,3,3.52
+370,7.30,254568,https://www.beeradvocate.com/beer/profile/44749/254568/,To Helles Und Bock,44749,The Alementary Brewing Co.,3,3.51
+371,7.00,247913,https://www.beeradvocate.com/beer/profile/23200/247913/,Juli Bock,23200,Knee Deep Brewing Company,3,3.6
+372,7.30,130155,https://www.beeradvocate.com/beer/profile/5074/130155/,Our Bock,5074,Steamworks Brewing Co.,3,3.84
+373,6.90,82545,https://www.beeradvocate.com/beer/profile/2431/82545/,Eichbaum Goldener Germane,2431,Privatbrauerei Eichbaum GmbH & Co. KG,3,2.91
+374,7.20,170099,https://www.beeradvocate.com/beer/profile/7366/170099/,Bohemia Regent Kníže,7366,Pivovar Regent Třeboň,3,3.39
+375,8.30,57975,https://www.beeradvocate.com/beer/profile/1708/57975/,Yippee-Ei-O Springbock,1708,Sweetwater Tavern & Brewery,3,3.8
+376,6.70,81275,https://www.beeradvocate.com/beer/profile/3749/81275/,Maibock,3749,Seven Bridges Grille And Brewery,3,3.76
+377, ? ,173695,https://www.beeradvocate.com/beer/profile/30405/173695/,Maibock,30405,Champion Brewing Company,3,3.89
+378,7.60,69763,https://www.beeradvocate.com/beer/profile/21683/69763/,Maibock,21683,The Lucky Monk,3,3.54
+379,7.50,158086,https://www.beeradvocate.com/beer/profile/6099/158086/,Schönbrunner Urbock,6099,Lang Bräu OHG,3,3.38
+380,6.20,175758,https://www.beeradvocate.com/beer/profile/25818/175758/,Maibock,25818,Lost Rhino Brewing Company,3,3.7
+381,6.30,310926,https://www.beeradvocate.com/beer/profile/4701/310926/,Queen of Spades Maibock,4701,Yukon Brewing Company,3,3.76
+382,6.90,75921,https://www.beeradvocate.com/beer/profile/5966/75921/,Schwanenbräu Burgebrach Weihnachtsbock,5966,Brauerei Gasthof Schwan - Schwanenbräu,3,3.71
+383,6.00,120978,https://www.beeradvocate.com/beer/profile/4861/120978/,Maibock,4861,Frankenmuth Brewery,3,3.69
+384,7.00,48535,https://www.beeradvocate.com/beer/profile/13882/48535/,Arboga Majbock,13882,Galatea AB,3,2.7
+385,8.50,275866,https://www.beeradvocate.com/beer/profile/1168/275866/,Fruhling Starkbier Maibock,1168,Barley John's Brew Pub,3,4.17
+386,8.00,325790,https://www.beeradvocate.com/beer/profile/13905/325790/,Dunham / Benelux Picolux,13905,Brasserie Dunham,3,3.84
+387,7.50,46495,https://www.beeradvocate.com/beer/profile/5918/46495/,Hummel Heller Leonhardi Bock,5918,Brauerei Julius Hummel,3,3.65
+388,7.00,97698,https://www.beeradvocate.com/beer/profile/30209/97698/,Stoic Acer Maple Wheat Maibock,30209,Canal Park Brewing Co.,3,3.69
+389,7.00,102052,https://www.beeradvocate.com/beer/profile/30201/102052/,Maibock,30201,HooDoo Brewing,3,3.31
+390,6.90,92583,https://www.beeradvocate.com/beer/profile/14191/92583/,Meibock,14191,De Bekeerde Suster,3,3.74
+391,6.40,68520,https://www.beeradvocate.com/beer/profile/16885/68520/,Misdemeanor Maibock,16885,Prison Brews,3,3.62
+392,6.90,226219,https://www.beeradvocate.com/beer/profile/13804/226219/,Spectrum,13804,Benelux Brewpub & Café,3,3.79
+393,6.75,124077,https://www.beeradvocate.com/beer/profile/16378/124077/,Helles Bock,16378,Heater Allen Brewing,3,4.02
+394,6.50,58288,https://www.beeradvocate.com/beer/profile/4490/58288/,Vetter Maibock,4490,Vetter Alt Heidelberger Brauhaus,3,3.82
+395,7.00,93874,https://www.beeradvocate.com/beer/profile/9558/93874/,Brown's Maibock,9558,Brown's Brewing Company,3,3.33
+396,7.50,120246,https://www.beeradvocate.com/beer/profile/30209/120246/,Mindblock Honey Double Maibock,30209,Canal Park Brewing Co.,3,4.12
+397,6.90,282299,https://www.beeradvocate.com/beer/profile/45802/282299/,Maibock,45802,Dovetail Brewery,3,4.24
+398,6.00,280000,https://www.beeradvocate.com/beer/profile/35363/280000/,Lost Lake Exotica Ale,35363,Marz Community Brewing,3,3.53
+399,6.80,124866,https://www.beeradvocate.com/beer/profile/30839/124866/,Haus Maibock,30839,Flesk Brewing Company,3,4.11
+400,7.30,271299,https://www.beeradvocate.com/beer/profile/41430/271299/,Billy Beard,41430,Yee-haw Brewing Co.,3,3.81
+401,6.20,182984,https://www.beeradvocate.com/beer/profile/2958/182984/,Highway To Helles,2958,BFM (Brasserie des Franches-Montagnes),3,3.69
+402,7.00,49871,https://www.beeradvocate.com/beer/profile/5918/49871/,Hummel Maibock Hell,5918,Brauerei Julius Hummel,3,3.7
+403,7.30,181712,https://www.beeradvocate.com/beer/profile/15943/181712/,Slow Goat To China,15943,Crow Peak Brewing,3,3.79
+404,7.00,275158,https://www.beeradvocate.com/beer/profile/48774/275158/,Maibock,48774,Green Mountain Beer Company,3,4.18
+405,9.00,285910,https://www.beeradvocate.com/beer/profile/1169/285910/,Goldenstark Maibock,1169,Fitger's Brewhouse,3,3.93
+406,7.10,36570,https://www.beeradvocate.com/beer/profile/3799/36570/,Zipfer Josefi Bock,3799,Brauerei Zipf (Brau Union),3,3.91
+407,7.50,151004,https://www.beeradvocate.com/beer/profile/31793/151004/,Ratsherrn Springbock,31793,Ratsherrn Brauerei GmbH,3,3.81
+408, ? ,10719,https://www.beeradvocate.com/beer/profile/5060/10719/,Cinco De Mayo Bock,5060,Padre Island Brewing Company,3,3.7
+409,7.50,31206,https://www.beeradvocate.com/beer/profile/835/31206/,Mountaineer,835,Barley Creek Brewing Company,3,3.5
+410,7.10,173031,https://www.beeradvocate.com/beer/profile/23635/173031/,Maibock,23635,Lavery Brewing Company,3,3.83
+411,6.80,83945,https://www.beeradvocate.com/beer/profile/3655/83945/,Auer Maibock,3655,Schlossbrauerei Au-Hallertau,3,4.29
+412,7.00,116972,https://www.beeradvocate.com/beer/profile/14400/116972/,R & D Helles Bock,14400,Ninkasi Brewing Company,3,3.83
+413,6.90,79602,https://www.beeradvocate.com/beer/profile/4262/79602/,Pelforth 3 Malts,4262,Brasserie Heineken,3,3.08
+414,7.80,203770,https://www.beeradvocate.com/beer/profile/8545/203770/,Moritz Fiege Pilsbock,8545,Privatbrauerei Moritz Fiege Bochum,3,3.25
+415,7.40,58877,https://www.beeradvocate.com/beer/profile/63/58877/,The Obliterator Maibock,63,Deschutes Brewery,3,4.06
+416,4.60,332030,https://www.beeradvocate.com/beer/profile/30492/332030/,One Man Helles,30492,Bosque Brewing Co.,3,3.75
+417,6.20,165632,https://www.beeradvocate.com/beer/profile/20170/165632/,Vielanker Maibock,20170,Vielanker Brauhaus,2,2.83
+418,7.00,36865,https://www.beeradvocate.com/beer/profile/14663/36865/,Vertigo,14663,Birrificio L'Orso Verde,2,3.13
+419,6.70,98821,https://www.beeradvocate.com/beer/profile/10871/98821/,Mauritius Zwickauer Bock Hell,10871,Mauritius Brauerei,2,3.77
+420, ? ,110088,https://www.beeradvocate.com/beer/profile/556/110088/,Maybelline,556,City Steam Brewery Café,2,3.69
+421,7.30,120073,https://www.beeradvocate.com/beer/profile/30809/120073/,Maibock,30809,Cask & Larder,2,3.5
+422,7.00,41738,https://www.beeradvocate.com/beer/profile/11061/41738/,Maj Bock,11061,Herslev Bryghus,2,3.67
+423,6.00,59914,https://www.beeradvocate.com/beer/profile/236/59914/,Helles Bock,236,Offshore Ale Company,2,4.17
+424,6.80,184334,https://www.beeradvocate.com/beer/profile/39308/184334/,Magnum Opus,39308,Medusa Brewing Company,2,3.63
+425,8.10,173327,https://www.beeradvocate.com/beer/profile/31384/173327/,Heist Maibock,31384,Old Rail Brewing Company,2,4
+426,6.50,93970,https://www.beeradvocate.com/beer/profile/3956/93970/,Zum Wohl,3956,Brewsters Brewing Company & Restaurant - Oliver Square,2,3.84
+427,7.50,128018,https://www.beeradvocate.com/beer/profile/2321/128018/,Maibock,2321,Craftsman Brewing Co.,2,3.75
+428,5.80,81430,https://www.beeradvocate.com/beer/profile/4680/81430/,Höglwörther Maifestbier,4680,Privatbrauerei M.C. Wieninger,2,2.75
+429, ? ,10008,https://www.beeradvocate.com/beer/profile/1050/10008/,Maibock,1050,Vine Park Brewing Co.,2,3.62
+430,6.80,77345,https://www.beeradvocate.com/beer/profile/4685/77345/,Bergbock,4685,Hofbräuhaus Newport,2,4.4
+431,6.50,57379,https://www.beeradvocate.com/beer/profile/7589/57379/,Einsiedler Sächsisch Maibock Zwickel,7589,Einsiedler Brauhaus GmbH,2,2.82
+432,6.50,57380,https://www.beeradvocate.com/beer/profile/7589/57380/,Einsiedler Heller Bock,7589,Einsiedler Brauhaus GmbH,2,3.65
+433,6.70,333350,https://www.beeradvocate.com/beer/profile/40090/333350/,Maibock Music,40090,Ocelot Brewing Company,2,3.9
+434,7.70,93483,https://www.beeradvocate.com/beer/profile/2641/93483/,Spring Bock,2641,The New Old Lompoc,2,4.21
+435,7.00,58925,https://www.beeradvocate.com/beer/profile/3956/58925/,Maibock,3956,Brewsters Brewing Company & Restaurant - Oliver Square,2,3.49
+436,6.50,92463,https://www.beeradvocate.com/beer/profile/11891/92463/,Meibock,11891,Bierbrouwerij Mommeriete,2,3.69
+437,7.20,279345,https://www.beeradvocate.com/beer/profile/29335/279345/,Copper Mountain Maibock,29335,Silver City Brewery & Taproom,2,3.98
+438,7.00,304435,https://www.beeradvocate.com/beer/profile/45722/304435/,Mai Bock,45722,Bavarian Bierhaus,2,3.37
+439,6.50,279604,https://www.beeradvocate.com/beer/profile/39373/279604/,Goat Dance,39373,Coulee Brew Co.,2,3.63
+440,6.50,26168,https://www.beeradvocate.com/beer/profile/2472/26168/,Plankstettener Maibock,2472,Riedenburger Brauhaus,2,3.03
+441,6.00,92984,https://www.beeradvocate.com/beer/profile/29481/92984/,Rye-O-Mai,29481,Bravery Brewing,2,3.9
+442,7.10,192056,https://www.beeradvocate.com/beer/profile/29511/192056/,Heller Bock,29511,Camba Bavaria,2,3.46
+443,4.50,190266,https://www.beeradvocate.com/beer/profile/37109/190266/,Helles,37109,Gull Dam Brewing,2,4.16
+444,7.50,50236,https://www.beeradvocate.com/beer/profile/921/50236/,Sommerbock,921,Privatbrauerei Bischoff,2,3.71
+445,6.50,228418,https://www.beeradvocate.com/beer/profile/37895/228418/,Rokkenjager,37895,Bax Bier,2,3.75
+446,7.00,23875,https://www.beeradvocate.com/beer/profile/2144/23875/,Maibock,2144,McCoy's Public House,2,3.51
+447,5.50,228419,https://www.beeradvocate.com/beer/profile/25924/228419/,Lentebier,25924,Muifelbrouwerij,2,3.16
+448, ? ,70469,https://www.beeradvocate.com/beer/profile/4614/70469/,Maibock,4614,Orlando Brewing Partners,2,3.28
+449,6.30,101446,https://www.beeradvocate.com/beer/profile/6050/101446/,Hutthurmer Maibock,6050,Hutthurmer Bayerwald Brauerei,2,2.88
+450,5.60,176199,https://www.beeradvocate.com/beer/profile/22103/176199/,Maibock,22103,Brauhaus Am Markt,2,3.39
+451,5.40,159563,https://www.beeradvocate.com/beer/profile/31933/159563/,Helles (Blonde),31933,BrauHaus Brewery,2,3.42
+452,6.50,121419,https://www.beeradvocate.com/beer/profile/3944/121419/,MaiBock,3944,Hausbrauerei Altstadthof,2,3.69
+453,7.50,33100,https://www.beeradvocate.com/beer/profile/6099/33100/,Benedikt XVI,6099,Lang Bräu OHG,2,3.84
+454, ? ,84306,https://www.beeradvocate.com/beer/profile/18471/84306/,Buxus,18471,Birrificio San Paolo,2,3.24
+455,6.90,216920,https://www.beeradvocate.com/beer/profile/28719/216920/,Million Dollar Smoked Maibock,28719,Port Huron Brewing Company,2,2.79
+456,6.60,96600,https://www.beeradvocate.com/beer/profile/31320/96600/,Maibock,31320,Pax Bräu,2,4.12
+457,6.10,64601,https://www.beeradvocate.com/beer/profile/24432/64601/,Specht Bockbier,24432,Privatbrauerei Specht,2,2.9
+458,6.10,173658,https://www.beeradvocate.com/beer/profile/34671/173658/,Uncle Bock,34671,Innocente Brewing Company,2,3.36
+459,7.70,152923,https://www.beeradvocate.com/beer/profile/30662/152923/,Snow Dog,30662,Rocky Point Artisan Brewers (RPAB),2,3.88
+460,7.70,232283,https://www.beeradvocate.com/beer/profile/29059/232283/,Chimp Off The Old Block,29059,DryHop Brewers,2,3.71
+461, ? ,49503,https://www.beeradvocate.com/beer/profile/15218/49503/,Maibock,15218,C.B. & Potts,2,3.59
+462,7.70,289636,https://www.beeradvocate.com/beer/profile/35479/289636/,Maibock,35479,Farnam House Brewing Company,2,3.71
+463,6.50,229477,https://www.beeradvocate.com/beer/profile/24802/229477/,Bluma,24802,Idle Hands Craft Ales,2,4.06
+464,6.80,111461,https://www.beeradvocate.com/beer/profile/21278/111461/,Malbu Bock,21278,Liechtensteiner Brauhaus,2,3.12
+465,6.80,78950,https://www.beeradvocate.com/beer/profile/5949/78950/,Bockbier,5949,Brauerei Ott,2,3.52
+466,6.70,171366,https://www.beeradvocate.com/beer/profile/32406/171366/,Shinnecock Bock,32406,Crooked Ladder Brewing Company,2,3.98
+467,7.10,76392,https://www.beeradvocate.com/beer/profile/12353/76392/,Adler Bräu Stettfelder Heller Bock,12353,Brauerei-Gaststätte Schwarzer Adler,2,4.31
+468,6.80,43624,https://www.beeradvocate.com/beer/profile/2969/43624/,Königsbacher Mai-Bock,2969,Königsbacher Brauerei,2,3.81
+469,6.50,57960,https://www.beeradvocate.com/beer/profile/9820/57960/,Buckley Lager,9820,Elk Head Brewing Company,2,2.52
+470,4.00,94058,https://www.beeradvocate.com/beer/profile/13423/94058/,Fuujins Rock,13423,Roosters Brewing Company and Restaurant,2,3.03
+471,9.40,108395,https://www.beeradvocate.com/beer/profile/31460/108395/,Maibock,31460,Brothers Craft Brewing,2,4.38
+472,7.50,121453,https://www.beeradvocate.com/beer/profile/30967/121453/,Maibock,30967,Triptych Brewing,2,3.75
+473,7.00,256622,https://www.beeradvocate.com/beer/profile/31460/256622/,Simple Pleasures,31460,Brothers Craft Brewing,2,3.24
+474,6.30,125295,https://www.beeradvocate.com/beer/profile/4098/125295/,MaiBock,4098,Siebensternbräu,2,3.11
+475,5.90,143729,https://www.beeradvocate.com/beer/profile/34273/143729/,Rye Mai Bock,34273,Bull & Barrel Brew Pub,2,3.22
+476,6.50,58994,https://www.beeradvocate.com/beer/profile/1066/58994/,Mai Oh Maibock,1066,Anacortes Brewery & Rockfish Grill,2,4.02
+477,7.20,76403,https://www.beeradvocate.com/beer/profile/27853/76403/,Krautheimer Heller Bock,27853,Privatbrauerei Friedrich Düll,2,2.54
+478, ? ,225907,https://www.beeradvocate.com/beer/profile/31450/225907/,Anticipation Maibock,31450,Buffalo Commons Brewing Company,2,3.75
+479,5.20,183924,https://www.beeradvocate.com/beer/profile/40937/183924/,Helles Belles,40937,Mad Science Brewing Company at Thanksgiving Farm,2,4.17
+480,8.00,244341,https://www.beeradvocate.com/beer/profile/16088/244341/,Crazy Day,16088,Uncle Billy's Brew & Que,2,3.5
+481,8.20,234102,https://www.beeradvocate.com/beer/profile/43359/234102/,Helles Bock,43359,Smith & Lentz Brewing Company,2,3.62
+482, ? ,117367,https://www.beeradvocate.com/beer/profile/30746/117367/,Laudenbock,30746,612 Brew,2,3.92
+483,6.00,36732,https://www.beeradvocate.com/beer/profile/8775/36732/,Steambock,8775,O'Griff's Irish Pub & Brewhouse,2,3.94
+484,7.50,96895,https://www.beeradvocate.com/beer/profile/2850/96895/,Spalter Bockl Hell,2850,Stadtbrauerei Spalt,2,3.7
+485,8.60,230272,https://www.beeradvocate.com/beer/profile/27979/230272/,Kato Gold,27979,Mankato Brewery,2,3.75
+486,6.80,215939,https://www.beeradvocate.com/beer/profile/27844/215939/,One Fierce Bock Coaster,27844,Round Guys Brewing Company,2,3.74
+487,6.50,175492,https://www.beeradvocate.com/beer/profile/2432/175492/,Ettaler Heller Bock,2432,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,2,3.79
+488,7.50,227722,https://www.beeradvocate.com/beer/profile/1170/227722/,Captain Kirkwood And Mr. Bock,1170,Upland Brewing Company,2,3.75
+489,7.70,174986,https://www.beeradvocate.com/beer/profile/34113/174986/,Mai Girl,34113,Generations Brewing,2,3.73
+490,7.00,255888,https://www.beeradvocate.com/beer/profile/38868/255888/,Sunde Bock,38868,Around the Bend Beer Co.,2,4.06
+491, ? ,306065,https://www.beeradvocate.com/beer/profile/7282/306065/,Heller Bock Arianan,7282,Brauerei Hofstetten Krammer GmbH & Co. KG,2,3.8
+492,6.00,129681,https://www.beeradvocate.com/beer/profile/26645/129681/,Steil Gehen Helles Bock,26645,Rumspringa Brewing Company,2,3.25
+493,6.50,323730,https://www.beeradvocate.com/beer/profile/6129/323730/,St. Bonifatius,6129,Privatbrauerei und Mineralbrunnenbetrieb H. Egerer,2,3.45
+494,6.50,35222,https://www.beeradvocate.com/beer/profile/7329/35222/,Saalfelder Bock,7329,Bürgerliches Brauhaus Saalfeld GmbH,2,3.59
+495,6.40,174488,https://www.beeradvocate.com/beer/profile/2587/174488/,Axis & Allies Maibock,2587,The Grizzly Paw Brewing Company,2,3.41
+496,6.30,111000,https://www.beeradvocate.com/beer/profile/10823/111000/,Flamberger Böcklein,10823,Hausbrauerei Löscher,2,2.62
+497,6.00,174490,https://www.beeradvocate.com/beer/profile/39137/174490/,Maibock,39137,Sunset Reservoir Brewing Company,2,3.39
+498,6.50,112540,https://www.beeradvocate.com/beer/profile/295/112540/,St. Georgenbräu Heller Bock,295,St. Georgenbräu,2,3.29
+499,6.00,282013,https://www.beeradvocate.com/beer/profile/32329/282013/,Zonnesteek,32329,vandeStreek Bier,2,3.13
+500,8.50,108446,https://www.beeradvocate.com/beer/profile/850/108446/,Sea Bee Honey Bock,850,Moon River Brewing Company,2,3.25
+501,7.00,289439,https://www.beeradvocate.com/beer/profile/5914/289439/,Huppendorfer Josefi-Bock,5914,Brauerei Johannes Grasser,2,3.84
+502,6.00,181408,https://www.beeradvocate.com/beer/profile/24180/181408/,Maibock,24180,Wild Wolf Brewing Company,2,3.57
+503,7.20,11171,https://www.beeradvocate.com/beer/profile/295/11171/,St. Georgenbräu  Annafestbier,295,St. Georgenbräu,2,3.62
+504,9.50,336549,https://www.beeradvocate.com/beer/profile/2470/336549/,Gigantische Holzig,2470,The Brew Kettle Taproom & Smokehouse / Production Works,2,2.89
+505,9.50,145068,https://www.beeradvocate.com/beer/profile/812/145068/,Marin / Half Moon Bay Shop Talk,812,Marin Brewing Company,2,3.8
+506,6.00,80817,https://www.beeradvocate.com/beer/profile/873/80817/,Maibock,873,BrickHouse Brewery,2,3.38
+507,7.50,208566,https://www.beeradvocate.com/beer/profile/33119/208566/,Big Brass Helles Bock,33119,Firefly Hollow Brewing Co.,2,3.62
+508,4.80,296374,https://www.beeradvocate.com/beer/profile/37514/296374/,One Helles Of A Habit,37514,Steady Habit Brewing Company,2,3.88
+509,4.00,50875,https://www.beeradvocate.com/beer/profile/13423/50875/,If I Were A Mai Bock,13423,Roosters Brewing Company and Restaurant,2,3.71
+510,6.30,293053,https://www.beeradvocate.com/beer/profile/9784/293053/,Beer Like A Billy Goat,9784,Zero Gravity Craft Brewery / American Flatbread,2,3.95
+511,5.40,17091,https://www.beeradvocate.com/beer/profile/2635/17091/,Osterbier,2635,Brauerei Gasthof Hotel Post,2,3.28
+512,7.20,58819,https://www.beeradvocate.com/beer/profile/19544/58819/,Fat Head's Heller Bock,19544,Fat Head's Brewery & Saloon,2,4.13
+513,5.20,317126,https://www.beeradvocate.com/beer/profile/31837/317126/,She Sells Sea Shelles,31837,Oyster Bay Brewing Co.,2,3.55
+514,5.20,16839,https://www.beeradvocate.com/beer/profile/1787/16839/,Augustiner Bräu Lenten Bier,1787,Augustiner Bräu - Kloster Mülln,2,4.75
+515,8.20,57543,https://www.beeradvocate.com/beer/profile/7302/57543/,Heller Bock,7302,The Bobcat Café & Brewery,2,3.88
+516, ? ,217033,https://www.beeradvocate.com/beer/profile/33187/217033/,Helles Bock,33187,Big Head Brewing Co.,2,4.04
+517,5.50,209868,https://www.beeradvocate.com/beer/profile/5562/209868/,Vetter Weihnachtsbock,5562,Vetter Alt Heidelberger Brauhaus Neuenheim,2,3.76
+518,7.00,174545,https://www.beeradvocate.com/beer/profile/16963/174545/,Maibock,16963,Marble Brewery,2,4.06
+519,6.00,251092,https://www.beeradvocate.com/beer/profile/47207/251092/,Tosca Chiara Doppio Malto,47207,Target 2000 S.p.A.,2,3.19
+520,7.00,67547,https://www.beeradvocate.com/beer/profile/1104/67547/,Helles Bock,1104,Beaver Street Brewery & Whistle Stop Cafe,2,3.75
+521, ? ,69339,https://www.beeradvocate.com/beer/profile/2101/69339/,Maibock,2101,Blue Star Brewing Company,2,3.38
+522,7.20,49371,https://www.beeradvocate.com/beer/profile/13667/49371/,Maibock,13667,Starr Hill Brewery,2,4.44
+523,6.40,32476,https://www.beeradvocate.com/beer/profile/5848/32476/,Mittenwalder Helles Bock,5848,Brauerei Mittenwald,2,3.62
+524,7.00,229086,https://www.beeradvocate.com/beer/profile/40185/229086/,Our Lady Maibock,40185,New Oberpfalz Brewing,2,3.76
+525,7.00,227807,https://www.beeradvocate.com/beer/profile/41177/227807/,Daedalus,41177,Coelacanth Brewing,2,3.91
+526,7.50,134114,https://www.beeradvocate.com/beer/profile/29371/134114/,Spring Bock,29371,Lassen Ale Works,2,3.27
+527,5.00,284899,https://www.beeradvocate.com/beer/profile/37301/284899/,Drifter,37301,Rainhard Brewing Co.,2,3.71
+528,6.90,229861,https://www.beeradvocate.com/beer/profile/38769/229861/,Maibock,38769,Beaver Island Brewing Co.,2,4.31
+529, ? ,119013,https://www.beeradvocate.com/beer/profile/4063/119013/,Persephone Maibock,4063,River City Brewing Co.,2,3.62
+530,7.00,107751,https://www.beeradvocate.com/beer/profile/7678/107751/,Pfaffen Bock Bier,7678,Pfaffen-Brauerei Max Päffgen,2,4.43
+531,5.40,78058,https://www.beeradvocate.com/beer/profile/25435/78058/,What The Helles?,25435,Turkey Hill Brewing Co. Pub & Grille,2,3.49
+532,6.70,332011,https://www.beeradvocate.com/beer/profile/49490/332011/,Maibock Music,49490,Solace Brewing,2,3.82
+533,8.00,184556,https://www.beeradvocate.com/beer/profile/2700/184556/,Fermentator,2700,Taps Fish House & Brewery,2,3.53
+534,8.50,144621,https://www.beeradvocate.com/beer/profile/532/144621/,Zware Dobber,532,Budelse Brouwerij B.V.,2,3.41
+535,6.80,121581,https://www.beeradvocate.com/beer/profile/16076/121581/,Lunar Maibock,16076,Stateline Brewery,2,4.12
+536,6.90,123374,https://www.beeradvocate.com/beer/profile/34109/123374/,Viola Numerotre,34109,Birra Arduini,2,3.72
+537,5.00,49396,https://www.beeradvocate.com/beer/profile/1659/49396/,Maibock,1659,South Street Brewery,2,4.2
+538,6.00,176885,https://www.beeradvocate.com/beer/profile/36875/176885/,Hands Off My Bock,36875,Maple Island Brewing,2,3.12
+539,6.50,221430,https://www.beeradvocate.com/beer/profile/2743/221430/,Steambock,2743,Green Flash Brewing Co.,2,3.78
+540,7.00,236791,https://www.beeradvocate.com/beer/profile/30980/236791/,Maibock,30980,Zipline Brewing Co,2,3.65
+541, ? ,50426,https://www.beeradvocate.com/beer/profile/16393/50426/,Mission Maibock,16393,Mission Brewery,2,3.61
+542,7.20,258042,https://www.beeradvocate.com/beer/profile/603/258042/,Himmelgeist Helles Bock,603,Church Brew Works,2,3.92
+543,6.30,291323,https://www.beeradvocate.com/beer/profile/47123/291323/,Not Yours Maibock,47123,Random Row Brewing Co.,2,3.87
+544,8.30,226555,https://www.beeradvocate.com/beer/profile/37717/226555/,Three Nancies,37717,Territorial Brewing Company,2,4.25
+545,6.60,237307,https://www.beeradvocate.com/beer/profile/8776/237307/,To Helen Bock,8776,Barley and Hops,2,3.4
+546,6.50,148478,https://www.beeradvocate.com/beer/profile/3339/148478/,Hanöversch Mai-Bock,3339,Brauhaus Ernst August,2,3.33
+547, ? ,226048,https://www.beeradvocate.com/beer/profile/105/226048/,Miller Valley Hopped 'N Hell,105,Miller Brewing Co.,1,3.27
+548,8.09,177664,https://www.beeradvocate.com/beer/profile/1168/177664/,Maibock 2015,1168,Barley John's Brew Pub,1,3.92
+549,7.20,250880,https://www.beeradvocate.com/beer/profile/5994/250880/,Mein Bier Royal,5994,Brauhaus Nittenau,1,3.83
+550,5.90,68609,https://www.beeradvocate.com/beer/profile/16074/68609/,Eschenbräu Maibock,16074,Brauerei Eschenbräu,1,3.9
+551,6.60,78593,https://www.beeradvocate.com/beer/profile/4680/78593/,Sepplator Bayern Bock Dunkel,4680,Privatbrauerei M.C. Wieninger,1,3.32
+552,5.60,129793,https://www.beeradvocate.com/beer/profile/4378/129793/,Raybock,4378,Georgetown Brewing Company,1,3.28
+553,7.20,306179,https://www.beeradvocate.com/beer/profile/34453/306179/,Helles Bock,34453,House of Pendragon Brewing Company,1,3.47
+554,6.10,252420,https://www.beeradvocate.com/beer/profile/34159/252420/,Maibock,34159,JDub's Brewing Company,1,4.1
+555,6.80,281861,https://www.beeradvocate.com/beer/profile/40366/281861/,La Chingada Caca,40366,Parched Eagle Brewpub,1,3.5
+556,7.00,249605,https://www.beeradvocate.com/beer/profile/14326/249605/,Goldbock,14326,Wuppertaler Brauhaus GmbH,1,2.6
+557,6.50,226054,https://www.beeradvocate.com/beer/profile/544/226054/,SpringHaver Lentebok,544,Brouwerij De Leckere,1,3.36
+558,7.50,190982,https://www.beeradvocate.com/beer/profile/6147/190982/,Abt Knauer Bock Premium,6147,Püls Bräu OHG,1,3.96
+559,8.00,294151,https://www.beeradvocate.com/beer/profile/28552/294151/,May Queen Maibock,28552,CAUTION: Brewing Co.,1,3.74
+560,6.20,174348,https://www.beeradvocate.com/beer/profile/4069/174348/,Big Horn Bannock Street Maibock,4069,Ram Restaurant & Brewery,1,3.48
+561,6.90,112652,https://www.beeradvocate.com/beer/profile/7128/112652/,Hemelinger Maibock,7128,Privatbrauerei Wittingen GmbH,1,3.37
+562,4.90,33037,https://www.beeradvocate.com/beer/profile/6536/33037/,Kitzmann Kitzzz,6536,Kitzmann Bräu,1,3.35
+563,6.60,304397,https://www.beeradvocate.com/beer/profile/132/304397/,Yellowstone Ale,132,Rogue Ales,1,3
+564,7.00,309518,https://www.beeradvocate.com/beer/profile/4120/309518/,Landbräu Festbock,4120,Privatbrauerei Wurmhöringer,1,4.59
+565,7.10,341520,https://www.beeradvocate.com/beer/profile/41044/341520/,Maibock,41044,Turtle Stack Brewery,1,4.16
+566,5.00,295441,https://www.beeradvocate.com/beer/profile/26743/295441/,Dry Hopped Helles,26743,49th State Brewing Company,1,4
+567,6.50,122641,https://www.beeradvocate.com/beer/profile/33079/122641/,Maibock,33079,Michels Eichsfelder Braumanufaktur,1,4.29
+568, ? ,303379,https://www.beeradvocate.com/beer/profile/30437/303379/,Zwei,30437,Two Roads Brewing Company,1,3.52
+569,7.50,237077,https://www.beeradvocate.com/beer/profile/33530/237077/,Maibock,33530,Wolf's Ridge Brewing,1,3.42
+570,6.60,227606,https://www.beeradvocate.com/beer/profile/24245/227606/,Zuiglam,24245,Ramses Bier,1,3.5
+571,6.50,122391,https://www.beeradvocate.com/beer/profile/5564/122391/,Scheffels Maibock,5564,Kulturbrauerei Heidelberg,1,4.25
+572,6.50,322071,https://www.beeradvocate.com/beer/profile/22411/322071/,Duits & Lauret Kiem,22411,Duits & Lauret Speciaalbierbrouwerij,1,3.25
+573,5.00,246808,https://www.beeradvocate.com/beer/profile/37556/246808/,Duchie's Anniversary Maibock,37556,Wacker Brewing Co.,1,3.5
+574,6.20,265497,https://www.beeradvocate.com/beer/profile/35856/265497/,Balder Stabokk,35856,Balder Brygg,1,3.63
+575,4.90,305178,https://www.beeradvocate.com/beer/profile/49154/305178/,The Judge,49154,555 Brewing Co,1,3.79
+576,6.50,122394,https://www.beeradvocate.com/beer/profile/5154/122394/,Hagenbräu Maibock,5154,Hagenbräu Gasthaus Brauerei,1,3.75
+577, ? ,135451,https://www.beeradvocate.com/beer/profile/1483/135451/,Hellbender Hellerbock,1483,Springfield Brewing Company,1,3.5
+578,6.50,279579,https://www.beeradvocate.com/beer/profile/34748/279579/,Mai Pina Colada,34748,Imperial Oak Brewing,1,4.05
+579,6.50,261915,https://www.beeradvocate.com/beer/profile/47483/261915/,Joie De Vivre,47483,Delftse Stadsbrouwerij De Koperen Kat,1,3.25
+580,6.10,206621,https://www.beeradvocate.com/beer/profile/34772/206621/,Fiery Helles,34772,LTD Brewing Co.,1,3.43
+581,5.50,81181,https://www.beeradvocate.com/beer/profile/890/81181/,Allgäuer Oster-Festbier,890,Allgäuer Brauhaus AG,1,3.73
+582,6.00,5918,https://www.beeradvocate.com/beer/profile/508/5918/,Spring Bok,508,Burg Bier Brouwerij,1,3.9
+583,6.50,316702,https://www.beeradvocate.com/beer/profile/21449/316702/,Thor,21449,Sonoma Springs Brewing Co.,1,4.1
+584,6.40,243745,https://www.beeradvocate.com/beer/profile/31088/243745/,ReuZ Lentebock,31088,Reuzenbieren,1,3
+585,7.10,281635,https://www.beeradvocate.com/beer/profile/34036/281635/,R.T.'s Maple Rybock,34036,Day Block Brewing Company,1,4.23
+586,5.90,95779,https://www.beeradvocate.com/beer/profile/477/95779/,Willimantic Maybock With Rose Buds,477,Willimantic Brewing Co.,1,4.5
+587, ? ,182564,https://www.beeradvocate.com/beer/profile/28972/182564/,Summer Bock,28972,7Stern Bräu,1,3.88
+588,5.60,10790,https://www.beeradvocate.com/beer/profile/1075/10790/,Caldera Helles Lager,1075,Caldera Brewing Company,1,4
+589,6.80,338982,https://www.beeradvocate.com/beer/profile/6256/338982/,Heller Maibock,6256,Brauerei Ganter GmbH & Co. KG,1,3.94
+590,6.50,240166,https://www.beeradvocate.com/beer/profile/32880/240166/,Lake Luke Maibock,32880,Broad Brook Brewing Company,1,3.83
+591,7.00,250663,https://www.beeradvocate.com/beer/profile/31724/250663/,Maibock,31724,Hi-Wire Brewing,1,4.09
+592,7.50,96297,https://www.beeradvocate.com/beer/profile/20970/96297/,Alma Mater,20970,Statale Nove,1,4.01
+593,7.50,233001,https://www.beeradvocate.com/beer/profile/43218/233001/,Maibock Is Bigger Than Yours,43218,Black Hat Brew Works,1,2.84
+594,6.80,75050,https://www.beeradvocate.com/beer/profile/7626/75050/,Iserlohner Maibock,7626,Privatbrauerei Iserlohn GmbH,1,3.99
+595,7.10,186666,https://www.beeradvocate.com/beer/profile/6135/186666/,Der Helle Reh-Bock,6135,Privatbrauerei Reh,1,4
+596,7.10,282412,https://www.beeradvocate.com/beer/profile/1342/282412/,Maibock Lager,1342,Harvest Moon Brewery & Cafe,1,3.89
+597,9.20,121388,https://www.beeradvocate.com/beer/profile/31920/121388/,Eastside Eismaibock,31920,FATE Brewing Company,1,4
+598,5.30,255020,https://www.beeradvocate.com/beer/profile/21274/255020/,Compressor S.M.A.S.H. Bock,21274,Wallace Brewing / Orehouse Tasting Room,1,3.63
+599,5.20,270126,https://www.beeradvocate.com/beer/profile/46386/270126/,Helles,46386,Black Walnut Brewery,1,3.73
+600,7.50,283184,https://www.beeradvocate.com/beer/profile/45115/283184/,Maibock,45115,Brasserie Vrooden,1,4.01
+601,7.10,64816,https://www.beeradvocate.com/beer/profile/7314/64816/,Arnstädter UrBock,7314,Stadtbrauerei Arnstadt,1,3.91
+602,6.80,280881,https://www.beeradvocate.com/beer/profile/24600/280881/,May Day,24600,Figueroa Mountain Brewing Co.,1,3.59
+603,6.50,203826,https://www.beeradvocate.com/beer/profile/30153/203826/,Golser Bullig,30153,Pannonia Brauerei Gols Gmbh,1,3.72
+604,6.20,286002,https://www.beeradvocate.com/beer/profile/29268/286002/,Maibock Lager,29268,Sleeping Giant Brewing Co.,1,3.99
+605,6.50,290610,https://www.beeradvocate.com/beer/profile/47495/290610/,Pilot Batch Series: Maibock,47495,Point Labaddie Brewery,1,3.75
+606,6.00,215349,https://www.beeradvocate.com/beer/profile/43655/215349/,Maibock,43655,Khoffner Craft Ale & Lagers,1,4
+607,6.80,288565,https://www.beeradvocate.com/beer/profile/28181/288565/,May Queen Maibock,28181,Pecan Street Brewing,1,3.99
+608,5.50,237877,https://www.beeradvocate.com/beer/profile/44159/237877/,Church In The Wild,44159,Wild Card Brewing Company,1,3.76
+609, ? ,211510,https://www.beeradvocate.com/beer/profile/4069/211510/,Bannock Street Maibock,4069,Ram Restaurant & Brewery,1,3.24
+610,6.80,281910,https://www.beeradvocate.com/beer/profile/46527/281910/,Ernie,46527,Barrel House Z (BHZ),1,4
+611,7.00,228918,https://www.beeradvocate.com/beer/profile/33521/228918/,Sundance,33521,Right Proper Brewing Company - Shaw Brewpub,1,4
+612,7.70,109110,https://www.beeradvocate.com/beer/profile/2681/109110/,El Jefe Maibock,2681,Oskar Blues Grill & Brew,1,3.25
+613,7.60,59959,https://www.beeradvocate.com/beer/profile/20637/59959/,Bierhalle Maibock,20637,Bierhalle,1,3.35
+614,7.30,338488,https://www.beeradvocate.com/beer/profile/32799/338488/,No Yelling On The Bus,32799,Only Child Brewing Company,1,3.93
+615, ? ,277304,https://www.beeradvocate.com/beer/profile/37897/277304/,Helles Bock,37897,Mother Bunch Brewing,1,3.73
+616,4.40,185657,https://www.beeradvocate.com/beer/profile/36875/185657/,Hello Helles,36875,Maple Island Brewing,1,3.21
+617,5.10,178491,https://www.beeradvocate.com/beer/profile/39432/178491/,Hawksbill Helles,39432,Seven Arrows Brewing Company,1,3.77
+618,6.40,289596,https://www.beeradvocate.com/beer/profile/45985/289596/,Alpine Lente Meadow Maibock,45985,Blue Blaze Brewing Co.,1,3.07
+619,7.50,131133,https://www.beeradvocate.com/beer/profile/34313/131133/,Belgian's Maibock,34313,1933 Brewing Company,1,4.25
+620,6.80,279101,https://www.beeradvocate.com/beer/profile/41807/279101/,Maibocking Shepherd,41807,Wasserhund Brewing Company,1,3.75
+621,6.20,84545,https://www.beeradvocate.com/beer/profile/26850/84545/,Beerknuckle Bockser,26850,Against The Grain Brewery & Smokehouse,1,3.68
+622,6.70,46657,https://www.beeradvocate.com/beer/profile/6076/46657/,Heller Bock,6076,Klosterbrauerei Mallersdorf,1,3.97
+623, ? ,186689,https://www.beeradvocate.com/beer/profile/1307/186689/,Spring Bock,1307,Climax Brewing Company,1,3.75
+624,6.30,122689,https://www.beeradvocate.com/beer/profile/29187/122689/,Riverside Helles Bock,29187,Snow Eagle Brewing & Grill,1,3.5
+625,6.50,227650,https://www.beeradvocate.com/beer/profile/507/227650/,Gerardus Wittems Kloosterbier Lentebok,507,Gulpener Bierbrouwerij B.V.,1,3.54
+626,6.10,49730,https://www.beeradvocate.com/beer/profile/6078/49730/,Maibock Hell,6078,Klosterbrauerei Scheyern,1,4
+627,6.20,49986,https://www.beeradvocate.com/beer/profile/12/49986/,John Harvard's Spring Maibock,12,John Harvard's Brewery & Ale House,1,3.62
+628,7.00,58181,https://www.beeradvocate.com/beer/profile/1178/58181/,Myna Bock,1178,Great Waters Brewing,1,4.45
+629,8.75,68167,https://www.beeradvocate.com/beer/profile/8818/68167/,Heller Than Thou,8818,Last Name Brewing,1,2.98
+630,7.80,248138,https://www.beeradvocate.com/beer/profile/46844/248138/,Calmer Than You Are,46844,Conshohocken Brewing Company - Bridgeport Brewpub,1,3.58
+631,6.90,124490,https://www.beeradvocate.com/beer/profile/1636/124490/,Fegley's Maibock,1636,Fegley's Bethlehem Brew Works,1,3.88
+632,6.70,179276,https://www.beeradvocate.com/beer/profile/32497/179276/,Helles In Red,32497,Ahnapee Brewery,1,4.06
+633, ? ,271693,https://www.beeradvocate.com/beer/profile/18085/271693/,Heller Bock,18085,St. Elias Brewing Company,1,3.75
+634,7.20,161357,https://www.beeradvocate.com/beer/profile/11993/161357/,Koulu Reksi,11993,Panimoravintola Koulu,1,3.79
+635,7.00,134222,https://www.beeradvocate.com/beer/profile/30625/134222/,Bock It Up,30625,Nevin's Brewing Company,1,3.25
+636,7.20,289359,https://www.beeradvocate.com/beer/profile/25818/289359/,Spring Tide,25818,Lost Rhino Brewing Company,1,3.98
+637,7.70,319057,https://www.beeradvocate.com/beer/profile/26762/319057/,Good Night Loving Maibock,26762,Karbach Brewing Co.,1,3.78
+638,4.30,275795,https://www.beeradvocate.com/beer/profile/34315/275795/,Helles I'll Have Another,34315,Hailstorm Brewing Co.,1,3.98
+639,7.60,276563,https://www.beeradvocate.com/beer/profile/32770/276563/,New Kids On The Bock,32770,Heavy Riff Brewing Company,1,3.71
+640,6.50,121172,https://www.beeradvocate.com/beer/profile/4972/121172/,Shonan May Bock,4972,Kumazawa Brewing Co. / Shonan Beer and Trattoria Mokichi,1,4.5
+641,7.20,283222,https://www.beeradvocate.com/beer/profile/30870/283222/,Levi (The Mighty),30870,La Cabra Brewing,1,3.32
+642,7.00,50007,https://www.beeradvocate.com/beer/profile/1032/50007/,It's Maibock,1032,Five Seasons Prado,1,4.57
+643,6.50,88665,https://www.beeradvocate.com/beer/profile/2186/88665/,Aufsesser Heller Bock,2186,Brauereigasthof Rothenbach Sonnenhof,1,3.18
+644,7.50,160601,https://www.beeradvocate.com/beer/profile/26850/160601/,Kornè's Query,26850,Against The Grain Brewery & Smokehouse,1,3.49
+645,8.70,171865,https://www.beeradvocate.com/beer/profile/35612/171865/,Panzer Faust,35612,Ex Novo Brewing,1,3.75
+646,6.60,185434,https://www.beeradvocate.com/beer/profile/29329/185434/,Junebock Helles Bock,29329,Burnt City Brewing,1,3.79
+647, ? ,172379,https://www.beeradvocate.com/beer/profile/16597/172379/,Glöckl Maibock,16597,Glöckl Bräu,1,3.5
+648,8.10,257115,https://www.beeradvocate.com/beer/profile/35589/257115/,Maibock Music,35589,Blue Nose Brewery,1,3.3
+649,5.50,284509,https://www.beeradvocate.com/beer/profile/45081/284509/,Hollen Glocken Helles Lager,45081,Left Nut Brewing,1,4.25
+650,7.40,106078,https://www.beeradvocate.com/beer/profile/30209/106078/,Mud Puddler Double Maibock,30209,Canal Park Brewing Co.,1,2.75
+651,7.00,117599,https://www.beeradvocate.com/beer/profile/21778/117599/,Forårsbryg,21778,Aarhus Bryghus,1,4
+652,7.50,259423,https://www.beeradvocate.com/beer/profile/5994/259423/,Meine Hopfenkreuzfahrt,5994,Brauhaus Nittenau,1,3.67
+653,7.60,339296,https://www.beeradvocate.com/beer/profile/28764/339296/,Side Eye,28764,West Sixth Brewing Company,1,3.81
+654,6.50,305504,https://www.beeradvocate.com/beer/profile/603/305504/,Honey Badger,603,Church Brew Works,1,3.75
+655,8.20,326240,https://www.beeradvocate.com/beer/profile/43168/326240/,Gregory's Maibock,43168,Local Relic,1,3.56
+656,5.10,143202,https://www.beeradvocate.com/beer/profile/37231/143202/,Hoppy Lager,37231,ShinDigger Brewing Co,1,4.1
+657,7.80,339810,https://www.beeradvocate.com/beer/profile/47838/339810/,Scoring Position,47838,Hansa Brewery,1,3.04
+658,8.00,274786,https://www.beeradvocate.com/beer/profile/47598/274786/,Hell Yes,47598,Wooden Cask Brewing Company,1,3.91
+659,7.90,279906,https://www.beeradvocate.com/beer/profile/43842/279906/,Helles Yeah,43842,Kickstand Brewing Company,1,4.03
+660,7.00,304483,https://www.beeradvocate.com/beer/profile/34748/304483/,Gin Barrel Aged Mai Way Or The Highway,34748,Imperial Oak Brewing,1,4.48
+661,6.60,86884,https://www.beeradvocate.com/beer/profile/29113/86884/,Petra,29113,BAdeF,1,2.62
+662,7.30,213350,https://www.beeradvocate.com/beer/profile/23311/213350/,Klosterbock,23311,Old Bavarian,1,3.73
+663, ? ,220266,https://www.beeradvocate.com/beer/profile/34961/220266/,Maibock,34961,Privatbrauerei Sander,1,3.25
+664,6.90,280171,https://www.beeradvocate.com/beer/profile/6186/280171/,Schwanador Heller Bock,6186,Ebensfelder Brauhaus,1,3.94
+665,7.80,286573,https://www.beeradvocate.com/beer/profile/30662/286573/,Edel-Hell Maibock,30662,Rocky Point Artisan Brewers (RPAB),1,3.86
+666,7.30,78958,https://www.beeradvocate.com/beer/profile/6045/78958/,Hell's Bock,6045,Iron Hill Brewery & Restaurant,1,3.75
+667,6.66,231791,https://www.beeradvocate.com/beer/profile/15057/231791/,Maibock 666,15057,Helm,1,3.75
+668,8.00,130928,https://www.beeradvocate.com/beer/profile/4155/130928/,1628 Heller Naturtrüber Doppelbock,4155,Neumarkter Lammsbräu,1,3.75
+669,7.50,172146,https://www.beeradvocate.com/beer/profile/35870/172146/,Herschdorfer Heller Bock,35870,Brauerei H. Schmiedeknecht,1,3.77
+670,6.80,329587,https://www.beeradvocate.com/beer/profile/39879/329587/,Big Billy Goat,39879,Taft's Ale House,1,3.87
+671,7.90,323701,https://www.beeradvocate.com/beer/profile/954/323701/,Thy Økologisk Julebryg JuleRen,954,Thisted Bryghus,1,2.63
+672,6.50,142454,https://www.beeradvocate.com/beer/profile/20864/142454/,Ægir Mai Helles Bock,20864,Ægir Bryggeri,1,3.73
+673,5.80,99446,https://www.beeradvocate.com/beer/profile/774/99446/,RyeBock,774,Idaho Brewing Company,1,3.65
+674, ? ,167544,https://www.beeradvocate.com/beer/profile/18823/167544/,RockOut W/Maibock Out,18823,Freetail Brewing Company,1,3.67
+675,6.90,323704,https://www.beeradvocate.com/beer/profile/764/323704/,Mai Dai,764,Blue Point Brewing Company,1,3.6
+676,7.00,241785,https://www.beeradvocate.com/beer/profile/5408/241785/,Helles Bock,5408,Herkimer Pub & Brewery,1,3.05
+677,6.90,283772,https://www.beeradvocate.com/beer/profile/880/283772/,Boulder Bock,880,Straub Brewery,1,3.84
+678,7.40,288892,https://www.beeradvocate.com/beer/profile/613/288892/,Craftwerk Horny Ariana,613,Bitburger Brauerei,1,3.49
+679,6.60,232572,https://www.beeradvocate.com/beer/profile/3956/232572/,Rite Of Spring Festbock,3956,Brewsters Brewing Company & Restaurant - Oliver Square,1,3.77
+680,7.50,230013,https://www.beeradvocate.com/beer/profile/15943/230013/,Hitchin' Bock,15943,Crow Peak Brewing,1,3.75
+681,7.40,243837,https://www.beeradvocate.com/beer/profile/44541/243837/,Livity,44541,Mad Brewlads Craft Co.,1,3.73
+682,6.20,119677,https://www.beeradvocate.com/beer/profile/29370/119677/,Maibock,29370,Get Well,1,3.75
+683,8.00,88447,https://www.beeradvocate.com/beer/profile/6102/88447/,Meinel Doppelbock Hell,6102,Georg Meinel Bierbrauerei KG,1,3.28
+684,5.20,48255,https://www.beeradvocate.com/beer/profile/2274/48255/,Northern Lights Heli Bock,2274,Ice Axe Grill / Mt. Hood Brewing Co.,1,4.15
+685,6.60,123521,https://www.beeradvocate.com/beer/profile/1056/123521/,It's A Maibock Life,1056,Upstream Brewing Company - Old Market,1,3.25
+686,6.50,83074,https://www.beeradvocate.com/beer/profile/12510/83074/,Zötler Mai Bock,12510,Privat Brauerei Zötler,1,3.12
+687,5.00,319874,https://www.beeradvocate.com/beer/profile/19544/319874/,Bavarian Hotbox,19544,Fat Head's Brewery & Saloon,1,4
+688,7.40,170627,https://www.beeradvocate.com/beer/profile/1860/170627/,Mai-Aye-Aye-Bock,1860,Bube's Brewery,1,3.54
+689,8.20,279172,https://www.beeradvocate.com/beer/profile/12959/279172/,Call Me Maibock,12959,Captain Lawrence Brewing Co.,1,4.1
+690,6.30,279684,https://www.beeradvocate.com/beer/profile/37611/279684/,Mai The Bock Be With You,37611,Farmington Brewing Company,1,4.28
+691,7.60,233607,https://www.beeradvocate.com/beer/profile/35180/233607/,Java Maibock,35180,MashCraft Brewing,1,3.75
+692,6.10,173191,https://www.beeradvocate.com/beer/profile/34281/173191/,Maibock,34281,Cloud 9 Brewery,1,2.81
+693,6.20,123529,https://www.beeradvocate.com/beer/profile/35025/123529/,Black Currant Maibock,35025,Miner Brewing Company,1,3.75
+694,4.50,203148,https://www.beeradvocate.com/beer/profile/32085/203148/,Freedom Bock,32085,Big Alice Brewing,1,3.75
+695,6.80,235149,https://www.beeradvocate.com/beer/profile/40633/235149/,Playor Hator,40633,Division 23 Brewing,1,3.36
+696,7.80,339854,https://www.beeradvocate.com/beer/profile/41947/339854/,Meat & Eggs,41947,Wibby Brewing,1,4.25
+697,6.30,105870,https://www.beeradvocate.com/beer/profile/7606/105870/,Landskron Maibock,7606,Landskron Brauerei,1,1.5
+698,6.80,74385,https://www.beeradvocate.com/beer/profile/1540/74385/,Helles To The Yeah,1540,Mountain Goat Beer Pty Ltd,1,4.2
+699, ? ,337299,https://www.beeradvocate.com/beer/profile/49074/337299/,Bock to the Future,49074,Clouds Brewing - Brewery & Taproom,1,3.73
+700,6.20,59284,https://www.beeradvocate.com/beer/profile/12/59284/,Empire Strikes Bock,12,John Harvard's Brewery & Ale House,1,3.8
+701, ? ,119446,https://www.beeradvocate.com/beer/profile/3069/119446/,Kieler Maibock,3069,Kieler Brauerei,1,3.75
+702,4.80,279447,https://www.beeradvocate.com/beer/profile/16096/279447/,Straight From Helles,16096,Allentown Brew Works,1,3.71
+703,8.20,295321,https://www.beeradvocate.com/beer/profile/1146/295321/,Smoked Heller Bock,1146,Goose Island Beer Co.,1,3.25
+704,6.20,35993,https://www.beeradvocate.com/beer/profile/4098/35993/,7 Stern Osterbock,4098,Siebensternbräu,1,3.52
+705,7.00,228762,https://www.beeradvocate.com/beer/profile/3972/228762/,Maibock,3972,A1A Aleworks,1,3.95
+706,7.20,329883,https://www.beeradvocate.com/beer/profile/33707/329883/,Hellator,33707,Tributary Brewing Co.,1,4.02
+707,6.50,303259,https://www.beeradvocate.com/beer/profile/46017/303259/,Fruhling,46017,Accomplice Beer Company,1,3.75
+708,7.50,334748,https://www.beeradvocate.com/beer/profile/45647/334748/,New Kids On The Bock,45647,Holler Brewing Co.,1,3.93
+709,6.20,221853,https://www.beeradvocate.com/beer/profile/37374/221853/,Spring Splash Maibock Lager,37374,Powder Hollow Brewery,1,2.73
+710,7.00,296606,https://www.beeradvocate.com/beer/profile/33939/296606/,Mandevil,33939,Warped Wing Brewing Company,1,3.94
+711,6.60,126878,https://www.beeradvocate.com/beer/profile/2946/126878/,Maibock,2946,The Grumpy Troll Restaurant and Brewery,1,4.18
+712,6.90,70815,https://www.beeradvocate.com/beer/profile/22243/70815/,Spring Bock,22243,Vintage Brewing Company,1,3.08
+713,7.00,163231,https://www.beeradvocate.com/beer/profile/38629/163231/,Christmas Bock,38629,Red Collar Brewing Co.,1,3.92
+714,6.00,288928,https://www.beeradvocate.com/beer/profile/32783/288928/,Helles Bock,32783,Stone Corral Brewery,1,3.5
+715,6.00,34721,https://www.beeradvocate.com/beer/profile/7326/34721/,Rhöner Bock Hell,7326,Rhoenbrauerei Dittmar,1,3.02
+716,7.50,252577,https://www.beeradvocate.com/beer/profile/5994/252577/,Mein Uncle Sam,5994,Brauhaus Nittenau,1,3.88
+717,6.50,50083,https://www.beeradvocate.com/beer/profile/5970/50083/,Heller Bock,5970,Staffelberg-Bräu,1,4
+718,7.00,111012,https://www.beeradvocate.com/beer/profile/1877/111012/,Berliner Kindl Bock Hell,1877,Berliner Kindl-Schultheiss-Brauerei GmbH,1,2.92
+719, ? ,98213,https://www.beeradvocate.com/beer/profile/952/98213/,Hells Rauch,952,Great Dane Pub & Brewing Company (Downtown),1,3.82
+720, ? ,232357,https://www.beeradvocate.com/beer/profile/28190/232357/,Maibock,28190,Stadtbrauerei Erich Babben Brahaus Und Pension,1,3.21
+721,6.50,297894,https://www.beeradvocate.com/beer/profile/7715/297894/,Reichenbrander,7715,Brauhaus Hartmannsdorf GmbH,1,4
+722,6.75,311976,https://www.beeradvocate.com/beer/profile/33345/311976/,Maple Bourbon Bacon Bock,33345,Sockeye Brewing,1,3.58
+723, ? ,101034,https://www.beeradvocate.com/beer/profile/14967/101034/,Summer Bock,14967,Brau Brothers Brewing Co. LLC,1,3
+724, ? ,232874,https://www.beeradvocate.com/beer/profile/29118/232874/,Maibock,29118,Timber Creek Tap & Table,1,3.64
+725,6.50,228011,https://www.beeradvocate.com/beer/profile/22411/228011/,Duits & Lauret Kiem,22411,Duits & Lauret Speciaalbierbrouwerij,1,3.7
+726, ? ,63403,https://www.beeradvocate.com/beer/profile/15059/63403/,Spring Bock,15059,Gray's Tied House,1,3.46
+727,7.50,240557,https://www.beeradvocate.com/beer/profile/11421/240557/,Sin City Spring Bock,11421,Sin City Brewing Co.,1,3.48
+728,7.30,122797,https://www.beeradvocate.com/beer/profile/28183/122797/,All Saints Maibock,28183,All Saints Brewing Company,1,3.75
+729,7.30,53934,https://www.beeradvocate.com/beer/profile/15367/53934/,Eichhorn Bock,15367,Brauerei Eichhorn,1,3.82
+730,8.60,120751,https://www.beeradvocate.com/beer/profile/5392/120751/,Maibock,5392,Carlyle Brewing Co.,1,4.5
+731,6.20,283571,https://www.beeradvocate.com/beer/profile/49200/283571/,Broadside Maibock,49200,Black Hoof Brewing Co.,1,3.74
+732,7.00,130228,https://www.beeradvocate.com/beer/profile/11689/130228/,No. 32 Maibock,11689,Gella's Diner & Lb. Brewing Co.,1,3.25
+733,7.40,228789,https://www.beeradvocate.com/beer/profile/33589/228789/,Maibock,33589,Columbia Kettle Works,1,4.06
+734, ? ,181429,https://www.beeradvocate.com/beer/profile/6092/181429/,Mariahilfer Maibock,6092,Kössel Bräu,1,3.4
+735,7.40,151223,https://www.beeradvocate.com/beer/profile/5275/151223/,Henry's Helles Bock,5275,Front Street Brewery,1,3.86
+736,5.60,199355,https://www.beeradvocate.com/beer/profile/34334/199355/,Under The Foam,34334,Books & Brews,1,4.17
+737,6.30,228283,https://www.beeradvocate.com/beer/profile/42001/228283/,Mother Mai-I,42001,Pulpit Rock Brewing Company,1,3.5
+738,7.30,233915,https://www.beeradvocate.com/beer/profile/28281/233915/,Brewers Select #008: Maibock,28281,Kulshan Brewing Company,1,4
+739, ? ,64699,https://www.beeradvocate.com/beer/profile/14177/64699/,May Bock,14177,Walldorff Brewpub and Bistro,1,3.18
+740,6.30,284348,https://www.beeradvocate.com/beer/profile/38880/284348/,Maibock,38880,Folksbier Brewery,1,3.71
+741,6.00,142525,https://www.beeradvocate.com/beer/profile/7599/142525/,Bergbräu Maibock,7599,Sollinger Bergbrauerei,1,3.5
+742,8.70,284350,https://www.beeradvocate.com/beer/profile/1146/284350/,Hellgoat,1146,Goose Island Beer Co.,1,3.5
+743, ? ,94654,https://www.beeradvocate.com/beer/profile/20777/94654/,Mica Maibock,20777,Quarry Brewing Company,1,3.56
+744,6.40,231358,https://www.beeradvocate.com/beer/profile/36739/231358/,Ingolstadt,36739,Illuminated Brew Works,1,4.13
+745,7.20,284351,https://www.beeradvocate.com/beer/profile/48006/284351/,Low Boy,48006,On Tour Brewing Company,1,3.63
+746,6.10,338884,https://www.beeradvocate.com/beer/profile/49621/338884/,Mai Goodness,49621,Greer Brewing,1,4.28
+747, ? ,339909,https://www.beeradvocate.com/beer/profile/34507/339909/,Nose Over Tail With Coffee,34507,Pollyanna Brewing Company,1,3.78
+748,6.50,313798,https://www.beeradvocate.com/beer/profile/361/313798/,Maibock,361,Bend Brewing Company,1,3.04
+749,7.40,226503,https://www.beeradvocate.com/beer/profile/41428/226503/,Aurbach,41428,Call to Arms Brewing Company,1,3.86
+750,7.50,198089,https://www.beeradvocate.com/beer/profile/41195/198089/,Maibock,41195,Southern Barrel Brewing Co.,1,3.97
+751,7.50,280522,https://www.beeradvocate.com/beer/profile/38158/280522/,Egomaniac,38158,Belly Love Brewing Company,1,3.77
+752,7.20,253135,https://www.beeradvocate.com/beer/profile/46875/253135/,Heller Bock,46875,Microbirrificio Birra Elvo,1,4
+753,7.30,288208,https://www.beeradvocate.com/beer/profile/47596/288208/,Heller Bock,47596,Great Central Brewing Company,1,4.09
+754,8.40,236240,https://www.beeradvocate.com/beer/profile/30379/236240/,City Beat Mai Bock Rock,30379,Amplified Ale Works,1,4
+755,6.50,172754,https://www.beeradvocate.com/beer/profile/5983/172754/,Mönchsambacher Maibock,5983,Brauerei Zehendner GmbH,1,4
+756,7.40,147923,https://www.beeradvocate.com/beer/profile/764/147923/,Helles Bock,764,Blue Point Brewing Company,1,3.8
+757,7.60,298963,https://www.beeradvocate.com/beer/profile/2431/298963/,Perlenbacher Maltos White Stout,2431,Privatbrauerei Eichbaum GmbH & Co. KG,1,3.24
+758,6.50,226516,https://www.beeradvocate.com/beer/profile/39847/226516/,Májový Bock,39847,Pivovar Chomout,1,3
+759,7.60,193748,https://www.beeradvocate.com/beer/profile/31320/193748/,Basalt Bock,31320,Pax Bräu,1,4.02
+760,6.50,167637,https://www.beeradvocate.com/beer/profile/32074/167637/,Bryggeri Maibock,32074,Bryggeri Helsinki,1,4.02
+761,7.00,252373,https://www.beeradvocate.com/beer/profile/48975/252373/,Weihenstephaner Dr. Prof. Ludwig Narziss Edition Pils-Bock,48975,Technische Universität München (TUM) Forschungsbrauerei,1,4.15
+762,5.50,68822,https://www.beeradvocate.com/beer/profile/2482/68822/,Clocktower Maybock,2482,The Clocktower Brew Pub - Glebe,1,3.55
+763,6.80,291286,https://www.beeradvocate.com/beer/profile/31165/291286/,Maibock,31165,Bad Weather Brewing Company,1,3.67
+764,6.20,102358,https://www.beeradvocate.com/beer/profile/7282/102358/,Hochland Honigbier,7282,Brauerei Hofstetten Krammer GmbH & Co. KG,1,3.81
+765,5.00,242134,https://www.beeradvocate.com/beer/profile/32832/242134/,Helles For Heroes Liberation Day,32832,Evil Czech Brewery,1,3.75
+766,6.50,282841,https://www.beeradvocate.com/beer/profile/31875/282841/,West Of The Pecos,31875,Big Bend Brewing Co.,1,3.92
+767,7.00,103642,https://www.beeradvocate.com/beer/profile/7283/103642/,Weihnachtsbock,7283,Brauerei Josef Baumgartner AG,1,3.25
+768,6.00,94428,https://www.beeradvocate.com/beer/profile/3259/94428/,Maibock,3259,The Merchant Ale House Restaurant & Brewpub,1,2.61
+769, ? ,92894,https://www.beeradvocate.com/beer/profile/13447/92894/,Spring Wheat HefeBok,13447,Lander Brewing Company,1,3.67
+770,7.50,120800,https://www.beeradvocate.com/beer/profile/7333/120800/,Darguner Maibock,7333,Darguner Brauerei GmbH,1,3
+771,6.40,169954,https://www.beeradvocate.com/beer/profile/6331/169954/,"Meibock 6,4%",6331,Brouwerij De Prael,1,3.25
+772,6.60,231395,https://www.beeradvocate.com/beer/profile/30845/231395/,Offspring,30845,Oersoep,1,3.5
+773,6.50,42979,https://www.beeradvocate.com/beer/profile/742/42979/,Spring Bock,742,District ChopHouse & Brewery,1,3.53
+774,7.20,119780,https://www.beeradvocate.com/beer/profile/438/119780/,Bawston Bock,438,Kennebec River Brewery,1,3.75
+775, ? ,82918,https://www.beeradvocate.com/beer/profile/15524/82918/,Lemke Maibock,15524,Brauerei Lemke,1,3.62
+776,7.50,251366,https://www.beeradvocate.com/beer/profile/5994/251366/,Five O' Clock Bier,5994,Brauhaus Nittenau,1,3.34
+777,5.25,282345,https://www.beeradvocate.com/beer/profile/15457/282345/,Maibock,15457,Wilde Rose Keller,1,4.33
+778,6.80,289514,https://www.beeradvocate.com/beer/profile/9704/289514/,Fortune Hunter Maibock,9704,Emmett's Brewing Company,1,3.66
+779,6.20,50411,https://www.beeradvocate.com/beer/profile/7601/50411/,Maibock,7601,Brauhaus an der Thomaskirche,1,2.55
+780,8.60,291311,https://www.beeradvocate.com/beer/profile/40685/291311/,Ska-Skraper Maibock,40685,Spencer Devon Brewing,1,3.8
+781,6.00,278512,https://www.beeradvocate.com/beer/profile/33495/278512/,Rebel Yell,33495,Blackwater Draw Brewing Co.,1,3.95
+782,6.80,169968,https://www.beeradvocate.com/beer/profile/15834/169968/,Golden Goat,15834,Dock Street Brewery & Restaurant,1,3.36
+783,6.10,287730,https://www.beeradvocate.com/beer/profile/32906/287730/,Ziegenmensch,32906,Schilling Beer Co.,1,3.75
+784,5.40,120562,https://www.beeradvocate.com/beer/profile/1056/120562/,Hyrule Helles,1056,Upstream Brewing Company - Old Market,1,2.5
+785,7.20,277235,https://www.beeradvocate.com/beer/profile/30209/277235/,Bock Bock,30209,Canal Park Brewing Co.,1,3
+786,7.00,68853,https://www.beeradvocate.com/beer/profile/5782/68853/,Kronburger Bock,5782,Brauerei Josef Schweighart,1,4.12
+787,7.20,29942,https://www.beeradvocate.com/beer/profile/2155/29942/,Maibock 900,2155,Red Brick Station,1,3.62
+788,7.40,274679,https://www.beeradvocate.com/beer/profile/23422/274679/,Siriviela,23422,Birra Di Meni,1,3.77
+789,6.80,181752,https://www.beeradvocate.com/beer/profile/32731/181752/,Maibock,32731,Engrained Brewing Company,1,3.53
+790,5.50,317689,https://www.beeradvocate.com/beer/profile/51301/317689/,Helles,51301,Matsushima Brewery Pub Restaurant,1,2.67
+791,7.10,70395,https://www.beeradvocate.com/beer/profile/7345/70395/,Schinderhannes Bock,7345,Kirner Bier,1,3.91
+792,6.80,303355,https://www.beeradvocate.com/beer/profile/23313/303355/,Giesinger Munique,23313,Giesinger Bräu - Das Bierlaboratorium,1,4.09
+793,6.00,122875,https://www.beeradvocate.com/beer/profile/1634/122875/,Mayday,1634,Gilded Otter Brewing Company,1,3.37
+794,5.50,150268,https://www.beeradvocate.com/beer/profile/23030/150268/,Flip WIre,23030,Revelation Cat Craft Brewing,1,3.15
+795,6.70,222204,https://www.beeradvocate.com/beer/profile/764/222204/,Brewers Stash #003 Maibock,764,Blue Point Brewing Company,1,3.59
+796,7.00,237308,https://www.beeradvocate.com/beer/profile/12314/237308/,Superfly Maibock,12314,Dry Dock Brewing Co.,1,3.71
+797,6.00,195580,https://www.beeradvocate.com/beer/profile/7734/195580/,Contessa Chiara,7734,Amarcord Birra Artigianale Italiana,1,3.47
+798,6.20,174335,https://www.beeradvocate.com/beer/profile/40408/174335/,May The Bock,40408,Ordnance Brewing,1,3.66
+799,7.60,123135,https://www.beeradvocate.com/beer/profile/29008/123135/,Junebug,29008,Bluejacket / Arsenal Restaurant,1,3.25
+800,7.30,125443,https://www.beeradvocate.com/beer/profile/35341/125443/,BigNose MyBock,35341,Clandestine Brewing Company,0,0
+801,7.20,169990,https://www.beeradvocate.com/beer/profile/37352/169990/,Hofbräu Maibock,37352,Hofbräuhaus Columbus,0,0
+802,5.00,161546,https://www.beeradvocate.com/beer/profile/7290/161546/,Weitra Helles,7290,Brauerei Zwettl Karl Schwarz GmbH,0,0
+803, ? ,177166,https://www.beeradvocate.com/beer/profile/695/177166/,Maibacca,695,Manayunk Brewery and Restaurant,0,0
+804,6.80,285201,https://www.beeradvocate.com/beer/profile/30744/285201/,Sweet + Vicious,30744,Yonkers Brewing Co.,0,0
+805,5.00,298261,https://www.beeradvocate.com/beer/profile/38615/298261/,Maibock,38615,Counterbalance Brewing Company,0,0
+806,8.10,341271,https://www.beeradvocate.com/beer/profile/45045/341271/,The Mind Flayer,45045,Dorchester Brewing Company,0,0
+807,5.60,282651,https://www.beeradvocate.com/beer/profile/36484/282651/,Flex Morehard,36484,Oliphant Brewing,0,0
+808,7.60,289051,https://www.beeradvocate.com/beer/profile/22779/289051/,Dirk Ironstag,22779,Falls City Brewing Company,0,0
+809,6.50,283935,https://www.beeradvocate.com/beer/profile/18635/283935/,Vociferator,18635,Aviator Brewing Company,0,0
+810, ? ,220193,https://www.beeradvocate.com/beer/profile/26983/220193/,Helles Bock Lager,26983,Rusty Truck Brewing Company / Roadhouse 101,0,0
+811, ? ,26148,https://www.beeradvocate.com/beer/profile/2326/26148/,Josef Schneider´s Maibock,2326,Brauereigasthof Schneider,0,0
+812,7.00,299812,https://www.beeradvocate.com/beer/profile/43967/299812/,Maritime Mailbock Lager,43967,Gig Harbor Brewing Co.,0,0
+813,7.00,334633,https://www.beeradvocate.com/beer/profile/38904/334633/,Brewer's Backyard Maibock,38904,Muddy York Brewing Co.,0,0
+814,7.50,334634,https://www.beeradvocate.com/beer/profile/51123/334634/,Hopsteiner,51123,Brunswick Bierworks,0,0
+815,7.20,138538,https://www.beeradvocate.com/beer/profile/36812/138538/,Summertime Maibock,36812,Heroes Restaurant & Brewery,0,0
+816,6.00,141610,https://www.beeradvocate.com/beer/profile/27129/141610/,Sierra Maibock,27129,Ozzbeco (K) Ltd. (Sierra Premium),0,0
+817,7.40,296752,https://www.beeradvocate.com/beer/profile/31527/296752/,Maibock,31527,Seapine Brewing Company,0,0
+818, ? ,153650,https://www.beeradvocate.com/beer/profile/29838/153650/,Velas Helles,29838,Smoky Mountain Brewery And Restaruant,0,0
+819,7.10,129330,https://www.beeradvocate.com/beer/profile/32412/129330/,March 12 Maibock,32412,The Vineyard and Brewery at Hershey,0,0
+820,6.90,230969,https://www.beeradvocate.com/beer/profile/24600/230969/,Redneck Hot Tub,24600,Figueroa Mountain Brewing Co.,0,0
+821,8.20,193593,https://www.beeradvocate.com/beer/profile/34303/193593/,Doppel Maibock,34303,Singin' River Brewing Co.,0,0
+822,6.80,212795,https://www.beeradvocate.com/beer/profile/20160/212795/,F-16,20160,Püttner Bräu,0,0
+823,6.70,239675,https://www.beeradvocate.com/beer/profile/43482/239675/,Lemondrop Maibock,43482,Vanish Beer,0,0
+824,6.00,206396,https://www.beeradvocate.com/beer/profile/32152/206396/,My Bo,32152,Birra Bellazzi,0,0
+825, ? ,167230,https://www.beeradvocate.com/beer/profile/31875/167230/,Heller Maibock,31875,Big Bend Brewing Co.,0,0
+826,6.50,288064,https://www.beeradvocate.com/beer/profile/48490/288064/,Maibock,48490,Brewery Emperial,0,0
+827,6.90,279363,https://www.beeradvocate.com/beer/profile/43482/279363/,Spring Lager,43482,Vanish Beer,0,0
+828,5.10,172102,https://www.beeradvocate.com/beer/profile/36812/172102/,Spring Cleaning,36812,Heroes Restaurant & Brewery,0,0
+829,7.20,294986,https://www.beeradvocate.com/beer/profile/49497/294986/,May Day Maibock,49497,Bombing Range Brewing,0,0
+830,4.00,262220,https://www.beeradvocate.com/beer/profile/43809/262220/,The Time Stopper,43809,New District Brewing Company,0,0
+831,7.00,282189,https://www.beeradvocate.com/beer/profile/40209/282189/,Mai Bock,40209,Goat Ridge Brewing Co.,0,0
+832,6.50,160336,https://www.beeradvocate.com/beer/profile/34429/160336/,Küstenbier Bock,34429,Klüver's Brauhaus,0,0
+833,6.30,150353,https://www.beeradvocate.com/beer/profile/26704/150353/,Jimbo's Ale,26704,Monkey Paw Pub & Brewery,0,0
+834,8.00,227411,https://www.beeradvocate.com/beer/profile/30626/227411/,Maibock,30626,Daredevil Brewing Co.,0,0
+835,6.90,162132,https://www.beeradvocate.com/beer/profile/4115/162132/,Schnaitl Maibock,4115,Privatbrauerei Schnaitl GmbH & Co,0,0
+836,6.00,248917,https://www.beeradvocate.com/beer/profile/43883/248917/,Maibock,43883,Rally King Brewing,0,0
+837,6.40,339798,https://www.beeradvocate.com/beer/profile/42207/339798/,Car Rod Ram,42207,Ancient City Brewing,0,0
+838,6.40,104796,https://www.beeradvocate.com/beer/profile/12919/104796/,Snowblind Maibock,12919,Eldo,0,0
+839,7.20,59228,https://www.beeradvocate.com/beer/profile/7015/59228/,Maibock,7015,Babe's Bar-B-Que And Brewery,0,0
+840,7.50,132963,https://www.beeradvocate.com/beer/profile/24877/132963/,Gold Dust Maibock,24877,Last Frontier Brewing Company,0,0
+841,6.70,220771,https://www.beeradvocate.com/beer/profile/33346/220771/,Goa-Tee,33346,Kozy Yak Brewery,0,0
+842,5.50,238436,https://www.beeradvocate.com/beer/profile/35646/238436/,Mel's Helles,35646,Revelry Brewing Co,0,0
+843, ? ,60521,https://www.beeradvocate.com/beer/profile/23313/60521/,Giesinger Maibock,23313,Giesinger Bräu - Das Bierlaboratorium,0,0
+844, ? ,126825,https://www.beeradvocate.com/beer/profile/820/126825/,Augustiner Bräu Maibock,820,Augustiner-Bräu Wagner KG,0,0
+845,5.00,145258,https://www.beeradvocate.com/beer/profile/31586/145258/,Gretel,31586,Benelux Brasserie Artisanale,0,0
+846,7.20,290411,https://www.beeradvocate.com/beer/profile/3820/290411/,Solar Power Super Bock,3820,Bozeman Brewing Company,0,0
+847,6.80,167282,https://www.beeradvocate.com/beer/profile/10583/167282/,Thriller,10583,Iron Springs Pub & Brewery,0,0
+848,6.30,104051,https://www.beeradvocate.com/beer/profile/7318/104051/,Waldhaus Maibock,7318,Waldhaus,0,0
+849,7.70,278901,https://www.beeradvocate.com/beer/profile/35180/278901/,Maibock,35180,MashCraft Brewing,0,0
+850,4.70,301685,https://www.beeradvocate.com/beer/profile/44114/301685/,Cascade Falls,44114,Dirigo Brewing Company,0,0
+851,5.20,183926,https://www.beeradvocate.com/beer/profile/40937/183926/,Fuzzy Belles,40937,Mad Science Brewing Company at Thanksgiving Farm,0,0
+852,5.50,175481,https://www.beeradvocate.com/beer/profile/1315/175481/,Weltenburger Mai Bock,1315,Klosterbrauerei Weltenburg,0,0
+853,6.40,286330,https://www.beeradvocate.com/beer/profile/33659/286330/,Sinners  Future,33659,Four Saints Brewing Company,0,0
+854,6.10,106618,https://www.beeradvocate.com/beer/profile/1161/106618/,Fiedler Abrahamsbock,1161,Privatbrauerei Christian Fiedler,0,0
+855, ? ,60539,https://www.beeradvocate.com/beer/profile/5773/60539/,Enzensteiner Heller Bock,5773,Brauerei Enzensteiner,0,0
+856,7.00,124542,https://www.beeradvocate.com/beer/profile/29076/124542/,Ploughshare,29076,Cranker's Brewery,0,0
+857,6.90,164994,https://www.beeradvocate.com/beer/profile/6807/164994/,Distelhäuser Frühlingsbock,6807,Distelhäuser Brauerei,0,0
+858,6.70,238980,https://www.beeradvocate.com/beer/profile/27921/238980/,Mai Bock,27921,L'Espace Public-Brasseurs de quartier,0,0
+859,5.00,167306,https://www.beeradvocate.com/beer/profile/31399/167306/,Helles Gone Rye,31399,Aslan Brewing Company,0,0
+860,6.40,328843,https://www.beeradvocate.com/beer/profile/49576/328843/,Gamsbart,49576,Schiller Bräu,0,0
+861,6.60,104593,https://www.beeradvocate.com/beer/profile/6676/104593/,Wippraer Bockbier Hell,6676,Museums- und Traditionsbrauerei Wippra / Harz Gebrüder Gehring,0,0
+862,6.20,124305,https://www.beeradvocate.com/beer/profile/26963/124305/,Keg Creek Maibock,26963,Keg Creek Brewing Company,0,0
+863, ? ,102035,https://www.beeradvocate.com/beer/profile/33008/102035/,JOSEFS Bock,33008,JOSEFS-Brauerei,0,0
+864,5.10,207764,https://www.beeradvocate.com/beer/profile/3185/207764/,Helles Chrome,3185,The Tap Brewing Company,0,0
+865,7.50,232087,https://www.beeradvocate.com/beer/profile/3749/232087/,Spring Ale,3749,Seven Bridges Grille And Brewery,0,0
+866,6.30,176283,https://www.beeradvocate.com/beer/profile/4494/176283/,Kraft Bräu Maibock,4494,Kraft Bräu - Blesius Garten,0,0
+867,7.00,330143,https://www.beeradvocate.com/beer/profile/51118/330143/,Maibock,51118,Qajaq Brewery,0,0
+868,6.80,341153,https://www.beeradvocate.com/beer/profile/48325/341153/,Springbok,48325,Utepils Brewing Co,0,0
+869, ? ,316066,https://www.beeradvocate.com/beer/profile/34208/316066/,Gemutlichkeit,34208,Foundation Brewing Company,0,0
+870,6.90,63906,https://www.beeradvocate.com/beer/profile/24306/63906/,Schleppe Festbock,24306,Schleppe Brauerei,0,0
+871,5.90,301219,https://www.beeradvocate.com/beer/profile/47539/301219/,Maibock,47539,Mortals Key Brewing Company,0,0
+872,7.00,190373,https://www.beeradvocate.com/beer/profile/41821/190373/,Bock In The Goat Rocks,41821,Hop Nation Brewing Company,0,0
+873,7.50,226215,https://www.beeradvocate.com/beer/profile/30026/226215/,Captain Kirkwood And Mr. Bock Maibock,30026,Function Brewing,0,0
+874,6.90,204712,https://www.beeradvocate.com/beer/profile/2972/204712/,Headbanger,2972,Mountain Sun Pub & Brewery,0,0
+875,5.90,107691,https://www.beeradvocate.com/beer/profile/7611/107691/,Maibock,7611,Schwerter Brauerei Wohlers KG,0,0
+876, ? ,140204,https://www.beeradvocate.com/beer/profile/21641/140204/,Fraulein Mary's Maibock,21641,Hamburger Mary's / Andersonville Brewing,0,0
+877,6.50,281004,https://www.beeradvocate.com/beer/profile/40627/281004/,Maibock,40627,Big Axe Brewing Co.,0,0
+878,6.50,111789,https://www.beeradvocate.com/beer/profile/30153/111789/,Golser Bockig,30153,Pannonia Brauerei Gols Gmbh,0,0
+879,7.30,204213,https://www.beeradvocate.com/beer/profile/6594/204213/,Bier-Hannes Mai-Bock,6594,Bier Hannes Brauerei Zur Mainkur GmbH,0,0
+880,4.50,29368,https://www.beeradvocate.com/beer/profile/377/29368/,Honey Maibock,377,Glacier Brewhouse,0,0
+881,7.50,203196,https://www.beeradvocate.com/beer/profile/219/203196/,Mai Bock Spring Lager,219,Sudwerk Brewing Company,0,0
+882,7.50,334526,https://www.beeradvocate.com/beer/profile/5920/334526/,Kaiser Bockbier,5920,Brauerei Kaiser,0,0
+883,7.10,286911,https://www.beeradvocate.com/beer/profile/47303/286911/,American Helles Bock,47303,Sedition Brewing Company,0,0
+884,6.30,159680,https://www.beeradvocate.com/beer/profile/30746/159680/,Maibock,30746,612 Brew,0,0
+885,7.80,223427,https://www.beeradvocate.com/beer/profile/43001/223427/,My Bach,43001,Sackbut Brewing and Barrelwerks,0,0
+886,4.90,289988,https://www.beeradvocate.com/beer/profile/33135/289988/,Helles Lager,33135,Brewster River Pub & Grill,0,0
+887,7.50,223941,https://www.beeradvocate.com/beer/profile/8061/223941/,Maibock,8061,Theresienbrauerei und Gaststätte,0,0
+888,7.20,166855,https://www.beeradvocate.com/beer/profile/7707/166855/,Neunspringer Maibock,7707,Brauerei Neunspringe Worbis GmbH,0,0
+889,7.62,207560,https://www.beeradvocate.com/beer/profile/32554/207560/,Florian Schweinsteiger,32554,Catalan Brewery,0,0
+890,7.90,140233,https://www.beeradvocate.com/beer/profile/32140/140233/,Johannes Bock,32140,Barrel Harbor Brewing,0,0
+891,6.80,272329,https://www.beeradvocate.com/beer/profile/5943/272329/,Heller Bock,5943,Brauerei Michael Plank,0,0
+892,6.60,100297,https://www.beeradvocate.com/beer/profile/29170/100297/,It's 5 O'Bock Somewhere,29170,Village Vintner Winery & Brewery,0,0
+893,6.90,164810,https://www.beeradvocate.com/beer/profile/9362/164810/,Maybok,9362,Chinggis Beer Co.,0,0
+894,8.00,64459,https://www.beeradvocate.com/beer/profile/2724/64459/,Ultra Yellow,2724,Pacific Coast Brewing Company,0,0
+895,7.20,10966,https://www.beeradvocate.com/beer/profile/3797/10966/,Maibock,3797,Second Street Brewery,0,0
+896,7.10,157398,https://www.beeradvocate.com/beer/profile/12508/157398/,Maibock,12508,Griesbräu Zu Murnau,0,0
+897,7.40,300246,https://www.beeradvocate.com/beer/profile/38261/300246/,Monkey Fist Maibock,38261,Sound to Summit Brewing,0,0
+898,5.50,265177,https://www.beeradvocate.com/beer/profile/38293/265177/,So Helles Pitted,38293,Outer Light Brewing Company,0,0
+899,7.00,212697,https://www.beeradvocate.com/beer/profile/44105/212697/,Lentebock,44105,Brouwerij Pronck,0,0
+900,7.50,301529,https://www.beeradvocate.com/beer/profile/16353/301529/,Maibock Is Your Bock,16353,Hopworks Urban Brewery,0,0
+901, ? ,18398,https://www.beeradvocate.com/beer/profile/2327/18398/,Rupp Bräu Hellbock,2327,Brauhaus Felsenkeller / Brauerei Rupp-Bräu GmbH,0,0
+902,7.40,241633,https://www.beeradvocate.com/beer/profile/38854/241633/,Muddy Boots Maibock,38854,Voyageur Brewing Company,0,0
+903,6.20,297698,https://www.beeradvocate.com/beer/profile/50226/297698/,Bock,50226,Ballad Brewing,0,0
+904,7.80,335332,https://www.beeradvocate.com/beer/profile/52259/335332/,FRANKEN BRÄU Valinator,52259,Franken Bräu Riedbach Krauß,0,0
+905,6.50,161765,https://www.beeradvocate.com/beer/profile/39386/161765/,Cadolzburger Bleistifts Bock,39386,Brauhaus Brandmeier,0,0
+906,6.90,176870,https://www.beeradvocate.com/beer/profile/4491/176870/,Zils's Maibock,4491,Brauhaus Zils,0,0
+907,6.80,235495,https://www.beeradvocate.com/beer/profile/29757/235495/,My Neck My Bock,29757,The Hourglass Brewery,0,0
+908,6.00,179181,https://www.beeradvocate.com/beer/profile/32661/179181/,Cracker Jack,32661,Crooked Run Brewing,0,0
+909,6.50,110830,https://www.beeradvocate.com/beer/profile/7579/110830/,Watzkes Maibock,7579,Ball- und Brauhaus Watzke,0,0
+910,6.90,278769,https://www.beeradvocate.com/beer/profile/42542/278769/,Jay & Silent Bock,42542,Big Lug Canteen,0,0
+911,7.20,338165,https://www.beeradvocate.com/beer/profile/52367/338165/,Maibock,52367,Hofbräuhaus St. Louis-Belleville,0,0
+912,6.50,249845,https://www.beeradvocate.com/beer/profile/47125/249845/,Hoppy Bock,47125,Berliner Bier Barone,0,0
+913,4.30,161530,https://www.beeradvocate.com/beer/profile/4787/161530/,Helles,4787,Brauerei Frastanz,0,0
+914,7.00,300026,https://www.beeradvocate.com/beer/profile/50347/300026/,Dawat 7,50347,Cerveza Dawat,0,0
+915,7.10,306943,https://www.beeradvocate.com/beer/profile/44720/306943/,Bock Off Helles,44720,Resident Brewing Co.,0,0

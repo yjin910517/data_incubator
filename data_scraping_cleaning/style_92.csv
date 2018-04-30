@@ -1,0 +1,579 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,8.20,224,https://www.beeradvocate.com/beer/profile/72/224/,Schneider Weisse Tap 6 Unser Aventinus,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,"4,577",4.33
+1,7.70,35625,https://www.beeradvocate.com/beer/profile/252/35625/,Weihenstephaner Vitus,252,Bayerische Staatsbrauerei Weihenstephan,"3,562",4.28
+2,8.70,1008,https://www.beeradvocate.com/beer/profile/345/1008/,Moonglow Weizenbock,345,Victory Brewing Company - Downingtown,"1,472",4.05
+3,8.20,37774,https://www.beeradvocate.com/beer/profile/72/37774/,Schneider Weisse Tap 5 Schneider & Brooklyner Hopfenweisse,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,"1,417",4.09
+4,7.10,37192,https://www.beeradvocate.com/beer/profile/39/37192/,Ayinger Weizenbock,39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,850,4.19
+5,9.05,81602,https://www.beeradvocate.com/beer/profile/652/81602/,Central Waters / Local Option De Kleine Dood,652,Central Waters Brewing Co.,740,4.09
+6,8.70,73131,https://www.beeradvocate.com/beer/profile/220/73131/,Bavarian-Styled Doppel Weizen,220,Lagunitas Brewing Company,735,3.82
+7,9.60,40956,https://www.beeradvocate.com/beer/profile/590/40956/,Thumbprint Imperial Weizen,590,New Glarus Brewing Company,640,4.05
+8,7.30,2646,https://www.beeradvocate.com/beer/profile/703/2646/,Erdinger Weissbier Pikantus,703,Erdinger Weissbräu,502,3.87
+9,9.50,2743,https://www.beeradvocate.com/beer/profile/607/2743/,Ramstein Winter Wheat,607,High Point Brewing Company,308,4.16
+10,7.30,74625,https://www.beeradvocate.com/beer/profile/72/74625/,Schneider Weisse Tap X Mein Nelson Sauvin,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,299,4.11
+11,8.30,46105,https://www.beeradvocate.com/beer/profile/383/46105/,Primus Weizenbock,383,Live Oak Brewing Company,270,4.25
+12,9.50,106399,https://www.beeradvocate.com/beer/profile/72/106399/,Schneider Weisse Tap X Aventinus Cuvée Barrique,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,254,4.04
+13,8.00,19796,https://www.beeradvocate.com/beer/profile/73/19796/,Glockenspiel Weizenbock,73,Great Lakes Brewing Co.,227,4.04
+14,8.50,1307,https://www.beeradvocate.com/beer/profile/428/1307/,Der Weisse Bock,428,Mahr's Bräu,154,3.91
+15,7.40,33809,https://www.beeradvocate.com/beer/profile/1397/33809/,10 Degrees Below,1397,Scuttlebutt Brewing Company - Restaurant and Pub,143,3.51
+16,6.50,63087,https://www.beeradvocate.com/beer/profile/13605/63087/,La Shawinigan Handshake,13605,Le Trou Du Diable,139,3.82
+17,7.50,36170,https://www.beeradvocate.com/beer/profile/5943/36170/,Plank Bavarian Dunkler Weizenbock,5943,Brauerei Michael Plank,131,3.89
+18,7.50,36326,https://www.beeradvocate.com/beer/profile/5943/36326/,Plank Bavarian Heller Weizenbock,5943,Brauerei Michael Plank,130,3.92
+19,11.00,44939,https://www.beeradvocate.com/beer/profile/11056/44939/,Weizenbock Grande Cuvée,11056,Les Trois Mousquetaires,114,3.83
+20,7.90,67253,https://www.beeradvocate.com/beer/profile/418/67253/,TNT,418,Left Hand Brewing Company,114,3.27
+21,8.00,55469,https://www.beeradvocate.com/beer/profile/2097/55469/,Kuhnhenn Weiss Teufel (White Devil),2097,Kuhnhenn Brewing Company,108,3.98
+22,8.00,19608,https://www.beeradvocate.com/beer/profile/10096/19608/,Eisenbahn Vigorosa (Weizenbock),10096,Cervejaria Sudbrack Ltda,106,3.72
+23,7.00,55848,https://www.beeradvocate.com/beer/profile/19544/55848/,Alpen Glow Weizenbock,19544,Fat Head's Brewery & Saloon,102,4.05
+24,8.50,88776,https://www.beeradvocate.com/beer/profile/29021/88776/,Neshaminator,29021,Neshaminy Creek Brewing Company,89,3.78
+25,8.60,68937,https://www.beeradvocate.com/beer/profile/13884/68937/,Peak Organic Weiss Principal Imperial Hefe,13884,Peak Organic Brewing Company,88,3.35
+26,10.90,48033,https://www.beeradvocate.com/beer/profile/15280/48033/,Teufel Bock,15280,Atwater Brewery,85,3.83
+27,7.20,78705,https://www.beeradvocate.com/beer/profile/1177/78705/,Buffalo Bock,1177,Minneapolis Town Hall Brewery,83,4.12
+28,7.00,3673,https://www.beeradvocate.com/beer/profile/1357/3673/,Hopf Weisser Bock,1357,Weissbierbrauerei Hopf,70,3.97
+29,8.00,74071,https://www.beeradvocate.com/beer/profile/9969/74071/,Angry Goat,9969,Rahr & Sons Brewing Company,69,3.59
+30,7.50,54452,https://www.beeradvocate.com/beer/profile/605/54452/,Bayern Face Plant Doppel Weizen,605,"Bayern Brewing, Inc. / Edelweiss Bistro",65,3.83
+31,6.80,72633,https://www.beeradvocate.com/beer/profile/15435/72633/,Wild Oats Series No. 10 - Dunkel Buck,15435,Beau's All Natural Brewing Company,59,3.9
+32,7.20,7402,https://www.beeradvocate.com/beer/profile/1336/7402/,Volks Weizenbock,1336,Appalachian Brewing Company,58,3.79
+33,7.90,36251,https://www.beeradvocate.com/beer/profile/125/36251/,Weizenbock,125,Pennsylvania Brewing Company,56,3.97
+34,8.00,131665,https://www.beeradvocate.com/beer/profile/18539/131665/,Skull Crushing Ape,18539,Devils Backbone Brewing Company,53,3.86
+35,7.90,13615,https://www.beeradvocate.com/beer/profile/1397/13615/,Weizen Bock,1397,Scuttlebutt Brewing Company - Restaurant and Pub,51,3.4
+36,6.50,14497,https://www.beeradvocate.com/beer/profile/81/14497/,Heineken Tarwebok,81,Heineken Nederland B.V.,49,3.59
+37,8.00,41463,https://www.beeradvocate.com/beer/profile/5850/41463/,Riegele Augustus Weizendoppelbock,5850,Brauhaus Riegele,44,4.01
+38,8.00,35630,https://www.beeradvocate.com/beer/profile/7753/35630/,Weizenbock,7753,Olde Hickory Brewery,42,3.66
+39,8.30,96197,https://www.beeradvocate.com/beer/profile/24764/96197/,Erlkönig,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,42,3.88
+40,7.10,106506,https://www.beeradvocate.com/beer/profile/585/106506/,Maisel & Friends Jeff's Bavarian Ale,585,Brauerei Gebrüder Maisel GmbH & Co.,41,4.04
+41,8.14,286031,https://www.beeradvocate.com/beer/profile/417/286031/,Schell's Stag Series #11- Bananas Foster Weizenbock,417,August Schell Brewing Company,41,4.04
+42,7.50,218746,https://www.beeradvocate.com/beer/profile/140/218746/,Dunkelweizen Bock,140,Sierra Nevada Brewing Co.,39,3.87
+43,7.20,27464,https://www.beeradvocate.com/beer/profile/1623/27464/,St. Blasius Weizenbock,1623,Aktienbrauerei Kaufbeuren AG,36,3.47
+44,9.00,204297,https://www.beeradvocate.com/beer/profile/898/204297/,Yule Tide (2015),898,Heavy Seas Beer,35,3.92
+45,7.80,44355,https://www.beeradvocate.com/beer/profile/16352/44355/,Summer Haze Pale Weizenbock,16352,Blue Mountain Brewery,35,3.81
+46,7.50,55241,https://www.beeradvocate.com/beer/profile/3760/55241/,Mill Street Weizenbock,3760,Mill Street Brew Pub,33,3.54
+47,7.50,69449,https://www.beeradvocate.com/beer/profile/24764/69449/,Maximilian,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,32,3.69
+48,12.50,33230,https://www.beeradvocate.com/beer/profile/12547/33230/,Bourbon Cask Aged Wheat Trippelbock,12547,The Livery,32,4.4
+49,7.00,21723,https://www.beeradvocate.com/beer/profile/596/21723/,Portsmouth Weizenbock,596,Portsmouth Brewery,31,3.79
+50,5.00,91695,https://www.beeradvocate.com/beer/profile/23623/91695/,Snow Weizen,23623,Denen Plaza Kawaba Brewery,30,3.43
+51,7.80,108347,https://www.beeradvocate.com/beer/profile/29377/108347/,Miracle,29377,Union Craft Brewing Company,30,3.84
+52,8.30,77154,https://www.beeradvocate.com/beer/profile/25937/77154/,Mammoth,25937,Greenbush Brewing Company,26,3.5
+53,8.00,67014,https://www.beeradvocate.com/beer/profile/20132/67014/,DumDuminator,20132,Les Brasseurs Du Temps,25,3.6
+54, ? ,14856,https://www.beeradvocate.com/beer/profile/6045/14856/,Weizenbock,6045,Iron Hill Brewery & Restaurant,23,4.05
+55,7.00,27673,https://www.beeradvocate.com/beer/profile/6052/27673/,Innstadt Bock Weisse,6052,Innstadt Brauerei,23,3.77
+56,7.00,110469,https://www.beeradvocate.com/beer/profile/33060/110469/,Tweiss,33060,Gneiss Brewing Company,23,4.05
+57,7.00,298187,https://www.beeradvocate.com/beer/profile/694/298187/,Scratch Beer 299 - 2017 (Weizenbock),694,Tröegs Brewing Company,23,4.06
+58,8.50,77043,https://www.beeradvocate.com/beer/profile/13307/77043/,Weizenbock,13307,Mikkeller ApS,23,3.85
+59,10.20,97053,https://www.beeradvocate.com/beer/profile/28018/97053/,Maple Wheat Bock,28018,Rapp Brewing Company,22,3.93
+60,9.00,124328,https://www.beeradvocate.com/beer/profile/34963/124328/,Shiva's Tears,34963,New Braunfels Brewing Company,22,3.66
+61,8.60,180665,https://www.beeradvocate.com/beer/profile/28255/180665/,Bananas Foster,28255,Buffalo Bayou Brewing Co,22,3.36
+62,6.50,56406,https://www.beeradvocate.com/beer/profile/7285/56406/,Rieder XXX Weisse,7285,Brauerei Ried,20,3.32
+63,7.20,75622,https://www.beeradvocate.com/beer/profile/1177/75622/,Weizenbock,1177,Minneapolis Town Hall Brewery,20,3.97
+64,6.10,98668,https://www.beeradvocate.com/beer/profile/684/98668/,Leavenworth Blackbird Island Hopfenweizen,684,Fish Brewing Company / Fishbowl Brewpub,20,3.42
+65,8.30,144884,https://www.beeradvocate.com/beer/profile/34141/144884/,Panzerfaust,34141,Stubborn Beauty Brewing Company,20,3.76
+66, ? ,113451,https://www.beeradvocate.com/beer/profile/34069/113451/,Weizenbock,34069,Kansas City Bier Company,19,4.12
+67, ? ,94453,https://www.beeradvocate.com/beer/profile/27870/94453/,Rooster's Breakfast Beer,27870,4 Hands Brewing Co.,18,3.58
+68,7.20,15473,https://www.beeradvocate.com/beer/profile/3686/15473/,Kuchlbauer Aloysius,3686,Weissbierbrauerei Kuchlbauer,16,3.86
+69,7.90,35189,https://www.beeradvocate.com/beer/profile/12579/35189/,Red Hill Weizenbock,12579,Red Hill Brewery,15,3.74
+70,9.50,145808,https://www.beeradvocate.com/beer/profile/25775/145808/,L'Occulte,25775,Brasseurs Du Monde,15,2.98
+71,9.00,106689,https://www.beeradvocate.com/beer/profile/31573/106689/,Rum Barrel Coco Noir,31573,Blacklist Artisan Ales,15,3.5
+72, ? ,75806,https://www.beeradvocate.com/beer/profile/1550/75806/,Winter Wheat,1550,Rock Bottom Restaurant & Brewery,14,3.57
+73,10.10,141882,https://www.beeradvocate.com/beer/profile/30581/141882/,Weiz Ass,30581,Wicked Weed Brewing,14,3.96
+74,8.10,102978,https://www.beeradvocate.com/beer/profile/32326/102978/,Burn The Witch,32326,Tapistry Brewing,14,3.74
+75,8.30,100008,https://www.beeradvocate.com/beer/profile/30458/100008/,Western Swell Weizenbock,30458,Rip Current Brewing,14,3.87
+76,7.90,53694,https://www.beeradvocate.com/beer/profile/18079/53694/,Der Kommissar,18079,Einhorn Beer Company,14,3.97
+77,9.00,65986,https://www.beeradvocate.com/beer/profile/21737/65986/,High Step Weizenbock,21737,Bandwagon Brew Pub,14,3.72
+78,13.00,20169,https://www.beeradvocate.com/beer/profile/6513/20169/,Schorschbräu Donner Weizen,6513,Schorschbräu,14,3.52
+79,7.20,7941,https://www.beeradvocate.com/beer/profile/890/7941/,Allgäuer Stifts-Weizenbock,890,Allgäuer Brauhaus AG,13,3.01
+80,8.00,110472,https://www.beeradvocate.com/beer/profile/914/110472/,Big Belt Weizenbock,914,Lewis & Clark Brewing Company,13,4.3
+81,9.20,77717,https://www.beeradvocate.com/beer/profile/34182/77717/,Teufelweizen,34182,Divine Brewing,13,3.79
+82,7.80,54036,https://www.beeradvocate.com/beer/profile/19587/54036/,Hofbräu Weizenbock,19587,Hofbräuhaus Pittsburgh,12,3.82
+83,7.20,60470,https://www.beeradvocate.com/beer/profile/7209/60470/,Gutmann Weizenbock,7209,Brauerei Fritz Gutmann,12,4.02
+84,8.50,75110,https://www.beeradvocate.com/beer/profile/22072/75110/,Fausten,22072,Revolution Brewing,12,4.08
+85,7.50,92278,https://www.beeradvocate.com/beer/profile/3795/92278/,Rusty Tractor Weizenbock,3795,Fernie Brewing Co.,12,3.67
+86,8.40,187567,https://www.beeradvocate.com/beer/profile/34963/187567/,Uber,34963,New Braunfels Brewing Company,12,3.71
+87,6.70,9162,https://www.beeradvocate.com/beer/profile/3694/9162/,Unertl Weissbier Bock,3694,Unertl Weissbier GmbH,12,3.78
+88,8.00,320205,https://www.beeradvocate.com/beer/profile/741/320205/,My Turn Series: Kristin,741,"Lakefront Brewery, Inc.",12,3.36
+89,7.70,76835,https://www.beeradvocate.com/beer/profile/14033/76835/,Minerva Lupe-Reyes,14033,Cervecería Minerva,11,3.4
+90,8.20,91252,https://www.beeradvocate.com/beer/profile/23326/91252/,The Victorious Weizenbock,23326,The Moon Under Water Pub & Brewery,11,3.8
+91,8.50,22155,https://www.beeradvocate.com/beer/profile/3098/22155/,Seeing Double Dopple Weizenbock,3098,Big Dog's Draft House,11,4
+92,6.70,34455,https://www.beeradvocate.com/beer/profile/2085/34455/,Dragonmead St. Nicole's Weizenbock,2085,Dragonmead Microbrewery,11,3.82
+93,5.70,242607,https://www.beeradvocate.com/beer/profile/43548/242607/,Weizenbock,43548,Rentsch Brewery,11,3.71
+94,5.00,180711,https://www.beeradvocate.com/beer/profile/1924/180711/,Mayhem Weizenbock,1924,DuClaw Brewing Company,11,3.77
+95,7.00,220099,https://www.beeradvocate.com/beer/profile/41783/220099/,Golden 7,41783,Old Nation Brewing Co.,10,3.9
+96,8.50,64471,https://www.beeradvocate.com/beer/profile/21448/64471/,Ladyface Weizenbock,21448,Ladyface Ale Companie,10,3.71
+97,9.00,101116,https://www.beeradvocate.com/beer/profile/30858/101116/,Wolf-In-Stein,30858,Aardwolf Brewing Company,10,4.19
+98,11.50,135203,https://www.beeradvocate.com/beer/profile/12547/135203/,BBA Trippel Wizenbock,12547,The Livery,9,4.44
+99,6.30,286025,https://www.beeradvocate.com/beer/profile/28609/286025/,Brandenburg,28609,Night Shift Brewing,9,3.77
+100,8.00,13505,https://www.beeradvocate.com/beer/profile/1037/13505/,Barley's Weizen Bock,1037,Barley's Brewing Company,9,4.05
+101,8.00,64199,https://www.beeradvocate.com/beer/profile/3964/64199/,Sno Angel Weizenbock,3964,Ram Restaurant & Brewery,9,3.88
+102,7.50,102875,https://www.beeradvocate.com/beer/profile/26934/102875/,Confused Dinosaur,26934,Black Acre Brewing Co.,9,4.05
+103,7.50,41699,https://www.beeradvocate.com/beer/profile/364/41699/,Navigator Dark Weizen Bock,364,Maritime Pacific Brewing Company,9,4.02
+104,8.50,63991,https://www.beeradvocate.com/beer/profile/16104/63991/,Orléans Antoine Pépin Dit Lachance,16104,Microbrasserie de l'ile d'Orléans,9,3.51
+105,7.20,87065,https://www.beeradvocate.com/beer/profile/23201/87065/,Mad Jacket Weiznbock,23201,Mad Fox Brewing Company,8,3.8
+106,9.00,87593,https://www.beeradvocate.com/beer/profile/28641/87593/,Weizenbock,28641,Water Street Brewing Co.,8,3.43
+107,7.60,35369,https://www.beeradvocate.com/beer/profile/13605/35369/,La Weizgripp Doppelweizenbock,13605,Le Trou Du Diable,8,3.74
+108,8.10,148017,https://www.beeradvocate.com/beer/profile/27900/148017/,Amber Weizenbock,27900,Gänstaller-Bräu,8,4.13
+109,8.00,333382,https://www.beeradvocate.com/beer/profile/98/333382/,100 Barrel Series #64 - Weizenbot,98,Harpoon Brewery & Beer Hall,8,3.88
+110,7.50,129618,https://www.beeradvocate.com/beer/profile/7122/129618/,Summer Daze,7122,Red Lodge Ales,8,3.86
+111,16.00,71004,https://www.beeradvocate.com/beer/profile/6513/71004/,Schorsch Weizen 16%,6513,Schorschbräu,8,3.44
+112, ? ,4704,https://www.beeradvocate.com/beer/profile/1652/4704/,Herrnbräu Weizenbock,1652,Herrnbräu Bürgerliches Brauhaus Ingolstadt,8,3.79
+113,7.50,160107,https://www.beeradvocate.com/beer/profile/2958/160107/,La XIV,2958,BFM (Brasserie des Franches-Montagnes),8,3.82
+114,7.20,172419,https://www.beeradvocate.com/beer/profile/1535/172419/,Belle Gueule Weizenbock,1535,Brasseurs R.J.,8,3.62
+115,6.80,21384,https://www.beeradvocate.com/beer/profile/2547/21384/,Duke's Dodgerhator,2547,Jack Russell Brewing Company,8,2.3
+116,7.30,62856,https://www.beeradvocate.com/beer/profile/22243/62856/,Alpentraum Weizenbock,22243,Vintage Brewing Company,8,3.83
+117,6.80,18078,https://www.beeradvocate.com/beer/profile/2078/18078/,St. Nick's Weizenbock,2078,Sweetwater Tavern & Brewery,8,3.13
+118,8.20,115726,https://www.beeradvocate.com/beer/profile/20672/115726/,Doctor Of Style,20672,Sun King Brewing Company,7,3.87
+119, ? ,23068,https://www.beeradvocate.com/beer/profile/787/23068/,Wheat Dopplebock,787,South Shore Brewery,7,3.79
+120,8.00,117037,https://www.beeradvocate.com/beer/profile/31519/117037/,German Style Ale Weizenbock,31519,Joseph Wolf Brewing Company,7,3.96
+121,7.00,61286,https://www.beeradvocate.com/beer/profile/23131/61286/,Spelt Bock (Four Grain),23131,Indslev Bryggeri,7,3.28
+122,7.20,124530,https://www.beeradvocate.com/beer/profile/27032/124530/,Winter Marzen,27032,Cheboygan Brewing Company,7,3.64
+123,8.10,54426,https://www.beeradvocate.com/beer/profile/17980/54426/,Starkbier!,17980,Lawson's Finest Liquids,7,3.72
+124,7.90,138179,https://www.beeradvocate.com/beer/profile/34036/138179/,Weizenbock,34036,Day Block Brewing Company,7,3.78
+125,8.20,107207,https://www.beeradvocate.com/beer/profile/31746/107207/,Double Dunk,31746,Forked River Brewing Company,7,3.51
+126,7.00,64498,https://www.beeradvocate.com/beer/profile/17856/64498/,Horny Goat Nutcracker,17856,Horny Goat Brewing Co.,7,3.19
+127, ? ,251636,https://www.beeradvocate.com/beer/profile/689/251636/,I Was Told There Would Be No Math,689,Two Brothers Brewing Company,7,4
+128,8.00,154871,https://www.beeradvocate.com/beer/profile/34734/154871/,Weizenbock,34734,Council Brewing Company,7,3.77
+129,7.80,28674,https://www.beeradvocate.com/beer/profile/1551/28674/,Gordon Biersch Weizenbock,1551,Gordon Biersch Brewery Restaurant,6,3.44
+130,6.80,158469,https://www.beeradvocate.com/beer/profile/5928/158469/,Weiherer Weizenbock,5928,Brauerei Gasthof Kundmüller,6,4.09
+131,8.80,285222,https://www.beeradvocate.com/beer/profile/205/285222/,Strawberry Doppel Weizen,205,Buffalo Bill's Brewery,6,3.7
+132,14.10,280367,https://www.beeradvocate.com/beer/profile/16866/280367/,Ride That Banana Split,16866,The Bruery,6,4.03
+133,6.50,93234,https://www.beeradvocate.com/beer/profile/18386/93234/,Coruja Alba Weizenbock,18386,Cerveja Coruja,6,3.7
+134,7.80,20787,https://www.beeradvocate.com/beer/profile/4685/20787/,Weizenbock,4685,Hofbräuhaus Newport,6,4.06
+135,7.80,15683,https://www.beeradvocate.com/beer/profile/3174/15683/,Dunkel Doppel Weizen Bock,3174,Coopersmith's Pub & Brewing,6,3.8
+136,6.80,36443,https://www.beeradvocate.com/beer/profile/6144/36443/,Weizen-Bock,6144,Pyraser Bier GmbH & Co. KG,6,4.03
+137,8.10,70755,https://www.beeradvocate.com/beer/profile/20982/70755/,Blind Pig Über Weizen,20982,The Blind Pig Brewery,6,4.01
+138,6.60,52071,https://www.beeradvocate.com/beer/profile/1142/52071/,Celebratus,1142,L'Amère à Boire,6,3.67
+139,7.80,27500,https://www.beeradvocate.com/beer/profile/781/27500/,Weizenbock,781,Longwood Brewpub & Restaurant,6,3.7
+140,8.00,108653,https://www.beeradvocate.com/beer/profile/16352/108653/,Weizenbock,16352,Blue Mountain Brewery,6,3.77
+141,6.50,142448,https://www.beeradvocate.com/beer/profile/30540/142448/,Kompaan Hop Weizen Bock,30540,Kompaan Bier,6,3.69
+142,7.10,244137,https://www.beeradvocate.com/beer/profile/5755/244137/,Altvater Weissbierbock,5755,Brauerei Bischofshof,6,3.89
+143, ? ,62889,https://www.beeradvocate.com/beer/profile/1337/62889/,Hasselhoff,1337,Pizza Port Solana Beach,6,3.97
+144,6.50,113077,https://www.beeradvocate.com/beer/profile/781/113077/,Winter's Own,781,Longwood Brewpub & Restaurant,6,3.97
+145,8.00,82666,https://www.beeradvocate.com/beer/profile/23131/82666/,Hvede Bock Weizenbock,23131,Indslev Bryggeri,6,3.52
+146,6.80,89093,https://www.beeradvocate.com/beer/profile/3695/89093/,Andorfer Weizenbock,3695,Weissbierbrauerei Andorfer,5,4.36
+147,6.50,124697,https://www.beeradvocate.com/beer/profile/7285/124697/,Rieder Weissbier Bock,7285,Brauerei Ried,5,3.07
+148,7.60,115247,https://www.beeradvocate.com/beer/profile/24600/115247/,Frozen Goat,24600,Figueroa Mountain Brewing Co.,5,3.47
+149,7.60,83036,https://www.beeradvocate.com/beer/profile/299/83036/,Weizenbock,299,Boston Beer Works - Canal Street,5,3.33
+150,8.00,203114,https://www.beeradvocate.com/beer/profile/38293/203114/,Stealing Sunsets Weizenbock,38293,Outer Light Brewing Company,5,4.04
+151,5.20,296346,https://www.beeradvocate.com/beer/profile/15673/296346/,Heidi Weiss,15673,West Brewing Company,5,3.63
+152,7.20,211397,https://www.beeradvocate.com/beer/profile/44014/211397/,Dove Runner Red Wheat,44014,Aero Plains Brewing,5,3.72
+153,7.00,52936,https://www.beeradvocate.com/beer/profile/19544/52936/,Weizenbock,19544,Fat Head's Brewery & Saloon,5,4.13
+154,8.00,96970,https://www.beeradvocate.com/beer/profile/31675/96970/,Weizenbock,31675,Blue Mountain Barrel House,5,3.53
+155,7.00,245712,https://www.beeradvocate.com/beer/profile/41760/245712/,Luftweizen,41760,Man Skirt Brewing,5,4.04
+156,7.00,26837,https://www.beeradvocate.com/beer/profile/5784/26837/,Karg Weizen-Bock,5784,Brauerei Karg,5,4.11
+157,7.10,215786,https://www.beeradvocate.com/beer/profile/35695/215786/,Weizenbock,35695,Steel & Oak Brewing Co.,5,3.72
+158,6.50,269558,https://www.beeradvocate.com/beer/profile/40395/269558/,BRLO / Steamworks Maple Smoked Weizenbock,40395,BRLO,5,3.74
+159,7.80,89341,https://www.beeradvocate.com/beer/profile/9602/89341/,Cape Cod Weizenbock,9602,Cape Cod Beer,5,3.8
+160,8.00,212486,https://www.beeradvocate.com/beer/profile/10096/212486/,Eisenbahn Linha Seleção Weizenbock,10096,Cervejaria Sudbrack Ltda,4,4.27
+161, ? ,36360,https://www.beeradvocate.com/beer/profile/1586/36360/,Alpine Weizen-Bock,1586,Alpine Brewing Company,4,3.89
+162,8.00,239884,https://www.beeradvocate.com/beer/profile/29415/239884/,X Bock,29415,Crux Fermentation Project,4,3.93
+163,7.80,81428,https://www.beeradvocate.com/beer/profile/16404/81428/,Zillertal Weisbier Bock,16404,Zillertal Bier GmbH,4,3.88
+164,8.00,257318,https://www.beeradvocate.com/beer/profile/6059/257318/,Karmeliten Weizendoppelbock,6059,Karmelitenbrauerei Karl Sturm,4,3.69
+165,5.00,311597,https://www.beeradvocate.com/beer/profile/392/311597/,Festeweizen,392,Weyerbacher Brewing Co.,4,3.51
+166,6.60,123185,https://www.beeradvocate.com/beer/profile/24132/123185/,Podroze Kormorana Weizenbock,24132,Browar Kormoran,4,3.79
+167,7.00,33593,https://www.beeradvocate.com/beer/profile/6536/33593/,Kitzmann Weissbier Bock,6536,Kitzmann Bräu,4,3.92
+168,6.80,84028,https://www.beeradvocate.com/beer/profile/26093/84028/,Weizenbock,26093,Privatbrauerei Loncium,4,3.04
+169,6.80,45398,https://www.beeradvocate.com/beer/profile/4335/45398/,Duke's Big Ass Bock,4335,The Wheat Beer Company,4,2
+170,7.10,45401,https://www.beeradvocate.com/beer/profile/742/45401/,Weizenbock,742,District ChopHouse & Brewery,4,3.86
+171,6.50,87133,https://www.beeradvocate.com/beer/profile/9784/87133/,Weizenbock,9784,Zero Gravity Craft Brewery / American Flatbread,4,3.93
+172, ? ,120672,https://www.beeradvocate.com/beer/profile/299/120672/,Brookline Weizenbock,299,Boston Beer Works - Canal Street,4,3.62
+173,7.10,46442,https://www.beeradvocate.com/beer/profile/5918/46442/,Hummel Weizen-Bock,5918,Brauerei Julius Hummel,4,3.05
+174,6.90,118890,https://www.beeradvocate.com/beer/profile/63/118890/,Double D Imperial Spelt Ale,63,Deschutes Brewery,4,4
+175,7.50,36976,https://www.beeradvocate.com/beer/profile/16048/36976/,Magic Clamps Weizenbock,16048,Hollister Brewing Co.,4,3.49
+176,7.00,87426,https://www.beeradvocate.com/beer/profile/335/87426/,Social Potion,335,New Holland Brewing Company,4,3.38
+177,6.50,105602,https://www.beeradvocate.com/beer/profile/32180/105602/,Weizenbock,32180,Blue Stallion Brewing Co.,4,3.83
+178,7.50,238474,https://www.beeradvocate.com/beer/profile/33060/238474/,Barrel Aged Tweiss,33060,Gneiss Brewing Company,4,4.27
+179,9.30,226955,https://www.beeradvocate.com/beer/profile/34747/226955/,Chardonnay Barrel Aged Weizenbock,34747,Bad Beat Brewing,4,4.21
+180,6.20,263312,https://www.beeradvocate.com/beer/profile/450/263312/,Cookie Swap,450,Yards Brewing Co.,4,3.6
+181,6.80,225687,https://www.beeradvocate.com/beer/profile/2472/225687/,Weizen Bock,2472,Riedenburger Brauhaus,4,4.12
+182,6.70,127391,https://www.beeradvocate.com/beer/profile/35575/127391/,Chapo,35575,Darwin Brewing Company,4,3.56
+183,6.00,130754,https://www.beeradvocate.com/beer/profile/13662/130754/,Marsalkka Luomuvehna,13662,Saimaan Juomatehdas,4,2.76
+184,7.00,24526,https://www.beeradvocate.com/beer/profile/4972/24526/,Shonan Weizen Bock,4972,Kumazawa Brewing Co. / Shonan Beer and Trattoria Mokichi,4,3.7
+185,7.00,249294,https://www.beeradvocate.com/beer/profile/2858/249294/,Lemke Hopfen Weisse,2858,Brauerei Lemke,4,3.77
+186,6.50,307158,https://www.beeradvocate.com/beer/profile/22439/307158/,Wild North: A Doppel Do Ya,22439,Lake of Bays Brewing Company,4,3.49
+187,8.40,153051,https://www.beeradvocate.com/beer/profile/1154/153051/,Snowbelt,1154,Willoughby Brewing,4,3.72
+188,8.00,90077,https://www.beeradvocate.com/beer/profile/29419/90077/,Newburgh HoneyWeizen,29419,Newburgh Brewing Company,4,3.94
+189,5.40,167391,https://www.beeradvocate.com/beer/profile/1146/167391/,Dunkel Buck,1146,Goose Island Beer Co.,4,3.76
+190,6.80,79331,https://www.beeradvocate.com/beer/profile/961/79331/,Schmucker Weizen Bock,961,Privat Brauerei Schmucker Ober-Mossau KG,4,3.84
+191,7.20,42981,https://www.beeradvocate.com/beer/profile/2943/42981/,Weizenbock,2943,Otto's Pub and Brewery,4,3.77
+192,7.10,239353,https://www.beeradvocate.com/beer/profile/43220/239353/,Foggy Dew,43220,Three Rings Brewery,4,3.8
+193, ? ,287489,https://www.beeradvocate.com/beer/profile/1146/287489/,Gemutlichkeit Weizenbock,1146,Goose Island Beer Co.,3,3.64
+194,7.50,227844,https://www.beeradvocate.com/beer/profile/45357/227844/,UberWeizen,45357,Brouwerij Frankendael,3,3.24
+195,7.80,222475,https://www.beeradvocate.com/beer/profile/31805/222475/,Weizenbock,31805,Funky Buddha Brewery,3,3.9
+196,8.00,167444,https://www.beeradvocate.com/beer/profile/39880/167444/,Woozy Weizenbock,39880,13 Virtues Brewing Co.,3,4.03
+197,5.50,138010,https://www.beeradvocate.com/beer/profile/34727/138010/,Weizenheimer Wheat,34727,Clayton Brewing Co.,3,3.71
+198,7.50,278565,https://www.beeradvocate.com/beer/profile/29008/278565/,Blue Sky,29008,Bluejacket / Arsenal Restaurant,3,3.31
+199,7.00,290089,https://www.beeradvocate.com/beer/profile/47596/290089/,Weizenbock,47596,Great Central Brewing Company,3,4.15
+200,7.70,77356,https://www.beeradvocate.com/beer/profile/3925/77356/,Weihnachts,3925,Mickey Finn's Brewery,3,3.64
+201,7.10,109618,https://www.beeradvocate.com/beer/profile/84/109618/,Edelweiss Gamsbock,84,Hofbräu Kaltenhausen (Brau Union),3,4.19
+202,7.30,259380,https://www.beeradvocate.com/beer/profile/47750/259380/,1717 Kult Beer,47750,Red City Transylvania,3,3.23
+203,7.00,268600,https://www.beeradvocate.com/beer/profile/44859/268600/,Weizenbock,44859,Waterline Brewing Company,3,4.13
+204,6.00,163131,https://www.beeradvocate.com/beer/profile/11341/163131/,Watermelon Weizen,11341,Hideout Brewing Company,3,3.55
+205,8.00,37953,https://www.beeradvocate.com/beer/profile/3062/37953/,Weizen Bock,3062,Amos Howard's Brew Pub,3,4.1
+206,8.00,144726,https://www.beeradvocate.com/beer/profile/32164/144726/,"Step On It, Klaus",32164,Myths & Legends Brewing Company,3,3.85
+207,7.00,80470,https://www.beeradvocate.com/beer/profile/4472/80470/,Die Weisse Bock,4472,Die Weisse,3,3.7
+208, ? ,31581,https://www.beeradvocate.com/beer/profile/12/31581/,Weizenbock,12,John Harvard's Brewery & Ale House,3,3.56
+209,7.00,265831,https://www.beeradvocate.com/beer/profile/30870/265831/,Bantlers,30870,La Cabra Brewing,3,3.73
+210,8.20,78439,https://www.beeradvocate.com/beer/profile/6045/78439/,St. Modestus,6045,Iron Hill Brewery & Restaurant,3,3.67
+211, ? ,11628,https://www.beeradvocate.com/beer/profile/4858/11628/,Weizenbock,4858,Draught House Pub & Brewery,3,3.73
+212,5.90,76404,https://www.beeradvocate.com/beer/profile/1455/76404/,S'no Angel,1455,Ram Restaurant & Brewery,3,3.95
+213,6.80,64885,https://www.beeradvocate.com/beer/profile/6209/64885/,Weisser Bock,6209,Weissbierbrauerei Schwendl,3,3.99
+214,7.20,296847,https://www.beeradvocate.com/beer/profile/34748/296847/,Grobhellschizer,34748,Imperial Oak Brewing,3,3.98
+215,8.00,45208,https://www.beeradvocate.com/beer/profile/666/45208/,Weizenbock,666,The Emerson Brewing Company,3,3.95
+216,7.00,295078,https://www.beeradvocate.com/beer/profile/45869/295078/,Charging Bull Weizenbock,45869,Evil Horse Brewing Company,3,3.56
+217,5.60,151463,https://www.beeradvocate.com/beer/profile/29747/151463/,Druther's Weizen,29747,Druthers Brewing Company,3,3.9
+218,8.50,75946,https://www.beeradvocate.com/beer/profile/12677/75946/,Hallerndorfer Weizenbock,12677,Brauerei Gasthof Rittmayer,3,3.51
+219, ? ,268494,https://www.beeradvocate.com/beer/profile/29666/268494/,Weizenbock,29666,Prost Brewing Company,3,3.31
+220,8.20,74717,https://www.beeradvocate.com/beer/profile/18393/74717/,Bamberg St. Michael,18393,Micro Cervejaria Bamberg,3,3.9
+221,7.30,136931,https://www.beeradvocate.com/beer/profile/6012/136931/,Jacob Weissbier-Bock,6012,Familienbrauerei Jacob,3,4
+222,8.20,296950,https://www.beeradvocate.com/beer/profile/27900/296950/,Weizenator,27900,Gänstaller-Bräu,3,3.35
+223,7.80,240130,https://www.beeradvocate.com/beer/profile/16818/240130/,Weizenbock,16818,Berwick Brewing Company,2,4.16
+224,7.10,314115,https://www.beeradvocate.com/beer/profile/44669/314115/,Madon,44669,Proper Brewing Co,2,3.85
+225,8.30,114700,https://www.beeradvocate.com/beer/profile/63/114700/,Winterweizen,63,Deschutes Brewery,2,4.99
+226,7.40,309520,https://www.beeradvocate.com/beer/profile/14/309520/,Polterweisse,14,Cambridge Brewing Company,2,3.8
+227,10.20,312080,https://www.beeradvocate.com/beer/profile/598/312080/,Jobu,598,Onion Pub & Brewery / Wild Onion Brewing Co.,2,3.75
+228, ? ,42257,https://www.beeradvocate.com/beer/profile/2547/42257/,Duke's Big Ass Bock,2547,Jack Russell Brewing Company,2,2.41
+229,8.00,134165,https://www.beeradvocate.com/beer/profile/30482/134165/,Après-Tinus,30482,Lagabière Brasserie Artisanale,2,3.77
+230,7.50,250650,https://www.beeradvocate.com/beer/profile/47188/250650/,Weiss Ass Rockin’,47188,Yergey Brewing,2,3.66
+231,5.20,294171,https://www.beeradvocate.com/beer/profile/48598/294171/,Schwarzbier,48598,Two Monks Brewing,2,3.23
+232,5.72,27678,https://www.beeradvocate.com/beer/profile/1550/27678/,Tarwe Bock,1550,Rock Bottom Restaurant & Brewery,2,3.83
+233,8.20,169503,https://www.beeradvocate.com/beer/profile/2097/169503/,Kuhnhenn Weizenbock,2097,Kuhnhenn Brewing Company,2,3.79
+234,7.50,157728,https://www.beeradvocate.com/beer/profile/19150/157728/,Cibus,19150,BirrOne,2,3.48
+235,7.00,249120,https://www.beeradvocate.com/beer/profile/16787/249120/,Makker,16787,Bronckhorster Brewing Company,2,3.75
+236,9.50,281385,https://www.beeradvocate.com/beer/profile/47795/281385/,Jerkmaker,47795,Blackadder Brewing Company,2,3.82
+237,7.00,318510,https://www.beeradvocate.com/beer/profile/29971/318510/,Weizenbock,29971,Vault Brewing Company,2,3.71
+238,7.00,281916,https://www.beeradvocate.com/beer/profile/34748/281916/,Starkerschizer,34748,Imperial Oak Brewing,2,3.9
+239,10.00,194114,https://www.beeradvocate.com/beer/profile/42646/194114/,Schwarzwaldgold Tripel,42646,SchwarzwaldGold Braumanufaktur,2,3.88
+240,8.20,57157,https://www.beeradvocate.com/beer/profile/1619/57157/,Weizenbock,1619,C.H. Evans Brewing Company,2,4.31
+241,7.30,224592,https://www.beeradvocate.com/beer/profile/45104/224592/,Dunkel Weizenbock,45104,The Fermentorium,2,3.62
+242,6.00,143454,https://www.beeradvocate.com/beer/profile/37353/143454/,Wit’s End,37353,Green Wolf Brewing Co.,2,3.76
+243,4.80,148580,https://www.beeradvocate.com/beer/profile/871/148580/,Thurn Und Taxis St. Wolfgang,871,Thurn Und Taxis Regensburg Gmbh Fürstliche Brauerei,2,4.05
+244,7.80,282477,https://www.beeradvocate.com/beer/profile/25327/282477/,Jimmy Valentine's Total Victory,25327,DC Brau Brewing Co.,2,4.15
+245,7.00,54638,https://www.beeradvocate.com/beer/profile/21648/54638/,Wilder Mann,21648,Gaststätte Zum Bautzner Tor,2,3.99
+246,7.30,100208,https://www.beeradvocate.com/beer/profile/30450/100208/,Steve,30450,Gravity Brewing,2,3.88
+247,7.20,87409,https://www.beeradvocate.com/beer/profile/22854/87409/,Weizenbocktoberfest,22854,Full Pint Brewing Company,2,3.4
+248,8.50,87924,https://www.beeradvocate.com/beer/profile/24026/87924/,Santa's Sack,24026,The Beer Company,2,4.46
+249,3.50,278134,https://www.beeradvocate.com/beer/profile/24627/278134/,Beerhouse Maderia Beer,24627,Beerhouse Madeira,2,3.81
+250,8.20,311158,https://www.beeradvocate.com/beer/profile/32180/311158/,War Admiral,32180,Blue Stallion Brewing Co.,2,3.92
+251, ? ,64118,https://www.beeradvocate.com/beer/profile/5191/64118/,S'no Angel Weizenbock,5191,Ram Restaurant & Brewery,2,3.38
+252,7.80,57977,https://www.beeradvocate.com/beer/profile/18189/57977/,Westmalle Airy,18189,Earth Bread + Brewery,2,3.91
+253,5.20,151940,https://www.beeradvocate.com/beer/profile/30247/151940/,Crabapple Ambrosia,30247,Earth Eagle Brewings,2,3.72
+254,6.20,127108,https://www.beeradvocate.com/beer/profile/21429/127108/,Prykmestar Vehnäbock,21429,Vakka-Suomen Panimo,2,3.99
+255,4.20,162693,https://www.beeradvocate.com/beer/profile/24937/162693/,Peach Weizen,24937,Shanghai Brewery,2,3.09
+256,7.20,174469,https://www.beeradvocate.com/beer/profile/890/174469/,Norbertus Hefeweizen-Bock,890,Allgäuer Brauhaus AG,2,3.4
+257,6.80,54405,https://www.beeradvocate.com/beer/profile/18539/54405/,Advantageous Weizenbock,18539,Devils Backbone Brewing Company,2,4.04
+258,7.00,69512,https://www.beeradvocate.com/beer/profile/36757/69512/,All-the-Wiser Hefeweizen,36757,DESTIHL Brewery,2,3.39
+259,7.00,329614,https://www.beeradvocate.com/beer/profile/2447/329614/,Large Barge,2447,Coronado Brewing Company,2,3.98
+260,7.20,238735,https://www.beeradvocate.com/beer/profile/46277/238735/,Weizenbock,46277,Riggs Beer Company,2,4.49
+261,8.00,137875,https://www.beeradvocate.com/beer/profile/6784/137875/,Ladenburger Weizenbock Hell,6784,Brauerei Ladenburger GmbH,2,4.05
+262,7.60,137623,https://www.beeradvocate.com/beer/profile/28603/137623/,Bierbaum Weizenbock,28603,Cervejaria Bierbaum,2,3.28
+263,7.00,61086,https://www.beeradvocate.com/beer/profile/6223/61086/,Simon Schwarzer Kuni,6223,Weissbierbrauerei Simon KG,2,4.11
+264,8.30,48293,https://www.beeradvocate.com/beer/profile/1784/48293/,Weizenheimer Weizenbock,1784,Outer Banks Brewing Station,2,3.9
+265,7.10,142247,https://www.beeradvocate.com/beer/profile/21193/142247/,Day Tripper,21193,Mother Earth Brewing,2,3.8
+266,6.20,36775,https://www.beeradvocate.com/beer/profile/1619/36775/,Smoked Weizenbock,1619,C.H. Evans Brewing Company,2,4.52
+267,9.40,68265,https://www.beeradvocate.com/beer/profile/9792/68265/,Weizenbock,9792,Natty Greene's Pub & Brewing Co.,2,3.44
+268,7.20,209324,https://www.beeradvocate.com/beer/profile/6169/209324/,Weizenbock,6169,Schlossbrauerei Reckendorf Georg Dirauf KG,2,3.78
+269,7.20,189100,https://www.beeradvocate.com/beer/profile/29059/189100/,No Touching,29059,DryHop Brewers,2,3.6
+270,5.00,259758,https://www.beeradvocate.com/beer/profile/292/259758/,Grand Kirin Dip Hop Weizen Bock,292,"Kirin Brewery Company, Limited",2,2.88
+271,8.80,336051,https://www.beeradvocate.com/beer/profile/47607/336051/,A Word To the Weizenbock,47607,4th Meridian Brewing Co.,2,3.6
+272,8.00,188084,https://www.beeradvocate.com/beer/profile/13029/188084/,Oktoberfest Doppelweizen,13029,Thornbridge Brewery,2,3.88
+273,5.20,228277,https://www.beeradvocate.com/beer/profile/45370/228277/,Weizen,45370,El Príncipe Gris Cervecería Artesanal,2,3.75
+274,6.80,113334,https://www.beeradvocate.com/beer/profile/23493/113334/,Matuška Weizenbock,23493,Minipivovar Matuška Broumy (Matuska),2,4.62
+275,13.00,231619,https://www.beeradvocate.com/beer/profile/6513/231619/,Schorschweizen 13%,6513,Schorschbräu,2,3.81
+276,6.20,128708,https://www.beeradvocate.com/beer/profile/4359/128708/,Abbey Weiss,4359,Smugglers Brewpub & Grille,2,3.82
+277,7.10,85958,https://www.beeradvocate.com/beer/profile/9797/85958/,Weizenbock,9797,North Country Brewing,2,3.74
+278,9.50,285126,https://www.beeradvocate.com/beer/profile/12511/285126/,Störtebeker Polar-Weizen,12511,Störtebeker Braumanufaktur,2,2.79
+279,6.50,220365,https://www.beeradvocate.com/beer/profile/28764/220365/,Weizcracker Weizenbock,28764,West Sixth Brewing Company,2,4.06
+280,8.90,251606,https://www.beeradvocate.com/beer/profile/16866/251606/,Weizenbock,16866,The Bruery,2,4.19
+281,7.20,207577,https://www.beeradvocate.com/beer/profile/28569/207577/,Weizendebockle,28569,Obed & Isaac's Microbrewery & Eatery,2,3.92
+282,9.30,156633,https://www.beeradvocate.com/beer/profile/34776/156633/,Omaha & Utah,34776,Four Fathers Brewing,2,4.5
+283,7.10,106716,https://www.beeradvocate.com/beer/profile/24659/106716/,Weizenbock,24659,La Cumbre Brewing Co.,2,3.79
+284,6.80,153054,https://www.beeradvocate.com/beer/profile/1154/153054/,St. Otto,1154,Willoughby Brewing,2,4
+285,6.50,67039,https://www.beeradvocate.com/beer/profile/5910/67039/,Jamesport Weizenbock,5910,Jamesport Brewing Company Inc.,2,3.12
+286,6.20,46303,https://www.beeradvocate.com/beer/profile/1550/46303/,Hopfenweizen,1550,Rock Bottom Restaurant & Brewery,2,4.52
+287,8.00,297188,https://www.beeradvocate.com/beer/profile/36211/297188/,Dunkel Weizenbock,36211,Liquid Mechanics Brewing Co.,2,3.17
+288,7.00,104676,https://www.beeradvocate.com/beer/profile/2832/104676/,Rosenheimer Weizenbock,2832,AuerBräu AG,2,3.88
+289,7.10,40423,https://www.beeradvocate.com/beer/profile/5798/40423/,Kauzen Winter Weisse,5798,Kauzen Bräu,2,3.31
+290,8.30,254184,https://www.beeradvocate.com/beer/profile/42740/254184/,Angels Nectar Dunkel Weizenbock Ale,42740,Noble Brewer Beer Company,2,4.29
+291,4.50,214252,https://www.beeradvocate.com/beer/profile/36475/214252/,Tarrafa,36475,Mean Sardine Brewery,2,3.94
+292,6.60,67053,https://www.beeradvocate.com/beer/profile/21862/67053/,Dunkel Weizenbock,21862,Galena Brewing Company,2,4
+293,7.40,223213,https://www.beeradvocate.com/beer/profile/6209/223213/,Schalchner Weisser Bock Barrique,6209,Weissbierbrauerei Schwendl,2,3.39
+294,7.80,281080,https://www.beeradvocate.com/beer/profile/46958/281080/,Weizenbock,46958,AquaBrew,2,3.74
+295,8.20,138492,https://www.beeradvocate.com/beer/profile/18393/138492/,Bamberg Weizenbock Dunkel,18393,Micro Cervejaria Bamberg,2,3.78
+296,6.50,39426,https://www.beeradvocate.com/beer/profile/10667/39426/,Weizenscheisse,10667,Cornerstone Brewing Company,1,4
+297,8.05,309507,https://www.beeradvocate.com/beer/profile/98/309507/,Weizenbock,98,Harpoon Brewery & Beer Hall,1,3.73
+298,7.10,186371,https://www.beeradvocate.com/beer/profile/39883/186371/,Weizenheimer Wheat Ale,39883,Cognition Brewing Company,1,4.3
+299,7.00,190981,https://www.beeradvocate.com/beer/profile/1488/190981/,Göller Weizenbock,1488,Brauerei Göller Zur Alten Freyung,1,4.09
+300,7.80,256006,https://www.beeradvocate.com/beer/profile/46718/256006/,Ramas,46718,Collusion Tap Works,1,3.75
+301,7.00,56072,https://www.beeradvocate.com/beer/profile/299/56072/,Suh-wheat,299,Boston Beer Works - Canal Street,1,2.85
+302,8.20,333577,https://www.beeradvocate.com/beer/profile/72/333577/,Schneider Tap X 2013 - Mein Aventinus Borrique,72,Weisses Bräuhaus G. Schneider & Sohn GmbH,1,3.75
+303,7.90,237833,https://www.beeradvocate.com/beer/profile/2472/237833/,Dolden Bock,2472,Riedenburger Brauhaus,1,3.35
+304,6.50,56843,https://www.beeradvocate.com/beer/profile/12097/56843/,Forårs Bock,12097,BrewPub København,1,3.28
+305,8.00,338701,https://www.beeradvocate.com/beer/profile/46991/338701/,Sutler’s Ration,46991,The Oozlefinch Craft Brewery,1,4.09
+306,4.70,308237,https://www.beeradvocate.com/beer/profile/5059/308237/,Trigo Rojo,5059,Pictish Brewing Company,1,3.7
+307, ? ,41230,https://www.beeradvocate.com/beer/profile/12881/41230/,Weizenbock,12881,Square One Brewery & Distillery,1,4.52
+308,7.00,331535,https://www.beeradvocate.com/beer/profile/32921/331535/,Monsieur Camélius,32921,EtOH Brasserie,1,1.48
+309,7.00,287759,https://www.beeradvocate.com/beer/profile/46301/287759/,Hefenator,46301,Bearded Rabbit Brewery,1,3.53
+310,6.80,194576,https://www.beeradvocate.com/beer/profile/26851/194576/,Weizen Bock,26851,Junction Craft Brewing,1,3.57
+311,7.10,208401,https://www.beeradvocate.com/beer/profile/38100/208401/,Weizen Fall,38100,Postdoc Brewing,1,3.75
+312,7.50,202514,https://www.beeradvocate.com/beer/profile/36684/202514/,The Fox And The Stork,36684,Mad Fritz,1,4.84
+313,8.10,322834,https://www.beeradvocate.com/beer/profile/38386/322834/,Weizenbock,38386,Tin Cannon Brewing Company,1,3.77
+314,8.00,279827,https://www.beeradvocate.com/beer/profile/1357/279827/,Hopf Muospacher Bockfotzn,1357,Weissbierbrauerei Hopf,1,4.3
+315,9.00,206868,https://www.beeradvocate.com/beer/profile/6209/206868/,Don Heilige Nacht,6209,Weissbierbrauerei Schwendl,1,4
+316,7.20,231700,https://www.beeradvocate.com/beer/profile/32587/231700/,Tinder Bock Winter Weizenbock,32587,Latitude 42 Brewing Company,1,3.5
+317,7.50,140567,https://www.beeradvocate.com/beer/profile/12714/140567/,Plevnan Weizenbock,12714,Panimoravintola Plevna Koskipanimo,1,3.25
+318,6.10,58650,https://www.beeradvocate.com/beer/profile/22460/58650/,Öcher Bahkauv,22460,Brauhaus Frankenberger E. Ortmanns,1,2.8
+319,7.00,169756,https://www.beeradvocate.com/beer/profile/16963/169756/,Weizenbock,16963,Marble Brewery,1,3.82
+320,7.10,335135,https://www.beeradvocate.com/beer/profile/46008/335135/,Weizenbock,46008,Jughandle Brewing,1,3.34
+321,6.90,23839,https://www.beeradvocate.com/beer/profile/3196/23839/,Weizenbock,3196,Flat Branch Pub & Brewery,1,3.97
+322,4.00,308256,https://www.beeradvocate.com/beer/profile/47357/308256/,Serious Wit,47357,Serious Brewing Co,1,3.75
+323,8.30,164129,https://www.beeradvocate.com/beer/profile/31587/164129/,Adamtinus,31587,Colorado Plus Brewpub,1,4.04
+324,6.90,95266,https://www.beeradvocate.com/beer/profile/6700/95266/,Berg Weizen-Bock,6700,Berg Brauerei Ulrich Zimmermann GmbH & Co. KG,1,4.25
+325,3.80,252708,https://www.beeradvocate.com/beer/profile/33103/252708/,Everything'll Be Fine,33103,The Courtyard Brewery,1,3.85
+326, ? ,148774,https://www.beeradvocate.com/beer/profile/2877/148774/,Weizenbock,2877,Backcountry Brewery,1,4.07
+327,9.50,290598,https://www.beeradvocate.com/beer/profile/37532/290598/,Weiss Guy,37532,Whole Foods - Post Oak,1,4.41
+328,7.00,283175,https://www.beeradvocate.com/beer/profile/34748/283175/,PB And Banana Schizer,34748,Imperial Oak Brewing,1,3.89
+329,6.90,100903,https://www.beeradvocate.com/beer/profile/32906/100903/,Heller Weizenbock,32906,Schilling Beer Co.,1,4.25
+330,6.20,312107,https://www.beeradvocate.com/beer/profile/33483/312107/,Hop Hash SGW,33483,Shiretown Beer,1,3.44
+331,7.00,317995,https://www.beeradvocate.com/beer/profile/39432/317995/,Sleeping Bear Weizenbock,39432,Seven Arrows Brewing Company,1,3.69
+332,7.90,298029,https://www.beeradvocate.com/beer/profile/46272/298029/,Du Hast,46272,Broken Strings Brewery,1,3.96
+333,6.80,217392,https://www.beeradvocate.com/beer/profile/38665/217392/,Van Damsel,38665,Spoonwood Brewing Company,1,4.19
+334,7.00,54576,https://www.beeradvocate.com/beer/profile/21636/54576/,Dachsbräu Weizenbock,21636,Dachsbräu,1,3.62
+335,7.30,254000,https://www.beeradvocate.com/beer/profile/43828/254000/,Villie's Weizenbock,43828,Freebridge Brewing,1,4.75
+336,7.00,337715,https://www.beeradvocate.com/beer/profile/35341/337715/,Codename: VW,35341,Clandestine Brewing Company,1,3.92
+337,6.50,66101,https://www.beeradvocate.com/beer/profile/6102/66101/,Meinel Weizenbock,6102,Georg Meinel Bierbrauerei KG,1,3.82
+338,7.70,301621,https://www.beeradvocate.com/beer/profile/36725/301621/,Pumpkin Bock,36725,Spotted Dog Brewery,1,3.77
+339, ? ,279863,https://www.beeradvocate.com/beer/profile/47914/279863/,Four Falls,47914,Good River Beer,1,3
+340,9.40,329273,https://www.beeradvocate.com/beer/profile/39841/329273/,Tandgnost,39841,Munkebo Mikrobryg,1,3.74
+341,5.00,247866,https://www.beeradvocate.com/beer/profile/28765/247866/,October Fest,28765,Boone Valley Brewing,1,3
+342,8.50,317754,https://www.beeradvocate.com/beer/profile/33187/317754/,Weizenbock,33187,Big Head Brewing Co.,1,4
+343,10.30,264252,https://www.beeradvocate.com/beer/profile/41924/264252/,Weizen König,41924,Lionstone Brewing,1,4.11
+344,7.20,145980,https://www.beeradvocate.com/beer/profile/30143/145980/,Weizenbock,30143,Pike 51 Brewing Company,1,3.5
+345,7.50,162620,https://www.beeradvocate.com/beer/profile/6224/162620/,Spektakulator,6224,Weissbräu Jodlbauer GmbH,1,3.3
+346,11.00,205886,https://www.beeradvocate.com/beer/profile/2079/205886/,St.Nick's Weizenbock,2079,Sweetwater Tavern & Brewery,1,3.73
+347,7.20,115006,https://www.beeradvocate.com/beer/profile/1141/115006/,Nativitor,1141,Brasserie Dieu du Ciel!,1,3.86
+348,6.50,262463,https://www.beeradvocate.com/beer/profile/12097/262463/,Cornelius,12097,BrewPub København,1,3.75
+349,6.20,267586,https://www.beeradvocate.com/beer/profile/2217/267586/,Hoppenweizen,2217,L'Inox,1,4.02
+350,6.50,269891,https://www.beeradvocate.com/beer/profile/18189/269891/,Einkorn,18189,Earth Bread + Brewery,1,3.73
+351,9.00,263494,https://www.beeradvocate.com/beer/profile/23578/263494/,Unkel Dunkel,23578,The Mill House / Good Times Brewing,1,3.47
+352,8.50,90182,https://www.beeradvocate.com/beer/profile/20400/90182/,Weizenbock,20400,The Ruddy Duck Brewery And Grill,1,3.17
+353,8.00,282439,https://www.beeradvocate.com/beer/profile/47719/282439/,Weizenbock,47719,Birrificio Del Doge,1,3.49
+354, ? ,94536,https://www.beeradvocate.com/beer/profile/31571/94536/,Weimaraner Weizen Bock,31571,Bulldog Brewery,1,2.73
+355,7.47,57163,https://www.beeradvocate.com/beer/profile/640/57163/,El Chivo Weizen Bock,640,El Toro Brewing Co.,1,4
+356,7.60,261195,https://www.beeradvocate.com/beer/profile/24245/261195/,Lambok,24245,Ramses Bier,1,3.71
+357,7.00,333390,https://www.beeradvocate.com/beer/profile/34961/333390/,DreiKornBock,34961,Privatbrauerei Sander,1,3.88
+358,7.00,56142,https://www.beeradvocate.com/beer/profile/2642/56142/,Weizenbock,2642,North by Northwest Restaurant & Brewery,1,3.68
+359, ? ,73807,https://www.beeradvocate.com/beer/profile/5983/73807/,Mönchsambacher Weizenbock,5983,Brauerei Zehendner GmbH,1,4
+360, ? ,339537,https://www.beeradvocate.com/beer/profile/18254/339537/,Willow Weizenbock,18254,Blue Canoe Brewery,1,3.64
+361,7.00,284241,https://www.beeradvocate.com/beer/profile/34748/284241/,Coconut Cherry Schizer,34748,Imperial Oak Brewing,1,3.88
+362,9.00,330322,https://www.beeradvocate.com/beer/profile/43548/330322/,Doppelweizenbock,43548,Rentsch Brewery,1,4.13
+363,7.20,221779,https://www.beeradvocate.com/beer/profile/41674/221779/,Bockbier,41674,Spilled Grain Brewhouse,1,3.44
+364, ? ,335956,https://www.beeradvocate.com/beer/profile/31425/335956/,Hödeken,31425,Lichtenthaler Bräu,1,3.3
+365,7.00,173140,https://www.beeradvocate.com/beer/profile/40601/173140/,Córa Koryntu,40601,Jan Olbracht Browar Rzemieślniczy,1,3.3
+366,8.10,219991,https://www.beeradvocate.com/beer/profile/32403/219991/,Zinzenbock,32403,Hoots Roller Bar & Beer Co.,1,3.69
+367,8.00,290904,https://www.beeradvocate.com/beer/profile/29923/290904/,Weizenbock,29923,Northbound Brewpub,1,3.94
+368,8.30,135002,https://www.beeradvocate.com/beer/profile/2493/135002/,Dark Weizenbock,2493,Lafayette Brewing Co.,1,3.25
+369,7.10,280666,https://www.beeradvocate.com/beer/profile/7280/280666/,Grieskirchner Osterbock,7280,Brauerei Grieskirchen AG,1,4.08
+370,6.70,55131,https://www.beeradvocate.com/beer/profile/63/55131/,Arctic Blastanator Weizen Bock,63,Deschutes Brewery,1,3.67
+371,7.50,193627,https://www.beeradvocate.com/beer/profile/29511/193627/,Weizenbock Dunkel,29511,Camba Bavaria,1,4
+372,6.40,310364,https://www.beeradvocate.com/beer/profile/1860/310364/,Weizenbock,1860,Bube's Brewery,1,3.75
+373,6.90,207969,https://www.beeradvocate.com/beer/profile/4154/207969/,Reutberger Weissbier-Bock,4154,Klosterbrauerei Reutberg,1,3.04
+374,7.30,308323,https://www.beeradvocate.com/beer/profile/412/308323/,Kapuziner Hefe Bock Naturtrüb Weissbier,412,Kulmbacher Brauerei AG,1,4
+375,7.00,194915,https://www.beeradvocate.com/beer/profile/37153/194915/,Australian Weizenbock,37153,Doctor Brew,1,3.86
+376,6.50,287844,https://www.beeradvocate.com/beer/profile/32280/287844/,Weizenbock,32280,Timeless Pints Brewing Company,1,3.74
+377,8.50,280678,https://www.beeradvocate.com/beer/profile/28726/280678/,Cabin In The Woods,28726,Naparbier Sdad. Coop.,1,3.64
+378,8.00,220262,https://www.beeradvocate.com/beer/profile/34961/220262/,Limited Weizen-Doppelbock,34961,Privatbrauerei Sander,1,3.4
+379,6.90,105062,https://www.beeradvocate.com/beer/profile/31731/105062/,Weizenbock Mandarin,31731,Brauerei im Eiswerk,1,3.65
+380,7.50,113254,https://www.beeradvocate.com/beer/profile/28183/113254/,St. Nik’s Heavy Weizen,28183,All Saints Brewing Company,1,4.15
+381,6.60,259175,https://www.beeradvocate.com/beer/profile/18228/259175/,Kocour Weizenbock,18228,Pivovar Kocour Varnsdorf,1,3.94
+382,8.00,213352,https://www.beeradvocate.com/beer/profile/23311/213352/,Weizenbock,23311,Old Bavarian,1,3.9
+383,6.50,340842,https://www.beeradvocate.com/beer/profile/48142/340842/,Bandido,48142,Chili Line Brewing Co.,1,4.1
+384,7.50,120426,https://www.beeradvocate.com/beer/profile/34094/120426/,Zusers Meilenstein 1779,34094,Biergasthof Riedberg,1,5
+385, ? ,126058,https://www.beeradvocate.com/beer/profile/30247/126058/,Ms. Behavior,30247,Earth Eagle Brewings,1,4
+386,8.50,285803,https://www.beeradvocate.com/beer/profile/48378/285803/,A-10 Weizenbock,48378,Wort Hog Brewing Company,1,3.73
+387,7.20,238187,https://www.beeradvocate.com/beer/profile/3105/238187/,Weizenbock,3105,Schönbuch Brauhaus & Biergarten,1,3.53
+388,7.50,243819,https://www.beeradvocate.com/beer/profile/46116/243819/,Weizenbock,46116,Joymongers Brewing Co,1,3.84
+389,8.00,199532,https://www.beeradvocate.com/beer/profile/36594/199532/,Abockalypse,36594,Bagby Beer Company,1,4
+390,6.20,70764,https://www.beeradvocate.com/beer/profile/3797/70764/,Weizenbock,3797,Second Street Brewery,1,3.92
+391,8.50,222574,https://www.beeradvocate.com/beer/profile/1033/222574/,Weizenbock,1033,Max Lager's Wood-Fired Grill & Brewery,1,5
+392,6.50,257647,https://www.beeradvocate.com/beer/profile/39386/257647/,Cadolzburger Roter Weizenbock,39386,Brauhaus Brandmeier,1,3.69
+393,8.30,335472,https://www.beeradvocate.com/beer/profile/1056/335472/,Mr. Manager Weizenbock,1056,Upstream Brewing Company - Old Market,1,4.05
+394,9.50,217457,https://www.beeradvocate.com/beer/profile/30247/217457/,Weize Ass,30247,Earth Eagle Brewings,1,4
+395,8.30,107891,https://www.beeradvocate.com/beer/profile/30989/107891/,Bru-in-ator,30989,BRU Handbuilt Ales,1,3.75
+396,6.50,212596,https://www.beeradvocate.com/beer/profile/6056/212596/,Jura Weizen Bock,6056,Jura Bräu,1,3.57
+397,7.50,328565,https://www.beeradvocate.com/beer/profile/4336/328565/,Schroeder Weisse,4336,Hilton Head Brewing Company,1,4.25
+398,5.50,200823,https://www.beeradvocate.com/beer/profile/43225/200823/,Trog Weizenbock,43225,Cerveza Artesanal Trog,1,3.69
+399,6.00,234615,https://www.beeradvocate.com/beer/profile/45979/234615/,Bock,45979,Brausch Brewery,1,3.5
+400,7.50,324728,https://www.beeradvocate.com/beer/profile/24659/324728/,Weize Ass Goat,24659,La Cumbre Brewing Co.,1,4.25
+401,6.10,239993,https://www.beeradvocate.com/beer/profile/28972/239993/,Roter Weizenbock,28972,7Stern Bräu,1,4
+402,8.25,216954,https://www.beeradvocate.com/beer/profile/40873/216954/,Weizenbock,40873,R. Shea Brewing,1,3.49
+403,7.70,168826,https://www.beeradvocate.com/beer/profile/3695/168826/,Weizendoppelbock,3695,Weissbierbrauerei Andorfer,1,4.03
+404,8.30,252030,https://www.beeradvocate.com/beer/profile/47281/252030/,Word To The Weizenbock,47281,Bosacki's Home Brew,1,3.67
+405,6.40,316031,https://www.beeradvocate.com/beer/profile/2958/316031/,HYPA 2000,2958,BFM (Brasserie des Franches-Montagnes),1,3.69
+406,8.10,94592,https://www.beeradvocate.com/beer/profile/31467/94592/,Cabra Da Peste Cerveja De Trigo Do Pão Que O Diabo Amassou,31467,Cervejaria Urbana,1,3.25
+407,8.50,338306,https://www.beeradvocate.com/beer/profile/32180/338306/,Tawny Vice,32180,Blue Stallion Brewing Co.,1,3.68
+408,7.10,213634,https://www.beeradvocate.com/beer/profile/9558/213634/,Brown's Weizenbock,9558,Brown's Brewing Company,1,3.77
+409,6.90,64643,https://www.beeradvocate.com/beer/profile/6228/64643/,Wolferstetter Weizen Bock,6228,Wolferstetter Bräu Georg Huber,1,3.76
+410,7.80,251012,https://www.beeradvocate.com/beer/profile/34507/251012/,Arcanum,34507,Pollyanna Brewing Company,1,3.89
+411,6.20,193412,https://www.beeradvocate.com/beer/profile/23313/193412/,Giesinger Weißbierbock Hell,23313,Giesinger Bräu - Das Bierlaboratorium,1,3.94
+412,7.20,308101,https://www.beeradvocate.com/beer/profile/44307/308101/,Sweetfetti,44307,Bow & Arrow Brewing,1,3.41
+413,5.00,159623,https://www.beeradvocate.com/beer/profile/38181/159623/,Banana Vibration Ale,38181,Jarva Brewing Company,1,2.71
+414,8.80,162439,https://www.beeradvocate.com/beer/profile/15697/162439/,Sein Desprit De Noël,15697,Broadway Pub,1,3.73
+415,8.70,317575,https://www.beeradvocate.com/beer/profile/51122/317575/,Waucoma Weizenbock,51122,PIVO Brewery,1,5
+416,10.00,275336,https://www.beeradvocate.com/beer/profile/47824/275336/,Bock-O-Bock,47824,XP Brew,1,3.47
+417,6.80,210312,https://www.beeradvocate.com/beer/profile/1708/210312/,St.Nick's Weizenbock,1708,Sweetwater Tavern & Brewery,1,3.58
+418,9.00,332425,https://www.beeradvocate.com/beer/profile/43548/332425/,Doppledunkelweizenbock,43548,Rentsch Brewery,1,3.95
+419,6.90,299405,https://www.beeradvocate.com/beer/profile/28437/299405/,Zhara (Жара),28437,Vasileostrovskaya Brewery (Василеостровская Пивоварня),1,3.68
+420,8.80,262287,https://www.beeradvocate.com/beer/profile/33100/262287/,DAVO Bieren Weizenbock,33100,DAVO Bieren,1,3.65
+421,8.90,316303,https://www.beeradvocate.com/beer/profile/42110/316303/,J-Broc,42110,Ascension Brewing Company,1,3.82
+422,6.50,290450,https://www.beeradvocate.com/beer/profile/450/290450/,Weizenbock,450,Yards Brewing Co.,1,3.89
+423,8.00,196244,https://www.beeradvocate.com/beer/profile/39227/196244/,Flugegeheimen,39227,Bakunin Beer Cafe & Boutique,1,3.58
+424,8.20,226197,https://www.beeradvocate.com/beer/profile/6045/226197/,Pelon,6045,Iron Hill Brewery & Restaurant,1,3.9
+425,7.80,322453,https://www.beeradvocate.com/beer/profile/48264/322453/,Yukon Cornelius,48264,Lazarus Brewing Company,1,3
+426,6.80,262550,https://www.beeradvocate.com/beer/profile/30536/262550/,Farmers Market Festbier,30536,Two Rivers Brewing Company,1,3.94
+427,9.50,290454,https://www.beeradvocate.com/beer/profile/607/290454/,Ramstein 20th Anniversary Beer,607,High Point Brewing Company,1,4.1
+428, ? ,48791,https://www.beeradvocate.com/beer/profile/12140/48791/,Steinbach Weizenbock (Der Ladykiller),12140,Steinbach Bräu,1,3.9
+429,7.00,320921,https://www.beeradvocate.com/beer/profile/44014/320921/,Barrel Aged Dove Runner Red Wheat,44014,Aero Plains Brewing,1,3.46
+430,6.60,145562,https://www.beeradvocate.com/beer/profile/37601/145562/,Koźlak Pszeniczny,37601,Browar Trójmiejski Lubrow / Restauracja Barbados,1,3.5
+431,7.80,157083,https://www.beeradvocate.com/beer/profile/32116/157083/,The Phantom,32116,5 Paddles Brewing Co.,1,3.68
+432,7.00,111772,https://www.beeradvocate.com/beer/profile/4974/111772/,Iwatekura Europian Chrismas Beer,4974,"Sekinoichi-shuzou, Iwate-kura Brewery",1,4.75
+433,7.80,138398,https://www.beeradvocate.com/beer/profile/30232/138398/,Tap Weizenbock,30232,The Tap Brewery,1,4.15
+434,7.00,175774,https://www.beeradvocate.com/beer/profile/5854/175774/,Weisser Bock,5854,Brauerei Schäffler,1,3.33
+435,6.20,288415,https://www.beeradvocate.com/beer/profile/1146/288415/,Hellerweizenbock,1146,Goose Island Beer Co.,1,4
+436, ? ,250271,https://www.beeradvocate.com/beer/profile/37452/250271/,Wheat Storm,37452,Pleasure House Brewing,1,3.84
+437,6.70,176290,https://www.beeradvocate.com/beer/profile/4494/176290/,Kraft Bräu Weizenbock Dunkel,4494,Kraft Bräu - Blesius Garten,1,3.88
+438,4.90,218787,https://www.beeradvocate.com/beer/profile/44372/218787/,Weizen,44372,Sunnegg Brau Haus,1,3.74
+439,8.30,326051,https://www.beeradvocate.com/beer/profile/49535/326051/,#23 Weizenbock,49535,Hoops Brewing Company,1,3.5
+440,7.50,251044,https://www.beeradvocate.com/beer/profile/44127/251044/,Gold - LauderAle Collaboration,44127,Lincoln's Beard Brewing Co.,1,4
+441,6.50,248229,https://www.beeradvocate.com/beer/profile/28094/248229/,Octoberfest Marzen,28094,Four String Brewing Company,1,3.46
+442,6.50,115367,https://www.beeradvocate.com/beer/profile/390/115367/,Omar's Free T-Shirt Bock,390,Oaken Barrel Brewing Company,1,3
+443,6.00,191911,https://www.beeradvocate.com/beer/profile/12959/191911/,Happy Sunday - Pilot Batch,12959,Captain Lawrence Brewing Co.,1,4.15
+444,5.90,268203,https://www.beeradvocate.com/beer/profile/48081/268203/,Banana Bread Weizenbock,48081,2 Feet Brewing,1,4.21
+445,7.00,158379,https://www.beeradvocate.com/beer/profile/13215/158379/,Baeren Ursus,13215,Baeren Brauerei,1,4.24
+446,8.00,235947,https://www.beeradvocate.com/beer/profile/35610/235947/,Bourb-Obsius,35610,Beryl's Beer Company,1,2.29
+447,6.80,93357,https://www.beeradvocate.com/beer/profile/6044/93357/,Hopfenstern,6044,Weyermann Brauerei GmbH,1,3.45
+448,5.00,333232,https://www.beeradvocate.com/beer/profile/40968/333232/,Walpurgia (Behemoth),40968,BR Perun SA,1,4.42
+449,7.00,277424,https://www.beeradvocate.com/beer/profile/44120/277424/,Litra Firestarter,44120,Litra Brewing Company,1,3.88
+450,7.60,152499,https://www.beeradvocate.com/beer/profile/1018/152499/,Weizenbock Winter Wheat,1018,San Pedro Brewing Company,1,4.31
+451,7.70,287923,https://www.beeradvocate.com/beer/profile/1683/287923/,Hefe'd Up,1683,Santa Fe Brewing Company,1,4
+452,8.00,152756,https://www.beeradvocate.com/beer/profile/16846/152756/,Weizenbock,16846,Block 15 Brewery & Restaurant,1,4.24
+453,7.00,221620,https://www.beeradvocate.com/beer/profile/35494/221620/,Weizenbock,35494,Black Cap Brewing Company,1,4.26
+454, ? ,113332,https://www.beeradvocate.com/beer/profile/4016/113332/,Weizenbock,4016,Ragtime Taproom & Brewery,1,4.02
+455,9.00,216245,https://www.beeradvocate.com/beer/profile/3925/216245/,Weihnachts Weissbock,3925,Mickey Finn's Brewery,1,3.39
+456, ? ,316087,https://www.beeradvocate.com/beer/profile/971/316087/,Weiss Bock,971,Crescent City Brewhouse,1,3.54
+457, ? ,81848,https://www.beeradvocate.com/beer/profile/27205/81848/,Weizenbock,27205,Gordon Biersch Brewery & Restaurant,1,4
+458,7.20,118968,https://www.beeradvocate.com/beer/profile/2268/118968/,Herzog Christian August,2268,Sperber-Brau,1,3.5
+459,7.50,335033,https://www.beeradvocate.com/beer/profile/31247/335033/,Praxis Weizenbock,31247,Cervejaria Praxis,1,3.45
+460,6.60,276409,https://www.beeradvocate.com/beer/profile/24493/276409/,Das Bier,24493,Packinghouse Brewing Co.,1,4.02
+461,7.20,160441,https://www.beeradvocate.com/beer/profile/38332/160441/,Boettcher's Weizenbock,38332,Gold Camp Brewing Company,1,3.43
+462,7.90,160697,https://www.beeradvocate.com/beer/profile/32540/160697/,Weizenbock,32540,Antietam Brewery & Restaurant,1,4.03
+463,8.00,135613,https://www.beeradvocate.com/beer/profile/1837/135613/,Dark Cloud,1837,Buckeye Brewing Company,1,3.75
+464,5.50,334783,https://www.beeradvocate.com/beer/profile/46872/334783/,Crystal Clear Weizen,46872,Amazing Brewing Company,1,3.07
+465,6.50,62657,https://www.beeradvocate.com/beer/profile/506/62657/,Grolsch Tarwebok,506,Grolsch Bierbrouwerij N.V.,1,3.5
+466,8.00,288452,https://www.beeradvocate.com/beer/profile/45545/288452/,Soi Beer Black Bean Bock,45545,Stone Head Co.,1,3.57
+467,8.00,235204,https://www.beeradvocate.com/beer/profile/3694/235204/,Unertl Luis I. Weisser Bock,3694,Unertl Weissbier GmbH,1,3.88
+468,5.50,254663,https://www.beeradvocate.com/beer/profile/21597/254663/,Valona,21597,Officina Della Birra,1,3.39
+469,7.50,263627,https://www.beeradvocate.com/beer/profile/36402/263627/,Weizenbock,36402,Swamp Cabbage Brewing Company,1,3.5
+470,8.00,122061,https://www.beeradvocate.com/beer/profile/3749/122061/,Barrel Aged Weizenbock,3749,Seven Bridges Grille And Brewery,1,3.75
+471,6.00,282319,https://www.beeradvocate.com/beer/profile/38005/282319/,Weijsbeer Bock,38005,Bierbrouwerij De Blauwe IJsbeer,1,3.25
+472,4.40,247247,https://www.beeradvocate.com/beer/profile/46949/247247/,Trigo Nome Tria,46949,Cervezas Lanchar,1,3.3
+473,7.70,330450,https://www.beeradvocate.com/beer/profile/33326/330450/,Uncle BJ,33326,Mispillion River Brewing,1,3.62
+474, ? ,141011,https://www.beeradvocate.com/beer/profile/32645/141011/,Weimar Republic Weizenbock,32645,Stone's Throw Brewing,1,3
+475,8.00,187860,https://www.beeradvocate.com/beer/profile/20132/187860/,DumDuminator Fût De Cognac,20132,Les Brasseurs Du Temps,1,3.98
+476,7.00,273112,https://www.beeradvocate.com/beer/profile/48649/273112/,Trovibrau Weizenbock,48649,Cervecería Trovi,1,3.69
+477,7.50,185818,https://www.beeradvocate.com/beer/profile/31586/185818/,Frimaire,31586,Benelux Brasserie Artisanale,1,3.81
+478,7.20,319962,https://www.beeradvocate.com/beer/profile/5316/319962/,Vendell Veizen Weizen Bock,5316,Full Sail Brewery & Tasting Room & Pub,1,2.5
+479,7.90,243931,https://www.beeradvocate.com/beer/profile/46048/243931/,Queen’s Vier,46048,Cerveza Artesana Vier,1,2.9
+480,8.00,208348,https://www.beeradvocate.com/beer/profile/511/208348/,Oldskool Ella Hopfen Weisse,511,Stadsbrouwerij De Hemel,1,3.5
+481,6.80,108253,https://www.beeradvocate.com/beer/profile/16413/108253/,S'no Angel Weizenbock,16413,Ram Restaurant & Brewery - Northgate,1,3.5
+482,8.10,69854,https://www.beeradvocate.com/beer/profile/18003/69854/,Doppelweizenhoppe,18003,Microbrasserie Le Naufrageur,1,3.75
+483,8.30,245471,https://www.beeradvocate.com/beer/profile/38220/245471/,Stu Mostów / Camba Bavaria ART1 Doppel Weizenbock German IPA,38220,Browar Stu Mostów,1,3.75
+484,6.50,124639,https://www.beeradvocate.com/beer/profile/1144/124639/,Weizen,1144,Le Cheval Blanc,1,3.75
+485, ? ,270561,https://www.beeradvocate.com/beer/profile/9264/270561/,Holiday,9264,Royal Bavaria Restaurant & Brewery,1,3.75
+486,7.50,101606,https://www.beeradvocate.com/beer/profile/28183/101606/,Heavy Weizen,28183,All Saints Brewing Company,1,4.25
+487,7.20,58342,https://www.beeradvocate.com/beer/profile/5727/58342/,Weissbier-Bock,5727,Brauerei Blauer Löwe,1,3.9
+488,8.00,282604,https://www.beeradvocate.com/beer/profile/20132/282604/,DumDuminator Fût De Cabernet Sauvignon,20132,Les Brasseurs Du Temps,1,3.6
+489, ? ,236780,https://www.beeradvocate.com/beer/profile/25859/236780/,WeizenBock,25859,Lazy Monk Brewing,1,3.99
+490,8.60,324076,https://www.beeradvocate.com/beer/profile/35590/324076/,Wiseman,35590,Aleman Brewing Company,1,4
+491,6.00,262131,https://www.beeradvocate.com/beer/profile/12003/262131/,Alpenhorn Weizenbock,12003,Emmett's Brewing Company,1,3.42
+492,7.50,313847,https://www.beeradvocate.com/beer/profile/14/313847/,Weizenbock,14,Cambridge Brewing Company,1,3.98
+493,7.00,237819,https://www.beeradvocate.com/beer/profile/36470/237819/,Bock Slider,36470,Vice District Brewing Company,1,3.5
+494,7.10,264448,https://www.beeradvocate.com/beer/profile/46133/264448/,Vagabond,46133,Thirsty Nomad Brewing,0,0
+495,6.90,234240,https://www.beeradvocate.com/beer/profile/21154/234240/,Raspberry Vanilla 352,21154,Swamp Head Brewery,0,0
+496,7.70,163585,https://www.beeradvocate.com/beer/profile/3689/163585/,Huber Weisses Hubertus,3689,Hofbrauhaus Freising,0,0
+497,6.60,335879,https://www.beeradvocate.com/beer/profile/48774/335879/,Weizenbock,48774,Green Mountain Beer Company,0,0
+498,9.00,319239,https://www.beeradvocate.com/beer/profile/33060/319239/,Barrel Aged Tweiss on Peaches,33060,Gneiss Brewing Company,0,0
+499,6.40,221450,https://www.beeradvocate.com/beer/profile/44617/221450/,Weizen Vielfrass,44617,Mad Princes Brewing,0,0
+500,8.00,214795,https://www.beeradvocate.com/beer/profile/25926/214795/,Anaheim Bockbier,25926,Anaheim Brewery,0,0
+501,7.10,298003,https://www.beeradvocate.com/beer/profile/38100/298003/,Port Barrel-Aged Weizen Fall,38100,Postdoc Brewing,0,0
+502,8.00,209940,https://www.beeradvocate.com/beer/profile/43845/209940/,Weizenbock,43845,3 Monkeys Brewpub,0,0
+503,6.50,173334,https://www.beeradvocate.com/beer/profile/37920/173334/,Maximilian,37920,Urban Chestnut Brewing Company - Grove Brewery & Bierhall,0,0
+504,6.50,238368,https://www.beeradvocate.com/beer/profile/42675/238368/,Pratinha Capricó,42675,Cervejaria Pratinha,0,0
+505,7.50,330787,https://www.beeradvocate.com/beer/profile/22977/330787/,Påskens Weissbock,22977,Ängöl,0,0
+506,8.90,226858,https://www.beeradvocate.com/beer/profile/45105/226858/,Weizenbock,45105,Urban Harvest Brewing Company,0,0
+507,6.20,234540,https://www.beeradvocate.com/beer/profile/5502/234540/,Po Godzinach - Koźlak Pszeniczny,5502,Browar Amber,0,0
+508,7.10,145457,https://www.beeradvocate.com/beer/profile/36243/145457/,Westphalia,36243,Microbrasserie La Boîte à Malt,0,0
+509,5.60,194612,https://www.beeradvocate.com/beer/profile/30247/194612/,Cherry Ferale,30247,Earth Eagle Brewings,0,0
+510,7.50,267318,https://www.beeradvocate.com/beer/profile/14359/267318/,Weizenbock,14359,The Defiant Brewing Company,0,0
+511,7.50,137532,https://www.beeradvocate.com/beer/profile/16943/137532/,Tempora Mutantur,16943,Loup Rouge,0,0
+512,6.40,142655,https://www.beeradvocate.com/beer/profile/37259/142655/,Mean Wheat Bock,37259,Flying Dodo Brewing Company,0,0
+513,7.50,162111,https://www.beeradvocate.com/beer/profile/35444/162111/,Weizenbock,35444,Neufeldner Biobrauerei,0,0
+514, ? ,216897,https://www.beeradvocate.com/beer/profile/38873/216897/,Doppel Helix,38873,SquareHead Brewing Company,0,0
+515,7.70,165697,https://www.beeradvocate.com/beer/profile/39853/165697/,Evil Woman,39853,The Cebruery,0,0
+516,8.10,287825,https://www.beeradvocate.com/beer/profile/25260/287825/,Hammerzeit,25260,Enegren Brewing Company,0,0
+517,7.80,180305,https://www.beeradvocate.com/beer/profile/23/180305/,Twisted Tiger,23,Twisted Pine Brewing Company,0,0
+518,6.50,140371,https://www.beeradvocate.com/beer/profile/12003/140371/,Weizenbock,12003,Emmett's Brewing Company,0,0
+519,9.50,204377,https://www.beeradvocate.com/beer/profile/37027/204377/,Yorikiri,37027,Põhjala Brewery,0,0
+520,7.20,336986,https://www.beeradvocate.com/beer/profile/1336/336986/,Of Weizen Men,1336,Appalachian Brewing Company,0,0
+521, ? ,125275,https://www.beeradvocate.com/beer/profile/31425/125275/,Weizenbock,31425,Lichtenthaler Bräu,0,0
+522, ? ,168288,https://www.beeradvocate.com/beer/profile/24517/168288/,Axe M. Weizenbock,24517,White Bluffs Brewing Company,0,0
+523,6.00,269153,https://www.beeradvocate.com/beer/profile/40999/269153/,Weisenbock,40999,Towerhill Brewery,0,0
+524,9.20,204131,https://www.beeradvocate.com/beer/profile/31920/204131/,Weizenbock,31920,FATE Brewing Company,0,0
+525,5.00,228196,https://www.beeradvocate.com/beer/profile/40661/228196/,People's Choice,40661,Marker 48 Brewing,0,0
+526,7.80,59748,https://www.beeradvocate.com/beer/profile/16594/59748/,Schlossbrau Hefeweizen Bock,16594,LagerHaus Grill & Brewery,0,0
+527,6.20,194918,https://www.beeradvocate.com/beer/profile/37153/194918/,Black Weizen,37153,Doctor Brew,0,0
+528,8.20,195184,https://www.beeradvocate.com/beer/profile/32365/195184/,Bak Mici,32365,Legenda Sörfőzde,0,0
+529,7.70,311417,https://www.beeradvocate.com/beer/profile/30934/311417/,Wicked River Weizenbock,30934,Souris River Brewing,0,0
+530, ? ,159866,https://www.beeradvocate.com/beer/profile/14967/159866/,Harvest Wheat,14967,Brau Brothers Brewing Co. LLC,0,0
+531, ? ,60538,https://www.beeradvocate.com/beer/profile/5773/60538/,Enzensteiner Seelentröster,5773,Brauerei Enzensteiner,0,0
+532,8.50,165249,https://www.beeradvocate.com/beer/profile/27043/165249/,Weizenbock,27043,Harrington's Breweries,0,0
+533,8.60,328842,https://www.beeradvocate.com/beer/profile/49576/328842/,Knecht Ruprecht,49576,Schiller Bräu,0,0
+534,6.00,222602,https://www.beeradvocate.com/beer/profile/44856/222602/,Weizenbock,44856,Four Stacks Brewing Company,0,0
+535,7.10,271500,https://www.beeradvocate.com/beer/profile/48370/271500/,Winter Wheat,48370,Microbrasserie Labrosse,0,0
+536,5.30,207504,https://www.beeradvocate.com/beer/profile/40221/207504/,Red Wheat,40221,Birra & Blues,0,0
+537,9.00,181651,https://www.beeradvocate.com/beer/profile/32392/181651/,Sennora,32392,Microbirrificio Lara,0,0
+538, ? ,201367,https://www.beeradvocate.com/beer/profile/27378/201367/,Zwolf,27378,Congregation Ale House,0,0
+539,3.80,149655,https://www.beeradvocate.com/beer/profile/19587/149655/,Leichtes Weizen,19587,Hofbräuhaus Pittsburgh,0,0
+540,8.80,279960,https://www.beeradvocate.com/beer/profile/47667/279960/,Weizenboggs,47667,Icarus Brewing Company,0,0
+541,8.10,316568,https://www.beeradvocate.com/beer/profile/40393/316568/,Weizenbock,40393,LTS Brewing Company (Life's Too Short),0,0
+542,8.00,230810,https://www.beeradvocate.com/beer/profile/43546/230810/,The Jungle Bock,43546,Legion Brewing,0,0
+543, ? ,221086,https://www.beeradvocate.com/beer/profile/18566/221086/,Weizenbock,18566,Boathouse Brewpub & Restaurant,0,0
+544,5.20,159392,https://www.beeradvocate.com/beer/profile/39074/159392/,Klosterbier,39074,Wartauer Seegal Bräu,0,0
+545,6.70,176289,https://www.beeradvocate.com/beer/profile/4494/176289/,Kraft Bräu Weizenbock Hell,4494,Kraft Bräu - Blesius Garten,0,0
+546,6.80,262307,https://www.beeradvocate.com/beer/profile/16029/262307/,Weizenbock,16029,Privatbrauerei Hofmann,0,0
+547,6.50,187043,https://www.beeradvocate.com/beer/profile/27921/187043/,L’Espace Public / Le Bilboquet Alberto Blanco,27921,L'Espace Public-Brasseurs de quartier,0,0
+548,5.30,232615,https://www.beeradvocate.com/beer/profile/42085/232615/,Urban 13° NAKUŘOVANÝ SPECIÁL,42085,Podklášterní Pivovar Třebíč / Centrum Lihovar,0,0
+549,7.10,210090,https://www.beeradvocate.com/beer/profile/22610/210090/,Daytripper,22610,Mother Earth Brew Co.,0,0
+550,6.00,327596,https://www.beeradvocate.com/beer/profile/44752/327596/,MRE,44752,Kitzingen Brewery,0,0
+551, ? ,153522,https://www.beeradvocate.com/beer/profile/26398/153522/,S'No Angel,26398,Ram Restaurant & Brewery,0,0
+552,8.50,114098,https://www.beeradvocate.com/beer/profile/31972/114098/,Weizenbockalypse Smoked Weizenbock,31972,Warehouse Gourmet Bistro & Brew Pub,0,0
+553,6.80,283064,https://www.beeradvocate.com/beer/profile/47262/283064/,Veto Weisser Hai,47262,Hopferei Hertrich,0,0
+554,8.00,64444,https://www.beeradvocate.com/beer/profile/22622/64444/,Big Muddy Weizenbock,22622,Social Kitchen & Brewery,0,0
+555,8.00,204221,https://www.beeradvocate.com/beer/profile/43433/204221/,Siniy Robot,43433,Blad Baher,0,0
+556,8.00,328642,https://www.beeradvocate.com/beer/profile/12648/328642/,Reckless Big Country,12648,Frisco Taphouse & Brewery,0,0
+557,8.00,190147,https://www.beeradvocate.com/beer/profile/35657/190147/,Vanlandia Hopfenweizenbock,35657,Main Street Brewing Company,0,0
+558,7.00,164814,https://www.beeradvocate.com/beer/profile/9362/164814/,Weiserbok,9362,Chinggis Beer Co.,0,0
+559,7.60,183761,https://www.beeradvocate.com/beer/profile/1353/183761/,Die Wilde Weiße,1353,Forschungsbrauerei,0,0
+560,5.00,179164,https://www.beeradvocate.com/beer/profile/41247/179164/,Wit Beer,41247,Woodstock Brewery,0,0
+561,7.00,237535,https://www.beeradvocate.com/beer/profile/45140/237535/,Bizon Bock,45140,ReCraft Brewery,0,0
+562,7.20,279008,https://www.beeradvocate.com/beer/profile/48992/279008/,Dark & Stark,48992,San Diego Brewing Co. - North Park,0,0
+563,6.20,195040,https://www.beeradvocate.com/beer/profile/17208/195040/,Páskabjór,17208,Ölvisholt Brugghús,0,0
+564,6.50,157412,https://www.beeradvocate.com/beer/profile/12508/157412/,Weihnachts-Weizenbock,12508,Griesbräu Zu Murnau,0,0
+565,7.60,67305,https://www.beeradvocate.com/beer/profile/409/67305/,Weizenbock,409,Central Coast Brewing,0,0
+566,8.00,263404,https://www.beeradvocate.com/beer/profile/24600/263404/,Wheatus,24600,Figueroa Mountain Brewing Co.,0,0
+567,6.50,224237,https://www.beeradvocate.com/beer/profile/45054/224237/,OLs Herbstbock,45054,OLs Brauhaus,0,0
+568,8.00,223214,https://www.beeradvocate.com/beer/profile/6209/223214/,Don Impala,6209,Weissbierbrauerei Schwendl,0,0
+569,8.00,223215,https://www.beeradvocate.com/beer/profile/6209/223215/,Don Impala - Barrique,6209,Weissbierbrauerei Schwendl,0,0
+570, ? ,338161,https://www.beeradvocate.com/beer/profile/52367/338161/,Weizen Bock,52367,Hofbräuhaus St. Louis-Belleville,0,0
+571,7.00,223217,https://www.beeradvocate.com/beer/profile/6209/223217/,Don Stille Nacht,6209,Weissbierbrauerei Schwendl,0,0
+572,13.80,333299,https://www.beeradvocate.com/beer/profile/16866/333299/,Foster Happiness,16866,The Bruery,0,0
+573,7.10,125430,https://www.beeradvocate.com/beer/profile/35341/125430/,VW,35341,Clandestine Brewing Company,0,0
+574,7.40,284407,https://www.beeradvocate.com/beer/profile/34117/284407/,Radio Shadow,34117,Eight Bridges Brewing Co.,0,0
+575,6.90,222199,https://www.beeradvocate.com/beer/profile/44880/222199/,Darkness,44880,Cervejaria Hoffen,0,0
+576,5.40,338171,https://www.beeradvocate.com/beer/profile/52367/338171/,Winterzwickel,52367,Hofbräuhaus St. Louis-Belleville,0,0
+577,6.80,276479,https://www.beeradvocate.com/beer/profile/48857/276479/,Weizenbock,48857,Kujawski Browar Regionalny Osowa Góra,0,0

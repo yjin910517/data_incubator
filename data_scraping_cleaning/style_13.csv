@@ -1,0 +1,845 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,5.00,86189,https://www.beeradvocate.com/beer/profile/113/86189/,Organic Chocolate Stout,113,Samuel Smith Old Brewery (Tadcaster),"3,308",4.23
+1,5.70,297,https://www.beeradvocate.com/beer/profile/96/297/,Heart Of Darkness,96,Magic Hat Brewing Company,"1,442",3.88
+2,5.50,75364,https://www.beeradvocate.com/beer/profile/68/75364/,Pearl Necklace Chesapeake Stout,68,Flying Dog Brewery,"1,304",3.69
+3,7.40,77595,https://www.beeradvocate.com/beer/profile/10272/77595/,Irish Whiskey Aged Scottish Stout,10272,Innis & Gunn,693,3.82
+4,7.00,48194,https://www.beeradvocate.com/beer/profile/148/48194/,Belhaven Scottish Stout,148,Belhaven Brewery Company Ltd.,668,3.92
+5,7.90,87764,https://www.beeradvocate.com/beer/profile/735/87764/,Marooned On Hog Island,735,21st Amendment Brewery,492,3.9
+6,6.50,211125,https://www.beeradvocate.com/beer/profile/30654/211125/,Secret Stairs Boston Stout,30654,Trillium Brewing Company,353,4.13
+7,4.00,5781,https://www.beeradvocate.com/beer/profile/118/5781/,Dragonhead Stout,118,Orkney Brewery,298,3.85
+8,6.90,78460,https://www.beeradvocate.com/beer/profile/450/78460/,Chocolate Love Stout,450,Yards Brewing Co.,259,3.85
+9,5.20,70416,https://www.beeradvocate.com/beer/profile/637/70416/,Monk's Stout Dupont,637,Brasserie Dupont sprl,255,3.34
+10,7.40,102133,https://www.beeradvocate.com/beer/profile/10272/102133/,Innis & Gunn Bourbon Stout,10272,Innis & Gunn,207,3.72
+11,7.00,10850,https://www.beeradvocate.com/beer/profile/5046/10850/,Echigo Stout,5046,Uehara Shuzou Co. Ltd. / Echigo Beer Pub,156,3.67
+12,4.80,7266,https://www.beeradvocate.com/beer/profile/3052/7266/,Double Stout,3052,Hook Norton Brewery Co. Ltd.,150,3.9
+13,4.60,4092,https://www.beeradvocate.com/beer/profile/1530/4092/,Dorothy Goodbody's Wholesome Stout,1530,Wye Valley Brewery,133,3.71
+14,4.60,178,https://www.beeradvocate.com/beer/profile/60/178/,Strike Out Stout,60,Cooperstown Brewing Company,129,3.48
+15,6.00,43016,https://www.beeradvocate.com/beer/profile/7944/43016/,Bad King John,7944,Ridgeway Brewing,125,3.7
+16,6.50,102910,https://www.beeradvocate.com/beer/profile/24247/102910/,The Mayan (Chocolate Chipotle Stout),24247,Ilkley Brewery Co.,98,3.87
+17,5.00,87252,https://www.beeradvocate.com/beer/profile/4067/87252/,Rosie Parks Oyster Stout,4067,Fordham Brewing Company,95,3.54
+18,4.50,5788,https://www.beeradvocate.com/beer/profile/2298/5788/,Hopback Entire Stout,2298,Hop Back Brewery plc,94,3.73
+19,4.50,9565,https://www.beeradvocate.com/beer/profile/1533/9565/,O'Hanlon's The Original Ruby Stout,1533,Hanlons Brewery,90,3.61
+20,4.20,88019,https://www.beeradvocate.com/beer/profile/293/88019/,Bass Stout,293,Bass Brewers Limited,84,3.14
+21,5.30,106092,https://www.beeradvocate.com/beer/profile/33344/106092/,Cream Stout,33344,Ozark Beer Co.,83,4.04
+22,5.20,87131,https://www.beeradvocate.com/beer/profile/138/87131/,Double Stout (2012- ),138,Shepherd Neame Ltd,80,3.82
+23,5.50,23481,https://www.beeradvocate.com/beer/profile/11341/23481/,Smuggler's Hazelnut Stout,11341,Hideout Brewing Company,79,3.95
+24,6.60,3657,https://www.beeradvocate.com/beer/profile/103/3657/,Blackheart Stout,103,"Middle Ages Brewing Co., Ltd.",75,4.06
+25,4.50,72503,https://www.beeradvocate.com/beer/profile/6695/72503/,Oyster Stout,6695,Marston's PLC,73,3.45
+26,5.50,81154,https://www.beeradvocate.com/beer/profile/14046/81154/,Perle Ai Porci,14046,Birra Del Borgo,72,3.53
+27,5.50,46295,https://www.beeradvocate.com/beer/profile/4049/46295/,Maple Stout,4049,Cannery Brewing Company,72,3.85
+28,4.50,42852,https://www.beeradvocate.com/beer/profile/5062/42852/,London Stout,5062,Meantime Brewing Company Limited,71,3.64
+29,4.90,68441,https://www.beeradvocate.com/beer/profile/12142/68441/,March Of The Penguins,12142,Williams Brothers Brewing Company,70,3.97
+30,6.40,22565,https://www.beeradvocate.com/beer/profile/10629/22565/,Bonecrusher Stout,10629,Schmohz Brewing Company,69,3.33
+31,4.80,25639,https://www.beeradvocate.com/beer/profile/1879/25639/,Martello Stout,1879,Garrison Brewing Company,68,3.89
+32,5.50,6798,https://www.beeradvocate.com/beer/profile/599/6798/,Boréale Noire,599,Brasseurs Du Nord Inc.,68,3.61
+33,6.80,76340,https://www.beeradvocate.com/beer/profile/25818/76340/,Woody Stout,25818,Lost Rhino Brewing Company,67,3.7
+34,6.00,68923,https://www.beeradvocate.com/beer/profile/22466/68923/,Chocolate Stout,22466,Northshire Brewery,67,3.17
+35,4.50,4076,https://www.beeradvocate.com/beer/profile/113/4076/,Extra Stout,113,Samuel Smith Old Brewery (Tadcaster),64,4.14
+36,6.10,323594,https://www.beeradvocate.com/beer/profile/10272/323594/,Innis & Gunn Kindred Spirits,10272,Innis & Gunn,59,3.84
+37,6.10,50959,https://www.beeradvocate.com/beer/profile/16842/50959/,Pemaquid Oyster Stout,16842,Marshall Wharf Brewing Company / Three Tides Restaurant,58,4.14
+38,5.00,21568,https://www.beeradvocate.com/beer/profile/2519/21568/,Stonewall Stout,2519,Adventure Brewing South,58,3.69
+39,6.00,72292,https://www.beeradvocate.com/beer/profile/26623/72292/,Dark Arts,26623,Magic Rock Brewing,56,3.84
+40,4.70,21697,https://www.beeradvocate.com/beer/profile/11174/21697/,Potro,11174,Cerveceria Mexicana S.A. De C.V.,44,3.04
+41,4.80,9124,https://www.beeradvocate.com/beer/profile/1533/9124/,O'Hanlons Original Port Stout,1533,Hanlons Brewery,43,3.51
+42,5.00,51412,https://www.beeradvocate.com/beer/profile/20220/51412/,Black Creek Stout,20220,Black Creek Historic Brewery,43,3.5
+43,6.50,86946,https://www.beeradvocate.com/beer/profile/26528/86946/,Helltown Perverse Stout,26528,Helltown Brewing,42,3.86
+44,4.60,61612,https://www.beeradvocate.com/beer/profile/13486/61612/,Black,13486,Lancaster Brewery Company Ltd,40,3.3
+45,4.70,161010,https://www.beeradvocate.com/beer/profile/30750/161010/,Millionaire,30750,The Wild Beer Co.,40,3.93
+46,5.50,114533,https://www.beeradvocate.com/beer/profile/2594/114533/,Old School Stout,2594,Tree Brewing,39,3.86
+47,4.50,12950,https://www.beeradvocate.com/beer/profile/6577/12950/,Titanic Stout,6577,Titanic Brewery,38,3.83
+48, ? ,115203,https://www.beeradvocate.com/beer/profile/32908/115203/,Stay Dry Stout,32908,Green Bench Brewing Co.,36,3.62
+49,6.90,302658,https://www.beeradvocate.com/beer/profile/42/302658/,Candi Stout,42,Brewery Ommegang,35,4
+50,4.80,9471,https://www.beeradvocate.com/beer/profile/2793/9471/,Durham Black Katt,2793,County Durham Brewing Company,34,3.9
+51,4.90,1486,https://www.beeradvocate.com/beer/profile/353/1486/,Carlton Black,353,"Carlton & United Breweries, Ltd.",33,3.21
+52,6.20,185582,https://www.beeradvocate.com/beer/profile/41783/185582/,Two Crow Stout,41783,Old Nation Brewing Co.,33,3.54
+53,4.80,60749,https://www.beeradvocate.com/beer/profile/15669/60749/,Triple Chocoholic,15669,Saltaire Brewery Limited,31,3.79
+54,5.00,138145,https://www.beeradvocate.com/beer/profile/36744/138145/,Dandy In The Underworld Sweet Oyster Stout,36744,The Dandy Brewing Company,31,3.79
+55,4.40,18310,https://www.beeradvocate.com/beer/profile/3403/18310/,Black Gold,3403,"Cairngorm Brewery Company, The",30,4.01
+56,5.50,55535,https://www.beeradvocate.com/beer/profile/19916/55535/,Half Moon Stout,19916,Penobscot Bay Brewery,30,3.39
+57,5.00,53346,https://www.beeradvocate.com/beer/profile/5055/53346/,Ise Kadoya Stout,5055,Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery,29,2.88
+58, ? ,21666,https://www.beeradvocate.com/beer/profile/2519/21666/,Chocolate Raspberry Stout,2519,Adventure Brewing South,29,3.28
+59,6.30,20388,https://www.beeradvocate.com/beer/profile/2309/20388/,Ellis Island XXX Stout,2309,Ellis Island Casino & Brewery,29,3.26
+60, ? ,13990,https://www.beeradvocate.com/beer/profile/2695/13990/,Stonehenge Stout,2695,Bull & Bush Brewery,29,3.69
+61,5.60,6086,https://www.beeradvocate.com/beer/profile/802/6086/,XXX Total Eclipse Stout,802,The Blue Ridge Brewing Co.,29,3.74
+62,3.50,81001,https://www.beeradvocate.com/beer/profile/27273/81001/,Queen Anne,27273,Forest & Main Brewing Company,28,3.96
+63,7.20,303508,https://www.beeradvocate.com/beer/profile/24678/303508/,Velvet Stud,24678,Brewery Vivant,28,3.8
+64,4.90,83171,https://www.beeradvocate.com/beer/profile/29164/83171/,Oyster Stout,29164,HenHouse Brewing,28,4
+65,5.50,15675,https://www.beeradvocate.com/beer/profile/3534/15675/,Minoh Stout,3534,A.J.I. Beer Inc,27,3.98
+66,4.50,76430,https://www.beeradvocate.com/beer/profile/5062/76430/,Cranberry Stout,5062,Meantime Brewing Company Limited,27,3.6
+67,6.20,82651,https://www.beeradvocate.com/beer/profile/11082/82651/,Cauld Reekie,11082,Stewart Brewing Ltd,27,3.77
+68,6.60,73014,https://www.beeradvocate.com/beer/profile/13296/73014/,Mud City Stout,13296,Windsor Castle Brewery (Sadler's Ales),25,3.83
+69,5.20,16192,https://www.beeradvocate.com/beer/profile/2569/16192/,Nail Stout,2569,Nail Brewing Australia Pty Ltd,25,3.74
+70,4.00,95207,https://www.beeradvocate.com/beer/profile/5049/95207/,Dark Side,5049,Bath Ales Ltd,25,3.67
+71,5.00,108557,https://www.beeradvocate.com/beer/profile/450/108557/,La Colombe Coffee Love Stout,450,Yards Brewing Co.,24,3.97
+72,5.80,75025,https://www.beeradvocate.com/beer/profile/4748/75025/,Black Death,4748,Viking Brewery - Vifilfell Ltd.,24,3.57
+73,8.00,78947,https://www.beeradvocate.com/beer/profile/430/78947/,Kentucky Bourbon Barrel Coffee Stout,430,Alltech's Lexington Brewing and Distilling Co.,24,3.74
+74,4.10,72039,https://www.beeradvocate.com/beer/profile/801/72039/,Brains Black,801,Brains,24,3.36
+75,6.75,48064,https://www.beeradvocate.com/beer/profile/18003/48064/,Swordfish,18003,Microbrasserie Le Naufrageur,24,3.88
+76, ? ,14631,https://www.beeradvocate.com/beer/profile/8269/14631/,Coalminer's Stout,8269,Blackhorse Pub & Brewery,23,3.64
+77,3.80,125590,https://www.beeradvocate.com/beer/profile/35210/125590/,Jackie Tar,35210,MacLeod Ale Brewing Company,23,3.97
+78,5.00,63542,https://www.beeradvocate.com/beer/profile/3722/63542/,Coup De Canon,3722,"Le Bilboquet, Brasseur Artisan",21,3.52
+79,6.80,145844,https://www.beeradvocate.com/beer/profile/35612/145844/,Damon Stoutmire,35612,Ex Novo Brewing,21,3.95
+80,5.00,71373,https://www.beeradvocate.com/beer/profile/450/71373/,Love Stout (Bourbon Barrel Aged),450,Yards Brewing Co.,21,4.06
+81,4.40,88024,https://www.beeradvocate.com/beer/profile/25929/88024/,Camden Ink,25929,Camden Town Brewery,20,3.72
+82,5.90,117216,https://www.beeradvocate.com/beer/profile/34149/117216/,Thunder Dog Stout,34149,Gun Hill Brewing Company,20,4
+83,5.20,28148,https://www.beeradvocate.com/beer/profile/11599/28148/,Green Man House Stout,11599,Green Man Brewery,20,3.56
+84,5.60,101493,https://www.beeradvocate.com/beer/profile/30608/101493/,Ironbridge Wenlock Stout,30608,FreeWheel Brewing Company,19,3.9
+85,5.50,102042,https://www.beeradvocate.com/beer/profile/31624/102042/,Decadence Stout,31624,Weird Beard Brew Co.,19,3.94
+86,5.50,49368,https://www.beeradvocate.com/beer/profile/19304/49368/,Olde King Coal Stout,19304,Breaker Brewing Company,19,3.81
+87,4.60,72575,https://www.beeradvocate.com/beer/profile/26645/72575/,Rumspringa Wild Oats Stout,26645,Rumspringa Brewing Company,18,3.49
+88,6.10,158859,https://www.beeradvocate.com/beer/profile/936/158859/,Oyster Stout,936,No-Li Brewhouse,18,3.92
+89,6.20,42465,https://www.beeradvocate.com/beer/profile/16028/42465/,Three Boys Oyster Stout,16028,Three Boys Brewery,18,3.84
+90,5.00,164591,https://www.beeradvocate.com/beer/profile/9051/164591/,Stout,9051,Moor Beer Company,18,3.86
+91,18.20,191128,https://www.beeradvocate.com/beer/profile/16315/191128/,Tokio - Oak-aged With Cranberry & Jasmine,16315,BrewDog,17,3.98
+92,4.50,10154,https://www.beeradvocate.com/beer/profile/2845/10154/,Invercargill Pitch Black Black Beer,2845,Invercargill Brewery,17,3.37
+93,5.80,116655,https://www.beeradvocate.com/beer/profile/16813/116655/,Mocha Java Stout,16813,Barrio Brewing Company,17,4
+94, ? ,102183,https://www.beeradvocate.com/beer/profile/27020/102183/,Breakfast Stout,27020,Arbor Ales,16,4.02
+95,5.20,83318,https://www.beeradvocate.com/beer/profile/19865/83318/,Black Sheep Smooth Stout,19865,Brauerei Gusswerk GmbH,16,3.75
+96,5.00,13179,https://www.beeradvocate.com/beer/profile/159/13179/,Burton Bridge Bramble Stout,159,Burton Bridge Brewery,16,3.84
+97,5.20,88025,https://www.beeradvocate.com/beer/profile/664/88025/,Wells Bowman Stout,664,Wells & Young's Ltd,16,3.82
+98,4.00,48313,https://www.beeradvocate.com/beer/profile/5049/48313/,Dark Hare,5049,Bath Ales Ltd,15,3.82
+99,4.00,86223,https://www.beeradvocate.com/beer/profile/29971/86223/,Dry Stout,29971,Vault Brewing Company,15,3.71
+100,4.50,98010,https://www.beeradvocate.com/beer/profile/32445/98010/,DarkNESS,32445,Loch Ness Brewery,15,4
+101,5.60,145148,https://www.beeradvocate.com/beer/profile/11341/145148/,Tiramisu Stout,11341,Hideout Brewing Company,15,3.83
+102,6.70,148944,https://www.beeradvocate.com/beer/profile/36639/148944/,The Porter,36639,Anspach & Hobday,14,3.85
+103,11.00,195147,https://www.beeradvocate.com/beer/profile/28752/195147/,Double Shuck,28752,Tempest Brewing Company,13,4.05
+104,6.20,122992,https://www.beeradvocate.com/beer/profile/29489/122992/,Smoky Joe,29489,AleBrowar,13,3.89
+105,4.70,80020,https://www.beeradvocate.com/beer/profile/28772/80020/,Brewed Awakening,28772,The Cromarty Brewing Company,13,3.85
+106,5.80,46288,https://www.beeradvocate.com/beer/profile/4748/46288/,Íslenskur Úrvals Stout,4748,Viking Brewery - Vifilfell Ltd.,13,3.64
+107,5.50,170069,https://www.beeradvocate.com/beer/profile/40318/170069/,Stout,40318,Bere Artizanală Sikaru,12,3.43
+108,5.00,47470,https://www.beeradvocate.com/beer/profile/664/47470/,Wells London Stout,664,Wells & Young's Ltd,12,3.71
+109,10.20,200562,https://www.beeradvocate.com/beer/profile/31089/200562/,Wrath Of The Lamb,31089,Apocalypse Ale Works,12,3.64
+110,6.00,111219,https://www.beeradvocate.com/beer/profile/27920/111219/,Hoxton Stout,27920,Redchurch Brewery,12,3.86
+111,5.90,261800,https://www.beeradvocate.com/beer/profile/44454/261800/,Kofra Stout,44454,Redwell Brewing,12,3.55
+112,4.30,62934,https://www.beeradvocate.com/beer/profile/160/62934/,Paddy's Tout,160,Wychwood Brewery Company Ltd,12,3.29
+113,4.00,89332,https://www.beeradvocate.com/beer/profile/26851/89332/,Stationmaster's Stout,26851,Junction Craft Brewing,12,3.64
+114,4.40,47693,https://www.beeradvocate.com/beer/profile/394/47693/,Stoudt's Scrawny Dog,394,Stoudts Brewing Co.,11,3.83
+115,6.00,36968,https://www.beeradvocate.com/beer/profile/14662/36968/,BK,14662,Birrificio L'Olmaia,11,3.76
+116,4.10,74098,https://www.beeradvocate.com/beer/profile/801/74098/,Brains Original Stout,801,Brains,11,3.58
+117,4.10,95911,https://www.beeradvocate.com/beer/profile/25434/95911/,Rednik Stout,25434,Buxton Brewery,11,3.56
+118,4.50,199603,https://www.beeradvocate.com/beer/profile/40956/199603/,Ryklio Kavinukas (Shark’s Coffee Pot),40956,Raudonų Plytų Alaus Dirbtuvės (Brick By Brick Beer Workshop),11,3.59
+119,6.00,75464,https://www.beeradvocate.com/beer/profile/1417/75464/,Taste The Difference Celebration Ale,1417,Black Sheep Brewery PLC,11,3.91
+120,6.00,131785,https://www.beeradvocate.com/beer/profile/35209/131785/,Panty,35209,Oedipus Brewing,11,3.78
+121,4.50,17889,https://www.beeradvocate.com/beer/profile/6561/17889/,Oyster Stout,6561,Ventnor Brewery,11,3.4
+122,5.60,115170,https://www.beeradvocate.com/beer/profile/11341/115170/,Butterscotch Toffee Stout,11341,Hideout Brewing Company,11,3.61
+123,6.00,99578,https://www.beeradvocate.com/beer/profile/32013/99578/,Black Ale,32013,Prancing Pony Brewery,11,3.7
+124,6.40,157978,https://www.beeradvocate.com/beer/profile/33192/157978/,08|03 Stout (Chocolate & Orange),33192,Brew By Numbers,10,3.95
+125,6.50,101663,https://www.beeradvocate.com/beer/profile/32967/101663/,Bors Sherwood  Ale,32967,Cervisia Kft. - Győrzámolyi Serfőzde,10,3.41
+126,7.00,48705,https://www.beeradvocate.com/beer/profile/11111/48705/,Cream Stout,11111,Antares,10,3.76
+127,5.60,169298,https://www.beeradvocate.com/beer/profile/11341/169298/,Blueberry Stout,11341,Hideout Brewing Company,10,3.82
+128,5.50,113788,https://www.beeradvocate.com/beer/profile/29419/113788/,Newburgh Sally's Oyster Stout,29419,Newburgh Brewing Company,10,3.58
+129,4.50,24819,https://www.beeradvocate.com/beer/profile/701/24819/,Dry Irish Stout,701,Boundary Bay Brewery & Bistro,10,3.67
+130,7.10,243456,https://www.beeradvocate.com/beer/profile/42516/243456/,Flat White,42516,Alphabet Brewing Company,9,4.04
+131,7.20,21774,https://www.beeradvocate.com/beer/profile/501/21774/,Anker Stout,501,Delta Djakarta,9,2.99
+132,5.50,36372,https://www.beeradvocate.com/beer/profile/1467/36372/,L'Or Noir,1467,Micro-brasserie Saint-Arnould,9,3.45
+133,4.20,14896,https://www.beeradvocate.com/beer/profile/294/14896/,Scoresby Stout,294,The Great Yorkshire Brewery,9,2.98
+134,5.00,241211,https://www.beeradvocate.com/beer/profile/45045/241211/,Savin Summer Stout,45045,Dorchester Brewing Company,9,3.98
+135,4.80,93542,https://www.beeradvocate.com/beer/profile/14238/93542/,Lurcher Stout,14238,Green Jack Brewery / The Triangle Tavern,9,3.67
+136,3.90,51316,https://www.beeradvocate.com/beer/profile/2321/51316/,Craftsman Oyster Stout,2321,Craftsman Brewing Co.,9,3.63
+137,3.70,68473,https://www.beeradvocate.com/beer/profile/25383/68473/,Naale Stoutbeer,25383,Tangshan Jinbaili Brewery (Beijing Naale),9,3.08
+138, ? ,114307,https://www.beeradvocate.com/beer/profile/30405/114307/,Olde Salt Oyster Stout,30405,Champion Brewing Company,9,4.03
+139,5.40,48545,https://www.beeradvocate.com/beer/profile/18843/48545/,La Noire De Slack,18843,Brasserie Artisanale des 2 Caps,9,3.78
+140,4.50,24491,https://www.beeradvocate.com/beer/profile/11712/24491/,Whitstable Oyster Stout,11712,Whitstable Brewery,9,3.41
+141,6.10,157136,https://www.beeradvocate.com/beer/profile/35329/157136/,Asteroid,35329,Jaws Brewery,9,4.09
+142,5.00,11993,https://www.beeradvocate.com/beer/profile/3956/11993/,Shaughnessy Stout,3956,Brewsters Brewing Company & Restaurant - Oliver Square,9,3.56
+143,4.90,76531,https://www.beeradvocate.com/beer/profile/27866/76531/,Sovina Stout,27866,Os Três Cervejeiros,9,3.37
+144,8.50,111612,https://www.beeradvocate.com/beer/profile/33326/111612/,Chipped Tooth,33326,Mispillion River Brewing,9,4.06
+145,4.50,76317,https://www.beeradvocate.com/beer/profile/20039/76317/,Glencoe,20039,Black Wolf Brewery,8,3.59
+146,8.00,101191,https://www.beeradvocate.com/beer/profile/32934/101191/,Tumulus Nera,32934,De Kale Ridders,8,3.54
+147,5.30,11340,https://www.beeradvocate.com/beer/profile/5164/11340/,Black Adder,5164,Mauldons,8,3.94
+148,4.50,78697,https://www.beeradvocate.com/beer/profile/28476/78697/,Marina Mas Cremat,28476,Brewers Brothers S.l.,8,3.95
+149,2.80,92275,https://www.beeradvocate.com/beer/profile/209/92275/,Guinness Mid-Strength,209,Guinness Ltd.,8,3.28
+150,4.50,131703,https://www.beeradvocate.com/beer/profile/29749/131703/,Holy Smoke Stout,29749,Firehall Brewery,8,3.63
+151,6.00,75648,https://www.beeradvocate.com/beer/profile/23052/75648/,Straight Pipe Stout,23052,Great River Brewery,8,3.79
+152,5.00,141218,https://www.beeradvocate.com/beer/profile/35300/141218/,Peppermint Stout,35300,MacKinnon Brothers Brewing Co.,8,3.74
+153,5.50,75940,https://www.beeradvocate.com/beer/profile/25684/75940/,Reggae Stout,25684,Birrificio Indipendente Elav,8,3.61
+154,4.70,23213,https://www.beeradvocate.com/beer/profile/3409/23213/,Warlock Stout,3409,Fox And Hounds / Houston Brewery Company,8,3.59
+155,5.60,254156,https://www.beeradvocate.com/beer/profile/38735/254156/,Intertidal,38735,Devil's Purse Brewing Co.,8,3.7
+156,6.00,119247,https://www.beeradvocate.com/beer/profile/28744/119247/,Rt.1 Rye Stout,28744,Riverwalk Brewing,8,3.87
+157,5.70,74192,https://www.beeradvocate.com/beer/profile/12047/74192/,Svaneke Stout,12047,Svaneke Bryghuse,8,3.36
+158,6.20,136150,https://www.beeradvocate.com/beer/profile/32905/136150/,Max's Addiction Toffee Bar Milk Stout,32905,Infusion Brewing Co.,8,3.95
+159,6.60,199383,https://www.beeradvocate.com/beer/profile/42921/199383/,Excuse Me While I Kiss My Stout,42921,Hedonis Ambachtsbier,8,3.51
+160,6.10,13560,https://www.beeradvocate.com/beer/profile/7302/13560/,South Mountain Stout,7302,The Bobcat Café & Brewery,8,3.96
+161,5.00,28159,https://www.beeradvocate.com/beer/profile/11174/28159/,Caballero Aguila 100% Malta,11174,Cerveceria Mexicana S.A. De C.V.,8,3.86
+162,6.80,79360,https://www.beeradvocate.com/beer/profile/26613/79360/,Cirilo,26613,Cervejaria Seasons,7,3.67
+163,4.90,98567,https://www.beeradvocate.com/beer/profile/28387/98567/,Heartless Chocolate Stout,28387,RedWillow Brewery,7,3.61
+164,4.60,33293,https://www.beeradvocate.com/beer/profile/14622/33293/,Molly's Chocolate Stout,14622,College Green Brewery,7,3.02
+165,5.50,173852,https://www.beeradvocate.com/beer/profile/11882/173852/,Barley Fife,11882,Round Barn Brewery,7,3.82
+166,6.00,326434,https://www.beeradvocate.com/beer/profile/1880/326434/,Match+Maker Chocolate Strawberry Valentine Stout,1880,Empyrean Brewing Company,7,3.72
+167,6.70,121925,https://www.beeradvocate.com/beer/profile/26990/121925/,Mother Shucker,26990,NoDa Brewing Company,7,4.03
+168,6.40,216153,https://www.beeradvocate.com/beer/profile/24678/216153/,Wolven Stout,24678,Brewery Vivant,7,3.61
+169, ? ,117085,https://www.beeradvocate.com/beer/profile/2482/117085/,Clocktower Oyster Stout,2482,The Clocktower Brew Pub - Glebe,7,3.5
+170,5.00,25954,https://www.beeradvocate.com/beer/profile/9865/25954/,Shaughnessy Stout,9865,Brewsters Brewing Company & Restaurant - Lake Bonavista,7,3.7
+171,6.30,143466,https://www.beeradvocate.com/beer/profile/34108/143466/,Cassius Stout,34108,Kabinet Brewery,7,3.6
+172,4.50,85631,https://www.beeradvocate.com/beer/profile/6577/85631/,Titanic Cappuccino Stout,6577,Titanic Brewery,7,3.95
+173,5.00,51342,https://www.beeradvocate.com/beer/profile/9771/51342/,Harringtons Clydesdale Stout,9771,Harringtons Brewery,7,3.61
+174,4.50,67489,https://www.beeradvocate.com/beer/profile/12949/67489/,Working Man's Stout,12949,Barley Days Brewery,7,3.47
+175,6.00,22714,https://www.beeradvocate.com/beer/profile/11057/22714/,Vestfyen Willemoes Stout,11057,Bryggeriet Vestfyen,7,3.58
+176,5.00,160490,https://www.beeradvocate.com/beer/profile/34302/160490/,Silkie Stout,34302,Loch Lomond Brewery,7,3.81
+177,4.41,145131,https://www.beeradvocate.com/beer/profile/34005/145131/,Old Adobe Stout,34005,Petaluma Hills Brewing Company,7,3.52
+178,4.90,34805,https://www.beeradvocate.com/beer/profile/9996/34805/,Clair De Lune,9996,Multi-Brasses,7,3.4
+179,5.50,260887,https://www.beeradvocate.com/beer/profile/39925/260887/,Cold Front,39925,Bearded Iris Brewing,6,3.75
+180,6.00,87850,https://www.beeradvocate.com/beer/profile/666/87850/,Southern Clam,666,The Emerson Brewing Company,6,3.91
+181,6.50,74286,https://www.beeradvocate.com/beer/profile/6045/74286/,Coffee Stout,6045,Iron Hill Brewery & Restaurant,6,4.02
+182,5.50,100144,https://www.beeradvocate.com/beer/profile/32859/100144/,Nostradamus Stout,32859,Cervejaria Dortmund,6,3.37
+183,6.70,25675,https://www.beeradvocate.com/beer/profile/5910/25675/,Jamesport Nitro Stout,5910,Jamesport Brewing Company Inc.,6,3.96
+184,4.10,80996,https://www.beeradvocate.com/beer/profile/23394/80996/,Cheshire Black,23394,Robinsons Family Brewers,6,3.61
+185,4.80,240494,https://www.beeradvocate.com/beer/profile/44928/240494/,Tipsy Vicar Stout,44928,Barrow Brewing Company,6,3.64
+186,6.00,238465,https://www.beeradvocate.com/beer/profile/103/238465/,Summer Recess,103,"Middle Ages Brewing Co., Ltd.",6,3.74
+187,5.00,85922,https://www.beeradvocate.com/beer/profile/6901/85922/,Treacle Stout,6901,Ossett Brewing Company,6,3.24
+188,4.80,134565,https://www.beeradvocate.com/beer/profile/46/134565/,Dark Dunter,46,Broughton Ales Ltd,6,3.42
+189,10.00,334758,https://www.beeradvocate.com/beer/profile/24299/334758/,Mr. Brown 2018,24299,To Øl,6,4.16
+190,5.70,22962,https://www.beeradvocate.com/beer/profile/9816/22962/,Mors Stout,9816,Bryggeriet Refsvindinge,6,3.54
+191,6.00,10439,https://www.beeradvocate.com/beer/profile/4888/10439/,T'Owd Tup,4888,Dent Brewery,6,3.12
+192,3.80,83151,https://www.beeradvocate.com/beer/profile/5204/83151/,Black Gold,5204,Castle Rock Brewery,6,3.48
+193,5.50,110289,https://www.beeradvocate.com/beer/profile/29487/110289/,Vanilla Stout,29487,The Old Mill at Ashton / Ashton Brewing Company,6,3.23
+194,4.50,98514,https://www.beeradvocate.com/beer/profile/427/98514/,Tesco Simply Stout,427,"Marston, Thompson & Evershed, Plc.",6,3.36
+195,5.30,162569,https://www.beeradvocate.com/beer/profile/31746/162569/,Blackbeerd,31746,Forked River Brewing Company,5,3.97
+196,4.60,94737,https://www.beeradvocate.com/beer/profile/27020/94737/,Oyster Stout,27020,Arbor Ales,5,3.63
+197,4.90,107297,https://www.beeradvocate.com/beer/profile/20766/107297/,Oyster Stout,20766,Greenport Harbor Brewing Company,5,3.4
+198,4.50,46377,https://www.beeradvocate.com/beer/profile/14100/46377/,Black Pearl,14100,Wooden Hand Brewery,5,4
+199,4.00,46889,https://www.beeradvocate.com/beer/profile/12936/46889/,Rhymney Dark,12936,Rhymney Brewery,5,3.78
+200,5.00,237100,https://www.beeradvocate.com/beer/profile/45649/237100/,Dark Harbor Oyster Stout,45649,Atwood Ales,5,3.94
+201,5.00,284730,https://www.beeradvocate.com/beer/profile/48451/284730/,Mineside Stout,48451,Canmore Brewing Company,5,3.85
+202,5.00,52287,https://www.beeradvocate.com/beer/profile/16863/52287/,Wapping Stout,16863,Wapping Beers Ltd.,5,3.43
+203,5.50,187457,https://www.beeradvocate.com/beer/profile/18223/187457/,Agram Stout,18223,Pivnica Medvedgrad Adijina,5,3.66
+204,7.00,93001,https://www.beeradvocate.com/beer/profile/28753/93001/,Dirty Pearl Oyster Stout,28753,Bunker Brewing Co.,5,3.75
+205, ? ,146507,https://www.beeradvocate.com/beer/profile/98/146507/,Gosh Yam It,98,Harpoon Brewery & Beer Hall,5,3.66
+206, ? ,52811,https://www.beeradvocate.com/beer/profile/20728/52811/,BrowArmia Stout,20728,Browarmia Królewkska,5,3.64
+207,5.50,107858,https://www.beeradvocate.com/beer/profile/33155/107858/,Stout,33155,Pivovarna Pelicon,5,3.48
+208,5.00,17764,https://www.beeradvocate.com/beer/profile/159/17764/,Burton Bridge Top Dog Stout,159,Burton Bridge Brewery,5,3.99
+209,5.50,47219,https://www.beeradvocate.com/beer/profile/5489/47219/,Black Bear Stout,5489,Big Bear Brewing Company,5,3.53
+210,6.60,130431,https://www.beeradvocate.com/beer/profile/21865/130431/,Noire,21865,Ninkasi Fabriques,5,3.43
+211, ? ,99976,https://www.beeradvocate.com/beer/profile/29395/99976/,Hogs Extra Stout,29395,Hogshead Brewery,5,3.63
+212,7.40,247690,https://www.beeradvocate.com/beer/profile/46977/247690/,St. David's Stout,46977,Red Dragon Brewery,5,3.68
+213,4.50,61599,https://www.beeradvocate.com/beer/profile/649/61599/,Arran Clyde Puffer,649,Isle of Arran Brewery Company Ltd.,5,3.74
+214,5.20,76727,https://www.beeradvocate.com/beer/profile/4670/76727/,Pikes Genuine Stout,4670,Oakbank Brewing,5,3.33
+215,4.50,230592,https://www.beeradvocate.com/beer/profile/6984/230592/,Mena Dhu Stout,6984,St. Austell Brewery,5,3.94
+216,4.90,105923,https://www.beeradvocate.com/beer/profile/26560/105923/,Stout,26560,Nexus Brewery,5,3.61
+217,5.70,216776,https://www.beeradvocate.com/beer/profile/30948/216776/,Stout,30948,Crate Brewery,5,3.57
+218, ? ,30670,https://www.beeradvocate.com/beer/profile/5489/30670/,Chocolate Stout,5489,Big Bear Brewing Company,5,3.84
+219, ? ,32731,https://www.beeradvocate.com/beer/profile/2792/32731/,Stonehead Stout,2792,Phantom Canyon Brewing Company,5,3.17
+220,4.80,99808,https://www.beeradvocate.com/beer/profile/11753/99808/,La Mac Vertus,11753,Brasserie Artisanale Millevertus De Toernich,5,3.47
+221,4.50,91361,https://www.beeradvocate.com/beer/profile/28243/91361/,Kitty Wilkinson Chocolate And Vanilla Stout,28243,Liverpool Organic Brewery,5,3.43
+222,5.00,105960,https://www.beeradvocate.com/beer/profile/27802/105960/,Mont Salève Oyster Stout,27802,Brasserie Du Mont Salève,5,3.7
+223, ? ,51700,https://www.beeradvocate.com/beer/profile/20176/51700/,Wartmann's - No.  3 Choco Stout,20176,Brauhaus Sternen AG,5,3.93
+224,5.80,77303,https://www.beeradvocate.com/beer/profile/24411/77303/,Fuggit Stout,24411,The Bier Brewery,5,3.86
+225,5.00,96509,https://www.beeradvocate.com/beer/profile/32109/96509/,Madalena Stout,32109,Cervejaria Premium Paulista,5,3.3
+226,4.50,66559,https://www.beeradvocate.com/beer/profile/6577/66559/,Morrisons Chocolate And Vanilla Stout,6577,Titanic Brewery,5,3.74
+227,4.20,92432,https://www.beeradvocate.com/beer/profile/12142/92432/,Black Ball Stout,12142,Williams Brothers Brewing Company,4,3.64
+228,4.40,78353,https://www.beeradvocate.com/beer/profile/27531/78353/,Gathering Storm,27531,Leeds Brewery,4,3.52
+229, ? ,22547,https://www.beeradvocate.com/beer/profile/4509/22547/,Steamboat Stout,4509,Wellingtons Pub & Grill,4,2.44
+230,7.50,204823,https://www.beeradvocate.com/beer/profile/39383/204823/,Naughty & Nice ,39383,Vocation Brewery,4,4.11
+231, ? ,46620,https://www.beeradvocate.com/beer/profile/1289/46620/,Chocolate Stout,1289,The Ship Inn,4,3.56
+232, ? ,41757,https://www.beeradvocate.com/beer/profile/343/41757/,Two Patrick Stout,343,"Jasper Murdock’s Alehouse, Dining Room & Microbrewery (The Norwich Inn)",4,3.99
+233,4.50,35617,https://www.beeradvocate.com/beer/profile/14000/35617/,Farmers Stout,14000,Bradfield Brewery,4,3.26
+234,6.00,111142,https://www.beeradvocate.com/beer/profile/19612/111142/,Bukstar,19612,Brouwerij 't Brouwkot,4,3.27
+235,4.60,142887,https://www.beeradvocate.com/beer/profile/6695/142887/,Marstons Stout (for Wm Morrisons),6695,Marston's PLC,4,3.11
+236,5.00,91433,https://www.beeradvocate.com/beer/profile/25943/91433/,Ginger Doodle Stout,25943,Binghams Brewery,4,3.25
+237,5.10,118577,https://www.beeradvocate.com/beer/profile/34207/118577/,Sinner Stout,34207,Absolution Brewing Company,4,4.05
+238,5.00,23607,https://www.beeradvocate.com/beer/profile/11338/23607/,Ozeno Yukidoke Black,11338,"Ryujin Shuzo Co,. Ltd.",4,4.04
+239,6.00,224076,https://www.beeradvocate.com/beer/profile/45049/224076/,Blow Out Stout,45049,GP Brewing Co.,4,3.8
+240,8.50,217936,https://www.beeradvocate.com/beer/profile/524/217936/,Van Vollenhoven & Co's Extra Stout,524,Bierbrouwerij De Schans,4,3.27
+241,5.90,179536,https://www.beeradvocate.com/beer/profile/32312/179536/,Bikelane,32312,Crank Arm Brewing,4,3.74
+242,5.70,120401,https://www.beeradvocate.com/beer/profile/3450/120401/,Karnera,3450,Birrificio Cittavecchia,4,3.62
+243,6.70,42850,https://www.beeradvocate.com/beer/profile/13299/42850/,Orange Chocolate Stout,13299,Cambridge Moonshine Brewery,4,4.16
+244,6.20,112999,https://www.beeradvocate.com/beer/profile/23344/112999/,HIll City Stout,23344,Chattanooga Brewing Company,4,3.78
+245,5.50,115048,https://www.beeradvocate.com/beer/profile/33310/115048/,Carniola Stout,33310,Carniola Brewery,4,3.39
+246,5.40,108931,https://www.beeradvocate.com/beer/profile/22276/108931/,Jamaican Stout,22276,Brodie's,4,4.15
+247,4.70,217479,https://www.beeradvocate.com/beer/profile/17033/217479/,Franconia English Stout,17033,Franconia Brewing Company,4,3.87
+248,5.80,72075,https://www.beeradvocate.com/beer/profile/26632/72075/,La Schwortz,26632,Matten,4,3.76
+249,6.40,156817,https://www.beeradvocate.com/beer/profile/63/156817/,Smoking On The Dock,63,Deschutes Brewery,4,4.26
+250,5.20,229526,https://www.beeradvocate.com/beer/profile/30608/229526/,Wenlock Stout,30608,FreeWheel Brewing Company,4,3.49
+251,5.00,84122,https://www.beeradvocate.com/beer/profile/13029/84122/,Pollards,13029,Thornbridge Brewery,4,3.69
+252,3.50,136094,https://www.beeradvocate.com/beer/profile/894/136094/,ICA Selection Stout,894,Nils Oscar,4,3.26
+253,4.50,250785,https://www.beeradvocate.com/beer/profile/46180/250785/,Sayer's Stout,46180,The London Beer Factory,4,3.42
+254,9.30,309674,https://www.beeradvocate.com/beer/profile/6970/309674/,Zwarte Madam Blackout XXX,6970,Brouwerij Den Hopperd,4,3.54
+255,5.20,130474,https://www.beeradvocate.com/beer/profile/29297/130474/,Cannonball Rye Stout,29297,Iechyd Da Brewing Company,4,3.85
+256,4.70,289963,https://www.beeradvocate.com/beer/profile/49615/289963/,Pitch & Pray Series: Stout,49615,Godspeed Brewery,4,4.01
+257,8.20,72114,https://www.beeradvocate.com/beer/profile/954/72114/,Black Ale,954,Thisted Bryghus,4,3.75
+258,6.80,55477,https://www.beeradvocate.com/beer/profile/21680/55477/,English Dark Stout,21680,Stensbogaard Bryghus,4,3.9
+259,4.20,95419,https://www.beeradvocate.com/beer/profile/16324/95419/,Sneaky Wee Orkney Stout,16324,Swannay Brewery,4,3.77
+260,6.00,33723,https://www.beeradvocate.com/beer/profile/14017/33723/,Dark Side Of The Moon Stout,14017,Brew Moon Brewing Company,4,3.69
+261,4.00,16574,https://www.beeradvocate.com/beer/profile/3366/16574/,Pitfield Shoreditch Stout,3366,Pitfield Organic Brewery,4,3.4
+262,6.70,137928,https://www.beeradvocate.com/beer/profile/29059/137928/,Oysterhead,29059,DryHop Brewers,4,4.22
+263,6.60,271048,https://www.beeradvocate.com/beer/profile/41760/271048/,Safe Deposit Stout,41760,Man Skirt Brewing,4,4.41
+264,4.30,77258,https://www.beeradvocate.com/beer/profile/24074/77258/,Jem's Stout,24074,Great Newsome Brewery,4,3.51
+265,6.00,218570,https://www.beeradvocate.com/beer/profile/44173/218570/,Zé Arnaldo,44173,Oitava Colina,4,4.1
+266,4.40,295885,https://www.beeradvocate.com/beer/profile/38745/295885/,Shadow Skills,38745,Fieldwork Brewing Co.,4,4.04
+267,4.50,50127,https://www.beeradvocate.com/beer/profile/11385/50127/,"""Stout Stoat"" Stout",11385,Salamander Brewing Company,4,4.11
+268,6.00,33756,https://www.beeradvocate.com/beer/profile/14264/33756/,Raasted Stout,14264,Raasted & Randers Bryghus A/S,4,2.84
+269,11.20,314332,https://www.beeradvocate.com/beer/profile/764/314332/,Barrel-Aged Oyster Stout,764,Blue Point Brewing Company,4,4
+270,6.50,95199,https://www.beeradvocate.com/beer/profile/1140/95199/,Oliver's The Ripper (Victorian Stout),1140,Pratt Street Ale House,4,4.2
+271,5.20,44767,https://www.beeradvocate.com/beer/profile/18156/44767/,Iron Stout,18156,Bali Storm Brewing Company,4,3.4
+272,6.10,29921,https://www.beeradvocate.com/beer/profile/4067/29921/,Genius Stout,4067,Fordham Brewing Company,4,3.96
+273,6.30,211939,https://www.beeradvocate.com/beer/profile/44016/211939/,Mishabooz,44016,Ypsi Alehouse,4,3.78
+274,9.20,195816,https://www.beeradvocate.com/beer/profile/19606/195816/,Mr. Petroli,19606,Ca l'Arenys / Cervesa Guineu,4,4.14
+275,5.90,12779,https://www.beeradvocate.com/beer/profile/1653/12779/,Mr Perrett's Traditional Stout,1653,Wickwar Brewing Company,4,3.74
+276,4.00,79084,https://www.beeradvocate.com/beer/profile/2976/79084/,Black Ajax Stout,2976,Pints Pub,4,3.23
+277,7.50,278510,https://www.beeradvocate.com/beer/profile/2431/278510/,Eichbaum Extra Stout,2431,Privatbrauerei Eichbaum GmbH & Co. KG,4,3.46
+278,4.20,150273,https://www.beeradvocate.com/beer/profile/5171/150273/,Black Bishop,5171,Durham Brewery Ltd,3,3.83
+279,4.00,71685,https://www.beeradvocate.com/beer/profile/14160/71685/,Stout,14160,Freedom Brewery Ltd,3,3.44
+280,4.00,67590,https://www.beeradvocate.com/beer/profile/2749/67590/,125 Celebratory Stout,2749,Wadworth and Company Ltd.,3,3.09
+281,5.00,96011,https://www.beeradvocate.com/beer/profile/30555/96011/,L'Insoumise,30555,La Brasserie du Chauve,3,4.16
+282,4.00,196882,https://www.beeradvocate.com/beer/profile/2479/196882/,Bohemia Oito E Um,2479,Antarctica (Companhia Brasileira De Bebidas),3,3.5
+283,3.90,126234,https://www.beeradvocate.com/beer/profile/35210/126234/,Barclay Perkins 1941,35210,MacLeod Ale Brewing Company,3,4.11
+284,5.10,153372,https://www.beeradvocate.com/beer/profile/19102/153372/,Darkness,19102,The Exeter Brewery Ltd.,3,3.6
+285,7.00,48416,https://www.beeradvocate.com/beer/profile/16395/48416/,Happy Goblin Stout,16395,Happy Goblin Brewery,3,2.51
+286,5.20,138787,https://www.beeradvocate.com/beer/profile/34740/138787/,Liberty Stout,34740,Browar Widawa Gospoda Pod Czarnym Kurem S.c.,3,3.39
+287,4.20,216099,https://www.beeradvocate.com/beer/profile/28747/216099/,Dougall's Session Stout,28747,Cerveza DouGall's,3,3.05
+288,5.40,246313,https://www.beeradvocate.com/beer/profile/43860/246313/,Olde Empire,43860,Castle Rock Beer Co.,3,3.7
+289,5.00,91434,https://www.beeradvocate.com/beer/profile/25943/91434/,Coffee Stout,25943,Binghams Brewery,3,3.58
+290,4.30,14127,https://www.beeradvocate.com/beer/profile/779/14127/,Adnams Oyster Stout,779,"Adnams plc, Sole Bay Brewery",3,4.2
+291,4.10,201520,https://www.beeradvocate.com/beer/profile/43260/201520/,Big Cypress Stout,43260,Riptide Brewing Company,3,3.3
+292,4.50,12850,https://www.beeradvocate.com/beer/profile/6892/12850/,Edwin Taylor's Extra Stout,6892,B&T Brewery Limited (Banks and Taylor),3,3.31
+293,5.20,178231,https://www.beeradvocate.com/beer/profile/36908/178231/,Cherry Stout,36908,Tyne Bank Brewery Ltd.,3,3.61
+294,6.00,219970,https://www.beeradvocate.com/beer/profile/44702/219970/,Pulpo,44702,Cervecería 7 Mares,3,3.51
+295,4.50,73028,https://www.beeradvocate.com/beer/profile/15191/73028/,Tar Bal'l,15191,Allendale Brew Company Limited,3,2.85
+296,6.70,82259,https://www.beeradvocate.com/beer/profile/27136/82259/,Piano Bridge Stout,27136,Bullant Brewery,3,2.95
+297,4.50,71765,https://www.beeradvocate.com/beer/profile/5108/71765/,Black,5108,Niigata Beer Co.,3,2.7
+298,4.00,288086,https://www.beeradvocate.com/beer/profile/33192/288086/,08|07 - Stout - Coffee & Milk,33192,Brew By Numbers,3,3.45
+299,5.90,242008,https://www.beeradvocate.com/beer/profile/46249/242008/,5W30,46249,Brasserie Étienne Brûlé,3,3.75
+300,6.00,248152,https://www.beeradvocate.com/beer/profile/11341/248152/,Hazelnut Java Cement Shoe Stout,11341,Hideout Brewing Company,3,3.66
+301,6.50,93274,https://www.beeradvocate.com/beer/profile/586/93274/,Olde London Stout,586,Martha's Exchange,3,3.75
+302,6.40,108124,https://www.beeradvocate.com/beer/profile/32636/108124/,Little Czar,32636,Hi-Fi Brewing Co.,3,3.61
+303,3.80,92509,https://www.beeradvocate.com/beer/profile/31060/92509/,Blackberry Stout,31060,The Waen Brewery,3,3.97
+304, ? ,182109,https://www.beeradvocate.com/beer/profile/32228/182109/,Permon Stout,32228,Pivovar Permon,3,3.78
+305,4.50,79972,https://www.beeradvocate.com/beer/profile/11326/79972/,Cromwell Stout,11326,Bowland Beer Company Limited,3,3.72
+306,6.10,138601,https://www.beeradvocate.com/beer/profile/33277/138601/,Dogs Out Stout,33277,Uncle Bear's Brewery,3,3.5
+307,5.00,132203,https://www.beeradvocate.com/beer/profile/34892/132203/,Oatmeal Stout,34892,Peerless Brewing Company,3,3.48
+308,4.50,77422,https://www.beeradvocate.com/beer/profile/7898/77422/,Milk Chocolate Stout,7898,Dark Star Brewing Company Limited,3,3.74
+309,6.00,106864,https://www.beeradvocate.com/beer/profile/27041/106864/,Black Jack,27041,Hunter's Brewery,3,4.04
+310,4.10,242288,https://www.beeradvocate.com/beer/profile/23394/242288/,Unicorn Black,23394,Robinsons Family Brewers,3,3.55
+311,7.00,107894,https://www.beeradvocate.com/beer/profile/31060/107894/,Snowball,31060,The Waen Brewery,3,3.68
+312,5.70,273794,https://www.beeradvocate.com/beer/profile/2587/273794/,Sleeping Buffalo Stout,2587,The Grizzly Paw Brewing Company,3,3.89
+313,7.00,102787,https://www.beeradvocate.com/beer/profile/32533/102787/,PBC Montinera,32533,Piccolo Birrificio Clandestino,3,3.29
+314,4.20,45699,https://www.beeradvocate.com/beer/profile/18188/45699/,Stout,18188,Dunham Massey Brewing Company,3,3.89
+315,5.00,41614,https://www.beeradvocate.com/beer/profile/3081/41614/,Haywards Black,3081,Shaw Wallace & Company Ltd.,3,3.27
+316,4.70,201873,https://www.beeradvocate.com/beer/profile/23249/201873/,Dry Stout Citra,23249,The Kernel Brewery,3,4.26
+317,6.00,253077,https://www.beeradvocate.com/beer/profile/46718/253077/,Chocolate Thunder,46718,Collusion Tap Works,3,3.96
+318,6.80,183204,https://www.beeradvocate.com/beer/profile/39126/183204/,Papan Vanillastout,39126,Pyynikin Käsityöläispanimo,3,3.87
+319,5.00,44711,https://www.beeradvocate.com/beer/profile/9275/44711/,Panther Ginseng Stout,9275,PT Bali Hai Brewery Indonesia,3,2.78
+320,5.10,142001,https://www.beeradvocate.com/beer/profile/17097/142001/,Sommerspirets Lakrids Stout,17097,Bryghuset Møn,3,4.21
+321,6.00,228275,https://www.beeradvocate.com/beer/profile/45370/228275/,Stout,45370,El Príncipe Gris Cervecería Artesanal,3,3.82
+322,5.60,283837,https://www.beeradvocate.com/beer/profile/45678/283837/,Colonel Oats,45678,Chapman Crafted Beer,3,3.76
+323,4.50,76991,https://www.beeradvocate.com/beer/profile/8560/76991/,Conqueror - Sussex Stout,8560,Hepworth & Co. (Brewers) Ltd.,3,3.44
+324,6.00,244418,https://www.beeradvocate.com/beer/profile/26942/244418/,Jack,26942,Cervecería Jack,3,2.76
+325,5.00,48580,https://www.beeradvocate.com/beer/profile/17213/48580/,Anastasia's Exile Stout,17213,Ascot Ales,3,3.89
+326,5.50,291781,https://www.beeradvocate.com/beer/profile/29971/291781/,Extra Stout,29971,Vault Brewing Company,3,3.88
+327,6.70,282567,https://www.beeradvocate.com/beer/profile/43390/282567/,Current Mood,43390,Cloudburst Brewing,3,3.95
+328,4.40,105927,https://www.beeradvocate.com/beer/profile/23742/105927/,Old Wavertonian,23742,Spitting Feathers Brewery,3,3.68
+329,5.30,204745,https://www.beeradvocate.com/beer/profile/37597/204745/,Penton Ville,37597,Hammerton,3,3.93
+330,5.40,285391,https://www.beeradvocate.com/beer/profile/37092/285391/,Changwon Express Chao Phraya Stout,37092,The Hand and Malt Brewing Company,3,3.64
+331,4.00,51663,https://www.beeradvocate.com/beer/profile/15192/51663/,Chocolate Orange Stout,15192,Amber Ales Limited,3,4.19
+332, ? ,104662,https://www.beeradvocate.com/beer/profile/5275/104662/,Sinful Stout,5275,Front Street Brewery,3,4.31
+333, ? ,57047,https://www.beeradvocate.com/beer/profile/13271/57047/,Biere Noire,13271,Les Brasseurs,3,3.76
+334,4.20,53464,https://www.beeradvocate.com/beer/profile/10370/53464/,Black Mari'a,10370,Old Bear Brewery,3,3.64
+335,4.50,275418,https://www.beeradvocate.com/beer/profile/39308/275418/,Wake Of The Medusa,39308,Medusa Brewing Company,3,3.94
+336,8.50,226525,https://www.beeradvocate.com/beer/profile/36476/226525/,Orange Is Black,36476,Brussels Beer Project,3,3.66
+337,6.00,196834,https://www.beeradvocate.com/beer/profile/31102/196834/,Ténébreuse,31102,Brasserie Docteur Gab’s,3,3.72
+338,6.10,239844,https://www.beeradvocate.com/beer/profile/33707/239844/,Oyster Stout,33707,Tributary Brewing Co.,3,4.19
+339,5.20,44778,https://www.beeradvocate.com/beer/profile/16082/44778/,Steam Exchange Stout,16082,Steam Exchange Brewery,3,3.07
+340,4.70,254703,https://www.beeradvocate.com/beer/profile/3411/254703/,Ghost Stout,3411,Fyne Ales Ltd,3,3.29
+341,4.90,87800,https://www.beeradvocate.com/beer/profile/21832/87800/,Guerrilla,21832,Blue Monkey Brewery,3,3.92
+342,4.40,82427,https://www.beeradvocate.com/beer/profile/18852/82427/,Stout,18852,The Three Tuns Brewery,3,4.08
+343,4.50,151291,https://www.beeradvocate.com/beer/profile/2807/151291/,Oatmeal Stout,2807,Microbrasserie Charlevoix,3,3.79
+344, ? ,60416,https://www.beeradvocate.com/beer/profile/16301/60416/,Kaffe Stout,16301,Bryggeri Skovlyst,2,2.57
+345,6.00,125185,https://www.beeradvocate.com/beer/profile/27029/125185/,Braveheart Stout,27029,Soo Brewing Company,2,3.84
+346,6.70,206594,https://www.beeradvocate.com/beer/profile/3522/206594/,Den Zwarte Sinjoor,3522,Huisbrouwerij 't Pakhuis,2,3.75
+347,5.00,247557,https://www.beeradvocate.com/beer/profile/41206/247557/,Stab In The Dark,41206,Black Iris Brewery,2,4.17
+348,5.30,118535,https://www.beeradvocate.com/beer/profile/34422/118535/,Rothhammer Bones Of Oak Stout,34422,Microcervecería Rothhammer (Handwerk Brewers Chile S.A.),2,3.87
+349,7.00,118794,https://www.beeradvocate.com/beer/profile/22276/118794/,Oyster Tea Stout,22276,Brodie's,2,3.88
+350,5.50,165907,https://www.beeradvocate.com/beer/profile/38585/165907/,Scripps Pier Oyster Stout,38585,South Park Brewing,2,3.77
+351,4.50,79893,https://www.beeradvocate.com/beer/profile/13029/79893/,Pica Pica,13029,Thornbridge Brewery,2,4
+352,5.80,47126,https://www.beeradvocate.com/beer/profile/9880/47126/,Mandrin à La Réglisse,9880,Brasserie Artisanale Du Dauphiné,2,3.14
+353,6.00,151831,https://www.beeradvocate.com/beer/profile/5055/151831/,Ise Kadoya Uramura Kaki Stout,5055,Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery,2,4.1
+354,8.00,145435,https://www.beeradvocate.com/beer/profile/479/145435/,London Keeper,479,Truman's,2,4.1
+355,4.50,172827,https://www.beeradvocate.com/beer/profile/6577/172827/,Extra Dry Stout,6577,Titanic Brewery,2,3.29
+356,4.50,301597,https://www.beeradvocate.com/beer/profile/427/301597/,Cherry Head,427,"Marston, Thompson & Evershed, Plc.",2,3.65
+357,3.80,42018,https://www.beeradvocate.com/beer/profile/188/42018/,Chocolate Drop,188,The Caledonian Brewing Company,2,3.86
+358,2.00,98087,https://www.beeradvocate.com/beer/profile/28772/98087/,2 Craigs,28772,The Cromarty Brewing Company,2,2.38
+359,5.00,46375,https://www.beeradvocate.com/beer/profile/16418/46375/,Blackwood Stout,16418,Grain Brewery,2,3.77
+360,5.60,87336,https://www.beeradvocate.com/beer/profile/30324/87336/,Saint Bier Stout,30324,Cervejaria Santa Catarina Ltda (Saint Bier),2,3.61
+361,5.70,245801,https://www.beeradvocate.com/beer/profile/36666/245801/,Khartoum Stout,36666,Sundbybergs Köksbryggeri,2,3.13
+362,4.50,106543,https://www.beeradvocate.com/beer/profile/30956/106543/,Zig Zag,30956,The Griffin / Milk Street Brewery,2,3.62
+363,4.70,28213,https://www.beeradvocate.com/beer/profile/11395/28213/,Tea Kettle Stout,11395,Tring Brewery Company Ltd.,2,3.78
+364, ? ,167991,https://www.beeradvocate.com/beer/profile/6695/167991/,Revisionist Stout,6695,Marston's PLC,2,3.69
+365,4.60,323383,https://www.beeradvocate.com/beer/profile/30540/323383/,Jimmy Skimmed,30540,Kompaan Bier,2,3.13
+366,5.00,218168,https://www.beeradvocate.com/beer/profile/44580/218168/,Stout,44580,Gentile Brewing Company,2,3.77
+367,5.50,38969,https://www.beeradvocate.com/beer/profile/884/38969/,Bête Noire Hirisk Stout,884,Kelham Island Brewery,2,3.93
+368, ? ,173629,https://www.beeradvocate.com/beer/profile/14484/173629/,3rd Street Coffee Stout,14484,Shamrock Brewing Co.,2,4.03
+369,5.10,91454,https://www.beeradvocate.com/beer/profile/28395/91454/,Smelter's Stout,28395,Kissingate Brewery,2,4
+370,5.20,65086,https://www.beeradvocate.com/beer/profile/16879/65086/,Paddys Head Stout,16879,IronHouse Brewery,2,2.78
+371,4.40,251713,https://www.beeradvocate.com/beer/profile/6984/251713/,6 Malt Cornish Stout,6984,St. Austell Brewery,2,3.48
+372,12.40,118600,https://www.beeradvocate.com/beer/profile/30625/118600/,None Of Your Business,30625,Nevin's Brewing Company,2,3
+373,6.50,101966,https://www.beeradvocate.com/beer/profile/31909/101966/,Stout Bruintje,31909,Brouwerij Eutropius,2,2.52
+374,4.20,19535,https://www.beeradvocate.com/beer/profile/1897/19535/,Coreff Stout,1897,Brasserie Coreff,2,3.43
+375,6.20,168783,https://www.beeradvocate.com/beer/profile/30632/168783/,Beagle Fuegian Cream Stout,30632,Cerveza Artesanal Beagle,2,3.65
+376,5.60,173138,https://www.beeradvocate.com/beer/profile/40601/173138/,Królewskie Tajemnice,40601,Jan Olbracht Browar Rzemieślniczy,2,3.79
+377,6.00,206931,https://www.beeradvocate.com/beer/profile/43407/206931/,Black Creek Stout,43407,R.S. Taylor & Sons Brewing,2,3.93
+378,5.10,87124,https://www.beeradvocate.com/beer/profile/23648/87124/,Wenlock Stout,23648,Ironbridge Brewery,2,4.12
+379,6.40,237397,https://www.beeradvocate.com/beer/profile/44312/237397/,Storm Bounty Oyster Stout,44312,Big Storm Brewing Co. - Pinellas Taproom,2,3.88
+380,5.30,64855,https://www.beeradvocate.com/beer/profile/9417/64855/,Russian Winter,9417,Itchen Valley Brewery Ltd,2,4.45
+381,5.00,264537,https://www.beeradvocate.com/beer/profile/35562/264537/,Wild Beast Stout,35562,Wild Beast Brewery,2,3.75
+382,5.50,60252,https://www.beeradvocate.com/beer/profile/22007/60252/,Jubilee,22007,Kirkby Lonsdale Brewery Co Ltd,2,4.12
+383,5.50,214367,https://www.beeradvocate.com/beer/profile/25051/214367/,Beer 101: Stout,25051,First Draft - Niagara College Teaching Brewery,2,3.4
+384, ? ,200288,https://www.beeradvocate.com/beer/profile/42800/200288/,Salvia Stout 14° / Šalvějový Stout,42800,Pivovar U Dobřenských,2,3.72
+385,4.50,75107,https://www.beeradvocate.com/beer/profile/21112/75107/,Black Knight,21112,Ludlow Brewing Company,2,3.68
+386,4.70,135012,https://www.beeradvocate.com/beer/profile/36407/135012/,Grain Noir,36407,La Bière des Gardians,2,3.89
+387,4.50,133480,https://www.beeradvocate.com/beer/profile/36090/133480/,Nääs Stout,36090,Nääs Gårdsbryggeri AB,2,3.63
+388,5.00,12393,https://www.beeradvocate.com/beer/profile/18881/12393/,Usaquen Stout,18881,Bogota Beer Company,2,3.54
+389,5.20,162665,https://www.beeradvocate.com/beer/profile/37180/162665/,Stout Porter,37180,Seven Bro7hers,2,3.41
+390,4.20,49773,https://www.beeradvocate.com/beer/profile/19808/49773/,Creamy Stout,19808,Lovely Valley Beverage Factory,2,3
+391,5.00,221808,https://www.beeradvocate.com/beer/profile/9412/221808/,Cap D'Ona Brune Au Seigle De Ceragne,9412,Brasserie Des Alberes,2,4.01
+392,4.40,186482,https://www.beeradvocate.com/beer/profile/35857/186482/,Pitch Fork Stout,35857,Hobbs Tavern & Brewing Co.,2,3.28
+393,7.00,111220,https://www.beeradvocate.com/beer/profile/20791/111220/,Double Milk Stout,20791,Bristol Beer Factory,2,4
+394,4.60,35958,https://www.beeradvocate.com/beer/profile/13859/35958/,Northern Rivers Stout,13859,Northern Rivers Brewing Co.,2,3.57
+395,5.00,315003,https://www.beeradvocate.com/beer/profile/48515/315003/,1840 Stout,48515,King’s Town Beer Company,2,3.67
+396,4.30,323452,https://www.beeradvocate.com/beer/profile/1747/323452/,Haselhoff Stout,1747,Vyatich,2,3.1
+397,7.40,259966,https://www.beeradvocate.com/beer/profile/282/259966/,Polygraph,282,Salopian Brewing Company Ltd,2,4.09
+398,8.70,143232,https://www.beeradvocate.com/beer/profile/31331/143232/,Archives 1850 Keeping Stout,31331,ChuckAlek Independent Brewers,2,3.62
+399,4.20,194179,https://www.beeradvocate.com/beer/profile/42030/194179/,Lord Barker,42030,Gun Dog Ales,2,3.54
+400,6.30,221060,https://www.beeradvocate.com/beer/profile/23/221060/,Fireside Chat,23,Twisted Pine Brewing Company,2,3.62
+401,5.00,114052,https://www.beeradvocate.com/beer/profile/7038/114052/,York Chocolate Stout,7038,Rudgate Brewery Limited,2,3.7
+402,4.20,24968,https://www.beeradvocate.com/beer/profile/10072/24968/,Penhors Stout,10072,Brasserie De Pouldreuzic,2,3.63
+403,5.00,40585,https://www.beeradvocate.com/beer/profile/13029/40585/,McConnel's Creamy Vanilla Stout,13029,Thornbridge Brewery,2,4.16
+404,5.00,137104,https://www.beeradvocate.com/beer/profile/24190/137104/,Stout écossais,24190,Brasserie Artisanale Albion,2,3.88
+405,4.80,80018,https://www.beeradvocate.com/beer/profile/28777/80018/,Lustin' For Stout,28777,Blue Bee Brewery,2,4.07
+406,4.30,173458,https://www.beeradvocate.com/beer/profile/11344/173458/,Black Face,11344,Cuillin Brewery,2,3.62
+407,4.80,207763,https://www.beeradvocate.com/beer/profile/479/207763/,Yule Star,479,Truman's,2,3.62
+408,4.90,79252,https://www.beeradvocate.com/beer/profile/27807/79252/,Triple 'S',27807,The Untapped Brewing Co.,2,3.58
+409,5.10,221844,https://www.beeradvocate.com/beer/profile/44108/221844/,La Brü Stout,44108,Cerveza La Brü,2,3.66
+410,5.50,83353,https://www.beeradvocate.com/beer/profile/23250/83353/,Sgt. Pepper Stout,23250,Spire Brewery,2,2.44
+411,6.00,85657,https://www.beeradvocate.com/beer/profile/29176/85657/,Manifesto,29176,The Revolutions Brewing Company,2,3.73
+412,5.50,112026,https://www.beeradvocate.com/beer/profile/25934/112026/,Clarens Stout,25934,Clarens Brewery,2,4.16
+413,5.00,75420,https://www.beeradvocate.com/beer/profile/10750/75420/,The Hector,10750,An Teallach Ale Co.,2,4.22
+414,5.00,28572,https://www.beeradvocate.com/beer/profile/9771/28572/,Harrington's Premium Stout,9771,Harringtons Brewery,2,3.66
+415,5.00,48797,https://www.beeradvocate.com/beer/profile/16420/48797/,Ocean Stout,16420,Oceanbryggeriet,2,3.97
+416,5.30,33696,https://www.beeradvocate.com/beer/profile/3593/33696/,Dragon Smoke Stout,3593,Beowulf Brewing Company,2,3.21
+417,4.50,218017,https://www.beeradvocate.com/beer/profile/38142/218017/,Golden Stout (Nitro),38142,Alibi Ale Works,2,3.91
+418,4.50,223910,https://www.beeradvocate.com/beer/profile/42317/223910/,Stout,42317,Human Fish Brewery,2,4.04
+419,5.40,114602,https://www.beeradvocate.com/beer/profile/33899/114602/,Stout,33899,TicketyBrew,2,3.9
+420,4.00,116650,https://www.beeradvocate.com/beer/profile/24749/116650/,Midnight,24749,Monty's Brewery,2,3.75
+421,4.50,158381,https://www.beeradvocate.com/beer/profile/27128/158381/,Alnwick Stout,27128,Alnwick Brewery,2,3.72
+422,6.50,200369,https://www.beeradvocate.com/beer/profile/42665/200369/,The Dogs Bollocks,42665,Loudoun Brewing Co.,2,3.48
+423,5.50,279221,https://www.beeradvocate.com/beer/profile/3521/279221/,L'Arogante Stout-Ish,3521,De Proefbrouwerij (bvba Andelot),2,3.64
+424,5.60,153526,https://www.beeradvocate.com/beer/profile/38333/153526/,Xaver Stout,38333,Xaver-Brauerei,2,3.59
+425,4.50,164278,https://www.beeradvocate.com/beer/profile/1675/164278/,Brune,1675,Birrificio Le Baladin,2,3.55
+426,4.50,53432,https://www.beeradvocate.com/beer/profile/21279/53432/,Chocolate Stout,21279,Penlon Cottage Trading Ltd,2,3.82
+427,6.00,317113,https://www.beeradvocate.com/beer/profile/514/317113/,Oost-Indisch Doof,514,Jopen Bier BV Haarlem,2,3.49
+428,4.50,290492,https://www.beeradvocate.com/beer/profile/6695/290492/,Marston’s Pearl Jet Stout,6695,Marston's PLC,2,3.32
+429,4.00,236734,https://www.beeradvocate.com/beer/profile/42842/236734/,Candlewick,42842,Torrside Brewing,2,3.74
+430,4.50,287168,https://www.beeradvocate.com/beer/profile/36744/287168/,The Honorable Gwendolen Fairfax,36744,The Dandy Brewing Company,2,4.1
+431,4.00,36288,https://www.beeradvocate.com/beer/profile/2467/36288/,Panil The Black Oak,2467,Panil,2,3.51
+432,5.00,330434,https://www.beeradvocate.com/beer/profile/147/330434/,Liberty Station At Dawn They Wake,147,Stone Brewing,2,3.66
+433,4.30,162253,https://www.beeradvocate.com/beer/profile/9050/162253/,Black As Yer 'AT,9050,Glastonbury Ales,2,3.47
+434,4.10,133582,https://www.beeradvocate.com/beer/profile/27945/133582/,Canterbury Stout (nitro),27945,The Foundry / Cantebury Brewers,2,3.76
+435,4.20,188879,https://www.beeradvocate.com/beer/profile/22772/188879/,Blackout,22772,Birrificio Rurale,2,3.38
+436,5.60,112339,https://www.beeradvocate.com/beer/profile/29314/112339/,Stud Stout,29314,Big Rig Brewery,2,3
+437,9.00,317653,https://www.beeradvocate.com/beer/profile/33895/317653/,La Grande Bellezza,33895,Van Moll,2,4.13
+438,4.80,264662,https://www.beeradvocate.com/beer/profile/47493/264662/,Snapping Turtle Stout,47493,Bogtrotter Craft Brewery,2,3.64
+439,5.10,233174,https://www.beeradvocate.com/beer/profile/4818/233174/,Zwönitzer Stout,4818,Brauerei-Gasthof Zwönitz,2,3.31
+440,8.90,170710,https://www.beeradvocate.com/beer/profile/15669/170710/,Saltaire XS Imperial Stout,15669,Saltaire Brewery Limited,2,4.09
+441,5.20,95453,https://www.beeradvocate.com/beer/profile/28387/95453/,Fathomless,28387,RedWillow Brewery,2,3.83
+442,4.50,104157,https://www.beeradvocate.com/beer/profile/21757/104157/,Black Shuck,21757,Wagtail Brewery,2,3.52
+443,6.60,191199,https://www.beeradvocate.com/beer/profile/40313/191199/,Blood Revenge,40313,Black Metal Brewery,2,3.1
+444,7.00,45538,https://www.beeradvocate.com/beer/profile/524/45538/,Van Vollenhoven's Stout,524,Bierbrouwerij De Schans,2,3.79
+445,6.30,170725,https://www.beeradvocate.com/beer/profile/29442/170725/,Carmel Macchiato Foundation Stout,29442,Badger Hill Brewing Company,2,3.72
+446,4.50,121831,https://www.beeradvocate.com/beer/profile/25909/121831/,Dry Stout,25909,Stringers Beer,2,3.74
+447,7.50,188908,https://www.beeradvocate.com/beer/profile/10453/188908/,Flannel Hammer,10453,Wylam Brewery,2,3.8
+448,5.50,61420,https://www.beeradvocate.com/beer/profile/23252/61420/,Black Mass Stout,23252,Monkey Wizard Brewery,2,3.47
+449,4.70,265206,https://www.beeradvocate.com/beer/profile/34175/265206/,Black Jack Smoked Stout,34175,Srigim Brewery,2,3.7
+450,4.00,118006,https://www.beeradvocate.com/beer/profile/30064/118006/,Moonless Stout,30064,Kereru Brewing Company,2,3.62
+451,5.50,263160,https://www.beeradvocate.com/beer/profile/47978/263160/,Elder Son,47978,Endemic Mountain Brewery,2,3.91
+452,4.10,42235,https://www.beeradvocate.com/beer/profile/1310/42235/,Felinfoel Stout,1310,Felinfoel Brewery Co.,2,2.62
+453,4.50,86781,https://www.beeradvocate.com/beer/profile/29365/86781/,Dark Side Stout,29365,Rowton Brewery Limited,2,3.85
+454,4.50,252671,https://www.beeradvocate.com/beer/profile/9220/252671/,Dry Stone Stout,9220,Hawkshead Brewery / Staveley Brewery & Beer Hall,2,3.27
+455,5.00,77056,https://www.beeradvocate.com/beer/profile/27980/77056/,Stout,27980,Tap East,1,3
+456,5.50,304896,https://www.beeradvocate.com/beer/profile/50308/304896/,Shepherds Stout,50308,Birzeit Brewery / Shepherds Beer,1,3.44
+457,4.50,80385,https://www.beeradvocate.com/beer/profile/884/80385/,Night Rider,884,Kelham Island Brewery,1,4
+458,5.50,320769,https://www.beeradvocate.com/beer/profile/34205/320769/,Frimaire,34205,Brasserie Générale,1,4
+459,4.50,283650,https://www.beeradvocate.com/beer/profile/43737/283650/,Hooked Paw,43737,City Acre Brewing,1,4.39
+460,5.00,219394,https://www.beeradvocate.com/beer/profile/44649/219394/,La Nazarenita Negra,44649,Cerveza La Nazarenita,1,2.98
+461,4.80,52482,https://www.beeradvocate.com/beer/profile/11410/52482/,Captain Bill Bartram's Damson Stout,11410,Bartrams Brewery,1,3.81
+462,5.00,134147,https://www.beeradvocate.com/beer/profile/36284/134147/,Borówkowe Pole,36284,Podgórz,1,3.3
+463,3.50,230659,https://www.beeradvocate.com/beer/profile/38696/230659/,70 - Dry Stout,38696,Brasserie Harricana,1,3.75
+464,4.30,105733,https://www.beeradvocate.com/beer/profile/7037/105733/,Grantham Stout,7037,Oldershaw Brewery,1,3.75
+465, ? ,111109,https://www.beeradvocate.com/beer/profile/13227/111109/,1921 Stout,13227,Founders Brewery,1,3.25
+466,4.40,332807,https://www.beeradvocate.com/beer/profile/42225/332807/,Dry Bones,42225,Picacho Peak Brewing Company,1,3.27
+467, ? ,291591,https://www.beeradvocate.com/beer/profile/16519/291591/,Dunkel,16519,Fleck's Brauhaus,1,3.62
+468,5.00,156680,https://www.beeradvocate.com/beer/profile/28631/156680/,Marmalade Stout,28631,Red Fox Brewery Ltd,1,3.8
+469,6.10,308232,https://www.beeradvocate.com/beer/profile/1417/308232/,Choc & Orange Stout,1417,Black Sheep Brewery PLC,1,3.79
+470,5.50,242186,https://www.beeradvocate.com/beer/profile/18843/242186/,D-Day Black Ale,18843,Brasserie Artisanale des 2 Caps,1,3.77
+471,4.20,93963,https://www.beeradvocate.com/beer/profile/2449/93963/,Daleside Stout,2449,Daleside Brewery,1,3.9
+472,5.00,200972,https://www.beeradvocate.com/beer/profile/16244/200972/,Cossab Dry Stout,16244,Cerveceria Cossab,1,3.49
+473,5.00,221196,https://www.beeradvocate.com/beer/profile/36243/221196/,Ténèbre,36243,Microbrasserie La Boîte à Malt,1,2.6
+474,4.50,21005,https://www.beeradvocate.com/beer/profile/5058/21005/,Licorice Stout,5058,Rooster's Brewing Company Ltd.,1,3.86
+475,5.50,112397,https://www.beeradvocate.com/beer/profile/817/112397/,Stiegl Hausbier Männerschokolade,817,Stieglbrauerei zu Salzburg GmbH,1,3.97
+476,4.50,78350,https://www.beeradvocate.com/beer/profile/17001/78350/,Black Coral Stout,17001,Hornbeam Brewery,1,3.53
+477,7.40,104975,https://www.beeradvocate.com/beer/profile/31320/104975/,Imperial Honey Stout,31320,Pax Bräu,1,4.89
+478,3.90,331281,https://www.beeradvocate.com/beer/profile/48628/331281/,Gundo Phoenix,48628,Yorkshire Square Brewery,1,4.5
+479,4.60,269074,https://www.beeradvocate.com/beer/profile/39390/269074/,La Masaya,39390,Brasserie Veyrat,1,3.52
+480,4.50,315154,https://www.beeradvocate.com/beer/profile/203/315154/,Mocha Stout,203,Greene King / Morland Brewery,1,3.57
+481,4.40,243731,https://www.beeradvocate.com/beer/profile/46724/243731/,Chocolate Stout,46724,Des Voigne Cellars & Brewing,1,3.5
+482,4.60,74516,https://www.beeradvocate.com/beer/profile/19743/74516/,Umbrìa,19743,Birrificio Lariano,1,2.66
+483,4.60,191508,https://www.beeradvocate.com/beer/profile/42344/191508/,Norwegian Stout,42344,Coldboy,1,2.09
+484,5.10,100885,https://www.beeradvocate.com/beer/profile/15719/100885/,Warlord Black,15719,Purity Brewing Co,1,3.85
+485,5.90,150294,https://www.beeradvocate.com/beer/profile/34520/150294/,Smoked Chocolate Stout,34520,Lion Bridge Brewing Company,1,3.48
+486,7.10,334359,https://www.beeradvocate.com/beer/profile/40874/334359/,Roxy Stout,40874,Akasha Brewing Company,1,4
+487,6.00,157975,https://www.beeradvocate.com/beer/profile/22276/157975/,Leytonstone Stout,22276,Brodie's,1,3.75
+488,6.00,223767,https://www.beeradvocate.com/beer/profile/42194/223767/,Pípila Stout,42194,Cerveza Pípila,1,2.98
+489,6.00,264728,https://www.beeradvocate.com/beer/profile/30561/264728/,3 D Triple Chocolate Stout,30561,Ramblin' Road Brewery Farm,1,3.94
+490,4.70,265496,https://www.beeradvocate.com/beer/profile/15892/265496/,Staut Jul,15892,Valdres Gardsbryggeri,1,3.27
+491,8.50,257305,https://www.beeradvocate.com/beer/profile/47585/257305/,Stout,47585,Cerveja Artesanal Vitriol,1,2.2
+492,4.50,60187,https://www.beeradvocate.com/beer/profile/23250/60187/,Twist & Stout,23250,Spire Brewery,1,3.68
+493,5.25,240156,https://www.beeradvocate.com/beer/profile/46444/240156/,Stout,46444,Beerfest-vn,1,2
+494,4.70,110364,https://www.beeradvocate.com/beer/profile/15892/110364/,Staut,15892,Valdres Gardsbryggeri,1,3.25
+495,5.00,64540,https://www.beeradvocate.com/beer/profile/23739/64540/,Starry Night Stout,23739,Marco Island Brewery,1,2.33
+496,7.20,263966,https://www.beeradvocate.com/beer/profile/35025/263966/,Winter Warmer,35025,Miner Brewing Company,1,4
+497,4.60,119838,https://www.beeradvocate.com/beer/profile/34393/119838/,Black Magic,34393,Happy Valley Brewery,1,4
+498,5.00,304671,https://www.beeradvocate.com/beer/profile/39952/304671/,Devil's Stout,39952,Devil's Door Brewery,1,3.83
+499,4.50,51487,https://www.beeradvocate.com/beer/profile/11385/51487/,Serpentine Stout,11385,Salamander Brewing Company,1,3.92
+500, ? ,333600,https://www.beeradvocate.com/beer/profile/816/333600/,Vanilla Stout,816,Granite Brewery & Restaurant,1,2.95
+501,4.80,151840,https://www.beeradvocate.com/beer/profile/38183/151840/,Epulafquen Stout,38183,Cerveza Epulafquen,1,3.31
+502,4.80,306976,https://www.beeradvocate.com/beer/profile/11252/306976/,Rose's Oatmeal Stout,11252,Nottingham Brewery,1,4
+503,5.50,205346,https://www.beeradvocate.com/beer/profile/30386/205346/,The Redblacks Will Win If You Buy This Beer,30386,Beyond the Pale Brewing Company,1,3.71
+504,5.50,336418,https://www.beeradvocate.com/beer/profile/35866/336418/,Espresso Vanilla Stout,35866,Galmegi Brewing,1,3.88
+505,5.00,270371,https://www.beeradvocate.com/beer/profile/31831/270371/,Harbour Stout,31831,Harbour Brewing Company,1,3.72
+506, ? ,333605,https://www.beeradvocate.com/beer/profile/816/333605/,Cocoa Raisin Stout,816,Granite Brewery & Restaurant,1,3.67
+507,7.00,288294,https://www.beeradvocate.com/beer/profile/49250/288294/,Bière Noire,49250,Brasserie Artisanale la P'tite Soeur,1,4
+508,4.50,229926,https://www.beeradvocate.com/beer/profile/45531/229926/,Broeders Dry Stout,45531,Bröeders Artesanal,1,3.81
+509,5.80,80423,https://www.beeradvocate.com/beer/profile/24668/80423/,Wild Bull Stout,24668,Wild Bull Brewery,1,2.83
+510,4.50,286503,https://www.beeradvocate.com/beer/profile/30424/286503/,L'Eurélienne Stout,30424,Microbrasserie De Chandres,1,3.18
+511,6.20,196393,https://www.beeradvocate.com/beer/profile/38954/196393/,Russian Regular Stout,38954,TailGate Beer,1,3.49
+512,5.00,249386,https://www.beeradvocate.com/beer/profile/47113/249386/,Smokey Joe,47113,Geeves Brewery,1,3.64
+513,4.50,138539,https://www.beeradvocate.com/beer/profile/36729/138539/,Corby Noir,36729,Cumberland Breweries,1,2.12
+514,4.60,57643,https://www.beeradvocate.com/beer/profile/17272/57643/,Old Trout Stout,17272,The Port Gastropub / Sea Level Brewing Company,1,3.03
+515,7.00,48173,https://www.beeradvocate.com/beer/profile/11061/48173/,Four Grain Stout,11061,Herslev Bryghus,1,4.3
+516, ? ,179502,https://www.beeradvocate.com/beer/profile/29395/179502/,Richard Roundtree,29395,Hogshead Brewery,1,4.34
+517,6.10,301871,https://www.beeradvocate.com/beer/profile/49390/301871/,English Setter,49390,The Leaning Cask Brewing Company,1,3.75
+518,4.20,67378,https://www.beeradvocate.com/beer/profile/19293/67378/,Café Racer,19293,Birra Toccalmatto,1,2.85
+519,4.80,74292,https://www.beeradvocate.com/beer/profile/3345/74292/,Spingo Ben's Stout,3345,Blue Anchor,1,3.63
+520,5.00,152628,https://www.beeradvocate.com/beer/profile/30178/152628/,Black Hawk,30178,Brewmeister,1,3.25
+521,6.80,290613,https://www.beeradvocate.com/beer/profile/42910/290613/,Wagon Wheel Stout,42910,Black Hops Brewing,1,4.62
+522,4.50,197174,https://www.beeradvocate.com/beer/profile/42655/197174/,1643 Puritan Stout,42655,Two Cocks Farm & Brewery,1,3.82
+523,5.20,141622,https://www.beeradvocate.com/beer/profile/27040/141622/,Temstout,27040,The Big Five Breweries,1,3.43
+524,5.10,80182,https://www.beeradvocate.com/beer/profile/23648/80182/,Oak Aged Wenlock Stout,23648,Ironbridge Brewery,1,4.2
+525,8.00,203319,https://www.beeradvocate.com/beer/profile/38614/203319/,Not My Gumdrop Buttons,38614,Escape Craft Brewery,1,4
+526,4.70,214584,https://www.beeradvocate.com/beer/profile/43893/214584/,Milk Stout,43893,Sakiškių Alus,1,4.5
+527,7.20,28216,https://www.beeradvocate.com/beer/profile/13096/28216/,Hideji Stout,13096,Hideji Beer,1,4.07
+528,5.20,187704,https://www.beeradvocate.com/beer/profile/42103/187704/,Schwartzman Stout,42103,Bryggeriet Stenhammaren,1,4.32
+529,5.10,122424,https://www.beeradvocate.com/beer/profile/10460/122424/,Stouter Port Stout,10460,The Marble Arch,1,3.58
+530,4.50,82489,https://www.beeradvocate.com/beer/profile/11530/82489/,Passion Wagon,11530,Staffordshire Brewery,1,3.58
+531,4.30,108345,https://www.beeradvocate.com/beer/profile/12272/108345/,Kiss Me Now (2013),12272,Hobsons Brewery,1,3.48
+532,5.00,130617,https://www.beeradvocate.com/beer/profile/7764/130617/,Stokers Stout,7764,Oakleaf Brewing Co. Ltd.,1,2.5
+533,5.10,285755,https://www.beeradvocate.com/beer/profile/11328/285755/,Double Stout,11328,Westerham Brewery Company Ltd,1,3.75
+534,4.60,107067,https://www.beeradvocate.com/beer/profile/19774/107067/,Stout,19774,The Fox & Newt / The Burley Street Brewhouse,1,4.25
+535,5.20,116028,https://www.beeradvocate.com/beer/profile/6984/116028/,1913 Cornish Stout,6984,St. Austell Brewery,1,1.52
+536,5.20,143165,https://www.beeradvocate.com/beer/profile/37156/143165/,Oatmeal Stout,37156,Brewsmith Beer,1,4.16
+537,4.50,185917,https://www.beeradvocate.com/beer/profile/23559/185917/,Cachotière,23559,Microbrasserie La Captive,1,4.5
+538, ? ,258366,https://www.beeradvocate.com/beer/profile/47651/258366/,Stout,47651,DUX Beer,1,1.2
+539,4.50,56895,https://www.beeradvocate.com/beer/profile/9962/56895/,Chocolate Malt Stout,9962,Birkenhead Brewery,1,3.69
+540,4.30,92994,https://www.beeradvocate.com/beer/profile/31471/92994/,Geniuss,31471,Winter's Brewery,1,3.98
+541,6.60,44610,https://www.beeradvocate.com/beer/profile/103/44610/,Oak Aged Blackheart Stout,103,"Middle Ages Brewing Co., Ltd.",1,4.3
+542,7.50,272195,https://www.beeradvocate.com/beer/profile/33795/272195/,Moose Tracks,33795,Prairie Sun Brewery,1,4.68
+543,5.60,291139,https://www.beeradvocate.com/beer/profile/34635/291139/,Chocolate Stout,34635,Mismatch Brewing Company,1,3.26
+544,6.00,296515,https://www.beeradvocate.com/beer/profile/50081/296515/,Tamsusis,50081,HBH,1,3.27
+545,6.20,266820,https://www.beeradvocate.com/beer/profile/31008/266820/,Voodoo,31008,White Pony Microbrewery,1,4.04
+546,7.50,240197,https://www.beeradvocate.com/beer/profile/43604/240197/,Uncrushable Dry English Stout,43604,Periodic Brewing Company,1,3.96
+547,7.00,198470,https://www.beeradvocate.com/beer/profile/41243/198470/,Super Deluxe Stout,41243,New Bristol Brewery,1,4.09
+548,4.20,315974,https://www.beeradvocate.com/beer/profile/36455/315974/,POD,36455,First Chop Brewing Arm,1,3.9
+549,6.20,77127,https://www.beeradvocate.com/beer/profile/23249/77127/,Stella For Breakfast,23249,The Kernel Brewery,1,4
+550,5.40,187977,https://www.beeradvocate.com/beer/profile/31902/187977/,Madagascar,31902,Great Heck Brewing Company Ltd.,1,3.24
+551,4.50,258123,https://www.beeradvocate.com/beer/profile/11385/258123/,Emerald Lake Stout,11385,Salamander Brewing Company,1,4.25
+552,5.40,213580,https://www.beeradvocate.com/beer/profile/33192/213580/,08|05 Stout (Oyster),33192,Brew By Numbers,1,3.79
+553, ? ,142413,https://www.beeradvocate.com/beer/profile/6876/142413/,Old Man And The Sea,6876,Mighty Oak Brewing Company Limited,1,3.25
+554,7.00,306253,https://www.beeradvocate.com/beer/profile/41322/306253/,Breakfast Serial - Whiskey,41322,Left Handed Giant Brewing Co.,1,4.5
+555,5.80,245069,https://www.beeradvocate.com/beer/profile/38882/245069/,Double Warp,38882,Indigenous Brewery,1,4.06
+556,6.00,305742,https://www.beeradvocate.com/beer/profile/16530/305742/,Ærø Stout Kong Arthur,16530,Rise Bryggeri,1,3.76
+557,6.00,149585,https://www.beeradvocate.com/beer/profile/34440/149585/,Folkes Tjocke Stout,34440,Centralbryggeriet Linköping,1,3.55
+558,4.90,221777,https://www.beeradvocate.com/beer/profile/38482/221777/,Chestnut Porter,38482,Belleville Brewing Co.,1,3.6
+559, ? ,124754,https://www.beeradvocate.com/beer/profile/19016/124754/,Stout,19016,Colorado Boy Pub & Brewery,1,3.75
+560,5.00,180563,https://www.beeradvocate.com/beer/profile/35596/180563/,Waterspout Stout,35596,Good Hops Brewing LLC,1,2.51
+561,5.00,83029,https://www.beeradvocate.com/beer/profile/16242/83029/,Bellevue Oaty Berlin Stout,16242,Brewbaker,1,3.75
+562,4.80,223573,https://www.beeradvocate.com/beer/profile/31902/223573/,Patrick,31902,Great Heck Brewing Company Ltd.,1,3.73
+563,6.90,303446,https://www.beeradvocate.com/beer/profile/32697/303446/,Nitro-2 Brookridge Diary Fudgesicle Stout,32697,The BoB (The Brew on Broadway),1,3.01
+564,6.60,269399,https://www.beeradvocate.com/beer/profile/46381/269399/,Stoute Arn,46381,Bierbrouwerij De Arn,1,3
+565,11.50,297560,https://www.beeradvocate.com/beer/profile/24819/297560/,Master Of Puppets,24819,Steel City Brewing,1,3.99
+566,4.20,197209,https://www.beeradvocate.com/beer/profile/42861/197209/,Blackjack,42861,Yorkshire Brewing Company,1,4.04
+567,4.00,91225,https://www.beeradvocate.com/beer/profile/25909/91225/,No. 2 Stout,25909,Stringers Beer,1,3.83
+568,4.50,251225,https://www.beeradvocate.com/beer/profile/11530/251225/,Snowmans Meltdown,11530,Staffordshire Brewery,1,3.25
+569,4.70,145498,https://www.beeradvocate.com/beer/profile/37588/145498/,Diversamente Bionda,37588,Birra Ofelia,1,3.02
+570,6.30,246618,https://www.beeradvocate.com/beer/profile/43181/246618/,Embrace The Black,43181,Strong Rope Brewery,1,4.34
+571,5.00,272731,https://www.beeradvocate.com/beer/profile/40319/272731/,Brock St Signature Series Oyster Stout,40319,Brock Street Brewing Company,1,4.02
+572,6.00,251484,https://www.beeradvocate.com/beer/profile/47137/251484/,La Gricole Noire,47137,Brasserie Artisanale La Diligence,1,3.35
+573,5.50,319324,https://www.beeradvocate.com/beer/profile/20431/319324/,Bear Street Stout,20431,The 3 Brewers,1,3.88
+574,4.50,51549,https://www.beeradvocate.com/beer/profile/19001/51549/,Félis Brune,19001,Brasserie De La Creuse,1,3.88
+575,5.60,203614,https://www.beeradvocate.com/beer/profile/35902/203614/,Stout,35902,1516 Pub & Craft Brewery / Two Capitals,1,4
+576,6.80,318815,https://www.beeradvocate.com/beer/profile/20658/318815/,Export Stout,20658,7 Seas Brewery and Taproom,1,3.5
+577,5.00,127839,https://www.beeradvocate.com/beer/profile/22778/127839/,Sophia,22778,La Buttiga,1,3.5
+578,5.80,223840,https://www.beeradvocate.com/beer/profile/44923/223840/,Libertad Stout,44923,Cervecería GB Del Bajío,1,3.27
+579,4.30,321120,https://www.beeradvocate.com/beer/profile/34450/321120/,Welsh Cake Stout,34450,The Glamorgan Brewing Co,1,3.75
+580,6.80,318818,https://www.beeradvocate.com/beer/profile/20658/318818/,Port Royal Export Stout Nitro,20658,7 Seas Brewery and Taproom,1,2
+581,8.00,289379,https://www.beeradvocate.com/beer/profile/44060/289379/,Café 1930,44060,OPO74 Brewing Company,1,3.23
+582,6.00,52068,https://www.beeradvocate.com/beer/profile/12566/52068/,Cherry Pickers Stout,12566,Wissey Valley Brewery,1,3.36
+583,2.80,60772,https://www.beeradvocate.com/beer/profile/22276/60772/,Summer Stout,22276,Brodie's,1,3.11
+584,6.80,178278,https://www.beeradvocate.com/beer/profile/6045/178278/,Lust,6045,Iron Hill Brewery & Restaurant,1,3.81
+585,4.80,125286,https://www.beeradvocate.com/beer/profile/34603/125286/,Dark Night,34603,The Strands Inn & Brewery,1,3.71
+586,6.00,119400,https://www.beeradvocate.com/beer/profile/31467/119400/,BollaGatto Wheat Stout,31467,Cervejaria Urbana,1,3.79
+587,4.50,163177,https://www.beeradvocate.com/beer/profile/31620/163177/,MòR Ticia!,31620,MòR Brewery,1,3.46
+588,5.00,202091,https://www.beeradvocate.com/beer/profile/43298/202091/,Kuhba Stout,43298,Cerveceria Kuhba,1,4.5
+589,5.40,73835,https://www.beeradvocate.com/beer/profile/5581/73835/,Veldensteiner Chocolate Stout,5581,Kaiser Bräu GmbH & Co KG,1,3.68
+590,5.90,229483,https://www.beeradvocate.com/beer/profile/1784/229483/,Ashley's Coffee Stout,1784,Outer Banks Brewing Station,1,3.3
+591,4.70,206188,https://www.beeradvocate.com/beer/profile/43372/206188/,Brown Ale,43372,The Brewery at the Palace,1,3.42
+592,5.20,91501,https://www.beeradvocate.com/beer/profile/21832/91501/,Whisky Guerrilla,21832,Blue Monkey Brewery,1,4.28
+593,6.60,165997,https://www.beeradvocate.com/beer/profile/34500/165997/,Extra Stout,34500,Fortnight Brewing Company,1,3.54
+594,5.60,75374,https://www.beeradvocate.com/beer/profile/27087/75374/,Zawiercie Czekoladowe,27087,Browar Na Jurze S.j.,1,4
+595,4.00,210032,https://www.beeradvocate.com/beer/profile/40373/210032/,Winter Range Stout,40373,Cloudwater Brew Co.,1,4
+596,10.40,156528,https://www.beeradvocate.com/beer/profile/31282/156528/,He-man Stout,31282,Arch Rock Brewing Company,1,3.53
+597,5.50,186992,https://www.beeradvocate.com/beer/profile/36545/186992/,C,36545,Letra - Cerveja Artesanal Minhota,1,2.94
+598,7.00,334706,https://www.beeradvocate.com/beer/profile/29599/334706/,Wooster New Stout,29599,JAFB Wooster Brewery,1,3.99
+599,5.00,209013,https://www.beeradvocate.com/beer/profile/43677/209013/,Unweal Stout,43677,Weal Ales Brewey,1,4.08
+600,5.00,104565,https://www.beeradvocate.com/beer/profile/21985/104565/,Noire Aux Bleuets,21985,La Gueule de Bois,1,1.08
+601,7.80,308341,https://www.beeradvocate.com/beer/profile/43202/308341/,1890 Double Stout,43202,Zebulon Artisan Ales,1,5
+602,5.50,200312,https://www.beeradvocate.com/beer/profile/43173/200312/,Gambrinus Celtic Stout,43173,Gambrinus Brewers,1,3.66
+603,6.00,185976,https://www.beeradvocate.com/beer/profile/2700/185976/,The Primordial Pearl,2700,Taps Fish House & Brewery,1,3.71
+604,5.20,268154,https://www.beeradvocate.com/beer/profile/46023/268154/,Start Gun Stout,46023,Fixed Wheel Brewery,1,3.2
+605,4.50,74618,https://www.beeradvocate.com/beer/profile/21597/74618/,BS Birra Scura Artigianale,21597,Officina Della Birra,1,3.1
+606,4.80,87934,https://www.beeradvocate.com/beer/profile/29927/87934/,Blekke,29927,Birra Dell'Elba Brew Pub,1,3.33
+607,6.50,117118,https://www.beeradvocate.com/beer/profile/34214/117118/,Burov Stout,34214,AF Brew,1,4
+608,4.50,154499,https://www.beeradvocate.com/beer/profile/33755/154499/,Brampton Stout,33755,Brampton Brewery,1,3.55
+609,6.00,127107,https://www.beeradvocate.com/beer/profile/21429/127107/,Prykmestar KahviStout,21429,Vakka-Suomen Panimo,1,4
+610,5.10,216452,https://www.beeradvocate.com/beer/profile/17097/216452/,Sommerspirets Stout,17097,Bryghuset Møn,1,3.94
+611,5.00,224900,https://www.beeradvocate.com/beer/profile/28144/224900/,Turner,28144,Birrificio La Piazza,1,3.14
+612,4.50,81797,https://www.beeradvocate.com/beer/profile/8560/81797/,Strongroom Stout,8560,Hepworth & Co. (Brewers) Ltd.,1,3.8
+613,8.90,295813,https://www.beeradvocate.com/beer/profile/48745/295813/,Dock Street Troll,48745,New Anthem Beer Project,1,3.53
+614,6.00,108421,https://www.beeradvocate.com/beer/profile/2749/108421/,125 Celebratory Stout (6% ABV Bottled),2749,Wadworth and Company Ltd.,1,3.75
+615,10.10,251526,https://www.beeradvocate.com/beer/profile/43439/251526/,Graveyard Hill Imperial Pumpkin Stout,43439,Missoula Brewing Co.,1,4.29
+616,8.50,254854,https://www.beeradvocate.com/beer/profile/28943/254854/,Helsingborgs Kaffestout,28943,Helsingborgs Bryggeri,1,3.18
+617,5.00,65672,https://www.beeradvocate.com/beer/profile/23196/65672/,Carbone,23196,Birrificio Artigianale Zimella,1,3.19
+618,6.40,112776,https://www.beeradvocate.com/beer/profile/34047/112776/,St Ouen's Strong Stout,34047,The Pocket Brewery,1,3
+619,6.50,211849,https://www.beeradvocate.com/beer/profile/36113/211849/,Brimley Stout,36113,Three Magnets Brewing,1,3.5
+620,4.30,314761,https://www.beeradvocate.com/beer/profile/14933/314761/,Saturn's Stout,14933,Hadrian Border Brewery,1,3.65
+621,5.50,114059,https://www.beeradvocate.com/beer/profile/6393/114059/,Chocs Away,6393,Abbeydale Brewery,1,4
+622,5.30,60299,https://www.beeradvocate.com/beer/profile/22543/60299/,Mayno Della Spinetta,22543,Birrificio Civale,1,3.38
+623,4.60,209036,https://www.beeradvocate.com/beer/profile/41195/209036/,Oyster Stout,41195,Southern Barrel Brewing Co.,1,3.74
+624,8.00,340620,https://www.beeradvocate.com/beer/profile/38563/340620/,"Vieux Porter, réserve de Tony Peluso",38563,MonsRegius bières artisanales,1,1.32
+625,4.80,303500,https://www.beeradvocate.com/beer/profile/38154/303500/,Mosco Stout,38154,Mosco Beer Brewery,1,3.14
+626,4.90,114060,https://www.beeradvocate.com/beer/profile/6393/114060/,Doctor Morton's Horrable Skellington,6393,Abbeydale Brewery,1,3.75
+627,5.50,298127,https://www.beeradvocate.com/beer/profile/36284/298127/,Usmiech Anieli,36284,Podgórz,1,4.43
+628,4.80,114064,https://www.beeradvocate.com/beer/profile/28777/114064/,Devonshire Cat Stout,28777,Blue Bee Brewery,1,3.5
+629,6.80,317328,https://www.beeradvocate.com/beer/profile/9860/317328/,Tudor Spiced Stout,9860,Chiltern Brewery,1,4.19
+630,5.00,145811,https://www.beeradvocate.com/beer/profile/29693/145811/,Emperor's Son,29693,Reuben's Brews,1,4
+631,4.50,92819,https://www.beeradvocate.com/beer/profile/14934/92819/,St George's Stout,14934,Corvedale Brewery,1,4.02
+632,4.30,142228,https://www.beeradvocate.com/beer/profile/37177/142228/,Wor,37177,Ringway Brewery,1,3.8
+633,5.80,216212,https://www.beeradvocate.com/beer/profile/42086/216212/,Clock Exorcist 14° Foreign Extra Stout,42086,Remeslny Pivovar Clock,1,3.88
+634,7.00,52628,https://www.beeradvocate.com/beer/profile/512/52628/,Vlijmens Stout,512,De 3 Horne Bierbrouwerij,1,3.31
+635,4.50,49557,https://www.beeradvocate.com/beer/profile/11438/49557/,Dogwatch Stout,11438,Nelson Brewing Company,1,3.43
+636,4.70,92822,https://www.beeradvocate.com/beer/profile/282/92822/,Requiem,282,Salopian Brewing Company Ltd,1,4.28
+637,8.00,166551,https://www.beeradvocate.com/beer/profile/39966/166551/,Stout Navideña,39966,Cerveza Copado,1,3.36
+638,5.00,185751,https://www.beeradvocate.com/beer/profile/36781/185751/,Vanilla Bean Rum Oak Aged Stout,36781,Lena Brewing Company,1,2.28
+639,4.20,296344,https://www.beeradvocate.com/beer/profile/359/296344/,Barista Stout,359,T & R Theakston Ltd.,1,3.25
+640, ? ,51096,https://www.beeradvocate.com/beer/profile/3721/51096/,La Veuve Noire,3721,Gambrinus,1,3.61
+641,4.80,253594,https://www.beeradvocate.com/beer/profile/46788/253594/,Czarna Polewka,46788,Browar Łańcut,1,4.18
+642,5.00,131739,https://www.beeradvocate.com/beer/profile/2577/131739/,Mine Dark,2577,Taiwan Tobacco & Liquor Corporation,1,3.75
+643,4.80,86939,https://www.beeradvocate.com/beer/profile/29113/86939/,NiRa,29113,BAdeF,1,3
+644,4.00,45979,https://www.beeradvocate.com/beer/profile/2520/45979/,Webb Ellis New-Zealand,2520,Brasserie Lancelot,1,4
+645,4.80,86940,https://www.beeradvocate.com/beer/profile/29120/86940/,Poolside,29120,Birrificio Della Ghironda,1,3
+646,7.00,92316,https://www.beeradvocate.com/beer/profile/25964/92316/,Berghoeve Hammer Schout Stout,25964,Berghoeve Brouwerij,1,3.63
+647,5.20,115868,https://www.beeradvocate.com/beer/profile/34189/115868/,Dark Heart,34189,Mantle Brewery,1,3.5
+648,4.70,143517,https://www.beeradvocate.com/beer/profile/30750/143517/,Yankee Sandwich,30750,The Wild Beer Co.,1,4.15
+649,4.00,91805,https://www.beeradvocate.com/beer/profile/25964/91805/,Berghoeve Hammer Brand,25964,Berghoeve Brouwerij,1,3.62
+650, ? ,95904,https://www.beeradvocate.com/beer/profile/2858/95904/,Lemke Stout,2858,Brauerei Lemke,1,3.93
+651,3.80,168864,https://www.beeradvocate.com/beer/profile/35210/168864/,Jackie Tar With Cacao Nibs,35210,MacLeod Ale Brewing Company,1,4.41
+652,5.80,312226,https://www.beeradvocate.com/beer/profile/51003/312226/,Murgese Christmas Stout,51003,Lidbhy Gård Bryggeri,1,3.79
+653,6.00,198819,https://www.beeradvocate.com/beer/profile/43049/198819/,Emperador Stout,43049,Cerveza Emperador,1,3.85
+654,6.20,99747,https://www.beeradvocate.com/beer/profile/32554/99747/,Roasted Brain,32554,Catalan Brewery,1,1.65
+655,5.00,100515,https://www.beeradvocate.com/beer/profile/32898/100515/,Dona Mathilde Bier Stout,32898,Dona Mathilde,1,2.56
+656,4.80,251555,https://www.beeradvocate.com/beer/profile/35087/251555/,Victory Stout Casked,35087,Hay Camp Brewing Company,1,4
+657,5.20,125603,https://www.beeradvocate.com/beer/profile/35376/125603/,Smugglers Stout,35376,Time & Tide Brewing,1,3.75
+658, ? ,113830,https://www.beeradvocate.com/beer/profile/30653/113830/,Stout,30653,The 3 Brewers,1,3.25
+659, ? ,138152,https://www.beeradvocate.com/beer/profile/25566/138152/,Gabniel Beer,25566,"Hangzhou Qiandaohu Beer Co., Ltd. (Cheerday Brewery)",1,2.75
+660,5.50,281002,https://www.beeradvocate.com/beer/profile/48738/281002/,Lasco,48738,Birrificio Tartavalle,1,2.67
+661,5.00,279979,https://www.beeradvocate.com/beer/profile/25943/279979/,Macchiato Stout,25943,Binghams Brewery,1,4.24
+662, ? ,250796,https://www.beeradvocate.com/beer/profile/35246/250796/,Nitro Dry Stout,35246,Lowertown Brewery,1,3.6
+663,5.50,221615,https://www.beeradvocate.com/beer/profile/44778/221615/,La Machurée,44778,La Brasserie Stéphanoise,1,3.91
+664,5.30,255407,https://www.beeradvocate.com/beer/profile/36581/255407/,You're F'n Out Stout,36581,38 State Brewing Company,1,3.28
+665,5.00,112817,https://www.beeradvocate.com/beer/profile/30178/112817/,Black Cock,30178,Brewmeister,1,3.22
+666,4.00,47538,https://www.beeradvocate.com/beer/profile/18392/47538/,Bruge Stout,18392,Cervejaria Bruge,1,1.42
+667,4.50,259250,https://www.beeradvocate.com/beer/profile/47739/259250/,Village Ghost,47739,V.I.P Brewery,1,3.16
+668,5.00,50867,https://www.beeradvocate.com/beer/profile/17928/50867/,Saint Goustan Brune,17928,Brasserie Du Loch,1,3.45
+669,5.00,171956,https://www.beeradvocate.com/beer/profile/33006/171956/,Sandorf Stout 14.5°,33006,Sandorf,1,2.84
+670,7.30,210869,https://www.beeradvocate.com/beer/profile/34419/210869/,Imperial Stout,34419,Microcervecería Leyenda,1,3
+671,6.50,324277,https://www.beeradvocate.com/beer/profile/51365/324277/,Kel`s Nitro Coffee Stout,51365,Door 4 Brewing Co,1,4.75
+672,5.60,129973,https://www.beeradvocate.com/beer/profile/35874/129973/,Dry Stout,35874,Brewery Becker,1,3
+673,4.50,53430,https://www.beeradvocate.com/beer/profile/21279/53430/,Stock Ram Stout,21279,Penlon Cottage Trading Ltd,1,3.83
+674,5.00,62393,https://www.beeradvocate.com/beer/profile/16201/62393/,Solstice Stout,16201,Hoggleys,1,3.78
+675,5.50,315836,https://www.beeradvocate.com/beer/profile/34174/315836/,Spanish Main,34174,Hopcraft Brewing,1,3.95
+676,4.60,134077,https://www.beeradvocate.com/beer/profile/20459/134077/,Dark Side Of The Moon (Ochr Dywyll Mws),20459,Purple Moose Brewery,1,3.75
+677,3.80,183742,https://www.beeradvocate.com/beer/profile/40568/183742/,Cárdenas Stout,40568,Cervezas Cárdenas,1,1.68
+678,7.20,206271,https://www.beeradvocate.com/beer/profile/18139/206271/,Soledad Stout,18139,Pacific Beach Ale House,1,3.5
+679,5.40,111551,https://www.beeradvocate.com/beer/profile/28773/111551/,Breakfast Stout ,28773,By The Horns,1,3
+680,5.30,184767,https://www.beeradvocate.com/beer/profile/31704/184767/,The Harry Oyster Stout,31704,Agrarian Ales,1,2.7
+681,5.50,126912,https://www.beeradvocate.com/beer/profile/15750/126912/,Semi-Lunar Stout,15750,Half Moon Restaurant & Brewery,1,4.25
+682,4.60,254657,https://www.beeradvocate.com/beer/profile/47321/254657/,Bootstrapper 06,47321,The Darkwolf Brewery AG,1,4.2
+683,5.00,258753,https://www.beeradvocate.com/beer/profile/33035/258753/,Stout,33035,Blackjack Beers,1,3.93
+684,7.00,325570,https://www.beeradvocate.com/beer/profile/6560/325570/,Black Swan,6560,Old Chimneys Brewery,1,4.05
+685,4.40,159939,https://www.beeradvocate.com/beer/profile/39125/159939/,Oystermouth Stout,39125,Mumbles Brewery,1,4
+686,4.60,105925,https://www.beeradvocate.com/beer/profile/3929/105925/,Wood Street Brewery Black Treacle Stout,3929,The Hillsborough Hotel,1,3.44
+687,5.10,334790,https://www.beeradvocate.com/beer/profile/46850/334790/,Cambrian Root,46850,Vibrant Forest Brewery,1,3.92
+688, ? ,54983,https://www.beeradvocate.com/beer/profile/17894/54983/,Dark Clover,17894,CP Brewery at Brews and Cues,1,4
+689,5.10,122823,https://www.beeradvocate.com/beer/profile/34984/122823/,Chocolate Cherry,34984,Son Of Sid Brewery,1,4
+690,4.50,330696,https://www.beeradvocate.com/beer/profile/39603/330696/,Tiger Milk,39603,Waller St. Brewing,1,4.25
+691,4.50,105672,https://www.beeradvocate.com/beer/profile/32635/105672/,Lindow Stout,32635,The Cheshire Brewhouse,1,3.85
+692,4.30,289993,https://www.beeradvocate.com/beer/profile/12272/289993/,Shropshire Stout,12272,Hobsons Brewery,1,3.42
+693,6.00,189642,https://www.beeradvocate.com/beer/profile/31611/189642/,Black Mamba,31611,The Fiddler Café / Animal Army Brewery,1,3.5
+694,4.20,289996,https://www.beeradvocate.com/beer/profile/39126/289996/,Sessio Stout,39126,Pyynikin Käsityöläispanimo,1,3.64
+695,4.80,264911,https://www.beeradvocate.com/beer/profile/48101/264911/,Dark,48101,Biergarten Brewery & Kitchen,1,3.42
+696,5.00,151759,https://www.beeradvocate.com/beer/profile/38228/151759/,The Mula Dry Stout,38228,The Mula Cervezas Especiales,1,3.61
+697,4.50,95952,https://www.beeradvocate.com/beer/profile/30749/95952/,Silver Top,30749,Old Dairy Brewery,1,3.85
+698,6.00,209361,https://www.beeradvocate.com/beer/profile/43744/209361/,Mad Stout,43744,Mad Yeast,1,3.42
+699,4.10,144849,https://www.beeradvocate.com/beer/profile/2749/144849/,Corvus Stout,2749,Wadworth and Company Ltd.,1,2.75
+700,5.60,341204,https://www.beeradvocate.com/beer/profile/52243/341204/,Mister B Babau,52243,Mister B,1,2.85
+701, ? ,56535,https://www.beeradvocate.com/beer/profile/21340/56535/,Emerald Isle Stout,21340,Great Dane Pub & Brewing Company (Wausau),1,2.57
+702,5.00,184281,https://www.beeradvocate.com/beer/profile/41808/184281/,Boss Black,41808,Boss Brewing Company,1,3.75
+703,5.40,240346,https://www.beeradvocate.com/beer/profile/46474/240346/,El Gallo Negro,46474,Phat Rooster Ales,1,3.17
+704,4.50,53210,https://www.beeradvocate.com/beer/profile/11530/53210/,Black Grouse,11530,Staffordshire Brewery,1,3.91
+705,5.00,219355,https://www.beeradvocate.com/beer/profile/44539/219355/,Dark Spartan,44539,The Parker Brewery,1,3.53
+706,6.00,83932,https://www.beeradvocate.com/beer/profile/26375/83932/,All Malt Stout,26375,The Biere Club,1,3.27
+707,4.20,106204,https://www.beeradvocate.com/beer/profile/22430/106204/,Chocolate Stout,22430,Mallinsons Brewing Company,1,4
+708,4.60,63196,https://www.beeradvocate.com/beer/profile/24020/63196/,Fair Puggled,24020,Cuan Mor / Oban Bay Brewery,1,2.82
+709,6.50,246237,https://www.beeradvocate.com/beer/profile/46874/246237/,Inmoral Belgian Stout,46874,Cervecera Tierra Y Libertad,1,3.75
+710,5.00,117214,https://www.beeradvocate.com/beer/profile/7340/117214/,Stout,7340,"Ricklinger Landbrauerei ""Zur Alten Försterei""",1,4
+711,7.50,282591,https://www.beeradvocate.com/beer/profile/16055/282591/,Black Swan,16055,Amager Bryghus,1,3.5
+712, ? ,59871,https://www.beeradvocate.com/beer/profile/10540/59871/,Iberian Negra,10540,La Cervesera Artesana,1,4
+713,5.20,130015,https://www.beeradvocate.com/beer/profile/16828/130015/,Scalehouse Chocolate Stout,16828,The Scalehouse Brewpub,1,3
+714,6.20,201696,https://www.beeradvocate.com/beer/profile/43286/201696/,Stout Cieszynski,43286,Browar Zamkowy Cieszyn,1,3.42
+715,4.10,133602,https://www.beeradvocate.com/beer/profile/34173/133602/,London Stout,34173,Portobello Brewery,1,3.75
+716,6.00,275682,https://www.beeradvocate.com/beer/profile/48796/275682/,Dragon Stout,48796,Ser Bhum Brewery,1,3.25
+717, ? ,195557,https://www.beeradvocate.com/beer/profile/3396/195557/,Black Pot,3396,Bridge Of Allan Brewery Ltd,1,3.96
+718,4.80,238054,https://www.beeradvocate.com/beer/profile/44667/238054/,Black Tuna,44667,Besaro,1,3.28
+719,4.90,57063,https://www.beeradvocate.com/beer/profile/13090/57063/,Night Beacon,13090,Breconshire Brewery,1,3.87
+720,4.80,242408,https://www.beeradvocate.com/beer/profile/28777/242408/,Tempest Stout,28777,Blue Bee Brewery,1,4
+721,4.80,95209,https://www.beeradvocate.com/beer/profile/31842/95209/,Calon Lan,31842,Gwaun Valley Brewery,1,2.6
+722,4.10,337642,https://www.beeradvocate.com/beer/profile/32996/337642/,Chopper (4.1%),32996,Six°North,1,3.16
+723,4.80,202987,https://www.beeradvocate.com/beer/profile/2739/202987/,Stout Irlandaise,2739,Golden Lion Brewing Company / Pub & Brasserie le Lion D'Or,1,3.5
+724,6.00,229355,https://www.beeradvocate.com/beer/profile/35652/229355/,GBF Smoke Pump Stout (Real Ale),35652,Nide Beer Ltd.,1,3.46
+725,6.30,308203,https://www.beeradvocate.com/beer/profile/40551/308203/,Berks Princess,40551,Beer Nouveau,1,4.25
+726,4.30,108012,https://www.beeradvocate.com/beer/profile/12272/108012/,Richly Deliquorice Stout,12272,Hobsons Brewery,1,3.44
+727, ? ,48876,https://www.beeradvocate.com/beer/profile/1811/48876/,What's Brewing? Stout,1811,Scottish Chief's Tavern Brewery,1,2.94
+728,5.20,153582,https://www.beeradvocate.com/beer/profile/38223/153582/,Kraken Virgen Negra Stout,38223,Cerveza Kraken,1,3.64
+729,4.10,38894,https://www.beeradvocate.com/beer/profile/13029/38894/,Brock,13029,Thornbridge Brewery,1,4.15
+730,4.30,313838,https://www.beeradvocate.com/beer/profile/8671/313838/,Stout Snout,8671,Slaughterhouse Brewery Ltd,1,4.04
+731,7.40,339695,https://www.beeradvocate.com/beer/profile/41246/339695/,Diggers Series 7 Double Stout,41246,Orbit Beers,1,3.83
+732,6.00,184815,https://www.beeradvocate.com/beer/profile/32026/184815/,Rio De Colônia - Stout Com Pitanga,32026,2cabeças,1,4
+733,5.00,109552,https://www.beeradvocate.com/beer/profile/27041/109552/,Crab House Oyster Stout,27041,Hunter's Brewery,1,3.25
+734,7.00,310257,https://www.beeradvocate.com/beer/profile/29068/310257/,Lost Tunnel: Deep Sea Diving Sea Salt Stout,29068,The Dayton Beer Company,1,4.03
+735,6.00,329714,https://www.beeradvocate.com/beer/profile/51923/329714/,Stone Mason Wheel Stout,51923,El Cantero Brewery,1,4
+736,5.00,130551,https://www.beeradvocate.com/beer/profile/35940/130551/,Oat Mill Stout,35940,The Bollington Brewing Co.,1,4.05
+737,5.00,184825,https://www.beeradvocate.com/beer/profile/41859/184825/,Coffee & Cream,41859,Cervecería Península,1,4.44
+738,4.70,266235,https://www.beeradvocate.com/beer/profile/48181/266235/,Flesberg Stout,48181,Numedal Stasjons Bryggeri (NSB),1,3.5
+739,4.50,217595,https://www.beeradvocate.com/beer/profile/3400/217595/,Sulwath Reinbeer,3400,Sulwath Brewers Ltd,1,3.37
+740,5.00,248060,https://www.beeradvocate.com/beer/profile/25943/248060/,Doodle Stout,25943,Binghams Brewery,1,4.03
+741,6.00,60156,https://www.beeradvocate.com/beer/profile/23241/60156/,Ossessa,23241,Birrificio Degli Archi,1,3.87
+742,4.50,210173,https://www.beeradvocate.com/beer/profile/34259/210173/,Blackheart Stout,34259,Yorkshire Heart Brewery,1,4.05
+743,5.10,173053,https://www.beeradvocate.com/beer/profile/40494/173053/,British Stout,40494,Lucky Envelope Brewing,1,4
+744,5.00,234496,https://www.beeradvocate.com/beer/profile/44540/234496/,Stout Bourbon Barrel Chips,44540,Browar Nepomucen,0,0
+745,4.00,212994,https://www.beeradvocate.com/beer/profile/41515/212994/,Dark Sky Stout,41515,Speyside Craft Brewery,0,0
+746,4.90,159492,https://www.beeradvocate.com/beer/profile/13473/159492/,Tamesis Extra Stout,13473,West Berkshire Brewery Company,0,0
+747,5.00,209925,https://www.beeradvocate.com/beer/profile/38397/209925/,Coffee Stout,38397,Prison Hill Brewing Company,0,0
+748,7.00,209415,https://www.beeradvocate.com/beer/profile/43704/209415/,Ditch Oil,43704,Three Blind Mice Brewery,0,0
+749,5.00,152327,https://www.beeradvocate.com/beer/profile/26697/152327/,Crno Pivo - Extra Stout,26697,Krugher & Brent,0,0
+750,4.50,138509,https://www.beeradvocate.com/beer/profile/36730/138509/,Diamond Black Stout,36730,Chantry Brewery,0,0
+751,4.30,316429,https://www.beeradvocate.com/beer/profile/40802/316429/,Double Chocolate Stout,40802,Hercules Brewing Company,0,0
+752,4.30,160016,https://www.beeradvocate.com/beer/profile/39140/160016/,Black Army Stout,39140,Pixie Spring Brewery,0,0
+753,5.00,327953,https://www.beeradvocate.com/beer/profile/47548/327953/,Black Forest,47548,Ocho Beer Co,0,0
+754,5.20,330515,https://www.beeradvocate.com/beer/profile/45462/330515/,Brune,45462,Brasserie Octopus,0,0
+755,4.00,165395,https://www.beeradvocate.com/beer/profile/34188/165395/,Town Crier’s Stout,34188,Doncaster Brewery,0,0
+756,5.00,316435,https://www.beeradvocate.com/beer/profile/41245/316435/,Cherry Stout,41245,Knockout Brewing,0,0
+757,5.20,336668,https://www.beeradvocate.com/beer/profile/51648/336668/,Strawberry Gum Stout,51648,Beer Farm,0,0
+758,5.00,336413,https://www.beeradvocate.com/beer/profile/51845/336413/,Sylvie,51845,Love City Brewing Company,0,0
+759, ? ,75554,https://www.beeradvocate.com/beer/profile/27427/75554/,Klosterporten Mild Stout,27427,Sorø Brughus,0,0
+760,6.25,238370,https://www.beeradvocate.com/beer/profile/42675/238370/,Pratinha Dark Moon,42675,Cervejaria Pratinha,0,0
+761,5.00,172840,https://www.beeradvocate.com/beer/profile/22279/172840/,Black William,22279,Adur Brewery Ltd.,0,0
+762,6.50,141609,https://www.beeradvocate.com/beer/profile/27129/141609/,Sierra Imperial Stout,27129,Ozzbeco (K) Ltd. (Sierra Premium),0,0
+763,5.50,205866,https://www.beeradvocate.com/beer/profile/13299/205866/,Hot Numbers Coffee Stout,13299,Cambridge Moonshine Brewery,0,0
+764,6.50,304682,https://www.beeradvocate.com/beer/profile/50603/304682/,Twiga Stout,50603,TwigaBrew,0,0
+765,4.00,229422,https://www.beeradvocate.com/beer/profile/42398/229422/,Potosína Malta,42398,Cervecería Nacional Potosí,0,0
+766,5.00,57393,https://www.beeradvocate.com/beer/profile/16257/57393/,Lime Burners Stout,16257,Tanglehead Brewing Company,0,0
+767,5.10,326710,https://www.beeradvocate.com/beer/profile/50277/326710/,Karbon,50277,Great British Breworks,0,0
+768,8.50,329271,https://www.beeradvocate.com/beer/profile/51563/329271/,Maybe Mañana,51563,Monzón Brewing Co.,0,0
+769,6.00,305976,https://www.beeradvocate.com/beer/profile/238/305976/,Dragon Glass Stout,238,Salem Beer Works,0,0
+770,5.00,234554,https://www.beeradvocate.com/beer/profile/35933/234554/,Belgian Stout,35933,Browar Artezan,0,0
+771,4.90,218683,https://www.beeradvocate.com/beer/profile/44615/218683/,Stout,44615,Cerveja Bolina,0,0
+772,5.60,312635,https://www.beeradvocate.com/beer/profile/24749/312635/,Dark Secret,24749,Monty's Brewery,0,0
+773,4.50,91458,https://www.beeradvocate.com/beer/profile/31203/91458/,Quantock Stout,31203,Quantock Brewery,0,0
+774,5.00,212805,https://www.beeradvocate.com/beer/profile/29175/212805/,Blackberry Stout,29175,St Andrews Brewing Company,0,0
+775,7.00,201798,https://www.beeradvocate.com/beer/profile/17891/201798/,Kona Kandy,17891,Deans Brothers Brewing Co.,0,0
+776,4.70,204614,https://www.beeradvocate.com/beer/profile/28276/204614/,Haninger Stout,28276,Khaninskaya Pivovarnya,0,0
+777,7.00,201799,https://www.beeradvocate.com/beer/profile/17891/201799/,Tart Cherry,17891,Deans Brothers Brewing Co.,0,0
+778,5.00,209223,https://www.beeradvocate.com/beer/profile/43468/209223/,Stout Keith,43468,The Keith Brewery,0,0
+779,5.00,326728,https://www.beeradvocate.com/beer/profile/49834/326728/,Robustus Lunam,49834,Half Moon Brewery,0,0
+780,4.20,333641,https://www.beeradvocate.com/beer/profile/779/333641/,Blackshore Stout,779,"Adnams plc, Sole Bay Brewery",0,0
+781,6.10,58186,https://www.beeradvocate.com/beer/profile/13391/58186/,Black Cat,13391,Fallen Angel Brewery,0,0
+782,4.00,137037,https://www.beeradvocate.com/beer/profile/11412/137037/,Le Ricochet,11412,Bedondaine & Bedons Ronds,0,0
+783,4.50,198990,https://www.beeradvocate.com/beer/profile/31624/198990/,Black Christmas,31624,Weird Beard Brew Co.,0,0
+784, ? ,164943,https://www.beeradvocate.com/beer/profile/24490/164943/,Experience,24490,Mobsby's Brasserie Artisanale,0,0
+785,4.90,221776,https://www.beeradvocate.com/beer/profile/38482/221776/,Chestnut Stout,38482,Belleville Brewing Co.,0,0
+786,7.50,335442,https://www.beeradvocate.com/beer/profile/47576/335442/,Reckless Abandon,47576,Intersect Brewing,0,0
+787,4.50,58198,https://www.beeradvocate.com/beer/profile/12128/58198/,Samphire Stout,12128,Fox Brewery Ltd,0,0
+788, ? ,200279,https://www.beeradvocate.com/beer/profile/36428/200279/,Afternoon Tea,36428,Artifex Brewing Company,0,0
+789,7.50,316760,https://www.beeradvocate.com/beer/profile/50301/316760/,Fella,50301,BareWolf Brewing,0,0
+790, ? ,334940,https://www.beeradvocate.com/beer/profile/42206/334940/,Chocolate Peanut Butter Stout,42206,Draught Horse Brewery,0,0
+791,5.50,311390,https://www.beeradvocate.com/beer/profile/30597/311390/,Shallow Mud Rye Stout,30597,Laughing Sun Brewing Co.,0,0
+792,5.50,337001,https://www.beeradvocate.com/beer/profile/39752/337001/,Obama's Redemption,39752,Chester Beer,0,0
+793,5.20,89706,https://www.beeradvocate.com/beer/profile/30821/89706/,Temstout,30821,Brew Bistro & Lounge,0,0
+794,4.60,157802,https://www.beeradvocate.com/beer/profile/38882/157802/,Monocle,38882,Indigenous Brewery,0,0
+795,5.50,142699,https://www.beeradvocate.com/beer/profile/37256/142699/,Trigger Stout,37256,Bespoke Brewers,0,0
+796,4.30,165484,https://www.beeradvocate.com/beer/profile/39491/165484/,Rackhams Mistress,39491,Bosun's Brewing Company,0,0
+797,5.50,141682,https://www.beeradvocate.com/beer/profile/35282/141682/,Black,35282,The Amanzimtoti Brewing Company,0,0
+798,5.50,202101,https://www.beeradvocate.com/beer/profile/43311/202101/,Nera Stout,43311,Birra dZaro,0,0
+799,4.20,184697,https://www.beeradvocate.com/beer/profile/40865/184697/,Light Stout By Pedro Sousa,40865,Post Scriptum Brewery,0,0
+800,4.20,153722,https://www.beeradvocate.com/beer/profile/36066/153722/,Pudding Stout,36066,Franklins Brewery,0,0
+801,7.00,336253,https://www.beeradvocate.com/beer/profile/41322/336253/,Dot Matrix,41322,Left Handed Giant Brewing Co.,0,0
+802,4.50,341629,https://www.beeradvocate.com/beer/profile/23249/341629/,Dry Stout Mandarina Bavaria,23249,The Kernel Brewery,0,0
+803,3.70,326785,https://www.beeradvocate.com/beer/profile/49651/326785/,Jolly Collier Stout,49651,Jolly Boys' Brewery,0,0
+804,5.50,153733,https://www.beeradvocate.com/beer/profile/36584/153733/,Coffee In The Morning,36584,Tap East,0,0
+805,5.50,337798,https://www.beeradvocate.com/beer/profile/29124/337798/,Coal Miners Stout,29124,4 Hearts Brewing,0,0
+806,4.50,259462,https://www.beeradvocate.com/beer/profile/31627/259462/,Luponero,31627,Birrificio Montelupo,0,0
+807,8.10,250249,https://www.beeradvocate.com/beer/profile/9369/250249/,Black Shield,9369,Myanmar Brewery and Distillery,0,0
+808,5.40,219277,https://www.beeradvocate.com/beer/profile/36381/219277/,Stocky Stout,36381,Mad Hatter Brewing,0,0
+809,5.50,248973,https://www.beeradvocate.com/beer/profile/47090/248973/,Loba Stout,47090,Cervejaria Loba,0,0
+810,7.80,330382,https://www.beeradvocate.com/beer/profile/40344/330382/,Noire,40344,Brasserie Franc-Comtoise,0,0
+811,5.70,262547,https://www.beeradvocate.com/beer/profile/30050/262547/,Love You Long Time,30050,Outlander Brewery & Pub,0,0
+812,5.20,162459,https://www.beeradvocate.com/beer/profile/39381/162459/,Quackcurrant And Liquorice Stout,39381,Green Duck Beer Co.,0,0
+813,4.60,253595,https://www.beeradvocate.com/beer/profile/46788/253595/,Kurna Chata,46788,Browar Łańcut,0,0
+814,5.50,282784,https://www.beeradvocate.com/beer/profile/49158/282784/,CCP-550 Coconut Coffee Robust Porter,49158,Mad Scientist Beer,0,0
+815,6.00,159908,https://www.beeradvocate.com/beer/profile/37484/159908/,Breakfast Stout,37484,Almasty Brewing Co.,0,0
+816,6.00,232612,https://www.beeradvocate.com/beer/profile/42085/232612/,Cornel 16° STOUT,42085,Podklášterní Pivovar Třebíč / Centrum Lihovar,0,0
+817,7.00,214181,https://www.beeradvocate.com/beer/profile/44256/214181/,BrewMaltster´s Black Soul,44256,Braxar GmbH,0,0
+818,6.00,329127,https://www.beeradvocate.com/beer/profile/51923/329127/,Stone Maison Black Quarry,51923,El Cantero Brewery,0,0
+819,5.20,235432,https://www.beeradvocate.com/beer/profile/38225/235432/,South Eastern Bloc,38225,Bullfinch Brewery,0,0
+820,4.00,146093,https://www.beeradvocate.com/beer/profile/34455/146093/,Black Mountain Stout,34455,Tudor Brewery,0,0
+821,5.00,205747,https://www.beeradvocate.com/beer/profile/39505/205747/,Saldens Stout,39505,Salden's Brewery,0,0
+822,5.00,330678,https://www.beeradvocate.com/beer/profile/43886/330678/,Shinshu Soba Stout,43886,Libushi,0,0
+823,4.20,246201,https://www.beeradvocate.com/beer/profile/33034/246201/,Black Vinyl Stout,33034,Signature Brew,0,0
+824,5.00,330171,https://www.beeradvocate.com/beer/profile/47467/330171/,Coironness,47467,Brasserie Des Rieux,0,0
+825,5.00,296635,https://www.beeradvocate.com/beer/profile/13299/296635/,Black Hole Stout,13299,Cambridge Moonshine Brewery,0,0
+826,4.50,233407,https://www.beeradvocate.com/beer/profile/45882/233407/,Ordum Kraken,45882,Ca Beleño,0,0
+827,8.00,331716,https://www.beeradvocate.com/beer/profile/47454/331716/,The Black Swan,47454,'t Brugs Bierinstituur,0,0
+828,7.20,327623,https://www.beeradvocate.com/beer/profile/51695/327623/,King Crow,51695,Little Critters Brewing Company Ltd,0,0
+829,4.60,158665,https://www.beeradvocate.com/beer/profile/38988/158665/,Black Smith,38988,Castles Brewery,0,0
+830,6.00,167115,https://www.beeradvocate.com/beer/profile/39996/167115/,Bière Du Vercors Noire,39996,Bière du Vercors,0,0
+831,6.20,327635,https://www.beeradvocate.com/beer/profile/51650/327635/,Toowoomba,51650,Affinity Brew Co,0,0
+832,5.00,219348,https://www.beeradvocate.com/beer/profile/44653/219348/,1914,44653,Mr Grundy's Brewery,0,0
+833,6.30,329181,https://www.beeradvocate.com/beer/profile/49378/329181/,Pop Ink,49378,Tibidabo Brewing,0,0
+834,5.60,329694,https://www.beeradvocate.com/beer/profile/28700/329694/,Robustus,28700,Roma Restaurant & Brewery,0,0
+835,6.00,176351,https://www.beeradvocate.com/beer/profile/40967/176351/,Sean 13°,40967,Browary Regionalne Wąsosz,0,0
+836,5.50,217827,https://www.beeradvocate.com/beer/profile/43749/217827/,Obscura,43749,Cerveja Aroeira,0,0
+837,4.80,219363,https://www.beeradvocate.com/beer/profile/44652/219363/,Lytham Stout,44652,Lytham Brewery,0,0
+838,5.00,206055,https://www.beeradvocate.com/beer/profile/43487/206055/,Coffee Stout,43487,ReUnion Brewery,0,0
+839,5.50,165357,https://www.beeradvocate.com/beer/profile/33420/165357/,Golgotha,33420,Wantsum Brewery,0,0
+840,6.10,268783,https://www.beeradvocate.com/beer/profile/47561/268783/,Oyster Stout,47561,Sober Island Brewing Co.,0,0
+841,4.60,234482,https://www.beeradvocate.com/beer/profile/44540/234482/,Dry Stout,44540,Browar Nepomucen,0,0
+842,4.80,337908,https://www.beeradvocate.com/beer/profile/21280/337908/,Stout,21280,Occy's Brewery,0,0
+843,6.00,238078,https://www.beeradvocate.com/beer/profile/46253/238078/,Stout,46253,Four Leaf Brewing,0,0

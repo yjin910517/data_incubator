@@ -1,0 +1,531 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,7.50,752,https://www.beeradvocate.com/beer/profile/209/752/,Guinness Foreign Extra Stout,209,Guinness Ltd.,"2,425",4.06
+1,8.80,1115,https://www.beeradvocate.com/beer/profile/389/1115/,Lion Stout,389,Ceylon / Lion Brewery Limited,"1,639",3.91
+2,7.00,69792,https://www.beeradvocate.com/beer/profile/199/69792/,Indra Kunindra,199,Ballast Point Brewing Company,"1,275",3.67
+3,8.50,54076,https://www.beeradvocate.com/beer/profile/418/54076/,Fade To Black - Volume 1,418,Left Hand Brewing Company,"1,001",4.08
+4,6.30,2131,https://www.beeradvocate.com/beer/profile/491/2131/,Best Extra Stout,491,Coopers Brewery Limited,681,3.84
+5,8.00,20905,https://www.beeradvocate.com/beer/profile/7944/20905/,Lump Of Coal Dark Holiday Stout,7944,Ridgeway Brewing,637,3.45
+6,7.00,966,https://www.beeradvocate.com/beer/profile/365/966/,Pike XXXXX Stout,365,Pike Brewing Company,622,3.99
+7,9.00,16509,https://www.beeradvocate.com/beer/profile/201/16509/,De Dolle Extra Export Stout,201,Brouwerij De Dolle Brouwers,595,3.88
+8,8.00,10848,https://www.beeradvocate.com/beer/profile/209/10848/,Guinness Special Export Stout / Antwerpen Stout,209,Guinness Ltd.,564,4.11
+9,7.50,150897,https://www.beeradvocate.com/beer/profile/31987/150897/,City Of The Dead,31987,Modern Times Beer,563,4.1
+10,7.50,747,https://www.beeradvocate.com/beer/profile/221/747/,Dragon Stout,221,Desnoes & Geddes Limited,502,3.48
+11,6.00,632,https://www.beeradvocate.com/beer/profile/179/632/,Zonker Stout,179,Snake River Brewing Company & Brewpub,499,4.17
+12,8.00,35157,https://www.beeradvocate.com/beer/profile/583/35157/,Schlafly Irish-Style Extra Stout,583,The Schlafly Tap Room,490,3.93
+13,8.20,12804,https://www.beeradvocate.com/beer/profile/195/12804/,Troubadour Obscura,195,Brouwerij De Musketiers,424,3.89
+14,7.00,3704,https://www.beeradvocate.com/beer/profile/1304/3704/,Tsunami Stout,1304,Pelican Pub & Brewery,406,4.03
+15,6.00,300514,https://www.beeradvocate.com/beer/profile/209/300514/,Guinness 200th Anniversary Export Stout,209,Guinness Ltd.,348,4.02
+16,6.80,87450,https://www.beeradvocate.com/beer/profile/23922/87450/,Phantom Punch Winter Stout,23922,Baxter Brewing Co.,312,3.75
+17,7.50,67709,https://www.beeradvocate.com/beer/profile/24659/67709/,Malpais Stout,24659,La Cumbre Brewing Co.,310,4.12
+18,7.50,53950,https://www.beeradvocate.com/beer/profile/339/53950/,Exit 1 Bayshore Oyster Stout.,339,Flying Fish Brewing Company,296,3.94
+19,8.00,88467,https://www.beeradvocate.com/beer/profile/923/88467/,Hibernal Vinifera Stout,923,Ska Brewing Co.,276,3.93
+20,7.00,16046,https://www.beeradvocate.com/beer/profile/2980/16046/,Black Bear XX Stout,2980,Alameda Brewhouse,255,3.93
+21,7.40,89349,https://www.beeradvocate.com/beer/profile/28/89349/,Argonaut Collection: Flying Cloud San Francisco Stout,28,Anchor Brewing Company,229,3.94
+22,10.00,132607,https://www.beeradvocate.com/beer/profile/17981/132607/,Da Un Beso A La Botella,17981,Cigar City Brewing,219,4.33
+23,8.00,768,https://www.beeradvocate.com/beer/profile/261/768/,Captain Swain's Extra Stout,261,Cisco Brewers Inc.,217,3.88
+24,7.00,73421,https://www.beeradvocate.com/beer/profile/26565/73421/,Dissent,26565,Steel Toe Brewing,209,3.95
+25,7.00,2520,https://www.beeradvocate.com/beer/profile/812/2520/,San Quentin Breakout Stout,812,Marin Brewing Company,190,3.86
+26,7.50,63166,https://www.beeradvocate.com/beer/profile/339/63166/,Exit 13 Chocolate Stout,339,Flying Fish Brewing Company,174,3.88
+27,6.90,77525,https://www.beeradvocate.com/beer/profile/18564/77525/,Foreign Style Stout,18564,Upslope Brewing Company - Lee Hill,141,3.65
+28,7.90,128948,https://www.beeradvocate.com/beer/profile/34149/128948/,Void Of Light,34149,Gun Hill Brewing Company,134,4.12
+29,5.80,6482,https://www.beeradvocate.com/beer/profile/451/6482/,Moat Square Tail Stout,451,Moat Mountain Smoke House & Brewing Co.,96,3.91
+30,8.20,64574,https://www.beeradvocate.com/beer/profile/23249/64574/,Export Stout,23249,The Kernel Brewery,95,4.26
+31,7.60,45414,https://www.beeradvocate.com/beer/profile/10260/45414/,Cazeau Tournay Noire,10260,Brasserie De Cazeau,95,3.69
+32,5.50,11493,https://www.beeradvocate.com/beer/profile/5313/11493/,Hakim Stout,5313,Harar Beer Factory,90,3.24
+33,8.00,21806,https://www.beeradvocate.com/beer/profile/7944/21806/,Foreign Export Stout,7944,Ridgeway Brewing,89,3.84
+34,8.50,24996,https://www.beeradvocate.com/beer/profile/552/24996/,Oesterstout,552,Scheldebrouwerij,84,3.73
+35,7.60,28769,https://www.beeradvocate.com/beer/profile/3073/28769/,Black Magic Stout,3073,Oggi's Pizza & Brewing Co.,75,3.59
+36,7.00,73079,https://www.beeradvocate.com/beer/profile/17981/73079/,Hot Blooded Foreign Stout,17981,Cigar City Brewing,74,4.16
+37,8.50,137844,https://www.beeradvocate.com/beer/profile/16773/137844/,Exorcist,16773,Local Option,70,4.02
+38,5.50,26801,https://www.beeradvocate.com/beer/profile/514/26801/,Jopen Extra Stout,514,Jopen Bier BV Haarlem,70,3.62
+39,7.60,23868,https://www.beeradvocate.com/beer/profile/9827/23868/,Jamaica Stout,9827,Big City Brewing CO LTD,68,3.69
+40,9.70,115879,https://www.beeradvocate.com/beer/profile/9629/115879/,Moher Export Irish Imperial Stout,9629,Short's Brewing Company,63,3.96
+41,5.80,65420,https://www.beeradvocate.com/beer/profile/16354/65420/,Bulls Bay Oyster Stout,16354,COAST Brewing Company,62,4.21
+42,7.60,57066,https://www.beeradvocate.com/beer/profile/22426/57066/,Strong Back Stout,22426,Bahamian Brewery Beverage & Co. Ltd.,61,3.76
+43,7.50,88607,https://www.beeradvocate.com/beer/profile/28742/88607/,Cosmos,28742,Enlightenment Ales,59,3.98
+44,7.30,5712,https://www.beeradvocate.com/beer/profile/1635/5712/,Black Hole XXX Stout,1635,Chelsea Craft Brewing Company,59,4.05
+45,6.50,7862,https://www.beeradvocate.com/beer/profile/1837/7862/,Old Mammoth Stout,1837,Buckeye Brewing Company,53,3.76
+46,7.50,78262,https://www.beeradvocate.com/beer/profile/14967/78262/,Cherry Bean Coffee Stout,14967,Brau Brothers Brewing Co. LLC,53,3.77
+47,7.00,86499,https://www.beeradvocate.com/beer/profile/24355/86499/,Big Head Stout,24355,Three Heads Brewing,53,3.65
+48,7.00,54919,https://www.beeradvocate.com/beer/profile/2097/54919/,Kuhnhenn Foreign Export Stout,2097,Kuhnhenn Brewing Company,52,3.84
+49,7.50,23134,https://www.beeradvocate.com/beer/profile/10544/23134/,Guinness Foreign Extra Stout (Africa),10544,Guinness Nigeria PLC,50,3.72
+50,5.80,15979,https://www.beeradvocate.com/beer/profile/1595/15979/,Cascade Stout,1595,Cascade Brewery Company Ltd.,49,3.37
+51,6.30,59989,https://www.beeradvocate.com/beer/profile/19163/59989/,Starkweather Stout,19163,Liberty Street Brewing Company,48,3.65
+52,7.50,52200,https://www.beeradvocate.com/beer/profile/281/52200/,Tsingtao Stout,281,"Tsingtao Brewery Co., Ltd.",48,3.27
+53,7.30,69441,https://www.beeradvocate.com/beer/profile/24047/69441/,Black Rock Stout,24047,Crossroads Brewing Company,46,4.15
+54,8.00,131222,https://www.beeradvocate.com/beer/profile/1805/131222/,Vermont Spruce Stout,1805,Rock Art Brewery,46,3.65
+55,5.90,23044,https://www.beeradvocate.com/beer/profile/9784/23044/,Extra Stout,9784,Zero Gravity Craft Brewery / American Flatbread,44,3.86
+56,5.00,40208,https://www.beeradvocate.com/beer/profile/1146/40208/,Honest Stout,1146,Goose Island Beer Co.,44,3.96
+57,7.70,743,https://www.beeradvocate.com/beer/profile/269/743/,Ceres Royal Stout (Ceres Extra Strong Stout),269,Ceres Brewery (Royal Unibrew),43,3.74
+58,8.60,83807,https://www.beeradvocate.com/beer/profile/21856/83807/,Batch 100 Stout,21856,Strand Brewing Co.,41,3.73
+59,6.50,36204,https://www.beeradvocate.com/beer/profile/221/36204/,Guinness Foreign Extra Stout (Jamaica),221,Desnoes & Geddes Limited,40,3.64
+60,6.60,176828,https://www.beeradvocate.com/beer/profile/38745/176828/,Hot Chocolate,38745,Fieldwork Brewing Co.,40,4.13
+61,7.20,161540,https://www.beeradvocate.com/beer/profile/35568/161540/,Dead Blow,35568,Braxton Brewing Company,39,3.89
+62,7.30,84912,https://www.beeradvocate.com/beer/profile/27773/84912/,Papa Bois,27773,Mystery Brewing Company,39,3.74
+63,7.40,121809,https://www.beeradvocate.com/beer/profile/23249/121809/,Export Stout London 1890,23249,The Kernel Brewery,38,4.09
+64,7.60,70752,https://www.beeradvocate.com/beer/profile/24764/70752/,Kinsale,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,37,3.84
+65,7.00,5551,https://www.beeradvocate.com/beer/profile/727/5551/,ABC Extra Stout,727,Asia Pacific Breweries Limited,36,3.33
+66,8.10,107257,https://www.beeradvocate.com/beer/profile/646/107257/,O'Hara's Barrel Aged Leann Folláin,646,Carlow Brewing Company,35,3.92
+67,7.00,49651,https://www.beeradvocate.com/beer/profile/3393/49651/,Organic Hibernator Export Oatmeal Stout,3393,Black Isle Brewery Co Ltd,34,3.9
+68,7.20,99145,https://www.beeradvocate.com/beer/profile/147/99145/,Cimmerian Portal,147,Stone Brewing,33,3.86
+69,6.00,89474,https://www.beeradvocate.com/beer/profile/20417/89474/,White Birch Rusalka,20417,White Birch Brewing,33,3.89
+70,8.10,155813,https://www.beeradvocate.com/beer/profile/34149/155813/,Barrel Aged Void Of Light,34149,Gun Hill Brewing Company,33,4.19
+71,7.40,5340,https://www.beeradvocate.com/beer/profile/1656/5340/,Southwark Old Stout,1656,South Australia Brewing Co.,33,3.86
+72,8.00,99604,https://www.beeradvocate.com/beer/profile/2266/99604/,Desert Select Export Stout,2266,Moab Brewery,32,4.04
+73,7.20,33922,https://www.beeradvocate.com/beer/profile/548/33922/,Trio Brouwerij Extra Stout,548,Oranjeboom Bierbrouwerij B. V.,32,3.58
+74,8.00,94673,https://www.beeradvocate.com/beer/profile/199/94673/,Indra Kunindra - Heaven Hill Bourbon Barrel-Aged,199,Ballast Point Brewing Company,32,3.96
+75,6.80,27682,https://www.beeradvocate.com/beer/profile/5266/27682/,Starry Night Stout,5266,Island Brewing Company,31,3.34
+76,6.10,10801,https://www.beeradvocate.com/beer/profile/16289/10801/,Space Stout,16289,Laurelwood Public House & Brewery,30,3.46
+77,7.00,19959,https://www.beeradvocate.com/beer/profile/3476/19959/,Sotholmen Extra Stout,3476,Nynäshamns Ångbryggeri,30,3.73
+78,5.50,143125,https://www.beeradvocate.com/beer/profile/2385/143125/,Seaport Vanilla Stout,2385,Lighthouse Brewing Company,29,3.9
+79,7.50,95649,https://www.beeradvocate.com/beer/profile/27920/95649/,Old Ford Export Stout,27920,Redchurch Brewery,28,3.88
+80,7.10,174540,https://www.beeradvocate.com/beer/profile/40061/174540/,Black Gold,40061,Biloxi Brewing Company,27,3.85
+81,6.00,141573,https://www.beeradvocate.com/beer/profile/22513/141573/,Sumatra Coffee Stout,22513,Madhouse Brewing Company,25,4.01
+82,5.90,44555,https://www.beeradvocate.com/beer/profile/18108/44555/,Ace Of Spades,18108,Brewboys,25,3.97
+83,7.00,119152,https://www.beeradvocate.com/beer/profile/30047/119152/,Alexander Black,30047,Alexander,25,3.72
+84,8.00,91570,https://www.beeradvocate.com/beer/profile/28000/91570/,Stout 8,28000,Brouwerij Maximus,25,3.64
+85,8.30,168680,https://www.beeradvocate.com/beer/profile/30179/168680/,Thudstaff,30179,Hoof Hearted Brewing,25,3.91
+86,6.80,42282,https://www.beeradvocate.com/beer/profile/16004/42282/,Guinness Foreign Extra Stout (Malaysia),16004,Guinness Anchor Berhad / Sungei Way Brewery,24,3.95
+87,5.20,146222,https://www.beeradvocate.com/beer/profile/664/146222/,Young's London Stout,664,Wells & Young's Ltd,24,3.74
+88,7.50,55404,https://www.beeradvocate.com/beer/profile/946/55404/,Guinness Foreign Extra (St. Lucia Version),946,Windward & Leeward Brewery Ltd.,24,3.73
+89,7.75,37256,https://www.beeradvocate.com/beer/profile/3447/37256/,Titanic Strong Stout,3447,Spinnakers Gastro Brewpub & Guesthouse,24,3.4
+90,5.40,5480,https://www.beeradvocate.com/beer/profile/999/5480/,Custer’s Last Stout,999,Montana Brewing Company,23,3.92
+91,7.00,63053,https://www.beeradvocate.com/beer/profile/15526/63053/,Greg,15526,Hopfenstark,22,4
+92,5.80,4467,https://www.beeradvocate.com/beer/profile/1595/4467/,Cascade Export Stout,1595,Cascade Brewery Company Ltd.,22,3.57
+93, ? ,230753,https://www.beeradvocate.com/beer/profile/35016/230753/,Lake Monster #4,35016,Oasis Texas Brewing Company,21,3.9
+94,7.40,193498,https://www.beeradvocate.com/beer/profile/25434/193498/,Buxton Extra Stout,25434,Buxton Brewery,21,4.21
+95,5.00,14269,https://www.beeradvocate.com/beer/profile/1472/14269/,Hite Stout,1472,Hite Brewery Company LTD,20,2.38
+96,7.00,28639,https://www.beeradvocate.com/beer/profile/9826/28639/,7200' Stout,9826,Altitude Chophouse & Brewery,20,3.61
+97,6.60,128012,https://www.beeradvocate.com/beer/profile/32477/128012/,Lunar Eclipse Stout,32477,Tomoka Brewery,19,3.7
+98,7.10,111733,https://www.beeradvocate.com/beer/profile/23108/111733/,Straight Thirty Weight Extra Stout,23108,Engine 15 Brewing Company,19,3.94
+99,6.40,122493,https://www.beeradvocate.com/beer/profile/34416/122493/,Correspondent Foreign Extra Stout,34416,Wander Brewing,19,3.9
+100,6.60,172479,https://www.beeradvocate.com/beer/profile/39446/172479/,Export Stout,39446,Braindead Brewing,19,3.52
+101,8.00,74697,https://www.beeradvocate.com/beer/profile/13981/74697/,Dark And Lusty Stout,13981,Canteen Brewhouse,19,3.77
+102,7.60,2797,https://www.beeradvocate.com/beer/profile/632/2797/,Stonehenge Stout,632,Triple Rock Brewery & Alehouse,19,3.91
+103,6.20,55541,https://www.beeradvocate.com/beer/profile/11747/55541/,Stout,11747,Hargreaves Hill Brewing Company,19,3.69
+104,6.00,208634,https://www.beeradvocate.com/beer/profile/25045/208634/,Mint Stout,25045,Blackrocks Brewery,19,3.8
+105,7.20,176925,https://www.beeradvocate.com/beer/profile/35568/176925/,Dead Blow - Coffee,35568,Braxton Brewing Company,18,4.12
+106, ? ,96840,https://www.beeradvocate.com/beer/profile/26565/96840/,Dissent - Barrel Aged,26565,Steel Toe Brewing,18,4.22
+107,8.00,12773,https://www.beeradvocate.com/beer/profile/1885/12773/,Black Panther Premium Stout,1885,Cambrew / Angkor Brewery,18,3.27
+108,6.70,32284,https://www.beeradvocate.com/beer/profile/1922/32284/,Jamaican Style Stout,1922,Sunday River Brewing Co.,17,3.51
+109,7.50,46890,https://www.beeradvocate.com/beer/profile/944/46890/,Guinness Foreign Extra Stout (Bahamas),944,Commonwealth Brewery Ltd.,17,3.81
+110,5.00,89388,https://www.beeradvocate.com/beer/profile/22928/89388/,Jamaica Me Coconuts!,22928,Barrier Brewing Company,17,3.91
+111,10.00,66916,https://www.beeradvocate.com/beer/profile/221/66916/,Dragon Stout Spitfire,221,Desnoes & Geddes Limited,17,3.24
+112,6.70,8093,https://www.beeradvocate.com/beer/profile/3440/8093/,JT Schmid's Extra Stout,3440,JT Schmid's Restaurant & Brewery,17,3.67
+113,8.00,23532,https://www.beeradvocate.com/beer/profile/721/23532/,Danish Royal Stout,721,Carlsberg Danmark A/S,16,3.32
+114,5.50,21265,https://www.beeradvocate.com/beer/profile/10545/21265/,Slurry Bomber Stout,10545,Glacier Brewing Company,15,3.65
+115,10.50,121439,https://www.beeradvocate.com/beer/profile/14238/121439/,Baltic Trader,14238,Green Jack Brewery / The Triangle Tavern,15,4.25
+116,7.70,94908,https://www.beeradvocate.com/beer/profile/20791/94908/,Ultimate Stout,20791,Bristol Beer Factory,15,3.84
+117,8.00,83812,https://www.beeradvocate.com/beer/profile/27844/83812/,Fuzzy Muttness,27844,Round Guys Brewing Company,14,3.9
+118,7.00,210188,https://www.beeradvocate.com/beer/profile/35134/210188/,Londen,35134,Dageraad Brewing,13,3.8
+119,4.50,142434,https://www.beeradvocate.com/beer/profile/24134/142434/,Dry Irish Stout,24134,Westbrook Brewing Co.,13,3.51
+120,8.00,150418,https://www.beeradvocate.com/beer/profile/32382/150418/,Export Stout,32382,Jekyll Brewing,13,3.8
+121,6.20,251823,https://www.beeradvocate.com/beer/profile/33736/251823/,Export Stout,33736,Ponysaurus Brewing Co.,13,3.91
+122,6.10,113107,https://www.beeradvocate.com/beer/profile/33192/113107/,08|01 Stout (Export Strength),33192,Brew By Numbers,13,3.91
+123,6.30,167396,https://www.beeradvocate.com/beer/profile/32931/167396/,Shoutout Stout,32931,Cellarmaker Brewing Co.,13,3.93
+124, ? ,80922,https://www.beeradvocate.com/beer/profile/28608/80922/,Dark Matter,28608,Brewfinity Brewing Company,12,3.84
+125,6.60,54833,https://www.beeradvocate.com/beer/profile/10271/54833/,Darkside Stout,10271,Silver Moon Brewing,12,3.71
+126,6.30,183867,https://www.beeradvocate.com/beer/profile/26850/183867/,Tropical Drank,26850,Against The Grain Brewery & Smokehouse,12,4.03
+127,6.00,95046,https://www.beeradvocate.com/beer/profile/28000/95046/,Stout 6,28000,Brouwerij Maximus,12,3.34
+128,6.70,67252,https://www.beeradvocate.com/beer/profile/8930/67252/,Dempsey's Ugly Dog Stout,8930,Dempsey's Restaurant And Brewery,12,3.58
+129,6.50,112110,https://www.beeradvocate.com/beer/profile/27946/112110/,Soulman Stout,27946,Track 7 Brewing Co.,12,3.8
+130,7.70,251394,https://www.beeradvocate.com/beer/profile/31441/251394/,Joppa Grande,31441,Newburyport Brewing Company,11,4.04
+131,6.70,127057,https://www.beeradvocate.com/beer/profile/35529/127057/,Dirty Frank Stout,35529,River's Edge Brewing Co,11,3.71
+132,9.00,99241,https://www.beeradvocate.com/beer/profile/27257/99241/,Irish Gael,27257,King Street Brewing Company,11,3.9
+133,6.90,135352,https://www.beeradvocate.com/beer/profile/29693/135352/,Foreign Export Stout,29693,Reuben's Brews,11,3.98
+134,7.90,299072,https://www.beeradvocate.com/beer/profile/15435/299072/,Sergeant Stripes,15435,Beau's All Natural Brewing Company,10,3.9
+135,7.00,315557,https://www.beeradvocate.com/beer/profile/45129/315557/,Ca Phe,45129,Urban South Brewery,10,4.03
+136,7.30,100283,https://www.beeradvocate.com/beer/profile/26934/100283/,Phantom Cat,26934,Black Acre Brewing Co.,10,3.9
+137,10.00,98494,https://www.beeradvocate.com/beer/profile/221/98494/,Dragon Stout XXtra,221,Desnoes & Geddes Limited,10,3.2
+138,6.40,255184,https://www.beeradvocate.com/beer/profile/38070/255184/,Excitation,38070,Category 12 Brewing,10,4.01
+139,6.50,57043,https://www.beeradvocate.com/beer/profile/22411/57043/,Duits & Lauret Stout,22411,Duits & Lauret Speciaalbierbrouwerij,10,3.61
+140,6.00,249049,https://www.beeradvocate.com/beer/profile/45685/249049/,Event Horizon,45685,Halo Brewery,10,4.04
+141,6.90,177121,https://www.beeradvocate.com/beer/profile/39308/177121/,Confector,39308,Medusa Brewing Company,10,3.95
+142,7.00,105967,https://www.beeradvocate.com/beer/profile/31171/105967/,Scenic Stout,31171,Discretion Brewing,10,4.04
+143,5.60,110075,https://www.beeradvocate.com/beer/profile/33320/110075/,Bridgetown Stout,33320,Freehouse Brewery,10,3.63
+144,6.80,74257,https://www.beeradvocate.com/beer/profile/24957/74257/,Stout + Moedig,24957,Brouwerij De 7 Deugden,9,3.35
+145,6.24,76335,https://www.beeradvocate.com/beer/profile/19658/76335/,Big Mama Stout,19658,Brasserie de Jandrain-Jandrenouille,9,3.52
+146, ? ,171599,https://www.beeradvocate.com/beer/profile/1666/171599/,Extra Stout,1666,Selin's Grove Brewing Company,9,4.05
+147,9.00,55636,https://www.beeradvocate.com/beer/profile/11960/55636/,Jean Chris Numero 2,11960,Microbrasserie Sainte-Hélène,9,4.13
+148,6.00,166486,https://www.beeradvocate.com/beer/profile/28764/166486/,Every Little Bean They Roast Is Magic Coffee Stout,28764,West Sixth Brewing Company,9,4.01
+149,7.20,208231,https://www.beeradvocate.com/beer/profile/36366/208231/,Black Mamba,36366,LauderAle,9,4.15
+150,7.50,150913,https://www.beeradvocate.com/beer/profile/16049/150913/,345 Stout,16049,Cayman Islands Brewery Ltd.,9,4.06
+151,6.50,218768,https://www.beeradvocate.com/beer/profile/44629/218768/,Deep Space,44629,Fabryka Piwa,9,3.88
+152,6.00,123828,https://www.beeradvocate.com/beer/profile/1337/123828/,Su-Bourbon,1337,Pizza Port Solana Beach,9,3.82
+153,4.30,55236,https://www.beeradvocate.com/beer/profile/21833/55236/,Pagoa Stout,21833,Euskal Garagardoa S.L.,9,2.83
+154,8.50,74243,https://www.beeradvocate.com/beer/profile/10523/74243/,Wisby Oaked Porter,10523,Gotlands Bryggeri,8,4.01
+155,8.60,91399,https://www.beeradvocate.com/beer/profile/30909/91399/,Foreign Export Stout (FES),30909,Partizan Brewery,8,4.17
+156,6.00,120365,https://www.beeradvocate.com/beer/profile/33013/120365/,Killjoy,33013,Brassneck Brewery,8,3.69
+157,7.50,151918,https://www.beeradvocate.com/beer/profile/545/151918/,Gouverneur Stout,545,Lindeboom Bierbrouwerij B.V.,8,2.85
+158,5.70,112503,https://www.beeradvocate.com/beer/profile/9784/112503/,Bermuda Triangle,9784,Zero Gravity Craft Brewery / American Flatbread,8,3.81
+159,7.20,170893,https://www.beeradvocate.com/beer/profile/744/170893/,Return Of The Dread,744,Little Creatures Brewing Company,8,3.83
+160,6.80,220335,https://www.beeradvocate.com/beer/profile/31722/220335/,The Rosary,31722,Burial Beer Co.,8,4.08
+161,8.50,121282,https://www.beeradvocate.com/beer/profile/9220/121282/,Hawkshead Brodie's Prime Export,9220,Hawkshead Brewery / Staveley Brewery & Beer Hall,8,3.62
+162,5.60,110062,https://www.beeradvocate.com/beer/profile/28873/110062/,Stoutstanding,28873,Dragoon Brewing Co.,8,3.9
+163,7.70,89840,https://www.beeradvocate.com/beer/profile/30409/89840/,Lion Heart Stout,30409,West Flanders Brewing Co.,8,3.95
+164,7.50,224265,https://www.beeradvocate.com/beer/profile/44005/224265/,8: Foreign Exchange Stout,44005,The Exchange Brewery,7,3.88
+165,10.40,230433,https://www.beeradvocate.com/beer/profile/63/230433/,Flanders Black Ale,63,Deschutes Brewery,7,4.22
+166,5.20,55895,https://www.beeradvocate.com/beer/profile/21275/55895/,Mussel Stout,21275,Bellarine Brewing Co.,7,3.64
+167,8.00,57438,https://www.beeradvocate.com/beer/profile/1885/57438/,Angkor Extra Stout,1885,Cambrew / Angkor Brewery,7,2.87
+168,8.00,129412,https://www.beeradvocate.com/beer/profile/35481/129412/,Midnight Oil,35481,Hamilton Family Brewery,7,3.94
+169,8.00,89249,https://www.beeradvocate.com/beer/profile/27273/89249/,Rocket Bird,27273,Forest & Main Brewing Company,7,4.35
+170,5.70,206813,https://www.beeradvocate.com/beer/profile/35259/206813/,"Tall, Dark & Handsome",35259,Alvarado Street Brewery,7,3.8
+171,6.60,193767,https://www.beeradvocate.com/beer/profile/39308/193767/,Witchfinder General,39308,Medusa Brewing Company,7,3.7
+172,8.00,224747,https://www.beeradvocate.com/beer/profile/36199/224747/,Big Mama,36199,NovaBirra,7,4.18
+173,6.60,163311,https://www.beeradvocate.com/beer/profile/32326/163311/,Foreign Policy,32326,Tapistry Brewing,7,3.72
+174,8.00,233469,https://www.beeradvocate.com/beer/profile/44130/233469/,Briny Deep,44130,Mollusk Restaurant & Brewery,7,3.93
+175, ? ,40446,https://www.beeradvocate.com/beer/profile/835/40446/,Traveler Foreign Stout,835,Barley Creek Brewing Company,7,3.52
+176,8.00,54292,https://www.beeradvocate.com/beer/profile/716/54292/,Asahi English Type Dark,716,Asahi Breweries Ltd,6,3.69
+177,7.10,226364,https://www.beeradvocate.com/beer/profile/40061/226364/,Black Gold Breakfast Blend,40061,Biloxi Brewing Company,6,4
+178,7.00,17728,https://www.beeradvocate.com/beer/profile/3604/17728/,Stout,3604,"Hidatakayama Brewing Agricultural Corporation, Ltd",6,3.87
+179,7.00,257382,https://www.beeradvocate.com/beer/profile/47598/257382/,Reformation,47598,Wooden Cask Brewing Company,6,3.85
+180,6.50,200039,https://www.beeradvocate.com/beer/profile/3778/200039/,Brok Extra Stout,3778,Browar Van Pur S.A. (Brau Union Polska),6,3.21
+181,8.00,18291,https://www.beeradvocate.com/beer/profile/221/18291/,Jamaica Stout,221,Desnoes & Geddes Limited,6,3.09
+182,6.30,170891,https://www.beeradvocate.com/beer/profile/16289/170891/,Espresso Stout,16289,Laurelwood Public House & Brewery,6,4.01
+183,7.20,290700,https://www.beeradvocate.com/beer/profile/36061/290700/,Shed No Tears,36061,Dominion City Brewing Co.,6,3.97
+184,8.00,92050,https://www.beeradvocate.com/beer/profile/9369/92050/,ABC Extra Stout,9369,Myanmar Brewery and Distillery,6,3.31
+185,6.40,176319,https://www.beeradvocate.com/beer/profile/40968/176319/,Noc Kupały,40968,BR Perun SA,6,3.68
+186,6.10,43265,https://www.beeradvocate.com/beer/profile/3599/43265/,Midnight Oil Export Stout,3599,Baird Brewing Company / Fishmarket Taproom,5,4.17
+187,7.00,27658,https://www.beeradvocate.com/beer/profile/11412/27658/,La Dernière Brosse,11412,Bedondaine & Bedons Ronds,5,3.61
+188,7.00,313891,https://www.beeradvocate.com/beer/profile/43107/313891/,Bat Country,43107,4th Tap Brewing Co-op,5,3.68
+189,6.80,71222,https://www.beeradvocate.com/beer/profile/18539/71222/,Ramsey's Export Stout,18539,Devils Backbone Brewing Company,5,3.77
+190,6.20,36415,https://www.beeradvocate.com/beer/profile/15999/36415/,Cerveza Negra Extra,15999,Cerveceria Artesanal El Bolson,5,2.91
+191,6.80,211542,https://www.beeradvocate.com/beer/profile/33103/211542/,7000000000000 Lights Years Of Infinite Darkness,33103,The Courtyard Brewery,5,3.99
+192,7.60,149085,https://www.beeradvocate.com/beer/profile/2447/149085/,Ol' Cameron,2447,Coronado Brewing Company,5,3.81
+193,7.40,136033,https://www.beeradvocate.com/beer/profile/1784/136033/,Irie Tropic Stout,1784,Outer Banks Brewing Station,5,3.35
+194,7.00,317047,https://www.beeradvocate.com/beer/profile/24880/317047/,Coconut Extra Stout,24880,Mother's Brewing Company,5,3.86
+195,6.80,145530,https://www.beeradvocate.com/beer/profile/36336/145530/,Stout,36336,North River Hops and Brewing,5,4.04
+196,8.40,322430,https://www.beeradvocate.com/beer/profile/43244/322430/,Greetings from Skibb,43244,Castle Island Brewing Co.,5,4.26
+197,6.50,101002,https://www.beeradvocate.com/beer/profile/3801/101002/,Brok Stout Export,3801,Brok Brewery,5,3.56
+198,6.90,219082,https://www.beeradvocate.com/beer/profile/179/219082/,Nitro Zonker,179,Snake River Brewing Company & Brewpub,5,4.39
+199,7.20,269776,https://www.beeradvocate.com/beer/profile/18823/269776/,Belgian Hostel Slumber Party,18823,Freetail Brewing Company,5,3.91
+200,7.00,46844,https://www.beeradvocate.com/beer/profile/18893/46844/,Noire De Fleurac,18893,La Brasserie de Fleurac,5,3.84
+201,8.30,225046,https://www.beeradvocate.com/beer/profile/42346/225046/,Kingpin Turbo Geezer,42346,Browar Kingpin,4,4.28
+202,9.10,271899,https://www.beeradvocate.com/beer/profile/38963/271899/,Coleman's On Craic Imperial Stout,38963,Half Door Brewing Co.,4,4.17
+203,6.50,113184,https://www.beeradvocate.com/beer/profile/30983/113184/,Casanova,30983,Trophy Brewing,4,3.6
+204,6.60,89385,https://www.beeradvocate.com/beer/profile/1168/89385/,Tropical Stout,1168,Barley John's Brew Pub,4,3.72
+205,6.00,50985,https://www.beeradvocate.com/beer/profile/500/50985/,Djogo Stout,500,Surinaamse Brouwerij N.V.,4,2.26
+206,5.50,28459,https://www.beeradvocate.com/beer/profile/9329/28459/,Bintara Black Beer,9329,Bintara Brewery,4,2.9
+207,6.00,106551,https://www.beeradvocate.com/beer/profile/646/106551/,O’Hara’s Christmas Velvet,646,Carlow Brewing Company,4,3.73
+208,7.00,77368,https://www.beeradvocate.com/beer/profile/4302/77368/,Sorrel Stout,4302,"Belize Brewing Co., Ltd.",4,3.42
+209,8.00,90426,https://www.beeradvocate.com/beer/profile/30940/90426/,ABC Extra Stout,30940,Cambodia Brewery Limited,4,3.37
+210,7.00,170053,https://www.beeradvocate.com/beer/profile/40307/170053/,Export Stout,40307,Boundary Brewing Cooperative,4,3.69
+211,7.50,112966,https://www.beeradvocate.com/beer/profile/2972/112966/,Cherry Chocolate Stout,2972,Mountain Sun Pub & Brewery,4,3.49
+212,8.20,112754,https://www.beeradvocate.com/beer/profile/24007/112754/,Peat Smoked Export Stout,24007,Black Swan Brewpub,4,4.04
+213,5.70,191363,https://www.beeradvocate.com/beer/profile/73/191363/,Shuck It Oyster Stout,73,Great Lakes Brewing Co.,4,3.97
+214,7.50,331403,https://www.beeradvocate.com/beer/profile/492/331403/,Raspberry Export Stout,492,Vancouver Island Brewing,4,3.83
+215,7.00,335247,https://www.beeradvocate.com/beer/profile/26565/335247/,Campfire Dissent,26565,Steel Toe Brewing,4,4
+216,8.60,161442,https://www.beeradvocate.com/beer/profile/33192/161442/,08|02 Stout (Imperial),33192,Brew By Numbers,4,3.86
+217,7.00,69796,https://www.beeradvocate.com/beer/profile/2253/69796/,Double Black Diamond Extreme Stout,2253,Blackfoot River Brewing Company,4,4.19
+218,8.50,129964,https://www.beeradvocate.com/beer/profile/35874/129964/,Victorian Export Stout,35874,Brewery Becker,4,3.7
+219,7.00,293296,https://www.beeradvocate.com/beer/profile/36629/293296/,Foreign Extra Stout,36629,Pryes Brewing Company,4,4.11
+220,6.50,120752,https://www.beeradvocate.com/beer/profile/32910/120752/,Foreign Extra Stout,32910,Station 26 Brewing Co.,4,3.61
+221,7.50,116676,https://www.beeradvocate.com/beer/profile/272/116676/,Guinness Foreign Extra Stout,272,Carib Brewery Limited,4,3.92
+222,6.10,185292,https://www.beeradvocate.com/beer/profile/31515/185292/,Belgian Export Stout,31515,Liquid Riot Bottling Company,4,3.82
+223,8.00,316890,https://www.beeradvocate.com/beer/profile/42619/316890/,Moreau Coconut Tropical Stout,42619,Bench Creek Brewing,4,4.02
+224,6.00,122610,https://www.beeradvocate.com/beer/profile/34893/122610/,King Kong,34893,Clare Valley Brewing Co.,4,3.77
+225,7.00,93172,https://www.beeradvocate.com/beer/profile/30011/93172/,Kiasu Stout,30011,Barefoot Brewing Company (Jungle Beer),4,4
+226,6.80,173048,https://www.beeradvocate.com/beer/profile/209/173048/,Guinness Foreign Extra Stout (Malaysia/Hong Kong/China),209,Guinness Ltd.,4,3.96
+227,7.00,122877,https://www.beeradvocate.com/beer/profile/914/122877/,Sacajawea Stout,914,Lewis & Clark Brewing Company,4,3.92
+228,7.00,159498,https://www.beeradvocate.com/beer/profile/38180/159498/,Canaan Stout,38180,Canaan Brewery,3,3.02
+229,9.60,244510,https://www.beeradvocate.com/beer/profile/38443/244510/,Christmas In July,38443,Torn Label Brewing Co.,3,3.9
+230,8.00,63010,https://www.beeradvocate.com/beer/profile/24073/63010/,Æther Blæc,24073,Hardknott Brewery,3,3.34
+231, ? ,98596,https://www.beeradvocate.com/beer/profile/11814/98596/,Dramanatrix Foreign Extra Stout,11814,Saugatuck Brewing Company,3,4.08
+232, ? ,126762,https://www.beeradvocate.com/beer/profile/31372/126762/,F.E.S. (Foreign Extra Stout),31372,Carson's Brewery,3,4.24
+233,7.00,292395,https://www.beeradvocate.com/beer/profile/1304/292395/,Berried At Sea,1304,Pelican Pub & Brewery,3,3.48
+234,8.50,109868,https://www.beeradvocate.com/beer/profile/28648/109868/,Alpha Crepuscle,28648,Cerveses Alpha SL,3,3.19
+235, ? ,98868,https://www.beeradvocate.com/beer/profile/1340/98868/,FX Stout,1340,Gaslight Brewery & Restaurant,3,3.49
+236,5.00,35127,https://www.beeradvocate.com/beer/profile/7403/35127/,Turk's Head Stout,7403,Turks Head Brewery,3,3.9
+237,6.00,80958,https://www.beeradvocate.com/beer/profile/28965/80958/,Kvarnöns Imperial Stout,28965,Motala Brygghus,3,3.23
+238,7.00,154184,https://www.beeradvocate.com/beer/profile/33525/154184/,#WHISKERStOUT,33525,Stoup Brewing,3,3.87
+239,8.50,287063,https://www.beeradvocate.com/beer/profile/48628/287063/,Castle Dangerous,48628,Yorkshire Square Brewery,3,4.5
+240,6.00,46171,https://www.beeradvocate.com/beer/profile/16110/46171/,Sinister Stout,16110,Rivertowne Pourhouse,3,3.95
+241,7.50,242793,https://www.beeradvocate.com/beer/profile/34779/242793/,Export Stout,34779,Saint Benjamin Brewing Company,3,3.86
+242,7.40,250990,https://www.beeradvocate.com/beer/profile/13029/250990/,Fika,13029,Thornbridge Brewery,3,4.05
+243,7.50,58741,https://www.beeradvocate.com/beer/profile/15908/58741/,Guinness (Ghana),15908,Guinness Ghana Breweries Group,3,3.82
+244,11.50,106870,https://www.beeradvocate.com/beer/profile/21329/106870/,Mrs. Stoutfire,21329,Cool Springs Brewery,3,3.75
+245,8.20,168060,https://www.beeradvocate.com/beer/profile/32331/168060/,Nachtschot,32331,Pontus Brewing,3,3.57
+246,6.70,171683,https://www.beeradvocate.com/beer/profile/29911/171683/,Resolute,29911,Ol' Republic Brewery,3,4.02
+247,6.80,85668,https://www.beeradvocate.com/beer/profile/6045/85668/,Blackburn Stout,6045,Iron Hill Brewery & Restaurant,3,3.5
+248,5.90,334003,https://www.beeradvocate.com/beer/profile/38220/334003/,ART16 Blueberry Foreign Extra Stout Nitro,38220,Browar Stu Mostów,3,3.95
+249,6.60,94655,https://www.beeradvocate.com/beer/profile/23249/94655/,Stout,23249,The Kernel Brewery,3,4.19
+250,4.80,28101,https://www.beeradvocate.com/beer/profile/11410/28101/,Captain Bill Bartrams Cherry Stout,11410,Bartrams Brewery,3,3.45
+251,8.50,220629,https://www.beeradvocate.com/beer/profile/36484/220629/,Ancient Bone Saber Of Zumakalis,36484,Oliphant Brewing,3,3.91
+252,6.00,205527,https://www.beeradvocate.com/beer/profile/25482/205527/,Signal Belgian Stout,25482,Eight Degrees Brewing,3,3.82
+253,7.50,317145,https://www.beeradvocate.com/beer/profile/24659/317145/,Bourbon Barrel Aged Malpais Stout Aged With Cocoa Nibs and Coconut,24659,La Cumbre Brewing Co.,3,4.23
+254,7.80,243177,https://www.beeradvocate.com/beer/profile/44279/243177/,Foreign Extra Stout,44279,Trusty Brewing Co.,3,3.85
+255,7.20,48108,https://www.beeradvocate.com/beer/profile/16294/48108/,Midtfyns Stout,16294,Midtfyns Bryghus,3,3.96
+256,6.50,222711,https://www.beeradvocate.com/beer/profile/44496/222711/,Morion,44496,Zámecký Pivovar Frýdlant,3,3.91
+257,7.50,269066,https://www.beeradvocate.com/beer/profile/27802/269066/,Export Stout,27802,Brasserie Du Mont Salève,2,4.16
+258,4.60,258826,https://www.beeradvocate.com/beer/profile/46718/258826/,Spindrifter,46718,Collusion Tap Works,2,3.63
+259,7.20,239372,https://www.beeradvocate.com/beer/profile/37859/239372/,Trio Extra Stout,37859,United Dutch Breweries B.V.,2,2.94
+260,6.20,137234,https://www.beeradvocate.com/beer/profile/23391/137234/,Duplessis,23391,Brasserie Artisanale La Fabrique,2,3.87
+261,8.00,224278,https://www.beeradvocate.com/beer/profile/35916/224278/,Blame Canada,35916,Browar Birbant,2,2.91
+262,8.00,134687,https://www.beeradvocate.com/beer/profile/31515/134687/,Ouroboros Stout,31515,Liquid Riot Bottling Company,2,4.17
+263,8.00,200480,https://www.beeradvocate.com/beer/profile/43195/200480/,Cuello Negro Stout,43195,Cerveza Artesanal Cuello Negro,2,4.17
+264,6.50,228640,https://www.beeradvocate.com/beer/profile/31492/228640/,Finnegan's Ladder FES,31492,Shebeen Brewing Company,2,3.67
+265,7.00,231200,https://www.beeradvocate.com/beer/profile/36539/231200/,Foreign Export Coffee Stout,36539,Mockery Brewing Co.,2,3.9
+266,7.30,302368,https://www.beeradvocate.com/beer/profile/37809/302368/,Katabasis,37809,Ethereal Brewing,2,4.31
+267,8.10,265761,https://www.beeradvocate.com/beer/profile/46739/265761/,North,46739,Brouwerij Frontaal,2,4.17
+268,7.10,184359,https://www.beeradvocate.com/beer/profile/15191/184359/,Export Stout,15191,Allendale Brew Company Limited,2,3.96
+269,5.70,269096,https://www.beeradvocate.com/beer/profile/34672/269096/,Shagbark Stout,34672,Sweetgrass Brewing Co.,2,3.75
+270,5.20,47912,https://www.beeradvocate.com/beer/profile/1550/47912/,Low Country Stout,1550,Rock Bottom Restaurant & Brewery,2,3.72
+271,7.50,113961,https://www.beeradvocate.com/beer/profile/34111/113961/,Sylvania Stout Mark David,34111,Sugar Ridge Brewery,2,3.68
+272,5.50,59177,https://www.beeradvocate.com/beer/profile/18879/59177/,Export Stout,18879,Chuckanut Brewery & Kitchen,2,3.42
+273,7.00,243759,https://www.beeradvocate.com/beer/profile/32991/243759/,Night Caravan,32991,Stormcloud Brewing Company,2,4.05
+274,6.50,120885,https://www.beeradvocate.com/beer/profile/25252/120885/,Stout,25252,Goodieson Brewery,2,3.25
+275,9.20,298041,https://www.beeradvocate.com/beer/profile/44285/298041/,Georgia On My Grind,44285,Torched Hop Brewing Company,2,3.85
+276,5.80,223302,https://www.beeradvocate.com/beer/profile/345/223302/,D'Town Drafts: Donnybrook Extra Stout,345,Victory Brewing Company - Downingtown,2,3.95
+277,7.50,104264,https://www.beeradvocate.com/beer/profile/27291/104264/,Xtreem Stout,27291,Brouwerij De Eem,2,3.73
+278,8.00,225868,https://www.beeradvocate.com/beer/profile/41210/225868/,Salamander Series : Utopian Stout,41210,Lacada Brewery Co-op,2,3.99
+279,8.50,336205,https://www.beeradvocate.com/beer/profile/31372/336205/,Barrel Reserve Club 49: F.E.S. (Foreign Export Stout) Rye,31372,Carson's Brewery,2,3.75
+280,8.50,336206,https://www.beeradvocate.com/beer/profile/31372/336206/,Barrel Reserve Club 49: F.E.S. (Foreign Export Stout) Bourbon,31372,Carson's Brewery,2,3.75
+281, ? ,61009,https://www.beeradvocate.com/beer/profile/4555/61009/,Thunder Horse Nitro Stout,4555,Tustin Brewing Company,2,3.08
+282,6.50,324692,https://www.beeradvocate.com/beer/profile/33873/324692/,Hollandse Nieuwe,33873,Brouwerij het Uiltje,2,2.63
+283,8.40,247127,https://www.beeradvocate.com/beer/profile/42109/247127/,Liquid Jesus,42109,Third Monk Brewing Company,2,4.12
+284,5.80,136288,https://www.beeradvocate.com/beer/profile/23993/136288/,Janky Stout,23993,Malmö Brewing Co,2,4.12
+285,6.80,83299,https://www.beeradvocate.com/beer/profile/29374/83299/,Mahina Stout,29374,Cervecería Rapa Nui,2,4.06
+286,7.10,227690,https://www.beeradvocate.com/beer/profile/40874/227690/,FES (Foreign Extra Stout),40874,Akasha Brewing Company,2,3.5
+287,7.00,22904,https://www.beeradvocate.com/beer/profile/1457/22904/,Arbor Brewing St. Pat's Strong Stout,1457,Arbor Brewing Company,2,4.01
+288,8.00,334459,https://www.beeradvocate.com/beer/profile/1304/334459/,Berried At Sea Volume 1 (Tsunami Stout with Currants and Blackberries),1304,Pelican Pub & Brewery,2,3.78
+289,7.60,205947,https://www.beeradvocate.com/beer/profile/31042/205947/,El Diablo Negro,31042,18th Street Brewery,2,4.09
+290,5.70,164732,https://www.beeradvocate.com/beer/profile/17981/164732/,Cherry Vanilla Hot Blooded,17981,Cigar City Brewing,2,4.31
+291,6.00,266109,https://www.beeradvocate.com/beer/profile/42663/266109/,Coffee Stout,42663,Norris English Pub & Brewery,2,3.93
+292,7.00,289665,https://www.beeradvocate.com/beer/profile/38745/289665/,Dark & Coffee,38745,Fieldwork Brewing Co.,2,3.61
+293,7.00,316036,https://www.beeradvocate.com/beer/profile/46318/316036/,Black Magic,46318,Bent Stick Brewing Co.,2,3.65
+294,6.00,258180,https://www.beeradvocate.com/beer/profile/45239/258180/,Coal Seam,45239,Rockhound Brewing,2,3.76
+295,7.00,238218,https://www.beeradvocate.com/beer/profile/41136/238218/,Killarney Connection,41136,Gino's East - River North,2,4
+296,6.70,4755,https://www.beeradvocate.com/beer/profile/955/4755/,Big Bear Stout,955,Rockslide Brewery & Pub,2,3.72
+297,7.90,245144,https://www.beeradvocate.com/beer/profile/33871/245144/,Lumelausuja,33871,Õllenaut OÜ,2,4.24
+298,8.00,206746,https://www.beeradvocate.com/beer/profile/31407/206746/,Export Stout,31407,Saint Archer Brewing Co.,2,3.61
+299,5.50,241052,https://www.beeradvocate.com/beer/profile/727/241052/,Guinness Foreign Extra Stout (Singapore),727,Asia Pacific Breweries Limited,2,3.6
+300,6.50,279453,https://www.beeradvocate.com/beer/profile/43224/279453/,Jibaro Tropical Stout,43224,Scenic Brewing Co.,2,4.23
+301,6.70,94111,https://www.beeradvocate.com/beer/profile/16495/94111/,Impériale Bête Noire,16495,À La Fût,2,4.01
+302,11.20,326816,https://www.beeradvocate.com/beer/profile/28568/326816/,Mutiny on the Bounty,28568,Garage Project,2,4.09
+303,7.50,332197,https://www.beeradvocate.com/beer/profile/492/332197/,Mocha Export Stout,492,Vancouver Island Brewing,2,3.98
+304, ? ,6566,https://www.beeradvocate.com/beer/profile/2575/6566/,Boliarka Stout,2575,Boliarka-VT,2,3.58
+305,7.00,156841,https://www.beeradvocate.com/beer/profile/36539/156841/,Vanilla Bourbon Coffee Export Stout,36539,Mockery Brewing Co.,2,4.35
+306,4.50,304561,https://www.beeradvocate.com/beer/profile/209/304561/,Guinness Bright Ale,209,Guinness Ltd.,2,4.25
+307,6.00,123827,https://www.beeradvocate.com/beer/profile/13839/123827/,Su-Bourbon,13839,Port Brewing,2,3.94
+308, ? ,58552,https://www.beeradvocate.com/beer/profile/13447/58552/,Stage Driver Stout,13447,Lander Brewing Company,2,4.44
+309,7.90,290238,https://www.beeradvocate.com/beer/profile/34104/290238/,Oxblood,34104,Greenpoint Beer & Ale Company,2,4.15
+310,6.30,288962,https://www.beeradvocate.com/beer/profile/39841/288962/,Sort Smoothie,39841,Munkebo Mikrobryg,2,3.57
+311,6.90,252610,https://www.beeradvocate.com/beer/profile/39446/252610/,Sexport,39446,Braindead Brewing,2,3.75
+312,8.00,128711,https://www.beeradvocate.com/beer/profile/35563/128711/,Secondo Me,35563,Caber Beer,2,3.99
+313,6.00,285390,https://www.beeradvocate.com/beer/profile/49374/285390/,Midnight Express,49374,HopTop Brewery,2,3.47
+314,6.00,327892,https://www.beeradvocate.com/beer/profile/25963/327892/,Sea Kitty,25963,Witch's Hat Brewing Co.,2,4.38
+315,6.50,306389,https://www.beeradvocate.com/beer/profile/266/306389/,Steelhead Extra Stout,266,Mad River Brewing Company,2,3.82
+316,5.80,84700,https://www.beeradvocate.com/beer/profile/1749/84700/,Coffee Stout,1749,Wisconsin Dells Brewing Co.,2,3.98
+317,6.00,208609,https://www.beeradvocate.com/beer/profile/23953/208609/,Stout,23953,Dama Bier,2,3.75
+318,6.60,314084,https://www.beeradvocate.com/beer/profile/50865/314084/,Foreign Extra Stout,50865,Town Brewery,2,3.28
+319,6.00,153317,https://www.beeradvocate.com/beer/profile/24497/153317/,Patagonia Foreign Stout,24497,Cerveza Artesanal Berlina,2,3.77
+320,6.40,203240,https://www.beeradvocate.com/beer/profile/34607/203240/,Expat,34607,Aeronaut Brewing Company,2,3.88
+321,6.50,215793,https://www.beeradvocate.com/beer/profile/9784/215793/,FES,9784,Zero Gravity Craft Brewery / American Flatbread,2,3.38
+322,8.80,242935,https://www.beeradvocate.com/beer/profile/44879/242935/,ABC Extra Stout,44879,Asia Pacific Brewery Lanka Ltd.,2,1.97
+323,5.70,281084,https://www.beeradvocate.com/beer/profile/49056/281084/,Stout,49056,The Garden Brewery,2,4.1
+324,5.40,318460,https://www.beeradvocate.com/beer/profile/49648/318460/,Dark Territory: Midnight Train to Mexico,49648,Siding 14 Brewing Company,2,3.78
+325,7.00,253949,https://www.beeradvocate.com/beer/profile/41110/253949/,West Indian Viagra,41110,Ornery Beer Company Public House,2,4.64
+326,6.23,180995,https://www.beeradvocate.com/beer/profile/9167/180995/,Foreign Export Irish Stout,9167,23rd Street Brewery,1,3.9
+327,7.00,195075,https://www.beeradvocate.com/beer/profile/42208/195075/,Export Stout,42208,McFate Brewing - South Scottsdale,1,4.17
+328,7.00,236549,https://www.beeradvocate.com/beer/profile/45750/236549/,Koetsier,45750,Brouwerij Het Roze Varken,1,4.09
+329,5.50,313606,https://www.beeradvocate.com/beer/profile/484/313606/,Tap Jockey Irish Style Stout,484,Gray's Brewing Company,1,3.22
+330,8.00,95496,https://www.beeradvocate.com/beer/profile/1463/95496/,Skælskør Original Stout,1463,Harboes Bryggeri A/S,1,3
+331,8.50,241161,https://www.beeradvocate.com/beer/profile/45181/241161/,Zimniy Staut (Зимний стаут),45181,Krasnaya Ptitsa,1,3.74
+332,7.50,235275,https://www.beeradvocate.com/beer/profile/29415/235275/,Cheers Stout,29415,Crux Fermentation Project,1,3.94
+333,7.50,329234,https://www.beeradvocate.com/beer/profile/36921/329234/,Johnny's Brew Currac Dub,36921,Independent Brewing Company of Ireland,1,4.15
+334,7.50,181013,https://www.beeradvocate.com/beer/profile/24814/181013/,Two Mississippi,24814,Yellowhammer Brewing,1,3.63
+335,7.00,323605,https://www.beeradvocate.com/beer/profile/28261/323605/,Extra Stout,28261,I & I Brewing,1,4.06
+336,5.80,142103,https://www.beeradvocate.com/beer/profile/23993/142103/,Lopsided Golden Stout,23993,Malmö Brewing Co,1,3.5
+337,8.10,228377,https://www.beeradvocate.com/beer/profile/39472/228377/,Export Stout,39472,Yolo Brewing Company,1,3.93
+338,7.00,320794,https://www.beeradvocate.com/beer/profile/14359/320794/,Solarvore Stout,14359,The Defiant Brewing Company,1,3.89
+339,6.90,218397,https://www.beeradvocate.com/beer/profile/32402/218397/,Dexter's Foreign Export Stout,32402,Small Batch Beer Co.,1,4.05
+340,6.30,207393,https://www.beeradvocate.com/beer/profile/29909/207393/,Mill Forge,29909,White Street Brewing Co.,1,3.73
+341,6.50,338722,https://www.beeradvocate.com/beer/profile/29858/338722/,Shoe Tree,29858,Fifty West Brewing Co,1,3.5
+342,6.00,237346,https://www.beeradvocate.com/beer/profile/36597/237346/,A Terrible Beauty,36597,Evil Czech Brewery and Public House,1,4
+343,7.00,218407,https://www.beeradvocate.com/beer/profile/36845/218407/,Stoutopia Smoked Edition,36845,Browar Bednary,1,3.75
+344,7.50,234535,https://www.beeradvocate.com/beer/profile/10548/234535/,Guinness Foreign Extra Stout,10548,St. Vincent Brewary LTD.,1,3.75
+345,6.50,181031,https://www.beeradvocate.com/beer/profile/41076/181031/,Five Men Stout,41076,Five Men Fresh Beer,1,4.01
+346,7.00,134186,https://www.beeradvocate.com/beer/profile/30482/134186/,Pain Banane,30482,Lagabière Brasserie Artisanale,1,3.25
+347,8.30,272939,https://www.beeradvocate.com/beer/profile/42346/272939/,Turbo Geezer - Double Irish Expresso Stout,42346,Browar Kingpin,1,3.93
+348,6.30,229428,https://www.beeradvocate.com/beer/profile/16042/229428/,Old Jack,16042,Birrificio Doppio Malto,1,3.17
+349,6.60,240693,https://www.beeradvocate.com/beer/profile/35612/240693/,Nautical By Nature,35612,Ex Novo Brewing,1,4.03
+350,6.80,327735,https://www.beeradvocate.com/beer/profile/1250/327735/,Export Stout,1250,Swans Brewpub / Buckerfield Brewery,1,3.79
+351,6.50,265783,https://www.beeradvocate.com/beer/profile/37345/265783/,BOON,37345,Brouwerij Haagsche Broeder,1,4
+352,6.20,234807,https://www.beeradvocate.com/beer/profile/45990/234807/,Bro-Jon Stout,45990,Port O'Pints Brewing Company,1,3.59
+353,8.40,211000,https://www.beeradvocate.com/beer/profile/42822/211000/,Prospero,42822,Griendel: Brasserie Artisanale,1,3.05
+354,8.00,323897,https://www.beeradvocate.com/beer/profile/27844/323897/,Buddha of Suburbia,27844,Round Guys Brewing Company,1,3.84
+355,7.10,266298,https://www.beeradvocate.com/beer/profile/47200/266298/,Satisfy My Soul,47200,Wise Man Brewing,1,4.42
+356,7.00,166714,https://www.beeradvocate.com/beer/profile/4974/166714/,Kurokura,4974,"Sekinoichi-shuzou, Iwate-kura Brewery",1,3.53
+357,6.90,256058,https://www.beeradvocate.com/beer/profile/43129/256058/,O'Rascals,43129,Bond Brothers Beer Company,1,4.21
+358,8.00,146236,https://www.beeradvocate.com/beer/profile/23034/146236/,Stout,23034,Vecchia Orsa,1,3
+359,8.40,123196,https://www.beeradvocate.com/beer/profile/33192/123196/,12|03 Barrel Aged Export Stout,33192,Brew By Numbers,1,4.05
+360,9.90,279615,https://www.beeradvocate.com/beer/profile/35568/279615/,BA Dead Blow,35568,Braxton Brewing Company,1,3.53
+361,4.90,273747,https://www.beeradvocate.com/beer/profile/46391/273747/,Malevich (Малевич),46391,Imperial (Империал),1,3.69
+362,8.00,142165,https://www.beeradvocate.com/beer/profile/19603/142165/,South Pacific Niugini Gold Extra Stout,19603,South Pacific Brewery LTD,1,3.1
+363, ? ,179031,https://www.beeradvocate.com/beer/profile/36997/179031/,Special Delivery,36997,Starboard Brewing Company,1,3.99
+364,6.50,48215,https://www.beeradvocate.com/beer/profile/10325/48215/,Black Horse Black Beer,10325,Vecchio Birraio,1,2.88
+365,5.50,243800,https://www.beeradvocate.com/beer/profile/26299/243800/,Ucho Od Śledzia,26299,Piwoteka,1,4
+366,7.50,324697,https://www.beeradvocate.com/beer/profile/40854/324697/,Kwartje / Neobosski - Hippy Trail,40854,Brouwerij Kwartje,1,3.5
+367,8.10,231515,https://www.beeradvocate.com/beer/profile/45650/231515/,The Maiden,45650,High Alpine Brewing Co.,1,3.83
+368,7.50,195932,https://www.beeradvocate.com/beer/profile/17960/195932/,Export Style Stout,17960,Three Creeks Brewing Co.,1,4.07
+369,5.40,100957,https://www.beeradvocate.com/beer/profile/30967/100957/,Tropical Stout,30967,Triptych Brewing,1,3.75
+370,6.00,318559,https://www.beeradvocate.com/beer/profile/30017/318559/,Export Stout,30017,"Bemidji Brewing Company, LLC",1,4
+371,10.50,324705,https://www.beeradvocate.com/beer/profile/42530/324705/,Raven Bone Hill / Kwartje - DeadLock Forest Fruit,42530,Raven Bone Hill,1,3.5
+372,7.50,112738,https://www.beeradvocate.com/beer/profile/30136/112738/,Phoenix - Migration Stout,30136,Black Duck Brewery,1,3.77
+373,6.90,247141,https://www.beeradvocate.com/beer/profile/42109/247141/,Goldhaven,42109,Third Monk Brewing Company,1,4
+374,7.90,238696,https://www.beeradvocate.com/beer/profile/37452/238696/,OB's Wattleseed,37452,Pleasure House Brewing,1,3.75
+375,6.50,308840,https://www.beeradvocate.com/beer/profile/43406/308840/,Substitute Teacher Foreign Extra Stout,43406,Watermark Brewing Co.,1,3.19
+376,6.00,220522,https://www.beeradvocate.com/beer/profile/30458/220522/,Frontside,30458,Rip Current Brewing,1,4
+377,7.00,142188,https://www.beeradvocate.com/beer/profile/30995/142188/,Phnom Penh Stout,30995,"Phnom Penh Beer Co., Ltd.",1,3.24
+378,4.50,333421,https://www.beeradvocate.com/beer/profile/44248/333421/,Juan Brew Dry Stout,44248,Juan Brewing Inc.,1,3.49
+379,7.80,146544,https://www.beeradvocate.com/beer/profile/21680/146544/,JuleStout,21680,Stensbogaard Bryghus,1,3.5
+380,7.40,94576,https://www.beeradvocate.com/beer/profile/3522/94576/,Antwerps Winterstout,3522,Huisbrouwerij 't Pakhuis,1,3.52
+381,9.00,314224,https://www.beeradvocate.com/beer/profile/29813/314224/,Koekoek Donker,29813,Brouwerij Pirlot,1,3.65
+382,6.70,48245,https://www.beeradvocate.com/beer/profile/19424/48245/,JT Schmid's Extra Stout,19424,JT Schmid's,1,3.66
+383,6.20,182133,https://www.beeradvocate.com/beer/profile/38354/182133/,Topaz,38354,Wiper & True Brewery,1,3.96
+384,6.30,259957,https://www.beeradvocate.com/beer/profile/868/259957/,Pandadora (Panda Frog Project),868,Mordue Brewery,1,3.69
+385,5.20,165494,https://www.beeradvocate.com/beer/profile/4146/165494/,Espresso Hen's Teeth,4146,Karl Strauss Brewing Company,1,3.23
+386,7.40,144759,https://www.beeradvocate.com/beer/profile/34451/144759/,Saense Stout,34451,Brouwerij Breugem,1,3.25
+387,6.20,331128,https://www.beeradvocate.com/beer/profile/50744/331128/,Export Stout,50744,Scotty's Bierwerks,1,3.77
+388,7.50,220536,https://www.beeradvocate.com/beer/profile/40037/220536/,Chocolate Vanilla Stout,40037,Garden Grove Brewing Company,1,3.79
+389,6.00,235643,https://www.beeradvocate.com/beer/profile/46074/235643/,Longan Stout,46074,Taiwan Ale Brewery,1,3.66
+390,7.17,71036,https://www.beeradvocate.com/beer/profile/343/71036/,Ma Walker's Imperial Stout,343,"Jasper Murdock’s Alehouse, Dining Room & Microbrewery (The Norwich Inn)",1,4
+391,7.50,184956,https://www.beeradvocate.com/beer/profile/41858/184956/,Marlene Foreign Extra Stout,41858,Amante Brew Company,1,4.02
+392,8.10,158081,https://www.beeradvocate.com/beer/profile/31372/158081/,Vanilla F.E.S.,31372,Carson's Brewery,1,4.1
+393,7.00,259206,https://www.beeradvocate.com/beer/profile/47716/259206/,Sinister Path With Coffee,47716,J & L Eppig Brewing,1,3.77
+394,7.80,268679,https://www.beeradvocate.com/beer/profile/43433/268679/,Davy Jones,43433,Blad Baher,1,3.09
+395,7.50,260999,https://www.beeradvocate.com/beer/profile/30575/260999/,Extra Innings,30575,The Mitten Brewing Co.,1,4.22
+396,7.00,253577,https://www.beeradvocate.com/beer/profile/46081/253577/,Oro Nero,46081,Birrificio Artigianale Ex Fabrica,1,3.19
+397,7.00,329098,https://www.beeradvocate.com/beer/profile/33525/329098/,Export Stout,33525,Stoup Brewing,1,4.14
+398,8.00,131725,https://www.beeradvocate.com/beer/profile/727/131725/,ABC Extra Stout Ginseng,727,Asia Pacific Breweries Limited,1,3.75
+399,5.90,218766,https://www.beeradvocate.com/beer/profile/44628/218766/,Night Wolf,44628,Szpunt Browar Rzemieślniczy,1,3.67
+400,9.50,174225,https://www.beeradvocate.com/beer/profile/31920/174225/,Breckenridge Bourbon Barrel Aged Foreign Extra Stout,31920,FATE Brewing Company,1,4.08
+401,8.00,259217,https://www.beeradvocate.com/beer/profile/45545/259217/,Stone Head Dark Side Stout,45545,Stone Head Co.,1,3.83
+402,7.50,137106,https://www.beeradvocate.com/beer/profile/24190/137106/,Double Stout,24190,Brasserie Artisanale Albion,1,4
+403,7.00,267413,https://www.beeradvocate.com/beer/profile/44471/267413/,Rogės,44471,Bravoras Apynys,1,3.93
+404,5.50,316309,https://www.beeradvocate.com/beer/profile/42110/316309/,Turkish & Tommy,42110,Ascension Brewing Company,1,3.81
+405,4.50,299670,https://www.beeradvocate.com/beer/profile/49204/299670/,Uncle Dougs Cornish Stout,49204,Cuyuna Brewing Company,1,3.5
+406,7.10,333211,https://www.beeradvocate.com/beer/profile/51790/333211/,Van Vollenhoven & Co Extra Stout,51790,Poesiat & Kater,1,4.03
+407,7.10,289693,https://www.beeradvocate.com/beer/profile/47537/289693/,Cooper,47537,St. Elmo Brewing Co.,1,4.06
+408,5.20,163998,https://www.beeradvocate.com/beer/profile/4146/163998/,Hen's Teeth,4146,Karl Strauss Brewing Company,1,2.85
+409,7.20,273056,https://www.beeradvocate.com/beer/profile/48447/273056/,Dorcha Extra Stout,48447,Pariah Brewing Co.,1,4.03
+410,5.70,50593,https://www.beeradvocate.com/beer/profile/1550/50593/,Templeton Rye Stout,1550,Rock Bottom Restaurant & Brewery,1,4.04
+411,7.50,326305,https://www.beeradvocate.com/beer/profile/32254/326305/,Dog Mountain,32254,Deep Cove Brewers and Distillers,1,3.87
+412,6.50,226982,https://www.beeradvocate.com/beer/profile/45298/226982/,One At All,45298,Beer Bros.,1,3.75
+413,7.20,225192,https://www.beeradvocate.com/beer/profile/45073/225192/,Transfujza,45073,Browar Hopkins,1,4.1
+414,7.70,296875,https://www.beeradvocate.com/beer/profile/38696/296875/,80 - Foreign Export Stout,38696,Brasserie Harricana,1,3.38
+415,5.80,149420,https://www.beeradvocate.com/beer/profile/37965/149420/,Malasombra Bruna,37965,Malasombra Cervezas del Tormes,1,2.52
+416,6.50,162992,https://www.beeradvocate.com/beer/profile/22540/162992/,Head Banger,22540,M. T. Head Brewing Co.,1,3.5
+417,7.40,318385,https://www.beeradvocate.com/beer/profile/1254/318385/,HopiStout,1254,Brouwerij Nacional Balashi,1,3.48
+418, ? ,333747,https://www.beeradvocate.com/beer/profile/29268/333747/,Stouty McStoutface,29268,Sleeping Giant Brewing Co.,1,4.02
+419,4.70,298163,https://www.beeradvocate.com/beer/profile/36429/298163/,Parthenope,36429,Birrificio Sorrento,1,3.15
+420,6.70,144821,https://www.beeradvocate.com/beer/profile/32697/144821/,So Bro (South Broadway) Foreign Import Stout,32697,The BoB (The Brew on Broadway),1,3.75
+421,6.80,331958,https://www.beeradvocate.com/beer/profile/49615/331958/,Sumi,49615,Godspeed Brewery,1,3.92
+422,4.50,87736,https://www.beeradvocate.com/beer/profile/12537/87736/,Slater's Columbia Coffee Stout,12537,Slater's Ales,1,4.03
+423,7.00,301496,https://www.beeradvocate.com/beer/profile/37773/301496/,Export Stout,37773,Handsome Beer Company,1,3.62
+424,6.50,158139,https://www.beeradvocate.com/beer/profile/32749/158139/,Shuck Her Gently,32749,ShuBrew,1,3.77
+425,6.40,242110,https://www.beeradvocate.com/beer/profile/46636/242110/,Zavod Stout,46636,Zavod Brewery,1,3.48
+426,5.00,81600,https://www.beeradvocate.com/beer/profile/28818/81600/,Irish George,28818,Morton Brewery,1,4
+427,7.00,291778,https://www.beeradvocate.com/beer/profile/25434/291778/,Boundary Export Stout,25434,Buxton Brewery,1,3.92
+428,8.20,161475,https://www.beeradvocate.com/beer/profile/33192/161475/,13|02 Brett Aged (Export Stout),33192,Brew By Numbers,1,4.36
+429,7.40,331462,https://www.beeradvocate.com/beer/profile/46718/331462/,Appendant,46718,Collusion Tap Works,1,4.13
+430,6.40,175304,https://www.beeradvocate.com/beer/profile/36503/175304/,Old 690 Oatmeal Stout,36503,Old 690 Brewing Company,1,3.5
+431,6.50,260552,https://www.beeradvocate.com/beer/profile/44496/260552/,Morion 17,44496,Zámecký Pivovar Frýdlant,1,4.22
+432,6.50,233931,https://www.beeradvocate.com/beer/profile/1680/233931/,Oakham Export Stout,1680,Oakham Ales / The Brewery Tap,1,4.13
+433,7.00,247244,https://www.beeradvocate.com/beer/profile/35312/247244/,Craic Coconut Extra Stout,35312,Descendants Beer & Beverage Co.,1,3.42
+434,5.50,329681,https://www.beeradvocate.com/beer/profile/43107/329681/,Coffee Bat Country,43107,4th Tap Brewing Co-op,1,3.75
+435,5.80,214737,https://www.beeradvocate.com/beer/profile/35687/214737/,Chocolate Extra Stout,35687,Galveston Island Brewing Company,1,3.81
+436,7.20,226001,https://www.beeradvocate.com/beer/profile/32952/226001/,Wild Rover Foreign Extra Stout,32952,Three Notch'd Brewing Company,1,3.5
+437,5.50,265427,https://www.beeradvocate.com/beer/profile/29395/265427/,Rye Barrel Aged Extra Stout,29395,Hogshead Brewery,1,4.3
+438,7.00,340182,https://www.beeradvocate.com/beer/profile/52191/340182/,Hathor Foreign Extra Stout,52191,Hathor Cerveza Artesanal,1,3.49
+439,5.20,162264,https://www.beeradvocate.com/beer/profile/38585/162264/,Irish Stout,38585,South Park Brewing,1,4.1
+440,7.00,171738,https://www.beeradvocate.com/beer/profile/17981/171738/,"Hot Blooded With Black Cherries, Coconut, And Chocolate",17981,Cigar City Brewing,1,4.91
+441,6.90,218080,https://www.beeradvocate.com/beer/profile/41028/218080/,Fez,41028,CAUTION: Brewing Co. - West,1,3.06
+442,10.00,309731,https://www.beeradvocate.com/beer/profile/13402/309731/,Trick or Treat Stout,13402,Black Lotus Brewery,1,3.98
+443,7.50,338918,https://www.beeradvocate.com/beer/profile/209/338918/,Guinness Foreign Extra Stout (Belize),209,Guinness Ltd.,1,3.98
+444,7.00,305641,https://www.beeradvocate.com/beer/profile/2372/305641/,Southpaw Stout,2372,Terrapin Beer Company,1,4.12
+445,6.00,141292,https://www.beeradvocate.com/beer/profile/19457/141292/,Luxor Nubia,19457,Egyptian International Beverages Company,1,2.29
+446,5.80,134125,https://www.beeradvocate.com/beer/profile/29911/134125/,Export Stout,29911,Ol' Republic Brewery,1,3.75
+447,4.90,241138,https://www.beeradvocate.com/beer/profile/502/241138/,Guinness Foreign Extra Stout (Indonesia),502,Bintang,1,3.39
+448,9.00,275189,https://www.beeradvocate.com/beer/profile/48165/275189/,Extra Stout,48165,Third Colony Brewery & Winery,1,3.75
+449,5.70,247541,https://www.beeradvocate.com/beer/profile/46969/247541/,Intercontinental Stout,46969,"OOO ""Bright Craft""",1,3.29
+450,8.10,186103,https://www.beeradvocate.com/beer/profile/28018/186103/,Foreign Extra Stout,28018,Rapp Brewing Company,1,3.72
+451,6.80,246265,https://www.beeradvocate.com/beer/profile/721/246265/,"Royal Stout, King Of Stouts",721,Carlsberg Danmark A/S,1,2.74
+452,6.90,315897,https://www.beeradvocate.com/beer/profile/50050/315897/,Strong Stout,50050,Frontier Brewing Company and Taproom,1,4.06
+453,8.50,78842,https://www.beeradvocate.com/beer/profile/876/78842/,Smoked Araby’s Export Stout,876,Trap Rock Restaurant & Brewery,1,3.97
+454,6.40,229627,https://www.beeradvocate.com/beer/profile/42346/229627/,Kingpin Geezer,42346,Browar Kingpin,1,4.25
+455,7.00,298491,https://www.beeradvocate.com/beer/profile/46325/298491/,Weekend At Bernie's,46325,Wild Mind Artisan Ales,1,4.31
+456,7.60,150012,https://www.beeradvocate.com/beer/profile/32331/150012/,Big Black Beaver,32331,Pontus Brewing,1,3.5
+457,5.70,311548,https://www.beeradvocate.com/beer/profile/48514/311548/,Cavalry Stout,48514,El Paso Brewing Company,1,3.89
+458,6.40,331005,https://www.beeradvocate.com/beer/profile/23249/331005/,Export Stout Raspberry,23249,The Kernel Brewery,1,3.5
+459,6.20,57085,https://www.beeradvocate.com/beer/profile/1550/57085/,Naomi Dyal,1550,Rock Bottom Restaurant & Brewery,1,3.95
+460,5.50,157447,https://www.beeradvocate.com/beer/profile/24658/157447/,Wild Honey Coffee Stout - Honey With Lychee Pollens & Doi Tong Coffee Beans,24658,Full Moon Brewwork,0,0
+461,4.80,138760,https://www.beeradvocate.com/beer/profile/36196/138760/,Kiss Me Hardy Stout,36196,The Trafalgar Brewing Company,0,0
+462,7.00,222984,https://www.beeradvocate.com/beer/profile/44967/222984/,Dakota Stout,44967,Cervezas 19° Norte,0,0
+463,6.00,324115,https://www.beeradvocate.com/beer/profile/51096/324115/,Rare Darkness,51096,Southern Lights Brewing,0,0
+464,4.50,311572,https://www.beeradvocate.com/beer/profile/50977/311572/,Traust,50977,Stonehome Brewing Company,0,0
+465,7.20,338198,https://www.beeradvocate.com/beer/profile/39505/338198/,Extra Foreign Stout,39505,Salden's Brewery,0,0
+466,6.50,316438,https://www.beeradvocate.com/beer/profile/41204/316438/,Export Stout,41204,Mourne Mountains Brewery,0,0
+467,7.10,338199,https://www.beeradvocate.com/beer/profile/39505/338199/,Extra Stout Espresso Edition,39505,Salden's Brewery,0,0
+468,6.40,234263,https://www.beeradvocate.com/beer/profile/45180/234263/,Experiment #1,45180,Chillin'z Brewery,0,0
+469, ? ,222494,https://www.beeradvocate.com/beer/profile/30714/222494/,Buxton Stout,30714,Albia Brewing Co.,0,0
+470,8.70,227619,https://www.beeradvocate.com/beer/profile/45305/227619/,PERKELE,45305,HopHead Craft Brewery,0,0
+471,6.70,327977,https://www.beeradvocate.com/beer/profile/47087/327977/,Export Stout,47087,Tallboy and Moose,0,0
+472,6.00,205097,https://www.beeradvocate.com/beer/profile/32697/205097/,So Bro (South Broadway),32697,The BoB (The Brew on Broadway),0,0
+473,6.80,161321,https://www.beeradvocate.com/beer/profile/37350/161321/,Foreign Extra,37350,Wheaty Brewing Corps,0,0
+474,7.90,203818,https://www.beeradvocate.com/beer/profile/31535/203818/,Tamarind Stout,31535,Adroit Theory Brewing Company,0,0
+475,4.70,207658,https://www.beeradvocate.com/beer/profile/34387/207658/,Minera Carbó (Robust Porter),34387,Cervesa Minera,0,0
+476,8.40,203820,https://www.beeradvocate.com/beer/profile/31535/203820/,Roasted Farro Stout,31535,Adroit Theory Brewing Company,0,0
+477,5.70,157741,https://www.beeradvocate.com/beer/profile/38872/157741/,Churchyard,38872,Hoxne Brewery,0,0
+478,6.50,259890,https://www.beeradvocate.com/beer/profile/43286/259890/,FES Cieszynski,43286,Browar Zamkowy Cieszyn,0,0
+479,5.10,173363,https://www.beeradvocate.com/beer/profile/40535/173363/,Duck Foot Dry Stout,40535,Duck Foot Brewing Co.,0,0
+480,7.00,285495,https://www.beeradvocate.com/beer/profile/13029/285495/,Carlota,13029,Thornbridge Brewery,0,0
+481,7.00,248119,https://www.beeradvocate.com/beer/profile/39741/248119/,Fu Manchu Foreign Stout,39741,Großen Bart Brewery,0,0
+482,7.50,315960,https://www.beeradvocate.com/beer/profile/46961/315960/,Limited Edition No. 4 - Export Stout,46961,Hope Beer,0,0
+483,6.00,234305,https://www.beeradvocate.com/beer/profile/41117/234305/,Dry Cherry Stout,41117,Heartly Craft Brewery,0,0
+484,8.00,201795,https://www.beeradvocate.com/beer/profile/17891/201795/,Rum Barrel Stout,17891,Deans Brothers Brewing Co.,0,0
+485,7.00,137027,https://www.beeradvocate.com/beer/profile/11412/137027/,La Dernière Brosse Déchaînée,11412,Bedondaine & Bedons Ronds,0,0
+486, ? ,201797,https://www.beeradvocate.com/beer/profile/17891/201797/,Foreign Extra,17891,Deans Brothers Brewing Co.,0,0
+487,7.40,339525,https://www.beeradvocate.com/beer/profile/41287/339525/,Appendant,41287,Something Wicked Brewing Company,0,0
+488,6.30,317262,https://www.beeradvocate.com/beer/profile/50520/317262/,Black Flute,50520,Shakopee Brewhall,0,0
+489,7.30,299858,https://www.beeradvocate.com/beer/profile/50053/299858/,Export Stout,50053,East West Brewing Company,0,0
+490,7.00,161619,https://www.beeradvocate.com/beer/profile/35916/161619/,Miss Big Foot,35916,Browar Birbant,0,0
+491,5.80,244056,https://www.beeradvocate.com/beer/profile/44541/244056/,Congo Belge Cacao,44541,Mad Brewlads Craft Co.,0,0
+492,4.00,166496,https://www.beeradvocate.com/beer/profile/39958/166496/,Roasty Stout,39958,AdstraGold MicroBrewery,0,0
+493,4.00,142185,https://www.beeradvocate.com/beer/profile/24584/142185/,Pilsner Stout,24584,Munich Beer Restaurant,0,0
+494,8.00,142187,https://www.beeradvocate.com/beer/profile/30995/142187/,City Black,30995,"Phnom Penh Beer Co., Ltd.",0,0
+495,6.50,268140,https://www.beeradvocate.com/beer/profile/46826/268140/,Wileyville Extra Special Bitter,46826,Forest City Brewery,0,0
+496,4.60,166510,https://www.beeradvocate.com/beer/profile/39960/166510/,33.3 Stout,39960,LeVel 33,0,0
+497,6.80,166522,https://www.beeradvocate.com/beer/profile/39961/166522/,Manuka Stout,39961,The 1925 Microbrewery & Restaurant,0,0
+498,6.80,297850,https://www.beeradvocate.com/beer/profile/44130/297850/,The Coming Darkness,44130,Mollusk Restaurant & Brewery,0,0
+499, ? ,159613,https://www.beeradvocate.com/beer/profile/32752/159613/,Grunge Black Mama,32752,Grunge Brewing Company,0,0
+500,7.00,259205,https://www.beeradvocate.com/beer/profile/47716/259205/,Sinister Path,47716,J & L Eppig Brewing,0,0
+501,6.10,255111,https://www.beeradvocate.com/beer/profile/38220/255111/,ART2 Nigredo Chocolate Mint Foreign Extra Stout,38220,Browar Stu Mostów,0,0
+502, ? ,267659,https://www.beeradvocate.com/beer/profile/47838/267659/,Stomping Ground,47838,Hansa Brewery,0,0
+503,7.30,220815,https://www.beeradvocate.com/beer/profile/1334/220815/,Sheamus Irish Stout,1334,Blind Tiger Brewery & Restaurant,0,0
+504,6.00,327824,https://www.beeradvocate.com/beer/profile/47759/327824/,Stout,47759,Watts River Brewing,0,0
+505, ? ,166310,https://www.beeradvocate.com/beer/profile/16070/166310/,Stout,16070,The Pump Room,0,0
+506,8.00,116390,https://www.beeradvocate.com/beer/profile/19658/116390/,Black Teddy Beer,19658,Brasserie de Jandrain-Jandrenouille,0,0
+507,8.30,300199,https://www.beeradvocate.com/beer/profile/22434/300199/,All Black,22434,Foggy Noggin Brewing,0,0
+508,6.30,329130,https://www.beeradvocate.com/beer/profile/51923/329130/,Garrofa,51923,El Cantero Brewery,0,0
+509,6.30,310191,https://www.beeradvocate.com/beer/profile/36509/310191/,She's A Beauty,36509,Big Lick Brewing Company,0,0
+510,5.20,173232,https://www.beeradvocate.com/beer/profile/30182/173232/,Stout,30182,North High Brewing Company,0,0
+511,6.70,163763,https://www.beeradvocate.com/beer/profile/33050/163763/,Falkon Extra Stout,33050,Pivovar Falkon,0,0
+512,7.50,272577,https://www.beeradvocate.com/beer/profile/48569/272577/,Foreign Extra Stout,48569,Griffin Hill Farm Brewery,0,0
+513, ? ,166082,https://www.beeradvocate.com/beer/profile/39915/166082/,English Staut,39915,Blonder Pub,0,0
+514,7.50,272579,https://www.beeradvocate.com/beer/profile/48569/272579/,Foreign Extra Stout - Wild Fermentation,48569,Griffin Hill Farm Brewery,0,0
+515,4.50,244931,https://www.beeradvocate.com/beer/profile/34371/244931/,Eefedgf,34371,The 5 Lamps Dublin Brewery,0,0
+516,6.20,272324,https://www.beeradvocate.com/beer/profile/47667/272324/,Black Mass Foreign Export Stout,47667,Icarus Brewing Company,0,0
+517,8.10,318404,https://www.beeradvocate.com/beer/profile/51384/318404/,Brewckau Haselnuss-Kakao Stout,51384,Brewckau,0,0
+518,7.00,180165,https://www.beeradvocate.com/beer/profile/632/180165/,In Flux,632,Triple Rock Brewery & Alehouse,0,0
+519,7.60,203466,https://www.beeradvocate.com/beer/profile/43052/203466/,Oak Aged Stout,43052,105 West Brewing Company,0,0
+520,5.10,335818,https://www.beeradvocate.com/beer/profile/48531/335818/,Spite House Stout,48531,Portner Brewhouse,0,0
+521, ? ,163291,https://www.beeradvocate.com/beer/profile/23953/163291/,Foreign Extra Stout,23953,Dama Bier,0,0
+522,6.60,230371,https://www.beeradvocate.com/beer/profile/44627/230371/,Deoch Déithe,44627,Upstate Craft Beer Co.,0,0
+523,5.80,239076,https://www.beeradvocate.com/beer/profile/16803/239076/,Rang 5,16803,Microbrasserie Du Lac-Saint-Jean,0,0
+524,7.50,291561,https://www.beeradvocate.com/beer/profile/46670/291561/,Blacktop Export Stout,46670,OpenRoad Brewery,0,0
+525, ? ,226282,https://www.beeradvocate.com/beer/profile/44318/226282/,Chocolate Stout ,44318,Table Brewing Co.,0,0
+526, ? ,177131,https://www.beeradvocate.com/beer/profile/40903/177131/,Elpidian,40903,Quebrador Brewing,0,0
+527,5.00,141297,https://www.beeradvocate.com/beer/profile/15607/141297/,Asmara Extra Stout,15607,Asmara Breweries,0,0
+528,7.00,229629,https://www.beeradvocate.com/beer/profile/33566/229629/,Hedge Clipper,33566,Kinnegar Brewing,0,0
+529,6.80,196093,https://www.beeradvocate.com/beer/profile/35027/196093/,Dark Horse Stout,35027,Schram Vineyards Winery & Brewery,0,0

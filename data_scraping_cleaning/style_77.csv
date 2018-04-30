@@ -1,0 +1,1557 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,11.20,35036,https://www.beeradvocate.com/beer/profile/1199/35036/,Backwoods Bastard,1199,Founders Brewing Company,"8,425",4.35
+1,8.50,7463,https://www.beeradvocate.com/beer/profile/1199/7463/,Dirty Bastard,1199,Founders Brewing Company,"7,716",4.05
+2,8.00,14712,https://www.beeradvocate.com/beer/profile/2681/14712/,Old Chub - Scottish Style Ale,2681,Oskar Blues Grill & Brew,"5,310",4.01
+3,8.50,402,https://www.beeradvocate.com/beer/profile/118/402/,Skull Splitter,118,Orkney Brewery,"2,224",4.08
+4,9.75,28039,https://www.beeradvocate.com/beer/profile/1471/28039/,Scotty Karate Scotch Ale,1471,Dark Horse Brewing Company,"1,834",4.03
+5,7.50,45765,https://www.beeradvocate.com/beer/profile/287/45765/,Christmas Ale (2017-),287,Bell's Brewery - Eccentric Café & General Store,"1,757",3.58
+6,12.00,94714,https://www.beeradvocate.com/beer/profile/12516/94714/,Wulver,12516,Thirsty Dog Brewing Company,"1,646",4.36
+7,7.70,47440,https://www.beeradvocate.com/beer/profile/158/47440/,Claymore Scotch Ale,158,Great Divide Brewing Company,"1,547",3.85
+8,6.80,39258,https://www.beeradvocate.com/beer/profile/10272/39258/,Rum Cask Oak Aged Beer,10272,Innis & Gunn,"1,388",3.82
+9,10.00,16400,https://www.beeradvocate.com/beer/profile/396/16400/,Wee Heavy,396,AleSmith Brewing Company,"1,240",4.16
+10,5.40,846,https://www.beeradvocate.com/beer/profile/35/846/,Samuel Adams Scotch Ale,35,Boston Beer Company (Samuel Adams),"1,113",3.74
+11,6.90,118299,https://www.beeradvocate.com/beer/profile/2681/118299/,Old Chub NITRO,2681,Oskar Blues Grill & Brew,"1,100",3.96
+12,7.20,36,https://www.beeradvocate.com/beer/profile/24/36/,Traquair House Ale,24,Traquair House Brewery,"1,089",4.16
+13,6.50,79,https://www.beeradvocate.com/beer/profile/148/79/,Wee Heavy,148,Belhaven Brewery Company Ltd.,"1,068",4.06
+14,9.50,96677,https://www.beeradvocate.com/beer/profile/652/96677/,Brewer's Reserve Bourbon Barrel Scotch Ale,652,Central Waters Brewing Co.,"1,014",4.26
+15,8.00,652,https://www.beeradvocate.com/beer/profile/24/652/,Traquair Jacobite,24,Traquair House Brewery,935,4.15
+16,8.00,4041,https://www.beeradvocate.com/beer/profile/870/4041/,Kilt Lifter Scotch Ale,870,Moylan's Brewery,747,3.72
+17,8.00,1275,https://www.beeradvocate.com/beer/profile/188/1275/,McEwan's Scotch Ale,188,The Caledonian Brewing Company,728,3.79
+18,8.50,46366,https://www.beeradvocate.com/beer/profile/17981/46366/,Big Sound Scotch Ale,17981,Cigar City Brewing,720,4.09
+19,10.00,56400,https://www.beeradvocate.com/beer/profile/35/56400/,Samuel Adams Wee Heavy (Imperial Series),35,Boston Beer Company (Samuel Adams),696,3.67
+20,8.50,50515,https://www.beeradvocate.com/beer/profile/17981/50515/,Big Sound Scotch Ale - Bourbon Barrel Aged,17981,Cigar City Brewing,665,4.37
+21,6.30,296,https://www.beeradvocate.com/beer/profile/96/296/,Jinx,96,Magic Hat Brewing Company,617,3.72
+22,9.50,9659,https://www.beeradvocate.com/beer/profile/1141/9659/,Équinoxe Du Printemps,1141,Brasserie Dieu du Ciel!,588,3.9
+23,8.50,6384,https://www.beeradvocate.com/beer/profile/35571/6384/,Arcadia Loch Down Scotch Ale,35571,Arcadia Brewing Company,572,3.63
+24,8.20,2368,https://www.beeradvocate.com/beer/profile/141/2368/,Smuttynose Scotch Style Ale (Big Beer Series),141,Smuttynose Brewing Company,556,4
+25,8.00,30521,https://www.beeradvocate.com/beer/profile/9790/30521/,Wee Heavy Scotch Style Ale,9790,The Duck-Rabbit Craft Brewery,485,3.91
+26,6.50,962,https://www.beeradvocate.com/beer/profile/365/962/,Pike Kilt Lifter Scotch Style Ale,365,Pike Brewing Company,484,3.58
+27,8.00,2489,https://www.beeradvocate.com/beer/profile/804/2489/,Scotch De Silly,804,Brasserie de Silly S.A.,441,3.73
+28,9.50,29708,https://www.beeradvocate.com/beer/profile/396/29708/,Wee Heavy - Barrel-Aged,396,AleSmith Brewing Company,438,4.31
+29,7.20,5059,https://www.beeradvocate.com/beer/profile/793/5059/,Lake Louie Warped Speed Scotch Ale,793,Lake Louie Brewery Company,391,4.01
+30,9.75,206086,https://www.beeradvocate.com/beer/profile/1471/206086/,Bourbon Barrel Scotty Karate Scotch Ale,1471,Dark Horse Brewing Company,383,3.97
+31,10.00,41268,https://www.beeradvocate.com/beer/profile/357/41268/,Wet Willy Scotch Ale,357,New England Brewing Co.,320,3.92
+32,7.00,50185,https://www.beeradvocate.com/beer/profile/9969/50185/,Iron Thistle,9969,Rahr & Sons Brewing Company,306,3.87
+33,7.50,40833,https://www.beeradvocate.com/beer/profile/784/40833/,Sheep Shagger Scotch Ale,784,Tyranena Brewing Company,305,4
+34,7.20,71870,https://www.beeradvocate.com/beer/profile/26516/71870/,Drafty Kilt Scotch Ale,26516,Monday Night Brewing,304,3.85
+35,7.00,27859,https://www.beeradvocate.com/beer/profile/2455/27859/,Wee Heavy-er Scotch Style Ale,2455,French Broad Brewing Co.,294,3.53
+36,10.10,39695,https://www.beeradvocate.com/beer/profile/754/39695/,Ol' Red Cease & Desist Wee Heavy Ale,754,Erie Brewing Co.,287,3.5
+37,6.30,191614,https://www.beeradvocate.com/beer/profile/423/191614/,Snow & Tell,423,Boulevard Brewing Co.,287,3.65
+38,10.40,78247,https://www.beeradvocate.com/beer/profile/22072/78247/,Gravedigger Billy,22072,Revolution Brewing,276,4.26
+39,6.50,5592,https://www.beeradvocate.com/beer/profile/1916/5592/,Cold Smoke Scotch Ale,1916,KettleHouse Brewing Co. (Southside Taproom),273,3.97
+40,7.50,87230,https://www.beeradvocate.com/beer/profile/29378/87230/,Salty Scot,29378,Parallel 49 Brewing Company,270,3.9
+41, ? ,55511,https://www.beeradvocate.com/beer/profile/784/55511/,Shaggin' In The Wood,784,Tyranena Brewing Company,266,4.04
+42,7.30,253607,https://www.beeradvocate.com/beer/profile/140/253607/,Maple Scotch-Style Ale,140,Sierra Nevada Brewing Co.,255,3.81
+43,6.70,61771,https://www.beeradvocate.com/beer/profile/751/61771/,Heavy Horse Scotch Ale,751,Big Sky Brewing Company,254,3.8
+44,7.60,66911,https://www.beeradvocate.com/beer/profile/14967/66911/,Bancreagie Peated Scotch Ale,14967,Brau Brothers Brewing Co. LLC,237,3.62
+45,8.27,25258,https://www.beeradvocate.com/beer/profile/144/25258/,Pipers Scotch-Style Ale,144,Sprecher Brewing Company,234,3.53
+46,9.20,14431,https://www.beeradvocate.com/beer/profile/959/14431/,Magnificent Bastard Scotch Ale,959,Silver City Brewing Co.,223,4.04
+47,8.00,81099,https://www.beeradvocate.com/beer/profile/18539/81099/,Kilt Flasher,18539,Devils Backbone Brewing Company,222,3.75
+48,8.20,47694,https://www.beeradvocate.com/beer/profile/14879/47694/,Outta Kilter,14879,Hoppin' Frog Brewery,214,3.73
+49,10.00,9877,https://www.beeradvocate.com/beer/profile/793/9877/,Louie's Reserve Scotch Ale,793,Lake Louie Brewery Company,212,4.11
+50,7.80,6685,https://www.beeradvocate.com/beer/profile/2085/6685/,Dragonmead Under The Kilt Wee Heavy,2085,Dragonmead Microbrewery,207,3.8
+51,7.40,80281,https://www.beeradvocate.com/beer/profile/16315/80281/,"Dogma (7,4%)",16315,BrewDog,205,3.98
+52,8.20,84043,https://www.beeradvocate.com/beer/profile/14879/84043/,Outta Kilter - Barrel-Aged,14879,Hoppin' Frog Brewery,203,3.92
+53,6.00,6366,https://www.beeradvocate.com/beer/profile/1177/6366/,Hope & King Scotch Ale,1177,Minneapolis Town Hall Brewery,183,3.9
+54,7.40,38878,https://www.beeradvocate.com/beer/profile/4950/38878/,Full Boar Scotch Ale,4950,Devil's Canyon Brewing Company,178,3.62
+55,9.60,131615,https://www.beeradvocate.com/beer/profile/267/131615/,180 Shilling Ale,267,Odell Brewing Company,175,3.96
+56,8.00,78501,https://www.beeradvocate.com/beer/profile/7753/78501/,Seven Devils,7753,Olde Hickory Brewery,172,3.97
+57,7.00,1578,https://www.beeradvocate.com/beer/profile/132/1578/,XS McRogue Scotch Ale,132,Rogue Ales,171,3.83
+58,9.50,86969,https://www.beeradvocate.com/beer/profile/28178/86969/,Last Kiss,28178,Pipeworks Brewing Company,169,4.13
+59,7.40,153285,https://www.beeradvocate.com/beer/profile/148/153285/,Belhaven 90/~ Wee Heavy,148,Belhaven Brewery Company Ltd.,163,4.08
+60,7.00,1942,https://www.beeradvocate.com/beer/profile/653/1942/,Scotch Ale,653,Rohrbach Brewing Company (Brewpub),162,3.98
+61,6.10,2259,https://www.beeradvocate.com/beer/profile/20/2259/,Wachusett Winter Ale,20,Wachusett Brewing Company,160,3.63
+62,6.40,131538,https://www.beeradvocate.com/beer/profile/81/131538/,Newcastle Scotch Ale,81,Heineken Nederland B.V.,158,3.54
+63,6.70,151,https://www.beeradvocate.com/beer/profile/46/151/,Old Jock Ale,46,Broughton Ales Ltd,150,3.91
+64,8.00,79708,https://www.beeradvocate.com/beer/profile/25327/79708/,The Stone Of Arbroath,25327,DC Brau Brewing Co.,146,3.86
+65,9.00,6072,https://www.beeradvocate.com/beer/profile/103/6072/,Ye Olde Kilt Tilter,103,"Middle Ages Brewing Co., Ltd.",146,3.83
+66,9.60,270786,https://www.beeradvocate.com/beer/profile/423/270786/,Scotch On Scotch,423,Boulevard Brewing Co.,145,3.8
+67,8.80,69165,https://www.beeradvocate.com/beer/profile/20672/69165/,Wee Muckle,20672,Sun King Brewing Company,144,3.98
+68,8.70,27667,https://www.beeradvocate.com/beer/profile/10557/27667/,Canaster Winterscotch Ale,10557,KleinBrouwerij De Glazen Toren,142,3.86
+69,7.50,6841,https://www.beeradvocate.com/beer/profile/194/6841/,St-Ambroise Scotch Ale,194,McAuslan Brewing,139,3.75
+70,9.70,41752,https://www.beeradvocate.com/beer/profile/458/41752/,Real Heavy,458,Real Ale Brewing Company,131,4.01
+71,7.00,40979,https://www.beeradvocate.com/beer/profile/16534/40979/,Stonecutter,16534,Renaissance Brewing,126,3.84
+72,7.20,36045,https://www.beeradvocate.com/beer/profile/13837/36045/,Sticky McDoogle,13837,Ale Asylum,121,3.83
+73,6.20,1627,https://www.beeradvocate.com/beer/profile/583/1627/,Schlafly Scotch Ale,583,The Schlafly Tap Room,115,3.71
+74,12.50,17038,https://www.beeradvocate.com/beer/profile/2097/17038/,A Few Shillings Too Many,2097,Kuhnhenn Brewing Company,114,4.04
+75,6.25,7428,https://www.beeradvocate.com/beer/profile/2099/7428/,Church-Key Holy Smoke Scotch Ale,2099,Church-Key Brewing Company,112,3.57
+76,7.00,90962,https://www.beeradvocate.com/beer/profile/24355/90962/,Rochestafarian Wee Heavy Ale,24355,Three Heads Brewing,112,3.46
+77,8.00,98996,https://www.beeradvocate.com/beer/profile/664/98996/,McEwan's Scotch Ale,664,Wells & Young's Ltd,112,3.95
+78,7.00,6298,https://www.beeradvocate.com/beer/profile/610/6298/,Heritage Ale,610,Bear Republic Brewing Co.,111,3.76
+79,8.50,77757,https://www.beeradvocate.com/beer/profile/61/77757/,Perry's Revenge Ale,61,Cottrell Brewing Co.,108,3.72
+80,10.80,49197,https://www.beeradvocate.com/beer/profile/3722/49197/,MacKroken Flower,3722,"Le Bilboquet, Brasseur Artisan",107,3.97
+81,6.00,2985,https://www.beeradvocate.com/beer/profile/932/2985/,Hale's Wee Heavy Winter Ale,932,Hale's Ales Brewery & Pub,107,3.69
+82,7.25,62660,https://www.beeradvocate.com/beer/profile/33/62660/,Gude Greg's Wee Heavy Private Reserve,33,Berkshire Brewing Company Inc.,106,3.94
+83,7.50,55370,https://www.beeradvocate.com/beer/profile/413/55370/,Sheep Eater Scotch Ale,413,Grand Teton Brewing Co.,103,4.03
+84,7.80,93040,https://www.beeradvocate.com/beer/profile/16105/93040/,Mayflower Scotch Ale,16105,Mayflower Brewing Company,100,4
+85,6.50,57213,https://www.beeradvocate.com/beer/profile/4045/57213/,Russell Angry Scotch Ale,4045,Russell Brewing Company,100,3.97
+86,9.20,454,https://www.beeradvocate.com/beer/profile/14/454/,Bannatyne's Scotch Ale,14,Cambridge Brewing Company,97,4.13
+87,11.10,104221,https://www.beeradvocate.com/beer/profile/24326/104221/,Perpetual Peace,24326,No Label Brewing Company,95,4.22
+88,7.00,25165,https://www.beeradvocate.com/beer/profile/11972/25165/,Copper John Scotch Ale,11972,Madison River Brewing Company,92,3.79
+89,10.90,87384,https://www.beeradvocate.com/beer/profile/26565/87384/,Wee Heavy,26565,Steel Toe Brewing,91,3.98
+90,9.00,29077,https://www.beeradvocate.com/beer/profile/11256/29077/,Corne De Brume,11256,À l’abri de la Tempête,91,3.94
+91,8.00,239920,https://www.beeradvocate.com/beer/profile/27839/239920/,Icelandic Wee Heavy,27839,Einstök Ölgerð (Einstök Beer Company),90,4.09
+92,7.00,17010,https://www.beeradvocate.com/beer/profile/577/17010/,Wee Beast (Cuillin Beast),577,Isle Of Skye Brewery,88,3.61
+93,7.20,54673,https://www.beeradvocate.com/beer/profile/19765/54673/,Second Sight Strong Scotch Ale,19765,Black Raven Brewing Co.,87,3.79
+94,6.50,4132,https://www.beeradvocate.com/beer/profile/952/4132/,Stone Of Scone Scotch Ale,952,Great Dane Pub & Brewing Company (Downtown),85,3.73
+95,6.40,17007,https://www.beeradvocate.com/beer/profile/701/17007/,Scotch Style Ale,701,Boundary Bay Brewery & Bistro,84,3.75
+96,7.00,29933,https://www.beeradvocate.com/beer/profile/33/29933/,Berkshire Scotch Ale,33,Berkshire Brewing Company Inc.,82,3.93
+97,5.40,820,https://www.beeradvocate.com/beer/profile/99/820/,Saranac Scotch Ale,99,Matt Brewing Company / Saranac Brewery,80,3.38
+98,7.50,28581,https://www.beeradvocate.com/beer/profile/1853/28581/,Gang Aft Agley,1853,Sly Fox Brewing Company,80,3.74
+99,7.50,121435,https://www.beeradvocate.com/beer/profile/34025/121435/,Squatch Ale,34025,Chaos Mountain Brewing,79,3.71
+100,9.00,85970,https://www.beeradvocate.com/beer/profile/28255/85970/,Smoke On The Bayou,28255,Buffalo Bayou Brewing Co,77,3.7
+101,9.70,23222,https://www.beeradvocate.com/beer/profile/959/23222/,Fat Woody,959,Silver City Brewing Co.,76,4.03
+102,10.00,55763,https://www.beeradvocate.com/beer/profile/16206/55763/,Kilty Pleasure,16206,Philadelphia Brewing Company,75,3.7
+103,9.20,36192,https://www.beeradvocate.com/beer/profile/823/36192/,Ten Penny Ale Reserve,823,The Olde Burnside Brewing Company,74,3.74
+104,7.40,229248,https://www.beeradvocate.com/beer/profile/10272/229248/,Innis & Gunn Bourbon Aged Dark Ale,10272,Innis & Gunn,74,3.92
+105,10.80,58248,https://www.beeradvocate.com/beer/profile/19765/58248/,Splinters,19765,Black Raven Brewing Co.,74,4.22
+106,11.00,87698,https://www.beeradvocate.com/beer/profile/29030/87698/,Wee Heavy Bourbon,29030,Microbrasserie Le Castor,74,3.93
+107,9.00,63849,https://www.beeradvocate.com/beer/profile/23459/63849/,Maltopia Double Scotch Ale,23459,Hermitage Brewing,73,3.54
+108,8.00,40043,https://www.beeradvocate.com/beer/profile/4067/40043/,Scotch Ale,4067,Fordham Brewing Company,71,3.47
+109,7.60,78210,https://www.beeradvocate.com/beer/profile/18539/78210/,Wood Aged Kilt Flasher,18539,Devils Backbone Brewing Company,71,3.98
+110,4.50,105931,https://www.beeradvocate.com/beer/profile/16315/105931/,Santa Paws,16315,BrewDog,71,3.58
+111,10.20,30806,https://www.beeradvocate.com/beer/profile/144/30806/,Scotch Style Ale Aged In  Oak Bourbon Barrels,144,Sprecher Brewing Company,70,3.74
+112,8.17,92479,https://www.beeradvocate.com/beer/profile/29440/92479/,Scotch Ale,29440,Guadalupe Brewing Co.,68,4.02
+113,8.00,389,https://www.beeradvocate.com/beer/profile/123/389/,Winter Palace Wee Heavy,123,"Paper City Brewery Co., Inc.",68,3.69
+114,7.40,120815,https://www.beeradvocate.com/beer/profile/33926/120815/,Kings Mountain,33926,Heritage Brewing Co.,68,3.67
+115,8.00,31249,https://www.beeradvocate.com/beer/profile/9534/31249/,Gordon Finest Scotch,9534,John Martin's (John Martin SA),65,3.59
+116, ? ,145985,https://www.beeradvocate.com/beer/profile/9020/145985/,Winter Seasonal,9020,Yazoo Brewing Company,63,3.6
+117,8.00,46261,https://www.beeradvocate.com/beer/profile/62/46261/,Geary's Wee Heavy Scottish Ale,62,D.L. Geary Brewing Company,63,3.76
+118,13.00,90662,https://www.beeradvocate.com/beer/profile/23966/90662/,Bourbon Barrel Aged Wee Heavy Ale,23966,Blue Pants Brewery,62,3.78
+119,8.00,20815,https://www.beeradvocate.com/beer/profile/9877/20815/,Winter Warmer,9877,Rush River Brewing Company,62,3.71
+120,9.50,75870,https://www.beeradvocate.com/beer/profile/25959/75870/,Full Malted Jacket,25959,Beachwood BBQ & Brewing,62,3.82
+121,8.00,15959,https://www.beeradvocate.com/beer/profile/4738/15959/,Plaid Bastard,4738,Grand Lake Brewing Company,61,3.73
+122,8.30,3430,https://www.beeradvocate.com/beer/profile/6045/3430/,Wee Heavy,6045,Iron Hill Brewery & Restaurant,61,4.05
+123,8.00,160397,https://www.beeradvocate.com/beer/profile/9969/160397/,Iron Joe,9969,Rahr & Sons Brewing Company,60,3.56
+124,9.80,226496,https://www.beeradvocate.com/beer/profile/140/226496/,Trip In The Woods: Barrel-Aged Maple Scotch,140,Sierra Nevada Brewing Co.,59,4.22
+125,12.00,90400,https://www.beeradvocate.com/beer/profile/25959/90400/,Full Malted Jacket Heaven Hill Barrel Aged,25959,Beachwood BBQ & Brewing,58,4.25
+126,9.20,27192,https://www.beeradvocate.com/beer/profile/823/27192/,Father Christmas Highland Ale,823,The Olde Burnside Brewing Company,58,3.88
+127, ? ,42824,https://www.beeradvocate.com/beer/profile/2681/42824/,Chubourbon,2681,Oskar Blues Grill & Brew,58,4.2
+128,7.50,173465,https://www.beeradvocate.com/beer/profile/302/173465/,Genesee Brew House Scotch Ale,302,Genesee Brewing Co. / Dundee Brewing Co.,58,3.64
+129,6.50,74249,https://www.beeradvocate.com/beer/profile/761/74249/,CB's MacBubba,761,CB Craft Brewers,55,3.39
+130,6.80,109675,https://www.beeradvocate.com/beer/profile/29660/109675/,Mountain Man Strong Ale,29660,The Front Brewing Company,55,3.96
+131,11.90,85763,https://www.beeradvocate.com/beer/profile/144/85763/,Commando,144,Sprecher Brewing Company,54,3.62
+132,6.80,90243,https://www.beeradvocate.com/beer/profile/2675/90243/,Twisted Oak Stillage Barrel Reserve Scotch Ale,2675,Phillips Brewing Company,54,3.94
+133,5.80,126347,https://www.beeradvocate.com/beer/profile/16315/126347/,Bourbon Baby,16315,BrewDog,54,3.8
+134,10.50,81386,https://www.beeradvocate.com/beer/profile/28556/81386/,Aftermath,28556,Triple Digit Brewing Co.,54,3.92
+135,6.00,63115,https://www.beeradvocate.com/beer/profile/1762/63115/,Winter Scotch Ale,1762,The St. George Brewing Company,52,3.53
+136,6.50,57808,https://www.beeradvocate.com/beer/profile/4049/57808/,Squire Scotch Ale,4049,Cannery Brewing Company,52,3.58
+137,7.00,74822,https://www.beeradvocate.com/beer/profile/391/74822/,Big Rock Scottish Style Heavy,391,Big Rock Brewery,51,3.66
+138,10.00,53274,https://www.beeradvocate.com/beer/profile/1432/53274/,Thorogood,1432,Jackie O's Pub & Brewery,50,3.85
+139,7.70,48015,https://www.beeradvocate.com/beer/profile/16352/48015/,MacHayden's WeeHeavy Scotch Ale,16352,Blue Mountain Brewery,47,3.63
+140,8.50,47818,https://www.beeradvocate.com/beer/profile/16096/47818/,Bagpiper's Scotch Ale,16096,Allentown Brew Works,47,3.71
+141,8.50,3900,https://www.beeradvocate.com/beer/profile/1478/3900/,Grand Ridge Moonshine,1478,Grand Ridge Brewing Co.,45,3.77
+142,8.90,40362,https://www.beeradvocate.com/beer/profile/1304/40362/,MacPelican's Wee Heavy,1304,Pelican Pub & Brewery,45,3.76
+143,9.50,153307,https://www.beeradvocate.com/beer/profile/28991/153307/,The Telegraph,28991,Solemn Oath Brewery,45,4.01
+144,7.30,159230,https://www.beeradvocate.com/beer/profile/140/159230/,Scotch Ale,140,Sierra Nevada Brewing Co.,45,3.95
+145,6.30,50448,https://www.beeradvocate.com/beer/profile/16386/50448/,Black Scotch Ale,16386,O'so Brewing Company & Tap House,44,3.64
+146,7.00,4281,https://www.beeradvocate.com/beer/profile/1387/4281/,Peeping Peater Scotch Ale,1387,Port Townsend Brewing Company,44,3.74
+147,8.30,142588,https://www.beeradvocate.com/beer/profile/32893/142588/,Shapeshifter,32893,Grimm Artisanal Ales,44,3.88
+148,9.00,137733,https://www.beeradvocate.com/beer/profile/20672/137733/,Whip Fight,20672,Sun King Brewing Company,42,4.26
+149,9.50,41328,https://www.beeradvocate.com/beer/profile/12314/41328/,Wee Heavy,12314,Dry Dock Brewing Co.,41,3.95
+150,8.50,120628,https://www.beeradvocate.com/beer/profile/25045/120628/,The Barbaric Yawp,25045,Blackrocks Brewery,40,3.88
+151,11.00,52335,https://www.beeradvocate.com/beer/profile/11984/52335/,Big Bourbon Series Big Bella Scotch Ale,11984,Shoreline Brewery And Restaurant,40,3.86
+152,7.40,136661,https://www.beeradvocate.com/beer/profile/10272/136661/,Rum Finish,10272,Innis & Gunn,40,3.71
+153,6.20,34261,https://www.beeradvocate.com/beer/profile/769/34261/,Amsterdam Wee Heavy Scotch Ale,769,Amsterdam Brewing Company,40,3.5
+154,8.30,24839,https://www.beeradvocate.com/beer/profile/7216/24839/,Fat Scotsman,7216,Adirondack Pub & Brewery,39,3.8
+155,8.00,210147,https://www.beeradvocate.com/beer/profile/96/210147/,Wee Heavy Champ Scotch Ale,96,Magic Hat Brewing Company,39,3.7
+156,9.60,119344,https://www.beeradvocate.com/beer/profile/140/119344/,Trip In The Woods: Scotch Ale Blend,140,Sierra Nevada Brewing Co.,38,4.18
+157,7.50,33631,https://www.beeradvocate.com/beer/profile/5275/33631/,Front Street Dram Tree Scottish Ale,5275,Front Street Brewery,38,3.81
+158,8.00,70748,https://www.beeradvocate.com/beer/profile/25957/70748/,Wallace Tavern Scotch Ale,25957,Market Garden Brewery,37,3.65
+159,10.00,3427,https://www.beeradvocate.com/beer/profile/1285/3427/,Milly's Bo's Scotch Ale,1285,Stark Brewing Company,37,3.89
+160,7.00,192106,https://www.beeradvocate.com/beer/profile/16077/192106/,Plaid,16077,Fort George Brewery + Public House,37,3.98
+161,7.20,89467,https://www.beeradvocate.com/beer/profile/1398/89467/,Local Grind,1398,Empire Brewing Company - Brewpub,37,3.87
+162,8.50,27858,https://www.beeradvocate.com/beer/profile/1628/27858/,Southampton Scotch Ale,1628,Southampton Publick House,37,3.72
+163,7.90,107989,https://www.beeradvocate.com/beer/profile/31326/107989/,Flaming Longship,31326,HammerHeart Brewing Company,37,3.98
+164,9.20,56466,https://www.beeradvocate.com/beer/profile/10629/56466/,Kiss My Scottish Arse,10629,Schmohz Brewing Company,36,3.84
+165,4.80,13562,https://www.beeradvocate.com/beer/profile/7008/13562/,Scotch Ale,7008,Pump House Brewery,36,3.15
+166,7.70,105755,https://www.beeradvocate.com/beer/profile/33235/105755/,Kilt Spinner,33235,Mill House Brewing Company,35,3.84
+167,7.70,89460,https://www.beeradvocate.com/beer/profile/30532/89460/,Scotch Ale,30532,Bellevue Brewing Company,35,3.83
+168,10.00,65484,https://www.beeradvocate.com/beer/profile/16859/65484/,Marauder (Born From Wood Series),16859,Great South Bay Brewery,35,3.91
+169,10.00,64625,https://www.beeradvocate.com/beer/profile/823/64625/,Amazing Grace,823,The Olde Burnside Brewing Company,34,3.54
+170,8.00,120558,https://www.beeradvocate.com/beer/profile/2446/120558/,Hooligan,2446,Catawba Brewing Co.,34,3.87
+171,8.60,13584,https://www.beeradvocate.com/beer/profile/188/13584/,Gordon Highland Scotch Ale (John Martin N.V.),188,The Caledonian Brewing Company,33,3.8
+172,9.00,295184,https://www.beeradvocate.com/beer/profile/735/295184/,Tales From The Kettle: Not Your Cup Of Tea,735,21st Amendment Brewery,33,3.94
+173,7.70,49710,https://www.beeradvocate.com/beer/profile/2675/49710/,Double Barrel Scotch Ale,2675,Phillips Brewing Company,33,3.99
+174,4.90,94575,https://www.beeradvocate.com/beer/profile/21473/94575/,Eighty Shilling Scotch Ale,21473,Morgantown Brewing Company,33,3.58
+175,8.60,34163,https://www.beeradvocate.com/beer/profile/1337/34163/,Way Heavy,1337,Pizza Port Solana Beach,32,3.78
+176,10.20,188628,https://www.beeradvocate.com/beer/profile/38311/188628/,Bob Ross Did It,38311,Noon Whistle Brewing,32,4.12
+177,7.00,89308,https://www.beeradvocate.com/beer/profile/11977/89308/,Wee Beastie Oak Aged Scotch Ale,11977,Howe Sound Inn & Brewing Company,32,3.79
+178,5.70,105053,https://www.beeradvocate.com/beer/profile/24180/105053/,Wee Heavy,24180,Wild Wolf Brewing Company,31,3.65
+179,6.80,213926,https://www.beeradvocate.com/beer/profile/10272/213926/,Innis & Gunn Rum Finish Oak Aged Beer,10272,Innis & Gunn,31,3.85
+180,8.60,63816,https://www.beeradvocate.com/beer/profile/23201/63816/,Oak Aged Wee Heavy,23201,Mad Fox Brewing Company,30,4.02
+181,5.80,28835,https://www.beeradvocate.com/beer/profile/12579/28835/,Red Hill Scotch Ale,12579,Red Hill Brewery,30,3.47
+182,6.00,14799,https://www.beeradvocate.com/beer/profile/1535/14799/,Loch Ness,1535,Brasseurs R.J.,30,3.41
+183,8.00,154898,https://www.beeradvocate.com/beer/profile/36176/154898/,Cannonball,36176,Panther Island Brewing,29,3.79
+184,10.80,62901,https://www.beeradvocate.com/beer/profile/3722/62901/,MacKroken Flower Grande Réserve (Vieillie 4 Mois - Fût De Chêne),3722,"Le Bilboquet, Brasseur Artisan",29,4.05
+185,8.20,55267,https://www.beeradvocate.com/beer/profile/21006/55267/,Simple Malt Scotch Ale,21006,Brasseurs Illimités,29,3.59
+186,11.00,122595,https://www.beeradvocate.com/beer/profile/31326/122595/,Imperial Longship,31326,HammerHeart Brewing Company,29,4.2
+187,5.75,50685,https://www.beeradvocate.com/beer/profile/12881/50685/,Single Malt Scotch Ale,12881,Square One Brewery & Distillery,29,3.85
+188,9.70,207927,https://www.beeradvocate.com/beer/profile/22928/207927/,"10,000 Foot Beard",22928,Barrier Brewing Company,28,3.83
+189,9.10,7029,https://www.beeradvocate.com/beer/profile/1646/7029/,Scotch Ale,1646,Davidson Brothers Restaurant & Brewery,28,3.69
+190,10.50,112265,https://www.beeradvocate.com/beer/profile/2681/112265/,Body Like A Battle Axe,2681,Oskar Blues Grill & Brew,28,3.72
+191,9.00,60358,https://www.beeradvocate.com/beer/profile/23201/60358/,Wee Heavy,23201,Mad Fox Brewing Company,28,3.71
+192,7.80,41573,https://www.beeradvocate.com/beer/profile/16354/41573/,Red Legs Scotch Ale,16354,COAST Brewing Company,27,4.13
+193,7.00,1492,https://www.beeradvocate.com/beer/profile/394/1492/,Stoudt's Scotch Style Ale,394,Stoudts Brewing Co.,27,4.04
+194,8.10,104047,https://www.beeradvocate.com/beer/profile/25920/104047/,Smoky Hollow,25920,El Segundo Brewing Company,26,3.84
+195,9.10,117629,https://www.beeradvocate.com/beer/profile/1141/117629/,Equinoxe Du Printemps (Élevée En Barrique De Bourbon),1141,Brasserie Dieu du Ciel!,26,4.05
+196,7.80,124921,https://www.beeradvocate.com/beer/profile/29067/124921/,Angry Scot,29067,Brass Cannon Brewing,26,3.62
+197,7.60,112676,https://www.beeradvocate.com/beer/profile/35412/112676/,Wheelie,35412,Cycle Brewing,25,3.61
+198,10.90,171560,https://www.beeradvocate.com/beer/profile/26565/171560/,Barrel Aged Wee Heavy,26565,Steel Toe Brewing,25,4.11
+199,8.00,33095,https://www.beeradvocate.com/beer/profile/231/33095/,The People's Pint Scotch Ale - McShagger's Double Ewe,231,The People's Pint,25,3.95
+200,8.00,91033,https://www.beeradvocate.com/beer/profile/30284/91033/,Bourbon Barrel Scotchtown,30284,Center of the Universe Brewing Company,25,3.78
+201,9.50,1706,https://www.beeradvocate.com/beer/profile/596/1706/,Portsmouth 90 Shilling Scotch Ale,596,Portsmouth Brewery,25,4.17
+202,7.50,188123,https://www.beeradvocate.com/beer/profile/33137/188123/,Gregarious,33137,Queen City Brewery,25,3.84
+203,6.50,76554,https://www.beeradvocate.com/beer/profile/26606/76554/,Scottish Ale,26606,Two Kilts Brewing Co.,24,4.05
+204,8.50,39487,https://www.beeradvocate.com/beer/profile/14518/39487/,Caribou Kilt,14518,Kassik's Kenai Brew Stop,24,3.75
+205,10.40,56444,https://www.beeradvocate.com/beer/profile/22072/56444/,Willie,22072,Revolution Brewing,24,3.88
+206,8.50,75232,https://www.beeradvocate.com/beer/profile/22598/75232/,Smokin' Santiago,22598,Cismontane Brewing Company,24,3.59
+207,8.00,136500,https://www.beeradvocate.com/beer/profile/16842/136500/,Sea Belt,16842,Marshall Wharf Brewing Company / Three Tides Restaurant,23,3.72
+208, ? ,209724,https://www.beeradvocate.com/beer/profile/1177/209724/,E.T. Wee,1177,Minneapolis Town Hall Brewery,23,4.44
+209,8.00,24761,https://www.beeradvocate.com/beer/profile/1250/24761/,Riley's Scotch Ale,1250,Swans Brewpub / Buckerfield Brewery,23,3.96
+210,8.00,4040,https://www.beeradvocate.com/beer/profile/1037/4040/,Barley's Glenlenny's Scotch Ale,1037,Barley's Brewing Company,23,4.05
+211,8.90,166110,https://www.beeradvocate.com/beer/profile/38139/166110/,Atholl Brose,38139,Strange Land Brewery,23,3.51
+212,12.00,47361,https://www.beeradvocate.com/beer/profile/1666/47361/,Saint Fillian's Wee Heavy,1666,Selin's Grove Brewing Company,22,4.07
+213,8.50,140818,https://www.beeradvocate.com/beer/profile/365/140818/,Wood Aged Kilt Lifter,365,Pike Brewing Company,22,4
+214,8.00,44573,https://www.beeradvocate.com/beer/profile/18108/44573/,Seeing Double,18108,Brewboys,22,3.87
+215,7.00,229932,https://www.beeradvocate.com/beer/profile/10272/229932/,Innis & Gunn Fired Oak Scotch Ale,10272,Innis & Gunn,22,3.74
+216,8.10,208712,https://www.beeradvocate.com/beer/profile/34070/208712/,Ad Astra,34070,Middle Brow Beer Co.,22,3.74
+217,8.00,71790,https://www.beeradvocate.com/beer/profile/25832/71790/,Bodebrown Wee Heavy,25832,Cervejaria Bodebrown Ltda.,22,3.81
+218,8.59,68734,https://www.beeradvocate.com/beer/profile/2266/68734/,Desert Select Scotch Ale,2266,Moab Brewery,22,3.76
+219,9.50,163849,https://www.beeradvocate.com/beer/profile/32896/163849/,Plumptuous,32896,Next Door Brewing Company,21,3.58
+220,10.00,114335,https://www.beeradvocate.com/beer/profile/34018/114335/,Wee Heavy ,34018,Zaftig Brewing Co.,21,4
+221,11.32,279223,https://www.beeradvocate.com/beer/profile/31407/279223/,Tusk & Grain Bourbon Barrel Aged Wee Heavy W/ Hazelnuts & Cacao Nibs,31407,Saint Archer Brewing Co.,21,4.22
+222,11.30,302788,https://www.beeradvocate.com/beer/profile/33824/302788/,Gravity Rush,33824,Bottle Logic Brewing,21,4.3
+223,7.70,254235,https://www.beeradvocate.com/beer/profile/35022/254235/,Sweet Potato Pecan Scotch Ale,35022,Goliad Brewing Company,20,3.5
+224,9.00,86084,https://www.beeradvocate.com/beer/profile/25775/86084/,Le Trinqueur,25775,Brasseurs Du Monde,20,3.54
+225,7.90,182119,https://www.beeradvocate.com/beer/profile/33/182119/,Drookit Scotch Ale,33,Berkshire Brewing Company Inc.,20,4.01
+226,7.50,264324,https://www.beeradvocate.com/beer/profile/784/264324/,Shaggin' In The Highlands,784,Tyranena Brewing Company,20,3.87
+227,6.80,62880,https://www.beeradvocate.com/beer/profile/22065/62880/,Imperial Golden Ale,22065,Redwood Curtain Brewing Company,20,4.03
+228,7.20,204481,https://www.beeradvocate.com/beer/profile/42560/204481/,Hammer And Nail,42560,Aslin Beer Company,20,3.78
+229,11.00,131271,https://www.beeradvocate.com/beer/profile/33926/131271/,Barrel Aged Kings Mountain,33926,Heritage Brewing Co.,20,4.04
+230,7.80,37575,https://www.beeradvocate.com/beer/profile/16104/37575/,Abel Turcault,16104,Microbrasserie de l'ile d'Orléans,20,3.63
+231,9.10,113110,https://www.beeradvocate.com/beer/profile/28255/113110/,Mud Turtle,28255,Buffalo Bayou Brewing Co,20,3.66
+232,8.50,36837,https://www.beeradvocate.com/beer/profile/256/36837/,Lost Coast Scotch Ale,256,Lost Coast Brewery and Cafe,20,3.79
+233,7.50,80902,https://www.beeradvocate.com/beer/profile/140/80902/,Sierra Nevada Audition Off Kilter Scotch Ale,140,Sierra Nevada Brewing Co.,19,3.91
+234,7.20,68878,https://www.beeradvocate.com/beer/profile/22928/68878/,Cairn,22928,Barrier Brewing Company,19,3.68
+235,8.50,117778,https://www.beeradvocate.com/beer/profile/30162/117778/,Derailleur,30162,Cycler's Brewing,19,3.95
+236,9.10,76598,https://www.beeradvocate.com/beer/profile/36757/76598/,120 Shilling Scotch Ale,36757,DESTIHL Brewery,19,3.73
+237,8.90,102715,https://www.beeradvocate.com/beer/profile/31807/102715/,Clan Warrior,31807,Odyssey Beerwerks,19,3.71
+238,6.50,241503,https://www.beeradvocate.com/beer/profile/42321/241503/,Bullshark,42321,Galveston Bay Beer Company,19,3.37
+239,7.50,14751,https://www.beeradvocate.com/beer/profile/1141/14751/,Cornemuse,1141,Brasserie Dieu du Ciel!,19,3.58
+240,11.00,210610,https://www.beeradvocate.com/beer/profile/40090/210610/,Gravity Always Wins,40090,Ocelot Brewing Company,19,4.21
+241,10.10,66017,https://www.beeradvocate.com/beer/profile/2455/66017/,Wee Heavy-est,2455,French Broad Brewing Co.,19,3.74
+242,9.50,99825,https://www.beeradvocate.com/beer/profile/29606/99825/,Sunken Island Scotch Ale,29606,Council Rock Brewery,19,3.7
+243,12.00,156175,https://www.beeradvocate.com/beer/profile/31393/156175/,Wee Heavy,31393,Roughtail Brewing Co.,18,4.1
+244,9.50,97205,https://www.beeradvocate.com/beer/profile/32180/97205/,Wee Heavy,32180,Blue Stallion Brewing Co.,18,3.7
+245,9.50,42942,https://www.beeradvocate.com/beer/profile/11984/42942/,Big Bella Heavy Scotch Ale,11984,Shoreline Brewery And Restaurant,18,4.02
+246,7.40,107315,https://www.beeradvocate.com/beer/profile/31089/107315/,Heavy Red Horseman,31089,Apocalypse Ale Works,17,3.66
+247,7.50,99445,https://www.beeradvocate.com/beer/profile/774/99445/,Highlands Scotch Ale,774,Idaho Brewing Company,17,3.89
+248,6.80,72067,https://www.beeradvocate.com/beer/profile/18254/72067/,Heavy Kevy,18254,Blue Canoe Brewery,17,3.97
+249,4.40,135165,https://www.beeradvocate.com/beer/profile/793/135165/,Impulse Drive,793,Lake Louie Brewery Company,17,3.29
+250,8.00,120396,https://www.beeradvocate.com/beer/profile/34605/120396/,Smokin' Gramma,34605,Biloba Brewing Company,16,4.05
+251,8.30,27493,https://www.beeradvocate.com/beer/profile/73/27493/,Loch Erie Scotch Ale,73,Great Lakes Brewing Co.,16,3.85
+252,8.30,79992,https://www.beeradvocate.com/beer/profile/22617/79992/,Weehawken Wee Heavy,22617,New Jersey Beer Company,16,3.79
+253,8.50,153215,https://www.beeradvocate.com/beer/profile/38311/153215/,High Falutin,38311,Noon Whistle Brewing,16,3.96
+254,6.80,44424,https://www.beeradvocate.com/beer/profile/2946/44424/,Curly,2946,The Grumpy Troll Restaurant and Brewery,16,3.45
+255,10.30,81064,https://www.beeradvocate.com/beer/profile/7216/81064/,Fat Scotsman - Bourbon Barrel Aged,7216,Adirondack Pub & Brewery,16,4.24
+256,8.50,99549,https://www.beeradvocate.com/beer/profile/27847/99549/,Hop Scotch,27847,Frog Level Brewing Company,16,3.79
+257,10.90,158717,https://www.beeradvocate.com/beer/profile/37094/158717/,Mashie,37094,Elk Valley Brewing Co.,16,3.62
+258,8.00,200964,https://www.beeradvocate.com/beer/profile/20672/200964/,Diddy Muckle,20672,Sun King Brewing Company,15,4.13
+259,8.40,162359,https://www.beeradvocate.com/beer/profile/38311/162359/,Da Percolator,38311,Noon Whistle Brewing,15,3.96
+260,7.00,141635,https://www.beeradvocate.com/beer/profile/36833/141635/,Ole Gus,36833,Meadowlark Brewing,15,3.87
+261,9.50,253283,https://www.beeradvocate.com/beer/profile/1304/253283/,Captain Of The Coast,1304,Pelican Pub & Brewery,15,4.33
+262,7.20,26217,https://www.beeradvocate.com/beer/profile/3599/26217/,Yabai-Yabai Strong Scotch Ale,3599,Baird Brewing Company / Fishmarket Taproom,15,3.84
+263,8.50,123588,https://www.beeradvocate.com/beer/profile/1114/123588/,Thistle Missile,1114,Bullfrog Brewery,15,3.24
+264,7.20,167388,https://www.beeradvocate.com/beer/profile/32783/167388/,Scotch-Style Ale,32783,Stone Corral Brewery,15,3.87
+265,9.20,55518,https://www.beeradvocate.com/beer/profile/1337/55518/,Reed's Wee Heavy,1337,Pizza Port Solana Beach,15,4.1
+266,9.00,76527,https://www.beeradvocate.com/beer/profile/15205/76527/,Wee Heavy Scotch Ale,15205,Tri-City Brewing Company,15,3.18
+267,8.50,84010,https://www.beeradvocate.com/beer/profile/23201/84010/,Bourbon Barrel Aged Wee Heavy,23201,Mad Fox Brewing Company,14,3.7
+268,8.00,46141,https://www.beeradvocate.com/beer/profile/16842/46141/,MacFindlay Scotch Ale,16842,Marshall Wharf Brewing Company / Three Tides Restaurant,14,4.04
+269, ? ,25933,https://www.beeradvocate.com/beer/profile/952/25933/,Blackwatch Scotch Ale,952,Great Dane Pub & Brewing Company (Downtown),14,3.63
+270,6.50,18547,https://www.beeradvocate.com/beer/profile/9771/18547/,Harringtons Big John Special Reserve,9771,Harringtons Brewery,14,3.89
+271,8.00,70789,https://www.beeradvocate.com/beer/profile/20132/70789/,La Corne Et La Muse,20132,Les Brasseurs Du Temps,14,3.55
+272,8.10,77738,https://www.beeradvocate.com/beer/profile/24007/77738/,Scottish Ale,24007,Black Swan Brewpub,14,3.75
+273,8.00,58040,https://www.beeradvocate.com/beer/profile/22432/58040/,Hop Scotch,22432,Gilgamesh Brewing,14,3.52
+274,7.20,88511,https://www.beeradvocate.com/beer/profile/4075/88511/,Wobbily Man Smoked Scotch Ale,4075,McCall Brewing Company,14,3.8
+275,7.60,81088,https://www.beeradvocate.com/beer/profile/24102/81088/,Scotch Ale,24102,Naked Dove Brewing Company,14,3.91
+276,9.20,64723,https://www.beeradvocate.com/beer/profile/21448/64723/,Midnight Special,21448,Ladyface Ale Companie,14,3.93
+277,8.50,312057,https://www.beeradvocate.com/beer/profile/898/312057/,Heavy Seas / MadTree Partner Ships Wee Heavy,898,Heavy Seas Beer,14,4.02
+278,9.20,105475,https://www.beeradvocate.com/beer/profile/29335/105475/,Fat Woody Scotch Ale,29335,Silver City Brewery & Taproom,13,4.11
+279,6.80,3077,https://www.beeradvocate.com/beer/profile/959/3077/,Macfarlanes Scotch Ale,959,Silver City Brewing Co.,13,3.96
+280,6.00,100870,https://www.beeradvocate.com/beer/profile/27262/100870/,Standing Stones,27262,House of Brews,13,3.5
+281,8.60,118800,https://www.beeradvocate.com/beer/profile/29403/118800/,Major,29403,One Trick Pony,13,4.03
+282,7.20,56101,https://www.beeradvocate.com/beer/profile/12471/56101/,Scotch Ale,12471,Ellersick Brewing Company,13,3.6
+283,9.50,66144,https://www.beeradvocate.com/beer/profile/12314/66144/,3 Heavy Scottish Wee Heavy,12314,Dry Dock Brewing Co.,13,3.89
+284,7.50,5235,https://www.beeradvocate.com/beer/profile/1000/5235/,Brewer's Alley Scotch Ale,1000,Brewer's Alley Restaurant & Brewery,13,4.13
+285,8.00,48249,https://www.beeradvocate.com/beer/profile/1114/48249/,Wolfsblood Scotch Ale (Barrel Aged),1114,Bullfrog Brewery,13,3.91
+286,8.00,42913,https://www.beeradvocate.com/beer/profile/6045/42913/,Bourbon Wee Heavy,6045,Iron Hill Brewery & Restaurant,13,4.27
+287,7.70,122856,https://www.beeradvocate.com/beer/profile/28018/122856/,Wee Heavy,28018,Rapp Brewing Company,13,3.87
+288,7.50,159214,https://www.beeradvocate.com/beer/profile/38717/159214/,Hold Steady With Coffee,38717,Ratio Beerworks,13,3.97
+289,10.00,215800,https://www.beeradvocate.com/beer/profile/40333/215800/,Orcus,40333,Demented Brewing Company,13,3.95
+290,11.00,220429,https://www.beeradvocate.com/beer/profile/43107/220429/,Highland Scoundrel,43107,4th Tap Brewing Co-op,12,3.76
+291,8.00,54557,https://www.beeradvocate.com/beer/profile/6045/54557/,McMaster Wee Heavy,6045,Iron Hill Brewery & Restaurant,12,3.94
+292,8.00,142640,https://www.beeradvocate.com/beer/profile/22564/142640/,Groundskeeper Willie,22564,Odd Side Ales,12,3.69
+293,8.00,46388,https://www.beeradvocate.com/beer/profile/3925/46388/,McFinn's Wee Heavy,3925,Mickey Finn's Brewery,12,3.7
+294,7.80,29000,https://www.beeradvocate.com/beer/profile/12578/29000/,Red Duck Golden Dragon,12578,Purrumbete Brewing Company (Red Duck),12,3.77
+295,10.50,21072,https://www.beeradvocate.com/beer/profile/1889/21072/,Lord Stanley Scottish,1889,Pearl Street Grill And Brewery,12,3.24
+296,7.70,93271,https://www.beeradvocate.com/beer/profile/29770/93271/,Sett Seven,29770,Portico Brewing Co.,12,3.49
+297,7.70,8284,https://www.beeradvocate.com/beer/profile/1454/8284/,Wee Alec Heavy,1454,Broad Ripple Brew Pub,12,3.88
+298,10.60,124771,https://www.beeradvocate.com/beer/profile/27021/124771/,Wee Heady,27021,Tighthead Brewing Company,12,3.98
+299,8.00,69736,https://www.beeradvocate.com/beer/profile/17232/69736/,Bourbon Barrel Bellywasher,17232,Original Gravity Brewing Company,12,3.67
+300,6.50,81270,https://www.beeradvocate.com/beer/profile/10836/81270/,Scotch Ale,10836,Rooster Fish Brewing Co.,12,3.68
+301,8.00,169353,https://www.beeradvocate.com/beer/profile/764/169353/,Big Ugly,764,Blue Point Brewing Company,12,3.55
+302,9.00,171153,https://www.beeradvocate.com/beer/profile/26850/171153/,We Mint Well,26850,Against The Grain Brewery & Smokehouse,12,3.88
+303,8.00,118936,https://www.beeradvocate.com/beer/profile/2470/118936/,Mac Daddy Scotch Ale,2470,The Brew Kettle Taproom & Smokehouse / Production Works,12,3.71
+304,9.50,199835,https://www.beeradvocate.com/beer/profile/28991/199835/,Barrel-aged Telegraph,28991,Solemn Oath Brewery,12,4.12
+305,8.30,22186,https://www.beeradvocate.com/beer/profile/1066/22186/,Broadsword,1066,Anacortes Brewery & Rockfish Grill,12,3.78
+306,7.50,312531,https://www.beeradvocate.com/beer/profile/302/312531/,Genesee Brew House Dark Chocolate Scotch Ale,302,Genesee Brewing Co. / Dundee Brewing Co.,12,3.77
+307,11.00,171746,https://www.beeradvocate.com/beer/profile/29030/171746/,Wee Heavy Rhum,29030,Microbrasserie Le Castor,12,4.03
+308,7.70,154093,https://www.beeradvocate.com/beer/profile/15943/154093/,Wobbling Wheel,15943,Crow Peak Brewing,12,3.66
+309,7.20,9717,https://www.beeradvocate.com/beer/profile/597/9717/,Marietta Brewing McLaren's Scotch Ale,597,Marietta Brewing Company,12,3.7
+310,8.20,157429,https://www.beeradvocate.com/beer/profile/33806/157429/,Highlander,33806,Eventide Brewing,12,3.82
+311,7.90,124661,https://www.beeradvocate.com/beer/profile/34962/124661/,Scotch Ale,34962,Elk Brewing,12,3.78
+312,10.20,200184,https://www.beeradvocate.com/beer/profile/194/200184/,St-Ambroise Scotch Ale (Collection Barrique),194,McAuslan Brewing,12,4.17
+313,6.40,118796,https://www.beeradvocate.com/beer/profile/17271/118796/,The Ugly Molly,17271,Bootlegger's Brewery,11,3.61
+314, ? ,3090,https://www.beeradvocate.com/beer/profile/815/3090/,Scotch Ale,815,Brutopia,11,3.36
+315,8.00,200469,https://www.beeradvocate.com/beer/profile/36744/200469/,Tailor Retailored,36744,The Dandy Brewing Company,11,3.86
+316,9.00,156702,https://www.beeradvocate.com/beer/profile/31408/156702/,Wee Beastie,31408,Seventh Son Brewing Co.,11,4.06
+317,8.40,320813,https://www.beeradvocate.com/beer/profile/44858/320813/,We're Going to Need You To Come In On Saturday,44858,Exhibit 'A' Brewing Company,11,3.96
+318, ? ,15920,https://www.beeradvocate.com/beer/profile/235/15920/,Maggie's Wee Heavy,235,Northampton Brewery,11,3.76
+319,8.00,150592,https://www.beeradvocate.com/beer/profile/35023/150592/,Flagship Wee Heavy,35023,The Flagship Brewing Company,11,4.21
+320,11.50,156741,https://www.beeradvocate.com/beer/profile/18990/156741/,Oak Smoker,18990,Joseph James Brewing Inc.,11,4.05
+321,8.00,107848,https://www.beeradvocate.com/beer/profile/33490/107848/,Clan Ross Scotch Ale,33490,Legacy Brewing Co.,11,3.79
+322,6.40,93004,https://www.beeradvocate.com/beer/profile/20537/93004/,O’Born Evil,20537,Le Trèfle Noir,11,3.63
+323,8.40,114773,https://www.beeradvocate.com/beer/profile/32472/114773/,Farnham Ale & Lager Scotch Ale,32472,Farnham Ale & Lager,11,3.46
+324,7.30,65916,https://www.beeradvocate.com/beer/profile/22200/65916/,Charles II Scotch Ale,22200,Wormtown Brewery,11,3.94
+325,9.70,17282,https://www.beeradvocate.com/beer/profile/4983/17282/,High Road Scotch Ale,4983,Walking Man Brewing Co.,11,4.16
+326,7.20,6277,https://www.beeradvocate.com/beer/profile/225/6277/,Half In The Bagpipe,225,Amherst Brewing,11,4
+327,7.20,28319,https://www.beeradvocate.com/beer/profile/1140/28319/,Oliver's Scottish Ale,1140,Pratt Street Ale House,11,3.77
+328,6.50,55203,https://www.beeradvocate.com/beer/profile/761/55203/,CB's Scotch Ale,761,CB Craft Brewers,11,3.2
+329,9.50,51888,https://www.beeradvocate.com/beer/profile/13605/51888/,La Chose,13605,Le Trou Du Diable,11,3.9
+330,8.00,116149,https://www.beeradvocate.com/beer/profile/32326/116149/,Kilting Me Softly,32326,Tapistry Brewing,11,3.82
+331,9.00,151228,https://www.beeradvocate.com/beer/profile/33737/151228/,Castle Stormer Scottish Ale,33737,Granite Falls Brewing Co.,11,4.07
+332,5.50,64476,https://www.beeradvocate.com/beer/profile/16262/64476/,Chatham Scotch Ale,16262,"Chatham Brewing, LLC",11,3.75
+333,9.00,162269,https://www.beeradvocate.com/beer/profile/35646/162269/,Oh My Darlyn!,35646,Revelry Brewing Co,11,4.02
+334,11.00,124137,https://www.beeradvocate.com/beer/profile/22349/124137/,Islay Barrel Aged Scotch Ale,22349,Lefty's Brewing Company,11,3.76
+335,10.00,7407,https://www.beeradvocate.com/beer/profile/188/7407/,Gordon Finest Gold Blond,188,The Caledonian Brewing Company,11,3.65
+336,7.00,313870,https://www.beeradvocate.com/beer/profile/15435/313870/,Osmium,15435,Beau's All Natural Brewing Company,10,3.73
+337,5.80,25359,https://www.beeradvocate.com/beer/profile/632/25359/,Tree Frog Ale,632,Triple Rock Brewery & Alehouse,10,3.77
+338,9.50,204826,https://www.beeradvocate.com/beer/profile/39015/204826/,Wee Heavy Scotch Ale,39015,Brouwerij Kees,10,3.85
+339,10.00,46631,https://www.beeradvocate.com/beer/profile/16943/46631/,MacKroken Flower,16943,Loup Rouge,10,4.14
+340,11.20,165970,https://www.beeradvocate.com/beer/profile/25937/165970/,Barrel Aged A Sheep In Tall Grass,25937,Greenbush Brewing Company,10,3.99
+341, ? ,59022,https://www.beeradvocate.com/beer/profile/870/59022/,Kilt Lifter - Apple Brandy/Port Barrel Blend,870,Moylan's Brewery,10,3.79
+342,7.50,124830,https://www.beeradvocate.com/beer/profile/33589/124830/,Dunderhead,33589,Columbia Kettle Works,10,4.04
+343,8.20,22954,https://www.beeradvocate.com/beer/profile/2700/22954/,90-Schilling Scotch Ale,2700,Taps Fish House & Brewery,10,4.01
+344,6.60,96715,https://www.beeradvocate.com/beer/profile/25025/96715/,The Hound Dog Scotch Ale,25025,Rogers Beer Company,10,3.52
+345,9.00,225493,https://www.beeradvocate.com/beer/profile/22783/225493/,Discovery Scotch Ale,22783,O'Connor Brewing Co.,10,4
+346,8.00,77028,https://www.beeradvocate.com/beer/profile/25979/77028/,Scottish Heart Scotch Ale,25979,GoodLife Brewing Company & Bier Hall,10,3.73
+347,8.00,31990,https://www.beeradvocate.com/beer/profile/1169/31990/,Sasquatch Scotch Ale (Bourbon Barrel Aged),1169,Fitger's Brewhouse,10,4.17
+348,6.90,10755,https://www.beeradvocate.com/beer/profile/5076/10755/,MacStallion's Scotch Ale,5076,Big Horse Brew Pub / Horse Feathers & Co.,9,3.81
+349,8.00,49420,https://www.beeradvocate.com/beer/profile/15504/49420/,Piper Canyon Scotch Ale,15504,Laht Neppur Brewing Company,9,3.25
+350,13.40,285469,https://www.beeradvocate.com/beer/profile/16866/285469/,Chronology:24 - Wee Heavy,16866,The Bruery,9,4.13
+351,9.00,305447,https://www.beeradvocate.com/beer/profile/804/305447/,Scotch Silly - Scotch Barrel-Aged,804,Brasserie de Silly S.A.,9,3.85
+352,8.60,54832,https://www.beeradvocate.com/beer/profile/10583/54832/,Edwin's Winter Scotch Ale,10583,Iron Springs Pub & Brewery,9,3.84
+353, ? ,64325,https://www.beeradvocate.com/beer/profile/19776/64325/,Ghost River Wee Heavy,19776,Ghost River Brewing,9,3.47
+354,10.50,75590,https://www.beeradvocate.com/beer/profile/1177/75590/,Cherry Infused Wee Heavy,1177,Minneapolis Town Hall Brewery,9,4.55
+355,8.20,138333,https://www.beeradvocate.com/beer/profile/27077/138333/,88 Shilling,27077,Due South Brewing Co.,9,3.66
+356,7.50,103018,https://www.beeradvocate.com/beer/profile/32889/103018/,Wee Heavy,32889,Persephone Brewing,9,3.64
+357,8.00,87152,https://www.beeradvocate.com/beer/profile/711/87152/,Darn Tartan Scotch Ale,711,Alley Kat Brewing Company,9,3.91
+358,10.00,284532,https://www.beeradvocate.com/beer/profile/13014/284532/,Intelligent Design,13014,Surly Brewing Company,9,4.07
+359,10.00,107895,https://www.beeradvocate.com/beer/profile/28752/107895/,Old Parochial,28752,Tempest Brewing Company,9,3.98
+360,7.70,31354,https://www.beeradvocate.com/beer/profile/9/31354/,Campbell's Scotch Ale,9,Whitbread PLC,9,3.04
+361,6.80,122490,https://www.beeradvocate.com/beer/profile/34416/122490/,Bellinghammer Wee-Heavy,34416,Wander Brewing,9,3.57
+362,8.00,49050,https://www.beeradvocate.com/beer/profile/3768/49050/,Moonraker Scotch Ale,3768,Lunar Brewing,9,4.1
+363, ? ,69795,https://www.beeradvocate.com/beer/profile/24162/69795/,Ring Of Fire,24162,Finger Lakes Beer Company,9,3.8
+364,8.00,164524,https://www.beeradvocate.com/beer/profile/39761/164524/,Wee Dame-Wee-Heavy Ale,39761,Aldus Brewing Company,9,3.88
+365,8.50,41150,https://www.beeradvocate.com/beer/profile/1432/41150/,Scottish Ale,1432,Jackie O's Pub & Brewery,9,4.16
+366,6.80,69824,https://www.beeradvocate.com/beer/profile/9784/69824/,Greg,9784,Zero Gravity Craft Brewery / American Flatbread,9,3.71
+367,7.90,56779,https://www.beeradvocate.com/beer/profile/20766/56779/,Weesh’d Scotch Ale,20766,Greenport Harbor Brewing Company,9,3.93
+368,7.80,153295,https://www.beeradvocate.com/beer/profile/37907/153295/,Lapwing,37907,Sketchbook Brewing Company,9,4.08
+369, ? ,107985,https://www.beeradvocate.com/beer/profile/30746/107985/,Devil In Plaid,30746,612 Brew,9,3.61
+370,7.80,218066,https://www.beeradvocate.com/beer/profile/24827/218066/,Tranquil Eyes,24827,High Water Brewing,9,3.85
+371,6.50,178671,https://www.beeradvocate.com/beer/profile/26824/178671/,Scottish 'Wee Bit Heavy',26824,The Civil Life Brewing Company,9,3.75
+372,6.00,106995,https://www.beeradvocate.com/beer/profile/31648/106995/,Smuggler Scotch Ale,31648,Prohibition Brewing Company,9,3.71
+373,10.00,115962,https://www.beeradvocate.com/beer/profile/28070/115962/,Nepenthe Bourbon Barrel Aged Wee Heavy,28070,Candia Road Brewing Company,9,3.62
+374,9.50,97533,https://www.beeradvocate.com/beer/profile/21448/97533/,Midnight Special - Cabernet Barrel Aged,21448,Ladyface Ale Companie,9,4.07
+375,6.50,89856,https://www.beeradvocate.com/beer/profile/27037/89856/,McQueenie's Scotch Ale,27037,Triton Brewing Company,8,3.9
+376,6.50,108801,https://www.beeradvocate.com/beer/profile/3716/108801/,Scotch Ale,3716,Wolf Brewing Company,8,3.86
+377, ? ,2821,https://www.beeradvocate.com/beer/profile/162/2821/,Stone Cat Scotch Ale,162,Ipswich Ale Brewery,8,3.01
+378,8.10,132638,https://www.beeradvocate.com/beer/profile/1178/132638/,St. Andrews Cross Scotch Ale,1178,Great Waters Brewing,8,3.84
+379,7.60,32799,https://www.beeradvocate.com/beer/profile/1937/32799/,Scotland Terror Ale,1937,"Swashbuckler Brewing Co, LTD",8,3.4
+380,8.50,20770,https://www.beeradvocate.com/beer/profile/2274/20770/,Pittock Wee Heavy Scotch Ale,2274,Ice Axe Grill / Mt. Hood Brewing Co.,8,4.3
+381,7.20,19244,https://www.beeradvocate.com/beer/profile/5910/19244/,Jamesport Scottish Strong,5910,Jamesport Brewing Company Inc.,8,4.05
+382,7.50,259886,https://www.beeradvocate.com/beer/profile/29378/259886/,Salty Scot Maple,29378,Parallel 49 Brewing Company,8,3.68
+383,8.50,77618,https://www.beeradvocate.com/beer/profile/10321/77618/,Wee Heavy Scotch Ale,10321,Central City Brewers + Distillers,8,3.67
+384,8.50,179257,https://www.beeradvocate.com/beer/profile/25963/179257/,Bourbon Barrel Kipper,25963,Witch's Hat Brewing Co.,8,4.06
+385,7.00,110149,https://www.beeradvocate.com/beer/profile/20864/110149/,Lindisfarne Scotch Ale,20864,Ægir Bryggeri,8,3.73
+386,9.50,177994,https://www.beeradvocate.com/beer/profile/11341/177994/,Executioner’s Scotch Ale,11341,Hideout Brewing Company,8,3.59
+387,8.00,131429,https://www.beeradvocate.com/beer/profile/32326/131429/,Barrel Aged Kilting Me Softly,32326,Tapistry Brewing,8,3.87
+388, ? ,25203,https://www.beeradvocate.com/beer/profile/1317/25203/,Scotch Ale,1317,Triumph Brewing Company,8,3.43
+389,8.40,103795,https://www.beeradvocate.com/beer/profile/29191/103795/,Scotch Ale,29191,Starkey's Lookout,8,3.87
+390,6.50,170868,https://www.beeradvocate.com/beer/profile/28798/170868/,Selkirk Grace Scotch Ale,28798,Selkirk Abbey Brewing Company,8,3.78
+391,8.40,152960,https://www.beeradvocate.com/beer/profile/36594/152960/,LIcense To Kilt,36594,Bagby Beer Company,8,3.81
+392,8.10,35725,https://www.beeradvocate.com/beer/profile/2669/35725/,Black Forest Scotch Ale,2669,Black Forest Brew Haus,8,3.86
+393,9.00,156053,https://www.beeradvocate.com/beer/profile/36073/156053/,Munro,36073,Barreled Souls Brewing Company,8,4.12
+394,9.00,83869,https://www.beeradvocate.com/beer/profile/29315/83869/,Banana Hammock,29315,Hillcrest Brewing Company,8,3.54
+395,7.40,94630,https://www.beeradvocate.com/beer/profile/18003/94630/,Carrick,18003,Microbrasserie Le Naufrageur,8,3.87
+396, ? ,153264,https://www.beeradvocate.com/beer/profile/36536/153264/,Kilty Pleasure,36536,MIA Beer Co.,8,3.97
+397,7.40,103613,https://www.beeradvocate.com/beer/profile/5337/103613/,Angry Angus,5337,Rubicon Brewing Company,8,3.48
+398,7.50,95935,https://www.beeradvocate.com/beer/profile/29931/95935/,Daughter Of Autumn,29931,Retorto Birrificio Artigianale,8,3.83
+399,9.00,187348,https://www.beeradvocate.com/beer/profile/25888/187348/,Carya Ovata,25888,Perennial Artisan Ales,8,3.98
+400,8.90,87773,https://www.beeradvocate.com/beer/profile/29923/87773/,Snowpocalypse,29923,Northbound Brewpub,8,4.08
+401,10.00,100839,https://www.beeradvocate.com/beer/profile/30458/100839/,Black Lagoon Scottish Strong,30458,Rip Current Brewing,8,3.93
+402,8.00,207593,https://www.beeradvocate.com/beer/profile/31165/207593/,Cauld Weather,31165,Bad Weather Brewing Company,8,4.06
+403,9.00,172781,https://www.beeradvocate.com/beer/profile/32164/172781/,Fain's Sword,32164,Myths & Legends Brewing Company,8,3.72
+404,9.60,255988,https://www.beeradvocate.com/beer/profile/42560/255988/,Hamer And Nail W/Pecans,42560,Aslin Beer Company,8,3.92
+405,8.91,192761,https://www.beeradvocate.com/beer/profile/42573/192761/,Six Stone Scotch Ale,42573,Raised Grain Brewing Company,8,3.96
+406,8.00,78613,https://www.beeradvocate.com/beer/profile/20998/78613/,Blue Face Scottish Ale,20998,Battered Boar Brewing Company,7,3.36
+407,8.00,146462,https://www.beeradvocate.com/beer/profile/2681/146462/,Old Chub Pumpkin,2681,Oskar Blues Grill & Brew,7,4.11
+408,7.10,145952,https://www.beeradvocate.com/beer/profile/37611/145952/,Cameron's Wee Heavy,37611,Farmington Brewing Company,7,3.35
+409,8.00,200228,https://www.beeradvocate.com/beer/profile/39663/200228/,Sea Haggis,39663,Alameda Island Brewing Company,7,3.86
+410, ? ,118570,https://www.beeradvocate.com/beer/profile/12314/118570/,Barrel Aged Wee Heavy,12314,Dry Dock Brewing Co.,7,4.28
+411,8.00,256046,https://www.beeradvocate.com/beer/profile/35964/256046/,Wee Beastie,35964,Blue Owl Brewing,7,3.74
+412,7.00,40241,https://www.beeradvocate.com/beer/profile/409/40241/,Scotch Ale,409,Central Coast Brewing,7,2.9
+413,7.50,93490,https://www.beeradvocate.com/beer/profile/27077/93490/,Bridgeport Scotch Ale,27077,Due South Brewing Co.,7,3.79
+414, ? ,40759,https://www.beeradvocate.com/beer/profile/2447/40759/,Hop Scotch,2447,Coronado Brewing Company,7,3.73
+415,8.00,8249,https://www.beeradvocate.com/beer/profile/1037/8249/,Barley's Robert Burns Scottish Export Ale (8%),1037,Barley's Brewing Company,7,4.15
+416,9.00,105273,https://www.beeradvocate.com/beer/profile/32953/105273/,Doc’s Scotch Ale,32953,Millersburg Brewing Company,7,3.82
+417,8.70,84795,https://www.beeradvocate.com/beer/profile/26850/84795/,Mockless Lobster,26850,Against The Grain Brewery & Smokehouse,7,3.88
+418,9.00,130650,https://www.beeradvocate.com/beer/profile/27470/130650/,Windsor's Wee Heavy,27470,High Hops Brewery,7,3.49
+419,8.10,177253,https://www.beeradvocate.com/beer/profile/39686/177253/,True Scotsman ,39686,Black Cloister Brewing Company,7,3.92
+420,10.00,185981,https://www.beeradvocate.com/beer/profile/19544/185981/,2 Kilts Walk Into A Bar,19544,Fat Head's Brewery & Saloon,7,4.15
+421,8.00,193931,https://www.beeradvocate.com/beer/profile/41462/193931/,Plaid Panther,41462,Hop Haus Brewing Company,7,3.88
+422, ? ,107156,https://www.beeradvocate.com/beer/profile/2085/107156/,Dragonmead 60 Shilling,2085,Dragonmead Microbrewery,7,3.86
+423,5.50,178068,https://www.beeradvocate.com/beer/profile/34595/178068/,WEE Wobbly Scottish 100 Schilling,34595,Kennett Brewing Company,7,3.54
+424,11.20,106389,https://www.beeradvocate.com/beer/profile/26560/106389/,Beam Me Up Scottish,26560,Nexus Brewery,7,3.85
+425,4.80,39350,https://www.beeradvocate.com/beer/profile/10753/39350/,Islay Nerabus Ale,10753,Islay Ale Co. Ltd.,7,3.99
+426,7.50,33468,https://www.beeradvocate.com/beer/profile/3404/33468/,Berserker Export Pale Ale,3404,Hebridean Brewery Company,7,3.57
+427,8.30,86973,https://www.beeradvocate.com/beer/profile/16495/86973/,La Sir Wallace,16495,À La Fût,7,3.83
+428, ? ,126913,https://www.beeradvocate.com/beer/profile/35516/126913/,Thistle Sitter,35516,Noble Order Brewing Company,7,4.2
+429,9.20,64195,https://www.beeradvocate.com/beer/profile/21405/64195/,McAnderson,21405,Dave's BrewFarm,7,4.31
+430, ? ,187598,https://www.beeradvocate.com/beer/profile/11644/187598/,Marble Eye,11644,Fox River Brewing Co.,7,3.66
+431,10.00,199376,https://www.beeradvocate.com/beer/profile/34159/199376/,Damb Good Wee Heavy,34159,JDub's Brewing Company,7,3.97
+432,7.70,123344,https://www.beeradvocate.com/beer/profile/6331/123344/,De Prael Scotch Ale,6331,Brouwerij De Prael,7,3.44
+433,7.70,137942,https://www.beeradvocate.com/beer/profile/36177/137942/,They've Gone Plaid,36177,TwoDEEP Brewing Co.,7,4.2
+434,7.00,164057,https://www.beeradvocate.com/beer/profile/30756/164057/,Scotch Ale,30756,Gainsbourg Bistro & Brasserie,7,3.94
+435,9.00,79844,https://www.beeradvocate.com/beer/profile/26458/79844/,Tweed River Strong Ale,26458,Mudhook Brewing Company,7,3.57
+436,9.00,291818,https://www.beeradvocate.com/beer/profile/31326/291818/,Bog Burial,31326,HammerHeart Brewing Company,7,4.48
+437,9.90,87801,https://www.beeradvocate.com/beer/profile/1475/87801/,McLaughlin's Scotch Ale,1475,Maumee Bay Brewing Company,7,4.3
+438,8.50,68346,https://www.beeradvocate.com/beer/profile/10284/68346/,Kill Shot Scotch Ale,10284,Independence Brewing Co.,7,4.12
+439,8.00,34566,https://www.beeradvocate.com/beer/profile/9726/34566/,La Brunante,9726,Les Frères Houblon Microbrasserie,6,3.09
+440,9.40,306951,https://www.beeradvocate.com/beer/profile/42779/306951/,2nd Anniversary Bourbon Barrel Aged Scotch Ale,42779,Second Chance Beer Company,6,3.84
+441,7.00,155670,https://www.beeradvocate.com/beer/profile/29854/155670/,Genesee Brew House Scotch Ale,29854,Genesee Brew House,6,3.93
+442,10.20,183332,https://www.beeradvocate.com/beer/profile/870/183332/,Double Kilt Lifter - Bourbon Barrel Aged,870,Moylan's Brewery,6,3.88
+443,8.00,115242,https://www.beeradvocate.com/beer/profile/30884/115242/,Sexy Kilt,30884,The North Brewery,6,4.33
+444,7.00,76334,https://www.beeradvocate.com/beer/profile/299/76334/,White Christmas Ale,299,Boston Beer Works - Canal Street,6,3.62
+445,9.30,139835,https://www.beeradvocate.com/beer/profile/26934/139835/,The Quickening,26934,Black Acre Brewing Co.,6,4.01
+446,11.30,259137,https://www.beeradvocate.com/beer/profile/35883/259137/,Sheaf Toss,35883,Southern Pines Brewing Company,6,3.99
+447,8.50,98883,https://www.beeradvocate.com/beer/profile/6578/98883/,Cambridge House Double D Scotch Ale,6578,The Cambridge House Brewpub,6,3.96
+448,7.10,209483,https://www.beeradvocate.com/beer/profile/4701/209483/,Charming Or Tedious,4701,Yukon Brewing Company,6,3.85
+449,6.00,132173,https://www.beeradvocate.com/beer/profile/32482/132173/,Alexander The Great Beer,32482,Unibräu Hellas,6,3.37
+450,8.30,23885,https://www.beeradvocate.com/beer/profile/2144/23885/,Wee Willy Scotch Ale,2144,McCoy's Public House,6,3.58
+451,6.90,84818,https://www.beeradvocate.com/beer/profile/848/84818/,Scotch Ale,848,Bristol Brewing Company,6,3.82
+452,9.75,128595,https://www.beeradvocate.com/beer/profile/30949/128595/,Glenstemmons,30949,Community Beer Company,6,4.11
+453,11.60,319829,https://www.beeradvocate.com/beer/profile/24529/319829/,1314 Barrel Aged Anniversary Ale 2017,24529,Black Tooth Brewing Company,6,4.11
+454, ? ,24150,https://www.beeradvocate.com/beer/profile/11006/24150/,Loyal Duke,11006,Amicas,6,3.86
+455,7.20,144727,https://www.beeradvocate.com/beer/profile/37490/144727/,I Saved The King,37490,Dry City Brew Works,6,4.03
+456,6.60,115543,https://www.beeradvocate.com/beer/profile/30655/115543/,Old Naps Scotch Ale,30655,Conquest Brewing Company,6,3.92
+457,9.80,14950,https://www.beeradvocate.com/beer/profile/2155/14950/,Highlander Heavy,2155,Red Brick Station,6,3.92
+458,8.00,101738,https://www.beeradvocate.com/beer/profile/32398/101738/,Pipes & Drums Scotch Ale,32398,Brewery Terra Firma,6,3.58
+459,8.00,134530,https://www.beeradvocate.com/beer/profile/35596/134530/,Bravehop Scotch Ale,35596,Good Hops Brewing LLC,6,3.64
+460,10.50,212098,https://www.beeradvocate.com/beer/profile/23315/212098/,Local's Stash Reserve Series Bourbon Barrel Aged Scotch Ale,23315,Crazy Mountain Brewing Company,6,3.73
+461,7.20,319888,https://www.beeradvocate.com/beer/profile/45562/319888/,Four Dollar Toast,45562,Temescal Brewing,6,4.09
+462,7.90,168088,https://www.beeradvocate.com/beer/profile/40106/168088/,Katabatic Scotch Ale,40106,Katabatic Brewing Company,6,3.98
+463,7.40,4508,https://www.beeradvocate.com/beer/profile/1610/4508/,McGuire's Scotch Ale,1610,McGuire's Irish Pub,6,3.73
+464,7.00,324766,https://www.beeradvocate.com/beer/profile/46063/324766/,The Gates Of Dawn,46063,Oliver Brewing Company,6,3.61
+465, ? ,21667,https://www.beeradvocate.com/beer/profile/335/21667/,New Holland Scotch Ale,335,New Holland Brewing Company,6,3.96
+466, ? ,89251,https://www.beeradvocate.com/beer/profile/35412/89251/,Wee Wee Scotch Ale,35412,Cycle Brewing,6,3.57
+467,6.00,79782,https://www.beeradvocate.com/beer/profile/16334/79782/,Okanagan Highlander,16334,Northern Ales & Grocery,6,3.42
+468,7.30,170671,https://www.beeradvocate.com/beer/profile/37109/170671/,Gull Dam Scotch Ale,37109,Gull Dam Brewing,6,3.96
+469,10.50,71602,https://www.beeradvocate.com/beer/profile/1337/71602/,"""Just One More"" Scotch Ale",1337,Pizza Port Solana Beach,6,3.84
+470,8.00,103346,https://www.beeradvocate.com/beer/profile/30643/103346/,DNT Scotch Ale,30643,Slanted Rock Brewing Company,6,3.52
+471,6.80,242868,https://www.beeradvocate.com/beer/profile/46658/242868/,Scottish Breakfast,46658,Bonn Place Brewing Co.,6,3.87
+472,9.90,249781,https://www.beeradvocate.com/beer/profile/959/249781/,Bourbon Barrel Aged Fat Scotch Ale,959,Silver City Brewing Co.,6,4.35
+473,7.00,265910,https://www.beeradvocate.com/beer/profile/47791/265910/,Scops Scotch Ale,47791,Wayward Owl Brewing Co.,6,3.96
+474,9.00,264633,https://www.beeradvocate.com/beer/profile/41430/264633/,Velvet Charmer,41430,Yee-haw Brewing Co.,6,3.9
+475,10.20,272319,https://www.beeradvocate.com/beer/profile/43249/272319/,Enlightenment,43249,Mantra Artisan Ales,6,3.92
+476,9.00,211394,https://www.beeradvocate.com/beer/profile/41760/211394/,Wee Bastard,41760,Man Skirt Brewing,6,4.25
+477,8.00,146885,https://www.beeradvocate.com/beer/profile/36052/146885/,McTavish Scotch Ale,36052,Bridger Brewing,6,4.09
+478,8.50,103366,https://www.beeradvocate.com/beer/profile/30567/103366/,Cernunnos,30567,Rockford Brewing Company,6,3.73
+479, ? ,79560,https://www.beeradvocate.com/beer/profile/24831/79560/,Piper,24831,American Brewing Company,6,3.55
+480,9.00,198345,https://www.beeradvocate.com/beer/profile/43018/198345/,Wee Heavenly,43018,Hand of Fate Brewing Company,6,4.15
+481, ? ,52172,https://www.beeradvocate.com/beer/profile/17945/52172/,Stony Bar Scotch Ale,17945,Lockdown Brewing Company,6,3.48
+482,12.00,62417,https://www.beeradvocate.com/beer/profile/19402/62417/,Bourbon Barrel Aged Scotch Ale,19402,Inland Empire Brewing Company,6,3.87
+483,8.20,114903,https://www.beeradvocate.com/beer/profile/30989/114903/,Loch Wee Heavy,30989,BRU Handbuilt Ales,6,3.8
+484,9.00,76009,https://www.beeradvocate.com/beer/profile/1337/76009/,Reed's Wee Heavy - Brandy Barrel Aged,1337,Pizza Port Solana Beach,6,4.09
+485,11.00,248301,https://www.beeradvocate.com/beer/profile/37910/248301/,Greg Dennis (Andall),37910,The Answer Brewpub,6,4.17
+486,6.50,140274,https://www.beeradvocate.com/beer/profile/10836/140274/,Wee Heavy Scotch Ale,10836,Rooster Fish Brewing Co.,6,3.61
+487,13.00,312834,https://www.beeradvocate.com/beer/profile/32953/312834/,Doc’s Scotch Ale Barrel Aged,32953,Millersburg Brewing Company,5,3.95
+488, ? ,37126,https://www.beeradvocate.com/beer/profile/1386/37126/,Old Bog Breath Scotch Ale,1386,Harmon Restaurant & Brewery,5,3.54
+489,10.50,277018,https://www.beeradvocate.com/beer/profile/28556/277018/,Aftermath Pineapple Upside-Down Cake,28556,Triple Digit Brewing Co.,5,3.89
+490,6.20,48683,https://www.beeradvocate.com/beer/profile/18391/48683/,Mastra Roja Cerveza Strong Scotch Ale,18391,Cervecería Artesanal Mastra,5,2.86
+491,8.50,142637,https://www.beeradvocate.com/beer/profile/596/142637/,Portsmouth Scotch Ale,596,Portsmouth Brewery,5,3.61
+492,8.50,78893,https://www.beeradvocate.com/beer/profile/25805/78893/,Killshot,25805,Flix Brewhouse,5,3.72
+493,8.30,169779,https://www.beeradvocate.com/beer/profile/651/169779/,Sascotch,651,Ithaca Beer Company,5,3.17
+494,10.00,153911,https://www.beeradvocate.com/beer/profile/30458/153911/,Black Lagoon - Scotch Oak Aged,30458,Rip Current Brewing,5,4.24
+495,7.90,45626,https://www.beeradvocate.com/beer/profile/3776/45626/,Sleeperwave Wee Heavy,3776,Third Street Aleworks,5,4.1
+496,7.10,173628,https://www.beeradvocate.com/beer/profile/26850/173628/,Tartan Titan,26850,Against The Grain Brewery & Smokehouse,5,3.56
+497,8.00,202562,https://www.beeradvocate.com/beer/profile/43057/202562/,The Wallace,43057,Cervejaria Dogma,5,3.87
+498,10.20,189254,https://www.beeradvocate.com/beer/profile/34650/189254/,Scotch Ale,34650,Adventure Brewing Company,5,3.74
+499,8.10,113484,https://www.beeradvocate.com/beer/profile/33767/113484/,Scotch Ale,33767,Beech Mountain Brewing Co.,5,4
+500,8.20,137298,https://www.beeradvocate.com/beer/profile/28362/137298/,Hedleyville,28362,Brasserie Artisanale La Souche,5,3.75
+501,11.10,48211,https://www.beeradvocate.com/beer/profile/13524/48211/,Big Ru,13524,Oceanside Ale Works,5,3.93
+502,6.30,56917,https://www.beeradvocate.com/beer/profile/21737/56917/,Scotch Ale,21737,Bandwagon Brew Pub,5,3.51
+503,6.50,290391,https://www.beeradvocate.com/beer/profile/16304/290391/,Beam Me Up,16304,Grand River Brewing,5,3.48
+504,10.50,54615,https://www.beeradvocate.com/beer/profile/3441/54615/,Whiskey Barrel Aged Okauchee Scotchie,3441,Delafield Brewhaus,5,4.42
+505,9.90,133469,https://www.beeradvocate.com/beer/profile/33165/133469/,Scotia,33165,Happy Valley Brewing Company,5,4.16
+506, ? ,139873,https://www.beeradvocate.com/beer/profile/26791/139873/,Cornel's Pecan Pie,26791,Gulf Coast Brewing Company,5,3.23
+507,8.50,137581,https://www.beeradvocate.com/beer/profile/32087/137581/,Stargazer ,32087,Benchmark Brewing,5,4.15
+508,11.00,216173,https://www.beeradvocate.com/beer/profile/28227/216173/,Kentucky Kiss,28227,White Flame Brewing Co.,5,4.08
+509,8.00,89205,https://www.beeradvocate.com/beer/profile/31805/89205/,Scotch Ale,31805,Funky Buddha Brewery,5,3.6
+510,8.30,66947,https://www.beeradvocate.com/beer/profile/2391/66947/,McShagger Smoked Scotch,2391,Cascade Brewing / Raccoon Lodge & Brewpub,5,3.87
+511,8.00,158339,https://www.beeradvocate.com/beer/profile/610/158339/,Bourbon Barrel Aged Heritage Ale,610,Bear Republic Brewing Co.,5,3.88
+512,8.50,210320,https://www.beeradvocate.com/beer/profile/29858/210320/,Going Plaid,29858,Fifty West Brewing Co,5,4.02
+513,8.00,119952,https://www.beeradvocate.com/beer/profile/33903/119952/,Scotch Ale,33903,Twisted Rail Brewing Company,5,3.96
+514,10.30,293011,https://www.beeradvocate.com/beer/profile/39159/293011/,Stoan Boans,39159,Batch Brewing Company,5,4.38
+515,6.00,193430,https://www.beeradvocate.com/beer/profile/40375/193430/,Wolf,40375,Windswept Brewing Co,5,4.01
+516,9.20,327576,https://www.beeradvocate.com/beer/profile/959/327576/,Bourbon Barrel Magnificent Bastard,959,Silver City Brewing Co.,5,4.25
+517,6.80,262041,https://www.beeradvocate.com/beer/profile/46855/262041/,Datsmaaktnaar Meerkoet,46855,Bird Brewery,5,3.85
+518,7.80,203164,https://www.beeradvocate.com/beer/profile/33635/203164/,Scotch Scotch Scotchity Scotch Ale,33635,Rooftop Brewing Company,5,3.88
+519,7.50,22185,https://www.beeradvocate.com/beer/profile/1635/22185/,Chelsea 90 Shilling Scotch Ale,1635,Chelsea Craft Brewing Company,5,3.87
+520,7.50,239787,https://www.beeradvocate.com/beer/profile/36715/239787/,Mr. Templeton’s Wee Heavy,36715,Bicycle Craft Brewery,5,3.67
+521,8.60,46768,https://www.beeradvocate.com/beer/profile/1337/46768/,Brandy Barrel Aged Way Heavy,1337,Pizza Port Solana Beach,5,4.3
+522,9.20,103093,https://www.beeradvocate.com/beer/profile/29335/103093/,Fat Scotch Ale,29335,Silver City Brewery & Taproom,5,3.72
+523, ? ,67008,https://www.beeradvocate.com/beer/profile/24145/67008/,Moon Squaller,24145,Frog Island Brewing Company,5,3.61
+524,9.30,83905,https://www.beeradvocate.com/beer/profile/1337/83905/,Burns' Night,1337,Pizza Port Solana Beach,5,3.58
+525,8.50,85185,https://www.beeradvocate.com/beer/profile/25800/85185/,Colin's Bourbon Barrel Wee Heavy Scotch Ale,25800,The Wrecking Bar Brewpub,5,4.51
+526,10.00,284866,https://www.beeradvocate.com/beer/profile/38868/284866/,Wee Heavy Scotch Ale,38868,Around the Bend Beer Co.,5,4.3
+527,7.00,28867,https://www.beeradvocate.com/beer/profile/4375/28867/,MacGregor's Wee Heavy,4375,Bushwakker Brewing Company,5,3.58
+528,7.50,70853,https://www.beeradvocate.com/beer/profile/11882/70853/,Westhighland,11882,Round Barn Brewery,5,3.62
+529,9.90,310725,https://www.beeradvocate.com/beer/profile/41928/310725/,Seonaidh,41928,Czig Meister Brewing Company,5,4.16
+530,8.50,123858,https://www.beeradvocate.com/beer/profile/31679/123858/,Wee Heavy,31679,Blind Squirrel Brewery,5,4.57
+531,10.50,271828,https://www.beeradvocate.com/beer/profile/28556/271828/,Aftermath German Black Forest Cake,28556,Triple Digit Brewing Co.,5,4.27
+532,6.40,65240,https://www.beeradvocate.com/beer/profile/24542/65240/,BraufactuM Clan,24542,BraufactuM - Die Internationale Brau-Manufacturen GmbH,5,3.96
+533, ? ,65499,https://www.beeradvocate.com/beer/profile/1606/65499/,Scotch Ale,1606,North Fork Brewing,5,3.52
+534,10.50,128732,https://www.beeradvocate.com/beer/profile/15205/128732/,Regimental Reserve,15205,Tri-City Brewing Company,5,3.8
+535,9.20,156899,https://www.beeradvocate.com/beer/profile/17962/156899/,"Whiskey Thief (With Bison Brewing, High Water Brewing, Pine Street Brewing)",17962,Uncommon Brewers,5,4.06
+536,8.10,310758,https://www.beeradvocate.com/beer/profile/34070/310758/,Ad Astra Vanilla,34070,Middle Brow Beer Co.,5,3.89
+537,10.00,122088,https://www.beeradvocate.com/beer/profile/34018/122088/,Scottish Perle,34018,Zaftig Brewing Co.,5,4.56
+538,8.30,64233,https://www.beeradvocate.com/beer/profile/14484/64233/,Scotch Strong Ale,14484,Shamrock Brewing Co.,5,3.68
+539,8.00,18669,https://www.beeradvocate.com/beer/profile/8606/18669/,Strong Scotch Ale,8606,Fearless Brewing Company,5,3.66
+540,6.80,3311,https://www.beeradvocate.com/beer/profile/1550/3311/,Boston Scotch Ale,1550,Rock Bottom Restaurant & Brewery,5,4.05
+541,8.00,326131,https://www.beeradvocate.com/beer/profile/24791/326131/,Colossal Seven,24791,Port City Brewing,5,3.78
+542, ? ,35318,https://www.beeradvocate.com/beer/profile/2695/35318/,Highland Ale,2695,Bull & Bush Brewery,5,3.63
+543,5.20,246781,https://www.beeradvocate.com/beer/profile/29747/246781/,80 Shilling Ale,29747,Druthers Brewing Company,5,3.64
+544,7.50,122880,https://www.beeradvocate.com/beer/profile/29334/122880/,Cap'n Kidd Scotch Ale,29334,Iron Goat Brewing Co.,4,3.86
+545,8.50,257537,https://www.beeradvocate.com/beer/profile/20430/257537/,10 Lizzy,20430,Dust Bowl Brewing Company - Downtown Taproom,4,3.87
+546,10.30,39428,https://www.beeradvocate.com/beer/profile/1872/39428/,Wee Heavy,1872,McKenzie Brew House,4,4.22
+547,10.00,220428,https://www.beeradvocate.com/beer/profile/30284/220428/,Great Scotch,30284,Center of the Universe Brewing Company,4,3.77
+548,9.00,309772,https://www.beeradvocate.com/beer/profile/39015/309772/,Barrel Project: 17.07 - S.P.X.,39015,Brouwerij Kees,4,4.09
+549,7.50,85006,https://www.beeradvocate.com/beer/profile/25436/85006/,Great Scot!,25436,Copper Kettle Brewing Company,4,3.78
+550,8.20,230420,https://www.beeradvocate.com/beer/profile/45030/230420/,Lord Grizzly,45030,Lost Cabin Beer Co.,4,3.78
+551,8.00,226583,https://www.beeradvocate.com/beer/profile/40238/226583/,19th,40238,Rurban Brewing,4,3.89
+552, ? ,5146,https://www.beeradvocate.com/beer/profile/986/5146/,Churchyard Ale,986,Wynkoop Brewing Company,4,3.87
+553,9.00,201754,https://www.beeradvocate.com/beer/profile/38478/201754/,McTavish,38478,Brick & Barrel Brewing,4,3.43
+554,8.30,41499,https://www.beeradvocate.com/beer/profile/1393/41499/,Winter Wee,1393,Kimo's Sports Bar,4,3.15
+555,10.00,281373,https://www.beeradvocate.com/beer/profile/29030/281373/,Wee Heavy Speyside,29030,Microbrasserie Le Castor,4,3.79
+556,10.80,135972,https://www.beeradvocate.com/beer/profile/3722/135972/,Mackroken Flower (Fût De Bourbon),3722,"Le Bilboquet, Brasseur Artisan",4,4.13
+557, ? ,338470,https://www.beeradvocate.com/beer/profile/29426/338470/,Spud Wee Heavy,29426,Brash Brewing Company,4,3.9
+558,7.80,247335,https://www.beeradvocate.com/beer/profile/46718/247335/,Argyle Sweater,46718,Collusion Tap Works,4,3.94
+559,11.80,93226,https://www.beeradvocate.com/beer/profile/22157/93226/,Infinite Shilling,22157,Rivertown Brewery & Barrel House,4,3.57
+560,7.20,154669,https://www.beeradvocate.com/beer/profile/28753/154669/,Boondock,28753,Bunker Brewing Co.,4,3.56
+561,10.40,135982,https://www.beeradvocate.com/beer/profile/15732/135982/,Sweet Jesus,15732,Le Saint-Bock,4,3.75
+562,6.60,108850,https://www.beeradvocate.com/beer/profile/32048/108850/,Sleuth Hound,32048,ParrotDog,4,3.44
+563,7.20,317750,https://www.beeradvocate.com/beer/profile/40318/317750/,Sunstone Alehouse Highland Dew,40318,Bere Artizanală Sikaru,4,3.73
+564,9.70,59190,https://www.beeradvocate.com/beer/profile/16110/59190/,Highland Heather Scotch Ale,16110,Rivertowne Pourhouse,4,3.98
+565,10.00,65592,https://www.beeradvocate.com/beer/profile/653/65592/,Imperial Scotch Ale,653,Rohrbach Brewing Company (Brewpub),4,4.04
+566,4.60,175675,https://www.beeradvocate.com/beer/profile/32443/175675/,Scotch Ale,32443,Microbrasserie Coaticook,4,3.4
+567, ? ,57406,https://www.beeradvocate.com/beer/profile/1387/57406/,Oaked Peeping Peater,1387,Port Townsend Brewing Company,4,3.92
+568,8.90,47686,https://www.beeradvocate.com/beer/profile/9035/47686/,Aiken Strong Scotch Ale,9035,Aiken Brewing Company,4,4.15
+569,8.60,72012,https://www.beeradvocate.com/beer/profile/22886/72012/,Atom Smasher Wee Heavy,22886,Equinox Brewing Company,4,3.81
+570,7.50,267342,https://www.beeradvocate.com/beer/profile/45923/267342/,Andy's Wee Heavy Scottish Ale,45923,Common Crown Brewing Co.,4,3.72
+571,8.50,312910,https://www.beeradvocate.com/beer/profile/31193/312910/,Heavy Trooper - Whiskey Barrel Aged,31193,La Pirata Cervesa Artesana,4,4.13
+572,10.20,121422,https://www.beeradvocate.com/beer/profile/16055/121422/,Smoking Scotsman,16055,Amager Bryghus,4,3.63
+573,12.90,335963,https://www.beeradvocate.com/beer/profile/31850/335963/,Kilt Switch,31850,903 Brewers,4,4.13
+574,10.00,311899,https://www.beeradvocate.com/beer/profile/34018/311899/,Barrel-Aged Wee Heavy,34018,Zaftig Brewing Co.,4,4.59
+575,8.00,113757,https://www.beeradvocate.com/beer/profile/31045/113757/,Social Lubricant,31045,Brewery Rickoli,4,3.78
+576,8.50,30055,https://www.beeradvocate.com/beer/profile/515/30055/,Hillegomse Hangkous,515,Brouwerij Klein Duimpje,4,3.52
+577,6.75,122225,https://www.beeradvocate.com/beer/profile/3266/122225/,Highlands Wee Heavy Scottish Ale,3266,Sockeye Grill & Brewery,4,3.53
+578,10.00,213874,https://www.beeradvocate.com/beer/profile/36710/213874/,Great Scott!!!,36710,J. Wakefield Brewing,4,3.88
+579,13.50,323957,https://www.beeradvocate.com/beer/profile/22513/323957/,2018 Freedom Toast,22513,Madhouse Brewing Company,4,4.62
+580,7.00,140667,https://www.beeradvocate.com/beer/profile/25684/140667/,Sick & Tired,25684,Birrificio Indipendente Elav,4,3.17
+581,10.60,294782,https://www.beeradvocate.com/beer/profile/21154/294782/,Peat Dunwoody's Wee Heavy Scotch Ale,21154,Swamp Head Brewery,4,4.11
+582,7.00,123263,https://www.beeradvocate.com/beer/profile/24935/123263/,Aggresor,24935,Great Leap Brewery,4,3.5
+583,9.50,268930,https://www.beeradvocate.com/beer/profile/22243/268930/,Scotch Rocket,22243,Vintage Brewing Company,4,3.89
+584,8.00,227206,https://www.beeradvocate.com/beer/profile/32798/227206/,Cinnaster Scotch Ale,32798,Badger State Brewing Company,4,4.16
+585,8.40,226440,https://www.beeradvocate.com/beer/profile/36504/226440/,El Roble,36504,Biscayne Bay Brewing Co.,4,4.15
+586,8.90,167816,https://www.beeradvocate.com/beer/profile/35987/167816/,Wee Bit Funkay,35987,Denizens Brewing Co.,4,3.97
+587,9.00,199563,https://www.beeradvocate.com/beer/profile/35693/199563/,WEEliam Wallace,35693,Sisyphus Brewing,4,4.15
+588,9.00,269198,https://www.beeradvocate.com/beer/profile/45030/269198/,Lord Grizzly - Barrel Aged,45030,Lost Cabin Beer Co.,4,4.13
+589,10.10,65167,https://www.beeradvocate.com/beer/profile/21405/65167/,The Bruiser,21405,Dave's BrewFarm,4,4.1
+590,8.20,176794,https://www.beeradvocate.com/beer/profile/14879/176794/,Outta Kilter - American Brandy Barrel-Aged,14879,Hoppin' Frog Brewery,4,4
+591,9.80,243610,https://www.beeradvocate.com/beer/profile/36130/243610/,A Wee Bit Foggy,36130,Mark Twain Brewing Co. / Moses Bates Public House,4,3.49
+592,10.20,335003,https://www.beeradvocate.com/beer/profile/42273/335003/,Dad Bod,42273,Forager Brewing Company,4,3.85
+593,9.50,186014,https://www.beeradvocate.com/beer/profile/29335/186014/,Bourbon Barrel Aged Fat Scotch Ale,29335,Silver City Brewery & Taproom,4,4.19
+594,8.00,103840,https://www.beeradvocate.com/beer/profile/30884/103840/,Ginger Girl,30884,The North Brewery,4,3.87
+595,10.10,168353,https://www.beeradvocate.com/beer/profile/30365/168353/,Highland Charge,30365,Heathen Brewing,4,4
+596,7.20,207779,https://www.beeradvocate.com/beer/profile/41177/207779/,Selfish Giant,41177,Coelacanth Brewing,4,4
+597,7.50,269221,https://www.beeradvocate.com/beer/profile/599/269221/,Boréale Scotch Ale Du Nord,599,Brasseurs Du Nord Inc.,4,3.53
+598,6.80,60072,https://www.beeradvocate.com/beer/profile/4359/60072/,Strong Scottish Ale,4359,Smugglers Brewpub & Grille,4,3.81
+599,8.50,183978,https://www.beeradvocate.com/beer/profile/23684/183978/,Moose Ale,23684,Squam Brewing,4,3.67
+600,7.20,104630,https://www.beeradvocate.com/beer/profile/19544/104630/,Great Scots Scotch Ale,19544,Fat Head's Brewery & Saloon,4,3.65
+601,9.00,183735,https://www.beeradvocate.com/beer/profile/38355/183735/,Mac Daddy,38355,Danny Boy Beer Works,4,3.07
+602,8.50,155322,https://www.beeradvocate.com/beer/profile/30532/155322/,Barrel Aged Scotch Ale,30532,Bellevue Brewing Company,4,4.16
+603,8.00,259521,https://www.beeradvocate.com/beer/profile/47188/259521/,Wee Love Scotch,47188,Yergey Brewing,4,3.61
+604,8.20,214982,https://www.beeradvocate.com/beer/profile/33205/214982/,#018 Depth Charge,33205,Wisconsin Brewing Co.,4,3.61
+605,6.50,155593,https://www.beeradvocate.com/beer/profile/42321/155593/,Hammerhead,42321,Galveston Bay Beer Company,4,3.75
+606,8.50,133080,https://www.beeradvocate.com/beer/profile/20430/133080/,Scotch Ale,20430,Dust Bowl Brewing Company - Downtown Taproom,4,3.58
+607,3.70,173784,https://www.beeradvocate.com/beer/profile/21651/173784/,Cold Shillin',21651,Eagle Rock Brewery,4,3.71
+608,11.00,181465,https://www.beeradvocate.com/beer/profile/31008/181465/,Death Is Life,31008,White Pony Microbrewery,4,3.57
+609,9.00,81370,https://www.beeradvocate.com/beer/profile/1387/81370/,Death Don't Have No Mercy  (Imperial Scotch Ale),1387,Port Townsend Brewing Company,4,4
+610,9.00,54492,https://www.beeradvocate.com/beer/profile/13605/54492/,Claymore Cerise,13605,Le Trou Du Diable,4,3.77
+611,8.00,120028,https://www.beeradvocate.com/beer/profile/34205/120028/,La Scotch Ale,34205,Brasserie Générale,4,3.62
+612, ? ,39395,https://www.beeradvocate.com/beer/profile/299/39395/,Highland Welcome Scotch Ale,299,Boston Beer Works - Canal Street,4,3.6
+613,9.90,246761,https://www.beeradvocate.com/beer/profile/959/246761/,Le Fat: Belgian Sour Scotch Ale,959,Silver City Brewing Co.,4,4.07
+614, ? ,60395,https://www.beeradvocate.com/beer/profile/5522/60395/,Bourbon Scotch Ale,5522,Corner Pub,4,3.85
+615,7.50,66796,https://www.beeradvocate.com/beer/profile/2756/66796/,Twenty Eleven Scotch Ale,2756,Mudshark Brewing Co.,4,3.5
+616,8.10,200691,https://www.beeradvocate.com/beer/profile/42493/200691/,120 Shilling,42493,Royal Docks Brewing Company,4,3.88
+617,5.00,1270,https://www.beeradvocate.com/beer/profile/426/1270/,Scotch Ale,426,Maclay Inns Ltd.,4,3.64
+618,7.20,215030,https://www.beeradvocate.com/beer/profile/44307/215030/,Crossed Arrows,44307,Bow & Arrow Brewing,4,3.35
+619, ? ,65014,https://www.beeradvocate.com/beer/profile/1032/65014/,Redneck Reindeer,1032,Five Seasons Prado,4,4.28
+620, ? ,313087,https://www.beeradvocate.com/beer/profile/51045/313087/,Sheep Shagger Strong Scotch Ale,51045,Supernatural Brewing and Spirits,4,3.52
+621,6.50,226051,https://www.beeradvocate.com/beer/profile/37033/226051/,Smoke Jumper,37033,Mighty Mo Brew Co.,3,3.9
+622,8.50,167171,https://www.beeradvocate.com/beer/profile/34748/167171/,Wee Willie's Heavy,34748,Imperial Oak Brewing,3,4.06
+623,6.50,170243,https://www.beeradvocate.com/beer/profile/24831/170243/,Big Bad Plaid,24831,American Brewing Company,3,3.6
+624,10.30,224517,https://www.beeradvocate.com/beer/profile/30284/224517/,Bourbon Barrel Great Scotch,30284,Center of the Universe Brewing Company,3,4.15
+625,7.20,104713,https://www.beeradvocate.com/beer/profile/25241/104713/,Wee Heavy,25241,Long Brewing,3,4.24
+626,7.30,119305,https://www.beeradvocate.com/beer/profile/32020/119305/,McCoy's,32020,Osgood Brewing,3,4.13
+627,9.40,6924,https://www.beeradvocate.com/beer/profile/1763/6924/,Songo Loch Scotch Ale,1763,Bray's Brewing Company,3,3.02
+628,4.60,163340,https://www.beeradvocate.com/beer/profile/34231/163340/,Angus Boy,34231,Peoria Artisan Brewery,3,3.51
+629,7.00,48910,https://www.beeradvocate.com/beer/profile/19314/48910/,Trainspotter Scottish Ale,19314,Boylan Bridge Brewpub,3,3.32
+630,8.40,301583,https://www.beeradvocate.com/beer/profile/38311/301583/,Da Percolator - Raspberry,38311,Noon Whistle Brewing,3,3.69
+631,7.80,53263,https://www.beeradvocate.com/beer/profile/3965/53263/,Highlander Scotch Ale,3965,Anacapa Brewing Company,3,3.72
+632,6.70,127503,https://www.beeradvocate.com/beer/profile/18258/127503/,Ewan Paine,18258,Napa Smith Brewery,3,3.5
+633,8.80,148752,https://www.beeradvocate.com/beer/profile/34334/148752/,Sir Walter Scotch,34334,Books & Brews,3,3.6
+634,10.20,330257,https://www.beeradvocate.com/beer/profile/38311/330257/,Old Fashioned Bob Ross Did It,38311,Noon Whistle Brewing,3,4.04
+635,7.00,49940,https://www.beeradvocate.com/beer/profile/5055/49940/,Ise Kadoya Scotch Ale,5055,Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery,3,3.88
+636,10.70,287765,https://www.beeradvocate.com/beer/profile/63/287765/,Spiritual Awakening,63,Deschutes Brewery,3,4.13
+637, ? ,79894,https://www.beeradvocate.com/beer/profile/701/79894/,Scotch Ale (Dry Fly Barrel),701,Boundary Bay Brewery & Bistro,3,3.42
+638,6.20,283671,https://www.beeradvocate.com/beer/profile/33873/283671/,Peat The Scotchman,33873,Brouwerij het Uiltje,3,2.93
+639,7.60,117278,https://www.beeradvocate.com/beer/profile/29617/117278/,S.S. Transylvania,29617,Kruhnen,3,3.43
+640,8.20,154402,https://www.beeradvocate.com/beer/profile/2175/154402/,Sneaky Peat,2175,Half Moon Bay Brewing Company,3,4.12
+641,8.50,33570,https://www.beeradvocate.com/beer/profile/2943/33570/,Wee Heavy,2943,Otto's Pub and Brewery,3,3.64
+642,8.50,301346,https://www.beeradvocate.com/beer/profile/32325/301346/,Clan MacDougall,32325,MobCraft Beer,3,2.89
+643,10.00,56611,https://www.beeradvocate.com/beer/profile/20017/56611/,Scotch Abbey Ale,20017,5 Seasons Westside,3,4.14
+644, ? ,79397,https://www.beeradvocate.com/beer/profile/21862/79397/,Wee Hefty,21862,Galena Brewing Company,3,3.93
+645,11.00,178469,https://www.beeradvocate.com/beer/profile/29008/178469/,Whiskey Barrel-Aged Figure 8: Breakfast Pudding Edition,29008,Bluejacket / Arsenal Restaurant,3,4.18
+646,8.20,257317,https://www.beeradvocate.com/beer/profile/894/257317/,Nils Oscar Scotch Ale,894,Nils Oscar,3,3.2
+647,10.00,269606,https://www.beeradvocate.com/beer/profile/35354/269606/,Tiny Tartan Scotch Ale,35354,Wolf Hollow Brewing Company,3,3.7
+648,7.30,53286,https://www.beeradvocate.com/beer/profile/4237/53286/,Scotch Terrier Scotch Ale,4237,Blue Cat Brew Pub,3,4
+649,6.40,257578,https://www.beeradvocate.com/beer/profile/47570/257578/,Smokes,47570,High Line Brewing,3,3.93
+650,9.00,111147,https://www.beeradvocate.com/beer/profile/1805/111147/,120 Shilling Ale,1805,Rock Art Brewery,3,4.01
+651, ? ,80175,https://www.beeradvocate.com/beer/profile/27243/80175/,Robert's Spider Wee Heavy,27243,Spider Bite Beer Company,3,3.8
+652,9.00,99120,https://www.beeradvocate.com/beer/profile/25422/99120/,Stone Of Destiny,25422,Full Moon Cafe and Brewery,3,3.48
+653,7.00,143153,https://www.beeradvocate.com/beer/profile/31049/143153/,Wee Heavy,31049,Scratch Brewing Company,3,3.91
+654,9.50,333618,https://www.beeradvocate.com/beer/profile/46009/333618/,Kentucky Kilt,46009,Alesong Brewing & Blending,3,4.29
+655, ? ,259893,https://www.beeradvocate.com/beer/profile/35396/259893/,Camerons Crooked Nose,35396,Bur Oak Brewing Company,3,3.92
+656,7.00,138809,https://www.beeradvocate.com/beer/profile/34076/138809/,Wee Heavy,34076,Ormond Brewing Company,3,3.93
+657,7.70,110652,https://www.beeradvocate.com/beer/profile/12502/110652/,Loch Ness Strong Scotch Ale,12502,Blue Heron BrewPub,3,3.95
+658,8.20,99390,https://www.beeradvocate.com/beer/profile/24856/99390/,Rossa,24856,Pratorosso,3,3.76
+659,8.30,213055,https://www.beeradvocate.com/beer/profile/39308/213055/,Moffat 120/-,39308,Medusa Brewing Company,3,3.81
+660,9.10,189760,https://www.beeradvocate.com/beer/profile/63/189760/,Peated Scotch Ale,63,Deschutes Brewery,3,4.15
+661,5.40,147777,https://www.beeradvocate.com/beer/profile/1177/147777/,Blackberry Hope & King,1177,Minneapolis Town Hall Brewery,3,3.95
+662,9.00,29761,https://www.beeradvocate.com/beer/profile/13605/29761/,La Claymore,13605,Le Trou Du Diable,3,3.48
+663,3.81,214082,https://www.beeradvocate.com/beer/profile/40935/214082/,70 Shilling,40935,Grist Iron Brewing Company,3,3.97
+664,9.00,227910,https://www.beeradvocate.com/beer/profile/38849/227910/,Return Of The Highlander,38849,The Depot Craft Brewery Distillery,3,3.79
+665,7.50,216135,https://www.beeradvocate.com/beer/profile/44274/216135/,Soulless,44274,Bury Me Brewing,3,3.86
+666,7.00,137545,https://www.beeradvocate.com/beer/profile/28575/137545/,Jean-Eudes,28575,Microbrasserie Aux Fous Brassant,3,3.87
+667, ? ,56395,https://www.beeradvocate.com/beer/profile/870/56395/,Kilt Lifter In Port Barrels,870,Moylan's Brewery,3,4.14
+668, ? ,94798,https://www.beeradvocate.com/beer/profile/21153/94798/,Wee Heavy,21153,Broadway Brewery & Restaurant,3,3.77
+669,8.70,67416,https://www.beeradvocate.com/beer/profile/24529/67416/,Scotch Wee Heavy,24529,Black Tooth Brewing Company,3,3.92
+670,7.00,149080,https://www.beeradvocate.com/beer/profile/17232/149080/,Bellywasher Scotch Ale,17232,Original Gravity Brewing Company,3,3.7
+671,8.00,214873,https://www.beeradvocate.com/beer/profile/44202/214873/,Wee Bit O Trouble,44202,Crooked Handle Brewing Co.,3,3.59
+672, ? ,23389,https://www.beeradvocate.com/beer/profile/11241/23389/,McStukie's Scotch Ale,11241,Angry Minnow Brewpub,3,3.74
+673,8.40,309853,https://www.beeradvocate.com/beer/profile/30492/309853/,Scotia Limited,30492,Bosque Brewing Co.,3,4.15
+674,10.00,48733,https://www.beeradvocate.com/beer/profile/9914/48733/,Scotch Pine,9914,Sequoia Brewing Company,3,3.77
+675,5.50,214368,https://www.beeradvocate.com/beer/profile/25051/214368/,Beer 101: Strong Ale,25051,First Draft - Niagara College Teaching Brewery,3,3.42
+676,5.00,122727,https://www.beeradvocate.com/beer/profile/34431/122727/,Heavy 80 Scotch Ale,34431,Coal Creek TAP,3,3.78
+677,11.00,165993,https://www.beeradvocate.com/beer/profile/28808/165993/,Brae Scotch Heavy,28808,Core Brewing & Distilling Co.,3,4.17
+678,7.80,91245,https://www.beeradvocate.com/beer/profile/6045/91245/,Grandma Drum's Wee Heavy,6045,Iron Hill Brewery & Restaurant,3,4.26
+679,8.00,272494,https://www.beeradvocate.com/beer/profile/47598/272494/,The Scotsman,47598,Wooden Cask Brewing Company,3,3.69
+680,8.20,40302,https://www.beeradvocate.com/beer/profile/394/40302/,Stoudt's Brewer's Reserve Scotch Style Ale,394,Stoudts Brewing Co.,3,3.81
+681,9.20,223343,https://www.beeradvocate.com/beer/profile/43522/223343/,General MacArthur's Scotch Ale,43522,Westbound & Down Brewing Company / The Buffalo Restaurant & Bar,3,4.05
+682,8.70,175729,https://www.beeradvocate.com/beer/profile/35756/175729/,Weeee Barrel-Aged Wee Heavy,35756,Canton Brewing Company,3,3.42
+683,8.50,29042,https://www.beeradvocate.com/beer/profile/2313/29042/,McHiney's Wee Heavy Scotch Ale,2313,Silver Peak Restaurant & Brewery,3,3.59
+684, ? ,132724,https://www.beeradvocate.com/beer/profile/34494/132724/,Gunsmoke Habaneros Scottish Ale,34494,Dos Desperados Brewery,3,3.47
+685,8.50,237176,https://www.beeradvocate.com/beer/profile/36781/237176/,Sturdy MacCurdy,36781,Lena Brewing Company,3,3.39
+686,6.50,194937,https://www.beeradvocate.com/beer/profile/37637/194937/,Schopsh,37637,Exit Brewing,3,3.63
+687,8.00,90491,https://www.beeradvocate.com/beer/profile/27863/90491/,La Protestante,27863,Microbrasserie Des Beaux Prés,3,3.74
+688,8.30,241790,https://www.beeradvocate.com/beer/profile/31995/241790/,Wee Willy,31995,Rhinegeist Brewery,3,4.25
+689,8.50,123262,https://www.beeradvocate.com/beer/profile/29415/123262/,Bert Scotch Ale,29415,Crux Fermentation Project,3,3.75
+690,12.20,296319,https://www.beeradvocate.com/beer/profile/37027/296319/,Mel Gibson (Cellar Series),37027,Põhjala Brewery,3,4.1
+691,8.00,193152,https://www.beeradvocate.com/beer/profile/36484/193152/,Eleventacles,36484,Oliphant Brewing,3,3.76
+692, ? ,193666,https://www.beeradvocate.com/beer/profile/16963/193666/,Mick's Mac,16963,Marble Brewery,3,3.51
+693,10.50,242319,https://www.beeradvocate.com/beer/profile/42110/242319/,Rye Barrel Aged Scottie Knows,42110,Ascension Brewing Company,3,4.12
+694,10.20,111249,https://www.beeradvocate.com/beer/profile/32092/111249/,Beam Me Up Scotch Ale,32092,Intergalactic Brewing Co.,3,4.27
+695,8.60,167828,https://www.beeradvocate.com/beer/profile/11158/167828/,Scottish Ale,11158,Neptune's Brewery,3,3.85
+696,5.00,180372,https://www.beeradvocate.com/beer/profile/33087/180372/,Eighty Shilling,33087,The Rebel Brewing Co.,3,3.26
+697,7.70,202652,https://www.beeradvocate.com/beer/profile/42740/202652/,Pipe In A Sack,42740,Noble Brewer Beer Company,3,4.19
+698,9.60,218016,https://www.beeradvocate.com/beer/profile/38142/218016/,Scotch Ale,38142,Alibi Ale Works,3,3.96
+699,14.00,248993,https://www.beeradvocate.com/beer/profile/11256/248993/,Corne De Glace,11256,À l’abri de la Tempête,3,3.72
+700, ? ,152738,https://www.beeradvocate.com/beer/profile/9282/152738/,90 Shillings,9282,Boscos Restaurant & Brewing Co.,3,3.67
+701,8.40,244651,https://www.beeradvocate.com/beer/profile/31528/244651/,Scotchlander,31528,The Big Rip Brewing Company,3,3.64
+702,5.60,82097,https://www.beeradvocate.com/beer/profile/22486/82097/,HogsBack Kilty Bastard Scotch Ale,22486,HogsBack Brewing Company,3,3.76
+703,7.80,214962,https://www.beeradvocate.com/beer/profile/33850/214962/,Tam O'Shanter Wee Heavy,33850,Bomber Brewing,3,3.82
+704,8.00,185523,https://www.beeradvocate.com/beer/profile/25832/185523/,Cacau Wee,25832,Cervejaria Bodebrown Ltda.,3,4.21
+705, ? ,57526,https://www.beeradvocate.com/beer/profile/12/57526/,Smoked Scotch Ale,12,John Harvard's Brewery & Ale House,3,3.62
+706,7.90,269497,https://www.beeradvocate.com/beer/profile/47791/269497/,Mega Scops,47791,Wayward Owl Brewing Co.,3,4.33
+707,8.00,154555,https://www.beeradvocate.com/beer/profile/29336/154555/,Bonnie Prince Barley Scotch Ale,29336,Bainbridge Island Brewing Company,3,3.79
+708,9.30,170172,https://www.beeradvocate.com/beer/profile/29271/170172/,Prince Charlie's Wee Heavy Strong Scotch Ale,29271,Santiam Brewing Company,3,4.12
+709, ? ,106432,https://www.beeradvocate.com/beer/profile/1620/106432/,Rye Heart,1620,Dunedin Brewery,3,3.83
+710,9.50,283074,https://www.beeradvocate.com/beer/profile/28752/283074/,The Old Fashioned,28752,Tempest Brewing Company,3,4.1
+711,10.10,173252,https://www.beeradvocate.com/beer/profile/30575/173252/,Mitten Wee Heavy,30575,The Mitten Brewing Co.,3,4.03
+712,7.90,140229,https://www.beeradvocate.com/beer/profile/33181/140229/,Pennypacker 120,33181,Faction Brewing,3,3.67
+713,8.14,260293,https://www.beeradvocate.com/beer/profile/47205/260293/,Braveheart 2,47205,Creston Brewery,3,3.73
+714,8.00,147910,https://www.beeradvocate.com/beer/profile/34205/147910/,Ben Nevis,34205,Brasserie Générale,3,3.38
+715,7.50,179912,https://www.beeradvocate.com/beer/profile/1683/179912/,Ever Changing Series: Barrel-Aged Scotch Ale,1683,Santa Fe Brewing Company,3,3.52
+716,8.70,188872,https://www.beeradvocate.com/beer/profile/285/188872/,Imperial Nessie,285,Brauerei Schloss Eggenberg,3,3.37
+717,9.00,298186,https://www.beeradvocate.com/beer/profile/49734/298186/,SaScotch,49734,Remedy Brewing Company,3,3.92
+718,8.00,162510,https://www.beeradvocate.com/beer/profile/39442/162510/,Scotch Strong Ale Wee-Heavy,39442,St. Nicholas Brewing Company,3,4.2
+719,9.00,326865,https://www.beeradvocate.com/beer/profile/804/326865/,Scotch Barrel Aged Scotch Silly,804,Brasserie de Silly S.A.,3,4
+720,7.00,223186,https://www.beeradvocate.com/beer/profile/1011/223186/,Wee-Heavy,1011,Angel City Brewery,3,3.45
+721,8.00,159186,https://www.beeradvocate.com/beer/profile/29220/159186/,Blootered,29220,Dirty Bucket Brewing Co.,3,3.9
+722,10.70,279508,https://www.beeradvocate.com/beer/profile/34004/279508/,Barrel-Aged MacBeth,34004,Cahoots Brewing,3,3.94
+723,6.10,224212,https://www.beeradvocate.com/beer/profile/42561/224212/,Scotch Ness Monster,42561,26 Degree Brewing Company,3,4.1
+724,8.10,203490,https://www.beeradvocate.com/beer/profile/40571/203490/,Body & Soul,40571,Blue Earl Brewing Company,3,3.61
+725,8.50,49381,https://www.beeradvocate.com/beer/profile/2563/49381/,Christmas Ale,2563,Holgate Brewhouse / Keatings Hotel,3,3.18
+726,7.50,291046,https://www.beeradvocate.com/beer/profile/29427/291046/,Willie Wee Heavy,29427,One Barrel Brewing Company,3,3.97
+727,6.00,70888,https://www.beeradvocate.com/beer/profile/2946/70888/,Wee Curly Scottish Ale,2946,The Grumpy Troll Restaurant and Brewery,3,3.67
+728,4.80,227565,https://www.beeradvocate.com/beer/profile/45303/227565/,Scotch,45303,White Dog Brewing,3,3.34
+729,11.50,315630,https://www.beeradvocate.com/beer/profile/41833/315630/,Pareto 2017 (Port Wine Barrel-Aged),41833,Sori Brewing,3,4.04
+730,6.80,60911,https://www.beeradvocate.com/beer/profile/20757/60911/,Scottish Heavy,20757,Dunbar Brewing,3,3.82
+731,10.00,298483,https://www.beeradvocate.com/beer/profile/30422/298483/,Barrel Aged Continual Soiree,30422,McFate Tap + Barrel - North Scottsdale,3,4.09
+732,10.50,284660,https://www.beeradvocate.com/beer/profile/32180/284660/,Sethiroff,32180,Blue Stallion Brewing Co.,3,3.75
+733,5.00,56052,https://www.beeradvocate.com/beer/profile/3400/56052/,Knockendoch,3400,Sulwath Brewers Ltd,3,3.62
+734,6.25,214261,https://www.beeradvocate.com/beer/profile/42818/214261/,Scotch Ale,42818,Alliance Brewing Company,3,3.71
+735,3.10,195573,https://www.beeradvocate.com/beer/profile/37980/195573/,The Bruce 60 Shilling Scotch Ale,37980,LyonSmith Brewing Company,3,4.23
+736,4.50,233720,https://www.beeradvocate.com/beer/profile/22783/233720/,Music And Might,22783,O'Connor Brewing Co.,3,3.35
+737,9.00,217083,https://www.beeradvocate.com/beer/profile/16873/217083/,G Willie Wee Heavy,16873,10 Barrel Brewing Co.,3,3.57
+738,8.50,1788,https://www.beeradvocate.com/beer/profile/557/1788/,Southport Southtoberfest,557,SBC Restaurant & Brewery - Southport,3,3.01
+739,7.50,77820,https://www.beeradvocate.com/beer/profile/17282/77820/,Wee Heavy,17282,Good People Brewing Company,3,4.46
+740,10.00,164093,https://www.beeradvocate.com/beer/profile/28290/164093/,Strong Scotch Ale,28290,Buckeye Lake Brewery,3,3.81
+741,6.00,25088,https://www.beeradvocate.com/beer/profile/9996/25088/,La Ruée Vers Gould,9996,Multi-Brasses,2,2.88
+742,9.90,239872,https://www.beeradvocate.com/beer/profile/43348/239872/,"Scotch, Scotch, Scotch",43348,Arts District Brewing Co.,2,3.97
+743,11.30,308736,https://www.beeradvocate.com/beer/profile/33824/308736/,A Gaunt And Silent Spectre,33824,Bottle Logic Brewing,2,4.1
+744,7.20,208129,https://www.beeradvocate.com/beer/profile/30232/208129/,Pipes And Plaid,30232,The Tap Brewery,2,3.91
+745, ? ,47873,https://www.beeradvocate.com/beer/profile/4929/47873/,Wee Heavy,4929,Liberty Steakhouse Brewery,2,3.92
+746,6.30,237827,https://www.beeradvocate.com/beer/profile/33323/237827/,Devil Bird Scotch,33323,Mad Bomber Brewing Company,2,3.79
+747,6.50,217604,https://www.beeradvocate.com/beer/profile/44399/217604/,No. 7 Scotch Ale,44399,Brown Truck Brewery,2,4.04
+748,9.80,294916,https://www.beeradvocate.com/beer/profile/42574/294916/,Lumberjack Off,42574,Brooks Brewing,2,3.66
+749,6.90,296199,https://www.beeradvocate.com/beer/profile/41739/296199/,ACH!toberfest,41739,Miskatonic Brewing Company,2,3.44
+750,6.30,158220,https://www.beeradvocate.com/beer/profile/34280/158220/,McCurcio's Scotch Ale,34280,Conshohocken Brewing Company,2,3.53
+751,9.70,169996,https://www.beeradvocate.com/beer/profile/30492/169996/,Oak-A-Scotia,30492,Bosque Brewing Co.,2,3.57
+752,9.00,163597,https://www.beeradvocate.com/beer/profile/30871/163597/,Bourbon Barrell Wee Heavy,30871,The BottleHouse Brewing Company,2,4.29
+753,9.70,123150,https://www.beeradvocate.com/beer/profile/29008/123150/,Fields Of Fire,29008,Bluejacket / Arsenal Restaurant,2,3.5
+754,7.80,282897,https://www.beeradvocate.com/beer/profile/24745/282897/,King James Scotch Ale-Bourbon Barrel Aged.,24745,Paw Paw Brewing Company,2,3.32
+755,8.30,268563,https://www.beeradvocate.com/beer/profile/33707/268563/,Wee Heavy,33707,Tributary Brewing Co.,2,3.96
+756,11.00,301843,https://www.beeradvocate.com/beer/profile/30300/301843/,Paint It Plaid,30300,Church Street Brewing Company,2,3.88
+757,8.00,218388,https://www.beeradvocate.com/beer/profile/20563/218388/,Wee Heavy,20563,Highlander Brew Co.,2,3.79
+758,8.50,52756,https://www.beeradvocate.com/beer/profile/16048/52756/,Loudmouth Soup,16048,Hollister Brewing Co.,2,3.38
+759, ? ,223509,https://www.beeradvocate.com/beer/profile/1397/223509/,Barrel Aged Scotch Ale,1397,Scuttlebutt Brewing Company - Restaurant and Pub,2,3.54
+760, ? ,253205,https://www.beeradvocate.com/beer/profile/30409/253205/,Loch Ness Zombie,30409,West Flanders Brewing Co.,2,4.21
+761,7.50,261142,https://www.beeradvocate.com/beer/profile/758/261142/,Caber Tossing,758,Uncle Buck's Brewery & Steakhouse,2,3.58
+762,10.00,213527,https://www.beeradvocate.com/beer/profile/33666/213527/,Kings Reserve,33666,Hairless Hare Brewery,2,4.24
+763,12.60,239383,https://www.beeradvocate.com/beer/profile/22412/239383/,Dooley Noted,22412,Noble Ale Works,2,3.62
+764,9.20,209178,https://www.beeradvocate.com/beer/profile/3490/209178/,Calgacus ,3490,B.O.B.'s Brewery,2,3.74
+765,8.25,139036,https://www.beeradvocate.com/beer/profile/2707/139036/,Olde Peninsula Leaky Wee (Heavy),2707,Olde Peninsula Brewpub & Restaurant,2,3.77
+766,8.00,174622,https://www.beeradvocate.com/beer/profile/38005/174622/,Schotse IJsbeer,38005,Bierbrouwerij De Blauwe IJsbeer,2,3.32
+767,8.40,288543,https://www.beeradvocate.com/beer/profile/35646/288543/,Real Ale Brewing / Revelry Brewing / 50 West Brewing Wee Heavy Bevvy,35646,Revelry Brewing Co,2,3.96
+768, ? ,131106,https://www.beeradvocate.com/beer/profile/860/131106/,Sunset Vibrations,860,The Vermont Pub & Brewery,2,4
+769,7.00,272676,https://www.beeradvocate.com/beer/profile/33392/272676/,Old Tavern Scotch Ale,33392,Black Warrior Brewing Company,2,3.84
+770,8.50,269094,https://www.beeradvocate.com/beer/profile/35031/269094/,Wee Heavy,35031,The Collingwood Brewery,2,3.88
+771, ? ,97062,https://www.beeradvocate.com/beer/profile/12913/97062/,Scotch Ale,12913,Lumber Barons Brewery,2,3.6
+772,9.70,153128,https://www.beeradvocate.com/beer/profile/456/153128/,McKnight,456,Trinity Brewhouse,2,3.53
+773,8.00,157992,https://www.beeradvocate.com/beer/profile/2681/157992/,Winter Chub,2681,Oskar Blues Grill & Brew,2,3.98
+774,7.70,142633,https://www.beeradvocate.com/beer/profile/34281/142633/,Scottish Wee Heavy,34281,Cloud 9 Brewery,2,3.25
+775,7.50,282924,https://www.beeradvocate.com/beer/profile/860/282924/,Wee Heavy,860,The Vermont Pub & Brewery,2,3.83
+776,9.30,301102,https://www.beeradvocate.com/beer/profile/44597/301102/,Highlander Strong Scotch Ale,44597,Wicked Wort Brewing Company,2,4.12
+777,9.00,306480,https://www.beeradvocate.com/beer/profile/43861/306480/,"Racecars, Lasers, Aeroplanes, - Wee Heavy (Rye Barrel Aged)",43861,Skeleton Key Brewery,2,3.83
+778,7.00,95026,https://www.beeradvocate.com/beer/profile/477/95026/,Willimantic Mariner's Scotch Ale,477,Willimantic Brewing Co.,2,4.02
+779,9.60,228402,https://www.beeradvocate.com/beer/profile/32930/228402/,Wee Heavy,32930,Bike Dog Brewing Company,2,4.22
+780,7.30,314674,https://www.beeradvocate.com/beer/profile/36091/314674/,Scotch Rocket,36091,Boxing Bear Brewing Co.,2,3.9
+781,9.00,319794,https://www.beeradvocate.com/beer/profile/38745/319794/,Gallows and Graves,38745,Fieldwork Brewing Co.,2,4.07
+782, ? ,120627,https://www.beeradvocate.com/beer/profile/683/120627/,Crimson Wonder,683,Valkyrie Brewing,2,3.88
+783, ? ,124981,https://www.beeradvocate.com/beer/profile/2681/124981/,Old Chub - 4 Roses Barrel Aged,2681,Oskar Blues Grill & Brew,2,4
+784,8.60,151606,https://www.beeradvocate.com/beer/profile/35354/151606/,Christmas Scotch Ale,35354,Wolf Hollow Brewing Company,2,2.57
+785,8.20,145975,https://www.beeradvocate.com/beer/profile/28227/145975/,Glesga Kiss,28227,White Flame Brewing Co.,2,4
+786,6.40,140347,https://www.beeradvocate.com/beer/profile/34145/140347/,Up Yer Kilt Ale,34145,The VB Brewery,2,3.88
+787,8.50,122683,https://www.beeradvocate.com/beer/profile/34636/122683/,Major Oak Wee Heavy,34636,Robin Hood Brewing Co. (Home D Pizzeria),2,4.05
+788,9.00,197692,https://www.beeradvocate.com/beer/profile/35767/197692/,The Game Is Afoot,35767,Fiction Beer Company,2,3.85
+789,7.70,311356,https://www.beeradvocate.com/beer/profile/50877/311356/,Big Emma,50877,Künstler Brewing,2,4.04
+790,8.00,165696,https://www.beeradvocate.com/beer/profile/39853/165696/,Fat Bottomed Girl,39853,The Cebruery,2,3.39
+791,9.70,219716,https://www.beeradvocate.com/beer/profile/1513/219716/,Woody Haze,1513,Smokehouse Brewing Co.,2,4.24
+792,8.10,46917,https://www.beeradvocate.com/beer/profile/761/46917/,Wee-Heavy Winter Ale 2008,761,CB Craft Brewers,2,3.92
+793,9.50,336711,https://www.beeradvocate.com/beer/profile/25434/336711/,Buxton Brewery/ Cromarty Brewing  Cranachan,25434,Buxton Brewery,2,4.23
+794,7.50,80456,https://www.beeradvocate.com/beer/profile/25045/80456/,Plaid Shirt Scotch,25045,Blackrocks Brewery,2,3.67
+795,8.50,243528,https://www.beeradvocate.com/beer/profile/256/243528/,MacDuff's Scottish Ale,256,Lost Coast Brewery and Cafe,2,4.24
+796,8.70,223562,https://www.beeradvocate.com/beer/profile/29693/223562/,Wee Heavy,29693,Reuben's Brews,2,4.06
+797,7.30,323916,https://www.beeradvocate.com/beer/profile/50640/323916/,The Naught Wee Heavy,50640,Town Square Brewing Co.,2,3.63
+798,8.10,226637,https://www.beeradvocate.com/beer/profile/45230/226637/,Scotch Ale,45230,Inbound BrewCo,2,4.1
+799, ? ,65101,https://www.beeradvocate.com/beer/profile/2175/65101/,McMaverick's Scotch Ale,2175,Half Moon Bay Brewing Company,2,3.77
+800,10.00,275022,https://www.beeradvocate.com/beer/profile/42975/275022/,Off Kilter,42975,Five Threads Brewing Company,2,3.82
+801,9.00,108623,https://www.beeradvocate.com/beer/profile/29757/108623/,Prestissimo,29757,The Hourglass Brewery,2,3.75
+802,7.20,122191,https://www.beeradvocate.com/beer/profile/18228/122191/,Saurus,18228,Pivovar Kocour Varnsdorf,2,3.69
+803, ? ,135248,https://www.beeradvocate.com/beer/profile/31679/135248/,Scotch Ale,31679,Blind Squirrel Brewery,2,4.46
+804,7.50,143186,https://www.beeradvocate.com/beer/profile/11341/143186/,Executioner,11341,Hideout Brewing Company,2,3.88
+805,7.10,224082,https://www.beeradvocate.com/beer/profile/32910/224082/,Wee Peaty,32910,Station 26 Brewing Co.,2,3.87
+806,11.00,229970,https://www.beeradvocate.com/beer/profile/36662/229970/,Brimley (Barrel Aged),36662,LynLake Brewery,2,4.19
+807,7.70,246354,https://www.beeradvocate.com/beer/profile/44396/246354/,Raven McGillavry,44396,Pivovar Raven,2,4.46
+808,7.60,264787,https://www.beeradvocate.com/beer/profile/30386/264787/,Kilt In Battle,30386,Beyond the Pale Brewing Company,2,4
+809,9.00,266837,https://www.beeradvocate.com/beer/profile/48318/266837/,William The Butcher,48318,Brew Republic Bierwerks,2,5
+810,7.20,276053,https://www.beeradvocate.com/beer/profile/38805/276053/,Gallowglass,38805,Friendship Brewing Company / Benefit's Bistro,2,4.06
+811,8.70,267862,https://www.beeradvocate.com/beer/profile/44285/267862/,Wee Scunner,44285,Torched Hop Brewing Company,2,3.47
+812,8.50,136023,https://www.beeradvocate.com/beer/profile/11341/136023/,Bourbon Barrel Hangman's Scotch Ale,11341,Hideout Brewing Company,2,3.52
+813,7.40,309081,https://www.beeradvocate.com/beer/profile/16420/309081/,Ocean Wee Heavy,16420,Oceanbryggeriet,2,4.02
+814,9.60,233562,https://www.beeradvocate.com/beer/profile/20430/233562/,Scotch Ale - Barrel-aged,20430,Dust Bowl Brewing Company - Downtown Taproom,2,4.17
+815,8.79,218971,https://www.beeradvocate.com/beer/profile/39634/218971/,Scotchy Scotch Scotch,39634,Daft Badger Brewing,2,3.67
+816,8.10,174684,https://www.beeradvocate.com/beer/profile/40306/174684/,Wee Heavy,40306,North Center Brewing Company,2,3.86
+817,7.80,81758,https://www.beeradvocate.com/beer/profile/701/81758/,Highland Reserve,701,Boundary Bay Brewery & Bistro,2,3.62
+818,9.00,280414,https://www.beeradvocate.com/beer/profile/41747/280414/,Birk-N-Sox,41747,Birds Fly South Ale Project,2,3.75
+819,5.00,78178,https://www.beeradvocate.com/beer/profile/2617/78178/,Big River Blessed Ale,2617,Big River Grille & Brewing Works,2,3.94
+820,10.00,296802,https://www.beeradvocate.com/beer/profile/13014/296802/,Rusty Melvin (Intelligent Design Series),13014,Surly Brewing Company,2,4.22
+821,8.30,306531,https://www.beeradvocate.com/beer/profile/32952/306531/,Shaggy Shipley's,32952,Three Notch'd Brewing Company,2,4.09
+822,10.00,316003,https://www.beeradvocate.com/beer/profile/50850/316003/,Claymore Scotch Ale,50850,Kettlehead Brewing Company,2,3.98
+823,10.00,149348,https://www.beeradvocate.com/beer/profile/29008/149348/,Maple Syrup-Soaked Rye Whiskey Barrel-Aged Figure 8,29008,Bluejacket / Arsenal Restaurant,2,3.89
+824,6.50,18282,https://www.beeradvocate.com/beer/profile/9746/18282/,Paddys Scottish Ale,9746,Paddy's Pub And Brewery,2,3.39
+825,9.00,110190,https://www.beeradvocate.com/beer/profile/1483/110190/,Wee Howler,1483,Springfield Brewing Company,2,4.17
+826,11.00,291439,https://www.beeradvocate.com/beer/profile/31326/291439/,Barrel Aged Longship,31326,HammerHeart Brewing Company,2,4
+827,8.00,238448,https://www.beeradvocate.com/beer/profile/1146/238448/,Coffee Scotch Cask Ale Aged In Bourbon Barrels,1146,Goose Island Beer Co.,2,4.18
+828,6.70,290930,https://www.beeradvocate.com/beer/profile/43963/290930/,Wee Terrier Scotch Ale,43963,Doghaus Brewery,2,3.88
+829,8.20,80499,https://www.beeradvocate.com/beer/profile/12788/80499/,Scotch Ale,12788,Firehouse Grill & Brewery,2,3.97
+830,9.40,225395,https://www.beeradvocate.com/beer/profile/32463/225395/,Scotch Ale,32463,Apple Blossom Brewing Co.,2,4.15
+831,9.20,241780,https://www.beeradvocate.com/beer/profile/35529/241780/,Bourbon Barrel Pentaverate,35529,River's Edge Brewing Co,2,4.14
+832,8.70,220789,https://www.beeradvocate.com/beer/profile/41864/220789/,Scottish Dark,41864,Lumpy Ridge Brewing Company,2,3.98
+833,7.00,261749,https://www.beeradvocate.com/beer/profile/37983/261749/,White Chocolate Amaretto,37983,Wop's Hops Brewing Company,2,3.9
+834,8.00,215159,https://www.beeradvocate.com/beer/profile/31528/215159/,Kurgan Scotch Ale,31528,The Big Rip Brewing Company,2,3.39
+835,8.00,106360,https://www.beeradvocate.com/beer/profile/25052/106360/,Katie'z Highland Country Scotch Ale,25052,Missouri Breaks Brewing,2,3.81
+836,8.00,173433,https://www.beeradvocate.com/beer/profile/7404/173433/,Old Kilt Lifter,7404,Downtown Grill & Brewery,2,4.08
+837,6.70,120188,https://www.beeradvocate.com/beer/profile/34502/120188/,Nomade Scotch Ale,34502,Cerveza Nómade,2,3.41
+838,8.70,60541,https://www.beeradvocate.com/beer/profile/1550/60541/,Naughty Old Woody,1550,Rock Bottom Restaurant & Brewery,2,4.14
+839,6.00,132478,https://www.beeradvocate.com/beer/profile/23090/132478/,Scotch Ale,23090,Thirsty Planet Brewing Company,2,3.88
+840,7.70,104831,https://www.beeradvocate.com/beer/profile/5275/104831/,Stampede,5275,Front Street Brewery,2,3.64
+841,8.80,175746,https://www.beeradvocate.com/beer/profile/33273/175746/,Nate The Great,33273,7th Settlement Brewery,2,3.75
+842,9.00,291460,https://www.beeradvocate.com/beer/profile/43862/291460/,Drunk Scotsman,43862,WoodGrain Brewing Co,2,3.88
+843,8.50,247172,https://www.beeradvocate.com/beer/profile/44396/247172/,Raven Sychrov Scotch Ale,44396,Pivovar Raven,2,3.6
+844,10.70,315780,https://www.beeradvocate.com/beer/profile/31995/315780/,Big Willy,31995,Rhinegeist Brewery,2,4.42
+845,8.90,169349,https://www.beeradvocate.com/beer/profile/39883/169349/,Storm The Castle,39883,Cognition Brewing Company,2,4.02
+846,6.00,176261,https://www.beeradvocate.com/beer/profile/40835/176261/,La Brune,40835,Brasserie La Parisienne,2,2.86
+847,9.40,120456,https://www.beeradvocate.com/beer/profile/1336/120456/,Wee Heavy,1336,Appalachian Brewing Company,2,3.88
+848,9.80,246921,https://www.beeradvocate.com/beer/profile/42574/246921/,Woodsman's Wee Heavy,42574,Brooks Brewing,2,3.83
+849,9.00,155274,https://www.beeradvocate.com/beer/profile/34159/155274/,Great Scot!,34159,JDub's Brewing Company,2,4.25
+850,4.00,182155,https://www.beeradvocate.com/beer/profile/34192/182155/,Kilt Shifter Scotch 70,34192,Bucks County Brewery,2,3.39
+851,6.50,262285,https://www.beeradvocate.com/beer/profile/46709/262285/,Twisted Kilt Wee Heavy,46709,Jack's Run Brewing Co,2,3.89
+852,9.70,325773,https://www.beeradvocate.com/beer/profile/49465/325773/,Scotch Ale,49465,Helton Brewing Company,2,4.21
+853,9.30,322702,https://www.beeradvocate.com/beer/profile/28522/322702/,Poppy Scotch,28522,Pints Brewing Co.,2,3.8
+854,11.10,154257,https://www.beeradvocate.com/beer/profile/38332/154257/,Kilted Tilter,38332,Gold Camp Brewing Company,2,3.95
+855,9.40,278930,https://www.beeradvocate.com/beer/profile/46642/278930/,Compared To What,46642,Calibration Brewing,2,3.73
+856,8.00,296339,https://www.beeradvocate.com/beer/profile/27016/296339/,Highlander,27016,Somerville Brewing Company (Slumbrew),2,3.92
+857,8.00,311956,https://www.beeradvocate.com/beer/profile/47577/311956/,Memory Fault Fernet Barrel Aged,47577,Lo Rez Brewing,2,3.5
+858,8.50,186005,https://www.beeradvocate.com/beer/profile/32166/186005/,Black Douglas,32166,Griffin Claw Brewing Company,2,4.1
+859,6.30,322454,https://www.beeradvocate.com/beer/profile/48264/322454/,Isle of Skye,48264,Lazarus Brewing Company,2,3.24
+860,9.00,282519,https://www.beeradvocate.com/beer/profile/22783/282519/,Iron Clad Discovery,22783,O'Connor Brewing Co.,2,4.13
+861,8.00,160151,https://www.beeradvocate.com/beer/profile/36002/160151/,Can Your Bagpipes Do This?,36002,Werk Force Brewing Co,2,4.06
+862,8.50,160409,https://www.beeradvocate.com/beer/profile/36487/160409/,Old Wanker,36487,Platform Beer Co.,2,4.16
+863,8.00,80538,https://www.beeradvocate.com/beer/profile/11412/80538/,La Reyne D'escosse,11412,Bedondaine & Bedons Ronds,2,3.98
+864,7.50,278939,https://www.beeradvocate.com/beer/profile/48006/278939/,Barton Hall,48006,On Tour Brewing Company,2,3.76
+865,6.30,155292,https://www.beeradvocate.com/beer/profile/37454/155292/,Scotch Ale,37454,Steuben Brewing Company,2,3.23
+866,8.00,175773,https://www.beeradvocate.com/beer/profile/40766/175773/,ILA Scotch Ale,40766,Fabbrica della Birra Perugia,2,3.58
+867,11.00,311710,https://www.beeradvocate.com/beer/profile/46535/311710/,Armistice Ale,46535,Tattered Flag Brewery & Still Works,2,4.07
+868,6.00,137123,https://www.beeradvocate.com/beer/profile/36432/137123/,Rvber,36432,Amphora Cerveja Artesanal,2,3.42
+869,9.00,154790,https://www.beeradvocate.com/beer/profile/610/154790/,Heritage Ale - Brandy Aged,610,Bear Republic Brewing Co.,2,4.03
+870,8.70,274087,https://www.beeradvocate.com/beer/profile/48260/274087/,Bourbon Barrel Aged Doc Rae,48260,The Explorium Brewpub,2,4
+871,7.80,201896,https://www.beeradvocate.com/beer/profile/34205/201896/,Bières Bélugas Ltée - Scotch Ale,34205,Brasserie Générale,2,3.98
+872,8.80,213416,https://www.beeradvocate.com/beer/profile/44174/213416/,Hop Clan In The Highmalts,44174,Brønhër Brew,2,4.14
+873,6.00,111016,https://www.beeradvocate.com/beer/profile/27195/111016/,Heavy Lad,27195,Broadhead Brewing Company,2,3.12
+874,3.80,183464,https://www.beeradvocate.com/beer/profile/39873/183464/,Scotsman Yard,39873,Recess Brewing,2,3.82
+875,9.30,226474,https://www.beeradvocate.com/beer/profile/39756/226474/,Big Yin,39756,Alluvial Brewing Company,2,3.57
+876,8.30,235438,https://www.beeradvocate.com/beer/profile/33438/235438/,Brewer's Reserve Wee Heavy Scotch Ale,33438,Grapevine Craft Brewery,2,4.38
+877,7.50,177326,https://www.beeradvocate.com/beer/profile/39158/177326/,Tartan Monk,39158,Barrel of Monks Brewing,2,4.57
+878,8.50,158896,https://www.beeradvocate.com/beer/profile/34159/158896/,Schtuff,34159,JDub's Brewing Company,2,4.02
+879,7.10,253104,https://www.beeradvocate.com/beer/profile/556/253104/,I-84 Sucks Sctoch,556,City Steam Brewery Café,2,3.77
+880,8.50,276147,https://www.beeradvocate.com/beer/profile/30923/276147/,The Mayor,30923,Belching Beaver Brewery,2,4.35
+881, ? ,84405,https://www.beeradvocate.com/beer/profile/4712/84405/,Bourbon Barrel Bonnie Jean's,4712,The Brewhouse,2,4.46
+882,6.70,217525,https://www.beeradvocate.com/beer/profile/43295/217525/,Stealth Buddha,43295,Fulton Chain Craft Brewery,2,3.31
+883,7.20,217272,https://www.beeradvocate.com/beer/profile/29757/217272/,Wee Peaty,29757,The Hourglass Brewery,2,4.01
+884,10.00,229048,https://www.beeradvocate.com/beer/profile/25422/229048/,Kill Devil Scotch Ale,25422,Full Moon Cafe and Brewery,2,4.31
+885, ? ,108728,https://www.beeradvocate.com/beer/profile/7051/108728/,Scotch Ale,7051,Tractor Brewing Co.,2,3.38
+886,6.40,204986,https://www.beeradvocate.com/beer/profile/1540/204986/,Mountain Goat In Breed,1540,Mountain Goat Beer Pty Ltd,2,3.83
+887,7.50,161980,https://www.beeradvocate.com/beer/profile/32876/161980/,Isle Of Cinder,32876,Cinder Block Brewery,2,3.76
+888,5.00,187837,https://www.beeradvocate.com/beer/profile/29882/187837/,Half N Half Ale,29882,Old Worthy Brewing Company,2,3.48
+889,6.30,279998,https://www.beeradvocate.com/beer/profile/32635/279998/,Conger Tun Ale,32635,The Cheshire Brewhouse,2,4.21
+890,7.00,47807,https://www.beeradvocate.com/beer/profile/18189/47807/,"We Heavy, Yo!",18189,Earth Bread + Brewery,2,3.68
+891,7.00,323263,https://www.beeradvocate.com/beer/profile/43482/323263/,Wee Heavy,43482,Vanish Beer,2,4.3
+892,7.50,272064,https://www.beeradvocate.com/beer/profile/1636/272064/,Ides Of March,1636,Fegley's Bethlehem Brew Works,2,3.26
+893,5.40,174532,https://www.beeradvocate.com/beer/profile/4073/174532/,Bonnie St. Nan,4073,Highlands Hollow Brewhouse,2,3.35
+894,7.20,320196,https://www.beeradvocate.com/beer/profile/391/320196/,Barrel Aged Edition - Scotch,391,Big Rock Brewery,2,3.25
+895,6.20,68038,https://www.beeradvocate.com/beer/profile/7015/68038/,Kilted Pig Wee Heavy Scotch Ale,7015,Babe's Bar-B-Que And Brewery,2,3.84
+896,6.20,314311,https://www.beeradvocate.com/beer/profile/661/314311/,Moonlight Kettle Series (2017): Howling Gale Scotch Ale,661,Muskoka Brewery,2,3.73
+897,7.30,123079,https://www.beeradvocate.com/beer/profile/33837/123079/,Dunnie The Bounder,33837,Gonzo's Biggdogg Brewing,2,3.85
+898,10.40,100811,https://www.beeradvocate.com/beer/profile/32749/100811/,Tillie’s Ghillies,32749,ShuBrew,2,3.52
+899,9.00,289484,https://www.beeradvocate.com/beer/profile/41760/289484/,Bourbon Barrel Aged Wee Bastard,41760,Man Skirt Brewing,2,3.93
+900,8.20,120524,https://www.beeradvocate.com/beer/profile/31722/120524/,Pipewrench Strong Scotch,31722,Burial Beer Co.,2,3.75
+901,8.60,272590,https://www.beeradvocate.com/beer/profile/48309/272590/,The Immolator,48309,Dystopian State Brewing Co.,2,4.3
+902,12.00,169934,https://www.beeradvocate.com/beer/profile/5115/169934/,Wee Heavy Scotch Ale,5115,Steelhead Brewing Co.,2,4.22
+903, ? ,84687,https://www.beeradvocate.com/beer/profile/1337/84687/,Bourbon Barrel Way Heavy,1337,Pizza Port Solana Beach,2,4.21
+904,6.00,331216,https://www.beeradvocate.com/beer/profile/47266/331216/,Daisy Chain Wee Heavy,47266,Platypus Brewing,2,3.72
+905,7.90,237009,https://www.beeradvocate.com/beer/profile/2493/237009/,Freedom! Scotch Ale,2493,Lafayette Brewing Co.,2,3.84
+906,6.50,25810,https://www.beeradvocate.com/beer/profile/11426/25810/,Southport Southtoberfest,11426,SBC Restaurant & Brewery - Milford,2,3.52
+907,8.80,160723,https://www.beeradvocate.com/beer/profile/32755/160723/,Scotch Ale Fût De Chêne,32755,Microbrasserie l'Hermite,2,3.8
+908,9.00,178131,https://www.beeradvocate.com/beer/profile/35643/178131/,All Goblets Have Spirits,35643,Broken Goblet Brewing Company,2,4.1
+909,9.80,317142,https://www.beeradvocate.com/beer/profile/36073/317142/,Hillrock Bourbon Barrel Aged Munro,36073,Barreled Souls Brewing Company,2,4.05
+910,9.00,301786,https://www.beeradvocate.com/beer/profile/39761/301786/,Glenaldus,39761,Aldus Brewing Company,2,4.32
+911,8.00,243162,https://www.beeradvocate.com/beer/profile/31300/243162/,Coconut Battle Axe,31300,Our Brewing Co.,2,3.94
+912,7.80,288988,https://www.beeradvocate.com/beer/profile/39227/288988/,The Famous Mallard,39227,Bakunin Beer Cafe & Boutique,2,3.71
+913,8.20,322016,https://www.beeradvocate.com/beer/profile/43694/322016/,Tail Rope,43694,Slack Tide Brewing Co.,2,4.18
+914,9.80,197602,https://www.beeradvocate.com/beer/profile/34314/197602/,McSwick Scotch Ale,34314,Pigeon Hill Brewing Company,2,4.17
+915,8.50,315621,https://www.beeradvocate.com/beer/profile/25434/315621/,Buxton / Fierce Beer - Nippy Sweetie,25434,Buxton Brewery,2,3.88
+916,8.20,327910,https://www.beeradvocate.com/beer/profile/31049/327910/,Wild Grapevine Wee Heavy,31049,Scratch Brewing Company,2,3.88
+917,9.10,101607,https://www.beeradvocate.com/beer/profile/30182/101607/,Wee Heavy Scotch Ale,30182,North High Brewing Company,2,2.75
+918,9.20,23272,https://www.beeradvocate.com/beer/profile/1888/23272/,120 Shilling Ale,1888,Lake Placid Craft Brewing Company,2,4.71
+919,7.00,166121,https://www.beeradvocate.com/beer/profile/37399/166121/,Snow Nose,37399,Three Huskies Brewing,2,3.79
+920,9.20,166891,https://www.beeradvocate.com/beer/profile/588/166891/,Kilt Lifter Wee Heavy Cask,588,Krogh's Restaurant And Brewpub,2,3.75
+921,8.60,138222,https://www.beeradvocate.com/beer/profile/34497/138222/,Kelvin's Kilt,34497,Great Flood Brewing Company,2,4
+922,8.00,179696,https://www.beeradvocate.com/beer/profile/2681/179696/,Chub - Coffee,2681,Oskar Blues Grill & Brew,2,4.11
+923,8.00,191216,https://www.beeradvocate.com/beer/profile/32180/191216/,Angry Scotsman,32180,Blue Stallion Brewing Co.,2,3.89
+924,8.70,207089,https://www.beeradvocate.com/beer/profile/23641/207089/,For Whom The Bag Pipes,23641,Iron Fist Brewing Company,2,3.66
+925,10.00,321525,https://www.beeradvocate.com/beer/profile/50850/321525/,Haunting Whisper Rum Barrel Aged Claymore,50850,Kettlehead Brewing Company,2,4.04
+926,9.00,336118,https://www.beeradvocate.com/beer/profile/741/336118/,My Turn Series: Kenny,741,"Lakefront Brewery, Inc.",2,3.93
+927,8.50,83959,https://www.beeradvocate.com/beer/profile/18796/83959/,Hopkins Scotch Ale,18796,Boquébière,2,3.62
+928,7.50,95995,https://www.beeradvocate.com/beer/profile/3717/95995/,Wee Heavy,3717,Micro-Brasserie L'Alchimiste,2,3.73
+929,9.00,109308,https://www.beeradvocate.com/beer/profile/33611/109308/,Flying Scotsmen,33611,SaltWater Brewery,2,3.97
+930,7.00,57852,https://www.beeradvocate.com/beer/profile/14831/57852/,Killer Ale,14831,Mash Brewing,2,3.76
+931,4.20,259325,https://www.beeradvocate.com/beer/profile/47510/259325/,"Ale Of 2 Cities, Scotch Heavy",47510,Big Beach Brewing,2,3.96
+932,8.00,108798,https://www.beeradvocate.com/beer/profile/29508/108798/,Wee Heavy,29508,Hell Bay Brewing Co.,2,3.5
+933,7.40,59134,https://www.beeradvocate.com/beer/profile/4552/59134/,McGuire's Scotch Ale,4552,McGuire's Irish Pub of Destin,2,3
+934,10.50,242688,https://www.beeradvocate.com/beer/profile/21006/242688/,Simple Malt Scotch Ale PLUS,21006,Brasseurs Illimités,1,4.19
+935,7.00,274945,https://www.beeradvocate.com/beer/profile/29061/274945/,Cairns Wee Heavy,29061,Midnight Brewery,1,3.27
+936,9.00,154625,https://www.beeradvocate.com/beer/profile/38486/154625/,Strong Scotch Ale,38486,Nickelpoint Brewing Co.,1,3.49
+937,9.70,286977,https://www.beeradvocate.com/beer/profile/11711/286977/,Okshoofd Peated,11711,Stichting Noordhollandse Alternatieve Bierbrouwers (SNAB),1,3.5
+938,9.70,286978,https://www.beeradvocate.com/beer/profile/11711/286978/,Okshoofd Non-peated,11711,Stichting Noordhollandse Alternatieve Bierbrouwers (SNAB),1,3.5
+939,8.90,199171,https://www.beeradvocate.com/beer/profile/27945/199171/,Oak Aged Wee Heavy (Sherry Barrel Aged),27945,The Foundry / Cantebury Brewers,1,4
+940,6.30,237828,https://www.beeradvocate.com/beer/profile/33323/237828/,Devil Bird Scotch - Nitro,33323,Mad Bomber Brewing Company,1,3.83
+941, ? ,59908,https://www.beeradvocate.com/beer/profile/1634/59908/,Wee Heavy,1634,Gilded Otter Brewing Company,1,3.58
+942, ? ,45061,https://www.beeradvocate.com/beer/profile/2195/45061/,Sweet 16 Wee Heavy,2195,Huntington Beach Beer Company,1,2.28
+943,8.30,331526,https://www.beeradvocate.com/beer/profile/40366/331526/,Senor Smoke,40366,Parched Eagle Brewpub,1,4
+944,7.00,168198,https://www.beeradvocate.com/beer/profile/23014/168198/,Great Glamis,23014,Der Blokken Brewery,1,3.27
+945,6.40,237063,https://www.beeradvocate.com/beer/profile/26367/237063/,"Scotch, Scotch, Scotch",26367,8th Street Ale Haus,1,3.75
+946,8.00,137224,https://www.beeradvocate.com/beer/profile/23391/137224/,Whisky Jane,23391,Brasserie Artisanale La Fabrique,1,4
+947,5.50,81416,https://www.beeradvocate.com/beer/profile/21274/81416/,Scotch Ale,21274,Wallace Brewing / Orehouse Tasting Room,1,2.43
+948,11.00,312329,https://www.beeradvocate.com/beer/profile/37514/312329/,Bloutered Bourbon Barrel-Aged Scotch Ale,37514,Steady Habit Brewing Company,1,3.61
+949,9.60,155658,https://www.beeradvocate.com/beer/profile/37821/155658/,Whirlypits Scotch,37821,Railtown Brewing Company,1,3.93
+950,8.50,296458,https://www.beeradvocate.com/beer/profile/44954/296458/,Boetnstoander,44954,Elsener Bierbrouwerij Pochpoater,1,2.5
+951,7.80,316938,https://www.beeradvocate.com/beer/profile/30608/316938/,Rebellion Barrel Aged K&L special,30608,FreeWheel Brewing Company,1,3.9
+952, ? ,277771,https://www.beeradvocate.com/beer/profile/46831/277771/,Barrel Aged Scotch Ale,46831,Blank Canvas Brewery,1,3.31
+953,5.80,303883,https://www.beeradvocate.com/beer/profile/12579/303883/,Truffled Scotch Ale,12579,Red Hill Brewery,1,3.53
+954,9.40,199437,https://www.beeradvocate.com/beer/profile/33650/199437/,Wee Heavy,33650,Walnut River Brewing Company,1,3.77
+955,6.80,169485,https://www.beeradvocate.com/beer/profile/34157/169485/,Angry Piper,34157,Crooked Eye Brewery,1,3.75
+956,10.00,312078,https://www.beeradvocate.com/beer/profile/3964/312078/,The Jack,3964,Ram Restaurant & Brewery,1,4.17
+957,8.00,334351,https://www.beeradvocate.com/beer/profile/40874/334351/,1314,40874,Akasha Brewing Company,1,3.82
+958,7.50,337935,https://www.beeradvocate.com/beer/profile/35529/337935/,The Pentaverate,35529,River's Edge Brewing Co,1,3.82
+959,9.00,228623,https://www.beeradvocate.com/beer/profile/45330/228623/,Wee Hefty,45330,Goonda Beersmiths,1,3.75
+960,10.00,312079,https://www.beeradvocate.com/beer/profile/38868/312079/,Wee Heavy Scotch Ale Barrel Aged,38868,Around the Bend Beer Co.,1,3.5
+961,6.46,334352,https://www.beeradvocate.com/beer/profile/52013/334352/,Off Kilter Scotch Ale,52013,King’s Road Brewing Company,1,3.76
+962,7.00,284944,https://www.beeradvocate.com/beer/profile/10667/284944/,Oak Aged Rowan,10667,Cornerstone Brewing Company,1,4.27
+963,5.50,134417,https://www.beeradvocate.com/beer/profile/36279/134417/,Scotch Ale,36279,Cerveceria Blest,1,3.75
+964,8.50,202001,https://www.beeradvocate.com/beer/profile/34117/202001/,Angus MacBeardsley,34117,Eight Bridges Brewing Co.,1,3.79
+965, ? ,336401,https://www.beeradvocate.com/beer/profile/25045/336401/,Barrel Aged The Barbaric Yawp,25045,Blackrocks Brewery,1,4.54
+966,7.60,218897,https://www.beeradvocate.com/beer/profile/42271/218897/,60 Horses,42271,Heady Hollow Brewing Company,1,3.74
+967,9.30,317201,https://www.beeradvocate.com/beer/profile/4/317201/,Pictavia,4,Allagash Brewing Company,1,3.79
+968,6.00,270100,https://www.beeradvocate.com/beer/profile/40375/270100/,Werewolf,40375,Windswept Brewing Co,1,3.68
+969,8.00,338452,https://www.beeradvocate.com/beer/profile/103/338452/,Kilt Tilter,103,"Middle Ages Brewing Co., Ltd.",1,4.03
+970,10.80,231701,https://www.beeradvocate.com/beer/profile/22139/231701/,Scotch Ale,22139,Fenton Winery And Brewery,1,3.75
+971,4.80,207382,https://www.beeradvocate.com/beer/profile/41821/207382/,G.S.A,41821,Hop Nation Brewing Company,1,3.81
+972,10.20,272918,https://www.beeradvocate.com/beer/profile/34321/272918/,Pete LaPhass,34321,Black Bridge Brewery,1,3.59
+973, ? ,254230,https://www.beeradvocate.com/beer/profile/43369/254230/,Noble Piper,43369,Pocock Brewing Co.,1,3.6
+974,9.20,332056,https://www.beeradvocate.com/beer/profile/48435/332056/,Scotch Kiss,48435,47 Hills Brewing Company,1,3.94
+975,9.00,334104,https://www.beeradvocate.com/beer/profile/1788/334104/,Cailleach Bheur Oak-Aged Wee Heavy,1788,Flying Goose Brew Pub & Grille,1,4.96
+976,10.50,152344,https://www.beeradvocate.com/beer/profile/32453/152344/,They’ve Gone To Plaid Scotch Ale,32453,Cherry Street Brewing Cooperative,1,4.21
+977,8.50,323864,https://www.beeradvocate.com/beer/profile/43168/323864/,Peat Smoked Wee Heavy,43168,Local Relic,1,1.91
+978,7.40,319769,https://www.beeradvocate.com/beer/profile/39695/319769/,Kingsbarn Scotch Ale,39695,Fernson Brewing Company,1,4
+979,5.10,277274,https://www.beeradvocate.com/beer/profile/42305/277274/,Whiskey Beer,42305,Ahoi Bier,1,3.58
+980,13.50,311834,https://www.beeradvocate.com/beer/profile/1337/311834/,Barrel Aged Leather Bound Books,1337,Pizza Port Solana Beach,1,3.71
+981, ? ,248091,https://www.beeradvocate.com/beer/profile/30073/248091/,Bourbon Barrel Scotch Ale,30073,Wild Woods Brewery,1,4
+982,8.30,332060,https://www.beeradvocate.com/beer/profile/50785/332060/,Coco Maggie,50785,Untold Brewing,1,4
+983,9.50,282652,https://www.beeradvocate.com/beer/profile/36484/282652/,Twelvetacles,36484,Oliphant Brewing,1,3.86
+984,7.50,221468,https://www.beeradvocate.com/beer/profile/1318/221468/,100 Schilling Scotch Ale,1318,Artisan's Brewery & Italian Grill,1,3.19
+985,9.00,81693,https://www.beeradvocate.com/beer/profile/28261/81693/,140 Shilling Wee Heavy,28261,I & I Brewing,1,3.94
+986,9.50,256029,https://www.beeradvocate.com/beer/profile/35424/256029/,Wee Heavy (Nitro),35424,Smylie Brothers Brewing Co.,1,3
+987,8.00,322333,https://www.beeradvocate.com/beer/profile/2175/322333/,Bourbon Barrel Aged Sneaky Peat,2175,Half Moon Bay Brewing Company,1,4.22
+988,5.60,333855,https://www.beeradvocate.com/beer/profile/33495/333855/,Ciaran Scotch Ale,33495,Blackwater Draw Brewing Co.,1,4.22
+989,10.90,219423,https://www.beeradvocate.com/beer/profile/1619/219423/,Wee Heavy,1619,C.H. Evans Brewing Company,1,4.44
+990,9.00,288287,https://www.beeradvocate.com/beer/profile/33504/288287/,Daiker's Wee Heavey,33504,Hayes' Public House Brewery & Taproom,1,4.13
+991,8.50,264992,https://www.beeradvocate.com/beer/profile/39604/264992/,HeaVee,39604,Blue Island Beer Co.,1,4.03
+992,6.00,206882,https://www.beeradvocate.com/beer/profile/24888/206882/,Plaid Penguin,24888,Midtown Brewing Company,1,4.26
+993,8.40,262179,https://www.beeradvocate.com/beer/profile/32700/262179/,Scotch Rocket,32700,Galaxy Brewing Company,1,3.43
+994,8.00,270115,https://www.beeradvocate.com/beer/profile/36487/270115/,BB Daft Wullie,36487,Platform Beer Co.,1,4.23
+995,7.50,257315,https://www.beeradvocate.com/beer/profile/4069/257315/,Sweep Heavy (#3),4069,Ram Restaurant & Brewery,1,3.86
+996,6.20,245028,https://www.beeradvocate.com/beer/profile/43634/245028/,Kilt Tiltler,43634,McClellan's Brewing Company,1,3.5
+997,6.80,315172,https://www.beeradvocate.com/beer/profile/46718/315172/,Wee Monster,46718,Collusion Tap Works,1,3.86
+998,6.50,273957,https://www.beeradvocate.com/beer/profile/25684/273957/,Tosca,25684,Birrificio Indipendente Elav,1,2.06
+999,6.80,215333,https://www.beeradvocate.com/beer/profile/16094/215333/,Sphagnum P.I.,16094,Double Mountain Brewery & Taproom,1,3.59
+1000,7.50,174629,https://www.beeradvocate.com/beer/profile/511/174629/,Hemels Scotch,511,Stadsbrouwerij De Hemel,1,3
+1001,8.00,320549,https://www.beeradvocate.com/beer/profile/870/320549/,Moylan's Scotch Ale,870,Moylan's Brewery,1,3.5
+1002,8.00,279590,https://www.beeradvocate.com/beer/profile/33977/279590/,Wee Three,33977,Covered Bridge Brewing,1,2.92
+1003,6.50,218150,https://www.beeradvocate.com/beer/profile/42277/218150/,Smoked Scotch Ale,42277,Water Street Brewery,1,3.6
+1004,10.10,296998,https://www.beeradvocate.com/beer/profile/43285/296998/,Into The Woods - Scotch Whisky BA,43285,Dois Corvos Cervejeira,1,4
+1005,9.00,297254,https://www.beeradvocate.com/beer/profile/34320/297254/,319 Wee Heavy,34320,Star City Brewing Co.,1,3.91
+1006,7.00,134184,https://www.beeradvocate.com/beer/profile/30482/134184/,Nessie De Bonne Bière,30482,Lagabière Brasserie Artisanale,1,3.2
+1007,7.80,267816,https://www.beeradvocate.com/beer/profile/46252/267816/,Speak O' The Devil Wee Heavy,46252,Parker's Hilltop Brewery,1,3.67
+1008,11.00,336936,https://www.beeradvocate.com/beer/profile/32279/336936/,Thistle Killya Scotch Quad,32279,Strangeways Brewing,1,2.09
+1009,7.00,233512,https://www.beeradvocate.com/beer/profile/45890/233512/,Shotgun Wee Heavy,45890,Deslogetown Brewery,1,3.95
+1010,7.80,265513,https://www.beeradvocate.com/beer/profile/35315/265513/,Peat & Repeat,35315,The FarmHouse Brewery,1,4.13
+1011, ? ,261674,https://www.beeradvocate.com/beer/profile/24190/261674/,Dun Eideann,24190,Brasserie Artisanale Albion,1,3.5
+1012,7.00,55083,https://www.beeradvocate.com/beer/profile/7722/55083/,Filthy Kilt Wee Heavy,7722,Huske Hardware House Brewing Company,1,3.78
+1013,7.50,281900,https://www.beeradvocate.com/beer/profile/41116/281900/,Clayburn Smoked Scotch Ale,41116,Ravens Brewing Company,1,3.13
+1014,8.50,303148,https://www.beeradvocate.com/beer/profile/30024/303148/,Dooley Noted,30024,Triplehorn Brewing Company,1,4
+1015, ? ,111404,https://www.beeradvocate.com/beer/profile/25256/111404/,Caber Tosser Scotch Ale,25256,Elevation 66 Brewing,1,3.5
+1016,8.20,247340,https://www.beeradvocate.com/beer/profile/31373/247340/,Barrel Aged Hillwalker,31373,Chelsea Alehouse,1,3.81
+1017,9.70,265773,https://www.beeradvocate.com/beer/profile/11711/265773/,Okshoofd,11711,Stichting Noordhollandse Alternatieve Bierbrouwers (SNAB),1,3.5
+1018,6.30,210733,https://www.beeradvocate.com/beer/profile/43878/210733/,Bear Heart Scotch Ale,43878,Bear Roots Brewing Co.,1,4.54
+1019,7.10,308525,https://www.beeradvocate.com/beer/profile/13524/308525/,Tyrion,13524,Oceanside Ale Works,1,3.67
+1020,8.30,325421,https://www.beeradvocate.com/beer/profile/48504/325421/,Loch Jordan Scotch Ale,48504,Jordan Lake Brewing Company,1,3.71
+1021,14.80,317231,https://www.beeradvocate.com/beer/profile/31995/317231/,Scotch Barrel Aged Night Whale,31995,Rhinegeist Brewery,1,3.5
+1022,6.80,199985,https://www.beeradvocate.com/beer/profile/42864/199985/,Ruberg Scotch Ale,42864,Cerveza Ruberg,1,3.5
+1023,8.00,157233,https://www.beeradvocate.com/beer/profile/26743/157233/,Wee Heavy,26743,49th State Brewing Company,1,4.09
+1024,7.80,235313,https://www.beeradvocate.com/beer/profile/10271/235313/,Skara Brae,10271,Silver Moon Brewing,1,4.04
+1025,8.40,246833,https://www.beeradvocate.com/beer/profile/41299/246833/,La Carcajou,41299,Brasseurs du Moulin,1,2.99
+1026,10.00,261682,https://www.beeradvocate.com/beer/profile/37002/261682/,Wee Heavy Olympic Scotch Ale,37002,Stigbergets Bryggeri,1,4.31
+1027,9.00,321075,https://www.beeradvocate.com/beer/profile/37442/321075/,Bruce 1 Or Bruce 2?,37442,Moo-Duck Brewery,1,4
+1028,7.00,222772,https://www.beeradvocate.com/beer/profile/31704/222772/,Tartan,31704,Agrarian Ales,1,3.88
+1029,9.40,290612,https://www.beeradvocate.com/beer/profile/47495/290612/,Batch 8: Wee Heavy,47495,Point Labaddie Brewery,1,4.19
+1030,8.50,171061,https://www.beeradvocate.com/beer/profile/35612/171061/,I Love Scotch... Ale,35612,Ex Novo Brewing,1,3.75
+1031,8.10,330550,https://www.beeradvocate.com/beer/profile/16495/330550/,Sir Wallace (Bourbon and Rum),16495,À La Fût,1,4.34
+1032,7.70,173880,https://www.beeradvocate.com/beer/profile/16352/173880/,Barrel Aged MacHayden's Wee Heavy,16352,Blue Mountain Brewery,1,3.71
+1033,9.00,328249,https://www.beeradvocate.com/beer/profile/16105/328249/,Cooper's Series Scotch Ale,16105,Mayflower Brewing Company,1,3.87
+1034,6.20,237625,https://www.beeradvocate.com/beer/profile/39391/237625/,The Burgundy Scotch,39391,Black Label Brewing Company,1,3.52
+1035,10.00,320828,https://www.beeradvocate.com/beer/profile/41990/320828/,Knox On Wood,41990,Windmill Brewing,1,4.11
+1036,10.50,215871,https://www.beeradvocate.com/beer/profile/32477/215871/,Peaty MacPete ,32477,Tomoka Brewery,1,3.78
+1037,5.50,335681,https://www.beeradvocate.com/beer/profile/28569/335681/,66 Degrees Scotch Ale,28569,Obed & Isaac's Microbrewery & Eatery,1,3.5
+1038,11.50,307777,https://www.beeradvocate.com/beer/profile/32453/307777/,Damebier on Maple,32453,Cherry Street Brewing Cooperative,1,4.55
+1039,10.00,140098,https://www.beeradvocate.com/beer/profile/31684/140098/,Crossroads Aged In Rye Whiskey Barrel,31684,Verboten Brewing and Barrel Project,1,3.9
+1040,9.90,341058,https://www.beeradvocate.com/beer/profile/16866/341058/,Scotsman,16866,The Bruery,1,4.25
+1041,9.00,238914,https://www.beeradvocate.com/beer/profile/45210/238914/,Max Capacity,45210,Old Stove Brewing Co.,1,3.71
+1042,8.80,319298,https://www.beeradvocate.com/beer/profile/17281/319298/,Wee Heavy,17281,Black Market Brewing Co.,1,4
+1043,6.10,287299,https://www.beeradvocate.com/beer/profile/35210/287299/,Thick Lies The Mist On Yonder Hill,35210,MacLeod Ale Brewing Company,1,3.78
+1044,9.00,319555,https://www.beeradvocate.com/beer/profile/50301/319555/,Hairy Chest,50301,BareWolf Brewing,1,3.83
+1045,9.10,166214,https://www.beeradvocate.com/beer/profile/30372/166214/,Scotch Ale,30372,Light the Lamp Brewery,1,4.45
+1046,10.50,230983,https://www.beeradvocate.com/beer/profile/23904/230983/,Wullie Waught Scotch Barrel-aged Imperial Scotch Ale,23904,North Sound Brewing Company,1,4.35
+1047,10.50,339016,https://www.beeradvocate.com/beer/profile/19672/339016/,Rum Barrel Aged Bananas McFoster,19672,Proof Brewing Company,1,3.75
+1048,10.00,284744,https://www.beeradvocate.com/beer/profile/38406/284744/,Love Potion #9,38406,Strange Brewing,1,4
+1049,7.50,304201,https://www.beeradvocate.com/beer/profile/37637/304201/,#016 Scotch Ale,37637,Exit Brewing,1,3.56
+1050,7.00,185417,https://www.beeradvocate.com/beer/profile/25667/185417/,Land Mermaid,25667,Austin Beerworks,1,3.9
+1051,8.00,220746,https://www.beeradvocate.com/beer/profile/44660/220746/,Wee Heavy,44660,Amber Lantern Brewing Company,1,3.93
+1052,12.00,273484,https://www.beeradvocate.com/beer/profile/22513/273484/,Wee-Heavy,22513,Madhouse Brewing Company,1,4.22
+1053, ? ,153420,https://www.beeradvocate.com/beer/profile/26993/153420/,Old Bernard,26993,UpCountry Brewing Co.,1,4.06
+1054,8.00,223308,https://www.beeradvocate.com/beer/profile/40685/223308/,The Chimneys,40685,Spencer Devon Brewing,1,3.74
+1055,10.40,177996,https://www.beeradvocate.com/beer/profile/17981/177996/,Riddy Dug,17981,Cigar City Brewing,1,3.35
+1056,8.80,279885,https://www.beeradvocate.com/beer/profile/589/279885/,Wee Oat,589,Fox River Brewing Co. at Fratellos Waterfront Restaurant,1,4.4
+1057,9.70,259149,https://www.beeradvocate.com/beer/profile/34159/259149/,Damb Good Swirl,34159,JDub's Brewing Company,1,4.9
+1058,8.10,317774,https://www.beeradvocate.com/beer/profile/33659/317774/,Stone of Strength Wee Heavy Scotch Ale,33659,Four Saints Brewing Company,1,4.04
+1059,7.50,311119,https://www.beeradvocate.com/beer/profile/758/311119/,Caber Tossing,758,Uncle Buck's Brewery & Steakhouse,1,3.64
+1060,9.00,259151,https://www.beeradvocate.com/beer/profile/47090/259151/,Strong Scotch Ale,47090,Cervejaria Loba,1,3.52
+1061,8.10,264784,https://www.beeradvocate.com/beer/profile/42537/264784/,Buffalo Wee Heavy,42537,New York Beer Project,1,3.6
+1062,8.00,211536,https://www.beeradvocate.com/beer/profile/41552/211536/,Burgundy Belly,41552,Canton Brew Works,1,3.64
+1063,7.50,302417,https://www.beeradvocate.com/beer/profile/48462/302417/,Cherry Rye Smoked Scotch Ale,48462,Whistle Hop Brewing Company,1,4.25
+1064,9.40,331858,https://www.beeradvocate.com/beer/profile/46056/331858/,Guthrie,46056,Municipal Brew Works,1,4.35
+1065,8.30,189778,https://www.beeradvocate.com/beer/profile/32896/189778/,Strong Scotch Ale #4,32896,Next Door Brewing Company,1,3.75
+1066,7.00,287059,https://www.beeradvocate.com/beer/profile/45678/287059/,Schilling For Sterling,45678,Chapman Crafted Beer,1,3.78
+1067,8.00,173651,https://www.beeradvocate.com/beer/profile/2681/173651/,Old Chub (Cinnamon & Vanilla),2681,Oskar Blues Grill & Brew,1,4
+1068,10.30,138324,https://www.beeradvocate.com/beer/profile/28299/138324/,Lochness Express,28299,Toxic Brewing Co.,1,3.85
+1069, ? ,281428,https://www.beeradvocate.com/beer/profile/25327/281428/,The Stone Of Arbroath (Willett Bourbon Barrel Aged),25327,DC Brau Brewing Co.,1,4.12
+1070,8.00,61780,https://www.beeradvocate.com/beer/profile/1154/61780/,Passow's Kilt Ripper,1154,Willoughby Brewing,1,4.23
+1071,7.70,65621,https://www.beeradvocate.com/beer/profile/14313/65621/,Wee Heavy,14313,Powerhouse Brewing Company's Columbus Bar,1,4.5
+1072,8.30,340310,https://www.beeradvocate.com/beer/profile/50239/340310/,Sticky Kilt,50239,Dirty Oar Beer Company,1,4.06
+1073,5.00,241495,https://www.beeradvocate.com/beer/profile/44009/241495/,McGoyver's,44009,Dark Sky Brewing Co.,1,3.32
+1074,4.50,123479,https://www.beeradvocate.com/beer/profile/28551/123479/,Scotch Barrel Enkel,28551,River North Brewery,1,4.25
+1075,8.20,330584,https://www.beeradvocate.com/beer/profile/3749/330584/,Belly Full of Cheer,3749,Seven Bridges Grille And Brewery,1,3.7
+1076,8.00,294745,https://www.beeradvocate.com/beer/profile/860/294745/,Maple Wee Heavy,860,The Vermont Pub & Brewery,1,3.75
+1077,7.30,319065,https://www.beeradvocate.com/beer/profile/16963/319065/,Downlowlander,16963,Marble Brewery,1,3.34
+1078,8.00,212570,https://www.beeradvocate.com/beer/profile/2642/212570/,Two Tickets,2642,North by Northwest Restaurant & Brewery,1,3.61
+1079,7.70,148315,https://www.beeradvocate.com/beer/profile/37166/148315/,Wee So Heavy,37166,Summit City Brewerks,1,3.59
+1080,8.50,294747,https://www.beeradvocate.com/beer/profile/860/294747/,Sour Cherry Wee,860,The Vermont Pub & Brewery,1,3.68
+1081, ? ,154972,https://www.beeradvocate.com/beer/profile/36997/154972/,Edinburgh Ale,36997,Starboard Brewing Company,1,2.58
+1082,10.20,228956,https://www.beeradvocate.com/beer/profile/34076/228956/,Scottish Export,34076,Ormond Brewing Company,1,3.99
+1083,6.50,294492,https://www.beeradvocate.com/beer/profile/40582/294492/,Floating Widget,40582,MABRASSERIE,1,3.32
+1084,7.00,233308,https://www.beeradvocate.com/beer/profile/32445/233308/,Loch Ness Seven,32445,Loch Ness Brewery,1,4.08
+1085,9.00,54108,https://www.beeradvocate.com/beer/profile/16526/54108/,Willie's Wee Heavy,16526,Elk Creek Cafe + Aleworks,1,4.15
+1086,8.50,285534,https://www.beeradvocate.com/beer/profile/31627/285534/,Blue’s Wolf,31627,Birrificio Montelupo,1,2.93
+1087,7.00,333663,https://www.beeradvocate.com/beer/profile/47481/333663/,Wee Little Kilt,47481,Short Fuse Brewing Company,1,3.69
+1088,8.50,124512,https://www.beeradvocate.com/beer/profile/33068/124512/,Loch Thomas Scottish WHA,33068,Boatyard Brewing Co.,1,3.5
+1089,8.80,281442,https://www.beeradvocate.com/beer/profile/39879/281442/,Auld Girthy,39879,Taft's Ale House,1,4.18
+1090,9.00,140387,https://www.beeradvocate.com/beer/profile/34431/140387/,Thomas Stevens And The Wheelmen Wee Heavy,34431,Coal Creek TAP,1,3.83
+1091,7.80,81763,https://www.beeradvocate.com/beer/profile/701/81763/,Highland Reserve (Dry Fly Barrel),701,Boundary Bay Brewery & Bistro,1,3.55
+1092,8.40,217187,https://www.beeradvocate.com/beer/profile/34497/217187/,Smoked Scotch Ale,34497,Great Flood Brewing Company,1,3.98
+1093,6.00,294755,https://www.beeradvocate.com/beer/profile/999/294755/,Wee William Scottish Ale,999,Montana Brewing Company,1,3.94
+1094,10.20,67684,https://www.beeradvocate.com/beer/profile/24847/67684/,Weeee!!!! Heavy Scotch Ale,24847,Lake Bluff Brewing Company,1,4.5
+1095, ? ,175716,https://www.beeradvocate.com/beer/profile/32568/175716/,Ducan-Kerr,32568,Microbrasserie St-Pancrace,1,3.5
+1096,8.20,265829,https://www.beeradvocate.com/beer/profile/30870/265829/,Barrel-Aged F.A.B.,30870,La Cabra Brewing,1,4
+1097,10.50,341349,https://www.beeradvocate.com/beer/profile/42196/341349/,Kilt Klutcher,42196,Trail Point Brewing Company,1,4
+1098,8.50,340326,https://www.beeradvocate.com/beer/profile/48801/340326/,Bourbon Barrel Aged Brasky,48801,Combustion Brewery & Taproom,1,4.25
+1099,7.20,56166,https://www.beeradvocate.com/beer/profile/1069/56166/,Hop Scotch,1069,Elliott Bay Brewing Co.,1,3.42
+1100,7.20,341352,https://www.beeradvocate.com/beer/profile/52594/341352/,Peacemaker,52594,Buskers Beer,1,3.45
+1101,6.50,235624,https://www.beeradvocate.com/beer/profile/45756/235624/,Madoc,45756,Birrificio Artigianale Parsifal,1,3.3
+1102,8.30,216681,https://www.beeradvocate.com/beer/profile/38234/216681/,Off Kilter,38234,Wavelength Brewing Company,1,1.69
+1103,8.20,162921,https://www.beeradvocate.com/beer/profile/343/162921/,Piper Patterson's Wee Heavy,343,"Jasper Murdock’s Alehouse, Dining Room & Microbrewery (The Norwich Inn)",1,4.03
+1104,8.00,113771,https://www.beeradvocate.com/beer/profile/27230/113771/,Montgomery Scotch Ale,27230,Barley Mow Brewing Company,1,3.25
+1105,6.10,261484,https://www.beeradvocate.com/beer/profile/45080/261484/,Two Dukes,45080,Arches Brewing,1,4.01
+1106,8.40,289645,https://www.beeradvocate.com/beer/profile/45302/289645/,Barrel Aged Rob Roy Wee Heavy Scotch Ale,45302,Northwood Public House / Little Dipper Brewing,1,4.06
+1107, ? ,292462,https://www.beeradvocate.com/beer/profile/34159/292462/,Damb Good Wee Heavy - Bourbon BA,34159,JDub's Brewing Company,1,4.29
+1108,9.00,305007,https://www.beeradvocate.com/beer/profile/23635/305007/,New Pretender,23635,Lavery Brewing Company,1,4
+1109, ? ,162672,https://www.beeradvocate.com/beer/profile/34334/162672/,Sir Walter Scotch NITRO,34334,Books & Brews,1,3.74
+1110,9.20,178544,https://www.beeradvocate.com/beer/profile/31331/178544/,Wee One,31331,ChuckAlek Independent Brewers,1,3.06
+1111, ? ,62320,https://www.beeradvocate.com/beer/profile/19764/62320/,Pro Am Wee Heavy,19764,Schooner Exact Brewing Company,1,3.95
+1112,8.00,102257,https://www.beeradvocate.com/beer/profile/32996/102257/,Scotch,32996,Six°North,1,3.5
+1113,8.10,313969,https://www.beeradvocate.com/beer/profile/28764/313969/,Thistle Suit You,28764,West Sixth Brewing Company,1,3.75
+1114,5.00,198258,https://www.beeradvocate.com/beer/profile/42838/198258/,Brouwkot Vlaskapelle,42838,Brouwerij Gulden Spoor,1,3.82
+1115,6.20,281970,https://www.beeradvocate.com/beer/profile/35032/281970/,Surf And Turf,35032,Meander River Farm & Brewery,1,3.75
+1116,7.00,219250,https://www.beeradvocate.com/beer/profile/31384/219250/,Highlander Scottish Wee-Heavy,31384,Old Rail Brewing Company,1,3.79
+1117,8.00,110708,https://www.beeradvocate.com/beer/profile/876/110708/,Capt. Dunkin's Scotch Ale,876,Trap Rock Restaurant & Brewery,1,4
+1118, ? ,111988,https://www.beeradvocate.com/beer/profile/1106/111988/,Strang Wullie,1106,Grizzly Peak Brewing Company,1,3.5
+1119,8.00,147573,https://www.beeradvocate.com/beer/profile/37784/147573/,Mistress Of Taboo,37784,Macken Bryggeri,1,3.5
+1120,6.20,319349,https://www.beeradvocate.com/beer/profile/22598/319349/,Smoked Scotch Ale,22598,Cismontane Brewing Company,1,3.5
+1121,8.00,270966,https://www.beeradvocate.com/beer/profile/47667/270966/,Birdie Scotch Ale,47667,Icarus Brewing Company,1,4.04
+1122,8.50,270711,https://www.beeradvocate.com/beer/profile/48423/270711/,Duncan Clan,48423,Brink Brewing Co.,1,3.56
+1123,13.00,323447,https://www.beeradvocate.com/beer/profile/39505/323447/,Peated Wee Heavy Icebock BA Jack Daniels,39505,Salden's Brewery,1,4
+1124,7.80,307577,https://www.beeradvocate.com/beer/profile/31624/307577/,Don't Worry Bee Heavy,31624,Weird Beard Brew Co.,1,3.84
+1125,7.00,111481,https://www.beeradvocate.com/beer/profile/701/111481/,North By PNW,701,Boundary Bay Brewery & Bistro,1,3.25
+1126,10.50,246649,https://www.beeradvocate.com/beer/profile/16750/246649/,L'Impériale McMaple,16750,Siboire - Dépôt,1,4.02
+1127,8.70,231802,https://www.beeradvocate.com/beer/profile/34130/231802/,La Birrovipathe,34130,Le Temps d’une Pinte,1,4
+1128,8.00,305530,https://www.beeradvocate.com/beer/profile/39761/305530/,Wee Dame - Wee Heavy Ale infused with La Colombe Coffee,39761,Aldus Brewing Company,1,4.21
+1129,6.60,225148,https://www.beeradvocate.com/beer/profile/44347/225148/,McFinnigan's Scotch Ale,44347,The Firkin Brewhouse,1,3.28
+1130,8.20,323196,https://www.beeradvocate.com/beer/profile/40576/323196/,Seonaidh,40576,Abe Erb Brewing Co.,1,3.72
+1131,11.00,276093,https://www.beeradvocate.com/beer/profile/30365/276093/,Barrel Aged Highland Charge,30365,Heathen Brewing,1,4.35
+1132,10.00,332671,https://www.beeradvocate.com/beer/profile/19672/332671/,Bananas McFoster,19672,Proof Brewing Company,1,4
+1133,10.10,269951,https://www.beeradvocate.com/beer/profile/43482/269951/,Scottish Wee Heavy (Barrel Aged),43482,Vanish Beer,1,4.03
+1134, ? ,65407,https://www.beeradvocate.com/beer/profile/15824/65407/,Mini Kilt,15824,Skookum Brewery,1,3.38
+1135,11.20,302208,https://www.beeradvocate.com/beer/profile/42984/302208/,Wee Heavy,42984,Bad Habit Brewing Company,1,4.37
+1136,8.50,305792,https://www.beeradvocate.com/beer/profile/31813/305792/,Blackadder Goes Forth,31813,Bacchus Brewing Co.,1,3.72
+1137,10.00,112256,https://www.beeradvocate.com/beer/profile/24814/112256/,Forranach 120/-,24814,Yellowhammer Brewing,1,5
+1138,9.00,231809,https://www.beeradvocate.com/beer/profile/29517/231809/,Lacroix Fou D’Cave,29517,Noire & Blanche,1,4
+1139,9.70,317313,https://www.beeradvocate.com/beer/profile/22612/317313/,Heavy Highlander,22612,Mountain Town Brewing Co.,1,3.69
+1140,8.10,225410,https://www.beeradvocate.com/beer/profile/33589/225410/,Highlander,33589,Columbia Kettle Works,1,3.75
+1141,8.20,221059,https://www.beeradvocate.com/beer/profile/23/221059/,Weeeeeeeeeeeee!,23,Twisted Pine Brewing Company,1,3.25
+1142,6.40,287875,https://www.beeradvocate.com/beer/profile/37304/287875/,Nessie's Bullocks,37304,Hop'n Moose Brewing Company,1,3.25
+1143,4.50,280964,https://www.beeradvocate.com/beer/profile/40236/280964/,Wee Heavy,40236,Southerleigh Fine Food & Brewery,1,4.03
+1144,11.00,183172,https://www.beeradvocate.com/beer/profile/30228/183172/,Drawn & Quartered,30228,Ironfire Brewing Company,1,3.73
+1145, ? ,198022,https://www.beeradvocate.com/beer/profile/27378/198022/,Pumpkin Spiced Scotch Ale,27378,Congregation Ale House,1,4
+1146,13.30,294534,https://www.beeradvocate.com/beer/profile/1056/294534/,20 Years Heavy,1056,Upstream Brewing Company - Old Market,1,4.03
+1147,5.20,191110,https://www.beeradvocate.com/beer/profile/40789/191110/,Highland Stranger,40789,Goshen Brewing Company,1,4.1
+1148,7.60,230791,https://www.beeradvocate.com/beer/profile/38100/230791/,Kilty By Association,38100,Postdoc Brewing,1,3.94
+1149,7.20,301703,https://www.beeradvocate.com/beer/profile/44379/301703/,Commando Kilt,44379,Rebel Toad Brewing Company,1,5
+1150,8.50,191111,https://www.beeradvocate.com/beer/profile/40789/191111/,Old Soul,40789,Goshen Brewing Company,1,4.25
+1151,4.00,213897,https://www.beeradvocate.com/beer/profile/39335/213897/,Lil' Maple Scotch Ale,39335,Main & Mill Brewing Co.,1,3.5
+1152,6.50,227465,https://www.beeradvocate.com/beer/profile/3820/227465/,Scotch (gluten Reduced),3820,Bozeman Brewing Company,1,4
+1153,8.00,266378,https://www.beeradvocate.com/beer/profile/30744/266378/,Wee Heavy,30744,Yonkers Brewing Co.,1,4.2
+1154,8.50,246922,https://www.beeradvocate.com/beer/profile/34205/246922/,Brumaire,34205,Brasserie Générale,1,4.32
+1155,10.00,245388,https://www.beeradvocate.com/beer/profile/35047/245388/,Not Frail,35047,Stoneyard Brewing Company,1,3.67
+1156,6.00,216205,https://www.beeradvocate.com/beer/profile/43969/216205/,Bourbon Barrel Aged Scotch Ale,43969,Lumber House Brewing,1,4.25
+1157,8.50,44685,https://www.beeradvocate.com/beer/profile/156/44685/,Spleen Cleaver Scottish Ale,156,Tommyknocker Brewery,1,4.21
+1158,9.00,335248,https://www.beeradvocate.com/beer/profile/26565/335248/,Cellared Double Gold Medal 2014 Wee Heavy,26565,Steel Toe Brewing,1,4.23
+1159,7.80,224144,https://www.beeradvocate.com/beer/profile/42418/224144/,70 Sacrosanct Shillings Scotch Ale,42418,Decatur Brew Works,1,4.68
+1160,8.90,322960,https://www.beeradvocate.com/beer/profile/36002/322960/,Bourbon Barrel Fermented Bagpipes,36002,Werk Force Brewing Co,1,3.82
+1161,8.50,290449,https://www.beeradvocate.com/beer/profile/39604/290449/,Chocko Scot,39604,Blue Island Beer Co.,1,3.48
+1162,6.80,327313,https://www.beeradvocate.com/beer/profile/44448/327313/,Soul Charger,44448,MAP Brewing Co.,1,3.83
+1163,9.00,301970,https://www.beeradvocate.com/beer/profile/41533/301970/,Wee Heavy Scottish Ale,41533,Newaygo Brewing Co.,1,4.13
+1164,10.00,307858,https://www.beeradvocate.com/beer/profile/50242/307858/,Funky Doc Rae,50242,1840 Brewing Company,1,4
+1165,7.60,230035,https://www.beeradvocate.com/beer/profile/45105/230035/,Willy,45105,Urban Harvest Brewing Company,1,3.75
+1166,8.00,122516,https://www.beeradvocate.com/beer/profile/1144/122516/,Scotch Ale,1144,Le Cheval Blanc,1,4
+1167,8.80,248725,https://www.beeradvocate.com/beer/profile/33003/248725/,Scotchy Doesn't Know,33003,Wynwood Brewing Company,1,3.58
+1168,9.20,320405,https://www.beeradvocate.com/beer/profile/959/320405/,Fat Woody Oak Aged Scotch Ale,959,Silver City Brewing Co.,1,4
+1169,7.20,337558,https://www.beeradvocate.com/beer/profile/29378/337558/,Brews Brothers Hungry Like the Wolf,29378,Parallel 49 Brewing Company,1,3.85
+1170,8.10,312470,https://www.beeradvocate.com/beer/profile/47367/312470/,Wee Heavy,47367,Wicked Barley Brewing Co.,1,4.06
+1171,8.00,221335,https://www.beeradvocate.com/beer/profile/30492/221335/,3 Hour Scotch,30492,Bosque Brewing Co.,1,3.59
+1172,6.60,330648,https://www.beeradvocate.com/beer/profile/43184/330648/,Ben Nevis Scotch Ale,43184,42 North Brewing Company,1,3.49
+1173,8.50,272024,https://www.beeradvocate.com/beer/profile/36489/272024/,Wee Heavy,36489,Shannon Brewing Company,1,3.5
+1174,6.80,206491,https://www.beeradvocate.com/beer/profile/28091/206491/,Strong Scotch Ale,28091,Free Will Brewing Co.,1,3.71
+1175,9.50,206747,https://www.beeradvocate.com/beer/profile/31407/206747/,Wee Heavy,31407,Saint Archer Brewing Co.,1,3.24
+1176,9.00,327067,https://www.beeradvocate.com/beer/profile/48100/327067/,The Irish Punch Up Series Round 2 - Hoppy Scotch Style Ale,48100,Lough Gill Brewing Company,1,4.11
+1177,6.40,92060,https://www.beeradvocate.com/beer/profile/26932/92060/,March Winds,26932,Golden Road Brewing,1,3.5
+1178,9.10,340637,https://www.beeradvocate.com/beer/profile/31584/340637/,90 Shilling,31584,BearWaters Brewing Co.,1,3.25
+1179,10.00,290718,https://www.beeradvocate.com/beer/profile/12547/290718/,Wee Heavy,12547,The Livery,1,4.24
+1180, ? ,253342,https://www.beeradvocate.com/beer/profile/37527/253342/,McFadden Scotch Ale,37527,Twisted Chile Brewing Company,1,4
+1181,9.30,204703,https://www.beeradvocate.com/beer/profile/36539/204703/,Double Scotch On The Rockies,36539,Mockery Brewing Co.,1,4.79
+1182,8.50,111519,https://www.beeradvocate.com/beer/profile/30316/111519/,Dunbar Scottish Strong Ale,30316,The Filling Station Microbrewery,1,3.75
+1183,7.50,323487,https://www.beeradvocate.com/beer/profile/49268/323487/,Uncle Bert,49268,Docent Brewing,1,4.48
+1184,11.00,335520,https://www.beeradvocate.com/beer/profile/46535/335520/,BBA Arimistice,46535,Tattered Flag Brewery & Still Works,1,3.5
+1185,7.40,295584,https://www.beeradvocate.com/beer/profile/31049/295584/,Hen Of The Woods Wee Heavy,31049,Scratch Brewing Company,1,3.56
+1186,5.25,101792,https://www.beeradvocate.com/beer/profile/1305/101792/,Kilt Flapper Scotch Ale,1305,Vino's Brewpub,1,3.75
+1187,9.20,258721,https://www.beeradvocate.com/beer/profile/34079/258721/,Maxwell Heavy,34079,Angry Erik Brewing,1,3.83
+1188,9.20,288418,https://www.beeradvocate.com/beer/profile/29329/288418/,Bourbon Barrel Aged Duncan Mac Coconuts,29329,Burnt City Brewing,1,4
+1189,11.40,94370,https://www.beeradvocate.com/beer/profile/28261/94370/,Strong Scotch Ale,28261,I & I Brewing,1,3.82
+1190,8.20,253602,https://www.beeradvocate.com/beer/profile/26299/253602/,Kapitan Claymore,26299,Piwoteka,1,3.55
+1191,3.50,143011,https://www.beeradvocate.com/beer/profile/16353/143011/,Don The Younger,16353,Hopworks Urban Brewery,1,3.5
+1192,6.50,276387,https://www.beeradvocate.com/beer/profile/48742/276387/,Zeus,48742,Birrificio Kaos,1,3.19
+1193, ? ,101795,https://www.beeradvocate.com/beer/profile/758/101795/,Uncle Bucks Scotch Ale,758,Uncle Buck's Brewery & Steakhouse,1,4.25
+1194,7.40,116133,https://www.beeradvocate.com/beer/profile/24870/116133/,Heavy Paws Scotch Ale,24870,Marley's Brewery And Grille,1,1.92
+1195,6.50,260517,https://www.beeradvocate.com/beer/profile/435/260517/,Mccall Wee Heavy Scottish Ale,435,Minhas Craft Brewery,1,1.45
+1196,9.00,286887,https://www.beeradvocate.com/beer/profile/47023/286887/,Unicorn,47023,Donum Dei Brewery,1,4.18
+1197,7.80,309159,https://www.beeradvocate.com/beer/profile/48091/309159/,Smokey,48091,Channel Brewing Co,1,4.04
+1198, ? ,340648,https://www.beeradvocate.com/beer/profile/1502/340648/,Kilt Smasher,1502,"Mash House Restaurant & Brewery, The",1,4.25
+1199,7.80,309160,https://www.beeradvocate.com/beer/profile/48091/309160/,Good Morning Smokey,48091,Channel Brewing Co,1,4.13
+1200,6.00,337067,https://www.beeradvocate.com/beer/profile/43225/337067/,Trog Scotch Ale,43225,Cerveza Artesanal Trog,1,3.09
+1201,7.50,187051,https://www.beeradvocate.com/beer/profile/27921/187051/,Dans L’bois,27921,L'Espace Public-Brasseurs de quartier,1,3.75
+1202,7.25,336300,https://www.beeradvocate.com/beer/profile/2104/336300/,Isle of the Unicorn,2104,McMenamins,1,3.49
+1203,9.00,220588,https://www.beeradvocate.com/beer/profile/35959/220588/,The Ferminator,35959,Backroom Brewery,1,3.73
+1204,6.30,310956,https://www.beeradvocate.com/beer/profile/44307/310956/,True Aim,44307,Bow & Arrow Brewing,1,3.39
+1205, ? ,169133,https://www.beeradvocate.com/beer/profile/3798/169133/,Scotch Ale,3798,High Desert Brewing Company,1,3.68
+1206, ? ,94639,https://www.beeradvocate.com/beer/profile/14886/94639/,Big Al's Tilted Kilt,14886,The Brewerie At Union Station,1,3.97
+1207,6.80,227503,https://www.beeradvocate.com/beer/profile/43391/227503/,Auld Reekee,43391,Beehive Basin Brewery,1,3.75
+1208,10.60,295600,https://www.beeradvocate.com/beer/profile/21154/295600/,Peat Dunwoody's (Samoa),21154,Swamp Head Brewery,1,4.46
+1209,7.40,314800,https://www.beeradvocate.com/beer/profile/1477/314800/,Lumbersexual Scotch Ale,1477,Great Northern Brewing Co. / Black Star Draught House,1,4.32
+1210,12.00,331697,https://www.beeradvocate.com/beer/profile/34647/331697/,The Sacred Fire,34647,Ursula Brewery,1,3.39
+1211,10.60,295601,https://www.beeradvocate.com/beer/profile/21154/295601/,Peat Dunwoody's (Chipotle Maple),21154,Swamp Head Brewery,1,3.42
+1212,7.00,296881,https://www.beeradvocate.com/beer/profile/337/296881/,Gordon TerraForm,337,Saint Arnold Brewing Company,1,3.93
+1213,10.00,305843,https://www.beeradvocate.com/beer/profile/41817/305843/,Barrel Aged Scottish Wee Heavy,41817,Boggy Draw Brewery,1,3.98
+1214,13.10,248755,https://www.beeradvocate.com/beer/profile/10046/248755/,Barrel Aged Get In My Belly,10046,Left Coast Brewing Company,1,4.25
+1215,10.10,334773,https://www.beeradvocate.com/beer/profile/33819/334773/,Wee Heavy Scotch Ale,33819,Garage Brewing Co.,1,4.44
+1216,7.10,340661,https://www.beeradvocate.com/beer/profile/23904/340661/,X Batch: Barrel Apricot Scotch,23904,North Sound Brewing Company,1,3.36
+1217,9.00,292277,https://www.beeradvocate.com/beer/profile/34748/292277/,Willie's Cherry Almond,34748,Imperial Oak Brewing,1,3.91
+1218, ? ,106678,https://www.beeradvocate.com/beer/profile/26634/106678/,Kilt Shredder Scotch Ale,26634,Wichita Brewing Co. & Pizzeria West,1,3.75
+1219,6.00,307638,https://www.beeradvocate.com/beer/profile/16504/307638/,Sliding Stones Scotch Ale,16504,Nebraska Brewing Company,1,4.75
+1220,6.60,46006,https://www.beeradvocate.com/beer/profile/16048/46006/,Scotch Ale,16048,Hollister Brewing Co.,1,3.63
+1221,7.40,207799,https://www.beeradvocate.com/beer/profile/34273/207799/,A Wee Heavy Scottish Ale,34273,Bull & Barrel Brew Pub,1,3.71
+1222,8.50,282551,https://www.beeradvocate.com/beer/profile/34205/282551/,Brumaire - Édition Double Oak,34205,Brasserie Générale,1,2.98
+1223, ? ,106679,https://www.beeradvocate.com/beer/profile/26634/106679/,Oak Aged Kilt Shredder Scotch Ale,26634,Wichita Brewing Co. & Pizzeria West,1,4
+1224,8.00,28603,https://www.beeradvocate.com/beer/profile/11412/28603/,La Reyne Descosse,11412,Bedondaine & Bedons Ronds,1,4.13
+1225,6.20,224956,https://www.beeradvocate.com/beer/profile/3956/224956/,St. Columba's Bog Scottish Export Ale,3956,Brewsters Brewing Company & Restaurant - Oliver Square,1,3.84
+1226,8.50,320956,https://www.beeradvocate.com/beer/profile/48801/320956/,Brasky,48801,Combustion Brewery & Taproom,1,4.02
+1227,13.00,278717,https://www.beeradvocate.com/beer/profile/39883/278717/,Bourbon Barrel Storm The Castle,39883,Cognition Brewing Company,1,4.71
+1228,8.10,339134,https://www.beeradvocate.com/beer/profile/50226/339134/,Scottish Strong Ale,50226,Ballad Brewing,1,3.93
+1229,7.40,288190,https://www.beeradvocate.com/beer/profile/32830/288190/,Wee-Heavy,32830,Menace Brewing,1,2.76
+1230,8.07,113854,https://www.beeradvocate.com/beer/profile/2681/113854/,Old Chub - Peach Street Whiskey Aged,2681,Oskar Blues Grill & Brew,1,4.25
+1231,11.80,136895,https://www.beeradvocate.com/beer/profile/28261/136895/,140 Shilling Wee Heavy (Bourbon Barrel Aged),28261,I & I Brewing,1,3.68
+1232,5.30,286144,https://www.beeradvocate.com/beer/profile/49390/286144/,Scottish Terrier Ale,49390,The Leaning Cask Brewing Company,1,2.75
+1233,10.70,270273,https://www.beeradvocate.com/beer/profile/30756/270273/,Gainsbourg Scotch Whiskey,30756,Gainsbourg Bistro & Brasserie,1,4.34
+1234,7.50,278465,https://www.beeradvocate.com/beer/profile/2431/278465/,Perlenbacher Maltos Whisky Malt,2431,Privatbrauerei Eichbaum GmbH & Co. KG,1,3.19
+1235,9.50,151745,https://www.beeradvocate.com/beer/profile/30501/151745/,General Scott,30501,Flatrock Brewing Company,1,4.19
+1236,7.00,273858,https://www.beeradvocate.com/beer/profile/37298/273858/,Wee Heavy,37298,Huff Brewing Co.,1,4.06
+1237,10.30,46530,https://www.beeradvocate.com/beer/profile/4712/46530/,Bonnie Jean's Scottish Ale,4712,The Brewhouse,1,3.82
+1238,4.40,276931,https://www.beeradvocate.com/beer/profile/48384/276931/,Exchange Student,48384,IBU Brewery,1,3.65
+1239,7.70,257987,https://www.beeradvocate.com/beer/profile/34220/257987/,Scotch Ale/Wee Heavy,34220,The Lost Borough Brewing Co.,1,2.5
+1240,9.00,269252,https://www.beeradvocate.com/beer/profile/40580/269252/,Strong Scotch Ale,40580,Hopping Gnome Brewing,1,2.96
+1241,12.70,323780,https://www.beeradvocate.com/beer/profile/41833/323780/,Pareto 2017 (Whisky Barrel-Aged),41833,Sori Brewing,1,3.94
+1242,9.50,328647,https://www.beeradvocate.com/beer/profile/39756/328647/,Barrel Aged Big Yin,39756,Alluvial Brewing Company,1,4
+1243, ? ,164807,https://www.beeradvocate.com/beer/profile/28183/164807/,St. Andrew Scotch Ale,28183,All Saints Brewing Company,1,3.73
+1244,6.70,143304,https://www.beeradvocate.com/beer/profile/3721/143304/,Scotch Ale,3721,Gambrinus,1,3.6
+1245,9.10,319689,https://www.beeradvocate.com/beer/profile/39160/319689/,Beam Me Up,39160,Brew Detroit,1,3.87
+1246,6.50,322249,https://www.beeradvocate.com/beer/profile/46928/322249/,Sang de Gobelin - La Vermine,46928,Domaine Berthiaume Microbrasserie,1,2.9
+1247,8.30,69834,https://www.beeradvocate.com/beer/profile/13524/69834/,"South ""O"" Scottish",13524,Oceanside Ale Works,1,3.53
+1248,9.20,308426,https://www.beeradvocate.com/beer/profile/789/308426/,Elderberry Scotch Ale,789,Sand Creek Brewing Company,1,3.95
+1249,8.70,324554,https://www.beeradvocate.com/beer/profile/1788/324554/,Cailleach Bheur,1788,Flying Goose Brew Pub & Grille,1,4.9
+1250,7.50,281803,https://www.beeradvocate.com/beer/profile/287/281803/,Larry's Latest Scotch Ale,287,Bell's Brewery - Eccentric Café & General Store,1,3.67
+1251,9.40,256459,https://www.beeradvocate.com/beer/profile/39841/256459/,Alstaerk,39841,Munkebo Mikrobryg,1,4.12
+1252, ? ,141004,https://www.beeradvocate.com/beer/profile/949/141004/,Bourbon Barrel Aged Wee Heavy,949,Stone Arch Brew House,1,4
+1253,8.50,272589,https://www.beeradvocate.com/beer/profile/20672/272589/,Chocolate Cherry Muckle,20672,Sun King Brewing Company,1,3.89
+1254, ? ,50125,https://www.beeradvocate.com/beer/profile/16234/50125/,High Street Wee Heavy,16234,Rudder's Seafood Restaurant & Brew Pub,1,4
+1255,9.60,331214,https://www.beeradvocate.com/beer/profile/34777/331214/,Wee Heavy,34777,Hopsters,1,3.68
+1256, ? ,284622,https://www.beeradvocate.com/beer/profile/49316/284622/,Scottish Wee Heavy,49316,Bedlam Brewing,1,3.69
+1257,9.00,334799,https://www.beeradvocate.com/beer/profile/43220/334799/,Thesis III,43220,Three Rings Brewery,1,4
+1258, ? ,7887,https://www.beeradvocate.com/beer/profile/3196/7887/,Northwinds Winter Ale,3196,Flat Branch Pub & Brewery,1,3.55
+1259,7.80,211407,https://www.beeradvocate.com/beer/profile/17020/211407/,Wee Heavy,17020,Microbrasserie Le Corsaire,1,3.77
+1260,7.80,281295,https://www.beeradvocate.com/beer/profile/702/281295/,MacBison Scotch Ale,702,Flying Bison Brewing Company,1,3.75
+1261,10.00,308431,https://www.beeradvocate.com/beer/profile/48463/308431/,Braveheart,48463,Crooked Run Central,1,3.75
+1262,6.30,238033,https://www.beeradvocate.com/beer/profile/26367/238033/,30 Year Old's Scotch Ale,26367,8th Street Ale Haus,1,3.75
+1263,6.00,46801,https://www.beeradvocate.com/beer/profile/10889/46801/,Malcomson's Scotch Ale,10889,Fort Street Brewery,1,3.83
+1264,10.00,252369,https://www.beeradvocate.com/beer/profile/18003/252369/,Série Boisée - Carrick En Fûts De Rhum,18003,Microbrasserie Le Naufrageur,1,4.35
+1265,7.50,203730,https://www.beeradvocate.com/beer/profile/39227/203730/,Stirling Bridge,39227,Bakunin Beer Cafe & Boutique,1,3.62
+1266,8.50,317138,https://www.beeradvocate.com/beer/profile/48821/317138/,Scotchy Scotch Scotch Ale,48821,HeadFlyer Brewing,1,3.75
+1267,6.75,215251,https://www.beeradvocate.com/beer/profile/33345/215251/,Highlands Wee Heavy,33345,Sockeye Brewing,1,3
+1268,7.50,272596,https://www.beeradvocate.com/beer/profile/40350/272596/,Wee Heavy Scotch Ale,40350,Haliburton Highlands Brewing,1,4.25
+1269,6.50,328405,https://www.beeradvocate.com/beer/profile/36015/328405/,Cardinal Red,36015,Greenbrier Valley Brewing Co,1,3.79
+1270,9.10,218326,https://www.beeradvocate.com/beer/profile/42541/218326/,Little Lion,42541,Quattro Goomba's Brewery,1,3.73
+1271,7.80,293846,https://www.beeradvocate.com/beer/profile/37649/293846/,McClellan Wee Heavy Scotch Ale,37649,Cheaha Brewing Company,1,4.85
+1272,7.20,74199,https://www.beeradvocate.com/beer/profile/19726/74199/,MacLean's Scotch Ale,19726,MacLean's Ales Brewing,1,3.5
+1273,10.50,221144,https://www.beeradvocate.com/beer/profile/39089/221144/,Peaty McPete Scotch Ale,39089,Tomoka Brewing Co.,1,4.48
+1274,9.00,66009,https://www.beeradvocate.com/beer/profile/24828/66009/,Scotch Ale,24828,Jaden James Brewery,1,1.81
+1275,7.40,10970,https://www.beeradvocate.com/beer/profile/3797/10970/,Scotch Ale,3797,Second Street Brewery,1,4.89
+1276,7.50,170459,https://www.beeradvocate.com/beer/profile/3724/170459/,Kilt,3724,La Memphré Microbrasserie,1,3.25
+1277, ? ,47323,https://www.beeradvocate.com/beer/profile/4237/47323/,Wee Bit Scotch Ale,4237,Blue Cat Brew Pub,1,3.88
+1278,8.00,303324,https://www.beeradvocate.com/beer/profile/18003/303324/,Carrick Cognac,18003,Microbrasserie Le Naufrageur,1,4.1
+1279,6.90,248796,https://www.beeradvocate.com/beer/profile/764/248796/,Scotch Ale,764,Blue Point Brewing Company,1,3.94
+1280,7.50,316892,https://www.beeradvocate.com/beer/profile/29854/316892/,Genesee Brew House Toasted Almond Scotch Ale,29854,Genesee Brew House,1,3.99
+1281,8.50,244445,https://www.beeradvocate.com/beer/profile/26942/244445/,Clown Smile,26942,Cervecería Jack,1,4.25
+1282,10.90,302302,https://www.beeradvocate.com/beer/profile/10453/302302/,Barrel Aged Wee Heavy,10453,Wylam Brewery,1,3.75
+1283,9.00,252382,https://www.beeradvocate.com/beer/profile/25775/252382/,Oud Trinqueur,25775,Brasseurs Du Monde,1,3.47
+1284,8.00,192479,https://www.beeradvocate.com/beer/profile/29329/192479/,Glasgow Kiss Scotch Ale,29329,Burnt City Brewing,1,3.78
+1285, ? ,9441,https://www.beeradvocate.com/beer/profile/1050/9441/,Highlander Scotch Ale,1050,Vine Park Brewing Co.,1,3.82
+1286,7.70,272866,https://www.beeradvocate.com/beer/profile/45985/272866/,B. MacKaye's Hell Raisin' Scotch Ale,45985,Blue Blaze Brewing Co.,1,3.36
+1287,6.50,291554,https://www.beeradvocate.com/beer/profile/46763/291554/,Greyfriars Bobby Ale,46763,Big Cat Brewing Company,1,3.85
+1288,8.90,259298,https://www.beeradvocate.com/beer/profile/47648/259298/,Warm And Fuzzy,47648,Sugar Hill Brewing Company,1,4.13
+1289, ? ,277987,https://www.beeradvocate.com/beer/profile/47537/277987/,Seamus,47537,St. Elmo Brewing Co.,1,4.06
+1290,8.00,306915,https://www.beeradvocate.com/beer/profile/48683/306915/,Wee Heavy,48683,Island City Brewing Company,1,3.73
+1291,4.50,130787,https://www.beeradvocate.com/beer/profile/16285/130787/,Plaid Ferret - Barrel Aged,16285,Weasel Boy Brewing Company,1,3.5
+1292,9.30,241892,https://www.beeradvocate.com/beer/profile/96/241892/,Barrel Aged Wee Heavy Champ,96,Magic Hat Brewing Company,1,3.77
+1293,6.50,128228,https://www.beeradvocate.com/beer/profile/1916/128228/,Bacon Cold Smoke,1916,KettleHouse Brewing Co. (Southside Taproom),1,3
+1294, ? ,176613,https://www.beeradvocate.com/beer/profile/3835/176613/,Highlands,3835,Drake's Brewing Co.,1,4
+1295,8.30,320741,https://www.beeradvocate.com/beer/profile/25800/320741/,Pritchard's Tennessee Whiskey Barrel Aged Colin's Wee Heavy Scotch Ale,25800,The Wrecking Bar Brewpub,1,3.83
+1296, ? ,323557,https://www.beeradvocate.com/beer/profile/46813/323557/,Barrel Aged Black Magic,46813,Barebottle Brewing Company,1,4.27
+1297,7.80,291814,https://www.beeradvocate.com/beer/profile/43126/291814/,Wee Heavy Scotch Ale,43126,10K Brewing,1,3.5
+1298, ? ,195558,https://www.beeradvocate.com/beer/profile/3396/195558/,Wee Heavy,3396,Bridge Of Allan Brewery Ltd,1,3.64
+1299,9.50,220391,https://www.beeradvocate.com/beer/profile/27276/220391/,Kilty As Charged,27276,Riley's Brewing Company,1,3.26
+1300,6.00,321767,https://www.beeradvocate.com/beer/profile/49200/321767/,Scottish Moor,49200,Black Hoof Brewing Co.,1,3.68
+1301,10.30,269032,https://www.beeradvocate.com/beer/profile/29757/269032/,La Fée Peaty,29757,The Hourglass Brewery,1,3.58
+1302,8.00,270313,https://www.beeradvocate.com/beer/profile/48479/270313/,Wee Heavy,48479,Hop Hill Brewing Co.,1,3.69
+1303,5.40,120809,https://www.beeradvocate.com/beer/profile/28091/120809/,Collabro-what?,28091,Free Will Brewing Co.,1,3.5
+1304,7.00,319209,https://www.beeradvocate.com/beer/profile/49127/319209/,Eye of the Whale,49127,Moby Dick Brewing Company,1,3.96
+1305, ? ,47594,https://www.beeradvocate.com/beer/profile/2470/47594/,Ringneck Olde Particular,2470,The Brew Kettle Taproom & Smokehouse / Production Works,1,3.16
+1306,7.10,282091,https://www.beeradvocate.com/beer/profile/43085/282091/,Snashter Bez,43085,Brewyard Beer Company,1,3.74
+1307,6.80,134124,https://www.beeradvocate.com/beer/profile/29911/134124/,Dark Matter,29911,Ol' Republic Brewery,1,4.25
+1308,8.80,219628,https://www.beeradvocate.com/beer/profile/24529/219628/,Db's,24529,Black Tooth Brewing Company,1,3.75
+1309,8.20,285164,https://www.beeradvocate.com/beer/profile/44554/285164/,Resurrection Stone Wee Heavy,44554,Airline Brewing Company,1,3.99
+1310,7.50,162028,https://www.beeradvocate.com/beer/profile/27768/162028/,Wee Willies Wee Heavy,27768,Lone Tree Brewing Company,1,4.18
+1311,8.20,218605,https://www.beeradvocate.com/beer/profile/37551/218605/,Tranquility Scotch Ale,37551,Gibb's Hundred Brewing Co.,1,4.18
+1312,7.80,286445,https://www.beeradvocate.com/beer/profile/16868/286445/,Sour Cherry Scotch Ale,16868,Tamarack Brewing Company,1,4.08
+1313,5.00,167661,https://www.beeradvocate.com/beer/profile/34000/167661/,Cold Creek Scottish,34000,Canyon Creek Brewing,1,4
+1314,5.30,310509,https://www.beeradvocate.com/beer/profile/20672/310509/,Coffee Wee Mac,20672,Sun King Brewing Company,1,3.64
+1315,8.90,258285,https://www.beeradvocate.com/beer/profile/45891/258285/,Manley's Wee Heavy,45891,Roundhouse Brewery,1,3.22
+1316,7.50,325873,https://www.beeradvocate.com/beer/profile/14967/325873/,Maple Bacon Bancreagie,14967,Brau Brothers Brewing Co. LLC,1,4.24
+1317,9.00,283890,https://www.beeradvocate.com/beer/profile/47023/283890/,Drunken Unicorn Bourbon Barrel Aged Scottish Ale,47023,Donum Dei Brewery,1,3.72
+1318,8.90,311795,https://www.beeradvocate.com/beer/profile/28281/311795/,Barrel Aged Wee Heavy,28281,Kulshan Brewing Company,1,4.21
+1319,9.20,68596,https://www.beeradvocate.com/beer/profile/25432/68596/,Bagpipe Ale,25432,Cosmic Brewery,1,3.5
+1320,7.30,220660,https://www.beeradvocate.com/beer/profile/30467/220660/,Scotch Ale,30467,Walkerville Brewery,1,4
+1321, ? ,295156,https://www.beeradvocate.com/beer/profile/20/295156/,Barrel Aged Winter Ale,20,Wachusett Brewing Company,1,4.05
+1322,9.50,336117,https://www.beeradvocate.com/beer/profile/36484/336117/,Crabbin' on the Beach,36484,Oliphant Brewing,1,4.09
+1323,4.80,227573,https://www.beeradvocate.com/beer/profile/45303/227573/,Barrel Aged Scotch,45303,White Dog Brewing,1,4
+1324,7.80,293365,https://www.beeradvocate.com/beer/profile/42322/293365/,Kilt Smack Wee Heavy,42322,Bottomless Brewing,1,3.99
+1325,9.30,104693,https://www.beeradvocate.com/beer/profile/18591/104693/,Scotty's Full Power Scotch Ale,18591,Blue Tractor BBQ & Brewery,1,3.83
+1326,6.90,238837,https://www.beeradvocate.com/beer/profile/29923/238837/,Brothers Scotch Ale,29923,Northbound Brewpub,1,3.55
+1327,7.80,316917,https://www.beeradvocate.com/beer/profile/29854/316917/,Genesee Brew House Keg Tree Ale,29854,Genesee Brew House,1,2.85
+1328,13.20,339446,https://www.beeradvocate.com/beer/profile/43889/339446/,Viking Club No. 7 : Bourbon Whiskey Aged Wee Heavy,43889,Mikkeller Brewing San Diego,1,4
+1329,5.80,216822,https://www.beeradvocate.com/beer/profile/32460/216822/,The Highlander,32460,Iron Hill Brewery & Restaurant,1,3.62
+1330,8.70,315895,https://www.beeradvocate.com/beer/profile/41818/315895/,Wee heavy metal,41818,Hutton & Smith Brewing Company,1,4.5
+1331,7.50,201976,https://www.beeradvocate.com/beer/profile/705/201976/,Wee Heavy,705,Union Station Brewery,1,3.99
+1332,8.00,307960,https://www.beeradvocate.com/beer/profile/35210/307960/,Two Pints of Heavy,35210,MacLeod Ale Brewing Company,1,4
+1333,11.00,317176,https://www.beeradvocate.com/beer/profile/29162/317176/,Father Figure,29162,Pig Minds Brewing Co.,1,3.75
+1334,7.00,326649,https://www.beeradvocate.com/beer/profile/24659/326649/,The Majestic Stag,24659,La Cumbre Brewing Co.,1,3.44
+1335,8.40,331514,https://www.beeradvocate.com/beer/profile/43566/331514/,Scotch Crow,43566,Velka Morava,1,3.47
+1336,7.00,278010,https://www.beeradvocate.com/beer/profile/36855/278010/,Wee Heavy,36855,2 Witches Winery & Brewing Co.,1,3.68
+1337,8.00,40698,https://www.beeradvocate.com/beer/profile/479/40698/,Watneys Scotch Ale,479,Truman's,1,3.45
+1338,9.00,173306,https://www.beeradvocate.com/beer/profile/30967/173306/,Wallace Mc’Gave,30967,Triptych Brewing,1,3.8
+1339,7.20,311546,https://www.beeradvocate.com/beer/profile/43391/311546/,Russell's Reserve Smoked Scotch Ale,43391,Beehive Basin Brewery,1,4.38
+1340, ? ,121594,https://www.beeradvocate.com/beer/profile/11341/121594/,Bourbon Barrel Scotch Ale,11341,Hideout Brewing Company,1,1.5
+1341,7.50,338427,https://www.beeradvocate.com/beer/profile/29962/338427/,Stone of Destiny,29962,Shenandoah Valley Brewing Co.,1,4.1
+1342, ? ,158715,https://www.beeradvocate.com/beer/profile/9282/158715/,Boscos Wee Heavy,9282,Boscos Restaurant & Brewing Co.,1,3.31
+1343,13.80,325883,https://www.beeradvocate.com/beer/profile/31995/325883/,Islay Night Whale,31995,Rhinegeist Brewery,1,4
+1344,3.75,229886,https://www.beeradvocate.com/beer/profile/37328/229886/,Under The Kilt,37328,Minglewood Brewery,1,3.55
+1345,7.20,332031,https://www.beeradvocate.com/beer/profile/41599/332031/,Northbound Train,41599,Newgrass Brewing Company,1,4.03
+1346,11.00,311551,https://www.beeradvocate.com/beer/profile/28991/311551/,The Old Order 10,28991,Solemn Oath Brewery,1,4.22
+1347,8.10,153344,https://www.beeradvocate.com/beer/profile/38365/153344/,Gimble's Blood,38365,Cademon Brewing,0,0
+1348,7.80,324864,https://www.beeradvocate.com/beer/profile/46661/324864/,Wee Heavy,46661,Maxline Brewing,0,0
+1349,7.40,279809,https://www.beeradvocate.com/beer/profile/43524/279809/,Draconian Scotch Heavy Ale,43524,Trubble Brewing,0,0
+1350,7.00,329477,https://www.beeradvocate.com/beer/profile/51987/329477/,Bob 13,51987,Birrificio Gambolò,0,0
+1351,7.00,310534,https://www.beeradvocate.com/beer/profile/38293/310534/,Wetterskog's Kilt Trip,38293,Outer Light Brewing Company,0,0
+1352,8.00,199945,https://www.beeradvocate.com/beer/profile/3724/199945/,Scotch Ale,3724,La Memphré Microbrasserie,0,0
+1353,8.20,318729,https://www.beeradvocate.com/beer/profile/29546/318729/,Barrel Aged Wee Heavy,29546,HiJinx Brewing Company,0,0
+1354,6.80,217610,https://www.beeradvocate.com/beer/profile/44347/217610/,Edinburgh Scotch Ale,44347,The Firkin Brewhouse,0,0
+1355,9.30,231946,https://www.beeradvocate.com/beer/profile/42227/231946/,Sir William Strong Scotch Ale,42227,Noble Jay Brewing Company,0,0
+1356,9.60,177418,https://www.beeradvocate.com/beer/profile/32084/177418/,Scotch Ale,32084,Narrows Brewing Co.,0,0
+1357,8.00,318731,https://www.beeradvocate.com/beer/profile/29546/318731/,Doodlesack,29546,HiJinx Brewing Company,0,0
+1358,9.40,225552,https://www.beeradvocate.com/beer/profile/34159/225552/,Wee Heavy,34159,JDub's Brewing Company,0,0
+1359,8.30,304912,https://www.beeradvocate.com/beer/profile/48797/304912/,1000 Yard Stare Scotch Ale,48797,Peacemaker Brewing Company,0,0
+1360,7.90,129299,https://www.beeradvocate.com/beer/profile/2972/129299/,Claymore Scotch Ale,2972,Mountain Sun Pub & Brewery,0,0
+1361,8.40,290326,https://www.beeradvocate.com/beer/profile/43693/290326/,Scotch Ale,43693,Tomfoolery Brewing Company,0,0
+1362,8.30,302102,https://www.beeradvocate.com/beer/profile/50467/302102/,Sea Hag,50467,Rustic Leaf Brewing Company,0,0
+1363,7.20,214298,https://www.beeradvocate.com/beer/profile/35992/214298/,Bampot,35992,Brew Hub,0,0
+1364, ? ,175135,https://www.beeradvocate.com/beer/profile/40295/175135/,Allen's Mill,40295,Hôtel Roquemont,0,0
+1365,7.00,335392,https://www.beeradvocate.com/beer/profile/51830/335392/,Knuckle Dragger,51830,Deuces Wild Brewery,0,0
+1366,7.60,314656,https://www.beeradvocate.com/beer/profile/48939/314656/,Great Scotch,48939,Hysteria Brewing Company,0,0
+1367,7.40,253984,https://www.beeradvocate.com/beer/profile/24659/253984/,Caber Tosser,24659,La Cumbre Brewing Co.,0,0
+1368,8.50,152357,https://www.beeradvocate.com/beer/profile/32696/152357/,The Tilted Lion,32696,Hop Alley Brew Pub,0,0
+1369,8.30,284453,https://www.beeradvocate.com/beer/profile/36757/284453/,Scotch Ale,36757,DESTIHL Brewery,0,0
+1370,10.10,314406,https://www.beeradvocate.com/beer/profile/41849/314406/,Bourbon Barrel Parade,41849,The Virginia Beer Company,0,0
+1371,8.50,228135,https://www.beeradvocate.com/beer/profile/45395/228135/,Scotch Ale,45395,Cerveja Artesanal Burguesa,0,0
+1372,7.50,212776,https://www.beeradvocate.com/beer/profile/27241/212776/,Scotch Ale,27241,Blue Lab Brewing Company,0,0
+1373,9.50,212777,https://www.beeradvocate.com/beer/profile/27241/212777/,Bourbon Barrel Scotch Ale,27241,Blue Lab Brewing Company,0,0
+1374,9.00,163627,https://www.beeradvocate.com/beer/profile/35268/163627/,Scotch Bourbon,35268,HopEra,0,0
+1375,11.00,236587,https://www.beeradvocate.com/beer/profile/46134/236587/,Highland Diesel Scotch Ale,46134,Rip Van Winkle Brewing Co. / Angela's Italian Bistro,0,0
+1376,9.30,152878,https://www.beeradvocate.com/beer/profile/35224/152878/,Scottish Reign Wee Heavy,35224,Fifth Street Brewpub,0,0
+1377,11.00,299312,https://www.beeradvocate.com/beer/profile/1345/299312/,Wee Wee Heavy,1345,Dick's Brewing Company,0,0
+1378,7.30,335409,https://www.beeradvocate.com/beer/profile/51965/335409/,Wee Scotch Ale,51965,Angry James Brewery,0,0
+1379,10.50,306227,https://www.beeradvocate.com/beer/profile/302/306227/,Genesee Brew House Bourbon Barrel-Aged Scotch Ale,302,Genesee Brewing Co. / Dundee Brewing Co.,0,0
+1380,8.00,235573,https://www.beeradvocate.com/beer/profile/33255/235573/,Just Like Honey,33255,The Wild Rover Pub & Brewery,0,0
+1381,7.60,323637,https://www.beeradvocate.com/beer/profile/43697/323637/,B Chord Scotch Ale,43697,B Chord Brewing Company,0,0
+1382,8.90,299575,https://www.beeradvocate.com/beer/profile/4378/299575/,Lazy George,4378,Georgetown Brewing Company,0,0
+1383,6.20,237623,https://www.beeradvocate.com/beer/profile/39391/237623/,The Burgandy Stout,39391,Black Label Brewing Company,0,0
+1384,6.00,181559,https://www.beeradvocate.com/beer/profile/41477/181559/,Glasgow Butcher,41477,Crooked Ewe Brewery & Ale House,0,0
+1385,6.70,327992,https://www.beeradvocate.com/beer/profile/47087/327992/,Wee Man's Heavy,47087,Tallboy and Moose,0,0
+1386,8.00,232249,https://www.beeradvocate.com/beer/profile/18159/232249/,Scotchy Scotch Scotch,18159,Southern Brewing & Winemaking Supply,0,0
+1387,10.80,265274,https://www.beeradvocate.com/beer/profile/28608/265274/,TNT II,28608,Brewfinity Brewing Company,0,0
+1388,7.10,327227,https://www.beeradvocate.com/beer/profile/40461/327227/,Big Bad Plaid,40461,Clarion River Brewing Company,0,0
+1389,7.00,288063,https://www.beeradvocate.com/beer/profile/48490/288063/,Malt Whiskey Ale,48490,Brewery Emperial,0,0
+1390,9.50,274240,https://www.beeradvocate.com/beer/profile/28440/274240/,Libido Scotch Ale,28440,ZwanzigZ,0,0
+1391,8.70,291395,https://www.beeradvocate.com/beer/profile/20672/291395/,Granmuckle,20672,Sun King Brewing Company,0,0
+1392,8.00,226628,https://www.beeradvocate.com/beer/profile/43405/226628/,Salty Papa Crawford,43405,Grasslands Brewing Company,0,0
+1393,8.70,311879,https://www.beeradvocate.com/beer/profile/29744/311879/,Barrel Aged Heidbanger,29744,BarrelHouse Brewing Company,0,0
+1394,6.80,285769,https://www.beeradvocate.com/beer/profile/33135/285769/,Wee Heavy,33135,Brewster River Pub & Grill,0,0
+1395,5.60,253001,https://www.beeradvocate.com/beer/profile/45562/253001/,Summer Sweater,45562,Temescal Brewing,0,0
+1396,8.20,157770,https://www.beeradvocate.com/beer/profile/36381/157770/,Cherry Scotch Ale,36381,Mad Hatter Brewing,0,0
+1397,5.50,167754,https://www.beeradvocate.com/beer/profile/35943/167754/,Wee Heavy,35943,North Slope Brewing Company,0,0
+1398,7.20,65611,https://www.beeradvocate.com/beer/profile/15750/65611/,Old Reggiewig's Wee Winter Warmer,15750,Half Moon Restaurant & Brewery,0,0
+1399, ? ,175179,https://www.beeradvocate.com/beer/profile/29165/175179/,La Scotch Ale,29165,Brasserie Artisanale Le Baril Roulant,0,0
+1400,7.00,174924,https://www.beeradvocate.com/beer/profile/39051/174924/,Oswegatchie Black Scotch Ale,39051,BarkEater Craft Brewery,0,0
+1401,8.25,174925,https://www.beeradvocate.com/beer/profile/39051/174925/,Oswegatchie Wee Heavy,39051,BarkEater Craft Brewery,0,0
+1402,7.50,155470,https://www.beeradvocate.com/beer/profile/37637/155470/,#002 Scotch Ale,37637,Exit Brewing,0,0
+1403,9.00,241743,https://www.beeradvocate.com/beer/profile/42250/241743/,Haggis,42250,La Confrérie Microbrasserie,0,0
+1404,6.80,108625,https://www.beeradvocate.com/beer/profile/30809/108625/,90 Shilling,30809,Cask & Larder,0,0
+1405,9.60,336466,https://www.beeradvocate.com/beer/profile/52345/336466/,Big Nothin',52345,Blaker Brewing,0,0
+1406,8.50,280916,https://www.beeradvocate.com/beer/profile/41990/280916/,Knox Your Socks Off,41990,Windmill Brewing,0,0
+1407,8.90,243284,https://www.beeradvocate.com/beer/profile/32185/243284/,A Considerable Creature,32185,Frothy Beard Brewing Company,0,0
+1408, ? ,125268,https://www.beeradvocate.com/beer/profile/31425/125268/,Braumeister Nr.7: Scotch Strong Ale,31425,Lichtenthaler Bräu,0,0
+1409,9.00,137045,https://www.beeradvocate.com/beer/profile/11412/137045/,La Reyne Descosse Déchaînée Au Cognac,11412,Bedondaine & Bedons Ronds,0,0
+1410,8.00,248661,https://www.beeradvocate.com/beer/profile/47075/248661/,Fürst Wallis,47075,Cervejaria Fürst,0,0
+1411,10.50,228950,https://www.beeradvocate.com/beer/profile/34076/228950/,A Wee Bit More,34076,Ormond Brewing Company,0,0
+1412,9.00,215130,https://www.beeradvocate.com/beer/profile/34024/215130/,Fell The Oak,34024,Sanctum Brewing Co.,0,0
+1413,7.40,337501,https://www.beeradvocate.com/beer/profile/52396/337501/,I'll Get You There,52396,Broken Window Brewing,0,0
+1414,8.00,137056,https://www.beeradvocate.com/beer/profile/16495/137056/,La Wee Heavy,16495,À La Fût,0,0
+1415,8.00,302688,https://www.beeradvocate.com/beer/profile/43869/302688/,Cabesas En El Granizo,43869,Cabesas Bier,0,0
+1416,8.00,165474,https://www.beeradvocate.com/beer/profile/17287/165474/,Strong Scotch Ale,17287,Wedge Brewing Company,0,0
+1417,9.90,172899,https://www.beeradvocate.com/beer/profile/36260/172899/,Aupperley's A Wee Heavy,36260,Bloom Brew,0,0
+1418,8.00,187747,https://www.beeradvocate.com/beer/profile/23983/187747/,Lord Douglas En Fûts De Bourbon,23983,Brasserie Artisanale Le Saint Graal,0,0
+1419,7.80,262244,https://www.beeradvocate.com/beer/profile/47141/262244/,"Not That Heavy, Bro",47141,Mastry's Brewing Company,0,0
+1420,6.00,159588,https://www.beeradvocate.com/beer/profile/32603/159588/,Scotch Roble,32603,Cerveza Artesanal la Cruz,0,0
+1421,7.30,165221,https://www.beeradvocate.com/beer/profile/38438/165221/,Dweller On The Threshold,38438,Deep Creek Brewing Co.,0,0
+1422,5.80,298085,https://www.beeradvocate.com/beer/profile/38100/298085/,Wild Turkey Bourbon Barrel-Aged Kilty MacSporran,38100,Postdoc Brewing,0,0
+1423,7.50,337767,https://www.beeradvocate.com/beer/profile/51692/337767/,Scotch Ale,51692,Fury & Son,0,0
+1424,8.50,228711,https://www.beeradvocate.com/beer/profile/36485/228711/,Bubba Wee Heavy,36485,Orchid Island Brewing,0,0
+1425,5.30,234087,https://www.beeradvocate.com/beer/profile/38096/234087/,Scotch Wee Heavy,38096,Stilt House Brewery,0,0
+1426,8.40,247912,https://www.beeradvocate.com/beer/profile/46195/247912/,Tiny Giant Wee Heavy Scottish,46195,Enchanted Circle Brewing Co.,0,0
+1427,4.40,258152,https://www.beeradvocate.com/beer/profile/40999/258152/,Scottish Export Ale,40999,Towerhill Brewery,0,0
+1428,10.00,315241,https://www.beeradvocate.com/beer/profile/37611/315241/,Cameron Takes A Wee Nip - Bourbon Barrel-Aged,37611,Farmington Brewing Company,0,0
+1429,6.50,289899,https://www.beeradvocate.com/beer/profile/46981/289899/,Winter Burr,46981,Four Pines Brewing Company,0,0
+1430,9.00,306027,https://www.beeradvocate.com/beer/profile/48641/306027/,Bourbon Oak,48641,Cerveza Bizarra,0,0
+1431,6.50,247147,https://www.beeradvocate.com/beer/profile/42109/247147/,Scottish Acclamation,42109,Third Monk Brewing Company,0,0
+1432,5.96,236908,https://www.beeradvocate.com/beer/profile/46196/236908/,Wee Heavy,46196,San Gabriel River Brewing Company,0,0
+1433, ? ,298861,https://www.beeradvocate.com/beer/profile/32897/298861/,5 A.M. Scotch,32897,Bad Jimmy's Brewing Co.,0,0
+1434,13.00,298862,https://www.beeradvocate.com/beer/profile/32897/298862/,Barrel Aged Scotch,32897,Bad Jimmy's Brewing Co.,0,0
+1435,9.50,187759,https://www.beeradvocate.com/beer/profile/15732/187759/,Sweet Jesus Bourbon,15732,Le Saint-Bock,0,0
+1436,6.70,298865,https://www.beeradvocate.com/beer/profile/32897/298865/,Big Sipper Scotch Ale,32897,Bad Jimmy's Brewing Co.,0,0
+1437,7.50,317041,https://www.beeradvocate.com/beer/profile/43439/317041/,Highlander Scottish Winter Ale,43439,Missoula Brewing Co.,0,0
+1438,7.40,157810,https://www.beeradvocate.com/beer/profile/35329/157810/,Uppercut,35329,Jaws Brewery,0,0
+1439, ? ,202355,https://www.beeradvocate.com/beer/profile/38284/202355/,Smokey Mezcal Cardamom Scotch Ale,38284,Kilowatt Brewing,0,0
+1440,8.50,150131,https://www.beeradvocate.com/beer/profile/1135/150131/,Highland Hugh,1135,"Franklin's Restaurant, Brewery & General Store",0,0
+1441,8.00,239736,https://www.beeradvocate.com/beer/profile/44725/239736/,Belfast,44725,Taplands,0,0
+1442,5.70,314744,https://www.beeradvocate.com/beer/profile/46941/314744/,Yarmouth,46941,Arkane Aleworks,0,0
+1443,6.90,331897,https://www.beeradvocate.com/beer/profile/17089/331897/,Broken Rib,17089,Ben's Brewing Co.,0,0
+1444,9.00,278905,https://www.beeradvocate.com/beer/profile/41497/278905/,Wee Bit Left,41497,Metazoa Brewing Company,0,0
+1445,7.00,142460,https://www.beeradvocate.com/beer/profile/20864/142460/,Ægir Gævle Wee Heavy Barrel,20864,Ægir Bryggeri,0,0
+1446,6.10,304508,https://www.beeradvocate.com/beer/profile/50590/304508/,Scotch Ale,50590,Dakota Territory Brewing Company,0,0
+1447, ? ,204157,https://www.beeradvocate.com/beer/profile/4013/204157/,Deep Lake,4013,Glenwood Canyon Brewing / Canyon Brew Pub,0,0
+1448,9.80,200834,https://www.beeradvocate.com/beer/profile/43181/200834/,Edna's Scottish Exchange,43181,Strong Rope Brewery,0,0
+1449, ? ,297092,https://www.beeradvocate.com/beer/profile/49734/297092/,Smoke Shack,49734,Remedy Brewing Company,0,0
+1450,7.20,341381,https://www.beeradvocate.com/beer/profile/52595/341381/,Peacemaker,52595,Birrificio La Casa Di Cura,0,0
+1451,7.30,29318,https://www.beeradvocate.com/beer/profile/179/29318/,St. Marty's Choice,179,Snake River Brewing Company & Brewpub,0,0
+1452,7.20,324230,https://www.beeradvocate.com/beer/profile/48378/324230/,Keg Lifter,48378,Wort Hog Brewing Company,0,0
+1453,8.50,329095,https://www.beeradvocate.com/beer/profile/40656/329095/,Darkened Heart,40656,Caboose Brewing Co.,0,0
+1454,6.00,330375,https://www.beeradvocate.com/beer/profile/40659/330375/,Brune 49,40659,Brasserie Artisanale La Manivelle,0,0
+1455,8.00,201351,https://www.beeradvocate.com/beer/profile/35341/201351/,Pwned,35341,Clandestine Brewing Company,0,0
+1456,8.20,224647,https://www.beeradvocate.com/beer/profile/31704/224647/,Cucurbita Maxima,31704,Agrarian Ales,0,0
+1457,7.00,238984,https://www.beeradvocate.com/beer/profile/2217/238984/,La Scotch Ale,2217,L'Inox,0,0
+1458,7.60,339339,https://www.beeradvocate.com/beer/profile/49413/339339/,Nearly Kilt Me,49413,Cueni Brewing Co,0,0
+1459,11.00,261771,https://www.beeradvocate.com/beer/profile/46190/261771/,Pig Iron Scotsman's Wife,46190,Pig Iron Brewing Co,0,0
+1460,10.00,335501,https://www.beeradvocate.com/beer/profile/36130/335501/,Barrel Aged Wee Bit Foggy,36130,Mark Twain Brewing Co. / Moses Bates Public House,0,0
+1461, ? ,214159,https://www.beeradvocate.com/beer/profile/21340/214159/,Stone Of Scone Scotch Ale,21340,Great Dane Pub & Brewing Company (Wausau),0,0
+1462,6.10,287633,https://www.beeradvocate.com/beer/profile/43220/287633/,Broadsword,43220,Three Rings Brewery,0,0
+1463,9.20,304529,https://www.beeradvocate.com/beer/profile/47170/304529/,Scotch Ale,47170,Floating Bridge Brewing,0,0
+1464, ? ,159634,https://www.beeradvocate.com/beer/profile/38228/159634/,The Mula Scotch Ale,38228,The Mula Cervezas Especiales,0,0
+1465, ? ,218515,https://www.beeradvocate.com/beer/profile/44266/218515/,Scotch Ale,44266,White Elm Brewing Company,0,0
+1466,8.20,333972,https://www.beeradvocate.com/beer/profile/48056/333972/,Copper Scotty,48056,Copper Trail Brewing Co.,0,0
+1467,6.60,29332,https://www.beeradvocate.com/beer/profile/377/29332/,Strong Scotch Ale,377,Glacier Brewhouse,0,0
+1468,8.80,319125,https://www.beeradvocate.com/beer/profile/47170/319125/,Lionbridge Scottish Wee Heavy,47170,Floating Bridge Brewing,0,0
+1469,7.80,339610,https://www.beeradvocate.com/beer/profile/47142/339610/,"Not That Heavy, Bro",47142,Mastry's Brewing Co - Brewpub / CD Roma's Restaurant,0,0
+1470,8.00,281754,https://www.beeradvocate.com/beer/profile/31138/281754/,Hot Scotch,31138,Boring Brewing Co,0,0
+1471,7.40,325019,https://www.beeradvocate.com/beer/profile/51609/325019/,Patterson Wee Heavy,51609,Idyllwild Brewpub,0,0
+1472,9.50,212892,https://www.beeradvocate.com/beer/profile/42539/212892/,Wee Heavy Sweater Puppies,42539,Tunnel Vision Brewery at Pond Hill Farm,0,0
+1473, ? ,213149,https://www.beeradvocate.com/beer/profile/29517/213149/,Lacroix,29517,Noire & Blanche,0,0
+1474,8.00,281757,https://www.beeradvocate.com/beer/profile/42622/281757/,Wee Heavy,42622,Conversion Brewing,0,0
+1475,8.20,326557,https://www.beeradvocate.com/beer/profile/51860/326557/,Through Brew,51860,Tall Poppy Brewing Company,0,0
+1476,6.20,224926,https://www.beeradvocate.com/beer/profile/9863/224926/,St. Columba's Bog Scottish Export Ale,9863,Brewsters Brewing Company & Restaurant - Eleventh Avenue,0,0
+1477,7.00,232094,https://www.beeradvocate.com/beer/profile/3749/232094/,Wee Heavy,3749,Seven Bridges Grille And Brewery,0,0
+1478,7.30,98977,https://www.beeradvocate.com/beer/profile/30241/98977/,Warrensville Wee-Heavy,30241,Boondocks Brewing Tap Room & Restaurant,0,0
+1479,5.80,105377,https://www.beeradvocate.com/beer/profile/31362/105377/,Ruddy Lad,31362,Strong Arm Brewing,0,0
+1480,8.50,233378,https://www.beeradvocate.com/beer/profile/43097/233378/,Big T's Wee,43097,Big Thompson Brewery,0,0
+1481, ? ,309669,https://www.beeradvocate.com/beer/profile/45479/309669/,Smiggy's Wee Heavy,45479,Hopkins Ordinary Bed & Breakfast + Ale Works,0,0
+1482,10.00,182438,https://www.beeradvocate.com/beer/profile/1475/182438/,Barrel-Aged MacLaughlin's Scotch Ale,1475,Maumee Bay Brewing Company,0,0
+1483,8.00,219047,https://www.beeradvocate.com/beer/profile/44556/219047/,L'énigmatic,44556,Les Maltcommodes,0,0
+1484,7.40,198569,https://www.beeradvocate.com/beer/profile/4410/198569/,Scotch Ale,4410,Backstreet Brewery / Lamppost Pizza,0,0
+1485,8.20,215979,https://www.beeradvocate.com/beer/profile/36336/215979/,Wee-Heavy,36336,North River Hops and Brewing,0,0
+1486,9.50,151212,https://www.beeradvocate.com/beer/profile/5275/151212/,Tombrocker,5275,Front Street Brewery,0,0
+1487,8.40,249773,https://www.beeradvocate.com/beer/profile/36725/249773/,Key Brith,36725,Spotted Dog Brewery,0,0
+1488,10.40,100526,https://www.beeradvocate.com/beer/profile/24847/100526/,A Wee Bit Heavier,24847,Lake Bluff Brewing Company,0,0
+1489,8.30,333488,https://www.beeradvocate.com/beer/profile/50785/333488/,Good Mother Maggie,50785,Untold Brewing,0,0
+1490,7.00,232624,https://www.beeradvocate.com/beer/profile/18159/232624/,Under Kilt,18159,Southern Brewing & Winemaking Supply,0,0
+1491, ? ,288947,https://www.beeradvocate.com/beer/profile/49544/288947/,HARVEY'S WALLBANGIN',49544,Westallion Brewing Company,0,0
+1492,7.00,273076,https://www.beeradvocate.com/beer/profile/48674/273076/,Heather Hearth,48674,Winding Creek Brewing Co,0,0
+1493,8.00,330677,https://www.beeradvocate.com/beer/profile/43886/330677/,Scotch Ale,43886,Libushi,0,0
+1494,7.40,233142,https://www.beeradvocate.com/beer/profile/45859/233142/,Scotch Ale,45859,Blue Ghost Brewing Company,0,0
+1495, ? ,220087,https://www.beeradvocate.com/beer/profile/29165/220087/,CÈILIDH,29165,Brasserie Artisanale Le Baril Roulant,0,0
+1496,8.70,314042,https://www.beeradvocate.com/beer/profile/48542/314042/,Groundskeeper Willie's,48542,Rockwell Brewery,0,0
+1497,8.10,186554,https://www.beeradvocate.com/beer/profile/10774/186554/,Scotch Ale,10774,Micro-Brasserie Brouemont,0,0
+1498,10.70,277947,https://www.beeradvocate.com/beer/profile/34004/277947/,Macbeth,34004,Cahoots Brewing,0,0
+1499,6.50,194747,https://www.beeradvocate.com/beer/profile/42712/194747/,Mastodon,42712,Fathom & League Hop Yard Brewery,0,0
+1500,7.80,187582,https://www.beeradvocate.com/beer/profile/30019/187582/,Heavy Heart,30019,Solera Brewery,0,0
+1501,9.20,336575,https://www.beeradvocate.com/beer/profile/50520/336575/,Morag,50520,Shakopee Brewhall,0,0
+1502,6.90,305344,https://www.beeradvocate.com/beer/profile/50635/305344/,Lock & Dam #37,50635,13 Below Brewery,0,0
+1503,7.50,188097,https://www.beeradvocate.com/beer/profile/36243/188097/,Highlander,36243,Microbrasserie La Boîte à Malt,0,0
+1504,8.14,260289,https://www.beeradvocate.com/beer/profile/47205/260289/,Smokey Rob,47205,Creston Brewery,0,0
+1505, ? ,109506,https://www.beeradvocate.com/beer/profile/33635/109506/,Scotch Ale,33635,Rooftop Brewing Company,0,0
+1506,8.10,266437,https://www.beeradvocate.com/beer/profile/48292/266437/,Scotch Ale,48292,Twin Creeks Brewing,0,0
+1507,7.90,268997,https://www.beeradvocate.com/beer/profile/32280/268997/,Scotch Strong Ale,32280,Timeless Pints Brewing Company,0,0
+1508,9.50,90310,https://www.beeradvocate.com/beer/profile/14980/90310/,Three Heavy - Wee Heavy,14980,Three Barrel Brewing Co.,0,0
+1509,7.20,329927,https://www.beeradvocate.com/beer/profile/46047/329927/,Summa,46047,Cerveza Domus,0,0
+1510,6.80,165319,https://www.beeradvocate.com/beer/profile/16874/165319/,Kings Landing Scotch Ale,16874,Townshend Brewery,0,0
+1511, ? ,152264,https://www.beeradvocate.com/beer/profile/32185/152264/,Wee Heavy Scotch Ale,32185,Frothy Beard Brewing Company,0,0
+1512,10.70,230347,https://www.beeradvocate.com/beer/profile/30516/230347/,I'm Not Irish,30516,Black Bottle Brewery,0,0
+1513,7.90,331727,https://www.beeradvocate.com/beer/profile/50847/331727/,Cockness Monster,50847,Palmer Brewery and Cider House,0,0
+1514,7.70,214223,https://www.beeradvocate.com/beer/profile/44210/214223/,Furia,44210,B.A.V.,0,0
+1515, ? ,314063,https://www.beeradvocate.com/beer/profile/51091/314063/,Braver-Wee,51091,Recon Brewing,0,0
+1516,4.00,162515,https://www.beeradvocate.com/beer/profile/39442/162515/,Scottish 80 Shilling,39442,St. Nicholas Brewing Company,0,0
+1517,8.00,331733,https://www.beeradvocate.com/beer/profile/50847/331733/,Scotch Ale,50847,Palmer Brewery and Cider House,0,0
+1518,7.80,208854,https://www.beeradvocate.com/beer/profile/34205/208854/,Scotch Ale A L'erable,34205,Brasserie Générale,0,0
+1519,9.30,275672,https://www.beeradvocate.com/beer/profile/44038/275672/,Heavy Soul,44038,Birdfish Brewing Company,0,0
+1520,7.50,282840,https://www.beeradvocate.com/beer/profile/43385/282840/,Wee Mighty,43385,Optimism Brewing Company,0,0
+1521,6.40,293594,https://www.beeradvocate.com/beer/profile/2412/293594/,Highlander Ale,2412,Hereford & Hops Restaurant & Brewpub,0,0
+1522,8.40,298458,https://www.beeradvocate.com/beer/profile/34028/298458/,Weeeee! Heavy,34028,Ten Pin Brewing Co.,0,0
+1523,9.00,279004,https://www.beeradvocate.com/beer/profile/2156/279004/,Glasgow Kiss,2156,San Diego Brewing Co.,0,0
+1524,6.50,230364,https://www.beeradvocate.com/beer/profile/385/230364/,Heavy Kevy Scotch Ale,385,Midnight Sun Brewing Co.,0,0
+1525,7.80,251356,https://www.beeradvocate.com/beer/profile/41343/251356/,Woad Warrior,41343,Hop Lot Brewing Company,0,0
+1526,9.80,300253,https://www.beeradvocate.com/beer/profile/38261/300253/,Wild Willy Wee Heavy,38261,Sound to Summit Brewing,0,0
+1527,7.80,194269,https://www.beeradvocate.com/beer/profile/30450/194269/,Moonraker,30450,Gravity Brewing,0,0
+1528,7.40,185822,https://www.beeradvocate.com/beer/profile/31586/185822/,Morag,31586,Benelux Brasserie Artisanale,0,0
+1529,6.80,101855,https://www.beeradvocate.com/beer/profile/29792/101855/,Olde Ezra Wee Heavy,29792,Fairport Brewing Company,0,0
+1530,8.30,153056,https://www.beeradvocate.com/beer/profile/1154/153056/,She’s Soo Heavy (Pro-Am),1154,Willoughby Brewing,0,0
+1531,8.72,224480,https://www.beeradvocate.com/beer/profile/32660/224480/,Skull Thumper Wee Heavy,32660,Bugnutty Brewing Company,0,0
+1532,9.80,187104,https://www.beeradvocate.com/beer/profile/28362/187104/,Hedleyville En Fût De Vin Rouge,28362,Brasserie Artisanale La Souche,0,0
+1533,8.90,105441,https://www.beeradvocate.com/beer/profile/25310/105441/,Strong Scotch,25310,Valholl Brewing Co. LLC,0,0
+1534,8.00,312801,https://www.beeradvocate.com/beer/profile/48292/312801/,Wooden Tipsy Canoe,48292,Twin Creeks Brewing,0,0
+1535,7.10,204002,https://www.beeradvocate.com/beer/profile/36389/204002/,Wee Heavy Scottish Ale,36389,Dodgeton Creek Brewing Co.,0,0
+1536,10.00,268003,https://www.beeradvocate.com/beer/profile/34200/268003/,Hair Of A Different Dog,34200,Iron John's Brewing Company,0,0
+1537,9.00,235491,https://www.beeradvocate.com/beer/profile/29757/235491/,Terry's Wee Nur,29757,The Hourglass Brewery,0,0
+1538,9.00,314339,https://www.beeradvocate.com/beer/profile/39695/314339/,Barrel Aged Scotch Ale,39695,Fernson Brewing Company,0,0
+1539,11.00,312804,https://www.beeradvocate.com/beer/profile/48427/312804/,Wee Little Bitch,48427,Hammer & Forge Brewing Co.,0,0
+1540,8.40,240358,https://www.beeradvocate.com/beer/profile/46420/240358/,Scotch Ale,46420,Bill's Front Porch Pub and Brewery,0,0
+1541,7.40,328681,https://www.beeradvocate.com/beer/profile/47020/328681/,Sra. Duncan,47020,Cervezas Del Pueblo,0,0
+1542,11.00,161001,https://www.beeradvocate.com/beer/profile/39144/161001/,Wayne's Wee Heavy,39144,Down the Road Beer Co.,0,0
+1543,12.00,326633,https://www.beeradvocate.com/beer/profile/23966/326633/,Double Bourbon Barrel Wee Heavy,23966,Blue Pants Brewery,0,0
+1544,5.80,160235,https://www.beeradvocate.com/beer/profile/31256/160235/,Youngs Scotch Ale,31256,Beaten Track Brewery,0,0
+1545,4.60,249839,https://www.beeradvocate.com/beer/profile/9578/249839/,Tommy Dinkus 80 Schilling,9578,Lefty's Main Street Grille / Right Mind Brewing,0,0
+1546,6.50,236017,https://www.beeradvocate.com/beer/profile/8768/236017/,Kelso Rye Aged Scotch Ale,8768,Greenpoint Beerworks / Kelso of Brooklyn,0,0
+1547,8.00,234226,https://www.beeradvocate.com/beer/profile/38096/234226/,Oak Aged Agragation,38096,Stilt House Brewery,0,0
+1548,7.80,263158,https://www.beeradvocate.com/beer/profile/24871/263158/,Yanochik,24871,Yorkholo Brewing Co.,0,0
+1549,6.20,335608,https://www.beeradvocate.com/beer/profile/4739/335608/,Scotch Ale,4739,Moffat Station Brewery,0,0
+1550,9.20,339192,https://www.beeradvocate.com/beer/profile/50212/339192/,It's A Wee Bit Heavy,50212,Beachside Brewpub,0,0
+1551,7.50,287224,https://www.beeradvocate.com/beer/profile/4861/287224/,Scotch Connery,4861,Frankenmuth Brewery,0,0
+1552, ? ,215545,https://www.beeradvocate.com/beer/profile/35968/215545/,Misery Whip Scotch Al,35968,Old Rock Brewery,0,0
+1553,6.50,297209,https://www.beeradvocate.com/beer/profile/46655/297209/,Don't Call Me Irish,46655,Cairn Brewing,0,0
+1554,8.50,202749,https://www.beeradvocate.com/beer/profile/30982/202749/,Glory,30982,Pine Street Brewery,0,0
+1555,17.80,280830,https://www.beeradvocate.com/beer/profile/33068/280830/,Scottish Ice,33068,Boatyard Brewing Co.,0,0

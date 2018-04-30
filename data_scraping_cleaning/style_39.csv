@@ -1,0 +1,824 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,4.20,1320,https://www.beeradvocate.com/beer/profile/29/1320/,Bud Light,29,Anheuser-Busch,"6,056",1.86
+1,4.20,837,https://www.beeradvocate.com/beer/profile/306/837/,Coors Light,306,Coors Brewing Company (Molson-Coors),"5,247",2.03
+2,4.17,332,https://www.beeradvocate.com/beer/profile/105/332/,Miller Lite,105,Miller Brewing Co.,"4,652",2.19
+3,4.20,41821,https://www.beeradvocate.com/beer/profile/29/41821/,Bud Light Lime,29,Anheuser-Busch,"2,594",2.17
+4,4.20,3734,https://www.beeradvocate.com/beer/profile/29/3734/,Michelob Ultra,29,Anheuser-Busch,"2,389",1.89
+5,4.00,1503,https://www.beeradvocate.com/beer/profile/35/1503/,Sam Adams Light,35,Boston Beer Company (Samuel Adams),"2,248",3.26
+6,4.20,1524,https://www.beeradvocate.com/beer/profile/29/1524/,Natural Light,29,Anheuser-Busch,"2,161",1.7
+7,4.10,1341,https://www.beeradvocate.com/beer/profile/306/1341/,Keystone Light,306,Coors Brewing Company (Molson-Coors),"2,045",1.81
+8,4.10,233,https://www.beeradvocate.com/beer/profile/75/233/,Corona Light,75,Grupo Modelo S.A. de C.V.,"2,039",1.96
+9,6.00,76899,https://www.beeradvocate.com/beer/profile/29/76899/,Bud Light Platinum,29,Anheuser-Busch,"1,893",2.22
+10,4.10,1390,https://www.beeradvocate.com/beer/profile/29/1390/,Busch Light,29,Anheuser-Busch,"1,629",1.85
+11,3.50,436,https://www.beeradvocate.com/beer/profile/163/436/,Amstel Light,163,Amstel Brouwerij B. V.,"1,562",2.43
+12,4.30,20732,https://www.beeradvocate.com/beer/profile/29/20732/,Budweiser Select,29,Anheuser-Busch,"1,300",2.04
+13,3.80,3347,https://www.beeradvocate.com/beer/profile/182/3347/,Yuengling Light Lager,182,Yuengling Brewery,"1,095",2.84
+14,4.20,22478,https://www.beeradvocate.com/beer/profile/81/22478/,Heineken Premium Light Lager,81,Heineken Nederland B.V.,997,2.34
+15,4.30,1253,https://www.beeradvocate.com/beer/profile/29/1253/,Michelob Light,29,Anheuser-Busch,876,2.16
+16,2.80,43043,https://www.beeradvocate.com/beer/profile/105/43043/,Miller 64,105,Miller Brewing Co.,798,1.8
+17,4.10,2295,https://www.beeradvocate.com/beer/profile/105/2295/,Miller High Life Light,105,Miller Brewing Co.,741,2.23
+18,4.20,2768,https://www.beeradvocate.com/beer/profile/105/2768/,Milwaukee's Best Light,105,Miller Brewing Co.,694,1.8
+19,4.00,1823,https://www.beeradvocate.com/beer/profile/478/1823/,Labatt Blue Light,478,Labatt Brewing Company Ltd.,654,2.21
+20,2.40,52480,https://www.beeradvocate.com/beer/profile/29/52480/,Budweiser Select 55,29,Anheuser-Busch,579,1.6
+21,4.00,28001,https://www.beeradvocate.com/beer/profile/29/28001/,Michelob Ultra Amber,29,Anheuser-Busch,370,2.33
+22,3.50,3250,https://www.beeradvocate.com/beer/profile/182/3250/,Yuengling Premium Light Beer,182,Yuengling Brewery,319,2.75
+23,4.10,2639,https://www.beeradvocate.com/beer/profile/29/2639/,Michelob Golden Draft Light,29,Anheuser-Busch,311,2.39
+24,3.80,23628,https://www.beeradvocate.com/beer/profile/261/23628/,Sankaty Light,261,Cisco Brewers Inc.,291,3.45
+25,4.20,36812,https://www.beeradvocate.com/beer/profile/29/36812/,Michelob Ultra Fruit Lime Cactus,29,Anheuser-Busch,288,2.41
+26,3.90,11704,https://www.beeradvocate.com/beer/profile/57/11704/,Tecate Light,57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",284,2.26
+27,3.00,81723,https://www.beeradvocate.com/beer/profile/105/81723/,Miller Genuine Draft 64,105,Miller Brewing Co.,275,1.6
+28,3.60,855,https://www.beeradvocate.com/beer/profile/302/855/,Genny Light,302,Genesee Brewing Co. / Dundee Brewing Co.,245,2.43
+29,4.15,1633,https://www.beeradvocate.com/beer/profile/410/1633/,I.C. Light,410,Pittsburgh Brewing Co.,234,2.51
+30,4.20,154597,https://www.beeradvocate.com/beer/profile/22150/154597/,Yacht,22150,Stillwater Artisanal Ales,225,3.86
+31,3.88,2260,https://www.beeradvocate.com/beer/profile/447/2260/,Old Milwaukee Light,447,Pabst Brewing Company,223,2.49
+32,4.00,8107,https://www.beeradvocate.com/beer/profile/846/8107/,Medalla Light,846,Compañía Cervecera de Puerto Rico,212,2.81
+33,4.20,36327,https://www.beeradvocate.com/beer/profile/29/36327/,Michelob Ultra Fruit Pomegranate Raspberry,29,Anheuser-Busch,207,2.13
+34,2.30,22869,https://www.beeradvocate.com/beer/profile/32/22869/,Beck's Premier Light,32,Brauerei Beck & Co.,206,2.2
+35,3.20,5287,https://www.beeradvocate.com/beer/profile/292/5287/,Kirin Light Beer,292,"Kirin Brewery Company, Limited",195,2.22
+36,4.00,12415,https://www.beeradvocate.com/beer/profile/143/12415/,Shiner Light,143,Spoetzl Brewery / Shiner,189,3.03
+37,4.00,13769,https://www.beeradvocate.com/beer/profile/3/13769/,Light,3,Abita Brewing Co.,166,2.98
+38,3.60,17627,https://www.beeradvocate.com/beer/profile/221/17627/,Red Stripe Light,221,Desnoes & Geddes Limited,162,2.53
+39,4.50,119339,https://www.beeradvocate.com/beer/profile/26520/119339/,Framingham Lager,26520,Jack's Abby Brewing,158,3.55
+40,4.00,5583,https://www.beeradvocate.com/beer/profile/433/5583/,Molson Canadian Light,433,Molson Coors Canada,152,2.5
+41, ? ,3008,https://www.beeradvocate.com/beer/profile/32/3008/,Beck's Light,32,Brauerei Beck & Co.,150,2.23
+42,3.60,35414,https://www.beeradvocate.com/beer/profile/9629/35414/,Short's Local's Light,9629,Short's Brewing Company,149,3.37
+43,5.00,55590,https://www.beeradvocate.com/beer/profile/17856/55590/,Horny Goat Horny Blonde,17856,Horny Goat Brewing Co.,146,3.1
+44,4.19,2195,https://www.beeradvocate.com/beer/profile/447/2195/,Pabst Blue Ribbon Light,447,Pabst Brewing Company,129,2.5
+45,4.20,25694,https://www.beeradvocate.com/beer/profile/912/25694/,Presidente Light,912,Cervecería Nacional Dominicana,116,2.45
+46,4.20,138131,https://www.beeradvocate.com/beer/profile/21516/138131/,Kirkland Signature Light Beer,21516,Kirkland Signature / Costco Wholesale Corporation,116,2.53
+47,4.50,36971,https://www.beeradvocate.com/beer/profile/1819/36971/,Northern Light Lager,1819,Granite City Food & Brewery,112,2.91
+48,4.13,6969,https://www.beeradvocate.com/beer/profile/404/6969/,Dixie Jazz,404,Dixie Brewing Co.,109,2.66
+49,5.00,1248,https://www.beeradvocate.com/beer/profile/105/1248/,Southpaw Light,105,Miller Brewing Co.,108,2.31
+50,4.60,4586,https://www.beeradvocate.com/beer/profile/92/4586/,Cerveza Caguama,92,Cerveceria La Constancia S.A. / BevCo Ltd,108,2.27
+51,4.00,57405,https://www.beeradvocate.com/beer/profile/478/57405/,Labatt Blue Light Lime,478,Labatt Brewing Company Ltd.,104,2.47
+52,4.00,32918,https://www.beeradvocate.com/beer/profile/1422/32918/,Beer 30 Light,1422,Melanie Brewing Company,102,1.65
+53,5.00,16464,https://www.beeradvocate.com/beer/profile/355/16464/,San Mig Light,355,San Miguel Brewery Inc.,100,2.49
+54,4.10,17193,https://www.beeradvocate.com/beer/profile/320/17193/,Hamm's Special Light,320,Hamm's Brewing Co.,99,2.55
+55,3.80,37129,https://www.beeradvocate.com/beer/profile/213/37129/,Narragansett Light,213,Narragansett Brewing Co.,95,3.18
+56,3.82,1724,https://www.beeradvocate.com/beer/profile/447/1724/,Stroh's Light,447,Pabst Brewing Company,94,2.04
+57,3.85,1731,https://www.beeradvocate.com/beer/profile/447/1731/,Lone Star Light,447,Pabst Brewing Company,88,2.33
+58,4.00,12699,https://www.beeradvocate.com/beer/profile/415/12699/,Sleeman Clear,415,Sleeman Breweries Ltd.,86,1.81
+59,4.00,10825,https://www.beeradvocate.com/beer/profile/379/10825/,Moosehead Light,379,Moosehead Breweries Ltd.,83,2.58
+60,3.90,25010,https://www.beeradvocate.com/beer/profile/284/25010/,Sapporo Light Beer,284,Sapporo Breweries Ltd.,82,2.52
+61,3.20,62163,https://www.beeradvocate.com/beer/profile/306/62163/,George Killian's Irish Red (3.2%),306,Coors Brewing Company (Molson-Coors),79,2.71
+62,4.12,1728,https://www.beeradvocate.com/beer/profile/447/1728/,Old Style Light,447,Pabst Brewing Company,78,2.54
+63,2.80,68248,https://www.beeradvocate.com/beer/profile/105/68248/,Miller Genuine Draft Light 64 Lemonade,105,Miller Brewing Co.,76,1.76
+64,2.90,11554,https://www.beeradvocate.com/beer/profile/75/11554/,Modelo Light,75,Grupo Modelo S.A. de C.V.,73,2.21
+65,3.90,24363,https://www.beeradvocate.com/beer/profile/150/24363/,Lionshead Light,150,"Lion Brewery, Inc.",71,2.86
+66,3.90,6078,https://www.beeradvocate.com/beer/profile/431/6078/,Hudy Delight,431,Hudepohl-Schoenling Brewing Co.,69,2.81
+67,3.50,50079,https://www.beeradvocate.com/beer/profile/379/50079/,Moosehead Cracked Canoe,379,Moosehead Breweries Ltd.,68,2.7
+68,4.20,15281,https://www.beeradvocate.com/beer/profile/710/15281/,Leinenkugel's Light,710,Jacob Leinenkugel Brewing Company,66,2.65
+69,4.30,27342,https://www.beeradvocate.com/beer/profile/281/27342/,Tsingtao Draft Beer,281,"Tsingtao Brewery Co., Ltd.",65,2.55
+70,3.20,5215,https://www.beeradvocate.com/beer/profile/880/5215/,Straub American Light,880,Straub Brewery,64,3
+71,4.00,57440,https://www.beeradvocate.com/beer/profile/29/57440/,Michelob Ultra Dragon Fruit Peach,29,Anheuser-Busch,64,2.1
+72,3.80,70642,https://www.beeradvocate.com/beer/profile/410/70642/,I.C. Light Mango,410,Pittsburgh Brewing Co.,63,2.36
+73,6.10,113955,https://www.beeradvocate.com/beer/profile/478/113955/,Labatt Blue Royale Light,478,Labatt Brewing Company Ltd.,62,2.63
+74,3.00,53806,https://www.beeradvocate.com/beer/profile/433/53806/,Molson Canadian 67,433,Molson Coors Canada,62,1.89
+75,4.00,53474,https://www.beeradvocate.com/beer/profile/10707/53474/,Trader José Light Lager,10707,Trader Joe's Brewing Company,61,2.7
+76, ? ,20331,https://www.beeradvocate.com/beer/profile/10279/20331/,Opa Opa Light,10279,OPA-OPA Steakhouse & Brewery,59,3.23
+77,3.59,41822,https://www.beeradvocate.com/beer/profile/174/41822/,Rock Light,174,Latrobe Brewing Co.,58,2.16
+78, ? ,11473,https://www.beeradvocate.com/beer/profile/3260/11473/,Native Lager,3260,The Native Brewing Co.,58,3.01
+79,4.00,19475,https://www.beeradvocate.com/beer/profile/6045/19475/,Iron Hill Light Lager,6045,Iron Hill Brewery & Restaurant,57,2.89
+80,5.50,2908,https://www.beeradvocate.com/beer/profile/105/2908/,Miller Lite Ice,105,Miller Brewing Co.,57,1.87
+81,3.40,43231,https://www.beeradvocate.com/beer/profile/169/43231/,Stella Artois Light,169,Stella Artois,56,2.49
+82,4.60,20230,https://www.beeradvocate.com/beer/profile/353/20230/,Pure Blonde,353,"Carlton & United Breweries, Ltd.",55,2.34
+83,5.00,28945,https://www.beeradvocate.com/beer/profile/506/28945/,Grolsch Light Lager,506,Grolsch Bierbrouwerij N.V.,51,3.01
+84,4.00,52078,https://www.beeradvocate.com/beer/profile/379/52078/,Moosehead Light Lime,379,Moosehead Breweries Ltd.,51,2.59
+85,4.60,42289,https://www.beeradvocate.com/beer/profile/92/42289/,Pilsener 100 (Pilsener Centenario),92,Cerveceria La Constancia S.A. / BevCo Ltd,50,2.84
+86,4.00,47943,https://www.beeradvocate.com/beer/profile/415/47943/,Sleeman Light,415,Sleeman Breweries Ltd.,50,2.72
+87, ? ,5345,https://www.beeradvocate.com/beer/profile/442/5345/,Schaefer Light,442,F & M Schaefer Brewing Co.,50,2.34
+88,4.20,3026,https://www.beeradvocate.com/beer/profile/943/3026/,Mountain Light,943,Smoky Mountain Brewery & Restaurant,49,2.84
+89,4.20,76265,https://www.beeradvocate.com/beer/profile/27797/76265/,Kräftig Light,27797,William K Busch Brewing Company,48,2.99
+90,3.90,18332,https://www.beeradvocate.com/beer/profile/417/18332/,Grain Belt Premium Light,417,August Schell Brewing Company,42,2.5
+91,4.00,72401,https://www.beeradvocate.com/beer/profile/105/72401/,Miller Chill Lemon,105,Miller Brewing Co.,42,1.9
+92,3.30,24459,https://www.beeradvocate.com/beer/profile/4146/24459/,Endless Summer Light,4146,Karl Strauss Brewing Company,41,2.89
+93,4.30,121050,https://www.beeradvocate.com/beer/profile/34102/121050/,Wicked Bueno,34102,Banded Horn Brewing Co.,40,3.55
+94,3.90,217438,https://www.beeradvocate.com/beer/profile/21092/217438/,Rockdale Light,21092,World Brews,38,2.7
+95,4.00,94387,https://www.beeradvocate.com/beer/profile/782/94387/,Frio Light,782,"City Brewing Company, LLC",37,2.06
+96,4.00,101192,https://www.beeradvocate.com/beer/profile/29568/101192/,Lobo Lito,29568,Pedernales Brewing Company,36,3.2
+97,4.50,43761,https://www.beeradvocate.com/beer/profile/2281/43761/,Iceberg Beer,2281,Quidi Vidi Brewing Company,36,2.91
+98,3.20,17650,https://www.beeradvocate.com/beer/profile/1049/17650/,Southern Flyer Light Lager,1049,Big River Grille & Brewing Works,34,2.99
+99,4.00,43642,https://www.beeradvocate.com/beer/profile/16867/43642/,Jamaican Style Lager,16867,Zion Canyon Brew Pub,33,3.57
+100, ? ,10006,https://www.beeradvocate.com/beer/profile/2642/10006/,North By Northwest Northern Light,2642,North by Northwest Restaurant & Brewery,32,3.15
+101,3.90,70679,https://www.beeradvocate.com/beer/profile/21092/70679/,Big Flats 1901 Light,21092,World Brews,32,2.16
+102,2.80,4466,https://www.beeradvocate.com/beer/profile/1595/4466/,Cascade Premium Light,1595,Cascade Brewery Company Ltd.,32,2.52
+103,3.50,4308,https://www.beeradvocate.com/beer/profile/353/4308/,Carlton Midstrength,353,"Carlton & United Breweries, Ltd.",32,2.12
+104,2.10,4801,https://www.beeradvocate.com/beer/profile/447/4801/,Pearl Light,447,Pabst Brewing Company,31,2.47
+105,4.20,57065,https://www.beeradvocate.com/beer/profile/22426/57065/,Sands Light,22426,Bahamian Brewery Beverage & Co. Ltd.,31,2.85
+106,4.00,8457,https://www.beeradvocate.com/beer/profile/417/8457/,Schell's Light,417,August Schell Brewing Company,30,3.01
+107,4.50,16702,https://www.beeradvocate.com/beer/profile/9263/16702/,Kilimanjaro Premium Lager,9263,Tanzania Breweries Ltd.,30,2.89
+108,5.00,79967,https://www.beeradvocate.com/beer/profile/105/79967/,Icehouse Light,105,Miller Brewing Co.,30,1.79
+109,4.40,2690,https://www.beeradvocate.com/beer/profile/1550/2690/,Lumpy Dog Light Lager,1550,Rock Bottom Restaurant & Brewery,30,3.16
+110, ? ,3372,https://www.beeradvocate.com/beer/profile/782/3372/,La Crosse Light,782,"City Brewing Company, LLC",29,2.74
+111,4.30,244582,https://www.beeradvocate.com/beer/profile/28609/244582/,Nite Lite,28609,Night Shift Brewing,29,3.69
+112,4.00,50070,https://www.beeradvocate.com/beer/profile/3255/50070/,Stonewall Light Lager,3255,Cool Beer Brewing Co.,29,2.84
+113,4.20,68405,https://www.beeradvocate.com/beer/profile/435/68405/,Boxer Light,435,Minhas Craft Brewery,28,2.33
+114,4.20,65000,https://www.beeradvocate.com/beer/profile/14967/65000/,Old 56,14967,Brau Brothers Brewing Co. LLC,28,3.15
+115,2.80,17011,https://www.beeradvocate.com/beer/profile/428/17011/,Mahr's Leicht,428,Mahr's Bräu,27,3.7
+116,5.20,283552,https://www.beeradvocate.com/beer/profile/267/283552/,Nail Knot,267,Odell Brewing Company,27,3.72
+117,3.75,23736,https://www.beeradvocate.com/beer/profile/11421/23736/,Sin City Light,11421,Sin City Brewing Co.,27,2.95
+118,5.80,14014,https://www.beeradvocate.com/beer/profile/568/14014/,Okocim Jasne Pelne,568,Browar Okocim S.A. (Carlsberg),27,3.1
+119,4.80,143599,https://www.beeradvocate.com/beer/profile/261/143599/,Shark Tracker Light Lager,261,Cisco Brewers Inc.,27,3.21
+120,4.40,26096,https://www.beeradvocate.com/beer/profile/888/26096/,Gallo Draft,888,"Cervecería Centro Americana, S.A.",27,2.27
+121,3.50,64506,https://www.beeradvocate.com/beer/profile/2710/64506/,Lightswitch Lager,2710,BJ's Chicago Pizza & Brewery Inc.,27,3.19
+122,2.70,1533,https://www.beeradvocate.com/beer/profile/573/1533/,Hahn Premium Light,573,Hahn Brewing Co. Pty. Ltd.,27,2.3
+123,4.20,181927,https://www.beeradvocate.com/beer/profile/27642/181927/,Good Ass Beer,27642,Rhinelander Brewing Company,26,2.17
+124,4.50,5572,https://www.beeradvocate.com/beer/profile/944/5572/,Kalik Light,944,Commonwealth Brewery Ltd.,26,2.49
+125,4.50,273146,https://www.beeradvocate.com/beer/profile/5316/273146/,Sesiόn Cerveza,5316,Full Sail Brewery & Tasting Room & Pub,26,3.57
+126,3.90,57897,https://www.beeradvocate.com/beer/profile/782/57897/,Game Day Light,782,"City Brewing Company, LLC",25,1.95
+127,3.50,9325,https://www.beeradvocate.com/beer/profile/1872/9325/,McKenzie Light Lager,1872,McKenzie Brew House,25,2.8
+128,6.40,119439,https://www.beeradvocate.com/beer/profile/30230/119439/,Blue Corn Lager,30230,Confluence Brewing Company,25,3.7
+129,3.90,71400,https://www.beeradvocate.com/beer/profile/21092/71400/,Port Republic Light,21092,World Brews,24,2.55
+130,3.61,46622,https://www.beeradvocate.com/beer/profile/3972/46622/,King Street Light Lager,3972,A1A Aleworks,23,3.27
+131,3.00,71200,https://www.beeradvocate.com/beer/profile/433/71200/,Molson Canadian 67 Sublime,433,Molson Coors Canada,23,2.28
+132,4.20,133452,https://www.beeradvocate.com/beer/profile/16110/133452/,Always A Home Game,16110,Rivertowne Pourhouse,23,3.28
+133,3.80,20318,https://www.beeradvocate.com/beer/profile/1056/20318/,"""O!"" Gold",1056,Upstream Brewing Company - Old Market,22,3.08
+134, ? ,8561,https://www.beeradvocate.com/beer/profile/1422/8561/,Milwaukee Special Reserve Light,1422,Melanie Brewing Company,22,2.22
+135,4.00,231352,https://www.beeradvocate.com/beer/profile/33939/231352/,Trotwood,33939,Warped Wing Brewing Company,22,3.31
+136,3.60,31968,https://www.beeradvocate.com/beer/profile/2617/31968/,Southern Flyer Light Lager,2617,Big River Grille & Brewing Works,22,3.01
+137, ? ,47928,https://www.beeradvocate.com/beer/profile/16049/47928/,Caybrew Light,16049,Cayman Islands Brewery Ltd.,21,2.56
+138,4.20,39498,https://www.beeradvocate.com/beer/profile/708/39498/,Stone Hammer Light,708,F&M Brewery,21,2.81
+139, ? ,86104,https://www.beeradvocate.com/beer/profile/27811/86104/,Founding Fathers Light Beer,27811,Founding Fathers Brewing Company,21,2.85
+140,3.00,48240,https://www.beeradvocate.com/beer/profile/569/48240/,Efes Light,569,Anadolu Efes Brewery,21,2.4
+141, ? ,26761,https://www.beeradvocate.com/beer/profile/91/26761/,Kingfisher Light Lager,91,United Breweries - UB Group,21,2.73
+142,4.50,225721,https://www.beeradvocate.com/beer/profile/18563/225721/,93X The Brotherhood,18563,Lift Bridge Brewery,21,3.19
+143,2.90,4049,https://www.beeradvocate.com/beer/profile/1479/4049/,James Boag's Premium Light,1479,J. Boag & Son Brewing,21,2.28
+144,3.50,28740,https://www.beeradvocate.com/beer/profile/437/28740/,Staropramen 3.5%,437,Pivovary Staropramen,20,2.63
+145,4.00,43669,https://www.beeradvocate.com/beer/profile/721/43669/,Carlsberg Lite,721,Carlsberg Danmark A/S,20,2.61
+146,4.20,63145,https://www.beeradvocate.com/beer/profile/16316/63145/,Bighead,16316,Burleigh Brewing Co.,20,1.96
+147,4.20,14270,https://www.beeradvocate.com/beer/profile/874/14270/,Cafri,874,"Oriental Brewery Co., Ltd",20,2.22
+148,4.00,26565,https://www.beeradvocate.com/beer/profile/415/26565/,Old Milwaukee Light,415,Sleeman Breweries Ltd.,20,2.06
+149,4.00,62154,https://www.beeradvocate.com/beer/profile/435/62154/,Minhas Light,435,Minhas Craft Brewery,20,1.93
+150,3.60,66259,https://www.beeradvocate.com/beer/profile/302/66259/,Buck Range Light,302,Genesee Brewing Co. / Dundee Brewing Co.,20,1.81
+151, ? ,3284,https://www.beeradvocate.com/beer/profile/447/3284/,Schmidt's Light,447,Pabst Brewing Company,20,1.79
+152,5.30,60928,https://www.beeradvocate.com/beer/profile/560/60928/,Rock,560,Saku Brewery LTD,19,2.91
+153,4.80,149536,https://www.beeradvocate.com/beer/profile/30492/149536/,Bosque Lager,30492,Bosque Brewing Co.,19,3.84
+154,4.20,101685,https://www.beeradvocate.com/beer/profile/32972/101685/,Rammer Jammer,32972,Rammer Jammer Beer Company,19,2.63
+155,3.50,60737,https://www.beeradvocate.com/beer/profile/21497/60737/,Northern Light,21497,North Peak Brewing Company,19,3.07
+156,4.00,116039,https://www.beeradvocate.com/beer/profile/415/116039/,Sleeman Clear 2.0,415,Sleeman Breweries Ltd.,19,2.28
+157, ? ,5039,https://www.beeradvocate.com/beer/profile/918/5039/,Clearwater Light,918,Hops Grillhouse & Brewery,19,2.35
+158,3.50,4562,https://www.beeradvocate.com/beer/profile/1628/4562/,Montauk Light,1628,Southampton Publick House,19,3.12
+159, ? ,10206,https://www.beeradvocate.com/beer/profile/1910/10206/,Honey Lager Light,1910,Water Street Brewery,19,3.12
+160,4.06,10213,https://www.beeradvocate.com/beer/profile/431/10213/,Bürger Light,431,Hudepohl-Schoenling Brewing Co.,19,2.96
+161,4.00,76090,https://www.beeradvocate.com/beer/profile/27793/76090/,Pong Beer Lite,27793,Private Stock Spirits,18,2.53
+162,5.00,34131,https://www.beeradvocate.com/beer/profile/106/34131/,Schlitz Genuine Gold,106,JOS. Schlitz Brewing Co. (Pabst),18,2.09
+163,4.10,6231,https://www.beeradvocate.com/beer/profile/742/6231/,Light Lager,742,District ChopHouse & Brewery,18,3.23
+164,3.70,23985,https://www.beeradvocate.com/beer/profile/57/23985/,Kloster Light,57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",18,2.01
+165,3.80,331189,https://www.beeradvocate.com/beer/profile/29/331189/,Michelob Ultra Pure Gold,29,Anheuser-Busch,18,2.94
+166,4.20,43275,https://www.beeradvocate.com/beer/profile/17223/43275/,Mount Joy Light Pilsner,17223,"Intercourse Brewing Company, LLC",17,3.11
+167,4.50,42290,https://www.beeradvocate.com/beer/profile/16396/42290/,Dragon King Lager,16396,Northwest Brewing Company,17,3.1
+168,4.70,23410,https://www.beeradvocate.com/beer/profile/281/23410/,Laoshan Beer,281,"Tsingtao Brewery Co., Ltd.",17,2.39
+169,4.50,82360,https://www.beeradvocate.com/beer/profile/92/82360/,Cerveza Cantina,92,Cerveceria La Constancia S.A. / BevCo Ltd,17,2.43
+170, ? ,9210,https://www.beeradvocate.com/beer/profile/410/9210/,American Light,410,Pittsburgh Brewing Co.,17,2.05
+171,4.00,14077,https://www.beeradvocate.com/beer/profile/478/14077/,Labatt Lite,478,Labatt Brewing Company Ltd.,17,2.33
+172,4.20,324609,https://www.beeradvocate.com/beer/profile/105/324609/,Two Hats Pineapple,105,Miller Brewing Co.,16,3.07
+173,4.20,83229,https://www.beeradvocate.com/beer/profile/23416/83229/,Duquesne LT,23416,Duquesne Bottling Company,16,3.18
+174,4.40,15947,https://www.beeradvocate.com/beer/profile/9056/15947/,Chernigivske Svitle,9056,Chernigivske Pivokombinat,16,2.88
+175, ? ,65974,https://www.beeradvocate.com/beer/profile/888/65974/,Mariachi,888,"Cervecería Centro Americana, S.A.",16,2.43
+176,4.50,37360,https://www.beeradvocate.com/beer/profile/1535/37360/,Belle Gueule Blonde D'été,1535,Brasseurs R.J.,16,3.04
+177, ? ,6898,https://www.beeradvocate.com/beer/profile/782/6898/,Kul Light,782,"City Brewing Company, LLC",16,2.24
+178,5.00,142905,https://www.beeradvocate.com/beer/profile/23108/142905/,J'ville,23108,Engine 15 Brewing Company,15,3.94
+179,4.40,12385,https://www.beeradvocate.com/beer/profile/353/12385/,Fiji Gold,353,"Carlton & United Breweries, Ltd.",15,2.85
+180,4.20,119959,https://www.beeradvocate.com/beer/profile/23326/119959/,Light Side Of The Moon,23326,The Moon Under Water Pub & Brewery,15,3.51
+181,4.20,8365,https://www.beeradvocate.com/beer/profile/2309/8365/,Ellis Island Light,2309,Ellis Island Casino & Brewery,15,2.5
+182, ? ,25013,https://www.beeradvocate.com/beer/profile/782/25013/,Milwaukee Premium Brewing Company Classic Light,782,"City Brewing Company, LLC",15,2.02
+183,2.90,4055,https://www.beeradvocate.com/beer/profile/491/4055/,Light Beer,491,Coopers Brewery Limited,15,2.07
+184,4.00,5354,https://www.beeradvocate.com/beer/profile/466/5354/,Castle Lite,466,South African Breweries plc,15,1.99
+185,3.50,29167,https://www.beeradvocate.com/beer/profile/447/29167/,Blatz Light,447,Pabst Brewing Company,15,1.83
+186,4.10,8699,https://www.beeradvocate.com/beer/profile/3353/8699/,Lynx Light Lager,3353,Rockyard Brewing,15,3.22
+187,3.50,75517,https://www.beeradvocate.com/beer/profile/27038/75517/,BJ's Light Switch Lager,27038,BJ's Restaurant & Brewhouse,15,3.12
+188,3.90,33830,https://www.beeradvocate.com/beer/profile/57/33830/,Sol Light,57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",14,2.04
+189, ? ,12336,https://www.beeradvocate.com/beer/profile/92/12336/,Santiago,92,Cerveceria La Constancia S.A. / BevCo Ltd,14,2.05
+190,2.40,2141,https://www.beeradvocate.com/beer/profile/360/2141/,Warsteiner Premium Light,360,Warsteiner Brauerei,14,2.62
+191,3.80,10078,https://www.beeradvocate.com/beer/profile/4686/10078/,Hofbräu Light,4686,Hofbräuhaus München,14,2.87
+192,4.80,184710,https://www.beeradvocate.com/beer/profile/4336/184710/,Tropical Lager,4336,Hilton Head Brewing Company,14,3.47
+193,5.10,5042,https://www.beeradvocate.com/beer/profile/918/5042/,Lighting Bolt Gold,918,Hops Grillhouse & Brewery,14,2.4
+194,4.20,19694,https://www.beeradvocate.com/beer/profile/2351/19694/,Northern Light,2351,Royal Oak Brewery,14,3.02
+195,4.00,63739,https://www.beeradvocate.com/beer/profile/29/63739/,Budweiser 66,29,Anheuser-Busch,14,1.61
+196,3.90,70929,https://www.beeradvocate.com/beer/profile/21092/70929/,Copper Bell Light Beer,21092,World Brews,13,2.41
+197,3.79,7188,https://www.beeradvocate.com/beer/profile/447/7188/,Piels Light,447,Pabst Brewing Company,13,1.94
+198,4.00,14409,https://www.beeradvocate.com/beer/profile/4443/14409/,New Town 11° Light Lager,4443,První Novoměstský restaurační pivovar,13,3.8
+199,4.00,29002,https://www.beeradvocate.com/beer/profile/2281/29002/,Light,2281,Quidi Vidi Brewing Company,13,2.77
+200,4.30,8528,https://www.beeradvocate.com/beer/profile/875/8528/,Stoney's Light Beer,875,Jones Brewing Company,13,2.52
+201,4.00,13655,https://www.beeradvocate.com/beer/profile/1950/13655/,Two Rivers Light,1950,Court Avenue Brewing Company,13,3.15
+202,3.80,48728,https://www.beeradvocate.com/beer/profile/19587/48728/,Hofbräu Light,19587,Hofbräuhaus Pittsburgh,13,3.25
+203,3.80,82813,https://www.beeradvocate.com/beer/profile/410/82813/,I.C. Light Berry,410,Pittsburgh Brewing Co.,13,2.05
+204,4.20,275087,https://www.beeradvocate.com/beer/profile/163/275087/,Amstel X-Light,163,Amstel Brouwerij B. V.,13,2.55
+205,5.50,96145,https://www.beeradvocate.com/beer/profile/7202/96145/,Nepal’s Mustang Premium Lager Beer,7202,Nepal Brewery Company,13,2.82
+206,4.00,169669,https://www.beeradvocate.com/beer/profile/10796/169669/,Flying Monkeys Anti-Gravity Lager,10796,Flying Monkeys Craft Brewery,13,3.47
+207,4.10,67537,https://www.beeradvocate.com/beer/profile/727/67537/,Tiger Crystal Light,727,Asia Pacific Breweries Limited,13,2.44
+208,3.50,122070,https://www.beeradvocate.com/beer/profile/3042/122070/,Lightswitch Lager,3042,BJ's Restaurant & Brewhouse,13,3.22
+209,4.00,16088,https://www.beeradvocate.com/beer/profile/3098/16088/,Leglifter Light,3098,Big Dog's Draft House,13,3.23
+210,4.20,324614,https://www.beeradvocate.com/beer/profile/105/324614/,Two Hats Lime,105,Miller Brewing Co.,12,3.24
+211,3.20,91406,https://www.beeradvocate.com/beer/profile/21092/91406/,Goldmine Light,21092,World Brews,12,3.06
+212,4.20,29541,https://www.beeradvocate.com/beer/profile/2756/29541/,UpRiver Light,2756,Mudshark Brewing Co.,12,3.6
+213,2.00,5500,https://www.beeradvocate.com/beer/profile/1722/5500/,Windhoek Light,1722,Namibia Breweries Limited,12,2.34
+214,4.50,121009,https://www.beeradvocate.com/beer/profile/34665/121009/,Brutopian Bliss,34665,Brutopia Brewery,12,3.19
+215,4.40,46286,https://www.beeradvocate.com/beer/profile/4748/46286/,Víking Lite,4748,Viking Brewery - Vifilfell Ltd.,12,2.58
+216,3.70,47065,https://www.beeradvocate.com/beer/profile/1491/47065/,Imperial Light,1491,Cerveceria Costa Rica,12,2.48
+217,3.50,26098,https://www.beeradvocate.com/beer/profile/888/26098/,Gallo Light,888,"Cervecería Centro Americana, S.A.",12,2.1
+218, ? ,66051,https://www.beeradvocate.com/beer/profile/619/66051/,Silver Sun,619,Indian Wells Brewing Company,11,2.7
+219,4.00,10020,https://www.beeradvocate.com/beer/profile/2924/10020/,Águila Light,2924,Cervecería De Barranquilla,11,2.58
+220, ? ,71465,https://www.beeradvocate.com/beer/profile/11174/71465/,Mexicali Light,11174,Cerveceria Mexicana S.A. De C.V.,11,2.25
+221,3.50,48449,https://www.beeradvocate.com/beer/profile/4949/48449/,Saaz Damm,4949,Damm S. A.,11,2.73
+222,4.00,15451,https://www.beeradvocate.com/beer/profile/556/15451/,City Steam Colt 46 Light Lager,556,City Steam Brewery Café,11,3.09
+223,4.00,46960,https://www.beeradvocate.com/beer/profile/457/46960/,Lakeport Light,457,Lakeport Brewing Company,11,2.07
+224,4.00,15484,https://www.beeradvocate.com/beer/profile/478/15484/,Labatt Sterling,478,Labatt Brewing Company Ltd.,11,2.37
+225,4.90,247998,https://www.beeradvocate.com/beer/profile/46973/247998/,Blonde,46973,Asbury Park Brewery,11,3.64
+226,3.80,23487,https://www.beeradvocate.com/beer/profile/1634/23487/,Huguenot St. American Lager,1634,Gilded Otter Brewing Company,11,3.1
+227,4.40,128244,https://www.beeradvocate.com/beer/profile/18223/128244/,Zlatni Medvjed,18223,Pivnica Medvedgrad Adijina,11,3.87
+228,3.80,43772,https://www.beeradvocate.com/beer/profile/4067/43772/,Light Lager,4067,Fordham Brewing Company,11,3.29
+229,4.00,233498,https://www.beeradvocate.com/beer/profile/478/233498/,Labatt Blue Light Grapefruit,478,Labatt Brewing Company Ltd.,10,3.17
+230,4.00,67358,https://www.beeradvocate.com/beer/profile/272/67358/,Carib Pilsner Light,272,Carib Brewery Limited,10,2.83
+231,4.50,19492,https://www.beeradvocate.com/beer/profile/9797/19492/,Northern Lite,9797,North Country Brewing,10,3.19
+232,4.45,62525,https://www.beeradvocate.com/beer/profile/846/62525/,Silver Key Light,846,Compañía Cervecera de Puerto Rico,10,2.27
+233,4.20,145227,https://www.beeradvocate.com/beer/profile/306/145227/,Keystone Light Lime,306,Coors Brewing Company (Molson-Coors),10,2.68
+234,3.13,13688,https://www.beeradvocate.com/beer/profile/3749/13688/,Southern Flyer Light,3749,Seven Bridges Grille And Brewery,10,3.24
+235,4.00,54649,https://www.beeradvocate.com/beer/profile/433/54649/,Carling Light,433,Molson Coors Canada,10,2.21
+236, ? ,84355,https://www.beeradvocate.com/beer/profile/1001/84355/,Blue Eyed Girl,1001,Firehouse Brewing Co.,10,3.42
+237,3.00,7816,https://www.beeradvocate.com/beer/profile/453/7816/,Lahko Lasko,453,Pivovarna Laško,10,2.75
+238,3.50,64392,https://www.beeradvocate.com/beer/profile/2711/64392/,LightSwitch Lager,2711,BJ's Restaurant & Brewhouse,10,2.88
+239,4.20,155794,https://www.beeradvocate.com/beer/profile/435/155794/,Regal Brau Light,435,Minhas Craft Brewery,10,2.46
+240,2.30,28579,https://www.beeradvocate.com/beer/profile/353/28579/,Fosters Light Ice,353,"Carlton & United Breweries, Ltd.",10,2.32
+241,4.50,21156,https://www.beeradvocate.com/beer/profile/416/21156/,PC 2.5G,416,Brick Brewing Co.,10,2.43
+242,5.00,115108,https://www.beeradvocate.com/beer/profile/30452/115108/,Townes Lemon Squeezer Light Lagrrr,30452,SingleCut Beersmiths,10,3.45
+243,3.70,38625,https://www.beeradvocate.com/beer/profile/57/38625/,Carta Blanca Light,57,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",10,2.01
+244,5.00,26093,https://www.beeradvocate.com/beer/profile/888/26093/,Dorada Ice,888,"Cervecería Centro Americana, S.A.",10,2.51
+245,4.20,40948,https://www.beeradvocate.com/beer/profile/2079/40948/,Naked River Light,2079,Sweetwater Tavern & Brewery,10,3.35
+246,4.00,2039,https://www.beeradvocate.com/beer/profile/705/2039/,Northern Light Lager,705,Union Station Brewery,10,2.15
+247, ? ,49672,https://www.beeradvocate.com/beer/profile/142/49672/,Spaten Light,142,Spaten-Franziskaner-Bräu,9,2.82
+248, ? ,2322,https://www.beeradvocate.com/beer/profile/21092/2322/,Caguama Light,21092,World Brews,9,2.28
+249,4.00,233490,https://www.beeradvocate.com/beer/profile/478/233490/,Labatt Blue Light Shandy,478,Labatt Brewing Company Ltd.,9,2.88
+250,4.20,235312,https://www.beeradvocate.com/beer/profile/41464/235312/,Sex In A Canoe,41464,Noble Rey Brewing Company,9,3.7
+251,3.90,217907,https://www.beeradvocate.com/beer/profile/29402/217907/,Minnesota Gold Light,29402,Third Street Brewhouse,9,2.73
+252,4.20,31586,https://www.beeradvocate.com/beer/profile/21092/31586/,R.J. King Wingwalker Light Lager,21092,World Brews,9,2.6
+253,5.00,300938,https://www.beeradvocate.com/beer/profile/26753/300938/,Richmond Lager,26753,Hardywood Park Craft Brewery,9,3.94
+254,3.75,59553,https://www.beeradvocate.com/beer/profile/7101/59553/,Locke Mountain Lager,7101,Marzoni's Brick Oven & Brewing Company,9,2.94
+255,3.90,20898,https://www.beeradvocate.com/beer/profile/1550/20898/,Line Drive Light,1550,Rock Bottom Restaurant & Brewery,9,2.97
+256,3.50,55780,https://www.beeradvocate.com/beer/profile/573/55780/,Hahn Super Dry 3.5,573,Hahn Brewing Co. Pty. Ltd.,9,2.23
+257,4.00,8939,https://www.beeradvocate.com/beer/profile/416/8939/,Laker Premium Light,416,Brick Brewing Co.,9,2.35
+258,3.80,100604,https://www.beeradvocate.com/beer/profile/16232/100604/,557 Light Lager,16232,BrickStone Restaurant & Brewery,9,3.53
+259, ? ,12295,https://www.beeradvocate.com/beer/profile/613/12295/,Bitburger Light,613,Bitburger Brauerei,8,2.56
+260,4.00,54541,https://www.beeradvocate.com/beer/profile/18899/54541/,X-Wäls,18899,Cervejaria Wäls,8,3.18
+261,4.00,143134,https://www.beeradvocate.com/beer/profile/281/143134/,Tsingtao Beer,281,"Tsingtao Brewery Co., Ltd.",8,2.74
+262,3.90,180538,https://www.beeradvocate.com/beer/profile/21092/180538/,Merit Light Premium Lager,21092,World Brews,8,2.74
+263,4.80,28988,https://www.beeradvocate.com/beer/profile/10897/28988/,"Pripps Blå Pure 4,8%",10897,Carlsberg Sverige AB,8,1.77
+264,4.00,174156,https://www.beeradvocate.com/beer/profile/415/174156/,Sleeman Lift,415,Sleeman Breweries Ltd.,8,2.93
+265,4.50,165994,https://www.beeradvocate.com/beer/profile/581/165994/,Brion,581,Banks (Barbados) Breweries Limited,8,2.8
+266,3.00,25979,https://www.beeradvocate.com/beer/profile/75/25979/,Tropical Light,75,Grupo Modelo S.A. de C.V.,8,2.45
+267,5.70,94872,https://www.beeradvocate.com/beer/profile/27642/94872/,Route 66,27642,Rhinelander Brewing Company,8,2.71
+268,4.00,19102,https://www.beeradvocate.com/beer/profile/2014/19102/,Great Western Premium Light,2014,Great Western Brewing,8,3.11
+269,4.20,40615,https://www.beeradvocate.com/beer/profile/16111/40615/,Mountain Light,16111,Smoky Mountain Brewery & Restaurant,8,3.27
+270,4.00,193204,https://www.beeradvocate.com/beer/profile/478/193204/,Labatt Première Extra Light Lager,478,Labatt Brewing Company Ltd.,8,2.64
+271,4.25,304057,https://www.beeradvocate.com/beer/profile/42597/304057/,Tailgate Crusher,42597,Ellison Brewery & Spirits,8,3.55
+272,3.70,182475,https://www.beeradvocate.com/beer/profile/41562/182475/,Light,41562,Mighty Squirrel Brewing,8,3.36
+273,4.00,31441,https://www.beeradvocate.com/beer/profile/3775/31441/,Regional Light,3775,Cervecería Regional,8,1.88
+274,3.50,28373,https://www.beeradvocate.com/beer/profile/9370/28373/,Tijuana Light,9370,Consorcio Cervecero De Baja California ( La Taberna TJ ),8,2.83
+275,4.00,34794,https://www.beeradvocate.com/beer/profile/15437/34794/,Snow Light Refreshing Beer,15437,China Resources Breweries Limited,8,1.74
+276,4.70,51955,https://www.beeradvocate.com/beer/profile/4087/51955/,Norrlands Guld Ljus,4087,Spendrups Bryggeri AB,8,2.05
+277,5.50,119553,https://www.beeradvocate.com/beer/profile/32476/119553/,Uncapper,32476,The Workshop Brewing Company,7,3.29
+278,4.00,29464,https://www.beeradvocate.com/beer/profile/2014/29464/,CO-OP Gold Premium Light Lager,2014,Great Western Brewing,7,2.68
+279,4.90,267806,https://www.beeradvocate.com/beer/profile/30967/267806/,Pretty Nice Little Saturday,30967,Triptych Brewing,7,3.46
+280, ? ,61481,https://www.beeradvocate.com/beer/profile/11466/61481/,Lodi Light Lager,11466,Lodi Beer Company,7,3.23
+281,5.00,246570,https://www.beeradvocate.com/beer/profile/46725/246570/,Bohemian Lager,46725,Stestí Brewing Company,7,3.37
+282,5.00,124714,https://www.beeradvocate.com/beer/profile/9262/124714/,Adlerbrau,9262,"Grupo Cervezas Alhambra, SL",7,2.42
+283, ? ,3371,https://www.beeradvocate.com/beer/profile/99/3371/,Utica Club Light,99,Matt Brewing Company / Saranac Brewery,7,2.72
+284,3.50,60482,https://www.beeradvocate.com/beer/profile/16993/60482/,Chihuahua Mexicaine,16993,Brasseur De Montréal,7,2.46
+285, ? ,172362,https://www.beeradvocate.com/beer/profile/32148/172362/,Photon,32148,The Actual Brewing Co.,7,3.71
+286,3.95,30029,https://www.beeradvocate.com/beer/profile/11936/30029/,Sierra Madre Light,11936,Sierra Madre Brewing Co.,7,2.95
+287,4.30,77397,https://www.beeradvocate.com/beer/profile/912/77397/,Bohemia Light,912,Cervecería Nacional Dominicana,7,2.56
+288,2.30,26979,https://www.beeradvocate.com/beer/profile/839/26979/,Tooheys Blue Bitter,839,Tooheys Brewing,7,2.56
+289,4.00,151153,https://www.beeradvocate.com/beer/profile/353/151153/,Fosters Classic Lager,353,"Carlton & United Breweries, Ltd.",7,2.72
+290, ? ,68986,https://www.beeradvocate.com/beer/profile/782/68986/,Pennsylvania Style Light Beer,782,"City Brewing Company, LLC",7,2.17
+291,5.00,33752,https://www.beeradvocate.com/beer/profile/15035/33752/,Bière Lorraine,15035,Brasserie Lorraine S.A.,7,3.2
+292, ? ,29662,https://www.beeradvocate.com/beer/profile/161/29662/,Beachside Sunlight,161,Florida Beer Company,7,2.51
+293,4.60,70371,https://www.beeradvocate.com/beer/profile/2557/70371/,Bolt,2557,Sail and Anchor Pub Brewery,7,2.46
+294,3.50,1538,https://www.beeradvocate.com/beer/profile/574/1538/,EMU Draft Midstrength,574,Swan Brewery,6,2
+295,4.00,85767,https://www.beeradvocate.com/beer/profile/391/85767/,Co-Op Gold Premium Light Lager,391,Big Rock Brewery,6,3.18
+296,3.50,54033,https://www.beeradvocate.com/beer/profile/1394/54033/,Del Rio Lager,1394,Skagit River Brewery,6,3.5
+297,5.50,276502,https://www.beeradvocate.com/beer/profile/29434/276502/,Lumpy's Lager,29434,Excelsior Brewing Co.,6,2.85
+298,4.00,59695,https://www.beeradvocate.com/beer/profile/4043/59695/,Premium Light,4043,Fort Garry Brewing Company Ltd.,6,2.77
+299,4.00,37427,https://www.beeradvocate.com/beer/profile/1253/37427/,Polar Light,1253,Cervecería Polar,6,2.1
+300,3.50,288313,https://www.beeradvocate.com/beer/profile/31722/288313/,Innertube,31722,Burial Beer Co.,6,4.12
+301,5.50,283200,https://www.beeradvocate.com/beer/profile/37078/283200/,Skull Session,37078,Land-Grant Brewing Company,6,3.94
+302,4.00,10824,https://www.beeradvocate.com/beer/profile/379/10824/,Alpine Light,379,Moosehead Breweries Ltd.,6,2.83
+303,4.00,37451,https://www.beeradvocate.com/beer/profile/379/37451/,James Ready Light,379,Moosehead Breweries Ltd.,6,2.59
+304,4.30,263250,https://www.beeradvocate.com/beer/profile/31875/263250/,Tejas Clara,31875,Big Bend Brewing Co.,6,3.1
+305,4.20,266843,https://www.beeradvocate.com/beer/profile/26784/266843/,Gem City Classic,26784,Red Hare Brewing Company,6,4.11
+306,4.40,308582,https://www.beeradvocate.com/beer/profile/30364/308582/,Sol Y Luna,30364,Four Corners Brewing Company,6,3.31
+307,3.80,22636,https://www.beeradvocate.com/beer/profile/4685/22636/,Hofbräu Light,4685,Hofbräuhaus Newport,6,3.64
+308,4.40,108656,https://www.beeradvocate.com/beer/profile/977/108656/,Panama Light,977,"Cerveceria Del Baru Panama, S.A.",6,2.86
+309,5.50,125304,https://www.beeradvocate.com/beer/profile/11592/125304/,El Gordo Burro,11592,Ellicottville Brewing Co.,6,3.64
+310,3.20,19100,https://www.beeradvocate.com/beer/profile/437/19100/,Sladkuv Mestan,437,Pivovary Staropramen,6,2.57
+311,4.00,49059,https://www.beeradvocate.com/beer/profile/498/49059/,Bavaria Light,498,Bavaria Brouwerij N.V.,6,2.12
+312, ? ,45755,https://www.beeradvocate.com/beer/profile/92/45755/,Arriba Importada Light,92,Cerveceria La Constancia S.A. / BevCo Ltd,6,1.91
+313,4.40,38107,https://www.beeradvocate.com/beer/profile/2078/38107/,Naked River Low Carb Light,2078,Sweetwater Tavern & Brewery,6,2.43
+314,4.50,41188,https://www.beeradvocate.com/beer/profile/9914/41188/,Del Oro Mexican-Style Light Ale,9914,Sequoia Brewing Company,6,3.31
+315,3.80,14578,https://www.beeradvocate.com/beer/profile/3475/14578/,Redwood Lodge Light,3475,Redwood Lodge,6,3.39
+316,5.00,134145,https://www.beeradvocate.com/beer/profile/30127/134145/,Y'all Light Lager,30127,Railyard Brewing Company,5,3
+317,5.20,183557,https://www.beeradvocate.com/beer/profile/16873/183557/,Pura Vida,16873,10 Barrel Brewing Co.,5,3.48
+318, ? ,55051,https://www.beeradvocate.com/beer/profile/150/55051/,King Cool Light,150,"Lion Brewery, Inc.",5,2.98
+319,4.00,277265,https://www.beeradvocate.com/beer/profile/31850/277265/,Cerveza Por Favor,31850,903 Brewers,5,3.46
+320,4.00,11807,https://www.beeradvocate.com/beer/profile/457/11807/,Brava Light,457,Lakeport Brewing Company,5,1.9
+321,4.50,296479,https://www.beeradvocate.com/beer/profile/34442/296479/,Lager Bier,34442,Triple Crossing Brewing,5,3.82
+322,4.20,199718,https://www.beeradvocate.com/beer/profile/2437/199718/,Skol Ultra,2437,Cervejarias Reunidas Skol-Caracu,5,2.06
+323,4.80,287528,https://www.beeradvocate.com/beer/profile/48894/287528/,Rooster Shooter,48894,Whistle Post Brewing,5,3.56
+324,5.00,124215,https://www.beeradvocate.com/beer/profile/15922/124215/,Original,15922,Moa Brewing Company,5,3.23
+325,4.50,175419,https://www.beeradvocate.com/beer/profile/25567/175419/,Wimpy,25567,Castle Danger Brewery,5,3.66
+326,4.20,271173,https://www.beeradvocate.com/beer/profile/49540/271173/,Palmia,49540,Palmia Corporation,5,3.11
+327,4.50,255559,https://www.beeradvocate.com/beer/profile/3185/255559/,Maize-A-Faire,3185,The Tap Brewing Company,5,4.05
+328,4.20,246871,https://www.beeradvocate.com/beer/profile/46948/246871/,KC Lite,46948,Kansas City Breweries Company,5,2.82
+329,3.50,90717,https://www.beeradvocate.com/beer/profile/10243/90717/,Biere Du Chameau,10243,Brasserie De La Pigeonnelle,5,3.51
+330,4.50,29791,https://www.beeradvocate.com/beer/profile/1749/29791/,Light Lager,1749,Wisconsin Dells Brewing Co.,5,2.76
+331,3.50,97380,https://www.beeradvocate.com/beer/profile/2953/97380/,Portsmouth Crystal Gold Light Lager,2953,Portsmouth Brewing Co. / Mault's Brewpub,5,2.93
+332,5.00,136561,https://www.beeradvocate.com/beer/profile/1104/136561/,Diamond Down,1104,Beaver Street Brewery & Whistle Stop Cafe,5,3.04
+333,4.10,32909,https://www.beeradvocate.com/beer/profile/12/32909/,Long Island Light Lager,12,John Harvard's Brewery & Ale House,5,3
+334, ? ,143001,https://www.beeradvocate.com/beer/profile/37287/143001/,Twin Finn,37287,Zeta Brewing Company,5,3.62
+335,4.00,32665,https://www.beeradvocate.com/beer/profile/416/32665/,PC Light,416,Brick Brewing Co.,5,2.01
+336,4.00,97690,https://www.beeradvocate.com/beer/profile/944/97690/,Kalik Lime,944,Commonwealth Brewery Ltd.,5,2.29
+337,4.50,138402,https://www.beeradvocate.com/beer/profile/618/138402/,Gryphon Gold,618,Wellington County Brewery,5,3.26
+338,3.50,61349,https://www.beeradvocate.com/beer/profile/758/61349/,Uncle Bucks Light,758,Uncle Buck's Brewery & Steakhouse,5,3.14
+339,2.80,229038,https://www.beeradvocate.com/beer/profile/4087/229038/,Mariestads Klass II,4087,Spendrups Bryggeri AB,5,2.59
+340,3.80,164024,https://www.beeradvocate.com/beer/profile/17157/164024/,Potosi Light,17157,Potosi Brewing Company,5,3.39
+341,5.00,131002,https://www.beeradvocate.com/beer/profile/4928/131002/,Liberty Lager,4928,Liberty Steakhouse & Brewery,5,2.82
+342,4.50,122558,https://www.beeradvocate.com/beer/profile/18889/122558/,Rubia,18889,Cerveza Artesanal BarbaRoja,5,3.17
+343,2.70,6847,https://www.beeradvocate.com/beer/profile/737/6847/,Jever Light,737,Friesisches Brauhaus zu Jever GmbH & Co KG,5,2.62
+344,4.70,27584,https://www.beeradvocate.com/beer/profile/1800/27584/,Marina Light Lager,1800,Dockside Restaurant & Brewing Co.,5,3.56
+345,5.00,36293,https://www.beeradvocate.com/beer/profile/4087/36293/,"Spendrups Bright 5,0",4087,Spendrups Bryggeri AB,5,2.35
+346,4.00,70599,https://www.beeradvocate.com/beer/profile/5468/70599/,Kokanee Light,5468,Columbia Brewery,5,2.19
+347, ? ,60375,https://www.beeradvocate.com/beer/profile/1091/60375/,Mouthy Musky Light Ale,1091,Northwoods Brewpub and Grill,5,2.57
+348,4.00,50912,https://www.beeradvocate.com/beer/profile/11856/50912/,Niagara's Best Light Lager,11856,Syndicate Restaurant & Brewery,5,3.3
+349,5.00,213221,https://www.beeradvocate.com/beer/profile/39160/213221/,Badass American Lager,39160,Brew Detroit,5,3.57
+350, ? ,11243,https://www.beeradvocate.com/beer/profile/4326/11243/,Micro Light,4326,Oak Creek Brewery and Grill,5,2.93
+351,3.20,57587,https://www.beeradvocate.com/beer/profile/21952/57587/,Layflatter Lager,21952,People's Brewing Company,5,3.57
+352,4.00,25084,https://www.beeradvocate.com/beer/profile/478/25084/,Labatt Wildcat Light,478,Labatt Brewing Company Ltd.,5,1.97
+353,3.50,82950,https://www.beeradvocate.com/beer/profile/10214/82950/,Itaipava Light,10214,Cervejaria Petrópolis,4,1.46
+354,4.00,54293,https://www.beeradvocate.com/beer/profile/416/54293/,Brick Red Baron Light,416,Brick Brewing Co.,4,2.66
+355,4.50,118295,https://www.beeradvocate.com/beer/profile/34396/118295/,Lila’s Lite Beer,34396,Lilasons Industries Limited,4,2.07
+356,5.00,168987,https://www.beeradvocate.com/beer/profile/716/168987/,Asahi The Royal Label,716,Asahi Breweries Ltd,4,2.52
+357, ? ,42523,https://www.beeradvocate.com/beer/profile/1464/42523/,Elevator Flying Hydrant Light,1464,Elevator Brewery & Draught Haus,4,3.12
+358,4.00,36906,https://www.beeradvocate.com/beer/profile/3446/36906/,Boss Light,3446,Bowen Island Brewing Co. Ltd.,4,2.44
+359,4.50,54570,https://www.beeradvocate.com/beer/profile/353/54570/,VB Raw Dry Lager,353,"Carlton & United Breweries, Ltd.",4,2.14
+360,4.70,138027,https://www.beeradvocate.com/beer/profile/8776/138027/,Catoctin Clear Blonde Lager,8776,Barley and Hops,4,3.19
+361, ? ,24141,https://www.beeradvocate.com/beer/profile/2137/24141/,Breck Light,2137,Breckenridge Brewery,4,3.25
+362,4.00,23633,https://www.beeradvocate.com/beer/profile/433/23633/,Carling Black Label Light,433,Molson Coors Canada,4,2.81
+363,4.10,26193,https://www.beeradvocate.com/beer/profile/92/26193/,Golden Light,92,Cerveceria La Constancia S.A. / BevCo Ltd,4,2.79
+364,6.50,143187,https://www.beeradvocate.com/beer/profile/24808/143187/,Cucurbita Smiles,24808,Wolverine State Brewing Company,4,3.81
+365,4.00,73819,https://www.beeradvocate.com/beer/profile/379/73819/,Moosehead Light Ginger,379,Moosehead Breweries Ltd.,4,1.57
+366,4.50,287590,https://www.beeradvocate.com/beer/profile/21868/287590/,Cart Barn Light,21868,Back Forty Beer Co.,4,3.68
+367,4.80,291949,https://www.beeradvocate.com/beer/profile/37453/291949/,Sun Grown,37453,Sycamore Brewing,4,3.37
+368,2.80,82553,https://www.beeradvocate.com/beer/profile/3351/82553/,Carling Zest,3351,Coors Brewers Ltd,4,2
+369,4.40,113025,https://www.beeradvocate.com/beer/profile/906/113025/,Minsky's Burlesque Lager,906,Flying Monkey Brewing Company,4,2.56
+370,2.70,7054,https://www.beeradvocate.com/beer/profile/896/7054/,Haagen Premium Light,896,Independent Breweries Ltd,4,1.78
+371,3.80,314513,https://www.beeradvocate.com/beer/profile/29952/314513/,Light Lager,29952,Perrin Brewery,4,3.52
+372,4.90,288914,https://www.beeradvocate.com/beer/profile/49572/288914/,Bira 91 Blonde Lager,49572,Bira 91,4,3.48
+373,3.50,197784,https://www.beeradvocate.com/beer/profile/659/197784/,Atlas Golden Light,659,"Cervecería Nacional, S.A.",4,2.35
+374,4.20,151453,https://www.beeradvocate.com/beer/profile/29347/151453/,Pierwsza Pomoc,29347,Browar Pinta,4,3.41
+375,5.00,290469,https://www.beeradvocate.com/beer/profile/28609/290469/,Lime Lite,28609,Night Shift Brewing,4,3.48
+376,4.50,64172,https://www.beeradvocate.com/beer/profile/12789/64172/,Honey Lager Light,12789,Water Street Brewery,4,3.65
+377,5.50,48571,https://www.beeradvocate.com/beer/profile/630/48571/,Wing Man American Lager,630,Academy of Fine Beers,4,2.84
+378,4.20,102344,https://www.beeradvocate.com/beer/profile/29171/102344/,Light Of The Ozarks Light Lager,29171,Saddlebock Brewery,4,4.45
+379,3.60,268747,https://www.beeradvocate.com/beer/profile/44399/268747/,No. 10 American Lager,44399,Brown Truck Brewery,4,3.8
+380,4.20,289495,https://www.beeradvocate.com/beer/profile/435/289495/,Sprint Light,435,Minhas Craft Brewery,4,2.85
+381,4.30,281304,https://www.beeradvocate.com/beer/profile/35022/281304/,General Zaragoza,35022,Goliad Brewing Company,4,3.96
+382,3.80,143833,https://www.beeradvocate.com/beer/profile/37352/143833/,Hofbräu Light,37352,Hofbräuhaus Columbus,4,2.96
+383,3.65,30938,https://www.beeradvocate.com/beer/profile/1550/30938/,Heartland Light,1550,Rock Bottom Restaurant & Brewery,4,3.5
+384,3.50,31706,https://www.beeradvocate.com/beer/profile/13657/31706/,Regio Light,13657,Sierra Madre Brewing Co.,4,2.24
+385,5.00,178653,https://www.beeradvocate.com/beer/profile/18159/178653/,Kolsch,18159,Southern Brewing & Winemaking Supply,4,3.06
+386, ? ,89569,https://www.beeradvocate.com/beer/profile/302/89569/,Genesee Cream Light,302,Genesee Brewing Co. / Dundee Brewing Co.,4,2.15
+387,4.00,47849,https://www.beeradvocate.com/beer/profile/18254/47849/,Flashlite Lager,18254,Blue Canoe Brewery,4,3.25
+388,3.45,200710,https://www.beeradvocate.com/beer/profile/21876/200710/,Pre(s)ession,21876,The LAB (Lexington Avenue Brewery),3,3.14
+389, ? ,1805,https://www.beeradvocate.com/beer/profile/639/1805/,Light Lager,639,Main Street Brewery  / Turoni's Pizza,3,3.97
+390,4.20,134935,https://www.beeradvocate.com/beer/profile/19866/134935/,Lite,19866,Upright Brewing Company,3,3.63
+391,3.60,96537,https://www.beeradvocate.com/beer/profile/221/96537/,Red Stripe Light Apple,221,Desnoes & Geddes Limited,3,2.82
+392,5.90,166945,https://www.beeradvocate.com/beer/profile/36515/166945/,Glen Street Lager,36515,Mean Max Brew Works,3,3.33
+393,3.50,37932,https://www.beeradvocate.com/beer/profile/1956/37932/,Hunt Valley Light,1956,Bare Bones Grill & Brewery,3,3.23
+394, ? ,114484,https://www.beeradvocate.com/beer/profile/302/114484/,Mountain Brew Beer Light,302,Genesee Brewing Co. / Dundee Brewing Co.,3,1.81
+395,4.00,132919,https://www.beeradvocate.com/beer/profile/3778/132919/,Barry's Beer,3778,Browar Van Pur S.A. (Brau Union Polska),3,1.77
+396,4.20,182071,https://www.beeradvocate.com/beer/profile/28127/182071/,Eager Beaver 2.0,28127,Gananoque Brewing Company,3,3.12
+397, ? ,23869,https://www.beeradvocate.com/beer/profile/2423/23869/,1/2 Court Light,2423,Amerisports Brew Pub,3,3.19
+398,4.00,281663,https://www.beeradvocate.com/beer/profile/37069/281663/,Light'er Up Canadian Craft Lager,37069,Old Tomorrow Brewing,3,3.75
+399,3.80,79429,https://www.beeradvocate.com/beer/profile/401/79429/,Zatecky Gus Domaci Z Taverny,401,Baltika Breweries,3,2.08
+400, ? ,41810,https://www.beeradvocate.com/beer/profile/14996/41810/,10th Mountain Light,14996,Buster's Brew Pub,3,2.65
+401,4.50,26965,https://www.beeradvocate.com/beer/profile/4375/26965/,Northern Lights Lager,4375,Bushwakker Brewing Company,3,2.92
+402,5.20,312151,https://www.beeradvocate.com/beer/profile/36789/312151/,Havana Lager,36789,Concrete Beach Brewery,3,3.49
+403,3.00,118626,https://www.beeradvocate.com/beer/profile/433/118626/,Molson Canadian 67 Tangerine Twist,433,Molson Coors Canada,3,2.13
+404,3.10,117098,https://www.beeradvocate.com/beer/profile/281/117098/,Tsingtao Light,281,"Tsingtao Brewery Co., Ltd.",3,3.1
+405,4.20,124778,https://www.beeradvocate.com/beer/profile/435/124778/,Evans Craft Lager Light,435,Minhas Craft Brewery,3,2.59
+406,5.20,339833,https://www.beeradvocate.com/beer/profile/22072/339833/,Work Dreams,22072,Revolution Brewing,3,3.63
+407,4.50,157050,https://www.beeradvocate.com/beer/profile/32364/157050/,Bad Moose Pilsen,32364,Cervejaria Blondine,3,2.87
+408,4.50,86142,https://www.beeradvocate.com/beer/profile/24879/86142/,Refined Ale Golden Light Beer,24879,Refined Ale Brewery,3,1.85
+409,2.40,48512,https://www.beeradvocate.com/beer/profile/4173/48512/,Cruzcampo Light,4173,Grupo Cruzcampo SA,3,1.94
+410,3.50,197506,https://www.beeradvocate.com/beer/profile/716/197506/,Asahi Soukai,716,Asahi Breweries Ltd,3,3.06
+411,4.00,291970,https://www.beeradvocate.com/beer/profile/35312/291970/,El Buscador,35312,Descendants Beer & Beverage Co.,3,3.01
+412,3.90,107145,https://www.beeradvocate.com/beer/profile/11174/107145/,Rio Bravo Mexico's Famous Light,11174,Cerveceria Mexicana S.A. De C.V.,3,3.09
+413,3.50,284043,https://www.beeradvocate.com/beer/profile/32799/284043/,Stigma Crusher,32799,Only Child Brewing Company,3,3.51
+414, ? ,94603,https://www.beeradvocate.com/beer/profile/15349/94603/,Lemon Lager,15349,Bad Frog Brewing,3,2.68
+415,4.50,11921,https://www.beeradvocate.com/beer/profile/223/11921/,Bockor Blauw,223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,3,3.19
+416,4.00,124057,https://www.beeradvocate.com/beer/profile/35190/124057/,OC Light,35190,Ocean City Brewing Company,3,2.41
+417,4.70,203936,https://www.beeradvocate.com/beer/profile/401/203936/,Baltika Kuler Lime,401,Baltika Breweries,3,2.08
+418,5.50,211108,https://www.beeradvocate.com/beer/profile/43890/211108/,Harold's St Pete Style Lager,43890,Pinellas Ale Works,3,3.44
+419,4.90,58026,https://www.beeradvocate.com/beer/profile/3073/58026/,Light Lager,3073,Oggi's Pizza & Brewing Co.,3,2.62
+420,3.75,78511,https://www.beeradvocate.com/beer/profile/221/78511/,Red Stripe Light Ginger,221,Desnoes & Geddes Limited,3,2.7
+421,4.00,20918,https://www.beeradvocate.com/beer/profile/391/20918/,Alta Light,391,Big Rock Brewery,3,2.76
+422,4.00,30907,https://www.beeradvocate.com/beer/profile/416/30907/,Formosa Springs Light,416,Brick Brewing Co.,3,2.55
+423,2.20,135875,https://www.beeradvocate.com/beer/profile/478/135875/,Labatt 52,478,Labatt Brewing Company Ltd.,3,1.89
+424,4.80,174025,https://www.beeradvocate.com/beer/profile/31515/174025/,El White Camino,31515,Liquid Riot Bottling Company,3,4.06
+425,5.00,317645,https://www.beeradvocate.com/beer/profile/27792/317645/,Cerveza Rio,27792,Piney River Brewing Co.,3,3.73
+426,4.00,114127,https://www.beeradvocate.com/beer/profile/32004/114127/,Lyte Shot Eye For An I,32004,Libertas Inc.,3,2.12
+427,5.30,283600,https://www.beeradvocate.com/beer/profile/30491/283600/,New Mexican Lager,30491,Tractor Brewing Company,3,3.62
+428,3.40,32722,https://www.beeradvocate.com/beer/profile/12613/32722/,Regio Light,12613,Sierra Madre Brewing Co.,3,2.9
+429, ? ,43988,https://www.beeradvocate.com/beer/profile/150/43988/,Block Island Blonde Lager Beer,150,"Lion Brewery, Inc.",3,2.78
+430, ? ,60372,https://www.beeradvocate.com/beer/profile/15494/60372/,Fountain Brew,15494,The Monarch Tavern - Fountain City Brewing Co.,3,3.34
+431,4.70,328918,https://www.beeradvocate.com/beer/profile/30454/328918/,Spiteful Lager,30454,Spiteful Brewing,3,3.68
+432,5.00,107486,https://www.beeradvocate.com/beer/profile/33485/107486/,Solsidan Low Carb Premium Dry,33485,Solsidans Bryggeri,3,2.71
+433,4.30,50142,https://www.beeradvocate.com/beer/profile/626/50142/,Spring Tide,626,Mac's Brewery,3,3
+434,4.00,74482,https://www.beeradvocate.com/beer/profile/391/74482/,Pine Creek River Valley Light Lager,391,Big Rock Brewery,3,2.46
+435,3.50,76530,https://www.beeradvocate.com/beer/profile/353/76530/,Pure Blonde Naked,353,"Carlton & United Breweries, Ltd.",3,2.66
+436,3.90,198400,https://www.beeradvocate.com/beer/profile/1600/198400/,KEO Light,1600,KEO Limited,2,1.84
+437,5.20,18439,https://www.beeradvocate.com/beer/profile/8923/18439/,Amber Dry Lager,8923,The Olde Heidelberg Tavern and Brew Pub,2,2.53
+438,4.00,172556,https://www.beeradvocate.com/beer/profile/478/172556/,Lucky Light,478,Labatt Brewing Company Ltd.,2,2.83
+439,4.50,311061,https://www.beeradvocate.com/beer/profile/1491/311061/,Bavaria Red,1491,Cerveceria Costa Rica,2,3.01
+440,4.10,198678,https://www.beeradvocate.com/beer/profile/4832/198678/,Premium,4832,Triumph Brewing Company,2,2.54
+441, ? ,65307,https://www.beeradvocate.com/beer/profile/9513/65307/,Lake Effect Lager,9513,Keweenaw Brewing Company,2,3.51
+442, ? ,74269,https://www.beeradvocate.com/beer/profile/1091/74269/,Walter's Light Beer,1091,Northwoods Brewpub and Grill,2,2.77
+443, ? ,154143,https://www.beeradvocate.com/beer/profile/36867/154143/,Cascade,36867,"Lazy Loon Brewing Company, LLC",2,2
+444,3.50,151330,https://www.beeradvocate.com/beer/profile/24491/151330/,Mid On,24491,Sundance Brewing International,2,3.12
+445,5.00,300067,https://www.beeradvocate.com/beer/profile/50203/300067/,La Bamba,50203,Gravely Brewing Co.,2,3.65
+446,4.50,262437,https://www.beeradvocate.com/beer/profile/42574/262437/,Murica Lyte,42574,Brooks Brewing,2,3.61
+447,4.20,286761,https://www.beeradvocate.com/beer/profile/45787/286761/,Natural Light,45787,New Province Brewing Company,2,3.39
+448,4.50,287532,https://www.beeradvocate.com/beer/profile/29998/287532/,La Franco,29998,Cassel Brewery Co.,2,3.25
+449,3.95,97068,https://www.beeradvocate.com/beer/profile/21092/97068/,Kodiak Ridge Light,21092,World Brews,2,1.42
+450,4.00,110636,https://www.beeradvocate.com/beer/profile/30143/110636/,Tall Boy Light Lager,30143,Pike 51 Brewing Company,2,3.93
+451,3.50,53554,https://www.beeradvocate.com/beer/profile/473/53554/,Dude Limelite,473,Pacific Western Brewing Company,2,2.05
+452,2.70,185138,https://www.beeradvocate.com/beer/profile/35280/185138/,TUN Light,35280,Pinnacle Liquor Group,2,3.86
+453, ? ,313406,https://www.beeradvocate.com/beer/profile/43107/313406/,Doomlager,43107,4th Tap Brewing Co-op,2,2.64
+454,3.50,75073,https://www.beeradvocate.com/beer/profile/27117/75073/,LightSwitch Lager,27117,BJ's Restaurant & Brewhouse,2,2.48
+455,4.50,279362,https://www.beeradvocate.com/beer/profile/43482/279362/,Lucketts Store Light,43482,Vanish Beer,2,4.46
+456, ? ,111686,https://www.beeradvocate.com/beer/profile/92/111686/,Taurino,92,Cerveceria La Constancia S.A. / BevCo Ltd,2,2.08
+457,3.50,44360,https://www.beeradvocate.com/beer/profile/16316/44360/,Duke Midstrength Premium Lager,16316,Burleigh Brewing Co.,2,3.29
+458,5.50,310859,https://www.beeradvocate.com/beer/profile/30902/310859/,Martin Luther's Malt,30902,Saucony Creek Brewing Company + Gastropub,2,3.2
+459,4.70,287311,https://www.beeradvocate.com/beer/profile/33583/287311/,First Class Lager,33583,Barnstormer Brewing & Pizzeria,2,3.47
+460,3.40,190031,https://www.beeradvocate.com/beer/profile/29180/190031/,With Ease,29180,The Hermosillo / Highland Park Brewery,2,3.61
+461, ? ,41808,https://www.beeradvocate.com/beer/profile/14996/41808/,Canadian Light,14996,Buster's Brew Pub,2,2.38
+462,6.00,180817,https://www.beeradvocate.com/beer/profile/35535/180817/,Green Ridge Lager,35535,Bridge 99 Brewery,2,3.5
+463,5.00,281170,https://www.beeradvocate.com/beer/profile/780/281170/,Vienna Lager,780,Granville Island Brewery,2,3.57
+464,3.80,195927,https://www.beeradvocate.com/beer/profile/23743/195927/,2015 Harvest Blonde,23743,Endeavour Beverages,2,3.19
+465,4.00,294233,https://www.beeradvocate.com/beer/profile/31384/294233/,SkyLite,31384,Old Rail Brewing Company,2,3.91
+466,4.70,181337,https://www.beeradvocate.com/beer/profile/401/181337/,Gor'kovskoe,401,Baltika Breweries,2,2.61
+467,3.50,33883,https://www.beeradvocate.com/beer/profile/4460/33883/,Egger Leicht,4460,Privatbrauerei Fritz Egger GmbH & Co,2,2.56
+468,5.00,59488,https://www.beeradvocate.com/beer/profile/21275/59488/,Bellarine Blonde,21275,Bellarine Brewing Co.,2,2.19
+469,4.00,63585,https://www.beeradvocate.com/beer/profile/379/63585/,Moosehead Light Blackberry,379,Moosehead Breweries Ltd.,2,1.25
+470,3.50,245090,https://www.beeradvocate.com/beer/profile/46768/245090/,Lightswitch Lager,46768,BJ's Restaurant / Brewhouse,2,3.55
+471,4.90,226404,https://www.beeradvocate.com/beer/profile/33934/226404/,El Munoz Mexican Lager,33934,Sentinel Peak Brewing Company,2,3.67
+472, ? ,69992,https://www.beeradvocate.com/beer/profile/2915/69992/,American Light,2915,Gruhlke's Microbrewery,2,2.84
+473,4.30,35691,https://www.beeradvocate.com/beer/profile/13402/35691/,Lotus Light,13402,Black Lotus Brewery,2,3
+474, ? ,46956,https://www.beeradvocate.com/beer/profile/683/46956/,LES Beer,683,Valkyrie Brewing,2,3.3
+475,3.00,56177,https://www.beeradvocate.com/beer/profile/7881/56177/,Boynton's Driver's Light,7881,Boyntons Brewing Company,2,3.6
+476, ? ,63870,https://www.beeradvocate.com/beer/profile/640/63870/,Luna Sobre El Toro,640,El Toro Brewing Co.,2,2.38
+477,4.30,174463,https://www.beeradvocate.com/beer/profile/28356/174463/,R5 Lite,28356,Doylestown Brewing Co,2,3.02
+478,4.60,30593,https://www.beeradvocate.com/beer/profile/11689/30593/,No. 22 Lb. Light Lager,11689,Gella's Diner & Lb. Brewing Co.,2,3.39
+479,5.20,106375,https://www.beeradvocate.com/beer/profile/33386/106375/,Acapulco Gold,33386,Cazuela's Mexican Grill & Brewery,2,3.91
+480, ? ,106634,https://www.beeradvocate.com/beer/profile/11141/106634/,Cheney American Light,11141,Hank is Wiser Brewery,2,3
+481,4.30,315275,https://www.beeradvocate.com/beer/profile/50989/315275/,Cerveza,50989,True North Ale Company,2,4.95
+482,3.90,87189,https://www.beeradvocate.com/beer/profile/21092/87189/,Steel Kettle Whistle Light,21092,World Brews,2,1.7
+483,5.50,53142,https://www.beeradvocate.com/beer/profile/6421/53142/,Blonde Lager,6421,Stadium Brewing Company,2,3.14
+484,3.00,45724,https://www.beeradvocate.com/beer/profile/503/45724/,Balatoni Világos,503,Dreher Brewery,2,2
+485, ? ,179362,https://www.beeradvocate.com/beer/profile/16086/179362/,Longboard Lager,16086,Quigley's Pint & Plate,2,3.61
+486,5.00,131748,https://www.beeradvocate.com/beer/profile/28916/131748/,Manila Light,28916,Asia Brewery,2,2.17
+487,4.00,87461,https://www.beeradvocate.com/beer/profile/9536/87461/,Lighthouse Light Lager,9536,Mountain Crest Liquors,2,1.75
+488,3.80,79783,https://www.beeradvocate.com/beer/profile/16334/79783/,The Grouch,16334,Northern Ales & Grocery,2,1.7
+489, ? ,8104,https://www.beeradvocate.com/beer/profile/3079/8104/,Big Horn Light,3079,Ram International / Humperdinks Restaurant and Big Horn Brewing,2,2.88
+490,5.00,256179,https://www.beeradvocate.com/beer/profile/47379/256179/,Oopsproch Lager,47379,Basic City Beer Company,2,3.79
+491, ? ,192691,https://www.beeradvocate.com/beer/profile/8689/192691/,Honey Duck Lager,8689,Lost Duck Brewing Company,2,3.33
+492,3.50,32697,https://www.beeradvocate.com/beer/profile/13656/32697/,Regio Light,13656,Sierra Madre Brewing Co.,2,2.78
+493,4.90,251577,https://www.beeradvocate.com/beer/profile/4555/251577/,Tailgater Light Lager,4555,Tustin Brewing Company,2,3.59
+494,5.50,337338,https://www.beeradvocate.com/beer/profile/48380/337338/,Sticky Pints,48380,Hardywood Pilot Brewery & Taproom,2,4.17
+495,3.20,240059,https://www.beeradvocate.com/beer/profile/45951/240059/,Lightning Lager,45951,81Bay Brewing,2,3.09
+496,5.00,146620,https://www.beeradvocate.com/beer/profile/35491/146620/,Cole's Trickle Lager,35491,Wild Ride Brewing Co.,2,3.52
+497,4.20,173501,https://www.beeradvocate.com/beer/profile/32830/173501/,Light Beer,32830,Menace Brewing,2,3.38
+498,5.00,2240,https://www.beeradvocate.com/beer/profile/456/2240/,Rhode Island Ram Light Lager,456,Trinity Brewhouse,2,2.81
+499,5.20,295360,https://www.beeradvocate.com/beer/profile/48249/295360/,Cervesa Medico,48249,Woodland Farms Brewery,2,3.3
+500,4.20,156867,https://www.beeradvocate.com/beer/profile/1463/156867/,Bear Beer Lite Lager,1463,Harboes Bryggeri A/S,2,3.07
+501,3.10,41155,https://www.beeradvocate.com/beer/profile/484/41155/,Gray's Light Beer,484,Gray's Brewing Company,2,3.94
+502,4.50,325580,https://www.beeradvocate.com/beer/profile/43098/325580/,Deadbeach Lager,43098,DeadBeach Brewery,2,3.17
+503,4.50,109517,https://www.beeradvocate.com/beer/profile/33637/109517/,Kalona Light,33637,Kalona Brewing Company,2,3.38
+504,5.50,224207,https://www.beeradvocate.com/beer/profile/42561/224207/,Pompano Lager,42561,26 Degree Brewing Company,2,3.84
+505,5.00,135382,https://www.beeradvocate.com/beer/profile/3474/135382/,Losantiville Pre-Prohibition Lager,3474,Listermann Brewing Company,2,2.43
+506,3.50,263896,https://www.beeradvocate.com/beer/profile/23743/263896/,2016 Harvest Mid,23743,Endeavour Beverages,2,3
+507,4.20,271068,https://www.beeradvocate.com/beer/profile/31399/271068/,Classic Light Lager,31399,Aslan Brewing Company,2,3.88
+508,4.50,72414,https://www.beeradvocate.com/beer/profile/5010/72414/,Light Lager,5010,Buller Brewing Co.,2,3.69
+509,4.17,276454,https://www.beeradvocate.com/beer/profile/32953/276454/,Miller Lite,32953,Millersburg Brewing Company,2,1.92
+510,5.20,282344,https://www.beeradvocate.com/beer/profile/48249/282344/,Nicholas,48249,Woodland Farms Brewery,2,4.16
+511,4.20,115688,https://www.beeradvocate.com/beer/profile/651/115688/,Polar Vortex,651,Ithaca Beer Company,2,3.38
+512,4.50,12521,https://www.beeradvocate.com/beer/profile/6326/12521/,Lion Light Lager,6326,The Lion Brewery Restaurant,2,2.73
+513, ? ,136945,https://www.beeradvocate.com/beer/profile/4707/136945/,S&B Lager,4707,Choc Beer Co. / Pete's Place,2,3.5
+514,4.50,272638,https://www.beeradvocate.com/beer/profile/48528/272638/,Lager,48528,G-Man Brewery,2,4.93
+515,5.20,249598,https://www.beeradvocate.com/beer/profile/48/249598/,Steenberge Premium Pilsener,48,Brouwerij Van Steenberge N.V.,2,2.75
+516,2.80,188673,https://www.beeradvocate.com/beer/profile/15098/188673/,Carrefour Lager Light,15098,Font Salem,1,2.3
+517,3.00,79621,https://www.beeradvocate.com/beer/profile/822/79621/,White Cap Light,822,East African Breweries Ltd (Kenya Breweries),1,1.76
+518,3.70,93705,https://www.beeradvocate.com/beer/profile/28309/93705/,Brestskoe Svetloe,28309,Brestskiy Kombinat Bezalkogolnych Napitkov,1,2.71
+519, ? ,55821,https://www.beeradvocate.com/beer/profile/13879/55821/,West Bend Legacy Lager,13879,Riverside Brewery And Restaurant,1,1.98
+520,4.75,209678,https://www.beeradvocate.com/beer/profile/42562/209678/,El Cerrito,42562,Temblor Brewing Company,1,3.37
+521,5.50,310030,https://www.beeradvocate.com/beer/profile/44306/310030/,Stosh.O,44306,Byway Brewing,1,3.32
+522,3.50,64526,https://www.beeradvocate.com/beer/profile/3585/64526/,Lightswitch Lager,3585,BJ's Restaurant & Brewhouse,1,3
+523,3.90,292880,https://www.beeradvocate.com/beer/profile/37433/292880/,Larry's Latest Light Lager,37433,Upper Hand Brewery,1,3.44
+524, ? ,323603,https://www.beeradvocate.com/beer/profile/13981/323603/,Pop's Pre-Prohibition Pilsner,13981,Canteen Brewhouse,1,3.71
+525,4.90,220948,https://www.beeradvocate.com/beer/profile/16866/220948/,The Gardener,16866,The Bruery,1,4
+526,4.60,53013,https://www.beeradvocate.com/beer/profile/14831/53013/,Mash Summer Lager,14831,Mash Brewing,1,2.38
+527,4.00,131606,https://www.beeradvocate.com/beer/profile/391/131606/,PC Light,391,Big Rock Brewery,1,2.34
+528,4.60,323094,https://www.beeradvocate.com/beer/profile/51642/323094/,Premium Export,51642,Brexit Beverages Company,1,2.36
+529,4.70,170008,https://www.beeradvocate.com/beer/profile/27641/170008/,Silver Cream,27641,Rail House Restaurant & Brewpub,1,3.48
+530,5.00,81434,https://www.beeradvocate.com/beer/profile/9979/81434/,Engrain Petit épeautre,9979,Moulin Des Moines,1,3.33
+531,3.50,285210,https://www.beeradvocate.com/beer/profile/44225/285210/,First Secret Eagle,44225,MoreBeer,1,2
+532,4.00,28443,https://www.beeradvocate.com/beer/profile/8213/28443/,Pat's Lite,8213,The Tap Brewing Co. & Eatery Inc.,1,1.83
+533,4.30,296988,https://www.beeradvocate.com/beer/profile/19606/296988/,Guineu / Van Moll - Chihuahua Cartel,19606,Ca l'Arenys / Cervesa Guineu,1,3
+534,2.60,168988,https://www.beeradvocate.com/beer/profile/355/168988/,San Mig Zero,355,San Miguel Brewery Inc.,1,2.17
+535,5.50,244508,https://www.beeradvocate.com/beer/profile/42561/244508/,Tri-County Common Lager,42561,26 Degree Brewing Company,1,3.85
+536, ? ,59937,https://www.beeradvocate.com/beer/profile/22265/59937/,Caballero Cerveza Mexican Lager,22265,Barley Mill Brewpub / Barley & Grapes,1,2.6
+537,2.80,87842,https://www.beeradvocate.com/beer/profile/3351/87842/,Carling Zest Winter,3351,Coors Brewers Ltd,1,2.18
+538,2.70,150308,https://www.beeradvocate.com/beer/profile/35280/150308/,Clipper Light,35280,Pinnacle Liquor Group,1,2.58
+539,5.50,268071,https://www.beeradvocate.com/beer/profile/35693/268071/,UFF-DA,35693,Sisyphus Brewing,1,3.91
+540,3.00,46119,https://www.beeradvocate.com/beer/profile/9351/46119/,Donauer Gold,9351,Pivovar a Sodovkárna Jihlava,1,1.85
+541,4.80,285736,https://www.beeradvocate.com/beer/profile/11597/285736/,El Lagedor,11597,Asheville Brewing Company,1,3.99
+542,3.90,198185,https://www.beeradvocate.com/beer/profile/31450/198185/,Buffalo Commons Session,31450,Buffalo Commons Brewing Company,1,3.75
+543,4.10,301609,https://www.beeradvocate.com/beer/profile/37717/301609/,BC Light,37717,Territorial Brewing Company,1,3.5
+544,5.00,96810,https://www.beeradvocate.com/beer/profile/1683/96810/,Lift House Light Lager,1683,Santa Fe Brewing Company,1,3.33
+545,3.60,108331,https://www.beeradvocate.com/beer/profile/12913/108331/,Hayburner Light,12913,Lumber Barons Brewery,1,4
+546, ? ,333358,https://www.beeradvocate.com/beer/profile/33030/333358/,Blueberry Lager,33030,Arch Brewing Company Inc.,1,4.4
+547,4.10,293422,https://www.beeradvocate.com/beer/profile/39763/293422/,Island Life,39763,The Waterfront Brewery,1,3.97
+548,4.30,242478,https://www.beeradvocate.com/beer/profile/46364/242478/,American Light Lager,46364,Lakeville Brewing Co.,1,3.03
+549,4.70,248622,https://www.beeradvocate.com/beer/profile/46894/248622/,House Beer,46894,Helio Basin Brewing Co.,1,3.99
+550,4.00,87602,https://www.beeradvocate.com/beer/profile/29922/87602/,Premium Light Lager,29922,Heist Brewery,1,3.58
+551, ? ,138035,https://www.beeradvocate.com/beer/profile/29783/138035/,Ruhl's Lager,29783,Ruhlman Brewery,1,3.49
+552,3.20,248115,https://www.beeradvocate.com/beer/profile/39741/248115/,Dirty Sanchez Mexican Creme Lager,39741,Großen Bart Brewery,1,3.65
+553,4.50,330292,https://www.beeradvocate.com/beer/profile/43488/330292/,Paddleboard Pilsner,43488,Alt Brew,1,3.69
+554,4.50,113210,https://www.beeradvocate.com/beer/profile/34066/113210/,Ice Tea Lager,34066,Perth Brewing Co.,1,2.52
+555,4.90,313915,https://www.beeradvocate.com/beer/profile/2479/313915/,Adriática,2479,Antarctica (Companhia Brasileira De Bebidas),1,2.77
+556,4.80,188478,https://www.beeradvocate.com/beer/profile/16094/188478/,Green Neck Lager,16094,Double Mountain Brewery & Taproom,1,3.36
+557,4.60,220735,https://www.beeradvocate.com/beer/profile/24661/220735/,Broo,24661,BROO Pty Ltd,1,4.5
+558,3.30,144448,https://www.beeradvocate.com/beer/profile/37343/144448/,Green Barley,37343,Tibet Tiandi Green Beverage Development Co.,1,2.8
+559,4.00,141633,https://www.beeradvocate.com/beer/profile/822/141633/,Tusker Lite,822,East African Breweries Ltd (Kenya Breweries),1,2.61
+560,3.80,23874,https://www.beeradvocate.com/beer/profile/2144/23874/,Summertime Cerveza,2144,McCoy's Public House,1,3.75
+561,5.20,181826,https://www.beeradvocate.com/beer/profile/41518/181826/,Ojos Locos,41518,Lucky Star Brewery,1,4.63
+562,5.70,297284,https://www.beeradvocate.com/beer/profile/3968/297284/,Camarillo Brillo,3968,Lily's Seafood & B.C.,1,3.79
+563,4.00,314180,https://www.beeradvocate.com/beer/profile/45869/314180/,Nonethewizer,45869,Evil Horse Brewing Company,1,3.13
+564,4.00,136261,https://www.beeradvocate.com/beer/profile/1949/136261/,Land Beer,1949,Bohemian Brewery,1,3.5
+565,3.00,46150,https://www.beeradvocate.com/beer/profile/11941/46150/,Schlossmühle,11941,Pécsi Sörfözde,1,2.5
+566,4.50,209224,https://www.beeradvocate.com/beer/profile/43468/209224/,Larger Keith,43468,The Keith Brewery,1,2.81
+567,3.80,209995,https://www.beeradvocate.com/beer/profile/12516/209995/,Retro Dog Light,12516,Thirsty Dog Brewing Company,1,3.69
+568, ? ,57165,https://www.beeradvocate.com/beer/profile/640/57165/,Gena's Honey Blonde,640,El Toro Brewing Co.,1,4
+569,3.90,59726,https://www.beeradvocate.com/beer/profile/16594/59726/,Fischer Light,16594,LagerHaus Grill & Brewery,1,3.25
+570,4.60,150863,https://www.beeradvocate.com/beer/profile/38008/150863/,Saint Premium Light Lager,38008,The Saint Brewing Co.,1,2.81
+571,3.30,84817,https://www.beeradvocate.com/beer/profile/1479/84817/,"Hammer ""n"" Tongs Gold",1479,J. Boag & Son Brewing,1,1.79
+572, ? ,304210,https://www.beeradvocate.com/beer/profile/2309/304210/,Summer Shandy,2309,Ellis Island Casino & Brewery,1,2.26
+573,4.80,314709,https://www.beeradvocate.com/beer/profile/51142/314709/,Bushwacker Lager,51142,Bushwacker Beverage Company,1,2.58
+574,4.50,223830,https://www.beeradvocate.com/beer/profile/44919/223830/,Altarreina,44919,"Cervecería Tepozteca RC, SA De CV",1,2.83
+575,4.40,254550,https://www.beeradvocate.com/beer/profile/11023/254550/,Lux Lager,11023,Nickel Brook Brewing Co.,1,3
+576,5.00,11097,https://www.beeradvocate.com/beer/profile/5095/11097/,Light,5095,Naturbier,1,3.08
+577, ? ,285274,https://www.beeradvocate.com/beer/profile/37920/285274/,Urbangang,37920,Urban Chestnut Brewing Company - Grove Brewery & Bierhall,1,3.27
+578,3.70,141152,https://www.beeradvocate.com/beer/profile/23261/141152/,Light American Lager,23261,Pecan Grill & Brewery,1,2.5
+579,4.80,179808,https://www.beeradvocate.com/beer/profile/35564/179808/,Ionian Gold,35564,Corfu Beer,1,3.66
+580,4.00,257376,https://www.beeradvocate.com/beer/profile/47598/257376/,Kinda Light,47598,Wooden Cask Brewing Company,1,3.5
+581,3.90,183649,https://www.beeradvocate.com/beer/profile/33735/183649/,American Standard Corn Lager,33735,Nano 108 Brewing Company,1,2.5
+582, ? ,301415,https://www.beeradvocate.com/beer/profile/1749/301415/,Sconnie Light,1749,Wisconsin Dells Brewing Co.,1,2.07
+583,3.00,46183,https://www.beeradvocate.com/beer/profile/9351/46183/,Hektor,9351,Pivovar a Sodovkárna Jihlava,1,1.8
+584,6.00,311912,https://www.beeradvocate.com/beer/profile/46328/311912/,Das Lager-Housen,46328,Lost Tavern Brewing,1,3.43
+585,3.80,339306,https://www.beeradvocate.com/beer/profile/4302/339306/,Belikin Light,4302,"Belize Brewing Co., Ltd.",1,2.06
+586,4.50,244077,https://www.beeradvocate.com/beer/profile/29744/244077/,Hickster - American Craft Lager,29744,BarrelHouse Brewing Company,1,4.85
+587,4.20,63085,https://www.beeradvocate.com/beer/profile/24146/63085/,Jalehouse Light,24146,Jalehouse Beer (Turtle Distributing Co.),1,2.06
+588,4.50,152942,https://www.beeradvocate.com/beer/profile/9869/152942/,Lincoln Lager,9869,Astoria Brewing Company / Wet Dog Cafe,1,3.56
+589, ? ,317294,https://www.beeradvocate.com/beer/profile/39160/317294/,Cerveza Delray,39160,Brew Detroit,1,3.59
+590,3.50,221807,https://www.beeradvocate.com/beer/profile/721/221807/,Carlsberg Mid 3.5,721,Carlsberg Danmark A/S,1,2.9
+591,3.70,252015,https://www.beeradvocate.com/beer/profile/47281/252015/,Mundelager,47281,Bosacki's Home Brew,1,3.43
+592,4.00,338288,https://www.beeradvocate.com/beer/profile/31850/338288/,Republic Of Texas,31850,903 Brewers,1,3.75
+593, ? ,330097,https://www.beeradvocate.com/beer/profile/48944/330097/,Bavarian Lager,48944,Fiddlin' Fish Brewing Company,1,4.24
+594,5.00,233846,https://www.beeradvocate.com/beer/profile/34772/233846/,Lemon Drop,34772,LTD Brewing Co.,1,3.5
+595,3.80,290423,https://www.beeradvocate.com/beer/profile/17005/290423/,Lima Loca,17005,Two Beers Brewing Co.,1,3.52
+596,4.20,257658,https://www.beeradvocate.com/beer/profile/42935/257658/,College,42935,Black Hammer Brewing,1,3.75
+597,4.50,61566,https://www.beeradvocate.com/beer/profile/10029/61566/,Bondi Blonde Low Carb Lager,10029,Bluetongue Brewery Pty Ltd,1,2.48
+598,4.80,333183,https://www.beeradvocate.com/beer/profile/43661/333183/,Gaucho Ilex Lager,43661,Rising Silo Brewery,1,4.83
+599,3.50,299649,https://www.beeradvocate.com/beer/profile/1917/299649/,Lech Lite,1917,Kompania Piwowarska,1,2.51
+600, ? ,255106,https://www.beeradvocate.com/beer/profile/25024/255106/,Sessionista Ale,25024,White Gypsy Brewery,1,4
+601, ? ,135811,https://www.beeradvocate.com/beer/profile/2436/135811/,BC Light,2436,Blue Corn Brewery,1,3.75
+602,4.00,281987,https://www.beeradvocate.com/beer/profile/29983/281987/,Stein Song,29983,Geaghan's Restaurant & Pub,1,3.71
+603,3.80,314757,https://www.beeradvocate.com/beer/profile/29068/314757/,Gem City Lager,29068,The Dayton Beer Company,1,3.8
+604,5.60,172935,https://www.beeradvocate.com/beer/profile/2946/172935/,Troll's Gold Lager,2946,The Grumpy Troll Restaurant and Brewery,1,2.58
+605,3.50,319367,https://www.beeradvocate.com/beer/profile/14955/319367/,Soul,14955,Cervejaria Schornstein,1,2.49
+606,3.20,119435,https://www.beeradvocate.com/beer/profile/11689/119435/,No. 47 Lb. Lite,11689,Gella's Diner & Lb. Brewing Co.,1,3
+607,5.20,223630,https://www.beeradvocate.com/beer/profile/6928/223630/,"Snap,Crackle,Hops",6928,Twain's Billiards and Tap,1,4
+608, ? ,117646,https://www.beeradvocate.com/beer/profile/491/117646/,Big Barrel Lager,491,Coopers Brewery Limited,1,3
+609, ? ,124307,https://www.beeradvocate.com/beer/profile/30764/124307/,American Patriot Light,30764,The All American Beer Company.,1,1.84
+610,4.20,340373,https://www.beeradvocate.com/beer/profile/47868/340373/,Nojito Ultra Hopped,47868,Matchless Brewing,1,3.96
+611,3.90,294549,https://www.beeradvocate.com/beer/profile/38153/294549/,Deichbrise,38153,Buddelship Brauerei GmbH,1,3.09
+612,5.00,309142,https://www.beeradvocate.com/beer/profile/34323/309142/,La Mission Mexican Style Lager,34323,San Francisco Brewing Company,1,4.19
+613,5.50,304535,https://www.beeradvocate.com/beer/profile/514/304535/,FIRST tRYE,514,Jopen Bier BV Haarlem,1,3.25
+614,4.80,132248,https://www.beeradvocate.com/beer/profile/27297/132248/,River Lager,27297,Cervejaria Amazônia Ltda.,1,3.21
+615,4.30,240537,https://www.beeradvocate.com/beer/profile/42278/240537/,Donkey Show Mexican Lager,42278,Hidden Springs Ale Works,1,3.02
+616,4.50,334235,https://www.beeradvocate.com/beer/profile/50808/334235/,O Light,50808,O Light,1,4.27
+617,4.00,255646,https://www.beeradvocate.com/beer/profile/4865/255646/,Summit,4865,Speight’s Ale House,1,2.01
+618,3.50,229535,https://www.beeradvocate.com/beer/profile/10020/229535/,LightSwitch Lager,10020,BJ's Restaurant & Brewhouse,1,3.04
+619, ? ,101793,https://www.beeradvocate.com/beer/profile/758/101793/,Uncle Bucks White River Beer,758,Uncle Buck's Brewery & Steakhouse,1,2.5
+620,4.50,289187,https://www.beeradvocate.com/beer/profile/41847/289187/,Lolager Session Pilsner,41847,Howling Henry's Brewery,1,3.52
+621,5.40,326053,https://www.beeradvocate.com/beer/profile/49535/326053/,#94 Sparkling Ale,49535,Hoops Brewing Company,1,2.5
+622,4.20,339622,https://www.beeradvocate.com/beer/profile/18046/339622/,Holsten Premium Bier,18046,Carlsberg Srbija D.O.O. Pivara,1,2.69
+623,2.70,200108,https://www.beeradvocate.com/beer/profile/35280/200108/,Arc Valley Premium Light,35280,Pinnacle Liquor Group,1,3.57
+624, ? ,153516,https://www.beeradvocate.com/beer/profile/13805/153516/,Miss Jessie’s Light Blue Brew,13805,Uncle Ernie's Bayfront Grill & Brew House,1,3.26
+625,3.20,216494,https://www.beeradvocate.com/beer/profile/7753/216494/,Brown Mountain Light,7753,Olde Hickory Brewery,1,4
+626,3.50,56494,https://www.beeradvocate.com/beer/profile/10897/56494/,"Pripps Blå Pure 3,5%",10897,Carlsberg Sverige AB,1,1.92
+627,3.50,224432,https://www.beeradvocate.com/beer/profile/43113/224432/,LightSwitch Lager,43113,BJ's Restaurant & Brewhouse,1,4.37
+628,4.00,294324,https://www.beeradvocate.com/beer/profile/49127/294324/,Simple Sailor,49127,Moby Dick Brewing Company,1,2.03
+629,5.00,105909,https://www.beeradvocate.com/beer/profile/31339/105909/,Green Bottle Lager,31339,Kaktus Brewing Company,1,3.5
+630,4.50,240565,https://www.beeradvocate.com/beer/profile/34672/240565/,West Coast Session Lager,34672,Sweetgrass Brewing Co.,1,3.9
+631,4.00,187831,https://www.beeradvocate.com/beer/profile/42070/187831/,Light Lager,42070,Bayside Brewing Company,1,3.41
+632,3.00,256183,https://www.beeradvocate.com/beer/profile/1001/256183/,Spot Light,1001,Firehouse Brewing Co.,1,3.25
+633,6.00,103098,https://www.beeradvocate.com/beer/profile/10271/103098/,Legacy Lager,10271,Silver Moon Brewing,1,3
+634,3.30,63419,https://www.beeradvocate.com/beer/profile/92/63419/,Pilsener Lite,92,Cerveceria La Constancia S.A. / BevCo Ltd,1,1.65
+635, ? ,80828,https://www.beeradvocate.com/beer/profile/1422/80828/,Big City Light,1422,Melanie Brewing Company,1,2.66
+636,4.00,313789,https://www.beeradvocate.com/beer/profile/31872/313789/,Buddha Light,31872,Stack Brewing,1,3.5
+637,4.00,52413,https://www.beeradvocate.com/beer/profile/4043/52413/,Frio!,4043,Fort Garry Brewing Company Ltd.,1,3.03
+638,4.20,297662,https://www.beeradvocate.com/beer/profile/2097/297662/,Kuhnhenn Classic American Light,2097,Kuhnhenn Brewing Company,1,3.6
+639,3.50,280255,https://www.beeradvocate.com/beer/profile/37139/280255/,Ella & Opal,37139,Maplewood Brewery & Distillery,1,3.54
+640,4.70,202432,https://www.beeradvocate.com/beer/profile/4980/202432/,Larry's Lager,4980,Engine House No. 9,1,3.5
+641,3.50,213696,https://www.beeradvocate.com/beer/profile/169/213696/,Stella Artois Legere 3.5,169,Stella Artois,1,2.83
+642,6.20,145601,https://www.beeradvocate.com/beer/profile/32575/145601/,Pumpkin Lager,32575,Paradox Brewery,1,3
+643,5.70,302787,https://www.beeradvocate.com/beer/profile/48923/302787/,Light Rider,48923,Bad Sons Beer Company,1,3.53
+644, ? ,122051,https://www.beeradvocate.com/beer/profile/1550/122051/,Crevza De Mayo,1550,Rock Bottom Restaurant & Brewery,1,2.5
+645,5.20,170436,https://www.beeradvocate.com/beer/profile/18159/170436/,Hybrid Lager,18159,Southern Brewing & Winemaking Supply,1,3.71
+646,4.20,248260,https://www.beeradvocate.com/beer/profile/29088/248260/,Light,29088,Hollywood Brewing Co.,1,3.18
+647,7.00,186564,https://www.beeradvocate.com/beer/profile/19602/186564/,Honey Badger,19602,Snowy Mountain Brewery,1,3.5
+648,5.30,200646,https://www.beeradvocate.com/beer/profile/43209/200646/,Cream Lager,43209,Conner Fields Brewing,1,3.75
+649,4.50,177607,https://www.beeradvocate.com/beer/profile/1550/177607/,Lake Shore Drive Light,1550,Rock Bottom Restaurant & Brewery,1,3.38
+650,4.50,173768,https://www.beeradvocate.com/beer/profile/11065/173768/,Vaalea Lager,11065,Olvi Oyj,1,2.66
+651,2.50,154569,https://www.beeradvocate.com/beer/profile/38006/154569/,Feather Light Lager,38006,High Sierra Brewing Company,1,3.75
+652,3.75,30153,https://www.beeradvocate.com/beer/profile/1708/30153/,Naked River Light,1708,Sweetwater Tavern & Brewery,1,3.74
+653,3.50,240073,https://www.beeradvocate.com/beer/profile/46434/240073/,LightSwitch,46434,BJ'S Restaurant & Brewhouse,1,2.73
+654,4.40,310473,https://www.beeradvocate.com/beer/profile/29180/310473/,Friendlier,29180,The Hermosillo / Highland Park Brewery,1,4
+655,4.40,148427,https://www.beeradvocate.com/beer/profile/26824/148427/,Tap Of The Hill Lager,26824,The Civil Life Brewing Company,1,3.25
+656, ? ,317132,https://www.beeradvocate.com/beer/profile/51070/317132/,Millstone Helles Lager,51070,Lake St. George Brewing,1,4.28
+657,4.00,263118,https://www.beeradvocate.com/beer/profile/32581/263118/,New Style American Girlfriend,32581,Austin Beer Garden Brewing Co.,1,3
+658,4.70,225486,https://www.beeradvocate.com/beer/profile/7200/225486/,Khukuri,7200,Gorkha Brewery,1,3.74
+659,4.90,281039,https://www.beeradvocate.com/beer/profile/30536/281039/,Viva Easton,30536,Two Rivers Brewing Company,1,3.47
+660, ? ,150479,https://www.beeradvocate.com/beer/profile/478/150479/,Power Play Lager,478,Labatt Brewing Company Ltd.,1,1
+661,4.20,294095,https://www.beeradvocate.com/beer/profile/24787/294095/,Offering #36: Lux Lager,24787,St. Boniface Craft Brewing Company,1,3.56
+662,5.00,225744,https://www.beeradvocate.com/beer/profile/23108/225744/,Engine 15 J'ville,23108,Engine 15 Brewing Company,1,3
+663,4.00,96465,https://www.beeradvocate.com/beer/profile/7722/96465/,Spring Of Perles,7722,Huske Hardware House Brewing Company,1,3.71
+664, ? ,201427,https://www.beeradvocate.com/beer/profile/34145/201427/,F'n Canoe Lager,34145,The VB Brewery,1,3.02
+665,5.30,285139,https://www.beeradvocate.com/beer/profile/40054/285139/,Liger,40054,Spangalang Brewery,1,3.5
+666,2.90,179411,https://www.beeradvocate.com/beer/profile/23643/179411/,Half Acre Light Ale,23643,Van Dieman Brewing,1,3.19
+667,4.50,94165,https://www.beeradvocate.com/beer/profile/671/94165/,Kilikia Light,671,Beer of Yerevan JSC,1,1.94
+668,4.60,225752,https://www.beeradvocate.com/beer/profile/36350/225752/,Blood Orange Dawn Patrol,36350,Fat Point Brewing,1,3.38
+669,4.60,52952,https://www.beeradvocate.com/beer/profile/13136/52952/,Gage Roads Kutt,13136,Gage Roads Brewing Company,1,3.52
+670, ? ,151770,https://www.beeradvocate.com/beer/profile/36867/151770/,Lager With Lime,36867,"Lazy Loon Brewing Company, LLC",1,3
+671, ? ,275420,https://www.beeradvocate.com/beer/profile/48776/275420/,Premium Lager,48776,"The Downtown - Pub, Microbrewery, & Air Bar",1,3.47
+672,2.50,102111,https://www.beeradvocate.com/beer/profile/2930/102111/,Co-Op Lager Mid-Strength,2930,Robert Cain & Company Limited,1,1.39
+673,4.00,70629,https://www.beeradvocate.com/beer/profile/391/70629/,Original Joe's Light Lager,391,Big Rock Brewery,1,3
+674, ? ,110309,https://www.beeradvocate.com/beer/profile/16455/110309/,South Of The Border (SOB),16455,Suds Brothers Brewery,1,3.75
+675, ? ,110566,https://www.beeradvocate.com/beer/profile/221/110566/,Red Stripe Light Lime,221,Desnoes & Geddes Limited,1,2.25
+676,4.50,45544,https://www.beeradvocate.com/beer/profile/4089/45544/,Spotlight,4089,Krönleins Bryggeri AB,1,1.56
+677,5.00,292073,https://www.beeradvocate.com/beer/profile/41720/292073/,Mountain Brew Light,41720,Associated Brewing Company,1,3.5
+678,3.30,57321,https://www.beeradvocate.com/beer/profile/5367/57321/,Pilsener Light,5367,Cervezas Nacionales,1,2.86
+679,3.20,78570,https://www.beeradvocate.com/beer/profile/28423/78570/,Nizhegorodskoye Bochkovoye,28423,"ZAO ''Pivovarenniy Zavod Lyskovskiy'' (ЗАО ""Пивоваренный Завод Лысковский",1,2.54
+680,4.30,335596,https://www.beeradvocate.com/beer/profile/46612/335596/,F.A.B.,46612,Evergreen Brewery,1,3.53
+681, ? ,291309,https://www.beeradvocate.com/beer/profile/36467/291309/,American Pils,36467,Catskill Brewery,1,3.25
+682, ? ,136686,https://www.beeradvocate.com/beer/profile/705/136686/,Lightest Beer,705,Union Station Brewery,1,3.44
+683, ? ,130542,https://www.beeradvocate.com/beer/profile/3838/130542/,Jasne,3838,Minibrowar Restauracja Spiz,1,2.7
+684,3.80,197618,https://www.beeradvocate.com/beer/profile/659/197618/,Atlas Chelada,659,"Cervecería Nacional, S.A.",1,3
+685,6.10,232690,https://www.beeradvocate.com/beer/profile/29606/232690/,Three Mile Point Belgian Lager,29606,Council Rock Brewery,1,2.88
+686,4.30,183794,https://www.beeradvocate.com/beer/profile/14413/183794/,The Idaho Arm Curl,14413,Mick Duff's Brewing Company,1,3.47
+687,4.00,121587,https://www.beeradvocate.com/beer/profile/12913/121587/,Timberwolf Light,12913,Lumber Barons Brewery,1,2.75
+688,4.70,260853,https://www.beeradvocate.com/beer/profile/28608/260853/,Day Drinker,28608,Brewfinity Brewing Company,1,3.75
+689,6.80,301814,https://www.beeradvocate.com/beer/profile/49542/301814/,XX Cream Ale,49542,Starry Eyed Brewing Co.,1,4
+690,3.50,64513,https://www.beeradvocate.com/beer/profile/21445/64513/,Lightswitch Lager,21445,BJ's Restaurant And Brewhouse,0,0
+691,5.00,217860,https://www.beeradvocate.com/beer/profile/44526/217860/,X-Wäls,44526,Wäls Gastropub,0,0
+692,3.80,259076,https://www.beeradvocate.com/beer/profile/47726/259076/,Sonner,47726,Cervejaria Besten,0,0
+693,5.20,306957,https://www.beeradvocate.com/beer/profile/48249/306957/,Bluebeard,48249,Woodland Farms Brewery,0,0
+694,3.50,161296,https://www.beeradvocate.com/beer/profile/24665/161296/,Narrows Lager,24665,The Old Brewery,0,0
+695, ? ,307729,https://www.beeradvocate.com/beer/profile/379/307729/,Cracked Canoe,379,Moosehead Breweries Ltd.,0,0
+696,5.80,330259,https://www.beeradvocate.com/beer/profile/50146/330259/,Kolka Creek,50146,Rolling Oak Brewing Company,0,0
+697,4.10,325651,https://www.beeradvocate.com/beer/profile/35210/325651/,Van ICE,35210,MacLeod Ale Brewing Company,0,0
+698,4.30,238612,https://www.beeradvocate.com/beer/profile/38612/238612/,Loxahatchee Lager,38612,Twisted Trunk Brewing Company,0,0
+699,3.50,161301,https://www.beeradvocate.com/beer/profile/26617/161301/,Grafton Gold,26617,Thunder Road Brewing Company,0,0
+700,3.50,242202,https://www.beeradvocate.com/beer/profile/46371/242202/,LightSwitch Lager,46371,BJ’s Restaurant & Brewhouse,0,0
+701,3.70,235804,https://www.beeradvocate.com/beer/profile/46060/235804/,Lighthouse Lite,46060,Presqu'ile Craft Brewery,0,0
+702,4.60,204321,https://www.beeradvocate.com/beer/profile/1717/204321/,Pyennaya Prokhlada,1717,"Cheboksarskaya Pivovariya ""Buket Chuvashii""",0,0
+703,2.80,168738,https://www.beeradvocate.com/beer/profile/5142/168738/,Oettinger Leicht,5142,Oettinger Brauerei,0,0
+704,4.90,299556,https://www.beeradvocate.com/beer/profile/50306/299556/,Mexican Lager,50306,Varietal Beer Company,0,0
+705,3.50,191271,https://www.beeradvocate.com/beer/profile/22398/191271/,LightSwitch Lager,22398,BJ's Restaurant & Brewery,0,0
+706,4.00,204072,https://www.beeradvocate.com/beer/profile/1712/204072/,Bierhaus Light,1712,Bryanskpivo,0,0
+707, ? ,214573,https://www.beeradvocate.com/beer/profile/273/214573/,Tranquilo Mexican-Style Lager,273,SweetWater Brewing Company,0,0
+708,3.90,110638,https://www.beeradvocate.com/beer/profile/13446/110638/,Pub Light,13446,Wind River Brewing Company,0,0
+709,4.75,214063,https://www.beeradvocate.com/beer/profile/40832/214063/,ICE,40832,K2 (Kulshan Brewing Co.),0,0
+710,4.40,154928,https://www.beeradvocate.com/beer/profile/35855/154928/,OMG (Old Man Garrett),35855,The Damascus Brewery,0,0
+711,4.70,204593,https://www.beeradvocate.com/beer/profile/32129/204593/,Hercules Light Lager,32129,Hercules (Геркулес),0,0
+712, ? ,153649,https://www.beeradvocate.com/beer/profile/29838/153649/,Mountain Light,29838,Smoky Mountain Brewery And Restaruant,0,0
+713,5.00,232242,https://www.beeradvocate.com/beer/profile/33888/232242/,Munich Lager,33888,Six Ten Brewing,0,0
+714,5.00,337203,https://www.beeradvocate.com/beer/profile/52393/337203/,River City Tap Water,52393,Canon & Draw Brewing Company,0,0
+715,4.20,299574,https://www.beeradvocate.com/beer/profile/4378/299574/,El Niño,4378,Georgetown Brewing Company,0,0
+716,4.50,113208,https://www.beeradvocate.com/beer/profile/34066/113208/,121 Light,34066,Perth Brewing Co.,0,0
+717,5.00,234298,https://www.beeradvocate.com/beer/profile/21154/234298/,Can I Have Some Pie,21154,Swamp Head Brewery,0,0
+718,4.40,203835,https://www.beeradvocate.com/beer/profile/9798/203835/,Lightner Creek Lager,9798,Carver Brewing Co.,0,0
+719, ? ,166204,https://www.beeradvocate.com/beer/profile/39864/166204/,Carronade Light,39864,Scorpion Brewing,0,0
+720,3.80,141630,https://www.beeradvocate.com/beer/profile/822/141630/,Pilsner Ice Light,822,East African Breweries Ltd (Kenya Breweries),0,0
+721,3.80,158784,https://www.beeradvocate.com/beer/profile/38991/158784/,984,38991,Mundo Maya Brewing Company,0,0
+722, ? ,233538,https://www.beeradvocate.com/beer/profile/10607/233538/,SWP Lager,10607,Sixpoint Brewery,0,0
+723,4.20,337220,https://www.beeradvocate.com/beer/profile/14967/337220/,Mango Old 56,14967,Brau Brothers Brewing Co. LLC,0,0
+724,4.70,270405,https://www.beeradvocate.com/beer/profile/48497/270405/,American Pilsner,48497,Sons Of Liberty Beer And Spirits Co.,0,0
+725,3.50,224581,https://www.beeradvocate.com/beer/profile/43667/224581/,LightSwitch Lager,43667,BJ's Restaurant & Brewhouse,0,0
+726,3.80,296261,https://www.beeradvocate.com/beer/profile/29765/296261/,Little Town Lager,29765,Backwoods Brewing Company,0,0
+727,5.00,338760,https://www.beeradvocate.com/beer/profile/52447/338760/,Moss Mill Lager,52447,Moss Mill Brewing Company,0,0
+728,4.40,330569,https://www.beeradvocate.com/beer/profile/46940/330569/,Under the Sakura Cherry Blossom Lager,46940,High Park Brewery,0,0
+729,4.50,234315,https://www.beeradvocate.com/beer/profile/41117/234315/,Kuba Ryadom (Куба Рядом!),41117,Heartly Craft Brewery,0,0
+730,4.00,129101,https://www.beeradvocate.com/beer/profile/34434/129101/,Good Times Organic Lager,34434,Last Best Eatery & Brewpub,0,0
+731,3.90,262479,https://www.beeradvocate.com/beer/profile/43095/262479/,Bonanza,43095,Craft Country Brewery,0,0
+732,3.60,205393,https://www.beeradvocate.com/beer/profile/24810/205393/,Yemyelya Lyogkoye,24810,Lakinskiy Pivzavod,0,0
+733,3.50,228434,https://www.beeradvocate.com/beer/profile/15986/228434/,LightSwitch Lager,15986,BJ's Restaurant & Brewery,0,0
+734,5.30,325202,https://www.beeradvocate.com/beer/profile/50310/325202/,Tuff-cate,50310,Novel Brewing Company,0,0
+735,2.60,272211,https://www.beeradvocate.com/beer/profile/47749/272211/,Falcon Light,47749,Falcon Brewing Co.,0,0
+736,3.90,340051,https://www.beeradvocate.com/beer/profile/50672/340051/,Itasca Light,50672,Itasca Brewing Company,0,0
+737,4.00,203605,https://www.beeradvocate.com/beer/profile/28384/203605/,Bryeggir Layt,28384,"Private Brewery ""Kosouhoff"" (Частная Пивоваренная Компания ""Косоухофф"")",0,0
+738,4.40,339541,https://www.beeradvocate.com/beer/profile/42117/339541/,Spring Gate Light,42117,Spring Gate Brewery,0,0
+739,3.50,229461,https://www.beeradvocate.com/beer/profile/14908/229461/,LightSwitch Lager,14908,BJ's Restaurant & Brewhouse,0,0
+740,4.50,175701,https://www.beeradvocate.com/beer/profile/32755/175701/,Pilsner Légère,32755,Microbrasserie l'Hermite,0,0
+741,3.50,285526,https://www.beeradvocate.com/beer/profile/43086/285526/,Pedal Haus Light Lager,43086,Pedal Haus Brewery,0,0
+742,3.50,229465,https://www.beeradvocate.com/beer/profile/19523/229465/,LightSwitch Lager,19523,BJ's Restaurant and Brewhouse,0,0
+743,3.00,340826,https://www.beeradvocate.com/beer/profile/503/340826/,Gold Berger,503,Dreher Brewery,0,0
+744,4.20,311386,https://www.beeradvocate.com/beer/profile/48115/311386/,Tiocfaidh ár Láger,48115,Drumconrath Brewing Company,0,0
+745,4.30,271452,https://www.beeradvocate.com/beer/profile/42273/271452/,W.T. Light,42273,Forager Brewing Company,0,0
+746,3.50,225379,https://www.beeradvocate.com/beer/profile/43545/225379/,LightSwitch Lager,43545,BJ's Restaurant & Brewhouse,0,0
+747,2.70,161125,https://www.beeradvocate.com/beer/profile/15897/161125/,O'Brien Light Lager,15897,O'Brien Brewing,0,0
+748,4.00,308581,https://www.beeradvocate.com/beer/profile/722/308581/,Costenita,722,Cervecería Bavaria,0,0
+749,3.50,327785,https://www.beeradvocate.com/beer/profile/50159/327785/,Turtle Lager,50159,Bargara Brewing Company,0,0
+750,4.80,278377,https://www.beeradvocate.com/beer/profile/48337/278377/,Busshiemer Light,48337,Twisted Spur Brewing,0,0
+751,4.10,284274,https://www.beeradvocate.com/beer/profile/47466/284274/,Micro Macro,47466,Oak & Dagger Public House / Research Library,0,0
+752,4.00,232054,https://www.beeradvocate.com/beer/profile/33611/232054/,America,33611,SaltWater Brewery,0,0
+753,5.00,225658,https://www.beeradvocate.com/beer/profile/40734/225658/,Charma Lager,40734,Cretan Brewery,0,0
+754,4.50,148094,https://www.beeradvocate.com/beer/profile/8270/148094/,Iguana Lager,8270,Brewerkz - Riverside Point,0,0
+755,5.00,249726,https://www.beeradvocate.com/beer/profile/27088/249726/,Raciborskie Miodowe,27088,Browar Zamkowy Sp. Z O.o.,0,0
+756,3.90,330625,https://www.beeradvocate.com/beer/profile/52047/330625/,Light Beer 007,52047,Common Space Brewery,0,0
+757,3.20,161154,https://www.beeradvocate.com/beer/profile/32668/161154/,Tweed Coast Mid,32668,Pickled Pig Brewery,0,0
+758,3.50,228229,https://www.beeradvocate.com/beer/profile/43116/228229/,LightSwitch Lager,43116,BJ's Restaurant & Brewhouse,0,0
+759,3.25,297606,https://www.beeradvocate.com/beer/profile/2346/297606/,Canoe Sex,2346,Rochester Mills Beer Co.,0,0
+760,2.50,328841,https://www.beeradvocate.com/beer/profile/49576/328841/,Scheps,49576,Schiller Bräu,0,0
+761, ? ,214156,https://www.beeradvocate.com/beer/profile/21340/214156/,Landmark Lite Lager,21340,Great Dane Pub & Brewing Company (Wausau),0,0
+762,3.50,227724,https://www.beeradvocate.com/beer/profile/42848/227724/,LightSwitch Lager,42848,BJ's Restaurant & Brewhouse,0,0
+763,3.20,297356,https://www.beeradvocate.com/beer/profile/48367/297356/,BILLY BEER,48367,Uptown Brewing Company,0,0
+764,3.90,212622,https://www.beeradvocate.com/beer/profile/44107/212622/,Ceiba Light,44107,Ceiba Cerveza Artesanal Yucateca,0,0
+765,4.30,204688,https://www.beeradvocate.com/beer/profile/13818/204688/,Priyatel Lyogkiy Khmyel,13818,Lipetskpivo,0,0
+766,5.00,241043,https://www.beeradvocate.com/beer/profile/34335/241043/,Micro,34335,Gæðingur Öl,0,0
+767,3.50,227732,https://www.beeradvocate.com/beer/profile/41773/227732/,LightSwitch Lager,41773,BJ's Restaurant &  Brewhouse,0,0
+768,3.50,231832,https://www.beeradvocate.com/beer/profile/33611/231832/,Lager Del Ray,33611,SaltWater Brewery,0,0
+769,2.80,141722,https://www.beeradvocate.com/beer/profile/189/141722/,Zambezi Lite,189,Delta Beverages,0,0
+770,7.50,167581,https://www.beeradvocate.com/beer/profile/18118/167581/,LIGHT BEER,18118,Devans Modern Breweries Ltd.,0,0
+771, ? ,151199,https://www.beeradvocate.com/beer/profile/20357/151199/,Deadwood Light,20357,Deadwood Café & Brewery,0,0
+772,4.10,131745,https://www.beeradvocate.com/beer/profile/28916/131745/,Coors Light,28916,Asia Brewery,0,0
+773,4.00,277921,https://www.beeradvocate.com/beer/profile/39807/277921/,Townie Light,39807,Paddle Hard Brewing,0,0
+774,4.00,203938,https://www.beeradvocate.com/beer/profile/401/203938/,Samara Light,401,Baltika Breweries,0,0
+775,4.70,150179,https://www.beeradvocate.com/beer/profile/13136/150179/,Small Batch Lager,13136,Gage Roads Brewing Company,0,0
+776,3.50,229540,https://www.beeradvocate.com/beer/profile/16459/229540/,LightSwitch Lager,16459,BJ's Restaurant & Brewhouse - Millenia Mall,0,0
+777,3.50,228005,https://www.beeradvocate.com/beer/profile/43547/228005/,LightSwitch Lager,43547,BJ's Brewery & Tasting Room,0,0
+778,4.50,56487,https://www.beeradvocate.com/beer/profile/10897/56487/,Falcon Lite,10897,Carlsberg Sverige AB,0,0
+779,4.10,331945,https://www.beeradvocate.com/beer/profile/48728/331945/,Jagr Lager,48728,Brew 32 Craft Brewery,0,0
+780,3.50,224425,https://www.beeradvocate.com/beer/profile/18140/224425/,LightSwitch Lager,18140,BJ's Restaurant,0,0
+781,4.00,165289,https://www.beeradvocate.com/beer/profile/21758/165289/,Mac's Gold,21758,Mac's Brewery Bar & Restaurant,0,0
+782,4.00,203947,https://www.beeradvocate.com/beer/profile/401/203947/,Uralskiy Master Lager,401,Baltika Breweries,0,0
+783,3.50,229547,https://www.beeradvocate.com/beer/profile/24469/229547/,LightSwitch Lager,24469,BJs Restaurant & Brewery,0,0
+784,3.50,229551,https://www.beeradvocate.com/beer/profile/3232/229551/,LightSwitch Lager,3232,BJ's Restaurant & Brewhouse,0,0
+785,4.80,330419,https://www.beeradvocate.com/beer/profile/40209/330419/,Firehall,40209,Goat Ridge Brewing Co.,0,0
+786,5.60,266419,https://www.beeradvocate.com/beer/profile/41330/266419/,Hops In Common Hoppy Lager,41330,Local Brewing Co.,0,0
+787, ? ,340915,https://www.beeradvocate.com/beer/profile/49644/340915/,Jerry the King Lager,49644,Meddlesome Brewing Company,0,0
+788,5.80,277427,https://www.beeradvocate.com/beer/profile/48918/277427/,JFB,48918,AZU Restaurant & Ojai Valley Brewery,0,0
+789,3.50,224439,https://www.beeradvocate.com/beer/profile/23698/224439/,LightSwitch Lager,23698,BJ's Restaurant And Brewhouse,0,0
+790,4.30,243639,https://www.beeradvocate.com/beer/profile/43891/243639/,Cage Light,43891,Cage Brewing,0,0
+791,5.80,277434,https://www.beeradvocate.com/beer/profile/48918/277434/,Windbreak (Pine JFB),48918,AZU Restaurant & Ojai Valley Brewery,0,0
+792,3.50,228794,https://www.beeradvocate.com/beer/profile/15765/228794/,LightSwitch Lager,15765,BJ's Restaurant & Brewhouse,0,0
+793,4.00,165306,https://www.beeradvocate.com/beer/profile/30583/165306/,T.D. Natural Lager,30583,Thirsty Dog Tavern & Café,0,0
+794,4.00,205756,https://www.beeradvocate.com/beer/profile/5428/205756/,Okhotskoye Lyogkoye,5428,Severnaya Zvezda,0,0
+795,3.50,228800,https://www.beeradvocate.com/beer/profile/4781/228800/,LightSwitch Lager,4781,BJ's Restaurant & Brewhouse,0,0
+796,5.10,278723,https://www.beeradvocate.com/beer/profile/39883/278723/,Night Light Lager,39883,Cognition Brewing Company,0,0
+797,4.80,333764,https://www.beeradvocate.com/beer/profile/51081/333764/,Lincoln Lager,51081,The Washington Brewing Company,0,0
+798,4.00,328133,https://www.beeradvocate.com/beer/profile/47863/328133/,Lager,47863,Double Wing Brewing Co.,0,0
+799,4.50,218309,https://www.beeradvocate.com/beer/profile/41433/218309/,GoLo Lager,41433,Yankee Tank Brewing Company,0,0
+800,2.80,329670,https://www.beeradvocate.com/beer/profile/105/329670/,Miller Ultra,105,Miller Brewing Co.,0,0
+801,4.40,46278,https://www.beeradvocate.com/beer/profile/10539/46278/,Lite,10539,Ölgerðin Egill Skallagrímsson,0,0
+802,3.60,224201,https://www.beeradvocate.com/beer/profile/4117/224201/,Rossbräu Kutscher,4117,Brauerei Raschhofer,0,0
+803,4.00,301513,https://www.beeradvocate.com/beer/profile/16353/301513/,HUB Light,16353,Hopworks Urban Brewery,0,0
+804,4.00,165322,https://www.beeradvocate.com/beer/profile/19608/165322/,Summer Lager,19608,West Coast Brewery,0,0
+805,4.20,279501,https://www.beeradvocate.com/beer/profile/49024/279501/,Light Lager,49024,March First Brewing,0,0
+806,5.00,275664,https://www.beeradvocate.com/beer/profile/44038/275664/,Red Flag Penguin Pilsner,44038,Birdfish Brewing Company,0,0
+807,5.50,230352,https://www.beeradvocate.com/beer/profile/29227/230352/,Light Ale,29227,Props Brewery & Grill,0,0
+808, ? ,229076,https://www.beeradvocate.com/beer/profile/782/229076/,BRL 72 Lite,782,"City Brewing Company, LLC",0,0
+809,4.00,82901,https://www.beeradvocate.com/beer/profile/769/82901/,Amsterdam 86,769,Amsterdam Brewing Company,0,0
+810,3.50,224469,https://www.beeradvocate.com/beer/profile/44344/224469/,LightSwitch Lager,44344,BJ's Restaraunt & Brewhouse,0,0
+811,4.80,298462,https://www.beeradvocate.com/beer/profile/34028/298462/,Ten Light,34028,Ten Pin Brewing Co.,0,0
+812, ? ,294882,https://www.beeradvocate.com/beer/profile/26634/294882/,Pickle Ball,26634,Wichita Brewing Co. & Pizzeria West,0,0
+813,4.76,232162,https://www.beeradvocate.com/beer/profile/25563/232162/,American Lager,25563,Alien Brew Pub,0,0
+814,4.10,228073,https://www.beeradvocate.com/beer/profile/16098/228073/,Breaker's Lager,16098,Margaritaville Brewing Co.,0,0
+815,5.20,108265,https://www.beeradvocate.com/beer/profile/15188/108265/,Soweto Gold,15188,The Nottingham Road Brewing Company,0,0
+816,2.70,121069,https://www.beeradvocate.com/beer/profile/6020/121069/,Förster Leicht,6020,Gampertbräu Gebr. Gampert GmbH & Co. KG,0,0
+817,3.80,338158,https://www.beeradvocate.com/beer/profile/52367/338158/,Light,52367,Hofbräuhaus St. Louis-Belleville,0,0
+818,5.25,196335,https://www.beeradvocate.com/beer/profile/35481/196335/,Octoberfest,35481,Hamilton Family Brewery,0,0
+819,4.00,339440,https://www.beeradvocate.com/beer/profile/48698/339440/,ZHills Lite,48698,Zephyrhills Brewing Company,0,0
+820,5.00,301557,https://www.beeradvocate.com/beer/profile/29660/301557/,Cerveza De Oro,29660,The Front Brewing Company,0,0
+821,3.80,205558,https://www.beeradvocate.com/beer/profile/6484/205558/,Gold Mine Beer Light,6484,Pivovariya Moskva-Efes ZAO,0,0
+822,4.60,259067,https://www.beeradvocate.com/beer/profile/47726/259067/,Ficante,47726,Cervejaria Besten,0,0

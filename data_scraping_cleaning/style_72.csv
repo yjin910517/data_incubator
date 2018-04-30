@@ -1,0 +1,1544 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,8.60,38394,https://www.beeradvocate.com/beer/profile/3818/38394/,Pumking,3818,Southern Tier Brewing Company,"7,608",4.05
+1,7.00,6260,https://www.beeradvocate.com/beer/profile/64/6260/,Punkin Ale,64,Dogfish Head Craft Brewery,"6,645",3.93
+2,5.70,100,https://www.beeradvocate.com/beer/profile/306/100/,Blue Moon Harvest Moon Pumpkin Ale,306,Coors Brewing Company (Molson-Coors),"2,761",3.12
+3,8.00,25880,https://www.beeradvocate.com/beer/profile/392/25880/,Imperial Pumpkin Ale,392,Weyerbacher Brewing Co.,"2,746",3.89
+4,4.70,1932,https://www.beeradvocate.com/beer/profile/139/1932/,Pumpkinhead Ale,139,Shipyard Brewing Company,"2,717",3
+5,5.70,45844,https://www.beeradvocate.com/beer/profile/35/45844/,Samuel Adams Harvest Pumpkin Ale,35,Boston Beer Company (Samuel Adams),"2,649",3.47
+6,8.00,32767,https://www.beeradvocate.com/beer/profile/583/32767/,Schlafly Pumpkin Ale,583,The Schlafly Tap Room,"2,337",4.2
+7,5.00,74,https://www.beeradvocate.com/beer/profile/45/74/,Post Road Pumpkin Ale,45,Brooklyn Brewery,"2,133",3.46
+8,6.50,11819,https://www.beeradvocate.com/beer/profile/141/11819/,Pumpkin Ale,141,Smuttynose Brewing Company,"1,920",3.68
+9,9.00,52248,https://www.beeradvocate.com/beer/profile/139/52248/,Pugsley's Signature Series:  Smashed Pumpkin,139,Shipyard Brewing Company,"1,629",3.73
+10,4.50,1567,https://www.beeradvocate.com/beer/profile/335/1567/,New Holland Ichabod Ale,335,New Holland Brewing Company,"1,608",3.56
+11,6.00,97291,https://www.beeradvocate.com/beer/profile/192/97291/,Pumpkick,192,New Belgium Brewing,"1,454",3.46
+12,16.90,62449,https://www.beeradvocate.com/beer/profile/30/62449/,Rumpkin,30,Avery Brewing Company,"1,441",4.08
+13,8.50,47020,https://www.beeradvocate.com/beer/profile/17981/47020/,Good Gourd Imperial Pumpkin Ale,17981,Cigar City Brewing,"1,428",4.26
+14,8.50,73731,https://www.beeradvocate.com/beer/profile/35/73731/,Samuel Adams Fat Jack Double Pumpkin Ale,35,Boston Beer Company (Samuel Adams),"1,363",3.63
+15,6.70,7077,https://www.beeradvocate.com/beer/profile/700/7077/,Night Owl Pumpkin Ale,700,Elysian Brewing Company,"1,322",3.95
+16,5.20,72412,https://www.beeradvocate.com/beer/profile/29/72412/,Shock Top Pumpkin Wheat,29,Anheuser-Busch,"1,207",3.04
+17,6.00,643,https://www.beeradvocate.com/beer/profile/205/643/,Buffalo Bill's Pumpkin Ale,205,Buffalo Bill's Brewery,"1,201",2.98
+18,5.40,25608,https://www.beeradvocate.com/beer/profile/99/25608/,Saranac Pumpkin Ale,99,Matt Brewing Company / Saranac Brewery,"1,182",3.39
+19,4.00,33405,https://www.beeradvocate.com/beer/profile/1416/33405/,Punk'n Harvest Pumpkin Ale,1416,Uinta Brewing Company,"1,110",3.37
+20,5.90,71325,https://www.beeradvocate.com/beer/profile/98/71325/,UFO Pumpkin,98,Harpoon Brewery & Beer Hall,"1,092",3.59
+21,10.00,74106,https://www.beeradvocate.com/beer/profile/337/74106/,Pumpkinator,337,Saint Arnold Brewing Company,964,4.28
+22,15.00,135078,https://www.beeradvocate.com/beer/profile/30/135078/,Pump[KY]n,30,Avery Brewing Company,953,4.14
+23,5.60,74309,https://www.beeradvocate.com/beer/profile/132/74309/,Rogue Farms Pumpkin Patch Ale,132,Rogue Ales,937,3.84
+24,6.00,45723,https://www.beeradvocate.com/beer/profile/9897/45723/,La Parcela,9897,Jolly Pumpkin Artisan Ales,806,3.85
+25,8.40,52211,https://www.beeradvocate.com/beer/profile/14879/52211/,Frog's Hollow Double Pumpkin Ale,14879,Hoppin' Frog Brewery,760,3.84
+26,10.00,60505,https://www.beeradvocate.com/beer/profile/898/60505/,Heavy Seas - Great’ER Pumpkin,898,Heavy Seas Beer,753,3.91
+27,8.10,33394,https://www.beeradvocate.com/beer/profile/700/33394/,The Great Pumpkin,700,Elysian Brewing Company,713,4.14
+28,6.00,98072,https://www.beeradvocate.com/beer/profile/193/98072/,Fall Hornin',193,Anderson Valley Brewing Company,710,3.58
+29,7.50,52279,https://www.beeradvocate.com/beer/profile/786/52279/,Whole Hog Pumpkin Ale,786,Stevens Point Brewery,687,4.14
+30,4.40,98924,https://www.beeradvocate.com/beer/profile/31442/98924/,Jack-O Traveler Shandy,31442,The Traveler Beer Co.,682,3.5
+31,5.80,104076,https://www.beeradvocate.com/beer/profile/199/104076/,Pumpkin Down,199,Ballast Point Brewing Company,658,3.81
+32,6.00,44964,https://www.beeradvocate.com/beer/profile/261/44964/,Pumple Drumkin Spiced Ale,261,Cisco Brewers Inc.,658,3.45
+33,5.40,129357,https://www.beeradvocate.com/beer/profile/96/129357/,Wilhelm Scream Pumpkin Ale,96,Magic Hat Brewing Company,651,3.46
+34,6.50,39497,https://www.beeradvocate.com/beer/profile/700/39497/,Dark O' The Moon,700,Elysian Brewing Company,639,3.94
+35,8.00,74942,https://www.beeradvocate.com/beer/profile/22893/74942/,Imperial Pumpkin Porter,22893,Epic Brewing Company,630,3.81
+36,5.60,13350,https://www.beeradvocate.com/beer/profile/3268/13350/,Pumpkin Beer,3268,O'Fallon Brewery,625,3.64
+37,9.00,73433,https://www.beeradvocate.com/beer/profile/68/73433/,The Fear Imperial Pumpkin Ale,68,Flying Dog Brewery,617,3.7
+38,5.50,7799,https://www.beeradvocate.com/beer/profile/1628/7799/,Southampton Pumpkin Ale,1628,Southampton Publick House,603,3.62
+39,6.80,98438,https://www.beeradvocate.com/beer/profile/30437/98438/,Roadsmary's Baby,30437,Two Roads Brewing Company,582,3.7
+40,6.00,103229,https://www.beeradvocate.com/beer/profile/700/103229/,Punkuccino,700,Elysian Brewing Company,571,4.17
+41,7.00,33205,https://www.beeradvocate.com/beer/profile/8325/33205/,Fisherman's Pumpkin Stout,8325,Cape Ann Brewing Company,557,3.74
+42,10.00,99058,https://www.beeradvocate.com/beer/profile/430/99058/,Kentucky Pumpkin Barrel Ale,430,Alltech's Lexington Brewing and Distilling Co.,531,3.69
+43,7.40,52723,https://www.beeradvocate.com/beer/profile/14952/52723/,Pumpkin Ale,14952,AleWerks Brewing Company,530,4.17
+44,5.80,98299,https://www.beeradvocate.com/beer/profile/18134/98299/,Redhook Out Of Your Gourd Pumpkin Porter,18134,Redhook Ale Brewery,512,3.47
+45,9.00,72172,https://www.beeradvocate.com/beer/profile/19544/72172/,Spooky Tooth Imperial Pumpkin,19544,Fat Head's Brewery & Saloon,495,3.86
+46,9.50,98228,https://www.beeradvocate.com/beer/profile/30902/98228/,Captain Pumpkin's Maple Mistress Imperial Pumpkin Ale,30902,Saucony Creek Brewing Company + Gastropub,485,3.94
+47,8.10,60166,https://www.beeradvocate.com/beer/profile/877/60166/,Hipp-O-Lantern Imperial Pumpkin Ale,877,River Horse Brewing Co.,470,3.76
+48,9.60,144099,https://www.beeradvocate.com/beer/profile/3818/144099/,Rum Barrel Aged Pumking,3818,Southern Tier Brewing Company,463,4.05
+49,10.60,98115,https://www.beeradvocate.com/beer/profile/19832/98115/,Imperial Pumpkin Smash,19832,Crown Valley Brewing & Distilling Co.,440,4.1
+50,5.50,61769,https://www.beeradvocate.com/beer/profile/764/61769/,Blue Point Mother Pumpkin Ale,764,Blue Point Brewing Company,436,3.35
+51,8.00,83868,https://www.beeradvocate.com/beer/profile/94/83868/,Imperial Pumpkin Brush And Barrel Series,94,Long Trail Brewing Co.,431,3.72
+52,6.30,85276,https://www.beeradvocate.com/beer/profile/651/85276/,Country Pumpkin,651,Ithaca Beer Company,400,3.64
+53,5.00,38448,https://www.beeradvocate.com/beer/profile/194/38448/,St-Ambroise Citrouille (The Great Pumpkin Ale),194,McAuslan Brewing,395,3.65
+54,7.40,103134,https://www.beeradvocate.com/beer/profile/694/103134/,Master Of Pumpkins,694,Tröegs Brewing Company,388,3.61
+55,4.40,6523,https://www.beeradvocate.com/beer/profile/14/6523/,Great Pumpkin Ale,14,Cambridge Brewing Company,364,3.91
+56,5.50,139374,https://www.beeradvocate.com/beer/profile/590/139374/,Pumpkin Pie Lust,590,New Glarus Brewing Company,360,3.68
+57,8.50,117409,https://www.beeradvocate.com/beer/profile/193/117409/,Pinchy Jeek Barl - Bourbon Barrel Aged,193,Anderson Valley Brewing Company,351,3.64
+58,5.80,179338,https://www.beeradvocate.com/beer/profile/423/179338/,Funky Pumpkin,423,Boulevard Brewing Co.,346,3.74
+59,5.00,72120,https://www.beeradvocate.com/beer/profile/156/72120/,Small Patch Pumpkin Harvest Ale,156,Tommyknocker Brewery,326,3.26
+60,5.70,229621,https://www.beeradvocate.com/beer/profile/35/229621/,20 Pounds Of Pumpkin,35,Boston Beer Company (Samuel Adams),302,3.71
+61,5.50,45074,https://www.beeradvocate.com/beer/profile/12959/45074/,Pumpkin Ale,12959,Captain Lawrence Brewing Co.,290,3.56
+62,7.10,62259,https://www.beeradvocate.com/beer/profile/16589/62259/,Braaaiins! (Pumpkin Ale For Zombies),16589,Spring House Brewing Company,286,3.81
+63,8.50,75171,https://www.beeradvocate.com/beer/profile/26753/75171/,Farmhouse Pumpkin,26753,Hardywood Park Craft Brewery,276,4
+64,6.30,53721,https://www.beeradvocate.com/beer/profile/19897/53721/,Jacques Au Lantern,19897,Evolution Craft Brewing Company,264,3.67
+65,13.40,137605,https://www.beeradvocate.com/beer/profile/741/137605/,Brandy Barrel-Aged Imperial Pumpkin Ale,741,"Lakefront Brewery, Inc.",263,4.12
+66,7.50,52900,https://www.beeradvocate.com/beer/profile/784/52900/,Painted Ladies Pumpkin Spice Ale,784,Tyranena Brewing Company,246,3.75
+67,9.00,62122,https://www.beeradvocate.com/beer/profile/1636/62122/,Devious Imperial Pumpkin,1636,Fegley's Bethlehem Brew Works,244,3.8
+68,4.70,38620,https://www.beeradvocate.com/beer/profile/663/38620/,Kennebunkport Pumpkin Ale,663,Federal Jack's Restaurant & Brew Pub,240,2.95
+69,4.00,33258,https://www.beeradvocate.com/beer/profile/28908/33258/,Wasatch Pumpkin Ale,28908,Utah Brewers Cooperative,233,3.54
+70,6.50,135581,https://www.beeradvocate.com/beer/profile/28908/135581/,Wasatch Black O'Lantern,28908,Utah Brewers Cooperative,229,3.71
+71,11.00,62244,https://www.beeradvocate.com/beer/profile/8325/62244/,Fisherman's Imperial Pumpkin Stout,8325,Cape Ann Brewing Company,216,3.94
+72,7.50,99907,https://www.beeradvocate.com/beer/profile/743/99907/,Baked Pumpkin Ale,743,Lancaster Brewing Company,215,3.84
+73,5.00,62568,https://www.beeradvocate.com/beer/profile/22157/62568/,Pumpkin Ale,22157,Rivertown Brewery & Barrel House,214,3.56
+74,5.50,38934,https://www.beeradvocate.com/beer/profile/15189/38934/,Harvest Time,15189,Big Boss Brewing,209,3.74
+75,8.00,53230,https://www.beeradvocate.com/beer/profile/11977/53230/,Pumpkineater,11977,Howe Sound Inn & Brewing Company,207,3.87
+76,6.70,174914,https://www.beeradvocate.com/beer/profile/68/174914/,The Gourd Standard,68,Flying Dog Brewery,199,3.69
+77,8.40,85571,https://www.beeradvocate.com/beer/profile/14879/85571/,Frog's Hollow Double Pumpkin Ale - Barrel-Aged,14879,Hoppin' Frog Brewery,199,3.84
+78,6.40,277641,https://www.beeradvocate.com/beer/profile/192/277641/,Voodoo Ranger Atomic Pumpkin,192,New Belgium Brewing,192,3.76
+79,9.00,61168,https://www.beeradvocate.com/beer/profile/16096/61168/,Devious Imperial Pumpkin,16096,Allentown Brew Works,191,3.86
+80,5.40,63369,https://www.beeradvocate.com/beer/profile/16504/63369/,Wick For Brains,16504,Nebraska Brewing Company,185,3.55
+81,8.50,86059,https://www.beeradvocate.com/beer/profile/26762/86059/,Krunkin Pumpkin,26762,Karbach Brewing Co.,183,3.76
+82,5.30,77722,https://www.beeradvocate.com/beer/profile/11036/77722/,Cottonwood Pumpkin Spiced Ale,11036,Foothills Brewing Company - Downtown Brewpub,183,3.64
+83,8.60,249893,https://www.beeradvocate.com/beer/profile/3818/249893/,Cold Press Coffee Pumking,3818,Southern Tier Brewing Company,182,4.05
+84,5.40,62201,https://www.beeradvocate.com/beer/profile/598/62201/,Pumpkin Ale,598,Onion Pub & Brewery / Wild Onion Brewing Co.,181,3.37
+85,8.20,189893,https://www.beeradvocate.com/beer/profile/30581/189893/,Xibalba,30581,Wicked Weed Brewing,180,3.89
+86,8.50,74044,https://www.beeradvocate.com/beer/profile/4408/74044/,Gruntled Pumpkin,4408,RJ Rockers Brewing Company,169,3.37
+87,8.00,129359,https://www.beeradvocate.com/beer/profile/2447/129359/,Punk' In Drublic Imperial Pumpkin Ale,2447,Coronado Brewing Company,165,3.75
+88,5.00,99312,https://www.beeradvocate.com/beer/profile/32166/99312/,Screamin' Pumpkin,32166,Griffin Claw Brewing Company,165,3.97
+89,8.80,136134,https://www.beeradvocate.com/beer/profile/29021/136134/,Punkless Dunkel,29021,Neshaminy Creek Brewing Company,162,4.03
+90,6.50,97439,https://www.beeradvocate.com/beer/profile/754/97439/,Johnny Rails Pumpkin Ale,754,Erie Brewing Co.,157,3.44
+91,8.20,98803,https://www.beeradvocate.com/beer/profile/16352/98803/,Spooky,16352,Blue Mountain Brewery,154,3.69
+92,11.40,86704,https://www.beeradvocate.com/beer/profile/139/86704/,Smashed Pumpkin - Bourbon Barrel-Aged,139,Shipyard Brewing Company,153,3.9
+93,6.00,52615,https://www.beeradvocate.com/beer/profile/14064/52615/,Pumpkin Ale,14064,Kern River Brewing Company,150,3.68
+94,5.10,132693,https://www.beeradvocate.com/beer/profile/18539/132693/,Pumpkin Hunter,18539,Devils Backbone Brewing Company,147,3.51
+95,6.60,44894,https://www.beeradvocate.com/beer/profile/16261/44894/,Pumpkin Ale,16261,Horseheads Brewing Inc.,147,4.21
+96,5.00,13838,https://www.beeradvocate.com/beer/profile/2171/13838/,Pumpkin Porter,2171,Four Peaks Brewing Company - 8th Street Brewery,144,3.76
+97,7.70,73471,https://www.beeradvocate.com/beer/profile/18564/73471/,Pumpkin Ale,18564,Upslope Brewing Company - Lee Hill,144,3.83
+98,6.00,85679,https://www.beeradvocate.com/beer/profile/21396/85679/,Pumpkin Smasher,21396,Big Muddy Brewing,142,3.74
+99,6.00,97106,https://www.beeradvocate.com/beer/profile/125/97106/,Pumpkin Roll Ale,125,Pennsylvania Brewing Company,138,3.51
+100,5.30,107454,https://www.beeradvocate.com/beer/profile/30/107454/,GORED!,30,Avery Brewing Company,138,3.63
+101,7.40,87005,https://www.beeradvocate.com/beer/profile/25937/87005/,Unicorn Killer,25937,Greenbush Brewing Company,133,3.36
+102,10.50,102407,https://www.beeradvocate.com/beer/profile/26753/102407/,Rum Pumpkin,26753,Hardywood Park Craft Brewery,131,3.86
+103,5.50,38862,https://www.beeradvocate.com/beer/profile/9408/38862/,Great Lakes Pumpkin Ale,9408,Great Lakes Brewery,127,3.59
+104,9.00,72470,https://www.beeradvocate.com/beer/profile/1432/72470/,Barking Pumpkin,1432,Jackie O's Pub & Brewery,126,3.78
+105,11.80,193419,https://www.beeradvocate.com/beer/profile/33824/193419/,Picture If You Will,33824,Bottle Logic Brewing,123,4.33
+106,5.50,74135,https://www.beeradvocate.com/beer/profile/21497/74135/,Hooligan,21497,North Peak Brewing Company,122,3.5
+107,6.60,73925,https://www.beeradvocate.com/beer/profile/4067/73925/,Spiced Harvest Ale,4067,Fordham Brewing Company,121,3.56
+108,9.00,138634,https://www.beeradvocate.com/beer/profile/32166/138634/,Bourbon Imperial Screamin' Pumpkin,32166,Griffin Claw Brewing Company,120,4.13
+109,6.30,85381,https://www.beeradvocate.com/beer/profile/17856/85381/,Horny Goat HornyCopia Pumpkin Ale,17856,Horny Goat Brewing Co.,114,3.38
+110,5.50,245493,https://www.beeradvocate.com/beer/profile/2137/245493/,Pumpkin Spice Latte (Nitrogen Charged Pumpkin Coffee Stout),2137,Breckenridge Brewery,110,3.55
+111,5.50,72670,https://www.beeradvocate.com/beer/profile/150/72670/,Stegmaier Pumpkin Ale,150,"Lion Brewery, Inc.",109,3.63
+112,5.00,13883,https://www.beeradvocate.com/beer/profile/12516/13883/,Spiced Pumpkin Ale,12516,Thirsty Dog Brewing Company,108,3.68
+113,5.20,52724,https://www.beeradvocate.com/beer/profile/20766/52724/,Leaf Pile Ale,20766,Greenport Harbor Brewing Company,107,3.8
+114,7.90,129349,https://www.beeradvocate.com/beer/profile/31093/129349/,The Great Pumpcan,31093,MadTree Brewing,105,3.77
+115,4.80,20205,https://www.beeradvocate.com/beer/profile/137/20205/,Sea Dog Pumpkin Ale,137,Sea Dog Brewing Company,105,2.72
+116,6.00,150766,https://www.beeradvocate.com/beer/profile/429/150766/,Alaskan Pumpkin Ale (Rough Draft),429,Alaskan Brewing Co.,103,3.6
+117,5.00,13282,https://www.beeradvocate.com/beer/profile/2446/13282/,King Don's Original Pumpkin Ale,2446,Catawba Brewing Co.,101,3.82
+118,5.80,85481,https://www.beeradvocate.com/beer/profile/18134/85481/,Brewery Backyard Series: Pumpkin Porter,18134,Redhook Ale Brewery,101,3.47
+119,5.20,38855,https://www.beeradvocate.com/beer/profile/16304/38855/,Highballer Pumpkin Ale,16304,Grand River Brewing,98,3.76
+120,8.50,211725,https://www.beeradvocate.com/beer/profile/423/211725/,Funkier Pumpkin,423,Boulevard Brewing Co.,96,3.94
+121,5.00,53257,https://www.beeradvocate.com/beer/profile/3760/53257/,Mill Street Nightmare On Mill Street,3760,Mill Street Brew Pub,91,3.58
+122,7.00,54261,https://www.beeradvocate.com/beer/profile/385/54261/,Trickster,385,Midnight Sun Brewing Co.,91,3.59
+123,11.00,244796,https://www.beeradvocate.com/beer/profile/22564/244796/,Barrel Aged Sweet Potato Soufflé Rye Ale,22564,Odd Side Ales,89,4.17
+124,5.10,98117,https://www.beeradvocate.com/beer/profile/18539/98117/,Ichabod Crandall,18539,Devils Backbone Brewing Company,87,3.31
+125,5.70,66367,https://www.beeradvocate.com/beer/profile/24412/66367/,Flat Jack Pumpkin Ale,24412,Flat 12 Bierwerks,86,3.57
+126,7.00,130638,https://www.beeradvocate.com/beer/profile/410/130638/,Block House Brewing Pumpkin Ale,410,Pittsburgh Brewing Co.,85,3.44
+127,8.00,85663,https://www.beeradvocate.com/beer/profile/16110/85663/,Headless Wylie,16110,Rivertowne Pourhouse,85,4.14
+128,7.50,63068,https://www.beeradvocate.com/beer/profile/23635/63068/,The Devil's Pumpkin,23635,Lavery Brewing Company,81,3.69
+129,6.50,136825,https://www.beeradvocate.com/beer/profile/11814/136825/,Pumpkin Chai,11814,Saugatuck Brewing Company,81,3.37
+130,4.80,99245,https://www.beeradvocate.com/beer/profile/29196/99245/,Pumpkin Ale,29196,Susquehanna Brewing Company,81,3.54
+131,8.50,85503,https://www.beeradvocate.com/beer/profile/365/85503/,Pike Harlot's Harvest Pumpkin Ale,365,Pike Brewing Company,80,3.59
+132,5.00,99594,https://www.beeradvocate.com/beer/profile/200/99594/,Pumpkin Ale,200,Mendocino Brewing Company,77,3.5
+133,5.00,86540,https://www.beeradvocate.com/beer/profile/27077/86540/,Isle Of MaGourdo,27077,Due South Brewing Co.,77,3.63
+134,4.50,13590,https://www.beeradvocate.com/beer/profile/160/13590/,Pumpking,160,Wychwood Brewery Company Ltd,77,3.29
+135,5.00,62782,https://www.beeradvocate.com/beer/profile/16859/62782/,Splashing Pumpkin,16859,Great South Bay Brewery,77,3.4
+136,9.27,137599,https://www.beeradvocate.com/beer/profile/24326/137599/,Nightmare On 1st Street,24326,No Label Brewing Company,77,3.89
+137,5.00,53924,https://www.beeradvocate.com/beer/profile/10321/53924/,Red Racer Pumpkin Ale,10321,Central City Brewers + Distillers,77,3.76
+138,5.40,99037,https://www.beeradvocate.com/beer/profile/24764/99037/,Count Orlok,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,77,3.7
+139,5.50,62720,https://www.beeradvocate.com/beer/profile/695/62720/,Yunkin' Punkin',695,Manayunk Brewery and Restaurant,76,3.5
+140,6.10,54711,https://www.beeradvocate.com/beer/profile/17271/54711/,Pumpkin Ale,17271,Bootlegger's Brewery,74,3.75
+141,5.60,39371,https://www.beeradvocate.com/beer/profile/1666/39371/,Pumpkin Ale,1666,Selin's Grove Brewing Company,74,4.28
+142,9.00,98343,https://www.beeradvocate.com/beer/profile/12314/98343/,Imperial Pumpkin,12314,Dry Dock Brewing Co.,73,3.88
+143,7.50,62620,https://www.beeradvocate.com/beer/profile/16289/62620/,Pumpkin Ale,16289,Laurelwood Public House & Brewery,73,3.77
+144,6.40,87362,https://www.beeradvocate.com/beer/profile/26990/87362/,Gordgeous,26990,NoDa Brewing Company,72,3.96
+145,5.40,27151,https://www.beeradvocate.com/beer/profile/73/27151/,Pumpkin Ale,73,Great Lakes Brewing Co.,71,3.86
+146,10.00,139405,https://www.beeradvocate.com/beer/profile/10796/139405/,Flying Monkeys Paranormal Imperial Pumpkin Ale,10796,Flying Monkeys Craft Brewery,70,3.94
+147,9.50,249439,https://www.beeradvocate.com/beer/profile/30581/249439/,Xibalba - Bourbon Barrel-Aged,30581,Wicked Weed Brewing,69,4.16
+148,5.00,53862,https://www.beeradvocate.com/beer/profile/20220/53862/,Black Creek Pumpkin Ale,20220,Black Creek Historic Brewery,69,3.15
+149,7.00,13857,https://www.beeradvocate.com/beer/profile/2097/13857/,All Hallows Ale,2097,Kuhnhenn Brewing Company,68,4.16
+150,5.60,196610,https://www.beeradvocate.com/beer/profile/2372/196610/,Terrapin Cranberry Pumpkinfest,2372,Terrapin Beer Company,67,3.62
+151,4.70,13881,https://www.beeradvocate.com/beer/profile/3042/13881/,Pumpkin Ale,3042,BJ's Restaurant & Brewhouse,66,3.82
+152,5.10,86347,https://www.beeradvocate.com/beer/profile/691/86347/,Pumpkin Ale,691,Blackstone Restaurant & Brewery,66,3.68
+153,9.00,98724,https://www.beeradvocate.com/beer/profile/31238/98724/,Patterson Pumpkin,31238,Full Tilt Brewing,65,3.56
+154,5.20,53293,https://www.beeradvocate.com/beer/profile/15642/53293/,Mummy Train Pumpkin Ale,15642,Flat Earth Brewing Company,63,3.53
+155,4.50,98738,https://www.beeradvocate.com/beer/profile/16206/98738/,Kenz O'Lantern,16206,Philadelphia Brewing Company,63,3.05
+156,6.20,100051,https://www.beeradvocate.com/beer/profile/18635/100051/,Pumpkin Beast,18635,Aviator Brewing Company,63,3.56
+157,10.00,143782,https://www.beeradvocate.com/beer/profile/1432/143782/,Bourbon Barrel Barking Pumpkin,1432,Jackie O's Pub & Brewery,60,3.99
+158,8.50,75635,https://www.beeradvocate.com/beer/profile/16589/75635/,Spinal Remains Pumpkin Stout,16589,Spring House Brewing Company,59,3.96
+159,5.50,189006,https://www.beeradvocate.com/beer/profile/3268/189006/,Vanilla Pumpkin,3268,O'Fallon Brewery,58,3.8
+160,5.50,63136,https://www.beeradvocate.com/beer/profile/6045/63136/,Iron Hill Pumpkin Ale,6045,Iron Hill Brewery & Restaurant,58,3.63
+161,5.00,45654,https://www.beeradvocate.com/beer/profile/2675/45654/,Crooked Tooth Pumpkin Ale,2675,Phillips Brewing Company,55,3.74
+162,4.60,98459,https://www.beeradvocate.com/beer/profile/18724/98459/,Pumpkin Ale,18724,Old Forge Brewing Company,53,3.47
+163,7.30,99969,https://www.beeradvocate.com/beer/profile/2454/99969/,Thomas Creek Pumpkin Ale,2454,Thomas Creek Brewery,52,3.69
+164,4.50,130150,https://www.beeradvocate.com/beer/profile/27844/130150/,Dead Souls,27844,Round Guys Brewing Company,51,3.2
+165, ? ,9319,https://www.beeradvocate.com/beer/profile/1636/9319/,Pumpkin Ale,1636,Fegley's Bethlehem Brew Works,51,3.58
+166,5.40,38904,https://www.beeradvocate.com/beer/profile/711/38904/,Pumpkin Pie Spiced Ale,711,Alley Kat Brewing Company,50,3.73
+167,5.60,73739,https://www.beeradvocate.com/beer/profile/15435/73739/,Wild Oats Series No. 13 - Weiss O'Lantern,15435,Beau's All Natural Brewing Company,49,3.74
+168,6.00,72833,https://www.beeradvocate.com/beer/profile/14359/72833/,Headless Horseman Pumpkin Ale,14359,The Defiant Brewing Company,49,3.75
+169,5.00,139943,https://www.beeradvocate.com/beer/profile/31460/139943/,Fairgrounds Fall Ale,31460,Brothers Craft Brewing,48,3.74
+170,11.00,187393,https://www.beeradvocate.com/beer/profile/1416/187393/,Jacked B Nimble,1416,Uinta Brewing Company,47,3.99
+171,6.50,98795,https://www.beeradvocate.com/beer/profile/1888/98795/,Ubu Pumpkin Ale,1888,Lake Placid Craft Brewing Company,47,3.5
+172,5.00,73770,https://www.beeradvocate.com/beer/profile/20345/73770/,Pumpkin Ale,20345,Long Ireland Beer Company,46,3.2
+173,11.90,301681,https://www.beeradvocate.com/beer/profile/33824/301681/,The Spice Must Flow,33824,Bottle Logic Brewing,46,4.35
+174,6.80,184620,https://www.beeradvocate.com/beer/profile/15280/184620/,Pumpkin Spice Latte,15280,Atwater Brewery,45,3.18
+175,5.50,35415,https://www.beeradvocate.com/beer/profile/9629/35415/,Short's Funkin Punkin,9629,Short's Brewing Company,45,3.74
+176,4.80,62041,https://www.beeradvocate.com/beer/profile/20476/62041/,Pumpkin Barrel Ale,20476,Fire Island Beer Company,45,3.62
+177,5.00,99806,https://www.beeradvocate.com/beer/profile/24880/99806/,Mr. Pumpkin,24880,Mother's Brewing Company,45,3.66
+178,8.20,189771,https://www.beeradvocate.com/beer/profile/1924/189771/,62 Imperial Pumpkin Ale,1924,DuClaw Brewing Company,44,3.79
+179,5.80,26381,https://www.beeradvocate.com/beer/profile/1177/26381/,Petunia's Pumpkin Ale,1177,Minneapolis Town Hall Brewery,42,3.9
+180,7.20,97820,https://www.beeradvocate.com/beer/profile/16534/97820/,Enlightenment Great Punkin,16534,Renaissance Brewing,40,3.6
+181,7.50,133015,https://www.beeradvocate.com/beer/profile/31874/133015/,Pumpkin Massacre,31874,Infamous Brewing Company,39,3.52
+182,7.00,98357,https://www.beeradvocate.com/beer/profile/24180/98357/,Howling Pumpkin Ale,24180,Wild Wolf Brewing Company,38,3.54
+183, ? ,52832,https://www.beeradvocate.com/beer/profile/619/52832/,Spicy Pumpkin Ale,619,Indian Wells Brewing Company,38,2.77
+184,6.20,139133,https://www.beeradvocate.com/beer/profile/27114/139133/,Freaktoberfest Big Ol' Pumpkin Ale,27114,Coney Island Brewing Company,38,3.69
+185,8.40,136921,https://www.beeradvocate.com/beer/profile/31783/136921/,De Ogen,31783,Ten Ninety Brewing Company,38,4.31
+186,7.00,137636,https://www.beeradvocate.com/beer/profile/18149/137636/,Avant Gourde,18149,The Lost Abbey,37,3.6
+187,7.00,63792,https://www.beeradvocate.com/beer/profile/19544/63792/,Pumpkin Chucker Chocolate Stout,19544,Fat Head's Brewery & Saloon,36,3.8
+188,8.00,75080,https://www.beeradvocate.com/beer/profile/23347/75080/,Magna Cucurbita,23347,Mike Hess Brewing - Miramar,36,3.82
+189,6.10,33497,https://www.beeradvocate.com/beer/profile/9797/33497/,Late Night Pumpkin Ale,9797,North Country Brewing,35,4.04
+190,5.90,144002,https://www.beeradvocate.com/beer/profile/31493/144002/,Pumpkin Pie Porter,31493,Deep River Brewing Co.,34,3.79
+191,4.30,61860,https://www.beeradvocate.com/beer/profile/22200/61860/,Wormtown Pumpkin Ale,22200,Wormtown Brewery,34,3.73
+192,5.20,98765,https://www.beeradvocate.com/beer/profile/17005/98765/,Pumpkin Spice Ale,17005,Two Beers Brewing Co.,34,3.51
+193,6.50,142904,https://www.beeradvocate.com/beer/profile/3449/142904/,Pumpkin Ale,3449,Steamworks Brewing Company,33,3.65
+194,12.50,139857,https://www.beeradvocate.com/beer/profile/337/139857/,Pumpkinator (Bourbon Barrel Aged),337,Saint Arnold Brewing Company,33,4.38
+195,8.37,188543,https://www.beeradvocate.com/beer/profile/1659/188543/,Twisted Gourd,1659,South Street Brewery,33,3.77
+196,5.20,73652,https://www.beeradvocate.com/beer/profile/10485/73652/,Nunkin Ale,10485,East End Brewing Company,33,3.9
+197,9.00,53961,https://www.beeradvocate.com/beer/profile/6045/53961/,The Great Imperial Pumpkin Ale,6045,Iron Hill Brewery & Restaurant,33,3.76
+198,9.20,106306,https://www.beeradvocate.com/beer/profile/32279/106306/,Gourd Of Thunder Imperial Pumpkin Porter,32279,Strangeways Brewing,32,3.83
+199,5.50,99128,https://www.beeradvocate.com/beer/profile/46749/99128/,Pumpkin Patch Ale,46749,Eddyline Brewery,31,3.66
+200,6.00,86203,https://www.beeradvocate.com/beer/profile/18316/86203/,Punk'in Disorderly,18316,Al's of Hampden / Pizza Boy Brewing,31,3.71
+201,5.40,125888,https://www.beeradvocate.com/beer/profile/26620/125888/,Hey! Pumpkin,26620,Denver Beer Co.,31,3.59
+202,5.00,130511,https://www.beeradvocate.com/beer/profile/22655/130511/,Olde Towne Pumpkin Ale,22655,Straight To Ale,31,3.78
+203,7.00,85456,https://www.beeradvocate.com/beer/profile/10549/85456/,Witch's Brew'mmm,10549,Charleville Vineyard Microbrewery,31,3.44
+204,10.40,139778,https://www.beeradvocate.com/beer/profile/16873/139778/,Jamaican Me Pumpkin,16873,10 Barrel Brewing Co.,30,4.09
+205,5.00,62297,https://www.beeradvocate.com/beer/profile/23201/62297/,Punkinator,23201,Mad Fox Brewing Company,30,3.8
+206,8.00,106160,https://www.beeradvocate.com/beer/profile/32855/106160/,Pumpkin Ain't Easy,32855,Lickinghole Creek Craft Brewery,30,3.51
+207,6.80,140034,https://www.beeradvocate.com/beer/profile/17281/140034/,Superstition,17281,Black Market Brewing Co.,29,3.67
+208,8.00,142868,https://www.beeradvocate.com/beer/profile/16859/142868/,Candelabrum - Rum Barrel Pumpkin,16859,Great South Bay Brewery,29,3.72
+209,6.40,73791,https://www.beeradvocate.com/beer/profile/2594/73791/,Jumpin Jack Pumpkin Ale,2594,Tree Brewing,29,3.81
+210, ? ,138323,https://www.beeradvocate.com/beer/profile/33824/138323/,Pumpkin π,33824,Bottle Logic Brewing,29,3.79
+211,5.90,74586,https://www.beeradvocate.com/beer/profile/700/74586/,Mr. Yuck Sour Pumpkin Ale,700,Elysian Brewing Company,29,3.53
+212,6.00,93562,https://www.beeradvocate.com/beer/profile/261/93562/,Island Reserve: Rumple Drumkin,261,Cisco Brewers Inc.,29,3.24
+213,9.40,138734,https://www.beeradvocate.com/beer/profile/33065/138734/,Gourd Rocker Imperial Porter,33065,Double Barley Brewing,29,4.12
+214,9.00,187895,https://www.beeradvocate.com/beer/profile/14400/187895/,Imperial Pumpkin Sleigh’r,14400,Ninkasi Brewing Company,29,3.28
+215,5.70,73214,https://www.beeradvocate.com/beer/profile/13907/73214/,Chunkin Pumpkin,13907,Crabtree Brewing Company,29,3.48
+216,5.30,55835,https://www.beeradvocate.com/beer/profile/19163/55835/,Punkin Pie Ale,19163,Liberty Street Brewing Company,28,3.54
+217,7.70,105040,https://www.beeradvocate.com/beer/profile/32171/105040/,Sleepy Hollow,32171,5 Stones Craft Brewing Co.,28,3.82
+218,6.20,138335,https://www.beeradvocate.com/beer/profile/161/138335/,Gourd Shorts,161,Florida Beer Company,28,3.46
+219,9.00,86194,https://www.beeradvocate.com/beer/profile/23459/86194/,Fruit Crate Pumpkin Ale,23459,Hermitage Brewing,28,2.62
+220,7.30,99271,https://www.beeradvocate.com/beer/profile/2675/99271/,Crooked'er Tooth Barrel Aged Pumpkin Ale,2675,Phillips Brewing Company,28,3.85
+221,7.00,63443,https://www.beeradvocate.com/beer/profile/22243/63443/,Pumpkin Disorderly,22243,Vintage Brewing Company,28,4.11
+222,9.50,142582,https://www.beeradvocate.com/beer/profile/28255/142582/,Pumpkin Spice Latte,28255,Buffalo Bayou Brewing Co,28,3.93
+223, ? ,62731,https://www.beeradvocate.com/beer/profile/1635/62731/,Pumpkin Ale,1635,Chelsea Craft Brewing Company,27,3.83
+224,6.10,102270,https://www.beeradvocate.com/beer/profile/30239/102270/,Pumpkin Ale,30239,Half Full Brewery,27,3.49
+225,5.60,35029,https://www.beeradvocate.com/beer/profile/848/35029/,Venetucci Pumpkin Ale,848,Bristol Brewing Company,27,4.09
+226,4.50,185336,https://www.beeradvocate.com/beer/profile/22200/185336/,Fresh Patch Pumpkin Ale,22200,Wormtown Brewery,26,3.69
+227,9.00,87861,https://www.beeradvocate.com/beer/profile/1636/87861/,Bourbon Barrel Aged Devious,1636,Fegley's Bethlehem Brew Works,25,3.86
+228,6.50,137148,https://www.beeradvocate.com/beer/profile/2594/137148/,Jumpin Jack India Pumpkin Ale,2594,Tree Brewing,25,3.6
+229,5.00,33254,https://www.beeradvocate.com/beer/profile/1878/33254/,Propeller Pumpkin Ale,1878,Propeller Brewery,25,3.49
+230,9.40,196598,https://www.beeradvocate.com/beer/profile/14952/196598/,Bourbon-Barrel Aged Imperial Pumpkin Ale,14952,AleWerks Brewing Company,25,4.46
+231,7.00,63243,https://www.beeradvocate.com/beer/profile/1837/63243/,Pumpkin Dead,1837,Buckeye Brewing Company,24,3.6
+232,6.00,190261,https://www.beeradvocate.com/beer/profile/22439/190261/,Wild North Pumpkin Ale,22439,Lake of Bays Brewing Company,24,3.51
+233,8.40,108450,https://www.beeradvocate.com/beer/profile/28567/108450/,Herald Imperial Pumpkin Ale,28567,Tin Man Brewing Company,24,3.56
+234,5.50,135601,https://www.beeradvocate.com/beer/profile/1344/135601/,Pumpkin Ale,1344,Cricket Hill Brewing Co.,24,3.53
+235,12.00,143099,https://www.beeradvocate.com/beer/profile/30695/143099/,Bruja,30695,Excel Brewing Company,24,3.75
+236,5.00,246031,https://www.beeradvocate.com/beer/profile/12959/246031/,Autumn Blaze Pumpkin Ale,12959,Captain Lawrence Brewing Co.,23,3.54
+237,7.00,54058,https://www.beeradvocate.com/beer/profile/2695/54058/,Ghoul Fuel,2695,Bull & Bush Brewery,23,3.56
+238,8.00,141879,https://www.beeradvocate.com/beer/profile/34315/141879/,Autumn Reaper,34315,Hailstorm Brewing Co.,23,3.84
+239,5.00,73794,https://www.beeradvocate.com/beer/profile/3795/73794/,Pumpkin Head,3795,Fernie Brewing Co.,23,3.65
+240,5.50,39125,https://www.beeradvocate.com/beer/profile/1550/39125/,Ichabod's Pumpkin Ale,1550,Rock Bottom Restaurant & Brewery,23,3.65
+241,8.60,107990,https://www.beeradvocate.com/beer/profile/31326/107990/,Hail To The Dark Gourd,31326,HammerHeart Brewing Company,23,4.25
+242,7.00,92925,https://www.beeradvocate.com/beer/profile/29661/92925/,Captain Jack's Pumpkin Ale,29661,The Fin City Brewing Co.,23,3.48
+243,4.80,130305,https://www.beeradvocate.com/beer/profile/35922/130305/,Haunted Pumpkin Ale,35922,Lucky Girl Brewing Company,22,3.5
+244,5.20,39199,https://www.beeradvocate.com/beer/profile/16096/39199/,Pumpkin Ale,16096,Allentown Brew Works,22,3.86
+245,6.70,104996,https://www.beeradvocate.com/beer/profile/688/104996/,Newport Storm Rhode Island Pumpkin (R.I.P.),688,Coastal Extreme Brewing Co.,22,3.61
+246,8.50,74347,https://www.beeradvocate.com/beer/profile/13371/74347/,Headless Horseman,13371,Voodoo Brewery,22,3.66
+247,10.00,197562,https://www.beeradvocate.com/beer/profile/19544/197562/,Bourbon Barrel Aged Spooky Tooth Pumpkin Ale,19544,Fat Head's Brewery & Saloon,22,4.24
+248,6.66,111595,https://www.beeradvocate.com/beer/profile/30454/111595/,Jackass O'Lantern,30454,Spiteful Brewing,22,3.48
+249,6.60,74528,https://www.beeradvocate.com/beer/profile/21006/74528/,La Magouille,21006,Brasseurs Illimités,21,3.58
+250,6.50,45355,https://www.beeradvocate.com/beer/profile/17034/45355/,Ichabod's Midnight Ride,17034,Roy Pitz Brewing Company,21,3.94
+251,5.80,30375,https://www.beeradvocate.com/beer/profile/2700/30375/,Taps Pumpkin Ale,2700,Taps Fish House & Brewery,21,3.81
+252, ? ,16624,https://www.beeradvocate.com/beer/profile/1317/16624/,Pumpkin Ale,1317,Triumph Brewing Company,21,3.4
+253,6.00,186676,https://www.beeradvocate.com/beer/profile/22893/186676/,The Gourdian Pumpkin Ale,22893,Epic Brewing Company,20,3.57
+254,5.80,249919,https://www.beeradvocate.com/beer/profile/29314/249919/,Tales From The Patch Pumpkin Porter,29314,Big Rig Brewery,20,3.68
+255,6.80,20301,https://www.beeradvocate.com/beer/profile/9558/20301/,Brown's Pumpkin Ale,9558,Brown's Brewing Company,20,3.62
+256,5.50,26746,https://www.beeradvocate.com/beer/profile/596/26746/,Portsmouth Pumpkin Ale,596,Portsmouth Brewery,20,3.52
+257,4.80,74368,https://www.beeradvocate.com/beer/profile/2175/74368/,Mavericks Pumpkin Harvest Ale,2175,Half Moon Bay Brewing Company,20,3.45
+258,8.00,74237,https://www.beeradvocate.com/beer/profile/392/74237/,Bourbon Imperial Pumpkin Ale,392,Weyerbacher Brewing Co.,20,3.49
+259,6.50,102410,https://www.beeradvocate.com/beer/profile/22783/102410/,O'Connor Punkelweisse,22783,O'Connor Brewing Co.,19,3.6
+260,4.70,74781,https://www.beeradvocate.com/beer/profile/26967/74781/,Boo Brew,26967,Port Jeff Brewing Company,19,3.6
+261,7.00,102454,https://www.beeradvocate.com/beer/profile/27230/102454/,Lord Of The Gourd,27230,Barley Mow Brewing Company,19,3.64
+262, ? ,7528,https://www.beeradvocate.com/beer/profile/1550/7528/,Pumpkin Ale,1550,Rock Bottom Restaurant & Brewery,19,3.61
+263,7.50,63121,https://www.beeradvocate.com/beer/profile/14984/63121/,Jackalope Imperial Pumpkin Porter,14984,Beer Valley Brewing Co.,19,3.65
+264,5.00,140949,https://www.beeradvocate.com/beer/profile/36261/140949/,Southern Tater,36261,Benford Brewing Co.,19,3.41
+265,5.40,194743,https://www.beeradvocate.com/beer/profile/16315/194743/,Pumpkin King,16315,BrewDog,19,3.51
+266,5.40,55015,https://www.beeradvocate.com/beer/profile/16110/55015/,Pumkin's Pumkin Spice Beer,16110,Rivertowne Pourhouse,19,4.23
+267,8.00,252140,https://www.beeradvocate.com/beer/profile/1416/252140/,Funk'n Patch,1416,Uinta Brewing Company,19,3.9
+268,5.20,33061,https://www.beeradvocate.com/beer/profile/14359/33061/,The Horseman's Ale,14359,The Defiant Brewing Company,18,4.11
+269,6.30,172069,https://www.beeradvocate.com/beer/profile/17856/172069/,Horny Goat Hornacopia Pumpkin Ale,17856,Horny Goat Brewing Co.,18,3.59
+270,5.30,190007,https://www.beeradvocate.com/beer/profile/21092/190007/,Tap Room No. 21 Pumpkin Ale,21092,World Brews,18,3.28
+271,5.80,74296,https://www.beeradvocate.com/beer/profile/17229/74296/,Pumpkin Ale,17229,Cortland Beer Company,18,3.55
+272,6.50,62597,https://www.beeradvocate.com/beer/profile/17157/62597/,Stingy Jack Pumpkin Ale,17157,Potosi Brewing Company,18,3.87
+273,6.80,86753,https://www.beeradvocate.com/beer/profile/21952/86753/,Gourdon Pumpkin Ale,21952,People's Brewing Company,18,3.58
+274,10.50,28390,https://www.beeradvocate.com/beer/profile/322/28390/,De Regenboog Speciale,322,Brouwerij Smisje,18,4
+275,5.80,54256,https://www.beeradvocate.com/beer/profile/20268/54256/,Pumpkin Ale,20268,Kirkwood Station Brewing Company,18,3.65
+276,4.70,33532,https://www.beeradvocate.com/beer/profile/2710/33532/,Pumpkin Ale,2710,BJ's Chicago Pizza & Brewery Inc.,18,3.6
+277,8.00,183594,https://www.beeradvocate.com/beer/profile/10321/183594/,Patrick O' Pumpkin,10321,Central City Brewers + Distillers,17,3.76
+278,4.80,32910,https://www.beeradvocate.com/beer/profile/12/32910/,Pumpkin Spice Ale,12,John Harvard's Brewery & Ale House,17,3.78
+279,5.50,139669,https://www.beeradvocate.com/beer/profile/4045/139669/,Happy Jack,4045,Russell Brewing Company,17,3.74
+280,6.00,54682,https://www.beeradvocate.com/beer/profile/20998/54682/,Chuck's Pumpkin Ale,20998,Battered Boar Brewing Company,17,3.07
+281,5.20,249506,https://www.beeradvocate.com/beer/profile/31272/249506/,Cuvee Pumpkin Latte,31272,Martin House Brewing Company,17,3.53
+282, ? ,86446,https://www.beeradvocate.com/beer/profile/24411/86446/,Pumpkin Ale,24411,The Bier Brewery,17,4.38
+283,5.00,137428,https://www.beeradvocate.com/beer/profile/10321/137428/,Red Betty Spiced Pumpkin Ale,10321,Central City Brewers + Distillers,17,3.59
+284,6.66,99293,https://www.beeradvocate.com/beer/profile/23058/99293/,Monster's Mash,23058,Pub Dog Brewing,17,3.28
+285,8.70,141547,https://www.beeradvocate.com/beer/profile/29693/141547/,Imperial Pumpkin,29693,Reuben's Brews,17,3.99
+286,6.80,85489,https://www.beeradvocate.com/beer/profile/583/85489/,Schlafly Pumpkin Stout,583,The Schlafly Tap Room,17,3.93
+287,5.50,137209,https://www.beeradvocate.com/beer/profile/487/137209/,Gourd's Gone Wild,487,Tampa Bay Brewing Co.,17,4.02
+288,9.50,102400,https://www.beeradvocate.com/beer/profile/33027/102400/,Grandma Sutfin's Chocolate Pumpkin Pie Ale,33027,Brew Rebellion,16,3.41
+289,4.00,137247,https://www.beeradvocate.com/beer/profile/34411/137247/,Old Jail Pumpkin Ale,34411,Old Bust Head Brewing Co.,16,3.77
+290,6.50,105527,https://www.beeradvocate.com/beer/profile/33300/105527/,El Gourdo Pumpkin Porter,33300,Busted Sandal Brewing Company,16,4.02
+291,10.00,143939,https://www.beeradvocate.com/beer/profile/33235/143939/,Pop's Imperial Maple Pumpkin Ale,33235,Mill House Brewing Company,16,4.16
+292,8.00,193617,https://www.beeradvocate.com/beer/profile/36710/193617/,Gourdita,36710,J. Wakefield Brewing,16,3.97
+293,9.50,283022,https://www.beeradvocate.com/beer/profile/583/283022/,Ibex Series: Barrel Aged Pumpkin Ale,583,The Schlafly Tap Room,16,4.28
+294,9.50,53700,https://www.beeradvocate.com/beer/profile/6045/53700/,Bruce Camp-Ale,6045,Iron Hill Brewery & Restaurant,16,4.03
+295,5.90,145646,https://www.beeradvocate.com/beer/profile/30858/145646/,Ermah-Gourd!,30858,Aardwolf Brewing Company,16,4.24
+296,5.50,98801,https://www.beeradvocate.com/beer/profile/761/98801/,Harvest Jack Pumpkin Ale,761,CB Craft Brewers,16,3.62
+297,6.50,198647,https://www.beeradvocate.com/beer/profile/9969/198647/,Den Of Sin Pumpkin Brown Ale,9969,Rahr & Sons Brewing Company,16,3.79
+298, ? ,45822,https://www.beeradvocate.com/beer/profile/986/45822/,Drunkin' Pumpkin',986,Wynkoop Brewing Company,16,3.88
+299,9.40,53502,https://www.beeradvocate.com/beer/profile/335/53502/,New Holland Imperial Ichabod Ale,335,New Holland Brewing Company,16,3.91
+300,9.70,146974,https://www.beeradvocate.com/beer/profile/33607/146974/,Honey Pumpkin Lover,33607,Plan Bee Farm Brewery,15,3.92
+301,5.50,45605,https://www.beeradvocate.com/beer/profile/1754/45605/,Mischief Night Pumpkin Ale,1754,Stewart's Brewing Co.,15,3.96
+302,7.50,146534,https://www.beeradvocate.com/beer/profile/30882/146534/,Menger 32,30882,Branchline Brewing Co.,15,3.46
+303,9.40,74374,https://www.beeradvocate.com/beer/profile/6045/74374/,Great Pumpkin Stout,6045,Iron Hill Brewery & Restaurant,15,4.03
+304,7.00,134342,https://www.beeradvocate.com/beer/profile/29850/134342/,Fall Pasture Pumpkin Pie,29850,Bolero Snort Brewery,15,3.44
+305,8.90,213972,https://www.beeradvocate.com/beer/profile/33464/213972/,Pumpkin Stiltskin,33464,Big Top Brewing Company,15,4.19
+306,7.50,86768,https://www.beeradvocate.com/beer/profile/1291/86768/,Motor City Pumpkin Ale,1291,Motor City Brewing Works,15,3.15
+307,8.00,189682,https://www.beeradvocate.com/beer/profile/37303/189682/,Fallow Harvest,37303,Hermit Thrush Brewery,15,3.67
+308,6.60,123688,https://www.beeradvocate.com/beer/profile/33562/123688/,Schottky  Pumpkin Ale,33562,Tin Whiskers Brewing Company,14,3.99
+309, ? ,6730,https://www.beeradvocate.com/beer/profile/582/6730/,Spiced Pumpkin Ale,582,Trailhead Brewing Co,14,3.71
+310, ? ,45147,https://www.beeradvocate.com/beer/profile/609/45147/,Bison Organic Pumpkin Ale,609,Bison Brewing,14,3.1
+311,4.50,85607,https://www.beeradvocate.com/beer/profile/13136/85607/,Gage Roads Pumpkin Ale,13136,Gage Roads Brewing Company,14,2.93
+312,10.00,196267,https://www.beeradvocate.com/beer/profile/3268/196267/,Imperial Pumpkin Beer,3268,O'Fallon Brewery,14,4.02
+313,9.50,105412,https://www.beeradvocate.com/beer/profile/26990/105412/,Drop Dead Gorgeous,26990,NoDa Brewing Company,14,3.9
+314,7.00,102874,https://www.beeradvocate.com/beer/profile/26934/102874/,Pumpkin Thief,26934,Black Acre Brewing Co.,14,4.15
+315,5.80,100572,https://www.beeradvocate.com/beer/profile/32412/100572/,Flash Gourd'n,32412,The Vineyard and Brewery at Hershey,14,3.25
+316,6.10,154379,https://www.beeradvocate.com/beer/profile/35764/154379/,Pump-Action Pumpkin Ale,35764,4 Noses Brewing Company,13,4.01
+317,8.30,102682,https://www.beeradvocate.com/beer/profile/30349/102682/,Imperial Pumpkin Ale,30349,Dangerous Man Brewing,13,4.07
+318,9.60,106037,https://www.beeradvocate.com/beer/profile/33376/106037/,Head Of The Horseman,33376,D9 Brewing Company,13,4.06
+319,8.20,99143,https://www.beeradvocate.com/beer/profile/6045/99143/,Cinderella's Carriage,6045,Iron Hill Brewery & Restaurant,13,3.81
+320,5.00,99975,https://www.beeradvocate.com/beer/profile/31837/99975/,Pumpkin Ale,31837,Oyster Bay Brewing Co.,13,4.09
+321,12.00,192648,https://www.beeradvocate.com/beer/profile/12516/192648/,Bourbon Barrel-Aged Imperial Pumpkin Ale,12516,Thirsty Dog Brewing Company,13,4.24
+322,4.90,72875,https://www.beeradvocate.com/beer/profile/22917/72875/,Pumpkin Ale,22917,Ferguson Brewing Company,13,3.53
+323,5.40,8372,https://www.beeradvocate.com/beer/profile/162/8372/,Stone Cat Pumpkin Ale,162,Ipswich Ale Brewery,13,3.71
+324,5.70,189891,https://www.beeradvocate.com/beer/profile/27979/189891/,Pumpkin Grinder,27979,Mankato Brewery,13,3.96
+325,4.96,139463,https://www.beeradvocate.com/beer/profile/2756/139463/,Peaceful Pumpkin,2756,Mudshark Brewing Co.,13,3.38
+326,5.00,184047,https://www.beeradvocate.com/beer/profile/200/184047/,Engine 45,200,Mendocino Brewing Company,13,3.23
+327, ? ,34855,https://www.beeradvocate.com/beer/profile/3353/34855/,Plymouth Rock Pumpkin Ale,3353,Rockyard Brewing,12,3.37
+328, ? ,7208,https://www.beeradvocate.com/beer/profile/949/7208/,Pumpkin Spice,949,Stone Arch Brew House,12,3.8
+329,6.20,137016,https://www.beeradvocate.com/beer/profile/1336/137016/,Rutty Buck Pumpkin,1336,Appalachian Brewing Company,12,3.7
+330,5.50,99899,https://www.beeradvocate.com/beer/profile/986/99899/,Pumpkin Ale,986,Wynkoop Brewing Company,12,3.39
+331,5.00,100671,https://www.beeradvocate.com/beer/profile/674/100671/,Organic Pumpkin Ale,674,Nelson Brewing Company,12,3.75
+332,6.50,66142,https://www.beeradvocate.com/beer/profile/2972/66142/,Dark Harvest Pumpkin Stout,2972,Mountain Sun Pub & Brewery,12,3.7
+333,7.00,54129,https://www.beeradvocate.com/beer/profile/10271/54129/,Twisted Gourd,10271,Silver Moon Brewing,12,3.43
+334, ? ,75647,https://www.beeradvocate.com/beer/profile/35412/75647/,Barrel Aged PumQueen,35412,Cycle Brewing,12,3.78
+335,10.50,68486,https://www.beeradvocate.com/beer/profile/18120/68486/,Emma's Coffin,18120,Trinity Brewing Company,12,3.92
+336, ? ,26766,https://www.beeradvocate.com/beer/profile/952/26766/,Pumpkin Ale,952,Great Dane Pub & Brewing Company (Downtown),12,4.1
+337,4.00,303760,https://www.beeradvocate.com/beer/profile/28908/303760/,Wasatch Nitro Pumpkin Ale,28908,Utah Brewers Cooperative,12,3.35
+338,5.00,8598,https://www.beeradvocate.com/beer/profile/1285/8598/,Milly's Famous Pumpkin Ale,1285,Stark Brewing Company,12,3.73
+339,7.20,108207,https://www.beeradvocate.com/beer/profile/30471/108207/,Stingy Jack,30471,Beavertown Brewery,12,3.59
+340,6.10,53425,https://www.beeradvocate.com/beer/profile/19304/53425/,Potbelly Pumpkin Ale,19304,Breaker Brewing Company,12,3.6
+341, ? ,10205,https://www.beeradvocate.com/beer/profile/1834/10205/,Pumpkin Patch Pumpkin,1834,"Shipwrecked Brew Pub, Restaurant and Inn",12,2.99
+342,8.00,184045,https://www.beeradvocate.com/beer/profile/2447/184045/,Barrel-Aged Punk’in Drublic,2447,Coronado Brewing Company,12,3.79
+343,6.90,147185,https://www.beeradvocate.com/beer/profile/29573/147185/,Pumpkin Bier,29573,pFriem Family Brewers,12,3.76
+344,5.00,138998,https://www.beeradvocate.com/beer/profile/139/138998/,Waterfront Brewing Co. Spiced Pumpkin Ale,139,Shipyard Brewing Company,12,2.61
+345,9.70,198676,https://www.beeradvocate.com/beer/profile/30437/198676/,Roadsmary's Other Baby,30437,Two Roads Brewing Company,11,4.08
+346, ? ,126766,https://www.beeradvocate.com/beer/profile/31372/126766/,Jackie O' Lantern,31372,Carson's Brewery,11,3.57
+347,6.00,53807,https://www.beeradvocate.com/beer/profile/1177/53807/,Pumpkin Ale,1177,Minneapolis Town Hall Brewery,11,4.11
+348, ? ,131379,https://www.beeradvocate.com/beer/profile/31165/131379/,Scarecrow's Friend,31165,Bad Weather Brewing Company,11,3.76
+349,9.20,109418,https://www.beeradvocate.com/beer/profile/33375/109418/,APUMPalyptica,33375,Wiley Roots Brewing Co,11,3.89
+350,5.30,105078,https://www.beeradvocate.com/beer/profile/3447/105078/,Spiced Pumpkin Ale,3447,Spinnakers Gastro Brewpub & Guesthouse,11,3.56
+351,6.00,190848,https://www.beeradvocate.com/beer/profile/41195/190848/,Harvester Pumpkin Ale,41195,Southern Barrel Brewing Co.,11,3.85
+352,10.20,75157,https://www.beeradvocate.com/beer/profile/1162/75157/,Punkunhead,1162,Mad Anthony Brewing Company,11,4.24
+353,4.40,14489,https://www.beeradvocate.com/beer/profile/1872/14489/,Pumpkin Spice Ale,1872,McKenzie Brew House,11,3.73
+354,5.50,62650,https://www.beeradvocate.com/beer/profile/15834/62650/,The Great Pumpkin,15834,Dock Street Brewery & Restaurant,11,3.72
+355, ? ,86990,https://www.beeradvocate.com/beer/profile/10153/86990/,Pisgah Pumpkin Ale,10153,Pisgah Brewing Co.,11,3.86
+356,5.30,87510,https://www.beeradvocate.com/beer/profile/28183/87510/,All Saints Hallowed Pumpkin Ale,28183,All Saints Brewing Company,11,3.63
+357,9.40,138983,https://www.beeradvocate.com/beer/profile/18990/138983/,Rum Barrel-Aged Pumpkin Ale,18990,Joseph James Brewing Inc.,11,3.42
+358,5.00,191217,https://www.beeradvocate.com/beer/profile/28091/191217/,Scarecrow,28091,Free Will Brewing Co.,11,3.63
+359,6.10,38672,https://www.beeradvocate.com/beer/profile/1342/38672/,Pumpkin Ale,1342,Harvest Moon Brewery & Cafe,10,3.79
+360,5.20,23825,https://www.beeradvocate.com/beer/profile/3196/23825/,Great Pumpkin Ale,3196,Flat Branch Pub & Brewery,10,3.94
+361,5.30,45874,https://www.beeradvocate.com/beer/profile/1749/45874/,Pumpkin Spice Ale,1749,Wisconsin Dells Brewing Co.,10,3.65
+362,10.00,76347,https://www.beeradvocate.com/beer/profile/24371/76347/,Ofrenda,24371,Microcerveceria Gourmet Calavera,10,3.59
+363,6.50,39254,https://www.beeradvocate.com/beer/profile/1398/39254/,Critz's Pumpkin Ale,1398,Empire Brewing Company - Brewpub,10,3.62
+364,6.50,53593,https://www.beeradvocate.com/beer/profile/16077/53593/,Drunkin Pumpkin,16077,Fort George Brewery + Public House,10,4.04
+365,5.00,140940,https://www.beeradvocate.com/beer/profile/4701/140940/,The Angry Hessian,4701,Yukon Brewing Company,10,3.64
+366,5.50,45457,https://www.beeradvocate.com/beer/profile/2587/45457/,Jack O'Lantern Pumpkin Ale,2587,The Grizzly Paw Brewing Company,10,3.99
+367,7.00,101536,https://www.beeradvocate.com/beer/profile/29161/101536/,Midnight Pumpkin Ale,29161,Tall Tales Brewing Company,10,3.25
+368,8.00,197559,https://www.beeradvocate.com/beer/profile/30791/197559/,Headless Wylie,30791,Rivertowne Brewing,10,4.13
+369,4.40,195293,https://www.beeradvocate.com/beer/profile/28663/195293/,Jack Be Little,28663,Prohibition Pig,10,3.85
+370,9.00,190712,https://www.beeradvocate.com/beer/profile/26765/190712/,Bushido,26765,Revival Brewing Co.,10,3.74
+371,5.70,105746,https://www.beeradvocate.com/beer/profile/32406/105746/,Outta My Vine,32406,Crooked Ladder Brewing Company,9,3.52
+372,8.66,86314,https://www.beeradvocate.com/beer/profile/1754/86314/,Gourdzilla,1754,Stewart's Brewing Co.,9,3.99
+373,5.50,34103,https://www.beeradvocate.com/beer/profile/1634/34103/,Clove Valley Pumpkin Ale,1634,Gilded Otter Brewing Company,9,3.64
+374,5.00,63546,https://www.beeradvocate.com/beer/profile/11023/63546/,Nickel Brook Pumpkin Ale,11023,Nickel Brook Brewing Co.,9,3.48
+375,6.00,104765,https://www.beeradvocate.com/beer/profile/31384/104765/,Pumpkin Express,31384,Old Rail Brewing Company,9,4.09
+376,5.00,194375,https://www.beeradvocate.com/beer/profile/200/194375/,Olde Saratoga Death Wish Pumpkin Ale,200,Mendocino Brewing Company,9,3.95
+377,5.40,63049,https://www.beeradvocate.com/beer/profile/18724/63049/,Smashing Pumpkin Ale,18724,Old Forge Brewing Company,9,3.77
+378,6.00,62803,https://www.beeradvocate.com/beer/profile/16963/62803/,Pumpkin,16963,Marble Brewery,9,3.86
+379,6.30,100707,https://www.beeradvocate.com/beer/profile/2352/100707/,Punkinweizen,2352,Wolf Creek Brewing,9,3.51
+380,5.80,121468,https://www.beeradvocate.com/beer/profile/2242/121468/,Gahan House Pumpkin Ale,2242,The Gahan House,9,3.35
+381, ? ,20608,https://www.beeradvocate.com/beer/profile/235/20608/,Northampton Pumpkin Ale,235,Northampton Brewery,9,3.81
+382,6.50,86157,https://www.beeradvocate.com/beer/profile/17284/86157/,Pumpkin Ale,17284,Bold City Brewery,9,3.87
+383,7.00,196757,https://www.beeradvocate.com/beer/profile/39356/196757/,Jax's Patch Over Pumpkin Ale,39356,Sand City Brewing Co.,9,4.09
+384,4.50,141996,https://www.beeradvocate.com/beer/profile/18372/141996/,Pumpkin Cream Ale,18372,Keuka Brewing Company,9,3.79
+385,7.10,137391,https://www.beeradvocate.com/beer/profile/33901/137391/,I Pumpkin A,33901,Finback Brewery,9,3.91
+386,4.90,20659,https://www.beeradvocate.com/beer/profile/2085/20659/,Dragonmead Lil's Grumpkin Pumpkin,2085,Dragonmead Microbrewery,9,3.77
+387, ? ,74678,https://www.beeradvocate.com/beer/profile/26620/74678/,Pumpkin Porter,26620,Denver Beer Co.,9,3.51
+388,6.50,253384,https://www.beeradvocate.com/beer/profile/28282/253384/,Jack O'Lahar Pumpkin Ale,28282,Puyallup River Brewing,9,3.4
+389,5.80,45010,https://www.beeradvocate.com/beer/profile/4027/45010/,Pumpkin Spice Ale,4027,Great Adirondack Steak And Seafood Co.,9,3.9
+390,5.00,141526,https://www.beeradvocate.com/beer/profile/2085/141526/,Dragonmead Devil's Knight Pumpkin Ale,2085,Dragonmead Microbrewery,9,3.48
+391,6.40,143584,https://www.beeradvocate.com/beer/profile/700/143584/,Gourdgia On My Mind,700,Elysian Brewing Company,9,3.44
+392,7.00,141031,https://www.beeradvocate.com/beer/profile/32453/141031/,Friend Of The Farmer Pumpkin Pie Porter,32453,Cherry Street Brewing Cooperative,9,4.25
+393,5.50,194056,https://www.beeradvocate.com/beer/profile/695/194056/,Bourbon Barrel Aged Madagascar Vanilla Bean Yunkin Pumpkin,695,Manayunk Brewery and Restaurant,8,3.72
+394,6.80,133385,https://www.beeradvocate.com/beer/profile/35374/133385/,Hiverna,35374,Haw River Farmhouse Ales,8,3.67
+395,5.50,85770,https://www.beeradvocate.com/beer/profile/2385/85770/,Pumpkin Ale,2385,Lighthouse Brewing Company,8,3.42
+396, ? ,104461,https://www.beeradvocate.com/beer/profile/33108/104461/,Smoking Pumpkin,33108,Abandon Brewing Co.,8,4.02
+397,5.70,140062,https://www.beeradvocate.com/beer/profile/25839/140062/,Drop Dead GOURDeous Pumpkin Ale,25839,St. Petersburg Brewing Company,8,3.51
+398, ? ,75314,https://www.beeradvocate.com/beer/profile/24745/75314/,Twisted Pumpkin,24745,Paw Paw Brewing Company,8,3.68
+399,6.00,140613,https://www.beeradvocate.com/beer/profile/33703/140613/,Squashing Pumpkins,33703,Sideswipe Brewing,8,3.93
+400,5.00,42068,https://www.beeradvocate.com/beer/profile/1250/42068/,Pumpkin Ale,1250,Swans Brewpub / Buckerfield Brewery,8,4.01
+401,8.20,87387,https://www.beeradvocate.com/beer/profile/25436/87387/,Imperial Pumpkin Porter,25436,Copper Kettle Brewing Company,8,3.91
+402,8.00,142438,https://www.beeradvocate.com/beer/profile/1879/142438/,Double Jack Imperial Pumpkin,1879,Garrison Brewing Company,8,3.51
+403,6.00,138356,https://www.beeradvocate.com/beer/profile/35974/138356/,Pumpkin Patch Ale,35974,Canuck Empire Brewing Company Ltd.,8,3.7
+404,5.40,55167,https://www.beeradvocate.com/beer/profile/2155/55167/,EJ's Pumpkin Ale,2155,Red Brick Station,8,3.3
+405,4.60,112263,https://www.beeradvocate.com/beer/profile/29278/112263/,Ginger's Pumpkin Spiced Wheat,29278,Naked Brewing Company,8,3.47
+406, ? ,140685,https://www.beeradvocate.com/beer/profile/1620/140685/,Jackie Bone,1620,Dunedin Brewery,8,3.65
+407,6.50,193194,https://www.beeradvocate.com/beer/profile/16077/193194/,Squash Buckler,16077,Fort George Brewery + Public House,8,3.67
+408, ? ,135598,https://www.beeradvocate.com/beer/profile/22157/135598/,Rivertown / Quaff Brothers - Flying Pig Pumpkin Ale,22157,Rivertown Brewery & Barrel House,8,3.63
+409,5.80,53937,https://www.beeradvocate.com/beer/profile/19544/53937/,Phantom Pumpkin Ale,19544,Fat Head's Brewery & Saloon,8,3.71
+410,6.00,151475,https://www.beeradvocate.com/beer/profile/33147/151475/,Stunt Dubbel,33147,Isley Brewing Company,8,3.8
+411,6.00,106676,https://www.beeradvocate.com/beer/profile/26634/106676/,Yumpkin Pumpkin,26634,Wichita Brewing Co. & Pizzeria West,8,3.88
+412,4.70,54200,https://www.beeradvocate.com/beer/profile/1888/54200/,Pumpkin Ale,1888,Lake Placid Craft Brewing Company,8,3.77
+413,5.30,99257,https://www.beeradvocate.com/beer/profile/4614/99257/,Grateful Pumpkin Ale,4614,Orlando Brewing Partners,8,4.07
+414,6.66,141498,https://www.beeradvocate.com/beer/profile/31864/141498/,Death By Pumpkin,31864,Indiana City Brewing Company,8,3.92
+415,5.00,13518,https://www.beeradvocate.com/beer/profile/2707/13518/,Olde Peninsula Pumpkin Ale,2707,Olde Peninsula Brewpub & Restaurant,8,3.66
+416,8.00,142039,https://www.beeradvocate.com/beer/profile/33530/142039/,Pi,33530,Wolf's Ridge Brewing,8,3.89
+417,5.10,46559,https://www.beeradvocate.com/beer/profile/1926/46559/,Sleepy Hollow,1926,Ellicott Mills Brewing Company,8,3.91
+418,7.00,140773,https://www.beeradvocate.com/beer/profile/26933/140773/,Padawan Pumpkin,26933,Corcoran Brewing Company,8,3.44
+419,5.90,139243,https://www.beeradvocate.com/beer/profile/24464/139243/,The Dapper Skeleton,24464,Burnside Brewing Co.,8,3.29
+420,5.60,85747,https://www.beeradvocate.com/beer/profile/24047/85747/,Dr. Loomis Pumpkin Ale,24047,Crossroads Brewing Company,8,3.91
+421,7.10,247544,https://www.beeradvocate.com/beer/profile/41566/247544/,Ground Zero / Royal Docks Spiced Oddity,41566,Ground Zero Beer,8,3.58
+422,5.70,136237,https://www.beeradvocate.com/beer/profile/6045/136237/,Pumpkin Weiss,6045,Iron Hill Brewery & Restaurant,7,3.6
+423,8.00,305733,https://www.beeradvocate.com/beer/profile/10321/305733/,Red Racer Barrel Aged Imperial Pumpkin Ale,10321,Central City Brewers + Distillers,7,4.19
+424,4.80,63560,https://www.beeradvocate.com/beer/profile/2079/63560/,Ghost Town Pumpkin Ale,2079,Sweetwater Tavern & Brewery,7,3.76
+425,9.27,173385,https://www.beeradvocate.com/beer/profile/24326/173385/,Nightmare On 1st Street Sour,24326,No Label Brewing Company,7,4.03
+426,6.50,135776,https://www.beeradvocate.com/beer/profile/33642/135776/,Punk O'Lantern,33642,Village Idiot Brewing Company,7,3.7
+427,5.00,100449,https://www.beeradvocate.com/beer/profile/31029/100449/,Pumpkin Spice Belgian,31029,Peddler Brewing Co.,7,3.28
+428,9.30,90211,https://www.beeradvocate.com/beer/profile/28282/90211/,Gourdy Wow!,28282,Puyallup River Brewing,7,4.43
+429,5.50,87407,https://www.beeradvocate.com/beer/profile/30332/87407/,Death By Pumpkin,30332,Hog’s Head Brewing Company,7,3.51
+430, ? ,62834,https://www.beeradvocate.com/beer/profile/1135/62834/,Pumpkin Pie Stout,1135,"Franklin's Restaurant, Brewery & General Store",7,3.91
+431,6.60,252553,https://www.beeradvocate.com/beer/profile/31371/252553/,Juicebox Series - Pumpkin Golden Ale,31371,The Dudes' Brewing Company,7,3.83
+432, ? ,14000,https://www.beeradvocate.com/beer/profile/1169/14000/,Devil Track Pumpkin Ale,1169,Fitger's Brewhouse,7,3.94
+433,7.20,191416,https://www.beeradvocate.com/beer/profile/21974/191416/,Put A Fork In It,21974,Big Woods Brewing Co. / Quaff On! Brewing Company,7,3.57
+434,5.60,134842,https://www.beeradvocate.com/beer/profile/33926/134842/,Bradford,33926,Heritage Brewing Co.,7,3.61
+435,8.70,139454,https://www.beeradvocate.com/beer/profile/35261/139454/,"""The One"" Pumpkin Ale",35261,Ardent Craft Ales,7,3.84
+436,5.10,142528,https://www.beeradvocate.com/beer/profile/32952/142528/,Pumperkin,32952,Three Notch'd Brewing Company,7,3.84
+437,11.00,100080,https://www.beeradvocate.com/beer/profile/31046/100080/,Imperial Pumpkin Ale,31046,De Steeg Brewing Company,7,3.52
+438,7.00,247034,https://www.beeradvocate.com/beer/profile/25957/247034/,Franklin Castle,25957,Market Garden Brewery,7,3.51
+439,6.20,99592,https://www.beeradvocate.com/beer/profile/1336/99592/,Rye Pumpkin Ale,1336,Appalachian Brewing Company,6,3.66
+440, ? ,106514,https://www.beeradvocate.com/beer/profile/8776/106514/,Cornucopia,8776,Barley and Hops,6,4.04
+441, ? ,143666,https://www.beeradvocate.com/beer/profile/29279/143666/,Jack Be Nimble,29279,Nimble Hill Brewing Company,6,3.55
+442, ? ,33586,https://www.beeradvocate.com/beer/profile/943/33586/,Sleepy Hollow Pumpkin Ale,943,Smoky Mountain Brewery & Restaurant,6,3.62
+443,4.00,139572,https://www.beeradvocate.com/beer/profile/31393/139572/,Pumpkin Latte Stout,31393,Roughtail Brewing Co.,6,3.69
+444,5.60,55353,https://www.beeradvocate.com/beer/profile/13831/55353/,Taps Pumpkin 3.14,13831,Taps Brewing Co. Inc.,6,3.86
+445,6.00,53819,https://www.beeradvocate.com/beer/profile/17893/53819/,Pumpkin Ale,17893,Shooting Creek Farm Brewery,6,4.01
+446,10.50,87100,https://www.beeradvocate.com/beer/profile/8768/87100/,Kelso Industrial Pumpkin Ale,8768,Greenpoint Beerworks / Kelso of Brooklyn,6,4.01
+447,5.50,100672,https://www.beeradvocate.com/beer/profile/31648/100672/,Harvest Ale,31648,Prohibition Brewing Company,6,3.29
+448,5.50,151878,https://www.beeradvocate.com/beer/profile/37303/151878/,Tardy Harvest Ale,37303,Hermit Thrush Brewery,6,3.82
+449,7.80,105802,https://www.beeradvocate.com/beer/profile/20537/105802/,Ale-Ô-Ween,20537,Le Trèfle Noir,6,3.79
+450,6.30,33101,https://www.beeradvocate.com/beer/profile/2470/33101/,Ringneck Punkinhead,2470,The Brew Kettle Taproom & Smokehouse / Production Works,6,3.84
+451, ? ,45395,https://www.beeradvocate.com/beer/profile/10271/45395/,Pumpkin Head Ale,10271,Silver Moon Brewing,6,3.39
+452,5.00,192090,https://www.beeradvocate.com/beer/profile/25890/192090/,I Know What You Did Last Shandy,25890,Cape May Brewing Company,6,3.97
+453,6.80,193132,https://www.beeradvocate.com/beer/profile/30437/193132/,Roads Mary Baby Aged In Pumpkin Barrels,30437,Two Roads Brewing Company,6,3.87
+454,6.00,102510,https://www.beeradvocate.com/beer/profile/31393/102510/,Pumpkin Porter,31393,Roughtail Brewing Co.,6,4.02
+455,7.00,98427,https://www.beeradvocate.com/beer/profile/1675/98427/,Zucca,1675,Birrificio Le Baladin,6,3.68
+456,6.10,62847,https://www.beeradvocate.com/beer/profile/2792/62847/,Halloweenhead Pumpkin Ale,2792,Phantom Canyon Brewing Company,6,4
+457,10.00,198016,https://www.beeradvocate.com/beer/profile/19544/198016/,Red Wine Barrel Aged Spooky Tooth Pumpkin Ale,19544,Fat Head's Brewery & Saloon,6,4.11
+458,5.25,35480,https://www.beeradvocate.com/beer/profile/14563/35480/,Smoked Pumpkin Porter,14563,Sherwood Brewing Company,6,3.37
+459, ? ,147102,https://www.beeradvocate.com/beer/profile/140/147102/,Audition Pumpkin Ale,140,Sierra Nevada Brewing Co.,6,3.83
+460,7.40,93599,https://www.beeradvocate.com/beer/profile/267/93599/,Oh My Gourd,267,Odell Brewing Company,6,3.41
+461,5.00,301728,https://www.beeradvocate.com/beer/profile/10321/301728/,Red Racer Snickerdoodle Pumpkin Ale,10321,Central City Brewers + Distillers,6,3.88
+462,5.60,106400,https://www.beeradvocate.com/beer/profile/27038/106400/,BJ's Pumpkin Ale,27038,BJ's Restaurant & Brewhouse,6,4.04
+463,6.00,192937,https://www.beeradvocate.com/beer/profile/31724/192937/,Pumpkin Lager,31724,Hi-Wire Brewing,6,3.88
+464,4.50,124075,https://www.beeradvocate.com/beer/profile/35190/124075/,Pumpkin Hollow,35190,Ocean City Brewing Company,6,3.33
+465,5.00,86453,https://www.beeradvocate.com/beer/profile/10279/86453/,Pumpkin Ale,10279,OPA-OPA Steakhouse & Brewery,6,3.77
+466,10.00,110270,https://www.beeradvocate.com/beer/profile/32478/110270/,Imperial Pumpkin,32478,Battlefield Brew Works,6,3.65
+467,8.50,90305,https://www.beeradvocate.com/beer/profile/14980/90305/,Pumpelstiltskin - Pumpkin Saison,14980,Three Barrel Brewing Co.,6,2.9
+468,5.50,135112,https://www.beeradvocate.com/beer/profile/9529/135112/,Pumpkin Ale,9529,Cumberland Brews,6,3.52
+469,7.00,86474,https://www.beeradvocate.com/beer/profile/2099/86474/,Church-Key It's The Great Pumpkin Ale,2099,Church-Key Brewing Company,6,3.44
+470,8.00,104653,https://www.beeradvocate.com/beer/profile/21154/104653/,Swampy Hollow,21154,Swamp Head Brewery,6,3.78
+471,6.00,146642,https://www.beeradvocate.com/beer/profile/37721/146642/,Jack.,37721,Tilted Barn Brewery,6,3.87
+472,7.50,196312,https://www.beeradvocate.com/beer/profile/39686/196312/,Flapjack-O-Lantern,39686,Black Cloister Brewing Company,6,4
+473,10.00,197620,https://www.beeradvocate.com/beer/profile/32171/197620/,Barrel Reserved Sleepy Hollow,32171,5 Stones Craft Brewing Co.,6,3.92
+474,5.50,73460,https://www.beeradvocate.com/beer/profile/21363/73460/,Hooligan,21363,Jolly Pumpkin Cafe And Brewery Ann Arbor,6,3.75
+475,8.00,193016,https://www.beeradvocate.com/beer/profile/24659/193016/,Witches Lit,24659,La Cumbre Brewing Co.,6,3.79
+476,9.00,207614,https://www.beeradvocate.com/beer/profile/25959/207614/,Clear & Present Manger,25959,Beachwood BBQ & Brewing,6,3.54
+477,6.70,195841,https://www.beeradvocate.com/beer/profile/37027/195841/,Saak,37027,Põhjala Brewery,5,3.84
+478,6.20,187653,https://www.beeradvocate.com/beer/profile/32905/187653/,Off The Vine Pumpkin Ale,32905,Infusion Brewing Co.,5,4.32
+479, ? ,160008,https://www.beeradvocate.com/beer/profile/368/160008/,Pumpkinatur,368,Capital Brewery,5,3.93
+480,6.80,53516,https://www.beeradvocate.com/beer/profile/14/53516/,O.P.P. (Olde Pumpkin Porter),14,Cambridge Brewing Company,5,4.02
+481,5.50,63505,https://www.beeradvocate.com/beer/profile/20132/63505/,La Scie Trouillarde,20132,Les Brasseurs Du Temps,5,3.45
+482,6.00,145170,https://www.beeradvocate.com/beer/profile/30884/145170/,The Slice,30884,The North Brewery,5,4.31
+483,5.00,145682,https://www.beeradvocate.com/beer/profile/1307/145682/,Pumpkin Ale,1307,Climax Brewing Company,5,4.21
+484,8.00,252439,https://www.beeradvocate.com/beer/profile/40333/252439/,Samhain Rum Barrel Aged,40333,Demented Brewing Company,5,3.68
+485,6.70,210718,https://www.beeradvocate.com/beer/profile/40686/210718/,Pumpkin Queen Ale,40686,Copperpoint Brewing Company,5,3.69
+486,7.50,136994,https://www.beeradvocate.com/beer/profile/24659/136994/,Witch's Tit,24659,La Cumbre Brewing Co.,5,3.7
+487,8.20,144165,https://www.beeradvocate.com/beer/profile/26634/144165/,Twisted Yumkin Imperial Pumpkin Porter,26634,Wichita Brewing Co. & Pizzeria West,5,3.92
+488,8.80,143145,https://www.beeradvocate.com/beer/profile/35764/143145/,Imperial Pumpkin,35764,4 Noses Brewing Company,5,4.32
+489, ? ,143155,https://www.beeradvocate.com/beer/profile/705/143155/,Pumpkin Spice,705,Union Station Brewery,5,3.29
+490,7.50,87867,https://www.beeradvocate.com/beer/profile/24701/87867/,Artisan Pouseuré,24701,Moon Dog Craft Brewery,5,3.45
+491,5.30,63807,https://www.beeradvocate.com/beer/profile/23052/63807/,Pumpkin Ale,23052,Great River Brewery,5,3
+492,7.10,103232,https://www.beeradvocate.com/beer/profile/19241/103232/,Big Pimpkin Ale,19241,Lucky Bucket Brewing Co.,5,3.43
+493, ? ,205639,https://www.beeradvocate.com/beer/profile/2953/205639/,Portsmouth Brewing Circleville Pumpkin Ale,2953,Portsmouth Brewing Co. / Mault's Brewpub,5,4.06
+494,6.00,85832,https://www.beeradvocate.com/beer/profile/27179/85832/,Evil Harvest,27179,Crooked Fence Brewing,5,3.24
+495,7.30,140363,https://www.beeradvocate.com/beer/profile/34427/140363/,The Hitcher,34427,Hitchhiker Brewing Company,5,3.64
+496,9.00,105042,https://www.beeradvocate.com/beer/profile/781/105042/,Full Patch Pumpkin Ale,781,Longwood Brewpub & Restaurant,5,3.81
+497, ? ,139605,https://www.beeradvocate.com/beer/profile/36497/139605/,OCB Pumpkin,36497,Old Colony Brewing,5,3.57
+498, ? ,140896,https://www.beeradvocate.com/beer/profile/34280/140896/,Conshohocken Pumpkin Ale,34280,Conshohocken Brewing Company,5,3.51
+499,5.80,135013,https://www.beeradvocate.com/beer/profile/34273/135013/,Country Bumpkin Pumpkin,34273,Bull & Barrel Brew Pub,5,3.21
+500,6.00,151917,https://www.beeradvocate.com/beer/profile/35258/151917/,Homecoming,35258,The Able Ebenezer Brewing Company,5,3.58
+501,9.00,186756,https://www.beeradvocate.com/beer/profile/40976/186756/,Imperial Pumpkin,40976,2SP Brewing Company,5,3.97
+502,7.60,86154,https://www.beeradvocate.com/beer/profile/25898/86154/,Jax-O-Lantern,25898,Green Room Brewing,5,4.16
+503,5.60,117131,https://www.beeradvocate.com/beer/profile/28208/117131/,Holly Beach Pumpkin Ale,28208,Tuckahoe Brewing Company,5,3.66
+504,6.60,146839,https://www.beeradvocate.com/beer/profile/30492/146839/,P.S.A.,30492,Bosque Brewing Co.,5,3.75
+505,5.00,104601,https://www.beeradvocate.com/beer/profile/22856/104601/,Pumpkin Brew,22856,Trouble Brewing,5,4.01
+506,10.50,106397,https://www.beeradvocate.com/beer/profile/32478/106397/,Pumpkin Sent From Heaven,32478,Battlefield Brew Works,5,3.86
+507,8.00,4260,https://www.beeradvocate.com/beer/profile/363/4260/,Hopgoblin Pumpkin Ale,363,Big Time Brewery & Alehouse,5,3.77
+508,7.02,197029,https://www.beeradvocate.com/beer/profile/29440/197029/,Pumpkin Style Texas Honey Ale,29440,Guadalupe Brewing Co.,5,4.12
+509, ? ,53157,https://www.beeradvocate.com/beer/profile/15834/53157/,Dock Street Pumpkin Ale,15834,Dock Street Brewery & Restaurant,5,3.63
+510,6.00,140720,https://www.beeradvocate.com/beer/profile/35540/140720/,Oxorcist,35540,Old Ox Brewery,5,3.66
+511, ? ,33461,https://www.beeradvocate.com/beer/profile/12881/33461/,Pumpkin Ale,12881,Square One Brewery & Distillery,5,3.52
+512,5.40,101823,https://www.beeradvocate.com/beer/profile/29693/101823/,Pfeiffer’s Pumpkin Rye,29693,Reuben's Brews,5,3.76
+513,8.30,102862,https://www.beeradvocate.com/beer/profile/30225/102862/,Outta Yer Gourd Pumpkin Ale,30225,Smartmouth Brewing Company,5,3.79
+514,5.00,74451,https://www.beeradvocate.com/beer/profile/2091/74451/,WAB Pumpkin Ale,2091,Woodward Avenue Brewers,5,2.95
+515, ? ,13786,https://www.beeradvocate.com/beer/profile/653/13786/,Pumpkin Ale,653,Rohrbach Brewing Company (Brewpub),5,4.19
+516,5.70,24540,https://www.beeradvocate.com/beer/profile/3599/24540/,Country Girl Kabocha Ale,3599,Baird Brewing Company / Fishmarket Taproom,5,3.42
+517,7.10,104422,https://www.beeradvocate.com/beer/profile/27092/104422/,Grand Pumpkin Ale,27092,Harmony Brewing Company,5,3.43
+518,6.30,253930,https://www.beeradvocate.com/beer/profile/2175/253930/,Pumpkin Harvest Ale,2175,Half Moon Bay Brewing Company,5,3.33
+519,6.80,138732,https://www.beeradvocate.com/beer/profile/34119/138732/,Drunkin Pumkin,34119,Cobra Brewing Company,5,3.91
+520,7.80,85996,https://www.beeradvocate.com/beer/profile/29118/85996/,Creek O'Lantern Pumpkin Ale,29118,Timber Creek Tap & Table,5,3.43
+521,6.50,93684,https://www.beeradvocate.com/beer/profile/31547/93684/,Steampunkin' Ale,31547,Rocket Republic Brewing Company,5,3.86
+522,6.40,120568,https://www.beeradvocate.com/beer/profile/23/120568/,Modern Pine-eer India Pumpkin Ale,23,Twisted Pine Brewing Company,5,3.56
+523,6.66,189440,https://www.beeradvocate.com/beer/profile/33165/189440/,S'cream,33165,Happy Valley Brewing Company,4,3.68
+524,8.50,104200,https://www.beeradvocate.com/beer/profile/23108/104200/,Pumpmaster,23108,Engine 15 Brewing Company,4,3.74
+525,5.80,145940,https://www.beeradvocate.com/beer/profile/1000/145940/,Oh My Gourd,1000,Brewer's Alley Restaurant & Brewery,4,4.06
+526, ? ,54296,https://www.beeradvocate.com/beer/profile/4196/54296/,Pumpkin Ale,4196,Copper Creek Brewing Co.,4,4.02
+527,6.60,253977,https://www.beeradvocate.com/beer/profile/33824/253977/,Pumpkin Chai,33824,Bottle Logic Brewing,4,3.24
+528,5.00,141338,https://www.beeradvocate.com/beer/profile/23066/141338/,Orange Is The New Jack,23066,Boneyard Beer Company,4,4.13
+529,6.00,94493,https://www.beeradvocate.com/beer/profile/28608/94493/,Pumpkinstein,28608,Brewfinity Brewing Company,4,3.84
+530,7.00,140574,https://www.beeradvocate.com/beer/profile/33463/140574/,Witch Of Pungo,33463,Back Bay Brewing Co.,4,3.66
+531,6.90,198182,https://www.beeradvocate.com/beer/profile/9629/198182/,Basic B,9629,Short's Brewing Company,4,3.81
+532,4.60,54056,https://www.beeradvocate.com/beer/profile/1154/54056/,Pumkin Ale,1154,Willoughby Brewing,4,3.29
+533,6.00,143402,https://www.beeradvocate.com/beer/profile/37317/143402/,Plunderdome Pumpkin Maple Ale,37317,Crooked Current Brewery,4,4.06
+534,7.00,211498,https://www.beeradvocate.com/beer/profile/36484/211498/,Treehouse Of Gourdor II,36484,Oliphant Brewing,4,3.73
+535,7.00,103467,https://www.beeradvocate.com/beer/profile/31825/103467/,Mabon,31825,Propolis Brewing,4,3.7
+536,5.00,63024,https://www.beeradvocate.com/beer/profile/12897/63024/,Murray's Pumpkin Ale,12897,Murray's Craft Brewing Co.,4,4.05
+537,8.50,104498,https://www.beeradvocate.com/beer/profile/16963/104498/,Black Magic Pumpkin,16963,Marble Brewery,4,4.03
+538,6.60,253490,https://www.beeradvocate.com/beer/profile/33824/253490/,Dark Harvest,33824,Bottle Logic Brewing,4,3.67
+539,5.00,197432,https://www.beeradvocate.com/beer/profile/596/197432/,Portsmouth Phunkin Ale,596,Portsmouth Brewery,4,3.75
+540,6.40,201276,https://www.beeradvocate.com/beer/profile/34005/201276/,Pumpkin Patch Traffic Jam Ale,34005,Petaluma Hills Brewing Company,4,3.52
+541,6.50,143420,https://www.beeradvocate.com/beer/profile/33491/143420/,Bone Daddy Pumpkin Ale,33491,Pair O' Dice Brewing Company,4,3.71
+542,9.00,85567,https://www.beeradvocate.com/beer/profile/26884/85567/,Pumpkin Abbey,26884,Indie Ale House Brewing Company,4,3.81
+543,8.60,301377,https://www.beeradvocate.com/beer/profile/31724/301377/,Sour Pumpkin Ale,31724,Hi-Wire Brewing,4,3.89
+544,5.80,193089,https://www.beeradvocate.com/beer/profile/34280/193089/,Nightmare On East Elm,34280,Conshohocken Brewing Company,4,3.57
+545,8.00,189250,https://www.beeradvocate.com/beer/profile/40333/189250/,Samhain,40333,Demented Brewing Company,4,3.83
+546,6.50,73541,https://www.beeradvocate.com/beer/profile/25264/73541/,Sauber Pumpkin Ale,25264,Sauber Beer,4,3.6
+547,6.50,158277,https://www.beeradvocate.com/beer/profile/7730/158277/,Pumpkin Ale (Super Stuck Mash),7730,Nøgne Ø - Det Kompromissløse Bryggeri A/S,4,3.79
+548, ? ,139847,https://www.beeradvocate.com/beer/profile/26944/139847/,Blatant Pumpkin Ale,26944,Blatant Brewery,4,3.4
+549,6.40,144712,https://www.beeradvocate.com/beer/profile/30967/144712/,Punky Town Brown,30967,Triptych Brewing,4,4.22
+550,5.50,192844,https://www.beeradvocate.com/beer/profile/29268/192844/,Mr. Pompous Pumpkin (Ale),29268,Sleeping Giant Brewing Co.,4,3.78
+551,8.20,194892,https://www.beeradvocate.com/beer/profile/34521/194892/,Pümpkin Spiced Edinbrüe,34521,Brüeprint Brewing Company,4,3.92
+552,6.70,250189,https://www.beeradvocate.com/beer/profile/28980/250189/,Pumpkin Ale,28980,The Shed Brewery,4,3.45
+553,5.40,165199,https://www.beeradvocate.com/beer/profile/36503/165199/,Wicked Old Lady Pumpkin Ale,36503,Old 690 Brewing Company,4,4.3
+554, ? ,53349,https://www.beeradvocate.com/beer/profile/1793/53349/,Pumpkinator,1793,Capitol City Brewing Company,4,4.07
+555,5.80,137577,https://www.beeradvocate.com/beer/profile/2470/137577/,Strangeville Pumpkin Ale,2470,The Brew Kettle Taproom & Smokehouse / Production Works,4,3.79
+556,4.00,21098,https://www.beeradvocate.com/beer/profile/4706/21098/,Pumpkin Beer,4706,Belle Isle Restaurant & Brewery,4,3.84
+557, ? ,143726,https://www.beeradvocate.com/beer/profile/36095/143726/,Sleepy Holler,36095,Persimmon Hollow Brewing,4,3.49
+558,5.50,146287,https://www.beeradvocate.com/beer/profile/12964/146287/,Pumpkin Ale,12964,The Rare Bird Pub & Eatery / Authentic Seacoast Brewing Company,4,2.92
+559, ? ,73585,https://www.beeradvocate.com/beer/profile/26620/73585/,Ichabod's Revenge,26620,Denver Beer Co.,4,3.83
+560,9.00,136562,https://www.beeradvocate.com/beer/profile/34742/136562/,Raquette River Imperial Pumpkin,34742,Raquette River Brewing,4,3.31
+561, ? ,140914,https://www.beeradvocate.com/beer/profile/36256/140914/,Bumpkin's Pumpkin Ale,36256,Lost Province Brewing Co.,4,4.11
+562, ? ,248951,https://www.beeradvocate.com/beer/profile/21974/248951/,Bourbon Barrel Put A Fork In It,21974,Big Woods Brewing Co. / Quaff On! Brewing Company,4,4.13
+563,6.90,143736,https://www.beeradvocate.com/beer/profile/34964/143736/,Magic Lantern Pumpkin Ale,34964,Mexitaly,4,3.56
+564, ? ,108923,https://www.beeradvocate.com/beer/profile/16111/108923/,Pumpkin IPA,16111,Smoky Mountain Brewery & Restaurant,4,3.51
+565,5.30,195970,https://www.beeradvocate.com/beer/profile/31460/195970/,Five Pound,31460,Brothers Craft Brewing,4,3.73
+566,7.00,142979,https://www.beeradvocate.com/beer/profile/31389/142979/,Hoodoojuju Pumpkin Spice Ale,31389,Bale Breaker Brewing Company,4,3.55
+567,5.80,103555,https://www.beeradvocate.com/beer/profile/31178/103555/,Not Punk Enough,31178,Yellow Springs Brewery,4,3.83
+568,6.00,74885,https://www.beeradvocate.com/beer/profile/20431/74885/,Pumpkin Ale (La Grande Citrouille),20431,The 3 Brewers,4,3.8
+569,9.50,187014,https://www.beeradvocate.com/beer/profile/23052/187014/,Punk'n-Mator,23052,Great River Brewery,4,3.85
+570,5.40,144012,https://www.beeradvocate.com/beer/profile/33476/144012/,3 Punkins Pumpkin Ale,33476,3 Daughters Brewing,4,3.62
+571,6.10,20620,https://www.beeradvocate.com/beer/profile/2078/20620/,Ghost Town Pumpkin Ale,2078,Sweetwater Tavern & Brewery,4,3.49
+572,5.00,33425,https://www.beeradvocate.com/beer/profile/3259/33425/,Headless Horseman,3259,The Merchant Ale House Restaurant & Brewpub,4,3.45
+573,6.00,98963,https://www.beeradvocate.com/beer/profile/30692/98963/,Belgo Pumpkin,30692,Justice Brewing,4,3.83
+574,6.00,141205,https://www.beeradvocate.com/beer/profile/32116/141205/,Grim Reaper Pumpkin Oatmeal Stout,32116,5 Paddles Brewing Co.,4,3.57
+575,7.50,311957,https://www.beeradvocate.com/beer/profile/46855/311957/,Miss Scarecrow,46855,Bird Brewery,4,3.96
+576,6.20,138395,https://www.beeradvocate.com/beer/profile/30232/138395/,Tap-O-Lantern,30232,The Tap Brewery,4,4.01
+577,10.00,211361,https://www.beeradvocate.com/beer/profile/43998/211361/,Lock-O-Lantern Pumpkin Ale,43998,Lock City Brewing Co.,4,4.26
+578,8.00,87713,https://www.beeradvocate.com/beer/profile/1334/87713/,Imperial Pumpkin Ale,1334,Blind Tiger Brewery & Restaurant,4,4
+579,5.50,105889,https://www.beeradvocate.com/beer/profile/30711/105889/,Country Bumpkin,30711,Oast House Brewers,4,3.88
+580,7.99,40098,https://www.beeradvocate.com/beer/profile/1069/40098/,Mashing Pumpkin,1069,Elliott Bay Brewing Co.,4,3.81
+581, ? ,10916,https://www.beeradvocate.com/beer/profile/905/10916/,Pumpkin Ale,905,Estes Park Brewery,4,3.03
+582,7.60,195748,https://www.beeradvocate.com/beer/profile/29618/195748/,Won't You Be My Neighbor? Sour Pumpkin Porter,29618,The Libertine Pub,4,4.12
+583,6.80,103590,https://www.beeradvocate.com/beer/profile/28901/103590/,Pumpkin Ale,28901,Echo Brewing Company,4,3.2
+584,6.90,140712,https://www.beeradvocate.com/beer/profile/36002/140712/,Punkin Up,36002,Werk Force Brewing Co,4,4.04
+585,7.00,181419,https://www.beeradvocate.com/beer/profile/30/181419/,Bourbon Gored,30,Avery Brewing Company,4,4.1
+586, ? ,151985,https://www.beeradvocate.com/beer/profile/24690/151985/,Gourdgeous Pumpkin Ale,24690,Throwback Brewery,4,3.93
+587,5.50,20150,https://www.beeradvocate.com/beer/profile/1015/20150/,Pumpkin-Head Ale,1015,Red Car Brewery and Restaurant,4,3.72
+588,5.00,197056,https://www.beeradvocate.com/beer/profile/1285/197056/,Grumpy Pumpkin Ale,1285,Stark Brewing Company,4,3.73
+589,5.00,195270,https://www.beeradvocate.com/beer/profile/23201/195270/,Stingy Jack's Pumpkin Saison,23201,Mad Fox Brewing Company,4,3.84
+590,5.40,142280,https://www.beeradvocate.com/beer/profile/4832/142280/,Pumpkin Ale,4832,Triumph Brewing Company,4,3.74
+591,5.60,60360,https://www.beeradvocate.com/beer/profile/1860/60360/,Magic Lantern Pumpkin Ale,1860,Bube's Brewery,4,3.98
+592,5.60,86987,https://www.beeradvocate.com/beer/profile/1341/86987/,Raging Pumpkin,1341,J.J. Bitting Brewing Company,4,3.82
+593,7.10,99285,https://www.beeradvocate.com/beer/profile/29334/99285/,Punkid Punkin Ale,29334,Iron Goat Brewing Co.,4,3.9
+594, ? ,105942,https://www.beeradvocate.com/beer/profile/23315/105942/,Rocky Mountain High Pumpkin Pie,23315,Crazy Mountain Brewing Company,4,3.47
+595,5.10,196569,https://www.beeradvocate.com/beer/profile/41171/196569/,Peter Peter,41171,Dirt Farm Brewing,4,3.99
+596,6.00,88538,https://www.beeradvocate.com/beer/profile/1620/88538/,Big Bam Boo,1620,Dunedin Brewery,4,3.46
+597,6.20,63706,https://www.beeradvocate.com/beer/profile/390/63706/,Pumkwang Ale,390,Oaken Barrel Brewing Company,4,4.61
+598,5.80,144868,https://www.beeradvocate.com/beer/profile/873/144868/,Squashbuckler Pumpkin Ale,873,BrickHouse Brewery,4,3.71
+599, ? ,53220,https://www.beeradvocate.com/beer/profile/1910/53220/,Pumpkin Wheat Brown,1910,Water Street Brewery,4,2.86
+600,5.10,61925,https://www.beeradvocate.com/beer/profile/2175/61925/,Maverick's 2010 Pumpkin Harvest Ale V,2175,Half Moon Bay Brewing Company,4,2.29
+601,9.50,180710,https://www.beeradvocate.com/beer/profile/34274/180710/,Seasonal Creep,34274,Moustache Brewing Co.,4,3.99
+602,8.00,203496,https://www.beeradvocate.com/beer/profile/32855/203496/,Spiced Pumpkin Latte,32855,Lickinghole Creek Craft Brewery,4,3.56
+603,8.00,148200,https://www.beeradvocate.com/beer/profile/33815/148200/,Punk Piggy Ale,33815,Pig Pounder Brewery,4,4.11
+604,8.00,196334,https://www.beeradvocate.com/beer/profile/32855/196334/,Pumpkin Is Easy,32855,Lickinghole Creek Craft Brewery,4,3.9
+605,5.00,253168,https://www.beeradvocate.com/beer/profile/16110/253168/,Pumpkin Spice,16110,Rivertowne Pourhouse,4,3.48
+606,5.50,143089,https://www.beeradvocate.com/beer/profile/16057/143089/,Kula Harvest Pumpkin,16057,Maui Brewing Co.,4,3.55
+607,13.30,310006,https://www.beeradvocate.com/beer/profile/35586/310006/,Imperial Vanilla Cappuccino Pumpkin Ale,35586,Resurgence Brewing Company,4,4.17
+608,4.50,33272,https://www.beeradvocate.com/beer/profile/1454/33272/,Pumpkin Ale,1454,Broad Ripple Brew Pub,4,3.38
+609,7.50,105726,https://www.beeradvocate.com/beer/profile/31825/105726/,Pepon (Herbal Pumpkin Dubbel Ale),31825,Propolis Brewing,4,3.74
+610, ? ,75775,https://www.beeradvocate.com/beer/profile/256/75775/,Pumpkin Pie Spice Ale,256,Lost Coast Brewery and Cafe,4,3.37
+611,5.00,152319,https://www.beeradvocate.com/beer/profile/25916/152319/,Cold Blooded Pumpkin Ale,25916,Avondale Brewing Co.,4,3.39
+612,5.00,87046,https://www.beeradvocate.com/beer/profile/30283/87046/,Samuin Harvest,30283,Helm's Brewing Co.,3,3.81
+613,6.60,309511,https://www.beeradvocate.com/beer/profile/14/309511/,Gourdor 2017,14,Cambridge Brewing Company,3,4.1
+614,6.60,203272,https://www.beeradvocate.com/beer/profile/29180/203272/,Pumpkin Porter,29180,The Hermosillo / Highland Park Brewery,3,3.84
+615,6.00,216072,https://www.beeradvocate.com/beer/profile/461/216072/,Farmageddon,461,Thunderhead Brewing Company,3,4.03
+616,5.80,146953,https://www.beeradvocate.com/beer/profile/33850/146953/,"I, Braineater",33850,Bomber Brewing,3,4.04
+617, ? ,27147,https://www.beeradvocate.com/beer/profile/1049/27147/,Spiced Pumpkin Ale,1049,Big River Grille & Brewing Works,3,3.86
+618,7.20,251917,https://www.beeradvocate.com/beer/profile/46398/251917/,Basic Bee,46398,Black Flag Brewing Company,3,3.99
+619,6.00,101137,https://www.beeradvocate.com/beer/profile/26035/101137/,Punkin Chucker,26035,Twisted Crew Brewing Company,3,3.92
+620,6.80,192274,https://www.beeradvocate.com/beer/profile/42220/192274/,Polygraph Pumpkin Ale,42220,Legal Remedy Brewing,3,3.75
+621, ? ,146195,https://www.beeradvocate.com/beer/profile/15824/146195/,Brown And Scary,15824,Skookum Brewery,3,3.67
+622,5.40,143383,https://www.beeradvocate.com/beer/profile/31920/143383/,Pumpkin Ale,31920,FATE Brewing Company,3,3.93
+623, ? ,143388,https://www.beeradvocate.com/beer/profile/653/143388/,Imperial Pumpkin Ale,653,Rohrbach Brewing Company (Brewpub),3,4.21
+624,9.70,109852,https://www.beeradvocate.com/beer/profile/30824/109852/,Imperial Pumpkin Ale,30824,Ship Bottom Brewery,3,4.36
+625, ? ,48927,https://www.beeradvocate.com/beer/profile/2313/48927/,Sweet Mama Pumpkin Ale,2313,Silver Peak Restaurant & Brewery,3,3.91
+626,6.80,142629,https://www.beeradvocate.com/beer/profile/34281/142629/,ChocoLantern Spiced Pumpkin Porter,34281,Cloud 9 Brewery,3,3.47
+627,4.40,87078,https://www.beeradvocate.com/beer/profile/5191/87078/,Pumpkin Ale,5191,Ram Restaurant & Brewery,3,3.94
+628,4.40,89642,https://www.beeradvocate.com/beer/profile/26645/89642/,Rumspringa Scratchy's Pumpkin Wheat,26645,Rumspringa Brewing Company,3,3.48
+629,5.20,110122,https://www.beeradvocate.com/beer/profile/33789/110122/,Gnarly Gourd,33789,Mad Malts,3,3
+630,6.56,152627,https://www.beeradvocate.com/beer/profile/38213/152627/,Pumpkin Fetish*,38213,Fetish Brewing Company,3,3.72
+631,8.40,242995,https://www.beeradvocate.com/beer/profile/41498/242995/,Imperial Pumpkin,41498,Cypress Brewing Company,3,3.95
+632,5.70,115251,https://www.beeradvocate.com/beer/profile/98/115251/,Pumpkin Chai,98,Harpoon Brewery & Beer Hall,3,3.66
+633,7.50,199220,https://www.beeradvocate.com/beer/profile/37809/199220/,Oogie Boogie,37809,Ethereal Brewing,3,3.99
+634,8.00,102971,https://www.beeradvocate.com/beer/profile/29177/102971/,Pumpkinosity Imperial Pumpkin Ale,29177,Endless Brewing,3,4.48
+635,4.70,105787,https://www.beeradvocate.com/beer/profile/27773/105787/,Dromgoole,27773,Mystery Brewing Company,3,3.98
+636,5.00,86846,https://www.beeradvocate.com/beer/profile/18353/86846/,Boo Radley,18353,Naked City Taphouse,3,3.67
+637,4.80,163136,https://www.beeradvocate.com/beer/profile/35382/163136/,Pumpkin Ale,35382,Pivovar Stupavar,3,3.28
+638,6.10,45636,https://www.beeradvocate.com/beer/profile/1550/45636/,Murph's Monster Mash,1550,Rock Bottom Restaurant & Brewery,3,3.79
+639,10.00,254020,https://www.beeradvocate.com/beer/profile/35540/254020/,Oxorcist II,35540,Old Ox Brewery,3,4.34
+640, ? ,56646,https://www.beeradvocate.com/beer/profile/1644/56646/,Pumpkin Ale,1644,Kutztown Tavern,3,3.84
+641, ? ,54088,https://www.beeradvocate.com/beer/profile/6339/54088/,Ichabod's Pumpkin Ale,6339,The Dodging Duck Brewhaus,3,3.52
+642,7.90,40012,https://www.beeradvocate.com/beer/profile/1550/40012/,Cerveza De Calabaza,1550,Rock Bottom Restaurant & Brewery,3,3.68
+643,6.10,197709,https://www.beeradvocate.com/beer/profile/29496/197709/,Pumptauk,29496,Montauk Brewing Company,3,3.48
+644,5.70,254032,https://www.beeradvocate.com/beer/profile/11023/254032/,Nickel Brook Pie-Eyed,11023,Nickel Brook Brewing Co.,3,3.69
+645,7.20,140881,https://www.beeradvocate.com/beer/profile/835/140881/,Pumpkin Ale,835,Barley Creek Brewing Company,3,3.38
+646, ? ,45907,https://www.beeradvocate.com/beer/profile/10224/45907/,Pumpkin Ale,10224,"BJ's Pizza, Grill & Brewery",3,3.24
+647,7.20,63315,https://www.beeradvocate.com/beer/profile/14440/63315/,Patty & Aaron's,14440,Abbey Wright Brewing Co.,3,3.97
+648,5.20,149846,https://www.beeradvocate.com/beer/profile/29971/149846/,Harvest Pale Ale,29971,Vault Brewing Company,3,3.88
+649,6.00,143959,https://www.beeradvocate.com/beer/profile/37442/143959/,Pumpkin Kicker Ale,37442,Moo-Duck Brewery,3,3.35
+650,5.00,74847,https://www.beeradvocate.com/beer/profile/1455/74847/,Pie'd Piper,1455,Ram Restaurant & Brewery,3,3.93
+651,5.00,182632,https://www.beeradvocate.com/beer/profile/865/182632/,Craft Select The Pumpkin,865,Suntory,3,2.98
+652, ? ,53352,https://www.beeradvocate.com/beer/profile/299/53352/,Pumpkinfest Ale,299,Boston Beer Works - Canal Street,3,3.3
+653,5.00,106097,https://www.beeradvocate.com/beer/profile/7101/106097/,Pumpkin Ale,7101,Marzoni's Brick Oven & Brewing Company,3,3.92
+654,8.50,193394,https://www.beeradvocate.com/beer/profile/30492/193394/,The Rabble Imperial Pumpkin Spice Ale,30492,Bosque Brewing Co.,3,3.26
+655,7.00,142963,https://www.beeradvocate.com/beer/profile/3242/142963/,The Great Boo,3242,Great Baraboo Brewing Company,3,3.53
+656,4.50,39795,https://www.beeradvocate.com/beer/profile/1164/39795/,Pumpkin Ale,1164,Coddington Brewing Co.,3,3.81
+657,5.20,148856,https://www.beeradvocate.com/beer/profile/24412/148856/,Bourbon Barrel Flat Jack Pumpkin Ale,24412,Flat 12 Bierwerks,3,3.8
+658,6.50,147323,https://www.beeradvocate.com/beer/profile/29336/147323/,Sol Patch Pumpkin Ale,29336,Bainbridge Island Brewing Company,3,4.09
+659,6.20,196475,https://www.beeradvocate.com/beer/profile/25818/196475/,Oatmeal Pumpkin Brown Ale,25818,Lost Rhino Brewing Company,3,3.74
+660,8.90,197501,https://www.beeradvocate.com/beer/profile/32587/197501/,Cross Eyed Jack,32587,Latitude 42 Brewing Company,3,3.7
+661,9.00,106881,https://www.beeradvocate.com/beer/profile/24326/106881/,Pumpkin Ale,24326,No Label Brewing Company,3,4.33
+662,6.77,45444,https://www.beeradvocate.com/beer/profile/36757/45444/,Samhain Pumpkin Ale,36757,DESTIHL Brewery,3,3.48
+663,6.30,191621,https://www.beeradvocate.com/beer/profile/34748/191621/,Dark Gourd,34748,Imperial Oak Brewing,3,3.79
+664,9.00,86410,https://www.beeradvocate.com/beer/profile/28281/86410/,Horsemans Head,28281,Kulshan Brewing Company,3,3.52
+665,5.00,103567,https://www.beeradvocate.com/beer/profile/4049/103567/,Knucklehead Pumpkin Ale,4049,Cannery Brewing Company,3,3.73
+666, ? ,106898,https://www.beeradvocate.com/beer/profile/29404/106898/,Set Phasers To Squash,29404,Turtle Anarchy Brewing Company,3,3.88
+667,4.80,112532,https://www.beeradvocate.com/beer/profile/32661/112532/,Jake O' Lantern,32661,Crooked Run Brewing,3,3.41
+668,6.50,199317,https://www.beeradvocate.com/beer/profile/36387/199317/,Son Of A Witch,36387,Victory Art Brew,3,3.63
+669,6.00,143768,https://www.beeradvocate.com/beer/profile/37430/143768/,Harvest Pumpkin Ale,37430,Rincon Brewery,3,3.42
+670,6.60,142233,https://www.beeradvocate.com/beer/profile/36108/142233/,Great Harvest Pumpkin Ale,36108,2nd Story Brewing Co.,3,3.57
+671,7.00,141466,https://www.beeradvocate.com/beer/profile/33589/141466/,Pumpkin Ale,33589,Columbia Kettle Works,3,3.95
+672,6.30,177564,https://www.beeradvocate.com/beer/profile/34604/177564/,Good Gourd O'Mighty,34604,Barnhouse Brewery,3,3.75
+673,4.70,142494,https://www.beeradvocate.com/beer/profile/34963/142494/,Otono,34963,New Braunfels Brewing Company,3,3.74
+674,6.30,195998,https://www.beeradvocate.com/beer/profile/34416/195998/,PumpFest Pumpkin Beer,34416,Wander Brewing,3,3.38
+675,6.70,45727,https://www.beeradvocate.com/beer/profile/14/45727/,Gourd Of The Rings,14,Cambridge Brewing Company,3,4.05
+676,5.50,304801,https://www.beeradvocate.com/beer/profile/4045/304801/,Harvest Pumpkin Ale,4045,Russell Brewing Company,3,3.77
+677,6.50,38820,https://www.beeradvocate.com/beer/profile/10667/38820/,Linus's Revenge,10667,Cornerstone Brewing Company,3,3.53
+678,6.50,141222,https://www.beeradvocate.com/beer/profile/2681/141222/,PumpCan,2681,Oskar Blues Grill & Brew,3,4.05
+679,6.30,191913,https://www.beeradvocate.com/beer/profile/30365/191913/,Sinderalea,30365,Heathen Brewing,3,3.44
+680, ? ,1452,https://www.beeradvocate.com/beer/profile/557/1452/,Southport Mashing Pumpkin Ale,557,SBC Restaurant & Brewery - Southport,3,3.48
+681,8.20,200876,https://www.beeradvocate.com/beer/profile/29757/200876/,Stupid Pumpkin Face BBA,29757,The Hourglass Brewery,3,3.88
+682,8.50,251310,https://www.beeradvocate.com/beer/profile/31481/251310/,Renaissance Man,31481,Gizmo Brew Works,3,3.97
+683,6.50,126894,https://www.beeradvocate.com/beer/profile/33642/126894/,Pumpkin Ale,33642,Village Idiot Brewing Company,3,4.11
+684,8.00,253103,https://www.beeradvocate.com/beer/profile/38813/253103/,Lunar Harvest,38813,Ghostfish Brewing Co.,3,3.37
+685,6.50,151473,https://www.beeradvocate.com/beer/profile/1398/151473/,Roasted Pumpkin Ale,1398,Empire Brewing Company - Brewpub,3,4.04
+686,5.30,301746,https://www.beeradvocate.com/beer/profile/20810/301746/,Moliūgų Elis,20810,Vilkmergės Alus,3,3.42
+687,5.00,27833,https://www.beeradvocate.com/beer/profile/1550/27833/,Harvest Moon Pumpkin Ale,1550,Rock Bottom Restaurant & Brewery,3,3.78
+688,6.00,137404,https://www.beeradvocate.com/beer/profile/16232/137404/,Midnight Pumpkin Ale,16232,BrickStone Restaurant & Brewery,3,3.17
+689, ? ,75453,https://www.beeradvocate.com/beer/profile/22470/75453/,Punk! Vanilla,22470,Pinglehead Brewing Co. / Brewer's Pizza,3,4.32
+690,4.40,148674,https://www.beeradvocate.com/beer/profile/36100/148674/,Harvest Ale,36100,Bent Hill Brewery,3,3.73
+691,8.50,160451,https://www.beeradvocate.com/beer/profile/33735/160451/,Imperial Pumpkin,33735,Nano 108 Brewing Company,3,4.08
+692,9.30,194244,https://www.beeradvocate.com/beer/profile/24326/194244/,Nightmare On 1st Street Imperial Pumpkin Ale,24326,No Label Brewing Company,3,3.35
+693,4.73,201415,https://www.beeradvocate.com/beer/profile/40935/201415/,Headless Hessian Pumpkin Ale,40935,Grist Iron Brewing Company,3,3.96
+694,9.50,249034,https://www.beeradvocate.com/beer/profile/33530/249034/,Bourbon Barrel Pi,33530,Wolf's Ridge Brewing,3,4.01
+695,6.00,86732,https://www.beeradvocate.com/beer/profile/9408/86732/,Great Lakes Pumpkin Wound Porter,9408,Great Lakes Brewery,3,3.61
+696,6.00,144081,https://www.beeradvocate.com/beer/profile/28656/144081/,Jack O' Spades,28656,Miami Brewing Company,3,4.13
+697,6.60,308438,https://www.beeradvocate.com/beer/profile/20/308438/,BOO-YEAH!,20,Wachusett Brewing Company,3,3.55
+698,8.30,252889,https://www.beeradvocate.com/beer/profile/37942/252889/,Jack'd Up,37942,Veracious Brewing Company,3,3.77
+699,10.00,158939,https://www.beeradvocate.com/beer/profile/22470/158939/,Danse Macabre,22470,Pinglehead Brewing Co. / Brewer's Pizza,3,4
+700,5.00,102366,https://www.beeradvocate.com/beer/profile/24453/102366/,Autumn Ale,24453,Intuition Ale Works,3,3.99
+701,5.50,143583,https://www.beeradvocate.com/beer/profile/34607/143583/,GING-ER'-LANTERN,34607,Aeronaut Brewing Company,3,3.5
+702, ? ,146150,https://www.beeradvocate.com/beer/profile/35152/146150/,Crash Test Pumpkin,35152,Chatty Monks Brewing,3,3.83
+703,5.40,147945,https://www.beeradvocate.com/beer/profile/618/147945/,Carved Out Pumpkin Ale,618,Wellington County Brewery,3,4.1
+704,5.60,317673,https://www.beeradvocate.com/beer/profile/50419/317673/,Pumpkin Ale,50419,Three Happy Brewers,3,3.87
+705,6.00,145899,https://www.beeradvocate.com/beer/profile/24600/145899/,Headless Horseman,24600,Figueroa Mountain Brewing Co.,3,3.68
+706,6.10,76524,https://www.beeradvocate.com/beer/profile/463/76524/,Barking Pumpkin,463,Magnolia Pub & Brewery,3,2.83
+707, ? ,46316,https://www.beeradvocate.com/beer/profile/2383/46316/,Pumpkin Ale,2383,Cooper's Cave Ale Company,3,3.09
+708,5.00,81651,https://www.beeradvocate.com/beer/profile/3173/81651/,Van Hunks Pumpkin Ale,3173,Boston Breweries,3,3.27
+709, ? ,46584,https://www.beeradvocate.com/beer/profile/2772/46584/,Smashing Pumpkin,2772,Titletown Brewing Company,3,3.84
+710,6.50,147194,https://www.beeradvocate.com/beer/profile/700/147194/,Barrel-Aged Dark O' The Moon,700,Elysian Brewing Company,3,3.25
+711,6.80,213755,https://www.beeradvocate.com/beer/profile/42570/213755/,Pumpkin Pickin' Ale,42570,Screamin' Hill Brewery,3,3.45
+712,8.40,141823,https://www.beeradvocate.com/beer/profile/34192/141823/,Frumkin's Pumpkin Ale,34192,Bucks County Brewery,3,3.84
+713,6.40,253697,https://www.beeradvocate.com/beer/profile/43842/253697/,Reaper's Reward,43842,Kickstand Brewing Company,2,3.75
+714,6.10,196353,https://www.beeradvocate.com/beer/profile/2426/196353/,Harvest Pumpkin Ale,2426,Madison Brewing Co.,2,3.56
+715, ? ,141570,https://www.beeradvocate.com/beer/profile/27768/141570/,Mr. Moos Pumpkin Ale,27768,Lone Tree Brewing Company,2,3.58
+716,6.80,104194,https://www.beeradvocate.com/beer/profile/30201/104194/,Anniversary Ale,30201,HooDoo Brewing,2,3.75
+717,9.20,98819,https://www.beeradvocate.com/beer/profile/205/98819/,Buffalo Bill's Imperial Pumpkin Ale,205,Buffalo Bill's Brewery,2,2.79
+718,6.90,198665,https://www.beeradvocate.com/beer/profile/41755/198665/,Pie-Eyed Pumpkin Ale,41755,Wet Coast Brewing Company,2,3.78
+719,5.20,172297,https://www.beeradvocate.com/beer/profile/29834/172297/,Sagra Calabaza Y Canela,29834,Daviyun (Cerveza SAGRA),2,3.52
+720,5.50,307212,https://www.beeradvocate.com/beer/profile/45702/307212/,Fuzzy Pumpkin,45702,Rebel Kettle Brewing,2,4.31
+721,7.80,143373,https://www.beeradvocate.com/beer/profile/34647/143373/,Pushkin,34647,Ursula Brewery,2,3.75
+722,6.00,65040,https://www.beeradvocate.com/beer/profile/1464/65040/,New Bremen Giant Pumpkin Ale,1464,Elevator Brewery & Draught Haus,2,3.92
+723,4.90,143382,https://www.beeradvocate.com/beer/profile/31920/143382/,Chocolate Pumpkin Porter,31920,FATE Brewing Company,2,3.78
+724,9.40,255510,https://www.beeradvocate.com/beer/profile/43737/255510/,Raven Hill Pumpkin Stout,43737,City Acre Brewing,2,4.05
+725,4.70,64535,https://www.beeradvocate.com/beer/profile/3585/64535/,Pumpkin Ale,3585,BJ's Restaurant & Brewhouse,2,3.5
+726,6.30,218649,https://www.beeradvocate.com/beer/profile/31547/218649/,Vanilla Pumpkin,31547,Rocket Republic Brewing Company,2,3.93
+727,6.80,64282,https://www.beeradvocate.com/beer/profile/63/64282/,Pompion,63,Deschutes Brewery,2,4.33
+728,5.50,143131,https://www.beeradvocate.com/beer/profile/1590/143131/,Dark Gourd Pumpkin Ale,1590,Diamond Knot Brewery,2,3.39
+729, ? ,215835,https://www.beeradvocate.com/beer/profile/16333/215835/,Pumpkin Slayer,16333,Tallgrass Brewing Company,2,4.31
+730,7.00,196379,https://www.beeradvocate.com/beer/profile/42555/196379/,Not Another Pumpkin Ale,42555,Ode Brewing,2,3.88
+731,5.60,159775,https://www.beeradvocate.com/beer/profile/30017/159775/,Holiday Ale,30017,"Bemidji Brewing Company, LLC",2,3
+732,9.00,100895,https://www.beeradvocate.com/beer/profile/32877/100895/,The Great Pumpkin Porter,32877,Riepstine's Pub,2,4.15
+733,6.40,181026,https://www.beeradvocate.com/beer/profile/31011/181026/,Punk Nut,31011,515 Brewing Company,2,3.93
+734,5.25,207142,https://www.beeradvocate.com/beer/profile/40873/207142/,Pumpkin Ale,40873,R. Shea Brewing,2,3.62
+735,5.00,144935,https://www.beeradvocate.com/beer/profile/35646/144935/,Poudre Douce,35646,Revelry Brewing Co,2,3.88
+736,7.20,104999,https://www.beeradvocate.com/beer/profile/3749/104999/,Pumpkelstiltskin,3749,Seven Bridges Grille And Brewery,2,4.19
+737, ? ,195879,https://www.beeradvocate.com/beer/profile/40145/195879/,Southern Pumpkin,40145,The Southern Brewing Company,2,3.82
+738,6.00,261928,https://www.beeradvocate.com/beer/profile/43426/261928/,Pumpkin Ale,43426,Brouwerij Noordt,2,2.75
+739,6.10,148777,https://www.beeradvocate.com/beer/profile/37814/148777/,Pentaceratops Pumpkin Ale,37814,Fossil Craft Beer Company,2,3.41
+740,5.20,193065,https://www.beeradvocate.com/beer/profile/42541/193065/,Zucca Spezie,42541,Quattro Goomba's Brewery,2,3.38
+741,7.80,193066,https://www.beeradvocate.com/beer/profile/36225/193066/,Heebie Jeebies,36225,Brewtus Brewing Company,2,3.89
+742,6.80,63018,https://www.beeradvocate.com/beer/profile/3080/63018/,Humpkin Pumpkin Ale,3080,Humperdinks Brewpub (Greenville Ave),2,3.75
+743,5.60,196394,https://www.beeradvocate.com/beer/profile/38954/196394/,Pumpkin Pie,38954,TailGate Beer,2,4.27
+744,8.60,255019,https://www.beeradvocate.com/beer/profile/42612/255019/,Sour Harvest,42612,Barbarian Brewing,2,3.99
+745,8.00,310572,https://www.beeradvocate.com/beer/profile/46718/310572/,Black Witch's Coven,46718,Collusion Tap Works,2,3.83
+746,6.30,193836,https://www.beeradvocate.com/beer/profile/35025/193836/,Pumpkin Cranberry Farmhouse Ale,35025,Miner Brewing Company,2,3.88
+747,8.60,254253,https://www.beeradvocate.com/beer/profile/16353/254253/,Great Gourds Of Fire,16353,Hopworks Urban Brewery,2,3.84
+748,6.20,196911,https://www.beeradvocate.com/beer/profile/37453/196911/,Gourd Have Mercy!,37453,Sycamore Brewing,2,4.07
+749,4.50,143151,https://www.beeradvocate.com/beer/profile/31049/143151/,Pumpkin Seed Ale,31049,Scratch Brewing Company,2,3.62
+750,9.00,145199,https://www.beeradvocate.com/beer/profile/26536/145199/,The Wicked,26536,Exit 6 Brewery,2,3.96
+751,10.42,141361,https://www.beeradvocate.com/beer/profile/377/141361/,Imperial Pumpkin,377,Glacier Brewhouse,2,3.67
+752,8.20,188722,https://www.beeradvocate.com/beer/profile/31675/188722/,Spooky,31675,Blue Mountain Barrel House,2,3.51
+753,5.00,251188,https://www.beeradvocate.com/beer/profile/35611/251188/,Grandma's Pumpkin Pie,35611,Platt Park Brewing Company,2,3.89
+754,7.00,142902,https://www.beeradvocate.com/beer/profile/1872/142902/,Sinister Pumpkin,1872,McKenzie Brew House,2,3.89
+755,9.00,105271,https://www.beeradvocate.com/beer/profile/32953/105271/,Pope’s Imperial Pumpkin Ale,32953,Millersburg Brewing Company,2,3.75
+756,8.00,141880,https://www.beeradvocate.com/beer/profile/16353/141880/,"Gourd, Bad, Ugly Pumpkin Ale",16353,Hopworks Urban Brewery,2,4.25
+757,6.70,247612,https://www.beeradvocate.com/beer/profile/43115/247612/,Bold Jack,43115,The Bold Mariner Brewing Company,2,4.17
+758,6.50,138045,https://www.beeradvocate.com/beer/profile/31929/138045/,Fist Pumpkin,31929,Backshore Brewing Company,2,3.07
+759,6.20,181822,https://www.beeradvocate.com/beer/profile/34195/181822/,Gourd Hoarder's Pumpkin,34195,Manitou Brewing Co.,2,4
+760,6.00,252991,https://www.beeradvocate.com/beer/profile/43390/252991/,Remember The Maine Smoked Pumpkin Porter,43390,Cloudburst Brewing,2,4.11
+761,3.80,102720,https://www.beeradvocate.com/beer/profile/5050/102720/,Pumpkin Ale,5050,Everards Brewery Ltd.,2,3.21
+762,6.00,141890,https://www.beeradvocate.com/beer/profile/18159/141890/,Gourds Gone Wild,18159,Southern Brewing & Winemaking Supply,2,3.75
+763,8.00,104261,https://www.beeradvocate.com/beer/profile/23347/104261/,Magna Cucurbita - Bourbon Soaked Oak Chips,23347,Mike Hess Brewing - Miramar,2,3.5
+764, ? ,117317,https://www.beeradvocate.com/beer/profile/3777/117317/,Augusta Imperial Pumpkin Porter,3777,Augusta Brewing Company,2,3.62
+765,6.80,257093,https://www.beeradvocate.com/beer/profile/46977/257093/,Pumpkin Harvest Ale,46977,Red Dragon Brewery,2,3.7
+766,5.20,196165,https://www.beeradvocate.com/beer/profile/25433/196165/,Basic Pumpkin Spice Latte Ale,25433,Payette Brewing,2,3.3
+767,6.50,304458,https://www.beeradvocate.com/beer/profile/49734/304458/,Mashin Punkins,49734,Remedy Brewing Company,2,3.63
+768,6.20,148818,https://www.beeradvocate.com/beer/profile/28181/148818/,Holiday Ale,28181,Pecan Street Brewing,2,3.88
+769,6.00,124242,https://www.beeradvocate.com/beer/profile/23/124242/,Pineer,23,Twisted Pine Brewing Company,2,3.5
+770,5.20,255571,https://www.beeradvocate.com/beer/profile/38353/255571/,Horseman's Harvest,38353,Montgomery Brewing Company,2,3.41
+771,5.80,194387,https://www.beeradvocate.com/beer/profile/36086/194387/,Pumpkin Pie Stout,36086,Broken Compass Brewing,2,4.16
+772,6.20,161364,https://www.beeradvocate.com/beer/profile/35586/161364/,Pumpkin Ale,35586,Resurgence Brewing Company,2,3.93
+773,6.70,192853,https://www.beeradvocate.com/beer/profile/1001/192853/,Hillbilly Family Reunion,1001,Firehouse Brewing Co.,2,3.35
+774,5.70,139354,https://www.beeradvocate.com/beer/profile/25436/139354/,Pumpkin Marzen,25436,Copper Kettle Brewing Company,2,3.6
+775, ? ,193373,https://www.beeradvocate.com/beer/profile/42635/193373/,Gravedigger,42635,Upstreet Craft Brewing,2,3.59
+776,7.00,304478,https://www.beeradvocate.com/beer/profile/34748/304478/,Bourbon Barrel Aged Dark Gourd,34748,Imperial Oak Brewing,2,4.22
+777,10.80,143713,https://www.beeradvocate.com/beer/profile/33838/143713/,Pumped Up Pumpkin ,33838,Tibbs Brewing Company,2,4.6
+778,8.30,312417,https://www.beeradvocate.com/beer/profile/43996/312417/,Carriage House Imperial Pumpkin Ale,43996,Garvies Point Craft Brewery,2,3.6
+779, ? ,53601,https://www.beeradvocate.com/beer/profile/1069/53601/,Munchin' Pumpkin Ale,1069,Elliott Bay Brewing Co.,2,3.88
+780,5.70,254564,https://www.beeradvocate.com/beer/profile/3120/254564/,Ichabod Ale 2016,3120,Alpine Beer Company,2,3.66
+781,5.90,301925,https://www.beeradvocate.com/beer/profile/46328/301925/,Harvest Nights,46328,Lost Tavern Brewing,2,3.95
+782, ? ,54629,https://www.beeradvocate.com/beer/profile/20017/54629/,Pumpkin Spiced Ale,20017,5 Seasons Westside,2,3.66
+783,5.80,174184,https://www.beeradvocate.com/beer/profile/40640/174184/,Punkin Chunkin,40640,Twenty Below Brewing,2,3.76
+784,4.30,309610,https://www.beeradvocate.com/beer/profile/47156/309610/,Jack Be Little Pumpkin Grisette,47156,Ever Grain Brewing Co.,2,3.66
+785,6.20,206444,https://www.beeradvocate.com/beer/profile/1551/206444/,Gordon Biersch Pumpkin Ale,1551,Gordon Biersch Brewery Restaurant,2,3.52
+786, ? ,216428,https://www.beeradvocate.com/beer/profile/35536/216428/,Bibbity Bobbity Boo Pumpkin Ale,35536,Riverbend Brewing Company,2,3.75
+787, ? ,86125,https://www.beeradvocate.com/beer/profile/26536/86125/,Pumpkin,26536,Exit 6 Brewery,2,2.39
+788,5.70,46189,https://www.beeradvocate.com/beer/profile/593/46189/,Pumpkin,593,Morgan Street Brewery,2,3.27
+789,7.20,290926,https://www.beeradvocate.com/beer/profile/1620/290926/,Gin Barrel Aged Jackie Bones,1620,Dunedin Brewery,2,3.89
+790,8.40,264304,https://www.beeradvocate.com/beer/profile/9797/264304/,Late Night Pumpkin - Bourbon Barrel Aged,9797,North Country Brewing,2,4.09
+791,8.10,193392,https://www.beeradvocate.com/beer/profile/41807/193392/,Pumpkin Pale,41807,Wasserhund Brewing Company,2,3.58
+792, ? ,62066,https://www.beeradvocate.com/beer/profile/19764/62066/,Gutter Punk'n,19764,Schooner Exact Brewing Company,2,2.43
+793,6.15,143987,https://www.beeradvocate.com/beer/profile/37442/143987/,Pumpkin Stout,37442,Moo-Duck Brewery,2,3.67
+794,6.10,198518,https://www.beeradvocate.com/beer/profile/25436/198518/,Pumpkin Porter,25436,Copper Kettle Brewing Company,2,3.5
+795,5.00,143223,https://www.beeradvocate.com/beer/profile/3721/143223/,Trouillarde,3721,Gambrinus,2,4
+796,5.20,106871,https://www.beeradvocate.com/beer/profile/21329/106871/,Drunkin' Punkin',21329,Cool Springs Brewery,2,4
+797,7.30,258424,https://www.beeradvocate.com/beer/profile/43224/258424/,Scenic Hollow Pumpkin Ale,43224,Scenic Brewing Co.,2,4.34
+798,5.00,143485,https://www.beeradvocate.com/beer/profile/34501/143485/,Pumpkin Chai-Five,34501,Innovation Brewing,2,3.8
+799,4.80,190591,https://www.beeradvocate.com/beer/profile/33763/190591/,Scarecrow,33763,Banger Brewing,2,3.44
+800,5.50,123777,https://www.beeradvocate.com/beer/profile/35152/123777/,Slam Punk-In-Ale,35152,Chatty Monks Brewing,2,3.88
+801,5.50,196481,https://www.beeradvocate.com/beer/profile/42276/196481/,Pumpkin Juice,42276,Commonwealth Brewing Company,2,3.47
+802, ? ,75395,https://www.beeradvocate.com/beer/profile/6339/75395/,Pumpkinhead,6339,The Dodging Duck Brewhaus,2,4
+803,5.00,287876,https://www.beeradvocate.com/beer/profile/37304/287876/,Pumpkin Ale,37304,Hop'n Moose Brewing Company,2,4
+804,5.70,260232,https://www.beeradvocate.com/beer/profile/46251/260232/,Persnickety Witch,46251,Tradition Brewing,2,3.54
+805,6.00,141964,https://www.beeradvocate.com/beer/profile/36170/141964/,Grinning Reaper,36170,Roots Brewing Company,2,4.09
+806,11.50,203149,https://www.beeradvocate.com/beer/profile/32478/203149/,Rum Barrel Aged Pumpkin Ale,32478,Battlefield Brew Works,2,4.12
+807,5.50,41357,https://www.beeradvocate.com/beer/profile/1016/41357/,Pumpkin Ale,1016,Redondo Beach Brewing,2,3.66
+808,4.70,107150,https://www.beeradvocate.com/beer/profile/24937/107150/,Brewmaster's Choice Pumpkin Ale,24937,Shanghai Brewery,2,2.84
+809,11.01,29328,https://www.beeradvocate.com/beer/profile/377/29328/,Pumpkin Ale,377,Glacier Brewhouse,2,4.62
+810,5.80,117393,https://www.beeradvocate.com/beer/profile/30546/117393/,Pumpkin Ale,30546,Indian Joe Brewing,2,2.86
+811,7.00,198546,https://www.beeradvocate.com/beer/profile/20982/198546/,Blind Pig Sour Pumpkin Ale,20982,The Blind Pig Brewery,2,4.05
+812,10.40,148375,https://www.beeradvocate.com/beer/profile/2391/148375/,Double Dunk'n Punk'n Ale,2391,Cascade Brewing / Raccoon Lodge & Brewpub,2,4.03
+813,6.90,308123,https://www.beeradvocate.com/beer/profile/48044/308123/,Any Questions?,48044,Tin Lizard Brewing Company,2,3.51
+814,6.75,251803,https://www.beeradvocate.com/beer/profile/45697/251803/,Punk'n Ale,45697,Bellefonte Brewing Co.,2,3.91
+815, ? ,162717,https://www.beeradvocate.com/beer/profile/38990/162717/,Jerimoon,38990,Bier Hoff,2,3.47
+816,6.50,106142,https://www.beeradvocate.com/beer/profile/29111/106142/,Country Pumpkin,29111,City Star Brewing Company,2,4.25
+817,5.80,195231,https://www.beeradvocate.com/beer/profile/38147/195231/,White Girl,38147,Mash Cult,2,3.54
+818,6.00,103073,https://www.beeradvocate.com/beer/profile/31584/103073/,Pumpkin PFD,31584,BearWaters Brewing Co.,2,3.12
+819,6.50,168867,https://www.beeradvocate.com/beer/profile/28845/168867/,Obligatory Pumpkin,28845,Rock Bridge Brewing Co.,2,3.54
+820,5.00,251045,https://www.beeradvocate.com/beer/profile/40873/251045/,Colonial Pumpkin,40873,R. Shea Brewing,2,4.24
+821, ? ,105127,https://www.beeradvocate.com/beer/profile/4063/105127/,Death By Pumpkin,4063,River City Brewing Co.,2,3.62
+822,5.80,141481,https://www.beeradvocate.com/beer/profile/35616/141481/,Power Island Pumpkin,35616,The Mitten Brewing Company - Northport,2,3.8
+823,7.50,102569,https://www.beeradvocate.com/beer/profile/29227/102569/,Pumpkin Bomb Ale,29227,Props Brewery & Grill,2,3.76
+824,7.10,249770,https://www.beeradvocate.com/beer/profile/42493/249770/,Spiced Oddity,42493,Royal Docks Brewing Company,2,3.22
+825,9.00,143533,https://www.beeradvocate.com/beer/profile/37392/143533/,Headless Hippie Pumpkin Ale,37392,Boojum Brewing Company,2,3.38
+826,5.50,14256,https://www.beeradvocate.com/beer/profile/7008/14256/,Pumpkin,7008,Pump House Brewery,2,2.96
+827,9.70,309936,https://www.beeradvocate.com/beer/profile/30349/309936/,Imperial Pumpkin Ale (Brandy Barrel-Aged),30349,Dangerous Man Brewing,2,4.41
+828,10.00,103857,https://www.beeradvocate.com/beer/profile/30884/103857/,Pump Fiction,30884,The North Brewery,2,4.12
+829,4.40,75954,https://www.beeradvocate.com/beer/profile/26419/75954/,Pumpkin Ale,26419,Seneca Lodge Craft Brewing,2,4.12
+830, ? ,105139,https://www.beeradvocate.com/beer/profile/4063/105139/,Pumpkin Stout,4063,River City Brewing Co.,2,3.88
+831,6.50,256948,https://www.beeradvocate.com/beer/profile/40393/256948/,Ugly Pumpkin,40393,LTS Brewing Company (Life's Too Short),2,3.64
+832,6.40,309686,https://www.beeradvocate.com/beer/profile/42665/309686/,Obligatory,42665,Loudoun Brewing Co.,2,3.88
+833,5.70,198840,https://www.beeradvocate.com/beer/profile/36176/198840/,Gourdeous Blonde,36176,Panther Island Brewing,2,3.59
+834,9.10,101560,https://www.beeradvocate.com/beer/profile/29546/101560/,Mischief Night,29546,HiJinx Brewing Company,2,4.1
+835,5.20,253880,https://www.beeradvocate.com/beer/profile/15943/253880/,Roughlocktoberfest,15943,Crow Peak Brewing,2,3.63
+836,10.20,140476,https://www.beeradvocate.com/beer/profile/2175/140476/,Imperial Pumpkin Ale,2175,Half Moon Bay Brewing Company,2,3.62
+837,5.30,195260,https://www.beeradvocate.com/beer/profile/30536/195260/,Seven Spirits Pumpkin Ale,30536,Two Rivers Brewing Company,2,3.04
+838,6.66,193469,https://www.beeradvocate.com/beer/profile/34748/193469/,Dark Gourd Latte,34748,Imperial Oak Brewing,2,3.87
+839,6.30,160446,https://www.beeradvocate.com/beer/profile/33735/160446/,Spicy Pumpkin,33735,Nano 108 Brewing Company,2,3.4
+840, ? ,45758,https://www.beeradvocate.com/beer/profile/16242/45758/,Brewbaker Pumpkin Lager,16242,Brewbaker,2,3.72
+841, ? ,198080,https://www.beeradvocate.com/beer/profile/25812/198080/,Flying Pumpkin,25812,Roc Brewing Company,2,3.94
+842,6.90,144834,https://www.beeradvocate.com/beer/profile/34792/144834/,Nectar Of The Gourds,34792,One World Brewing,2,3.9
+843, ? ,105413,https://www.beeradvocate.com/beer/profile/27350/105413/,Wagmu,27350,Reads Landing Brewing Company,2,3.79
+844,6.00,62151,https://www.beeradvocate.com/beer/profile/10567/62151/,Pumpkin Head Ale,10567,John S. Rhodell Brewery,2,4.24
+845,6.50,307912,https://www.beeradvocate.com/beer/profile/49490/307912/,She Made Me,49490,Solace Brewing,2,3.82
+846,7.00,193481,https://www.beeradvocate.com/beer/profile/33097/193481/,Pumpkin Face,33097,Mully's Brewery,2,3.55
+847,5.00,85964,https://www.beeradvocate.com/beer/profile/30030/85964/,Harvest Moon Autumn Ale,30030,Drop-In Brewing Company,2,3.62
+848,7.10,309453,https://www.beeradvocate.com/beer/profile/25957/309453/,MBBA Franklin Castle,25957,Market Garden Brewery,2,4.32
+849,7.70,200398,https://www.beeradvocate.com/beer/profile/42117/200398/,Imperial Pumpkin Porter,42117,Spring Gate Brewery,2,3.34
+850,8.00,154062,https://www.beeradvocate.com/beer/profile/2547/154062/,Pumpkin Spice Ale,2547,Jack Russell Brewing Company,2,3.5
+851,10.50,100558,https://www.beeradvocate.com/beer/profile/27926/100558/,Pumpkin Pie Strong Ale,27926,Bare Hands Brewery,2,4.35
+852,6.00,99536,https://www.beeradvocate.com/beer/profile/764/99536/,Blue Point Coffee Pumpkin,764,Blue Point Brewing Company,2,4
+853,5.80,144083,https://www.beeradvocate.com/beer/profile/12365/144083/,Pumpkin Stout,12365,Mountain State Brewing Co.,2,3.5
+854,8.50,252115,https://www.beeradvocate.com/beer/profile/700/252115/,Ben's Old Fashioned,700,Elysian Brewing Company,2,4.12
+855,9.00,309972,https://www.beeradvocate.com/beer/profile/2097/309972/,Kuhnhenn Barrel Aged Imperial All Hallows' Ale,2097,Kuhnhenn Brewing Company,2,3.64
+856,4.70,252116,https://www.beeradvocate.com/beer/profile/700/252116/,Steamy Hollow,700,Elysian Brewing Company,2,3.35
+857,6.00,198613,https://www.beeradvocate.com/beer/profile/37979/198613/,Pumpkin Ale,37979,Zephyr Brewing Co.,2,3.77
+858,7.80,140757,https://www.beeradvocate.com/beer/profile/33818/140757/,Pumpkin Spice,33818,Snitz Creek Brewery,2,4.12
+859,7.80,141782,https://www.beeradvocate.com/beer/profile/28091/141782/,Pumky Brewster,28091,Free Will Brewing Co.,2,3
+860,5.90,258519,https://www.beeradvocate.com/beer/profile/34225/258519/,Pumpkin Chocolate Chip Milk Stout,34225,Twin Leaf Brewery,2,4.07
+861,8.24,308952,https://www.beeradvocate.com/beer/profile/48719/308952/,Alewitch Pumpkin Ale,48719,Steel Bender Brewyard,2,4.15
+862, ? ,192472,https://www.beeradvocate.com/beer/profile/42273/192472/,Autumn Harvest,42273,Forager Brewing Company,2,3.68
+863,8.20,201177,https://www.beeradvocate.com/beer/profile/27262/201177/,Haunted House Imperial Pumpkin Ale,27262,House of Brews,2,3.89
+864,7.00,254938,https://www.beeradvocate.com/beer/profile/38769/254938/,Fall-elujah,38769,Beaver Island Brewing Co.,2,3.83
+865,6.00,177374,https://www.beeradvocate.com/beer/profile/13529/177374/,Stallhagen Pumpkin Ale,13529,Stallhagens Bryggeri Ab,2,2.81
+866, ? ,105695,https://www.beeradvocate.com/beer/profile/24453/105695/,Punk Monk Pumpkin,24453,Intuition Ale Works,2,4.07
+867,9.00,254946,https://www.beeradvocate.com/beer/profile/9897/254946/,Imperial La Parcela,9897,Jolly Pumpkin Artisan Ales,2,4.06
+868,7.50,257507,https://www.beeradvocate.com/beer/profile/46866/257507/,Pumpkin Ale,46866,Happy Basset Brewing Company,2,3.77
+869,8.40,307940,https://www.beeradvocate.com/beer/profile/695/307940/,Yunk-O-Lantern,695,Manayunk Brewery and Restaurant,2,4.25
+870, ? ,144869,https://www.beeradvocate.com/beer/profile/34733/144869/,Witch's Tit,34733,Bigelow Brewing Company,2,3.75
+871,6.70,257256,https://www.beeradvocate.com/beer/profile/42846/257256/,Jav-O-Lantern,42846,Crooked Hammock Brewery,2,4.03
+872,6.50,144105,https://www.beeradvocate.com/beer/profile/769/144105/,Amsterdam Gaslight,769,Amsterdam Brewing Company,2,4.08
+873,7.30,197358,https://www.beeradvocate.com/beer/profile/4861/197358/,Frankenmuth Pumpkin Chucker,4861,Frankenmuth Brewery,2,4.02
+874,5.80,147184,https://www.beeradvocate.com/beer/profile/30763/147184/,Habañero Pumpkin Porter,30763,Bluebird Microcreamery & Brewery,2,3.62
+875,6.10,197362,https://www.beeradvocate.com/beer/profile/40064/197362/,Tuppkin,40064,Tupps Brewery,2,4.16
+876,5.50,145651,https://www.beeradvocate.com/beer/profile/1708/145651/,Ghost Town Pumpkin,1708,Sweetwater Tavern & Brewery,2,3.62
+877,6.70,141300,https://www.beeradvocate.com/beer/profile/1550/141300/,The Wicked Brewski,1550,Rock Bottom Restaurant & Brewery,2,3.77
+878,5.60,201973,https://www.beeradvocate.com/beer/profile/33108/201973/,Smokin Pumpkin Cask With Vanilla Beans,33108,Abandon Brewing Co.,2,4.06
+879,5.80,46327,https://www.beeradvocate.com/beer/profile/16503/46327/,Fife And Drum Colonial Ale,16503,Right Brain Brewery,2,4.29
+880,5.90,195575,https://www.beeradvocate.com/beer/profile/33108/195575/,Smokin' Porter,33108,Abandon Brewing Co.,2,4.15
+881, ? ,140537,https://www.beeradvocate.com/beer/profile/36756/140537/,Pumpkin Pie Porter,36756,Eternity Brewing Company,2,3.74
+882,5.00,203003,https://www.beeradvocate.com/beer/profile/39395/203003/,Shivering Pumpkin Ale,39395,Dakota Shivers Brewing,2,3.81
+883,5.00,99326,https://www.beeradvocate.com/beer/profile/31841/99326/,Pumpkin Porter,31841,Wooden Legs Brewing Company,2,4.01
+884,4.60,199168,https://www.beeradvocate.com/beer/profile/27945/199168/,Scrumpkin,27945,The Foundry / Cantebury Brewers,1,3.55
+885, ? ,265984,https://www.beeradvocate.com/beer/profile/44028/265984/,Punkin Spiced Ale,44028,Bottle Rocket Brewing Company,1,3.97
+886, ? ,313088,https://www.beeradvocate.com/beer/profile/51045/313088/,Sassquash Pumpkin Ale,51045,Supernatural Brewing and Spirits,1,3.97
+887,5.90,251136,https://www.beeradvocate.com/beer/profile/40488/251136/,Pumpkin,40488,Destination Unknown Beer Co.,1,3.79
+888,6.50,197377,https://www.beeradvocate.com/beer/profile/30643/197377/,Pumpkin Ale,30643,Slanted Rock Brewing Company,1,3.35
+889,7.50,256001,https://www.beeradvocate.com/beer/profile/32472/256001/,Serie Noire: La Trouille,32472,Farnham Ale & Lager,1,3.29
+890, ? ,203266,https://www.beeradvocate.com/beer/profile/9243/203266/,Pumpkin Ale,9243,The Brewery At Lake Tahoe,1,3.85
+891,6.90,136963,https://www.beeradvocate.com/beer/profile/12648/136963/,Midnight Mistress Dark Pumpkin,12648,Frisco Taphouse & Brewery,1,4
+892,5.80,304388,https://www.beeradvocate.com/beer/profile/30516/304388/,Grave Danger,30516,Black Bottle Brewery,1,3.75
+893,6.90,256004,https://www.beeradvocate.com/beer/profile/36725/256004/,Pup'kin Ale,36725,Spotted Dog Brewery,1,3.29
+894,6.60,309510,https://www.beeradvocate.com/beer/profile/14/309510/,Chocozuma's Revenge,14,Cambridge Brewing Company,1,3.99
+895, ? ,315142,https://www.beeradvocate.com/beer/profile/34731/315142/,Pumpkin Ale,34731,Braustil,1,3.25
+896,6.00,312583,https://www.beeradvocate.com/beer/profile/26560/312583/,Equinox,26560,Nexus Brewery,1,3.72
+897,6.00,186376,https://www.beeradvocate.com/beer/profile/32700/186376/,Pumpkin Cask Ale,32700,Galaxy Brewing Company,1,3.72
+898,5.70,194824,https://www.beeradvocate.com/beer/profile/28290/194824/,Freaky Tree,28290,Buckeye Lake Brewery,1,3.75
+899,7.00,140810,https://www.beeradvocate.com/beer/profile/32065/140810/,Roasted Pumpkin Ale,32065,Kretschmann Brewing Company,1,4.62
+900,6.50,143114,https://www.beeradvocate.com/beer/profile/2351/143114/,Shame On The Moon,2351,Royal Oak Brewery,1,4
+901, ? ,317708,https://www.beeradvocate.com/beer/profile/5408/317708/,Baraboo Pumpkin Ale,5408,Herkimer Pub & Brewery,1,3.61
+902,5.60,256268,https://www.beeradvocate.com/beer/profile/43729/256268/,Pumpkin Ale,43729,Pine Island Brewing Company,1,4.17
+903,4.70,204045,https://www.beeradvocate.com/beer/profile/41798/204045/,BJ's Pumpkin Ale,41798,BJ's Restaraunt & Brewhouse,1,3.73
+904,5.70,143885,https://www.beeradvocate.com/beer/profile/27844/143885/,Famous Monsters,27844,Round Guys Brewing Company,1,4.25
+905,4.70,64525,https://www.beeradvocate.com/beer/profile/21445/64525/,Pumpkin Ale,21445,BJ's Restaurant And Brewhouse,1,3.5
+906,7.20,251918,https://www.beeradvocate.com/beer/profile/46398/251918/,Brumpkin,46398,Black Flag Brewing Company,1,3.5
+907,5.90,196623,https://www.beeradvocate.com/beer/profile/29599/196623/,Creature Feature,29599,JAFB Wooster Brewery,1,3.96
+908,6.20,195855,https://www.beeradvocate.com/beer/profile/41287/195855/,Grimm,41287,Something Wicked Brewing Company,1,3.97
+909,5.00,311313,https://www.beeradvocate.com/beer/profile/20345/311313/,Pumpkin Pinup,20345,Long Ireland Beer Company,1,3.56
+910,9.50,273683,https://www.beeradvocate.com/beer/profile/48121/273683/,Pumpkin Spice LazaRIS,48121,Boneshire Brew Works,1,4
+911, ? ,76308,https://www.beeradvocate.com/beer/profile/11426/76308/,Southport Mashing Pumpkin,11426,SBC Restaurant & Brewery - Milford,1,3.65
+912,6.00,308244,https://www.beeradvocate.com/beer/profile/43613/308244/,Falling Pumpkin,43613,Falling Branch Brewery,1,3.83
+913,8.50,321812,https://www.beeradvocate.com/beer/profile/46535/321812/,Whiskey Santa's Candied Yam Ale,46535,Tattered Flag Brewery & Still Works,1,4
+914, ? ,62997,https://www.beeradvocate.com/beer/profile/11212/62997/,Pumpkin Death,11212,Iron Horse Brewery,1,3.42
+915,6.00,208150,https://www.beeradvocate.com/beer/profile/34273/208150/,"Country Bumpkin ""Rum"" Pumpkin",34273,Bull & Barrel Brew Pub,1,3.99
+916,5.60,309782,https://www.beeradvocate.com/beer/profile/48121/309782/,Piglet: Smoked Pumpkin Stout,48121,Boneshire Brew Works,1,3.75
+917,8.20,252950,https://www.beeradvocate.com/beer/profile/30434/252950/,Toasted Pumpkin Ale Aged Over Spiced Rum Infused Oak,30434,603 Brewery,1,3.54
+918,6.50,320278,https://www.beeradvocate.com/beer/profile/31029/320278/,Pumpkin Spice Ale,31029,Peddler Brewing Co.,1,2
+919,6.20,255254,https://www.beeradvocate.com/beer/profile/45164/255254/,Rusty Rudder,45164,Rip Rap Brewing Company,1,3.79
+920,6.00,335896,https://www.beeradvocate.com/beer/profile/16873/335896/,Hooligan Pumpkin Sour,16873,10 Barrel Brewing Co.,1,3.5
+921,6.70,142616,https://www.beeradvocate.com/beer/profile/33802/142616/,Pumpkin,33802,Motorworks Brewing,1,3.7
+922,7.00,298520,https://www.beeradvocate.com/beer/profile/27029/298520/,Punkin Drublic,27029,Soo Brewing Company,1,3.65
+923,6.20,314137,https://www.beeradvocate.com/beer/profile/51004/314137/,Transonic 002: Pumpkin Brewster,51004,6A Brewing Company,1,4.05
+924,6.40,141339,https://www.beeradvocate.com/beer/profile/25979/141339/,Jack-O-Lantern,25979,GoodLife Brewing Company & Bier Hall,1,3
+925,7.10,167963,https://www.beeradvocate.com/beer/profile/30989/167963/,Sasquash,30989,BRU Handbuilt Ales,1,4
+926,8.60,199965,https://www.beeradvocate.com/beer/profile/25844/199965/,Keg O'lantern Double Pumpkin,25844,Keg & Lantern Brewing Co,1,4
+927,7.50,252445,https://www.beeradvocate.com/beer/profile/34313/252445/,Scarecrow Courage,34313,1933 Brewing Company,1,3.67
+928,5.70,195870,https://www.beeradvocate.com/beer/profile/42665/195870/,Gourd Is Great (pumpkin Porter),42665,Loudoun Brewing Co.,1,3.74
+929,7.10,196382,https://www.beeradvocate.com/beer/profile/33640/196382/,Clash Of The Pumpkins,33640,Glasstown Brewing Co.,1,3.62
+930,7.00,201247,https://www.beeradvocate.com/beer/profile/32553/201247/,Sloth,32553,SON Brewing Co.,1,4.7
+931,6.10,325919,https://www.beeradvocate.com/beer/profile/46535/325919/,Fatum Series: Sour Jack,46535,Tattered Flag Brewery & Still Works,1,3.5
+932,6.40,208928,https://www.beeradvocate.com/beer/profile/22654/208928/,Minuit Pile’s Bière à La Citrouille,22654,Bières De Saint-Louis,1,3.59
+933, ? ,307488,https://www.beeradvocate.com/beer/profile/7051/307488/,Jack the Sipper,7051,Tractor Brewing Co.,1,3.2
+934, ? ,271393,https://www.beeradvocate.com/beer/profile/35190/271393/,Pumpkin Hollow - Barrel Aged,35190,Ocean City Brewing Company,1,4
+935,5.40,302625,https://www.beeradvocate.com/beer/profile/47231/302625/,Stingy Jack,47231,Full Boar Craft Brewery & Tap Room,1,4.3
+936,6.30,308769,https://www.beeradvocate.com/beer/profile/4063/308769/,Autumnberry,4063,River City Brewing Co.,1,3.73
+937,6.10,249889,https://www.beeradvocate.com/beer/profile/46535/249889/,Chocolate Pumpkin Porter,46535,Tattered Flag Brewery & Still Works,1,4
+938,5.60,255265,https://www.beeradvocate.com/beer/profile/1550/255265/,Gourdy Howl,1550,Rock Bottom Restaurant & Brewery,1,3.93
+939,5.40,309538,https://www.beeradvocate.com/beer/profile/33707/309538/,JACQUES!,33707,Tributary Brewing Co.,1,3.75
+940, ? ,164387,https://www.beeradvocate.com/beer/profile/39762/164387/,Great Pumpkin's Demise,39762,Florida Keys Brewing Co.,1,3.26
+941,5.80,136996,https://www.beeradvocate.com/beer/profile/1106/136996/,Klevenkop,1106,Grizzly Peak Brewing Company,1,3
+942, ? ,145446,https://www.beeradvocate.com/beer/profile/32443/145446/,L'épouvantrouille,32443,Microbrasserie Coaticook,1,2.79
+943,5.67,142119,https://www.beeradvocate.com/beer/profile/33068/142119/,Transom Jack Pumpkin Ale,33068,Boatyard Brewing Co.,1,4.13
+944,6.50,257064,https://www.beeradvocate.com/beer/profile/43407/257064/,Butternut Beer,43407,R.S. Taylor & Sons Brewing,1,4.34
+945,9.60,148778,https://www.beeradvocate.com/beer/profile/36073/148778/,Pumpkin Is The New Black,36073,Barreled Souls Brewing Company,1,3.5
+946,5.60,305194,https://www.beeradvocate.com/beer/profile/49006/305194/,Smashing Pumpkin Seasonal Ale,49006,The Vegetable Hunter,1,3.5
+947,5.30,220203,https://www.beeradvocate.com/beer/profile/31704/220203/,Cucurbita,31704,Agrarian Ales,1,4.13
+948,5.80,305195,https://www.beeradvocate.com/beer/profile/32412/305195/,Flash Bourb'n Barrel-aged Pumpkin Ale,32412,The Vineyard and Brewery at Hershey,1,3.5
+949,7.00,198701,https://www.beeradvocate.com/beer/profile/34636/198701/,Oodalolly Pumpkin Ale,34636,Robin Hood Brewing Co. (Home D Pizzeria),1,3.69
+950,5.10,149549,https://www.beeradvocate.com/beer/profile/34638/149549/,Pumpkinbeer,34638,Under the Rose Brewing Company,1,4
+951,6.00,220205,https://www.beeradvocate.com/beer/profile/31704/220205/,Von Tassel,31704,Agrarian Ales,1,3.74
+952,4.60,316205,https://www.beeradvocate.com/beer/profile/42015/316205/,Pumpkin Ale,42015,Merrimack Ales,1,3.83
+953,7.20,105006,https://www.beeradvocate.com/beer/profile/1550/105006/,Pumpkin Smasher,1550,Rock Bottom Restaurant & Brewery,1,3.75
+954, ? ,309811,https://www.beeradvocate.com/beer/profile/27785/309811/,Pumpkin Ale,27785,Brigadoon Brewery & Brew School,1,3.71
+955,5.25,186163,https://www.beeradvocate.com/beer/profile/41439/186163/,"U-Pick, Pumpkin Porter",41439,Lithology Brewing Co.,1,3.69
+956,7.50,194099,https://www.beeradvocate.com/beer/profile/38386/194099/,Pun'kTin Ale,38386,Tin Cannon Brewing Company,1,3.79
+957,6.80,263733,https://www.beeradvocate.com/beer/profile/30201/263733/,Pumpkin Ale,30201,HooDoo Brewing,1,3.81
+958,6.50,156469,https://www.beeradvocate.com/beer/profile/38653/156469/,Viñeta Pumpkin Ale,38653,Cervecería Artesanal de Occidente,1,4.49
+959,7.20,173877,https://www.beeradvocate.com/beer/profile/34443/173877/,Orange Poison,34443,Birrificio Pontino,1,3.81
+960,5.20,252981,https://www.beeradvocate.com/beer/profile/1475/252981/,Fire Roasted White Pumpkin Ale,1475,Maumee Bay Brewing Company,1,3.48
+961,4.80,253237,https://www.beeradvocate.com/beer/profile/46862/253237/,Pumpkin,46862,Four Generals Brewing,1,3.99
+962,7.50,141878,https://www.beeradvocate.com/beer/profile/31004/141878/,Super Creep,31004,Worthy Brewing Co.,1,4
+963,6.20,316470,https://www.beeradvocate.com/beer/profile/32481/316470/,Cheating the Gallows,32481,Bad Tom Smith Brewing,1,3.46
+964,5.80,186168,https://www.beeradvocate.com/beer/profile/273/186168/,"Sweetwater Great Pumpkin, Georgia Brown",273,SweetWater Brewing Company,1,2.71
+965,8.10,144953,https://www.beeradvocate.com/beer/profile/25844/144953/,PumpKing County,25844,Keg & Lantern Brewing Co,1,3.83
+966,8.50,265018,https://www.beeradvocate.com/beer/profile/19765/265018/,Squashy McBourbonface,19765,Black Raven Brewing Co.,1,3.5
+967,5.40,265019,https://www.beeradvocate.com/beer/profile/4378/265019/,The Man From S.Q.U.A.S.H.,4378,Georgetown Brewing Company,1,3.54
+968,5.60,32059,https://www.beeradvocate.com/beer/profile/11689/32059/,No. 16 Pumpkin Ale,11689,Gella's Diner & Lb. Brewing Co.,1,3.71
+969,5.10,314939,https://www.beeradvocate.com/beer/profile/49755/314939/,Thank Gourd,49755,Barnshed Brewing,1,3.56
+970,9.00,308284,https://www.beeradvocate.com/beer/profile/27243/308284/,All Hallows' Eve,27243,Spider Bite Beer Company,1,4.2
+971,7.20,307006,https://www.beeradvocate.com/beer/profile/33589/307006/,Smoked Pumpkin Ale,33589,Columbia Kettle Works,1,3.5
+972,7.10,165695,https://www.beeradvocate.com/beer/profile/39853/165695/,Witchy Woman,39853,The Cebruery,1,4.27
+973,7.80,255295,https://www.beeradvocate.com/beer/profile/28807/255295/,Pumpkin Ale,28807,Fossil Cove Brewing Co.,1,4
+974, ? ,143680,https://www.beeradvocate.com/beer/profile/742/143680/,Pumpkin Ale,742,District ChopHouse & Brewery,1,3.5
+975,9.50,313152,https://www.beeradvocate.com/beer/profile/41111/313152/,Rye So Punkee?,41111,Twinpanzee Brewing Company,1,3.74
+976,7.80,252992,https://www.beeradvocate.com/beer/profile/44110/252992/,Pumpkin Ale,44110,Harty Brewing Company,1,4
+977,5.50,255041,https://www.beeradvocate.com/beer/profile/46656/255041/,Pumpkin Ale,46656,Iron Hill Brewery & Restaurant,1,3.66
+978,7.50,205378,https://www.beeradvocate.com/beer/profile/35481/205378/,Pumpkin Jitters,35481,Hamilton Family Brewery,1,3.59
+979, ? ,144706,https://www.beeradvocate.com/beer/profile/22122/144706/,Gordo Big Pumpkin Ale,22122,Ram Restaurant & Brewery - Sunrise Village,1,4.25
+980,5.80,301634,https://www.beeradvocate.com/beer/profile/32412/301634/,Flash Merloaded Barrel-aged Pumpkin Ale,32412,The Vineyard and Brewery at Hershey,1,3.53
+981,7.00,257602,https://www.beeradvocate.com/beer/profile/28440/257602/,Pumpkin Ale,28440,ZwanzigZ,1,4.09
+982,4.60,75844,https://www.beeradvocate.com/beer/profile/24655/75844/,Foolish Fire Pumpkin Ale,24655,Mimbres Valley Brewing Company,1,2.43
+983,9.50,208709,https://www.beeradvocate.com/beer/profile/32758/208709/,Coup D'Etat,32758,Castle Grill / Red Castle Brewery & Distillery,1,4
+984,9.00,148549,https://www.beeradvocate.com/beer/profile/1432/148549/,Barking Bulldog,1432,Jackie O's Pub & Brewery,1,4
+985,8.00,151365,https://www.beeradvocate.com/beer/profile/31920/151365/,Skuld,31920,FATE Brewing Company,1,4
+986,4.70,285767,https://www.beeradvocate.com/beer/profile/33135/285767/,Pumpkin In The Rye,33135,Brewster River Pub & Grill,1,3.91
+987,5.50,104263,https://www.beeradvocate.com/beer/profile/30584/104263/,Pumpkin Ale,30584,Thorn Street Brewery,1,4
+988,6.00,194631,https://www.beeradvocate.com/beer/profile/35047/194631/,Pat's Pumpkin You Up,35047,Stoneyard Brewing Company,1,4.29
+989, ? ,63815,https://www.beeradvocate.com/beer/profile/1872/63815/,Pumpkinfest,1872,McKenzie Brew House,1,3.67
+990,5.40,307784,https://www.beeradvocate.com/beer/profile/50629/307784/,Save Room For Pie,50629,Saucy Brew Works,1,3.22
+991,8.00,307787,https://www.beeradvocate.com/beer/profile/46535/307787/,TF Bourbon Pumpkin Ale,46535,Tattered Flag Brewery & Still Works,1,4
+992,7.20,308043,https://www.beeradvocate.com/beer/profile/48361/308043/,Beer 30 Mystery Nibs,48361,Bone Hook Brewing Co.,1,4.13
+993, ? ,316747,https://www.beeradvocate.com/beer/profile/51264/316747/,Bière d'Halloween,51264,Brasserie des 3 Croquants,1,3.59
+994,6.00,301645,https://www.beeradvocate.com/beer/profile/30239/301645/,Positively Pumpkin,30239,Half Full Brewery,1,3.77
+995,6.00,322894,https://www.beeradvocate.com/beer/profile/32600/322894/,Pumpkin Ain't Easy,32600,Intracoastal Brewing Company,1,3.87
+996,8.50,304463,https://www.beeradvocate.com/beer/profile/34887/304463/,Bonhomme Sept-Heures,34887,Brasseurs du Petit-Sault,1,3.88
+997,6.30,308048,https://www.beeradvocate.com/beer/profile/46386/308048/,Pumpkin Ale,46386,Black Walnut Brewery,1,3.77
+998,5.50,315728,https://www.beeradvocate.com/beer/profile/47903/315728/,Pumpkin Ale,47903,Blewett Brewing Company,1,3.85
+999,6.50,144465,https://www.beeradvocate.com/beer/profile/34025/144465/,The Legless Horseman,34025,Chaos Mountain Brewing,1,4.25
+1000,8.50,310353,https://www.beeradvocate.com/beer/profile/12959/310353/,"Imperial ""Rye""Der",12959,Captain Lawrence Brewing Co.,1,4.15
+1001,8.00,319826,https://www.beeradvocate.com/beer/profile/24690/319826/,Barrel-aged Imperial Pumpkin Porter (NOT spiced!),24690,Throwback Brewery,1,3.77
+1002,7.60,203859,https://www.beeradvocate.com/beer/profile/34958/203859/,Pumpkin Pie Felicia,34958,Chain Reaction Brewing Company,1,3.87
+1003, ? ,144723,https://www.beeradvocate.com/beer/profile/12003/144723/,Pumpkin Ale,12003,Emmett's Brewing Company,1,3.75
+1004,6.20,146003,https://www.beeradvocate.com/beer/profile/33418/146003/,Pumpkin Rye,33418,Groundswell Brewing Company,1,3.75
+1005,9.70,308051,https://www.beeradvocate.com/beer/profile/25957/308051/,Pumpkin Giant,25957,Market Garden Brewery,1,3.55
+1006,6.50,305748,https://www.beeradvocate.com/beer/profile/46535/305748/,Pumpkin Coffee Ale,46535,Tattered Flag Brewery & Still Works,1,3.83
+1007,10.00,199765,https://www.beeradvocate.com/beer/profile/42318/199765/,JackEau,42318,The Brewing Projekt,1,3.76
+1008,5.20,318552,https://www.beeradvocate.com/beer/profile/38102/318552/,Pumpkin Latte,38102,Molly Pitcher Brewing Company,1,3.75
+1009, ? ,63833,https://www.beeradvocate.com/beer/profile/3965/63833/,Pint O' Pumpkin Ale,3965,Anacapa Brewing Company,1,3.45
+1010,7.00,137050,https://www.beeradvocate.com/beer/profile/11412/137050/,Vendredi 13,11412,Bedondaine & Bedons Ronds,1,3.05
+1011,6.10,254300,https://www.beeradvocate.com/beer/profile/30209/254300/,Carved Pumpkin Ale,30209,Canal Park Brewing Co.,1,3.5
+1012,6.50,208478,https://www.beeradvocate.com/beer/profile/33841/208478/,Squash Buckler,33841,Edge Brewing Company,1,3.7
+1013,6.00,121694,https://www.beeradvocate.com/beer/profile/28635/121694/,Funkin Pumpkin,28635,Freedom's Edge Brewing Co.,1,3.5
+1014,8.00,197471,https://www.beeradvocate.com/beer/profile/32910/197471/,Scott's Imperial Pumpkin Beer,32910,Station 26 Brewing Co.,1,4.08
+1015,5.00,195935,https://www.beeradvocate.com/beer/profile/17960/195935/,"The Gourd, The Bad, And The Malty",17960,Three Creeks Brewing Co.,1,3.87
+1016,5.00,196447,https://www.beeradvocate.com/beer/profile/19911/196447/,One Eyed Pumpkin People Eater,19911,Salmon River Brewery,1,3.33
+1017,7.60,197985,https://www.beeradvocate.com/beer/profile/18724/197985/,Pumpkin Spice Latte Stout,18724,Old Forge Brewing Company,1,3.72
+1018,10.00,92257,https://www.beeradvocate.com/beer/profile/24180/92257/,Pumpkin Barleywine,24180,Wild Wolf Brewing Company,1,4
+1019,5.25,315489,https://www.beeradvocate.com/beer/profile/587/315489/,Country Bumpkin - Pumpkin Ale,587,Long Valley Pub & Brewery,1,3.75
+1020,6.20,192097,https://www.beeradvocate.com/beer/profile/31377/192097/,Easy Peasy Pumpkin Peach,31377,Gordon Street Tavern,1,4.01
+1021,6.80,108130,https://www.beeradvocate.com/beer/profile/32636/108130/,Pump Up The Volume,32636,Hi-Fi Brewing Co.,1,3.5
+1022,5.70,163428,https://www.beeradvocate.com/beer/profile/226/163428/,Pumpkin Spiced Wheat,226,Nashoba Valley Brewery,1,3.68
+1023,8.70,221029,https://www.beeradvocate.com/beer/profile/368/221029/,Bourbon Pumpkinataur,368,Capital Brewery,1,4.25
+1024,6.80,107109,https://www.beeradvocate.com/beer/profile/33474/107109/,Fall Harvest Ale,33474,CoStar Brewing,1,4
+1025,5.70,309349,https://www.beeradvocate.com/beer/profile/49086/309349/,Disturbed Pumpkin Ale,49086,The Farm Brewery at Broad Run,1,4.06
+1026,6.00,152934,https://www.beeradvocate.com/beer/profile/31982/152934/,Happy Jack,31982,Bier Factory Rapperswil AG,1,3.82
+1027,7.00,252262,https://www.beeradvocate.com/beer/profile/46718/252262/,King Of Tricks,46718,Collusion Tap Works,1,3.6
+1028,6.30,303976,https://www.beeradvocate.com/beer/profile/28188/303976/,Bumpkin,28188,Country Boy Brewing,1,3.75
+1029,5.80,307049,https://www.beeradvocate.com/beer/profile/27768/307049/,Pumpkin Brew,27768,Lone Tree Brewing Company,1,4.17
+1030,9.20,249449,https://www.beeradvocate.com/beer/profile/28569/249449/,Jack O' Ale,28569,Obed & Isaac's Microbrewery & Eatery,1,3.75
+1031,5.60,309354,https://www.beeradvocate.com/beer/profile/33707/309354/,Pumpkin Ale,33707,Tributary Brewing Co.,1,3.75
+1032, ? ,147819,https://www.beeradvocate.com/beer/profile/36539/147819/,Nitro Pumpkin Ale,36539,Mockery Brewing Co.,1,2.75
+1033,6.60,151916,https://www.beeradvocate.com/beer/profile/33273/151916/,Peter Peter Pumpkin Brown Ale,33273,7th Settlement Brewery,1,3.43
+1034,5.50,306540,https://www.beeradvocate.com/beer/profile/49781/306540/,Oh My Gourd,49781,Backyard Brewery & Kitchen,1,3.8
+1035,5.00,306285,https://www.beeradvocate.com/beer/profile/43890/306285/,Irma Gourd,43890,Pinellas Ale Works,1,3.89
+1036,5.50,311149,https://www.beeradvocate.com/beer/profile/48661/311149/,Pump King,48661,Selfmade Brewery,1,3.77
+1037,4.20,309614,https://www.beeradvocate.com/beer/profile/34006/309614/,Pumpkin Farmhouse,34006,Funk Brewing Company,1,3.25
+1038,8.90,196463,https://www.beeradvocate.com/beer/profile/28552/196463/,TIM Curry Imperial Pumpkin Ale,28552,CAUTION: Brewing Co.,1,3.25
+1039,8.50,199536,https://www.beeradvocate.com/beer/profile/33888/199536/,Rum Barrel Aged Fall,33888,Six Ten Brewing,1,3.8
+1040,5.70,205936,https://www.beeradvocate.com/beer/profile/31059/205936/,Pumpkin Brown Ale,31059,Culture Brewing Co.,1,3.9
+1041,8.40,147312,https://www.beeradvocate.com/beer/profile/37758/147312/,Somethin Pumpkin,37758,Essential Bean (EB) Coffee & Pub,1,3.75
+1042,4.00,148848,https://www.beeradvocate.com/beer/profile/29962/148848/,Pumpkin Ale,29962,Shenandoah Valley Brewing Co.,1,3.25
+1043,8.80,196721,https://www.beeradvocate.com/beer/profile/35229/196721/,Pompous Gourd,35229,Living The Dream Brewing Co.,1,3.77
+1044,5.20,194929,https://www.beeradvocate.com/beer/profile/38590/194929/,Professor Pumpkin ,38590,Orono Brewing Company,1,3.38
+1045,9.00,199538,https://www.beeradvocate.com/beer/profile/487/199538/,Captain Skully,487,Tampa Bay Brewing Co.,1,4.21
+1046,5.00,251507,https://www.beeradvocate.com/beer/profile/41451/251507/,Pumpkin,41451,Niagara Brewing Company,1,4.25
+1047, ? ,63859,https://www.beeradvocate.com/beer/profile/6371/63859/,Pumpkin Ale,6371,Jack's Brewing Company,1,3
+1048,4.00,74868,https://www.beeradvocate.com/beer/profile/14/74868/,El Mariachi,14,Cambridge Brewing Company,1,4.15
+1049, ? ,75636,https://www.beeradvocate.com/beer/profile/21737/75636/,Pumpkin Ale,21737,Bandwagon Brew Pub,1,3.2
+1050,5.60,341365,https://www.beeradvocate.com/beer/profile/34281/341365/,Pumpkin Pie,34281,Cloud 9 Brewery,1,3.12
+1051, ? ,45941,https://www.beeradvocate.com/beer/profile/4929/45941/,Pumpkinhead Ale,4929,Liberty Steakhouse Brewery,1,3.05
+1052,5.10,148086,https://www.beeradvocate.com/beer/profile/700/148086/,P-Smoove,700,Elysian Brewing Company,1,3.59
+1053,9.80,143735,https://www.beeradvocate.com/beer/profile/27917/143735/,Choc O' Lantern,27917,Strange Roots Experimental Ales,1,4.08
+1054,4.60,217719,https://www.beeradvocate.com/beer/profile/30007/217719/,Rumkin,30007,3rd Wave Brewing Company,1,3.11
+1055, ? ,310903,https://www.beeradvocate.com/beer/profile/48913/310903/,This is not a Pumpkin Beer,48913,Southern Swells Brewing Company,1,3.52
+1056,6.20,268664,https://www.beeradvocate.com/beer/profile/2642/268664/,Fat Pumpkin,2642,North by Northwest Restaurant & Brewery,1,3
+1057,5.00,309112,https://www.beeradvocate.com/beer/profile/48414/309112/,Jack-Ale-Lantern,48414,Lost Signal Brewing Company,1,3.73
+1058,5.50,320120,https://www.beeradvocate.com/beer/profile/38374/320120/,"""Belgian Punk"" Pumpkin Ale",38374,Hop Nuts Brewing,1,4
+1059,5.75,198777,https://www.beeradvocate.com/beer/profile/43045/198777/,The Great Pumpkin,43045,Tilted Axis Brewing Company,1,3.55
+1060,4.80,253049,https://www.beeradvocate.com/beer/profile/47005/253049/,Pumpkin Roll,47005,Chagrin Beer Company,1,3.54
+1061, ? ,314491,https://www.beeradvocate.com/beer/profile/38139/314491/,Headless Gentleman,38139,Strange Land Brewery,1,3.35
+1062,4.80,101756,https://www.beeradvocate.com/beer/profile/2482/101756/,Clocktower The Pumpkin,2482,The Clocktower Brew Pub - Glebe,1,2.81
+1063,6.50,313980,https://www.beeradvocate.com/beer/profile/31793/313980/,Ratschernn Dark Lantern,31793,Ratsherrn Brauerei GmbH,1,3.53
+1064,6.00,198269,https://www.beeradvocate.com/beer/profile/2669/198269/,Black Forest Oh Snap,2669,Black Forest Brew Haus,1,4.08
+1065,8.10,234365,https://www.beeradvocate.com/beer/profile/16402/234365/,Oh My Gourd,16402,Red Eye Brewing Company,1,3.69
+1066,6.80,254589,https://www.beeradvocate.com/beer/profile/34973/254589/,Eerie Canal Pumpkin Ale,34973,Lock 32 Brewing Company,1,3.77
+1067,5.30,258941,https://www.beeradvocate.com/beer/profile/32403/258941/,CoCo Morita,32403,Hoots Roller Bar & Beer Co.,1,3.71
+1068,7.00,146558,https://www.beeradvocate.com/beer/profile/26933/146558/,Padawan Pumpkin [Bourbon Barrel-Aged],26933,Corcoran Brewing Company,1,3.5
+1069,8.50,157822,https://www.beeradvocate.com/beer/profile/31111/157822/,Barking Pumpkin Ale,31111,North Mountain Brewing Co.,1,3.95
+1070,6.35,187262,https://www.beeradvocate.com/beer/profile/26990/187262/,Coco Lantern,26990,NoDa Brewing Company,1,3.9
+1071,5.50,121728,https://www.beeradvocate.com/beer/profile/6045/121728/,Rum Barrel-Aged Brett Pumpkin Ale,6045,Iron Hill Brewery & Restaurant,1,3.75
+1072,5.80,198017,https://www.beeradvocate.com/beer/profile/40599/198017/,Pumpkin Ale,40599,White Squirrel Brewery,1,3.5
+1073,9.10,274561,https://www.beeradvocate.com/beer/profile/45330/274561/,Trumpkin - Orange And Full Of Shit!,45330,Goonda Beersmiths,1,3.75
+1074,5.00,147585,https://www.beeradvocate.com/beer/profile/1454/147585/,Halloween Jack Pumpkin Ale,1454,Broad Ripple Brew Pub,1,4.8
+1075,8.40,248961,https://www.beeradvocate.com/beer/profile/33463/248961/,Sherwood Imperial Pumpkin Ale,33463,Back Bay Brewing Co.,1,3.77
+1076,6.20,74882,https://www.beeradvocate.com/beer/profile/25812/74882/,Belgian Pumpkin Spiced Ale,25812,Roc Brewing Company,1,3.94
+1077,6.90,228738,https://www.beeradvocate.com/beer/profile/32941/228738/,The Pumpkin King,32941,Old Redwood Brewing Company,1,3.46
+1078,7.10,253058,https://www.beeradvocate.com/beer/profile/43803/253058/,Devils Deal,43803,Stone Church Pizza House and Brewpub,1,3.26
+1079,12.00,257156,https://www.beeradvocate.com/beer/profile/33375/257156/,Barrel Aged Apumpalyptica,33375,Wiley Roots Brewing Co,1,4.16
+1080,5.30,323716,https://www.beeradvocate.com/beer/profile/51679/323716/,Pumpkin Pie Ale,51679,Common Sense Brewing,1,3.3
+1081, ? ,193156,https://www.beeradvocate.com/beer/profile/31854/193156/,Jumpin' Pumpkin Ale,31854,Enki Brewing,1,4.25
+1082,6.70,317317,https://www.beeradvocate.com/beer/profile/47637/317317/,Scarecrow Juice,47637,Wet Ticket Brewing,1,3.5
+1083,6.00,204422,https://www.beeradvocate.com/beer/profile/35835/204422/,Scarecrow Pumpkin Ale,35835,Joyride Brewing Company,1,3.48
+1084,7.00,287366,https://www.beeradvocate.com/beer/profile/32441/287366/,Pumpkin Ale,32441,Conyngham Brewing Company,1,3.34
+1085,7.20,317574,https://www.beeradvocate.com/beer/profile/51122/317574/,Ridgeway Pumpkin Ale,51122,PIVO Brewery,1,5
+1086,6.00,257670,https://www.beeradvocate.com/beer/profile/46190/257670/,Pig Iron Pumpkin,46190,Pig Iron Brewing Co,1,3.25
+1087,9.00,315527,https://www.beeradvocate.com/beer/profile/16096/315527/,Bourbon Barrel-aged Imperial Pumpkin,16096,Allentown Brew Works,1,3.63
+1088,4.00,257415,https://www.beeradvocate.com/beer/profile/47100/257415/,Tykovka (Тыковка),47100,Varyag,1,3.78
+1089,5.50,198536,https://www.beeradvocate.com/beer/profile/34786/198536/,Orange Is The New Black-o-Lantern,34786,Tow Yard Brewing,1,3.25
+1090, ? ,48008,https://www.beeradvocate.com/beer/profile/9617/48008/,Bastone Belgian Pumpkin Porter,9617,Bastone Brewery,1,3.67
+1091,5.10,195976,https://www.beeradvocate.com/beer/profile/33144/195976/,Pumpkin Hunter,33144,Devils Backbone Brewing Company - The Outpost,1,3.5
+1092,9.50,310921,https://www.beeradvocate.com/beer/profile/33530/310921/,Barrel Aged Imperial Pumpkin Ale,33530,Wolf's Ridge Brewing,1,4.36
+1093,5.20,202890,https://www.beeradvocate.com/beer/profile/32770/202890/,Happy Jack Pumpkin Ale,32770,Heavy Riff Brewing Company,1,4
+1094,5.50,216202,https://www.beeradvocate.com/beer/profile/43969/216202/,Pumpkin Ale,43969,Lumber House Brewing,1,3.75
+1095, ? ,217994,https://www.beeradvocate.com/beer/profile/29347/217994/,Dyniastia,29347,Browar Pinta,1,2.9
+1096,5.90,308362,https://www.beeradvocate.com/beer/profile/914/308362/,Pumpkin Ale,914,Lewis & Clark Brewing Company,1,3.75
+1097,6.90,311947,https://www.beeradvocate.com/beer/profile/45508/311947/,Pumpkin Party,45508,Gebrouwen Door Vrouwen,1,3
+1098,6.00,201612,https://www.beeradvocate.com/beer/profile/17140/201612/,The Big Dinner,17140,War Horse Brewing Company,1,4.06
+1099,5.80,233100,https://www.beeradvocate.com/beer/profile/35813/233100/,Trashed Pumpkin,35813,Top Rung Brewing Company,1,3.5
+1100,9.00,103564,https://www.beeradvocate.com/beer/profile/2414/103564/,Pumpkin Ale,2414,Tied House Cafe & Brewery,1,3.75
+1101,6.30,193676,https://www.beeradvocate.com/beer/profile/39896/193676/,Peter's Propensity,39896,Lineage Brewing,1,3.5
+1102, ? ,196493,https://www.beeradvocate.com/beer/profile/16818/196493/,Pumpkin Ale,16818,Berwick Brewing Company,1,4.3
+1103,7.20,259727,https://www.beeradvocate.com/beer/profile/31247/259727/,Praxis Pumpkin,31247,Cervejaria Praxis,1,3.77
+1104,8.40,141968,https://www.beeradvocate.com/beer/profile/33639/141968/,Pumpkin Pi,33639,Lock 27 Brewing,1,4
+1105,7.00,211088,https://www.beeradvocate.com/beer/profile/10796/211088/,Flying Monkeys Time Warp,10796,Flying Monkeys Craft Brewery,1,3.87
+1106,5.70,312208,https://www.beeradvocate.com/beer/profile/735/312208/,Smoky Hollow,735,21st Amendment Brewery,1,4
+1107,8.60,155025,https://www.beeradvocate.com/beer/profile/1069/155025/,Pumpkin Junction,1069,Elliott Bay Brewing Co.,1,4.23
+1108,6.70,228497,https://www.beeradvocate.com/beer/profile/42808/228497/,Shrumpkin,42808,Woodstock Brewhouse,1,3.73
+1109,5.60,307346,https://www.beeradvocate.com/beer/profile/40576/307346/,Pumpkin Milkshake Ale,40576,Abe Erb Brewing Co.,1,3.79
+1110,5.30,193426,https://www.beeradvocate.com/beer/profile/39391/193426/,Roasted Pumpkin ESB,39391,Black Label Brewing Company,1,3.75
+1111,6.50,260243,https://www.beeradvocate.com/beer/profile/47410/260243/,Pumpkin Brown Ale,47410,Bull Island Brewing Company,1,3.67
+1112,8.50,104084,https://www.beeradvocate.com/beer/profile/30314/104084/,Pumpkin Up The Jam,30314,Fairhope Brewing Company,1,4
+1113,7.20,314004,https://www.beeradvocate.com/beer/profile/35992/314004/,Pumpkin Spice Dunkelweiss,35992,Brew Hub,1,3.98
+1114, ? ,125844,https://www.beeradvocate.com/beer/profile/34006/125844/,Funkin Ale,34006,Funk Brewing Company,1,3.75
+1115,9.10,200085,https://www.beeradvocate.com/beer/profile/24600/200085/,Scary Spice,24600,Figueroa Mountain Brewing Co.,1,4.22
+1116,6.60,247701,https://www.beeradvocate.com/beer/profile/42665/247701/,Autumn Is Rising,42665,Loudoun Brewing Co.,1,4
+1117,7.60,328086,https://www.beeradvocate.com/beer/profile/41543/328086/,Pumpkin Pi,41543,San Fernando Brewing Co.,1,3.53
+1118,15.40,313238,https://www.beeradvocate.com/beer/profile/30/313238/,Scotchkin,30,Avery Brewing Company,1,4.62
+1119,6.20,197527,https://www.beeradvocate.com/beer/profile/35589/197527/,Pumpkin Ale,35589,Blue Nose Brewery,1,3.46
+1120,6.00,199319,https://www.beeradvocate.com/beer/profile/1550/199319/,Pumpkin Harvest Ale,1550,Rock Bottom Restaurant & Brewery,1,3
+1121,6.50,205207,https://www.beeradvocate.com/beer/profile/2681/205207/,Punky Beerster,2681,Oskar Blues Grill & Brew,1,3.88
+1122,5.50,154775,https://www.beeradvocate.com/beer/profile/35246/154775/,Pumpkin Ale,35246,Lowertown Brewery,1,2.75
+1123,6.60,255127,https://www.beeradvocate.com/beer/profile/9797/255127/,Peter Peter Pumpkin,9797,North Country Brewing,1,4.15
+1124,5.50,308120,https://www.beeradvocate.com/beer/profile/37442/308120/,The Joy Is In the Pumpkin Consumption,37442,Moo-Duck Brewery,1,3.77
+1125,8.30,313496,https://www.beeradvocate.com/beer/profile/31733/313496/,Imperial Hessian Pumpkin Ale,31733,Taos Mesa Brewing,1,3.19
+1126,5.90,198809,https://www.beeradvocate.com/beer/profile/41859/198809/,Calaverita Pumpkin,41859,Cervecería Península,1,3.6
+1127,10.50,191385,https://www.beeradvocate.com/beer/profile/6045/191385/,Imperial Pumpkin Ale,6045,Iron Hill Brewery & Restaurant,1,3.93
+1128,8.50,193689,https://www.beeradvocate.com/beer/profile/34962/193689/,Pumpkin Ale,34962,Elk Brewing,1,3.35
+1129,5.20,254620,https://www.beeradvocate.com/beer/profile/31272/254620/,Pumpkin Latte,31272,Martin House Brewing Company,1,3.15
+1130,4.50,266909,https://www.beeradvocate.com/beer/profile/46709/266909/,Jack's Haunted Harvest,46709,Jack's Run Brewing Co,1,3.58
+1131,5.00,251805,https://www.beeradvocate.com/beer/profile/7282/251805/,Bio Kürbisbier,7282,Brauerei Hofstetten Krammer GmbH & Co. KG,1,3.99
+1132,8.30,255901,https://www.beeradvocate.com/beer/profile/37593/255901/,Tricks N' Treats,37593,Cervejaria Küd,1,3.71
+1133,6.20,193181,https://www.beeradvocate.com/beer/profile/30232/193181/,Pumpkin Spiced Latte,30232,The Tap Brewery,1,4
+1134, ? ,143006,https://www.beeradvocate.com/beer/profile/37287/143006/,Jack-O-Lantern,37287,Zeta Brewing Company,1,4.25
+1135, ? ,301470,https://www.beeradvocate.com/beer/profile/49620/301470/,Pumpkin Ale,49620,Brewer Querétaro,1,4.85
+1136,5.40,307358,https://www.beeradvocate.com/beer/profile/556/307358/,Pagano’s Pumpkin Patch,556,City Steam Brewery Café,1,4.12
+1137,3.80,45726,https://www.beeradvocate.com/beer/profile/14/45726/,Black Magic,14,Cambridge Brewing Company,1,4.1
+1138,5.80,257182,https://www.beeradvocate.com/beer/profile/34222/257182/,Caff-O-Lantern,34222,Four Quarters Brewing Co.,1,4.24
+1139,5.00,287904,https://www.beeradvocate.com/beer/profile/47184/287904/,Jack My Lantern,47184,Mirror Twin Brewing,1,3.54
+1140,8.00,161184,https://www.beeradvocate.com/beer/profile/39335/161184/,Pumpkin Porter,39335,Main & Mill Brewing Co.,1,3.25
+1141,5.00,145313,https://www.beeradvocate.com/beer/profile/2248/145313/,Cuivrée à La Citrouille,2248,La Barberie,1,3.84
+1142,8.50,40097,https://www.beeradvocate.com/beer/profile/377/40097/,Beam Pumpkin (Jim Beam Barrel Aged),377,Glacier Brewhouse,1,4.5
+1143, ? ,304033,https://www.beeradvocate.com/beer/profile/23694/304033/,The Sincerest,23694,Wandering Star Brewing Company,1,4.34
+1144,6.70,256161,https://www.beeradvocate.com/beer/profile/43219/256161/,Anniversary-scary Ale,43219,Lariat Lodge Brewing Company,1,3.69
+1145,7.20,280994,https://www.beeradvocate.com/beer/profile/6339/280994/,Duck Vader Pumpkin Porter,6339,The Dodging Duck Brewhaus,1,4.03
+1146,5.50,108962,https://www.beeradvocate.com/beer/profile/29652/108962/,Illawarra Smashing Rumpkin,29652,Illawarra Brewing Company,1,3.57
+1147,7.50,320162,https://www.beeradvocate.com/beer/profile/16289/320162/,Stingy Jack Pumpkin Ale,16289,Laurelwood Public House & Brewery,1,4
+1148,5.00,200099,https://www.beeradvocate.com/beer/profile/42622/200099/,Kilted Pumpkin,42622,Conversion Brewing,1,4
+1149, ? ,74404,https://www.beeradvocate.com/beer/profile/25593/74404/,Jack-Ale-Lantern,25593,Jackalope Brewing Company,1,3.02
+1150,4.30,212132,https://www.beeradvocate.com/beer/profile/33763/212132/,Fall Harvest,33763,Banger Brewing,1,3.48
+1151,6.75,308901,https://www.beeradvocate.com/beer/profile/50387/308901/,Pumpkin Stout,50387,Ono Brewing Company,1,3.83
+1152,4.50,257701,https://www.beeradvocate.com/beer/profile/22617/257701/,Chairman Of The Gourd,22617,New Jersey Beer Company,1,4.05
+1153, ? ,198822,https://www.beeradvocate.com/beer/profile/28556/198822/,Reanimation - Imperial Pumpkin Ale Aged In Whisky Barrels,28556,Triple Digit Brewing Co.,1,3.74
+1154,7.40,195751,https://www.beeradvocate.com/beer/profile/25898/195751/,Rum Pumpkin,25898,Green Room Brewing,1,4
+1155,6.00,196007,https://www.beeradvocate.com/beer/profile/32645/196007/,Pumpkin Pie Porter,32645,Stone's Throw Brewing,1,3.75
+1156,4.50,140968,https://www.beeradvocate.com/beer/profile/13447/140968/,Pumpkin Head Ted,13447,Lander Brewing Company,1,3.65
+1157,5.50,320169,https://www.beeradvocate.com/beer/profile/44980/320169/,Nutty Pumpkin,44980,Lovelady Brewing,1,4
+1158,5.10,198826,https://www.beeradvocate.com/beer/profile/30516/198826/,#Psl,30516,Black Bottle Brewery,1,3.06
+1159, ? ,146091,https://www.beeradvocate.com/beer/profile/18946/146091/,Pumpkinstein,18946,Cave Mountain Brewing Company,1,3.5
+1160,5.90,303019,https://www.beeradvocate.com/beer/profile/46328/303019/,Harvest Nights W/ Marshmallow,46328,Lost Tavern Brewing,1,4.28
+1161,9.50,143020,https://www.beeradvocate.com/beer/profile/30162/143020/,Bonked! Pumpkin Ale,30162,Cycler's Brewing,1,3.35
+1162,6.20,168108,https://www.beeradvocate.com/beer/profile/35959/168108/,Peter Peter Pumkin Drinker Porter,35959,Backroom Brewery,1,3.52
+1163,5.80,255661,https://www.beeradvocate.com/beer/profile/44657/255661/,Pumkin Patriot,44657,Three Mile Brewing Co.,1,3.93
+1164,10.00,260269,https://www.beeradvocate.com/beer/profile/45702/260269/,Redrumpum,45702,Rebel Kettle Brewing,1,4
+1165,6.20,196525,https://www.beeradvocate.com/beer/profile/3353/196525/,Pumpkin Ale,3353,Rockyard Brewing,1,2.59
+1166,7.00,202927,https://www.beeradvocate.com/beer/profile/43243/202927/,Tria Pumpkin Ale,43243,Cervejaria Tria - Mundo Cervejeiro,1,3.5
+1167,5.60,307119,https://www.beeradvocate.com/beer/profile/50628/307119/,Shuckin' Pumpkin,50628,Big Oyster Brewery,1,3.75
+1168,5.20,312239,https://www.beeradvocate.com/beer/profile/38267/312239/,Pumpkin Pie Ale,38267,Johnson City Brewing Company,1,3.75
+1169,5.50,303537,https://www.beeradvocate.com/beer/profile/7722/303537/,Pumpkin Pie Porter,7722,Huske Hardware House Brewing Company,1,3.21
+1170, ? ,106418,https://www.beeradvocate.com/beer/profile/3793/106418/,Pumpkin Ale,3793,Kelly's Brewpub,1,3.5
+1171,5.00,52403,https://www.beeradvocate.com/beer/profile/20988/52403/,Pumpkin Beer,20988,Becker Brewing Company,1,3.45
+1172, ? ,196531,https://www.beeradvocate.com/beer/profile/38708/196531/,Pump Rock,38708,District 14 Brewery & Pub,1,3.29
+1173, ? ,86708,https://www.beeradvocate.com/beer/profile/132/86708/,Tracktown Pumpkin Ale,132,Rogue Ales,1,4.3
+1174,5.00,232116,https://www.beeradvocate.com/beer/profile/33888/232116/,Pumpkin Ale,33888,Six Ten Brewing,1,4.7
+1175,7.00,259253,https://www.beeradvocate.com/beer/profile/34200/259253/,Dad's Slice,34200,Iron John's Brewing Company,1,4.41
+1176,5.00,138422,https://www.beeradvocate.com/beer/profile/33837/138422/,Hollow Head,33837,Gonzo's Biggdogg Brewing,1,4.25
+1177,5.50,104887,https://www.beeradvocate.com/beer/profile/12959/104887/,Hopped Pumpkin,12959,Captain Lawrence Brewing Co.,1,3.77
+1178, ? ,140985,https://www.beeradvocate.com/beer/profile/4412/140985/,Midnight Pumpkin,4412,B.W. Beer Works USA,1,4
+1179,6.30,306105,https://www.beeradvocate.com/beer/profile/33818/306105/,Pumpkin Pie Ale,33818,Snitz Creek Brewery,1,4
+1180,5.80,311226,https://www.beeradvocate.com/beer/profile/43054/311226/,Jacques La Lanterne,43054,Brasserie Tuque de Broue,1,2.75
+1181,5.10,53690,https://www.beeradvocate.com/beer/profile/2175/53690/,Mavericks 2009 Pumpkin Harvest Ale IV,2175,Half Moon Bay Brewing Company,1,3.22
+1182,9.00,317626,https://www.beeradvocate.com/beer/profile/514/317626/,Mashing Pumpkins 6.0,514,Jopen Bier BV Haarlem,1,3.61
+1183,10.00,56250,https://www.beeradvocate.com/beer/profile/16750/56250/,Impériale Citrouille,16750,Siboire - Dépôt,1,3.78
+1184,8.80,193979,https://www.beeradvocate.com/beer/profile/33818/193979/,Imperial Pumpkin Ale,33818,Snitz Creek Brewery,1,3.5
+1185,5.10,286140,https://www.beeradvocate.com/beer/profile/34494/286140/,Pumpkin Ale,34494,Dos Desperados Brewery,1,3.2
+1186,6.00,307388,https://www.beeradvocate.com/beer/profile/48566/307388/,Death by Pumpkin,48566,Elbeck Brews,1,3.76
+1187,6.50,255932,https://www.beeradvocate.com/beer/profile/38510/255932/,Hockey Mask Pumpkin Ale,38510,Orange Snail Brewers,1,4
+1188,7.00,102845,https://www.beeradvocate.com/beer/profile/29297/102845/,Yam Bam Thank You Ma'am,29297,Iechyd Da Brewing Company,1,3.75
+1189,8.50,123837,https://www.beeradvocate.com/beer/profile/30073/123837/,Butternut Brown,30073,Wild Woods Brewery,1,4
+1190,7.40,311231,https://www.beeradvocate.com/beer/profile/50213/311231/,Welcome Great Pumpkin Milkshake,50213,Humble Beginnings Brewing Co.,1,3
+1191, ? ,151488,https://www.beeradvocate.com/beer/profile/27110/151488/,Pumpkin Brown Ale,27110,Good Nature Farm Brewery & Tap Room - Downtown,1,4
+1192, ? ,319936,https://www.beeradvocate.com/beer/profile/33177/319936/,Pumpkin Ale,33177,Little Toad Creek Brewery & Distillery,1,4.02
+1193,8.10,192960,https://www.beeradvocate.com/beer/profile/936/192960/,Krumpkin,936,No-Li Brewhouse,1,3
+1194,9.00,194240,https://www.beeradvocate.com/beer/profile/35882/194240/,Imperial Smashing Pumpkin,35882,Whalers Brewing Company,1,3.9
+1195,6.60,158657,https://www.beeradvocate.com/beer/profile/30007/158657/,SourPatch Sour Pumpkin,30007,3rd Wave Brewing Company,1,4.13
+1196,9.00,195265,https://www.beeradvocate.com/beer/profile/37392/195265/,Imperial Pumpkin Ale,37392,Boojum Brewing Company,1,4.04
+1197,5.60,257219,https://www.beeradvocate.com/beer/profile/34231/257219/,Pumpkin Spice Ale,34231,Peoria Artisan Brewery,1,3.96
+1198, ? ,254148,https://www.beeradvocate.com/beer/profile/39737/254148/,Pumpkin,39737,Cerveceria Mamut,1,3.79
+1199,6.20,137669,https://www.beeradvocate.com/beer/profile/36699/137669/,Badúm Pumpkin Ale,36699,Cervezas Artesanas Baix Maestrat SL,1,3.01
+1200,9.90,309189,https://www.beeradvocate.com/beer/profile/596/309189/,Portsmouth Imperial Pumpkin Porter,596,Portsmouth Brewery,1,3.99
+1201,11.80,309445,https://www.beeradvocate.com/beer/profile/31326/309445/,Bourbon Barrel Aged Hail To The Dark Gourd,31326,HammerHeart Brewing Company,1,3.75
+1202,5.50,309957,https://www.beeradvocate.com/beer/profile/50873/309957/,Pumpkit Ale,50873,Bike TrAle Brewing Company,1,3.83
+1203,6.00,197574,https://www.beeradvocate.com/beer/profile/37442/197574/,Crazy Dave's Ghost Pepper Pumpkin Stout,37442,Moo-Duck Brewery,1,4
+1204,4.50,253127,https://www.beeradvocate.com/beer/profile/32326/253127/,Pumpkin Hansel,32326,Tapistry Brewing,1,3.35
+1205,5.80,199112,https://www.beeradvocate.com/beer/profile/3865/199112/,Punkinsheimer,3865,North End Tavern & Brewery,1,4
+1206,5.00,193992,https://www.beeradvocate.com/beer/profile/36448/193992/,Calabaza,36448,Northumberland Hills Brewery,1,3.58
+1207,6.00,320970,https://www.beeradvocate.com/beer/profile/49742/320970/,Harvest Ale A La Citrouille Et Epices,49742,Ferme Brassicole Des Cantons,1,3.5
+1208,5.80,256970,https://www.beeradvocate.com/beer/profile/44379/256970/,PumpToadberfest,44379,Rebel Toad Brewing Company,1,5
+1209, ? ,147915,https://www.beeradvocate.com/beer/profile/36539/147915/,Pumpkin Ale,36539,Mockery Brewing Co.,1,3.75
+1210,6.40,179659,https://www.beeradvocate.com/beer/profile/35784/179659/,Pumpkin Ale,35784,Pinelands Brewing Company,1,3.54
+1211,5.60,310731,https://www.beeradvocate.com/beer/profile/47740/310731/,Pumpkin Pie Brown Ale,47740,HiHO Brewing Co.,1,4.42
+1212,9.80,253387,https://www.beeradvocate.com/beer/profile/15032/253387/,Fall Into Pumpkin,15032,Powerhouse Restaurant And Brewery,1,4.54
+1213, ? ,141772,https://www.beeradvocate.com/beer/profile/13086/141772/,Japanese Pumpkin Ale,13086,Maihama Beer Koubou Harvestmoon Brewery At Roti's House,1,4
+1214,7.20,196301,https://www.beeradvocate.com/beer/profile/12648/196301/,Push Pumpkin,12648,Frisco Taphouse & Brewery,1,3.73
+1215, ? ,53710,https://www.beeradvocate.com/beer/profile/16048/53710/,Pumpkin Ale,16048,Hollister Brewing Co.,1,3.41
+1216,5.00,255440,https://www.beeradvocate.com/beer/profile/596/255440/,Portsmouth Pumpkin Ale W/ Spiced Rum,596,Portsmouth Brewery,1,3.75
+1217,4.70,192464,https://www.beeradvocate.com/beer/profile/23212/192464/,Elk O Lantern,23212,Elk Mountain Brewing,1,2.84
+1218,10.00,198098,https://www.beeradvocate.com/beer/profile/36710/198098/,Darkside Of The Gourdita,36710,J. Wakefield Brewing,1,3.32
+1219,5.40,144082,https://www.beeradvocate.com/beer/profile/31684/144082/,Most Irregular Pumpkin Porter,31684,Verboten Brewing and Barrel Project,1,3.83
+1220,8.00,86994,https://www.beeradvocate.com/beer/profile/18254/86994/,Punked Out,18254,Blue Canoe Brewery,1,5
+1221,8.00,254930,https://www.beeradvocate.com/beer/profile/24764/254930/,Grande Pumpion,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,1,3.5
+1222,5.50,195794,https://www.beeradvocate.com/beer/profile/28702/195794/,Boogsley's Pumpkin Ale,28702,Argilla Brewing Co.,1,3.5
+1223,5.60,99795,https://www.beeradvocate.com/beer/profile/873/99795/,Brownstone Pumpkin Ale,873,BrickHouse Brewery,1,4
+1224,5.50,201684,https://www.beeradvocate.com/beer/profile/42742/201684/,Crisp Pumpkin Ale,42742,Berlin Brewing Co.,1,3.47
+1225,6.10,201940,https://www.beeradvocate.com/beer/profile/43303/201940/,Fox-O-Lantern,43303,Fox Brewing Company,1,3.5
+1226,6.80,143061,https://www.beeradvocate.com/beer/profile/35406/143061/,Jack O Nuts,35406,Whitewall Brewing Company,1,3.5
+1227,6.00,200406,https://www.beeradvocate.com/beer/profile/39742/200406/,Pumpkin Ale,39742,Dru Bru,1,3.25
+1228,10.50,153046,https://www.beeradvocate.com/beer/profile/28556/153046/,Reanimator,28556,Triple Digit Brewing Co.,1,4.14
+1229,5.50,100054,https://www.beeradvocate.com/beer/profile/873/100054/,The Great Pumpkin,873,BrickHouse Brewery,1,3.93
+1230,7.50,106454,https://www.beeradvocate.com/beer/profile/18591/106454/,Pumpkin Spiced Latte Stout,18591,Blue Tractor BBQ & Brewery,1,4
+1231,5.10,141527,https://www.beeradvocate.com/beer/profile/34640/141527/,Refined Ghoul,34640,Refined Fool Brewing Co.,1,3.62
+1232, ? ,248279,https://www.beeradvocate.com/beer/profile/35323/248279/,Pumpkin,35323,Lazy Beach Brewing,1,5
+1233,8.50,207576,https://www.beeradvocate.com/beer/profile/28569/207576/,"Jack-O-Ale, Jack Daniels Barrel Aged",28569,Obed & Isaac's Microbrewery & Eatery,1,4.15
+1234, ? ,157912,https://www.beeradvocate.com/beer/profile/34005/157912/,Pumpkin Ale,34005,Petaluma Hills Brewing Company,1,4.24
+1235,7.80,309720,https://www.beeradvocate.com/beer/profile/35882/309720/,#PumpkinBeer,35882,Whalers Brewing Company,1,3.13
+1236,7.20,319449,https://www.beeradvocate.com/beer/profile/700/319449/,Blight Pumpkin Ale (Apocalypse Series),700,Elysian Brewing Company,1,3.5
+1237, ? ,107994,https://www.beeradvocate.com/beer/profile/12516/107994/,Squashed Ale,12516,Thirsty Dog Brewing Company,1,3.5
+1238,9.00,312282,https://www.beeradvocate.com/beer/profile/35831/312282/,Lightning,35831,Magpie Brewing Itaewon,1,4.42
+1239,7.40,327130,https://www.beeradvocate.com/beer/profile/44152/327130/,Pun King,44152,Iron Triangle Brewing Company,1,3.72
+1240,6.50,254683,https://www.beeradvocate.com/beer/profile/34508/254683/,Barrel-Aged Jack Olds Lantern,34508,Olds College Teaching Brewery,1,3.74
+1241,6.50,307676,https://www.beeradvocate.com/beer/profile/18823/307676/,Grande Pumprechaun Spice Stout...No Whip,18823,Freetail Brewing Company,1,4.41
+1242,5.10,121308,https://www.beeradvocate.com/beer/profile/33960/121308/,Harvest Brown Ale,33960,Batch Brewing Co.,1,3.5
+1243, ? ,208349,https://www.beeradvocate.com/beer/profile/34315/208349/,The Melinda,34315,Hailstorm Brewing Co.,1,4.26
+1244,7.20,309981,https://www.beeradvocate.com/beer/profile/40683/309981/,Indiana Autumn,40683,Levity Brewing Co.,1,3.86
+1245,5.60,259549,https://www.beeradvocate.com/beer/profile/8681/259549/,Basic Witches,8681,Peter B’s Brewpub,1,3.76
+1246,6.00,304862,https://www.beeradvocate.com/beer/profile/341/304862/,Sideswipe Squashing Pumpkins,341,Columbus Brewing Company,1,4.04
+1247,10.70,305374,https://www.beeradvocate.com/beer/profile/33530/305374/,All The... Pumpkin Spice Latte,33530,Wolf's Ridge Brewing,1,3.94
+1248,5.10,266719,https://www.beeradvocate.com/beer/profile/42772/266719/,Mama's Table,42772,Backward Flag Brewing Company,1,4.07
+1249,5.50,250848,https://www.beeradvocate.com/beer/profile/695/250848/,Yunkin' Pumpkin W/Cold Brew Coffee,695,Manayunk Brewery and Restaurant,1,3.68
+1250,6.20,200673,https://www.beeradvocate.com/beer/profile/41718/200673/,Nevermore Pumpkin Beer,41718,Barnett & Son Brewing Co.,1,3.57
+1251, ? ,318946,https://www.beeradvocate.com/beer/profile/193/318946/,Bourbon Pumpkin Stout,193,Anderson Valley Brewing Company,1,4
+1252,6.60,139748,https://www.beeradvocate.com/beer/profile/30492/139748/,Spiced Pumpkin Ale,30492,Bosque Brewing Co.,1,3.98
+1253, ? ,307172,https://www.beeradvocate.com/beer/profile/2513/307172/,Sun Up Hoppy Pumpkin,2513,Sun Up Brewing Co.,1,4
+1254,7.40,311524,https://www.beeradvocate.com/beer/profile/50900/311524/,Pumpkin Ale,50900,Blazing Tree Brewery,1,3.54
+1255, ? ,253156,https://www.beeradvocate.com/beer/profile/16828/253156/,Jack Pumpkin Ale,16828,The Scalehouse Brewpub,1,2.92
+1256,6.50,234982,https://www.beeradvocate.com/beer/profile/44871/234982/,LP Pumpkin Ale,44871,Lippstädter Brauerei Brauhaus Thombansen,1,3.25
+1257, ? ,151527,https://www.beeradvocate.com/beer/profile/17278/151527/,Wine Barrel Aged Sour Pumpkin,17278,Crown Brewing,1,4.12
+1258,5.20,250855,https://www.beeradvocate.com/beer/profile/45951/250855/,Portside Pumpkin Ale,45951,81Bay Brewing,1,4
+1259,9.00,201448,https://www.beeradvocate.com/beer/profile/33589/201448/,Russian Imperial Pumpkin Stout,33589,Columbia Kettle Works,1,4
+1260,5.50,196328,https://www.beeradvocate.com/beer/profile/25422/196328/,Headless Hessian,25422,Full Moon Cafe and Brewery,1,3.74
+1261,16.70,279785,https://www.beeradvocate.com/beer/profile/30/279785/,Bourbkin,30,Avery Brewing Company,1,4.25
+1262, ? ,252393,https://www.beeradvocate.com/beer/profile/986/252393/,Whiskey Oaked Pumpkin,986,Wynkoop Brewing Company,1,3.58
+1263,5.50,204268,https://www.beeradvocate.com/beer/profile/30450/204268/,Pumpkin Latte Stout,30450,Gravity Brewing,1,3.03
+1264,7.00,204780,https://www.beeradvocate.com/beer/profile/31230/204780/,SHAW Pumpkin Ale,31230,Ten 55 Brewing,1,3.53
+1265,5.60,197870,https://www.beeradvocate.com/beer/profile/40790/197870/,The Freaks Come Out At Night,40790,Hellbent Brewing Company,1,3.93
+1266,6.00,311278,https://www.beeradvocate.com/beer/profile/41559/311278/,Pumpkin Enemy,41559,Hecatombe Brewing Co,1,4.1
+1267,8.20,309743,https://www.beeradvocate.com/beer/profile/16352/309743/,Halloween Spooky,16352,Blue Mountain Brewery,1,4.22
+1268,6.20,311279,https://www.beeradvocate.com/beer/profile/28849/311279/,Pim pam pumkin,28849,Cerveza Tyris,1,4
+1269,7.90,253681,https://www.beeradvocate.com/beer/profile/44874/253681/,Don't Call Me Pumpkin,44874,BadWolf Brewing Company (Big BadWolf),1,3.58
+1270, ? ,143602,https://www.beeradvocate.com/beer/profile/33027/143602/,Bourbon Barrel Aged Pumpkin Pie,33027,Brew Rebellion,1,4.58
+1271,9.00,147186,https://www.beeradvocate.com/beer/profile/1069/147186/,Kill Bill 5,1069,Elliott Bay Brewing Co.,1,3.5
+1272,8.10,206067,https://www.beeradvocate.com/beer/profile/1162/206067/,Bourbon Barrel Aged Punkunhead,1162,Mad Anthony Brewing Company,1,4
+1273,5.20,207605,https://www.beeradvocate.com/beer/profile/31929/207605/,Choc-O-Lantern,31929,Backshore Brewing Company,1,3
+1274,5.50,310773,https://www.beeradvocate.com/beer/profile/44633/310773/,Experimental #24 - Pumpkin Brown Ale,44633,Oakbrook Brewing Company,1,4
+1275,5.00,260341,https://www.beeradvocate.com/beer/profile/225/260341/,Pumpkin Ale,225,Amherst Brewing,1,3.85
+1276,6.50,286198,https://www.beeradvocate.com/beer/profile/33627/286198/,Pumpkin Pie Bock,33627,Bad Martha Brewing Co.,1,3.67
+1277,5.80,144119,https://www.beeradvocate.com/beer/profile/31178/144119/,Provence Harvest,31178,Yellow Springs Brewery,1,4
+1278,5.50,214009,https://www.beeradvocate.com/beer/profile/44246/214009/,Monster Mash Pumpkin Porter,44246,Elora Brewing Co.,1,3.75
+1279,7.90,308473,https://www.beeradvocate.com/beer/profile/28715/308473/,White Pumpkin,28715,Westfield River Brewing Company,1,3.92
+1280,5.50,310777,https://www.beeradvocate.com/beer/profile/38539/310777/,What's Up Butternut,38539,Mad Chef Craft Brewing,1,4
+1281,5.00,136442,https://www.beeradvocate.com/beer/profile/35575/136442/,Cala Pumpkin,35575,Darwin Brewing Company,1,3
+1282,5.80,139514,https://www.beeradvocate.com/beer/profile/32180/139514/,Pumpkin Spiced O'Fest,32180,Blue Stallion Brewing Co.,1,3.8
+1283,3.80,164858,https://www.beeradvocate.com/beer/profile/33815/164858/,Punk Pig Ale,33815,Pig Pounder Brewery,1,3.73
+1284,6.10,197371,https://www.beeradvocate.com/beer/profile/16873/197371/,Punkin Brewster,16873,10 Barrel Brewing Co.,1,3.16
+1285,5.00,329467,https://www.beeradvocate.com/beer/profile/44354/329467/,Pumpkin Ale,44354,Valcour Brewing Company,1,3.88
+1286, ? ,253179,https://www.beeradvocate.com/beer/profile/31920/253179/,Cascadian Dark Pumpkin,31920,FATE Brewing Company,1,3.67
+1287,7.00,309244,https://www.beeradvocate.com/beer/profile/37846/309244/,Oh My Gourd!,37846,Home Republic,1,3.85
+1288,9.70,253436,https://www.beeradvocate.com/beer/profile/38052/253436/,Carriage Ride,38052,Bear Island Brewing Company,1,3.68
+1289,10.00,321532,https://www.beeradvocate.com/beer/profile/11890/321532/,Emelisse Chili Pumpkin Stout,11890,Bierbrouwerij Grand-Café  Emelisse,1,3.5
+1290, ? ,199934,https://www.beeradvocate.com/beer/profile/35323/199934/,Lazy Beach Pumpkin,35323,Lazy Beach Brewing,1,5
+1291,4.80,165377,https://www.beeradvocate.com/beer/profile/34101/165377/,Warlock,34101,Dorset Brewing Company,0,0
+1292,5.00,198146,https://www.beeradvocate.com/beer/profile/29487/198146/,Pumpkin Ale,29487,The Old Mill at Ashton / Ashton Brewing Company,0,0
+1293,5.50,328195,https://www.beeradvocate.com/beer/profile/41303/328195/,Pumpkin Spice Ale,41303,Maple Meadows Brewing Company,0,0
+1294,6.60,205316,https://www.beeradvocate.com/beer/profile/35510/205316/,Pumpkindicular,35510,Wonderland Brewing Co.,0,0
+1295,6.30,339460,https://www.beeradvocate.com/beer/profile/49415/339460/,Pumpkin Ale,49415,Infusion Brewing Co,0,0
+1296,8.50,303621,https://www.beeradvocate.com/beer/profile/429/303621/,Alaskan Imperial Pumpkin Porter,429,Alaskan Brewing Co.,0,0
+1297,8.00,185349,https://www.beeradvocate.com/beer/profile/700/185349/,3 Blind Pumpkins,700,Elysian Brewing Company,0,0
+1298,6.40,324101,https://www.beeradvocate.com/beer/profile/51282/324101/,Pumpkin Ale,51282,Bog Brewing Company,0,0
+1299,6.50,253958,https://www.beeradvocate.com/beer/profile/34650/253958/,Pumpkin Patch Ale,34650,Adventure Brewing Company,0,0
+1300,5.00,329479,https://www.beeradvocate.com/beer/profile/51987/329479/,Cimitero 13,51987,Birrificio Gambolò,0,0
+1301, ? ,152071,https://www.beeradvocate.com/beer/profile/20873/152071/,Long Pumpkin Stout,20873,Black Bear Brewery,0,0
+1302,5.60,104456,https://www.beeradvocate.com/beer/profile/30272/104456/,Squash Rocket Ale,30272,Petoskey Brewing Company,0,0
+1303,6.20,313352,https://www.beeradvocate.com/beer/profile/45051/313352/,Pauline's Pumpkin Ale,45051,Smoketown Brewing Station,0,0
+1304,4.30,165385,https://www.beeradvocate.com/beer/profile/34188/165385/,AD71 (Pumpkin) Porter,34188,Doncaster Brewery,0,0
+1305,4.60,255498,https://www.beeradvocate.com/beer/profile/41599/255498/,Pumpkin Lil' Uncommon,41599,Newgrass Brewing Company,0,0
+1306,8.00,193294,https://www.beeradvocate.com/beer/profile/36484/193294/,Treehouse Of Gourdor,36484,Oliphant Brewing,0,0
+1307,7.00,199952,https://www.beeradvocate.com/beer/profile/3724/199952/,Cucurbitacées,3724,La Memphré Microbrasserie,0,0
+1308,8.00,313360,https://www.beeradvocate.com/beer/profile/45051/313360/,Charlie's Pride Imperial Pumpkin,45051,Smoketown Brewing Station,0,0
+1309, ? ,52240,https://www.beeradvocate.com/beer/profile/761/52240/,The Old Toad Pumpkin Ale,761,CB Craft Brewers,0,0
+1310,5.60,234002,https://www.beeradvocate.com/beer/profile/25839/234002/,Pumpkin,25839,St. Petersburg Brewing Company,0,0
+1311,4.10,326675,https://www.beeradvocate.com/beer/profile/50833/326675/,ARH-WOOOooo,50833,Ferry Ales Brewery,0,0
+1312,5.40,302357,https://www.beeradvocate.com/beer/profile/999/302357/,Drunk'n Pumpkin Ale,999,Montana Brewing Company,0,0
+1313,5.50,213015,https://www.beeradvocate.com/beer/profile/43809/213015/,Fashionably Late,43809,New District Brewing Company,0,0
+1314,8.50,288025,https://www.beeradvocate.com/beer/profile/46075/288025/,Pumpkin Guts,46075,Wedgewood Brewing Co.,0,0
+1315,8.10,289818,https://www.beeradvocate.com/beer/profile/35025/289818/,Imperial Pumpkin Porter,35025,Miner Brewing Company,0,0
+1316,6.20,191002,https://www.beeradvocate.com/beer/profile/38528/191002/,Rutty Buck Pumpkin,38528,Appalachian Brewing Company,0,0
+1317,6.50,200987,https://www.beeradvocate.com/beer/profile/43165/200987/,Grumpkin,43165,Waredaca Brewing Company,0,0
+1318,7.30,324124,https://www.beeradvocate.com/beer/profile/51015/324124/,Jolly Jack Pumpkin Ale,51015,Dog Rose Brewing Co.,0,0
+1319,6.60,202270,https://www.beeradvocate.com/beer/profile/37627/202270/,Natalie Porter (Pumpkin),37627,Local Craft Beer,0,0
+1320,5.00,205087,https://www.beeradvocate.com/beer/profile/27645/205087/,Calabaza Extravaganza,27645,Telluride Brewing Co.,0,0
+1321,8.00,109855,https://www.beeradvocate.com/beer/profile/30824/109855/,Rum Barrel Aged Imperial Pumpkin Ale,30824,Ship Bottom Brewery,0,0
+1322,6.60,291617,https://www.beeradvocate.com/beer/profile/40980/291617/,Peter Peter Pumpkin Ale,40980,One Love Brewery,0,0
+1323,6.50,141090,https://www.beeradvocate.com/beer/profile/36377/141090/,Smikrking Lantern,36377,Snowbank Brewing,0,0
+1324,6.60,253218,https://www.beeradvocate.com/beer/profile/47339/253218/,Gourdolicous Ale,47339,Cave Brewing Company,0,0
+1325,6.50,242211,https://www.beeradvocate.com/beer/profile/35987/242211/,Ponch's Patch,35987,Denizens Brewing Co.,0,0
+1326,5.50,329764,https://www.beeradvocate.com/beer/profile/46034/329764/,Gruba Kaśka,46034,Browar Bazyliszek,0,0
+1327, ? ,222500,https://www.beeradvocate.com/beer/profile/30714/222500/,Pumpkin Ale,30714,Albia Brewing Co.,0,0
+1328,7.00,267045,https://www.beeradvocate.com/beer/profile/48324/267045/,Pumpkin Ale,48324,V's Restaurant & Brewpub,0,0
+1329,5.20,145191,https://www.beeradvocate.com/beer/profile/36480/145191/,Grateful Gourd,36480,Crystal Lake Brewing,0,0
+1330,6.80,294695,https://www.beeradvocate.com/beer/profile/35664/294695/,Autumn Surprise,35664,Final Gravity Brewing Co.,0,0
+1331,6.50,201768,https://www.beeradvocate.com/beer/profile/34734/201768/,Barrel Aged Pumpkin Sour Saison,34734,Council Brewing Company,0,0
+1332,5.50,226856,https://www.beeradvocate.com/beer/profile/45105/226856/,Festive Gourds Pumpkin Ale,45105,Urban Harvest Brewing Company,0,0
+1333,9.00,285226,https://www.beeradvocate.com/beer/profile/42220/285226/,Barrel Aged Polygraph Pumpkin Ale,42220,Legal Remedy Brewing,0,0
+1334,6.40,207659,https://www.beeradvocate.com/beer/profile/34387/207659/,Minera Tardor (Pumpkin Ale),34387,Cervesa Minera,0,0
+1335,10.50,285227,https://www.beeradvocate.com/beer/profile/42220/285227/,Barrel Aged The Executioner Imperial Pumpkin Stout,42220,Legal Remedy Brewing,0,0
+1336,5.50,310828,https://www.beeradvocate.com/beer/profile/42959/310828/,Headless Horseman,42959,Loose Shoe Brewing Company,0,0
+1337,9.00,214061,https://www.beeradvocate.com/beer/profile/40832/214061/,Horseman's Head,40832,K2 (Kulshan Brewing Co.),0,0
+1338,7.00,266286,https://www.beeradvocate.com/beer/profile/46178/266286/,Yam Bam Bigelow,46178,Cushwa Brewing Company,0,0
+1339,5.00,141359,https://www.beeradvocate.com/beer/profile/27257/141359/,PumpKING Pale Ale,27257,King Street Brewing Company,0,0
+1340,5.60,339503,https://www.beeradvocate.com/beer/profile/47212/339503/,Pumpkin Joe,47212,Great Chicago Fire Brewery & Tap Room,0,0
+1341,6.00,146735,https://www.beeradvocate.com/beer/profile/1066/146735/,Pumpkin Rye,1066,Anacortes Brewery & Rockfish Grill,0,0
+1342,8.00,188464,https://www.beeradvocate.com/beer/profile/41869/188464/,The Great Blumpkin Ale,41869,Great Notion Brewing,0,0
+1343,6.20,218929,https://www.beeradvocate.com/beer/profile/40738/218929/,Pumpkin,40738,Cedar Creek Winery & Brew Co.,0,0
+1344,4.70,315443,https://www.beeradvocate.com/beer/profile/33145/315443/,Upper Table,33145,Fonta Flora Brewery,0,0
+1345,8.27,186164,https://www.beeradvocate.com/beer/profile/41439/186164/,Water Mill Imperial Pumpkin Ale,41439,Lithology Brewing Co.,0,0
+1346, ? ,216885,https://www.beeradvocate.com/beer/profile/38873/216885/,100 Yards Over The Rim,38873,SquareHead Brewing Company,0,0
+1347,7.80,324150,https://www.beeradvocate.com/beer/profile/50608/324150/,Pumpkin-weizen,50608,Spahr Brewing Company,0,0
+1348,5.00,216376,https://www.beeradvocate.com/beer/profile/42602/216376/,Ghost Of Pumpkins Passed,42602,Departed Soles Brewing Co.,0,0
+1349,7.00,203070,https://www.beeradvocate.com/beer/profile/4317/203070/,Pigskin Pumpkin Ale,4317,Six Rivers Brewery,0,0
+1350,6.00,278846,https://www.beeradvocate.com/beer/profile/24412/278846/,Oh My Gourd,24412,Flat 12 Bierwerks,0,0
+1351,6.00,193088,https://www.beeradvocate.com/beer/profile/40365/193088/,Yumpkin Pumpkin,40365,Wichita Brewing Co. & Pizzeria East,0,0
+1352,5.20,309058,https://www.beeradvocate.com/beer/profile/45099/309058/,Harvest Pumpkin,45099,Nine Locks Brewing Company,0,0
+1353,10.50,198467,https://www.beeradvocate.com/beer/profile/35434/198467/,Imperial Pumpkin Stout,35434,DeNovo Beverage Of Monmouth,0,0
+1354,7.80,144451,https://www.beeradvocate.com/beer/profile/25678/144451/,Incantation Pumpkin Ale,25678,Barrage Brewing Company,0,0
+1355,5.40,198468,https://www.beeradvocate.com/beer/profile/25711/198468/,Port Jeff Boo Brew,25711,La Birreria,0,0
+1356, ? ,161604,https://www.beeradvocate.com/beer/profile/37915/161604/,Pumpkinetic,37915,Blue Canoe Brewing Co.,0,0
+1357,4.40,141125,https://www.beeradvocate.com/beer/profile/29681/141125/,Pumpkin Ale,29681,Bootstrap Brewing,0,0
+1358,5.10,294981,https://www.beeradvocate.com/beer/profile/39433/294981/,Beside The Fire,39433,Bog Water Brewing Co.,0,0
+1359,5.20,296262,https://www.beeradvocate.com/beer/profile/29765/296262/,Fall On Your Face,29765,Backwoods Brewing Company,0,0
+1360,9.50,163655,https://www.beeradvocate.com/beer/profile/35144/163655/,Laveau,35144,Geaux Brewing,0,0
+1361,5.90,309576,https://www.beeradvocate.com/beer/profile/38029/309576/,Papal Pumpkin with Chai Tea,38029,Lunacy Brewing Company,0,0
+1362,6.00,209225,https://www.beeradvocate.com/beer/profile/43468/209225/,Pumped Keith,43468,The Keith Brewery,0,0
+1363,5.80,144713,https://www.beeradvocate.com/beer/profile/30967/144713/,Pumpkin Weizen,30967,Triptych Brewing,0,0
+1364,6.00,174922,https://www.beeradvocate.com/beer/profile/39051/174922/,Scarlet Pumpkinale,39051,BarkEater Craft Brewery,0,0
+1365,5.60,294987,https://www.beeradvocate.com/beer/profile/49497/294987/,PieHole,49497,Bombing Range Brewing,0,0
+1366,5.00,190539,https://www.beeradvocate.com/beer/profile/16393/190539/,Pumpkin Amber,16393,Mission Brewery,0,0
+1367,8.00,323662,https://www.beeradvocate.com/beer/profile/46156/323662/,Miss Betty,46156,Brick Works Brewing and Eats,0,0
+1368,6.70,216399,https://www.beeradvocate.com/beer/profile/42355/216399/,Gourdy Howe,42355,Odd Man Rush Brewing,0,0
+1369,5.00,159823,https://www.beeradvocate.com/beer/profile/27074/159823/,Lil' Red Riding Wood Squashed,27074,Big Wood Brewery,0,0
+1370,9.00,265297,https://www.beeradvocate.com/beer/profile/12547/265297/,Scotch Autumn,12547,The Livery,0,0
+1371, ? ,218705,https://www.beeradvocate.com/beer/profile/44139/218705/,4th And Goal Pumpkin Ale,44139,Lemons Mill Brewery,0,0
+1372,6.10,169041,https://www.beeradvocate.com/beer/profile/39873/169041/,E’ville Pumpkin,39873,Recess Brewing,0,0
+1373,5.70,212050,https://www.beeradvocate.com/beer/profile/43871/212050/,El Tykva,43871,Augustine,0,0
+1374,6.30,107091,https://www.beeradvocate.com/beer/profile/32948/107091/,Pumpkin Amber,32948,Andrews Brewing Company,0,0
+1375,5.00,197204,https://www.beeradvocate.com/beer/profile/36716/197204/,Pumpkin Butt,36716,Ponderosa Brewing Company,0,0
+1376,8.10,233556,https://www.beeradvocate.com/beer/profile/40345/233556/,Linterna,40345,Lúdica Artesanal Cervecería,0,0
+1377, ? ,323412,https://www.beeradvocate.com/beer/profile/26942/323412/,Jack O Lantern,26942,Cervecería Jack,0,0
+1378,6.30,200277,https://www.beeradvocate.com/beer/profile/30816/200277/,Pumpkin Ale,30816,Armstrong Brewing Co.,0,0
+1379, ? ,203093,https://www.beeradvocate.com/beer/profile/1528/203093/,Pumpkin Patch Ale,1528,Snowshoe Brewing Company,0,0
+1380,10.00,253781,https://www.beeradvocate.com/beer/profile/37521/253781/,Sweet Transylvania,37521,Playalinda Brewing Company - Hardware Store,0,0
+1381,5.10,220759,https://www.beeradvocate.com/beer/profile/33187/220759/,Pumpkin,33187,Big Head Brewing Co.,0,0
+1382,8.60,257879,https://www.beeradvocate.com/beer/profile/47632/257879/,Roundtown Pumpkin Ale,47632,2 Tones Brewing Co.,0,0
+1383,7.90,205145,https://www.beeradvocate.com/beer/profile/30354/205145/,Fuggly Pumpkin,30354,The Very Nice Brewing Company,0,0
+1384,9.00,223321,https://www.beeradvocate.com/beer/profile/40952/223321/,Gan Ceann Pumpkin Stout,40952,"O'Neil And Sons Brewing Company, LLC",0,0
+1385,7.60,225370,https://www.beeradvocate.com/beer/profile/38829/225370/,Leftöver Cracker,38829,Zagovor Brewery,0,0
+1386,5.00,310106,https://www.beeradvocate.com/beer/profile/33739/310106/,Peter Pumpkin Eater,33739,Rusty Beaver Brewery,0,0
+1387,8.50,307291,https://www.beeradvocate.com/beer/profile/35/307291/,Fat Jack Double Pumpkin,35,Boston Beer Company (Samuel Adams),0,0
+1388,8.80,339804,https://www.beeradvocate.com/beer/profile/42207/339804/,Pumquistador,42207,Ancient City Brewing,0,0
+1389,5.00,274524,https://www.beeradvocate.com/beer/profile/43802/274524/,Ghost Of Pumpkin Past,43802,Three Spirits Brewery,0,0
+1390, ? ,218716,https://www.beeradvocate.com/beer/profile/40268/218716/,Imperial Pumpkin Porter,40268,Jackson Street Brewing,0,0
+1391,7.50,154973,https://www.beeradvocate.com/beer/profile/34427/154973/,My Cousin Eddie,34427,Hitchhiker Brewing Company,0,0
+1392, ? ,161630,https://www.beeradvocate.com/beer/profile/32777/161630/,Pumpkin Beer,32777,Die Brauerei Leutschach,0,0
+1393,8.20,268128,https://www.beeradvocate.com/beer/profile/46826/268128/,Kurbisleichen,46826,Forest City Brewery,0,0
+1394,5.50,209760,https://www.beeradvocate.com/beer/profile/43809/209760/,Pumpkin Seasonal,43809,New District Brewing Company,0,0
+1395,6.00,278880,https://www.beeradvocate.com/beer/profile/34783/278880/,Straight Outta Da Patch,34783,Grand Junction Brewing Company,0,0
+1396,12.00,223328,https://www.beeradvocate.com/beer/profile/40952/223328/,Horseless Headsman,40952,"O'Neil And Sons Brewing Company, LLC",0,0
+1397, ? ,248672,https://www.beeradvocate.com/beer/profile/34765/248672/,Jonah's Relief,34765,Save The World Brewing Company,0,0
+1398,6.20,205154,https://www.beeradvocate.com/beer/profile/34789/205154/,BOO!22,34789,Two22 Brew,0,0
+1399,5.50,281954,https://www.beeradvocate.com/beer/profile/39442/281954/,Headless Horseman,39442,St. Nicholas Brewing Company,0,0
+1400,5.80,219746,https://www.beeradvocate.com/beer/profile/40456/219746/,Sleepy Hollow's Revenge,40456,8-Bit Brewery,0,0
+1401,4.90,102754,https://www.beeradvocate.com/beer/profile/29009/102754/,Pumpkin Spiced Nitro Cream Ale,29009,Sawtooth Brewery,0,0
+1402,5.80,154979,https://www.beeradvocate.com/beer/profile/34427/154979/,Freddie Cooper,34427,Hitchhiker Brewing Company,0,0
+1403,6.00,229732,https://www.beeradvocate.com/beer/profile/45609/229732/,Karl A. Bazza,45609,Legacy Caribbean Craft Brewery,0,0
+1404,5.30,322916,https://www.beeradvocate.com/beer/profile/37051/322916/,Oh My Gourd Becky!,37051,Drekker Brewing Company,0,0
+1405,7.00,325478,https://www.beeradvocate.com/beer/profile/49139/325478/,Brother Jack,49139,3 Disciples Brewing,0,0
+1406,6.66,270951,https://www.beeradvocate.com/beer/profile/31864/270951/,Murder By Pumpkin,31864,Indiana City Brewing Company,0,0
+1407,8.00,308071,https://www.beeradvocate.com/beer/profile/32116/308071/,Pumpkin Bazooka,32116,5 Paddles Brewing Co.,0,0
+1408, ? ,307305,https://www.beeradvocate.com/beer/profile/2790/307305/,Pumpkin Ale,2790,Harper's Restaurant & Brewpub,0,0
+1409,5.10,327786,https://www.beeradvocate.com/beer/profile/50159/327786/,Funky Pumpkin,50159,Bargara Brewing Company,0,0
+1410, ? ,161643,https://www.beeradvocate.com/beer/profile/34394/161643/,Pumpkin Ale,34394,Fossil Cove Brewing Co.,0,0
+1411,6.00,234092,https://www.beeradvocate.com/beer/profile/38096/234092/,PsychePumpkin,38096,Stilt House Brewery,0,0
+1412,6.90,321133,https://www.beeradvocate.com/beer/profile/46169/321133/,Preston Harvest Ale,46169,Screech Owl Brewing,0,0
+1413,7.10,145262,https://www.beeradvocate.com/beer/profile/31586/145262/,Grotesque,31586,Benelux Brasserie Artisanale,0,0
+1414,5.50,145263,https://www.beeradvocate.com/beer/profile/13804/145263/,Jack,13804,Benelux Brewpub & Café,0,0
+1415, ? ,204144,https://www.beeradvocate.com/beer/profile/32269/204144/,Kiowa Creek Pumpkin Porter,32269,Front Range Brewing Company,0,0
+1416,5.40,146800,https://www.beeradvocate.com/beer/profile/35866/146800/,Pumpkin Brown Ale,35866,Galmegi Brewing,0,0
+1417,8.00,237936,https://www.beeradvocate.com/beer/profile/23422/237936/,Candeot,23422,Birra Di Meni,0,0
+1418,5.90,194417,https://www.beeradvocate.com/beer/profile/42190/194417/,Pumpkin Ale,42190,10th District Brewing Co.,0,0
+1419,10.00,195953,https://www.beeradvocate.com/beer/profile/32326/195953/,Gourdgantuan,32326,Tapistry Brewing,0,0
+1420,6.50,206450,https://www.beeradvocate.com/beer/profile/33642/206450/,Cinnamon Sugar Pumpkin Ale,33642,Village Idiot Brewing Company,0,0
+1421,5.75,288626,https://www.beeradvocate.com/beer/profile/48422/288626/,Pump It Up,48422,Beat Them Brewing Co.,0,0
+1422,5.60,161394,https://www.beeradvocate.com/beer/profile/39365/161394/,Pumkin Ale,39365,FlyBoy Brewing,0,0
+1423,6.51,231794,https://www.beeradvocate.com/beer/profile/33611/231794/,Pumpkin Puffer,33611,SaltWater Brewery,0,0
+1424,8.00,174962,https://www.beeradvocate.com/beer/profile/39856/174962/,Stubby Pumpkin Ale,39856,Bulk Head Brewing Co.,0,0
+1425,6.10,338297,https://www.beeradvocate.com/beer/profile/52459/338297/,Pumpkin Pie Ale,52459,Bent Run Brewing Co.,0,0
+1426,8.40,312443,https://www.beeradvocate.com/beer/profile/37452/312443/,Tricks,37452,Pleasure House Brewing,0,0
+1427, ? ,168319,https://www.beeradvocate.com/beer/profile/36548/168319/,Prepper Pumpkin Brown,36548,Doomsday Brewing Company,0,0
+1428,5.80,323967,https://www.beeradvocate.com/beer/profile/34411/323967/,The Hollow,34411,Old Bust Head Brewing Co.,0,0
+1429,5.50,232064,https://www.beeradvocate.com/beer/profile/1618/232064/,Holiday Harvest Ale,1618,Sarasota Brewing Company,0,0
+1430,6.40,339329,https://www.beeradvocate.com/beer/profile/49413/339329/,Curious Gourd,49413,Cueni Brewing Co,0,0
+1431, ? ,147073,https://www.beeradvocate.com/beer/profile/37580/147073/,Sheps Pumpkin Ale,37580,The Good Shepherds Brewing Co.,0,0
+1432,6.00,307073,https://www.beeradvocate.com/beer/profile/46670/307073/,Dead Pilgrim Pumpkin Ale,46670,OpenRoad Brewery,0,0
+1433,5.30,325249,https://www.beeradvocate.com/beer/profile/51181/325249/,Harvest Pumpkin,51181,Northern Pine Brewery,0,0
+1434,5.00,159621,https://www.beeradvocate.com/beer/profile/38181/159621/,Pumpxkino,38181,Jarva Brewing Company,0,0
+1435,5.00,217736,https://www.beeradvocate.com/beer/profile/24497/217736/,Nina's Pumpkin Ale,24497,Cerveza Artesanal Berlina,0,0
+1436,7.00,210569,https://www.beeradvocate.com/beer/profile/36476/210569/,Bloody Pumpkin,36476,Brussels Beer Project,0,0
+1437,4.80,286601,https://www.beeradvocate.com/beer/profile/38839/286601/,Pumpkin Ale,38839,Boxcar Brewpub,0,0
+1438,5.50,334474,https://www.beeradvocate.com/beer/profile/40053/334474/,Smashing Pumpkin,40053,Bad Co. Brewing & Distilling,0,0
+1439,7.50,329355,https://www.beeradvocate.com/beer/profile/40097/329355/,Pumpkin Ale,40097,Four Lions Brewery,0,0
+1440,6.00,202635,https://www.beeradvocate.com/beer/profile/4288/202635/,Daft Punkin,4288,Newport Beach Brewing Company,0,0
+1441, ? ,47500,https://www.beeradvocate.com/beer/profile/882/47500/,Pumpkin Spice Ale,882,Beach Chalet Brewery and Restaurant,0,0
+1442,4.60,306575,https://www.beeradvocate.com/beer/profile/49485/306575/,Rutt'n Buck Pumpkin Ale,49485,East Channel Brewing Co.,0,0
+1443, ? ,210832,https://www.beeradvocate.com/beer/profile/43865/210832/,Awkward Chunkin,43865,Awkward Brewing,0,0
+1444,7.90,190098,https://www.beeradvocate.com/beer/profile/41738/190098/,Pointillism Pumpkin Ale,41738,The Gallery Brewery,0,0
+1445,4.60,204435,https://www.beeradvocate.com/beer/profile/33619/204435/,Jumpin' Pum'kin,33619,Kokopelli Beer Company,0,0
+1446,6.00,144277,https://www.beeradvocate.com/beer/profile/37475/144277/,Pitchfork Pumpkin Ale,37475,Hellbender Brewing Company,0,0
+1447,9.50,238746,https://www.beeradvocate.com/beer/profile/45868/238746/,Screaming Pumpkin,45868,Peel Brewing Co. / Peel Wood Fired Pizza,0,0
+1448,6.10,330909,https://www.beeradvocate.com/beer/profile/50070/330909/,No Creo En Brujas,50070,Suricato Ales Cervejaria,0,0
+1449, ? ,148382,https://www.beeradvocate.com/beer/profile/37863/148382/,CB Pumpkin Ale,37863,Covered Bridge Brewhaus,0,0
+1450,4.60,105374,https://www.beeradvocate.com/beer/profile/31362/105374/,Pumpkin Ale,31362,Strong Arm Brewing,0,0
+1451,7.00,145311,https://www.beeradvocate.com/beer/profile/27921/145311/,Trouille Du Fermier,27921,L'Espace Public-Brasseurs de quartier,0,0
+1452,6.40,301471,https://www.beeradvocate.com/beer/profile/47274/301471/,Roasted Punkin Pie,47274,Craft Life Brewing Co.,0,0
+1453,5.60,311456,https://www.beeradvocate.com/beer/profile/47482/311456/,The Count (Spiced Autumn Ale),47482,Stray Dog Brewing,0,0
+1454,6.80,202145,https://www.beeradvocate.com/beer/profile/13981/202145/,Canteen Calabaza,13981,Canteen Brewhouse,0,0
+1455,5.30,224673,https://www.beeradvocate.com/beer/profile/31704/224673/,Pepe Loco,31704,Agrarian Ales,0,0
+1456, ? ,229793,https://www.beeradvocate.com/beer/profile/32758/229793/,Headless Knight,32758,Castle Grill / Red Castle Brewery & Distillery,0,0
+1457,5.60,314530,https://www.beeradvocate.com/beer/profile/18982/314530/,Closs' Harvest,18982,Mountain State Brewing Company,0,0
+1458,7.20,208036,https://www.beeradvocate.com/beer/profile/42160/208036/,Gourd By Bear,42160,Growling Bear Brewing Company,0,0
+1459,7.00,309670,https://www.beeradvocate.com/beer/profile/45516/309670/,Pumking Strong Ale,45516,Lake Anne Brew House,0,0
+1460,7.00,203687,https://www.beeradvocate.com/beer/profile/32809/203687/,Pumpkin Stout,32809,Black Sky Brewery,0,0
+1461,5.00,151975,https://www.beeradvocate.com/beer/profile/1285/151975/,Milly’s Famous Pumpkin Ale,1285,Stark Brewing Company,0,0
+1462,4.90,204713,https://www.beeradvocate.com/beer/profile/2972/204713/,Killer Harvest Belgian Pumpkin Ale,2972,Mountain Sun Pub & Brewery,0,0
+1463,8.60,203434,https://www.beeradvocate.com/beer/profile/35597/203434/,The Legend Of Sleepy Holler,35597,Dobra Zupas,0,0
+1464,4.25,310187,https://www.beeradvocate.com/beer/profile/46695/310187/,Mashing Pumpkins,46695,Ludlam Island Brewery,0,0
+1465, ? ,130220,https://www.beeradvocate.com/beer/profile/1112/130220/,Drunken Pumpkin,1112,Little Apple Brewing Company,0,0
+1466,6.70,331949,https://www.beeradvocate.com/beer/profile/48728/331949/,The Great Pumpkino,48728,Brew 32 Craft Brewery,0,0
+1467,5.90,145325,https://www.beeradvocate.com/beer/profile/15732/145325/,Hantise,15732,Le Saint-Bock,0,0
+1468,7.60,232110,https://www.beeradvocate.com/beer/profile/3749/232110/,Luna,3749,Seven Bridges Grille And Brewery,0,0
+1469,5.70,209839,https://www.beeradvocate.com/beer/profile/43739/209839/,Beta Pumpkin Pie,43739,Intrinsic Brewing,0,0
+1470,5.00,337840,https://www.beeradvocate.com/beer/profile/31375/337840/,Pumpkin Ale,31375,Morpeth Brewery & Beer Co.,0,0
+1471,4.60,294832,https://www.beeradvocate.com/beer/profile/46671/294832/,Killer Punkin,46671,Alma Brewing Company,0,0
+1472,7.00,232114,https://www.beeradvocate.com/beer/profile/40455/232114/,Old Fat Jack,40455,Silverking Brewing Co.,0,0
+1473,6.00,311474,https://www.beeradvocate.com/beer/profile/19634/311474/,Mashin' Pumpkins,19634,Rocky Mountain Brewing,0,0
+1474,8.00,331955,https://www.beeradvocate.com/beer/profile/43736/331955/,Linus,43736,Brixton Brewing,0,0
+1475,5.90,168115,https://www.beeradvocate.com/beer/profile/37272/168115/,Hot Walker,37272,Bushnell Craft Brewing Company,0,0
+1476,6.00,196275,https://www.beeradvocate.com/beer/profile/34220/196275/,Scarecrow Pumpkin Ale,34220,The Lost Borough Brewing Co.,0,0
+1477,15.00,270004,https://www.beeradvocate.com/beer/profile/22656/270004/,Pumpkin Smash,22656,Chardon BrewWorks,0,0
+1478, ? ,207028,https://www.beeradvocate.com/beer/profile/4738/207028/,Kickinback Pumpkin Ale,4738,Grand Lake Brewing Company,0,0
+1479,5.50,214452,https://www.beeradvocate.com/beer/profile/44228/214452/,More Pumpkin?,44228,Reclamation Brewing,0,0
+1480,6.50,311220,https://www.beeradvocate.com/beer/profile/45308/311220/,Southern Salan,45308,Steam Bell Beer Works,0,0
+1481,6.60,103862,https://www.beeradvocate.com/beer/profile/30077/103862/,Pumpkin Pie P.A.,30077,Bravo! Restaurant & Cafe,0,0
+1482, ? ,185784,https://www.beeradvocate.com/beer/profile/39989/185784/,Fall Kickoff,39989,902 Brewing Co.,0,0
+1483,6.20,206009,https://www.beeradvocate.com/beer/profile/38829/206009/,Clockwork Pumpkin,38829,Zagovor Brewery,0,0
+1484,4.80,217529,https://www.beeradvocate.com/beer/profile/43295/217529/,Charlie's Pumpkin Ale,43295,Fulton Chain Craft Brewery,0,0
+1485,5.90,339642,https://www.beeradvocate.com/beer/profile/46491/339642/,Off My Gourd Pumpkin Ale,46491,Ye Olde Brothers Brewery,0,0
+1486,8.00,275642,https://www.beeradvocate.com/beer/profile/44038/275642/,The Grimm,44038,Birdfish Brewing Company,0,0
+1487,4.80,211130,https://www.beeradvocate.com/beer/profile/39397/211130/,Firestoker,39397,OutSpoken Brewing,0,0
+1488,6.50,222395,https://www.beeradvocate.com/beer/profile/44702/222395/,Pezcalabaza,44702,Cervecería 7 Mares,0,0
+1489,7.00,158652,https://www.beeradvocate.com/beer/profile/35539/158652/,Peculiar Pumpkin,35539,William Street Beer Co.,0,0
+1490,5.60,178108,https://www.beeradvocate.com/beer/profile/36260/178108/,All Hallow's Ale,36260,Bloom Brew,0,0
+1491,9.50,326332,https://www.beeradvocate.com/beer/profile/48052/326332/,Pumpkin,48052,Some Place Else Brewery,0,0
+1492,6.60,207549,https://www.beeradvocate.com/beer/profile/36919/207549/,Satan Klaus,36919,Cas Cervecer,0,0
+1493,4.70,152259,https://www.beeradvocate.com/beer/profile/32185/152259/,Pumpkinsaurus Rex,32185,Frothy Beard Brewing Company,0,0
+1494,5.50,198596,https://www.beeradvocate.com/beer/profile/1599/198596/,Nutty Pumpkin,1599,Prescott Brewing Company,0,0
+1495, ? ,280265,https://www.beeradvocate.com/beer/profile/32798/280265/,Mashing Pumpkins,32798,Badger State Brewing Company,0,0
+1496,9.00,207562,https://www.beeradvocate.com/beer/profile/32554/207562/,Pumpkin,32554,Catalan Brewery,0,0
+1497,6.60,314058,https://www.beeradvocate.com/beer/profile/51091/314058/,Pie Fest,51091,Recon Brewing,0,0
+1498,5.60,292811,https://www.beeradvocate.com/beer/profile/43869/292811/,Cabutiña,43869,Cabesas Bier,0,0
+1499,5.00,329164,https://www.beeradvocate.com/beer/profile/49732/329164/,Pumpkin Ale,49732,Cervezas Mammooth,0,0
+1500,5.30,202189,https://www.beeradvocate.com/beer/profile/36812/202189/,Seeds And Spice Harvest Ale,36812,Heroes Restaurant & Brewery,0,0
+1501,5.80,310223,https://www.beeradvocate.com/beer/profile/45639/310223/,Fumpkin,45639,Stable Craft Brewing,0,0
+1502,8.50,257743,https://www.beeradvocate.com/beer/profile/46778/257743/,Imperial Pumpkin Ale,46778,The Woodburn Brewery,0,0
+1503,5.80,309456,https://www.beeradvocate.com/beer/profile/26673/309456/,Veldfest,26673,Lantern Brewing,0,0
+1504,6.70,152530,https://www.beeradvocate.com/beer/profile/30249/152530/,Pumpkinfest,30249,Naples Beach Brewery,0,0
+1505,5.20,152787,https://www.beeradvocate.com/beer/profile/21329/152787/,Drunkin Pumpkin,21329,Cool Springs Brewery,0,0
+1506,7.00,101331,https://www.beeradvocate.com/beer/profile/22459/101331/,Pumpkin Ale,22459,JoBoy's Brew Pub,0,0
+1507,5.00,171987,https://www.beeradvocate.com/beer/profile/40117/171987/,ESP (English Style Pumpkin),40117,Levante Brewing Company,0,0
+1508,5.20,202453,https://www.beeradvocate.com/beer/profile/38320/202453/,Pumpkin Spice Ale,38320,Rebellion Brewing,0,0
+1509,7.40,255189,https://www.beeradvocate.com/beer/profile/43393/255189/,Psych O Jack,43393,Old Klaverack Brewery,0,0
+1510, ? ,205014,https://www.beeradvocate.com/beer/profile/19015/205014/,Pumpkin Ale,19015,Revolution Brewing,0,0
+1511,9.00,205270,https://www.beeradvocate.com/beer/profile/31684/205270/,Western Woods Imperial Pumpkin Stout,31684,Verboten Brewing and Barrel Project,0,0
+1512, ? ,152534,https://www.beeradvocate.com/beer/profile/34793/152534/,Smyrna Spumpkin,34793,New Smyrna Beach Brewing Company,0,0
+1513,6.00,203224,https://www.beeradvocate.com/beer/profile/35011/203224/,Jack Hell,35011,Sundowner Brewery,0,0
+1514,6.00,275162,https://www.beeradvocate.com/beer/profile/48187/275162/,Pumpkin Please Ale,48187,Morgan Ridge Railwalk Brewery And Eatery,0,0
+1515,6.80,309978,https://www.beeradvocate.com/beer/profile/41110/309978/,Pumpkin Slayer Ale,41110,Ornery Beer Company Public House,0,0
+1516,7.30,199387,https://www.beeradvocate.com/beer/profile/33532/199387/,El Gourdo,33532,Plan 9 Alehouse,0,0
+1517,6.60,292573,https://www.beeradvocate.com/beer/profile/49468/292573/,Pumptrickin,49468,Ozone's Brewhouse,0,0
+1518,6.50,251613,https://www.beeradvocate.com/beer/profile/41338/251613/,Punky Masala,41338,New Terrain Brewing Co,0,0
+1519, ? ,218590,https://www.beeradvocate.com/beer/profile/9249/218590/,The Great Pumpkin Porter,9249,Eagle Brook Saloon,0,0
+1520,9.20,229342,https://www.beeradvocate.com/beer/profile/31974/229342/,Hinkypunk,31974,Point Ybel Brewing Company,0,0
+1521,5.10,235487,https://www.beeradvocate.com/beer/profile/29757/235487/,This Pumpkin Is Bananas,29757,The Hourglass Brewery,0,0
+1522,5.60,253663,https://www.beeradvocate.com/beer/profile/43018/253663/,Boucher's Witches Brew,43018,Hand of Fate Brewing Company,0,0
+1523,8.30,312802,https://www.beeradvocate.com/beer/profile/48292/312802/,Imperial Pumpkin,48292,Twin Creeks Brewing,0,0
+1524,4.80,337891,https://www.beeradvocate.com/beer/profile/21431/337891/,Pumpkin Ale,21431,Kosciuszko Brewing Company,0,0
+1525,6.50,217576,https://www.beeradvocate.com/beer/profile/44367/217576/,3 Sisters,44367,Bridge and Tunnel Brewery,0,0
+1526,6.20,170472,https://www.beeradvocate.com/beer/profile/32572/170472/,Pumpkin Ale,32572,Ironwood Brewing Co.,0,0
+1527, ? ,190441,https://www.beeradvocate.com/beer/profile/40951/190441/,Pumpkin Ale,40951,Old Abbey Ales,0,0
+1528,5.00,207851,https://www.beeradvocate.com/beer/profile/1391/207851/,Pumpkin Frog,1391,Issaquah Brewhouse,0,0
+1529,5.50,310251,https://www.beeradvocate.com/beer/profile/36855/310251/,Up Pumpkin Creek,36855,2 Witches Winery & Brewing Co.,0,0
+1530,6.20,258284,https://www.beeradvocate.com/beer/profile/45891/258284/,Pump Cart Pumpkin Ale,45891,Roundhouse Brewery,0,0
+1531,8.50,273389,https://www.beeradvocate.com/beer/profile/33735/273389/,Woodford Reserve Bourbon Barrel Aged Imperial Pumpkin Ale,33735,Nano 108 Brewing Company,0,0
+1532,5.30,200942,https://www.beeradvocate.com/beer/profile/42423/200942/,Pumpkin' Jack'd,42423,Outlaw Brew Co.,0,0
+1533,5.50,105454,https://www.beeradvocate.com/beer/profile/31527/105454/,Angie's Pumpkin Ale,31527,Seapine Brewing Company,0,0
+1534,6.00,102640,https://www.beeradvocate.com/beer/profile/22929/102640/,Rory's Pumpkin Ale,22929,Blue Ridge Brewery,0,0
+1535,6.90,209650,https://www.beeradvocate.com/beer/profile/6269/209650/,El Gourdo,6269,Old Ivy Brewery and Taproom,0,0
+1536,5.30,248818,https://www.beeradvocate.com/beer/profile/17271/248818/,Garrett's Dark Pumpkin Ale,17271,Bootlegger's Brewery,0,0
+1537,7.00,202744,https://www.beeradvocate.com/beer/profile/30982/202744/,All Hallows Eve,30982,Pine Street Brewery,0,0
+1538,5.70,178168,https://www.beeradvocate.com/beer/profile/37407/178168/,Smashed Pumpking Porter,37407,Miscreation Brewing Company,0,0
+1539,5.60,194296,https://www.beeradvocate.com/beer/profile/42648/194296/,Harbooz - Pumpkin,42648,Shrewd Fox Brewery,0,0
+1540,5.10,335868,https://www.beeradvocate.com/beer/profile/48072/335868/,Pumpkin Chai,48072,Brewability Lab,0,0
+1541,6.90,153342,https://www.beeradvocate.com/beer/profile/38365/153342/,Evil Pumpkin Patch,38365,Cademon Brewing,0,0
+1542,16.60,280831,https://www.beeradvocate.com/beer/profile/33068/280831/,Harvest Ice,33068,Boatyard Brewing Co.,0,0

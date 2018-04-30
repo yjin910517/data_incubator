@@ -1,0 +1,467 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,7.20,1996,https://www.beeradvocate.com/beer/profile/721/1996/,Elephant Beer,721,Carlsberg Danmark A/S,765,2.81
+1,8.00,1967,https://www.beeradvocate.com/beer/profile/401/1967/,Baltika #9 Extra (Strong),401,Baltika Breweries,691,2.81
+2,6.50,24179,https://www.beeradvocate.com/beer/profile/2656/24179/,Warka Premium (Strong),2656,Browary Warka Sp. z o.o.,228,3.34
+3,8.80,50399,https://www.beeradvocate.com/beer/profile/389/50399/,Lion Imperial Premium Malt Pilsner,389,Ceylon / Lion Brewery Limited,218,3.01
+4,6.40,16764,https://www.beeradvocate.com/beer/profile/9262/16764/,Reserva 1925,9262,"Grupo Cervezas Alhambra, SL",154,3.33
+5,7.90,1423,https://www.beeradvocate.com/beer/profile/498/1423/,Bavaria 8.6 Original,498,Bavaria Brouwerij N.V.,153,2.54
+6,9.50,40176,https://www.beeradvocate.com/beer/profile/12224/40176/,Lobster Lovers Beer,12224,Rinkuškiai,152,2.89
+7,8.70,1853,https://www.beeradvocate.com/beer/profile/672/1853/,Hevelius Kaper,672,Elbrewery Co. Ltd. Sp. z o.o.,150,3.39
+8,10.50,86367,https://www.beeradvocate.com/beer/profile/24808/86367/,Massacre,24808,Wolverine State Brewing Company,129,4
+9,7.50,1554,https://www.beeradvocate.com/beer/profile/568/1554/,Okocim Mocne,568,Browar Okocim S.A. (Carlsberg),126,2.97
+10,8.70,46952,https://www.beeradvocate.com/beer/profile/553/46952/,Christoffel Nobel,553,Bierbrouwerij Sint Christoffel B.V,120,3.69
+11,10.00,2462,https://www.beeradvocate.com/beer/profile/783/2462/,Faxe Extra Strong,783,Royal Unibrew A/S,113,2.26
+12,12.00,59125,https://www.beeradvocate.com/beer/profile/12224/59125/,Before-After Premium Lager (12% ABV),12224,Rinkuškiai,113,2.62
+13,15.00,103500,https://www.beeradvocate.com/beer/profile/12224/103500/,Crazy Brewski Imperial Pils,12224,Rinkuškiai,92,2.44
+14,11.50,2525,https://www.beeradvocate.com/beer/profile/813/2525/,Bière Du Démon,813,Les Brasseurs de Gayant,88,2.52
+15,7.70,4605,https://www.beeradvocate.com/beer/profile/269/4605/,Ceres Strong Ale Export,269,Ceres Brewery (Royal Unibrew),74,3.1
+16,5.80,23486,https://www.beeradvocate.com/beer/profile/3774/23486/,Zubr Bison,3774,Pivovar Prerov,73,2.94
+17,9.00,1892,https://www.beeradvocate.com/beer/profile/53/1892/,Tennent's Super Strong Lager,53,Tennent Caledonian Breweries,71,2.56
+18,14.00,132899,https://www.beeradvocate.com/beer/profile/285/132899/,Samichlaus Schwarzes,285,Brauerei Schloss Eggenberg,63,4.19
+19,11.60,1428,https://www.beeradvocate.com/beer/profile/506/1428/,Grolsch Krachtig Kanon,506,Grolsch Bierbrouwerij N.V.,60,2.56
+20,7.30,16755,https://www.beeradvocate.com/beer/profile/1273/16755/,Kalnapilis 7.30,1273,Alaus Darykla Kalnapilis,59,2.92
+21,10.00,7141,https://www.beeradvocate.com/beer/profile/975/7141/,Crest Super Premium Lager,975,Crest Brewing Company,54,2.07
+22,8.10,30761,https://www.beeradvocate.com/beer/profile/5504/30761/,Boss Beer,5504,BOSS Browar Witnica S.A.,53,2.71
+23,9.50,35603,https://www.beeradvocate.com/beer/profile/886/35603/,Gubernija Grand 9.5 Beer,886,Gubernija Brewery,52,2.52
+24,9.50,25884,https://www.beeradvocate.com/beer/profile/12224/25884/,Žaibo,12224,Rinkuškiai,51,2.72
+25,7.80,21793,https://www.beeradvocate.com/beer/profile/623/21793/,Tatra Mocne,623,Zywiec Breweries PLC (Heineken),47,3.04
+26,7.50,14169,https://www.beeradvocate.com/beer/profile/569/14169/,Efes Extra,569,Anadolu Efes Brewery,47,2.8
+27,9.00,4350,https://www.beeradvocate.com/beer/profile/721/4350/,Special Brew,721,Carlsberg Danmark A/S,44,2.52
+28,10.00,26305,https://www.beeradvocate.com/beer/profile/9534/26305/,Gordon Finest Gold,9534,John Martin's (John Martin SA),43,3.18
+29,7.80,4794,https://www.beeradvocate.com/beer/profile/580/4794/,Lomza Mocne,580,Browar Łomża Sp. z o.o.,41,3.08
+30,7.90,17726,https://www.beeradvocate.com/beer/profile/498/17726/,Bavaria Red,498,Bavaria Brouwerij N.V.,40,2.16
+31,7.00,10841,https://www.beeradvocate.com/beer/profile/401/10841/,Arsenalnoye Krepkoye (Strong),401,Baltika Breweries,40,2.7
+32,8.00,119164,https://www.beeradvocate.com/beer/profile/2100/119164/,Estrella Galicia 1906 Red Vintage,2100,"Hijos De Rivera, S.A.",40,3.15
+33,7.00,24254,https://www.beeradvocate.com/beer/profile/1941/24254/,Debowe Mocne,1941,Tyskie Browary Książęce (SABMiller),40,3.19
+34,8.40,43461,https://www.beeradvocate.com/beer/profile/506/43461/,"Amsterdam Navigator 8,4",506,Grolsch Bierbrouwerij N.V.,37,2.4
+35,12.60,36412,https://www.beeradvocate.com/beer/profile/12215/36412/,X-Beer 33,12215,Minipivovar U Medvídků,36,3.47
+36,6.40,62387,https://www.beeradvocate.com/beer/profile/4173/62387/,Cruzcampo Gran Reserva,4173,Grupo Cruzcampo SA,36,3.2
+37,6.20,62885,https://www.beeradvocate.com/beer/profile/12633/62885/,San Miguel Selecta,12633,San Miguel Fabricas De Cervaza Y Maltas S.A.,34,2.93
+38,8.00,10679,https://www.beeradvocate.com/beer/profile/4847/10679/,XO Beer,4847,Brasserie des Gabariers (L&L Cognac SA),34,3.24
+39,9.50,32780,https://www.beeradvocate.com/beer/profile/12224/32780/,Aiko,12224,Rinkuškiai,33,3.07
+40,9.40,41613,https://www.beeradvocate.com/beer/profile/12224/41613/,"Zhiguly Grande 9,5",12224,Rinkuškiai,32,3.09
+41,7.20,2091,https://www.beeradvocate.com/beer/profile/709/2091/,Slavutich Mitzne,709,Slavutych Brewery,31,2.77
+42,7.60,11342,https://www.beeradvocate.com/beer/profile/304/11342/,Budvar Super Strong,304,"Budějovický Budvar, n.p.",31,3.35
+43,8.60,24197,https://www.beeradvocate.com/beer/profile/3218/24197/,Boris Bold,3218,Brasserie Licorne,31,2.18
+44,8.60,15615,https://www.beeradvocate.com/beer/profile/783/15615/,Faxe Royal Strong,783,Royal Unibrew A/S,30,2.76
+45,7.00,1415,https://www.beeradvocate.com/beer/profile/163/1415/,Amstel Gold,163,Amstel Brouwerij B. V.,29,3.01
+46,9.00,54760,https://www.beeradvocate.com/beer/profile/3778/54760/,Karpackie Super,3778,Browar Van Pur S.A. (Brau Union Polska),29,2.94
+47,7.20,67879,https://www.beeradvocate.com/beer/profile/17006/67879/,Moritz Epidor,17006,"Cervezas Moritz, S.A.",27,3.19
+48,7.20,8319,https://www.beeradvocate.com/beer/profile/401/8319/,Yarpivo Strong (Krepkoye),401,Baltika Breweries,26,2.6
+49,7.00,62342,https://www.beeradvocate.com/beer/profile/568/62342/,Okocim Mocne Premium Malt Liquor,568,Browar Okocim S.A. (Carlsberg),26,3.23
+50,7.00,6872,https://www.beeradvocate.com/beer/profile/2438/6872/,Rycerskie,2438,Browar Namysłów Sp. z o.o.,26,3.33
+51,9.00,23249,https://www.beeradvocate.com/beer/profile/707/23249/,Primátor 21% Rytírský (Knight's Lager),707,Pivovar Náchod a.s.,25,3.41
+52,7.40,50807,https://www.beeradvocate.com/beer/profile/917/50807/,Ambar Export,917,La Zaragozana S.A.,24,3.45
+53,7.50,114142,https://www.beeradvocate.com/beer/profile/18223/114142/,Grička Vještica,18223,Pivnica Medvedgrad Adijina,24,3.78
+54,10.00,5724,https://www.beeradvocate.com/beer/profile/507/5724/,Gulpener Gladiator Robuust Bier,507,Gulpener Bierbrouwerij B.V.,23,2.89
+55,7.20,32806,https://www.beeradvocate.com/beer/profile/9262/32806/,Mezquita,9262,"Grupo Cervezas Alhambra, SL",22,3.03
+56,7.00,24215,https://www.beeradvocate.com/beer/profile/10430/24215/,Lvivske Mitzne,10430,Lvivska Pivovarnya (BBH),22,2.61
+57,9.00,44356,https://www.beeradvocate.com/beer/profile/1332/44356/,Cisk XS Extra Lager,1332,Simonds Farsons Cisk Plc.,20,2.16
+58,7.20,49298,https://www.beeradvocate.com/beer/profile/1498/49298/,Kronenbourg 7.2 Blonde,1498,Brasseries Kronenbourg,20,2.85
+59,7.50,57800,https://www.beeradvocate.com/beer/profile/1463/57800/,Harboe Bear Beer Premium Strong Beer,1463,Harboes Bryggeri A/S,19,2.62
+60,8.00,27363,https://www.beeradvocate.com/beer/profile/5503/27363/,King Cobra,5503,Browar Belgia,19,3.23
+61,6.30,99629,https://www.beeradvocate.com/beer/profile/13371/99629/,Poznan Zdjecie,13371,Voodoo Brewery,18,3.59
+62,12.00,24375,https://www.beeradvocate.com/beer/profile/9534/24375/,Gordon Finest Platinum 12-12,9534,John Martin's (John Martin SA),18,2.81
+63,8.00,25918,https://www.beeradvocate.com/beer/profile/12224/25918/,Biriečiu,12224,Rinkuškiai,18,2.95
+64,8.40,26121,https://www.beeradvocate.com/beer/profile/9534/26121/,Gordon Finest Red,9534,John Martin's (John Martin SA),17,3.07
+65,5.00,154406,https://www.beeradvocate.com/beer/profile/2055/154406/,Bernard Amber Lager,2055,Bernard Family Brewery,17,3.57
+66,7.90,57666,https://www.beeradvocate.com/beer/profile/2431/57666/,Apostel Bräu Extra Strong,2431,Privatbrauerei Eichbaum GmbH & Co. KG,17,2.78
+67,8.00,25932,https://www.beeradvocate.com/beer/profile/12224/25932/,Uosto,12224,Rinkuškiai,17,2.52
+68,8.00,5006,https://www.beeradvocate.com/beer/profile/1374/5006/,Ohota Krepkoye (Strong),1374,Heineken St.Petersburg Brewery Ltd.,17,2.08
+69,6.50,89792,https://www.beeradvocate.com/beer/profile/2656/89792/,Warka Strong Dwuslodowy,2656,Browary Warka Sp. z o.o.,17,3.42
+70,8.00,24304,https://www.beeradvocate.com/beer/profile/4936/24304/,Krasny Vostok Extra,4936,Krasniy Vostok,17,2.38
+71,5.70,34066,https://www.beeradvocate.com/beer/profile/623/34066/,Warka Jasne Pelne,623,Zywiec Breweries PLC (Heineken),16,2.61
+72,12.00,86122,https://www.beeradvocate.com/beer/profile/548/86122/,Oranjeboom Super Strong,548,Oranjeboom Bierbrouwerij B. V.,16,2.39
+73,7.00,78061,https://www.beeradvocate.com/beer/profile/10161/78061/,Birra Moretti Doppio Malto,10161,Birra Moretti (Heineken),16,3.22
+74,8.50,55631,https://www.beeradvocate.com/beer/profile/548/55631/,Oranjeboom Extra Strong,548,Oranjeboom Bierbrouwerij B. V.,15,2.54
+75,7.00,46287,https://www.beeradvocate.com/beer/profile/4748/46287/,Víking Sterkur,4748,Viking Brewery - Vifilfell Ltd.,15,2.83
+76,10.60,4351,https://www.beeradvocate.com/beer/profile/721/4351/,Carlsberg Master Brew,721,Carlsberg Danmark A/S,15,2.39
+77,7.50,54812,https://www.beeradvocate.com/beer/profile/9374/54812/,Maksimum,9374,UAB Švyturys - Utenos alus,14,2.91
+78,7.50,60483,https://www.beeradvocate.com/beer/profile/9033/60483/,Tuborg Special,9033,Turk Tuborg Brewing and Malting,14,3.01
+79,7.00,81287,https://www.beeradvocate.com/beer/profile/623/81287/,Tatra Malt Liquor,623,Zywiec Breweries PLC (Heineken),14,3.02
+80,16.00,233885,https://www.beeradvocate.com/beer/profile/12224/233885/,Fuggin' Awesome,12224,Rinkuškiai,14,2.71
+81,7.90,192690,https://www.beeradvocate.com/beer/profile/498/192690/,Bavaria 8.6 Red,498,Bavaria Brouwerij N.V.,14,2.8
+82,8.30,50624,https://www.beeradvocate.com/beer/profile/134/50624/,Jupiler Tauro,134,Brasserie Piedboeuf,14,2.52
+83,7.00,93656,https://www.beeradvocate.com/beer/profile/555/93656/,Feldschlösschen Stark,555,Feldschlösschen Beverages Group,14,3.15
+84,10.60,10236,https://www.beeradvocate.com/beer/profile/4386/10236/,Wiibroe Årgangsøl,4386,Wiibroes Bryggeri,14,2.28
+85,6.50,28930,https://www.beeradvocate.com/beer/profile/2209/28930/,Borsodi Bivaly,2209,Borsodi Brewery,13,3.07
+86,6.90,49161,https://www.beeradvocate.com/beer/profile/4087/49161/,Mariestads Old Ox,4087,Spendrups Bryggeri AB,13,3
+87,7.00,25917,https://www.beeradvocate.com/beer/profile/12224/25917/,Baro Tradicinis,12224,Rinkuškiai,13,3.21
+88,7.70,22604,https://www.beeradvocate.com/beer/profile/1463/22604/,Harboe Bjørnebryg Extra Stark (Bear Beer Extra Strong),1463,Harboes Bryggeri A/S,13,2.54
+89,6.50,31113,https://www.beeradvocate.com/beer/profile/1382/31113/,Aldara Stiprais (Strong),1382,Aldaris,13,2.38
+90,8.00,22982,https://www.beeradvocate.com/beer/profile/9351/22982/,Jihlavsky Grand,9351,Pivovar a Sodovkárna Jihlava,13,3.17
+91,9.50,136979,https://www.beeradvocate.com/beer/profile/886/136979/,B&I Zhiguly Barrel Beer 95,886,Gubernija Brewery,12,2.4
+92,7.00,40024,https://www.beeradvocate.com/beer/profile/2689/40024/,Stejar Strong Beer,2689,Ursus S.A. (SAB) / Compania de Bere Romania,12,2.47
+93,7.50,22935,https://www.beeradvocate.com/beer/profile/2230/22935/,Kopparbergs Elk Brew X-Strong,2230,Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts),12,1.72
+94,7.00,24233,https://www.beeradvocate.com/beer/profile/5514/24233/,Staropolskie Mocne,5514,Browar Staropolski,12,3.21
+95,6.70,59315,https://www.beeradvocate.com/beer/profile/1/59315/,Master Zlatý 15°,1,Plzeňský Prazdroj,12,3.46
+96,10.50,123157,https://www.beeradvocate.com/beer/profile/498/123157/,Bavaria 8.6 Extreme,498,Bavaria Brouwerij N.V.,11,3.06
+97,12.00,108609,https://www.beeradvocate.com/beer/profile/12224/108609/,Wielka Siła,12224,Rinkuškiai,11,3.1
+98,7.30,8345,https://www.beeradvocate.com/beer/profile/3825/8345/,Åbro Original Extra Stark 7.3%,3825,Åbro Bryggeri,11,2.54
+99,8.40,34475,https://www.beeradvocate.com/beer/profile/976/34475/,Navigator 8.4,976,Dutch Export Breweries,11,1.93
+100,7.10,35823,https://www.beeradvocate.com/beer/profile/711/35823/,Sherbrooke Shamrock,711,Alley Kat Brewing Company,11,3.53
+101,7.50,66308,https://www.beeradvocate.com/beer/profile/163/66308/,Amstel Extra,163,Amstel Brouwerij B. V.,10,2.87
+102,6.50,60297,https://www.beeradvocate.com/beer/profile/4949/60297/,Keler,4949,Damm S. A.,10,3.34
+103,6.50,130186,https://www.beeradvocate.com/beer/profile/5502/130186/,Amber Johannes,5502,Browar Amber,10,3.01
+104,9.00,118413,https://www.beeradvocate.com/beer/profile/18154/118413/,KOMES Potrojny Zloty,18154,Browar Fortuna,10,3.58
+105,7.50,9107,https://www.beeradvocate.com/beer/profile/1435/9107/,Tuborg Fine Festival (FF),1435,Tuborgs Bryggerier A/S,10,2.63
+106,12.00,93347,https://www.beeradvocate.com/beer/profile/1463/93347/,Harboe Extra Strong 12%,1463,Harboes Bryggeri A/S,10,2.9
+107,5.00,113343,https://www.beeradvocate.com/beer/profile/440/113343/,Stolichnoe Lager,440,Ochakovo,10,3.61
+108,8.00,71435,https://www.beeradvocate.com/beer/profile/9775/71435/,Bière Spéciale Blonde Extra Forte,9775,Brasserie de Saint-Omer,9,2.83
+109,6.40,7979,https://www.beeradvocate.com/beer/profile/473/7979/,Ironhorse Malt,473,Pacific Western Brewing Company,9,1.89
+110,7.00,22072,https://www.beeradvocate.com/beer/profile/10897/22072/,Pripps Blå Extra Stark,10897,Carlsberg Sverige AB,9,2.63
+111,7.50,235327,https://www.beeradvocate.com/beer/profile/920/235327/,Maestra,920,Mahou S.A.,9,3.22
+112,6.80,42324,https://www.beeradvocate.com/beer/profile/439/42324/,Super Bock Abadia Gold,439,UNICER União Cervejeira S.A.,9,2.68
+113,6.00,86363,https://www.beeradvocate.com/beer/profile/30151/86363/,Keserű Méz,30151,Fóti Kézműves Sörfőzde,9,3.56
+114,7.00,35999,https://www.beeradvocate.com/beer/profile/391/35999/,Bow Valley Strong Lager,391,Big Rock Brewery,9,1.97
+115,8.80,5550,https://www.beeradvocate.com/beer/profile/727/5550/,Baron's Strong Brew,727,Asia Pacific Breweries Limited,9,2.19
+116,8.00,27589,https://www.beeradvocate.com/beer/profile/2430/27589/,Meister Max,2430,Al Ahram Beverages Company,9,2.45
+117,7.00,38346,https://www.beeradvocate.com/beer/profile/1885/38346/,Klang Beer,1885,Cambrew / Angkor Brewery,9,2.63
+118,7.50,94420,https://www.beeradvocate.com/beer/profile/10174/94420/,King Cobra,10174,Cobra Beer Partnership Limited,9,2.8
+119,8.25,227605,https://www.beeradvocate.com/beer/profile/507/227605/,Gulpener Plato 18.25,507,Gulpener Bierbrouwerij B.V.,8,3.41
+120,8.00,72732,https://www.beeradvocate.com/beer/profile/5514/72732/,Zorg,5514,Browar Staropolski,8,2.05
+121,8.50,24610,https://www.beeradvocate.com/beer/profile/11065/24610/,Olvi Tuplapukki IV B,11065,Olvi Oyj,8,2.15
+122,8.90,44323,https://www.beeradvocate.com/beer/profile/1539/44323/,Codys Super Strong,1539,Oettinger International Getränke-Vertriebs GmbH,8,2.59
+123,6.00,53804,https://www.beeradvocate.com/beer/profile/7017/53804/,Lübzer Urkraft,7017,Mecklenburgische Brauerei Lübz GmbH,8,2.97
+124,7.40,21549,https://www.beeradvocate.com/beer/profile/601/21549/,Obolon Mitsne  (Krepkoe),601,Obolon Brewery,8,2.74
+125,7.00,23613,https://www.beeradvocate.com/beer/profile/23280/23613/,Jurand Mocne,23280,Barlan Beverages Group,8,3.36
+126,9.00,42814,https://www.beeradvocate.com/beer/profile/188/42814/,Kestrel Super Lager,188,The Caledonian Brewing Company,8,3.19
+127,6.20,42049,https://www.beeradvocate.com/beer/profile/4936/42049/,Krasniy Vostok Yershistoe,4936,Krasniy Vostok,8,2.97
+128,10.20,22115,https://www.beeradvocate.com/beer/profile/13882/22115/,"Arboga 10,2",13882,Galatea AB,8,1.89
+129,7.50,28569,https://www.beeradvocate.com/beer/profile/9771/28569/,Harrington's Ngahere Gold,9771,Harringtons Brewery,8,3.12
+130,16.00,233884,https://www.beeradvocate.com/beer/profile/12224/233884/,Effin' Awesome,12224,Rinkuškiai,8,2.32
+131,8.50,80342,https://www.beeradvocate.com/beer/profile/21/80342/,Royal Dutch Post Horn Extra Strong,21,Union Export Brewery,8,2.96
+132,12.00,78131,https://www.beeradvocate.com/beer/profile/21/78131/,Atlas 12,21,Union Export Brewery,7,1.92
+133,6.80,75062,https://www.beeradvocate.com/beer/profile/3778/75062/,Karpackie Mocne (Extra),3778,Browar Van Pur S.A. (Brau Union Polska),7,3.06
+134,6.50,44391,https://www.beeradvocate.com/beer/profile/1935/44391/,Menabrea 150° Anniversario Strong,1935,Birra Menabrea SpA,7,2.98
+135,6.00,31883,https://www.beeradvocate.com/beer/profile/14225/31883/,India Special Reserve Beer,14225,Manav Breweries Pvt. Ltd.,7,2.63
+136,9.00,53174,https://www.beeradvocate.com/beer/profile/15781/53174/,Skol Super,15781,Carlsberg Breweries A/S,7,2.93
+137,7.10,88777,https://www.beeradvocate.com/beer/profile/6484/88777/,Beliy Medved Krepkoe,6484,Pivovariya Moskva-Efes ZAO,7,2.67
+138,7.00,43986,https://www.beeradvocate.com/beer/profile/560/43986/,Taurus,560,Saku Brewery LTD,7,2.68
+139,10.50,188430,https://www.beeradvocate.com/beer/profile/721/188430/,Carlsberg Elephant Extra Strong,721,Carlsberg Danmark A/S,6,2.41
+140,10.00,71446,https://www.beeradvocate.com/beer/profile/7333/71446/,Larine Grand 95,7333,Darguner Brauerei GmbH,6,2.48
+141,14.00,139808,https://www.beeradvocate.com/beer/profile/9534/139808/,Gordon Finest Titanium,9534,John Martin's (John Martin SA),6,3.2
+142,7.50,22304,https://www.beeradvocate.com/beer/profile/4089/22304/,Three Hearts X-Strong,4089,Krönleins Bryggeri AB,6,2.66
+143,7.00,41508,https://www.beeradvocate.com/beer/profile/5514/41508/,Zagloba Mocne,5514,Browar Staropolski,6,3.44
+144,10.50,87106,https://www.beeradvocate.com/beer/profile/9534/87106/,Gordon Finest Chrome,9534,John Martin's (John Martin SA),6,2.81
+145,9.20,54342,https://www.beeradvocate.com/beer/profile/546/54342/,Alfa Super Strong 9.2,546,Alfa Bierbrouwerij B.V.,6,2.44
+146,7.50,15951,https://www.beeradvocate.com/beer/profile/9056/15951/,Chernigivske Mitsne,9056,Chernigivske Pivokombinat,6,1.62
+147,7.70,22117,https://www.beeradvocate.com/beer/profile/13882/22117/,"Arboga 7,7",13882,Galatea AB,6,2.4
+148,7.90,188276,https://www.beeradvocate.com/beer/profile/10871/188276/,PerlenBacher Strong,10871,Mauritius Brauerei,6,2.66
+149,7.20,21943,https://www.beeradvocate.com/beer/profile/3825/21943/,Åbro Sjukommatvåan,3825,Åbro Bryggeri,6,1.79
+150,7.30,26056,https://www.beeradvocate.com/beer/profile/13882/26056/,"Arboga 7,3",13882,Galatea AB,6,1.67
+151,8.90,177098,https://www.beeradvocate.com/beer/profile/5142/177098/,Oettinger Super Forte,5142,Oettinger Brauerei,6,2.88
+152,8.40,52428,https://www.beeradvocate.com/beer/profile/36/52428/,"Belzebuth 8,4",36,Brasserie Grain d' Orge (Brasserie Jeanne d'Arc SA),6,2.77
+153,7.00,173050,https://www.beeradvocate.com/beer/profile/1292/173050/,Alfa Strong,1292,Athenian Brewery,6,3.09
+154,9.20,44038,https://www.beeradvocate.com/beer/profile/16023/44038/,Crown Ambassador Reserve Lager,16023,Crown Beverages,5,3.83
+155,5.50,64779,https://www.beeradvocate.com/beer/profile/555/64779/,Weihnachtsbier,555,Feldschlösschen Beverages Group,5,3.2
+156,7.20,22856,https://www.beeradvocate.com/beer/profile/4087/22856/,Wårby Stockholm Extra Stark,4087,Spendrups Bryggeri AB,5,2.4
+157,9.10,24915,https://www.beeradvocate.com/beer/profile/269/24915/,Ceres Old 9,269,Ceres Brewery (Royal Unibrew),5,2.72
+158,7.00,106841,https://www.beeradvocate.com/beer/profile/2891/106841/,Koenigsbier Extra Forte,2891,Karlsberg Brauerei,5,2.62
+159,8.50,170096,https://www.beeradvocate.com/beer/profile/1463/170096/,Bear Beer Special Label,1463,Harboes Bryggeri A/S,5,2.51
+160,6.80,205684,https://www.beeradvocate.com/beer/profile/6484/205684/,387 Osobaya Varka,6484,Pivovariya Moskva-Efes ZAO,5,2.94
+161,6.10,82826,https://www.beeradvocate.com/beer/profile/569/82826/,Efes Yuksek Alkollu FICI,569,Anadolu Efes Brewery,5,2.95
+162,7.20,187544,https://www.beeradvocate.com/beer/profile/42043/187544/,Argus Strong,42043,Lidl Polska,5,2.75
+163,7.00,82847,https://www.beeradvocate.com/beer/profile/391/82847/,Co-op Strong Lager,391,Big Rock Brewery,5,2.8
+164,7.30,81076,https://www.beeradvocate.com/beer/profile/12226/81076/,Jelen Strong,12226,Apatinska Pivara A.D.,5,2.36
+165,6.70,23482,https://www.beeradvocate.com/beer/profile/672/23482/,Specjal Mocny,672,Elbrewery Co. Ltd. Sp. z o.o.,5,2.94
+166,6.60,32447,https://www.beeradvocate.com/beer/profile/3778/32447/,Van Pur Zlaty Hrad Strong,3778,Browar Van Pur S.A. (Brau Union Polska),5,2.88
+167,5.60,146631,https://www.beeradvocate.com/beer/profile/17209/146631/,Tuborg Christmas Brew,17209,United Romanian Breweries Bereprod,5,2.17
+168,8.00,177616,https://www.beeradvocate.com/beer/profile/258/177616/,Peroni Forte,258,Birra Peroni Industriale S.p.A.,5,2.73
+169,6.80,48349,https://www.beeradvocate.com/beer/profile/506/48349/,Explorator,506,Grolsch Bierbrouwerij N.V.,5,2.43
+170,8.50,309486,https://www.beeradvocate.com/beer/profile/25979/309486/,Brett Lager (The Ale Apothecary collaboration),25979,GoodLife Brewing Company & Bier Hall,5,4.08
+171,7.20,59631,https://www.beeradvocate.com/beer/profile/12586/59631/,Ambrosius Strong,12586,Pivovar Holba,5,2.47
+172,7.90,73736,https://www.beeradvocate.com/beer/profile/6678/73736/,Grafenwalder Strong,6678,Oderland Brauerei GmbH,4,2.89
+173,8.80,13321,https://www.beeradvocate.com/beer/profile/3218/13321/,"8,8 Premium Strong Beer",3218,Brasserie Licorne,4,3.52
+174,8.50,78128,https://www.beeradvocate.com/beer/profile/21/78128/,Atlas 8.5,21,Union Export Brewery,4,2.16
+175,6.50,169795,https://www.beeradvocate.com/beer/profile/5502/169795/,Harde,5502,Browar Amber,4,3.31
+176,7.00,107078,https://www.beeradvocate.com/beer/profile/33156/107078/,Albacher Winter,33156,Romaqua Group,4,2.69
+177,6.30,140872,https://www.beeradvocate.com/beer/profile/28292/140872/,Dub I Obruch Vyderzhannoe,28292,"OOO ""Zavod Trehsosenskiy""",4,3.23
+178,8.60,114764,https://www.beeradvocate.com/beer/profile/1535/114764/,Xtreme Tremblay,1535,Brasseurs R.J.,4,2
+179,6.40,110928,https://www.beeradvocate.com/beer/profile/30113/110928/,Vánoční Amber / Christmas Amber,30113,Pivovar U Tří Růží,4,4.14
+180,7.40,122966,https://www.beeradvocate.com/beer/profile/24132/122966/,Krzepkie,24132,Browar Kormoran,4,3.38
+181,6.10,96856,https://www.beeradvocate.com/beer/profile/2382/96856/,Meteor Grand Malt,2382,Brasserie Meteor,4,2.98
+182,10.00,22122,https://www.beeradvocate.com/beer/profile/2230/22122/,Kopparbergs Special Brew Super X-strong,2230,Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts),4,1.8
+183,7.50,22136,https://www.beeradvocate.com/beer/profile/2230/22136/,Sofiero Guld,2230,Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts),4,2.05
+184,8.00,32640,https://www.beeradvocate.com/beer/profile/1084/32640/,Mythos Max 8% Helenic Lager Beer,1084,Mythos Breweries S.A.,4,2.2
+185,9.00,220568,https://www.beeradvocate.com/beer/profile/40019/220568/,Csíki Mezes Sör,40019,Csíki Sör Manufaktúra S.C. (Lixid Project Srl.),4,3.22
+186,12.00,157341,https://www.beeradvocate.com/beer/profile/7333/157341/,Darguner Bear Beer (Extra Strong),7333,Darguner Brauerei GmbH,4,2.82
+187,8.40,28090,https://www.beeradvocate.com/beer/profile/1693/28090/,Bogemia Pale Beer,1693,Krasnyj Vostok,4,2.86
+188,6.50,93889,https://www.beeradvocate.com/beer/profile/1917/93889/,Zubr Ciemnozloty,1917,Kompania Piwowarska,4,3.31
+189,8.40,37082,https://www.beeradvocate.com/beer/profile/664/37082/,Crest Super,664,Wells & Young's Ltd,4,2.72
+190,6.50,115930,https://www.beeradvocate.com/beer/profile/9369/115930/,Andaman Gold Special,9369,Myanmar Brewery and Distillery,4,2.23
+191,6.30,111334,https://www.beeradvocate.com/beer/profile/908/111334/,Vergina Porfyra,908,Macedonian Thrace Brewery SA,4,3.59
+192,7.20,287499,https://www.beeradvocate.com/beer/profile/46039/287499/,Trump,46039,Pravda Beer Theatre,3,3.28
+193,7.90,147726,https://www.beeradvocate.com/beer/profile/2431/147726/,Germania Premium Strong,2431,Privatbrauerei Eichbaum GmbH & Co. KG,3,2.69
+194,8.00,24597,https://www.beeradvocate.com/beer/profile/264/24597/,Karhu Tosi Vahva (Special Strength),264,Oy Sinebrychoff Ab,3,2.94
+195,6.10,63777,https://www.beeradvocate.com/beer/profile/5504/63777/,Lubuskie,5504,BOSS Browar Witnica S.A.,3,3.06
+196,8.90,246839,https://www.beeradvocate.com/beer/profile/1539/246839/,Original Oettinger Super Forte,1539,Oettinger International Getränke-Vertriebs GmbH,3,2.73
+197,7.60,186431,https://www.beeradvocate.com/beer/profile/1781/186431/,Perla Mocna,1781,Perla Browary Lubelskie S.A.,3,2.86
+198,7.00,99400,https://www.beeradvocate.com/beer/profile/506/99400/,Amsterdam Admiral,506,Grolsch Bierbrouwerij N.V.,3,2.88
+199,7.00,59479,https://www.beeradvocate.com/beer/profile/21589/59479/,Beer Beer Strong,21589,Something Brewing,3,2.48
+200,7.90,74584,https://www.beeradvocate.com/beer/profile/498/74584/,Bavaria Original Special Blond,498,Bavaria Brouwerij N.V.,3,2.95
+201,7.20,106842,https://www.beeradvocate.com/beer/profile/21/106842/,Atlas 7.2,21,Union Export Brewery,3,2.9
+202,7.00,23903,https://www.beeradvocate.com/beer/profile/1798/23903/,Irseer Klosterstarkbier,1798,Irseer Klosterbräu,3,3.1
+203,12.00,65382,https://www.beeradvocate.com/beer/profile/12224/65382/,Cocka-Too,12224,Rinkuškiai,3,1.01
+204, ? ,120425,https://www.beeradvocate.com/beer/profile/28018/120425/,Maibock,28018,Rapp Brewing Company,3,3.84
+205,7.50,22123,https://www.beeradvocate.com/beer/profile/2230/22123/,Kopparbergs Special Brew X-strong,2230,Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts),3,1.88
+206,7.00,69507,https://www.beeradvocate.com/beer/profile/149/69507/,Speciale Prestige,149,Brasserie Lefèbvre SA,3,1.77
+207,9.00,48003,https://www.beeradvocate.com/beer/profile/5503/48003/,Wojak Super Mocny,5503,Browar Belgia,3,3.38
+208,7.00,76166,https://www.beeradvocate.com/beer/profile/20775/76166/,Ciechan Mocne,20775,Browar Ciechan,3,2.82
+209,8.00,79763,https://www.beeradvocate.com/beer/profile/1781/79763/,Perla Extra,1781,Perla Browary Lubelskie S.A.,3,3.38
+210,8.00,88988,https://www.beeradvocate.com/beer/profile/498/88988/,Schultenbrau Zwaar Bier 8%,498,Bavaria Brouwerij N.V.,3,2.89
+211,7.50,267692,https://www.beeradvocate.com/beer/profile/304/267692/,Bud B:Strong,304,"Budějovický Budvar, n.p.",3,3.11
+212,4.50,109997,https://www.beeradvocate.com/beer/profile/14653/109997/,Zaječarsko Zidarac,14653,Pivara Zajecar D. D.,3,3.43
+213, ? ,171442,https://www.beeradvocate.com/beer/profile/25622/171442/,Louie,25622,Twisted X Brewing Company,3,3.54
+214,9.00,235712,https://www.beeradvocate.com/beer/profile/9033/235712/,Tuborg Shot,9033,Turk Tuborg Brewing and Malting,3,1.87
+215,7.00,121799,https://www.beeradvocate.com/beer/profile/8464/121799/,Chisinau Speciala Tare,8464,Efes-Vitanta-Moldova Brewery S.A.,3,2.59
+216,10.50,139470,https://www.beeradvocate.com/beer/profile/3218/139470/,Boris Slam,3218,Brasserie Licorne,3,2.03
+217,7.00,57559,https://www.beeradvocate.com/beer/profile/3517/57559/,Martens Extra 7.0,3517,Brouwerij Martens NV,3,1.95
+218,7.90,83676,https://www.beeradvocate.com/beer/profile/498/83676/,Hollandia Super Strong,498,Bavaria Brouwerij N.V.,3,3.47
+219,6.50,50911,https://www.beeradvocate.com/beer/profile/12359/50911/,Krynitsa Mocnae,12359,Krinitsa,3,3.3
+220, ? ,71922,https://www.beeradvocate.com/beer/profile/2972/71922/,Mother Lode Lager,2972,Mountain Sun Pub & Brewery,3,3.18
+221,6.20,81657,https://www.beeradvocate.com/beer/profile/8468/81657/,Lidskoe Stariy Zamoc,8468,Lidskoye Pivo OAO,3,2.82
+222,7.50,250881,https://www.beeradvocate.com/beer/profile/5994/250881/,Mein Boomerang,5994,Brauhaus Nittenau,2,4.04
+223,8.00,141073,https://www.beeradvocate.com/beer/profile/16053/141073/,Strela Ego,16053,CERIS - Sociedade Caboverdiana De Cerveja E Refrigerantes S.A.R.,2,3.29
+224,14.50,323857,https://www.beeradvocate.com/beer/profile/24808/323857/,Massacre: 2017,24808,Wolverine State Brewing Company,2,4
+225,7.90,68115,https://www.beeradvocate.com/beer/profile/21114/68115/,Bière Blonde Spéciale Forte,21114,Scamark,2,2.25
+226,6.30,61717,https://www.beeradvocate.com/beer/profile/4107/61717/,Cerna Hora 1530 Specialni Svetle,4107,Pivovar Černá Hora,2,2.8
+227,7.50,55575,https://www.beeradvocate.com/beer/profile/11057/55575/,Vestfyen Golden Christmas,11057,Bryggeriet Vestfyen,2,3.15
+228,5.50,181800,https://www.beeradvocate.com/beer/profile/41261/181800/,Rudimentary Peni,41261,Brasserie du Haut-Buëch,2,3.63
+229,7.00,255788,https://www.beeradvocate.com/beer/profile/568/255788/,Okocim Mocne Dubeltowe,568,Browar Okocim S.A. (Carlsberg),2,2.61
+230,7.20,277294,https://www.beeradvocate.com/beer/profile/3778/277294/,Leon Steiner Strong,3778,Browar Van Pur S.A. (Brau Union Polska),2,3.06
+231,7.50,123183,https://www.beeradvocate.com/beer/profile/8535/123183/,Tuborg Strong,8535,Carlsberg-Tetley Brewing Ltd,2,2.88
+232,6.00,70708,https://www.beeradvocate.com/beer/profile/18231/70708/,Purkmistr Radni 14,18231,Pivovarský dvůr Plzeň / Purkmistr Restaurant,2,4.1
+233,8.00,77364,https://www.beeradvocate.com/beer/profile/16097/77364/,Murree's Millennium,16097,Murree Brewery Co. Ltd.,2,2.88
+234,12.20,206400,https://www.beeradvocate.com/beer/profile/3517/206400/,"Extra Strong 12,2",3517,Brouwerij Martens NV,2,2.29
+235,8.10,90690,https://www.beeradvocate.com/beer/profile/20914/90690/,Fortas Stiprusis Alus,20914,Volfas Engelman,2,3.55
+236,6.70,69956,https://www.beeradvocate.com/beer/profile/1435/69956/,Tuborg Cold Shot 6.5,1435,Tuborgs Bryggerier A/S,2,1.9
+237,7.90,148812,https://www.beeradvocate.com/beer/profile/16422/148812/,Germania Premium Strong,16422,Frankenthaler Brauhaus,2,3
+238,10.00,22609,https://www.beeradvocate.com/beer/profile/1463/22609/,Harboe Årgangsbryg,1463,Harboes Bryggeri A/S,2,1.92
+239,7.00,53599,https://www.beeradvocate.com/beer/profile/12224/53599/,Rinkukiu Tradicinis (Traditional),12224,Rinkuškiai,2,3.74
+240,9.00,282983,https://www.beeradvocate.com/beer/profile/9534/282983/,Gordon Xplosion Revolución,9534,John Martin's (John Martin SA),2,2.22
+241,8.00,209769,https://www.beeradvocate.com/beer/profile/380/209769/,La Bête,380,Brasserie Castelain,2,3.15
+242,5.50,38507,https://www.beeradvocate.com/beer/profile/822/38507/,Allsopps Lager,822,East African Breweries Ltd (Kenya Breweries),2,2.75
+243,7.00,264046,https://www.beeradvocate.com/beer/profile/10161/264046/,Lunga Maturazione,10161,Birra Moretti (Heineken),2,3.55
+244,8.50,50810,https://www.beeradvocate.com/beer/profile/81/50810/,McFarland Strong Ale,81,Heineken Nederland B.V.,2,2.87
+245,6.50,28288,https://www.beeradvocate.com/beer/profile/9208/28288/,Ultra Ale,9208,Umenishiki Yamakawa,2,3.49
+246,8.80,300932,https://www.beeradvocate.com/beer/profile/48543/300932/,Ruud-er,48543,Attaboy Beer,2,4.09
+247,7.40,84875,https://www.beeradvocate.com/beer/profile/709/84875/,Arsenal Mitsne,709,Slavutych Brewery,2,2.59
+248,5.20,95888,https://www.beeradvocate.com/beer/profile/6577/95888/,Signature Brew Doctors Orders,6577,Titanic Brewery,2,3.18
+249,7.10,228752,https://www.beeradvocate.com/beer/profile/601/228752/,Obolon Miyhe Extra Ale,601,Obolon Brewery,2,3.1
+250,6.00,47504,https://www.beeradvocate.com/beer/profile/91/47504/,Zingaro,91,United Breweries - UB Group,2,2.58
+251,6.30,161681,https://www.beeradvocate.com/beer/profile/861/161681/,Neuzeller Closter Zell,861,Klosterbrauerei Neuzelle GmbH,2,3.34
+252,6.50,71314,https://www.beeradvocate.com/beer/profile/623/71314/,Strong Szlachetny Gatunek,623,Zywiec Breweries PLC (Heineken),2,2.77
+253,10.00,78226,https://www.beeradvocate.com/beer/profile/21/78226/,Phoenix 10 Imported Strong Beer,21,Union Export Brewery,2,3.03
+254,7.00,44948,https://www.beeradvocate.com/beer/profile/23282/44948/,"Fliegerbier (bière Des Aviateurs, Pilot's Beer)",23282,Engel Brauerei,2,3
+255,8.00,79766,https://www.beeradvocate.com/beer/profile/498/79766/,C1000 Extra Sterk,498,Bavaria Brouwerij N.V.,2,2.74
+256,6.30,58011,https://www.beeradvocate.com/beer/profile/21333/58011/,Podkrkonoský Speciál,21333,Nova Paka Brewery,2,2.8
+257,13.00,303005,https://www.beeradvocate.com/beer/profile/24808/303005/,Massacre: 2016,24808,Wolverine State Brewing Company,2,4.28
+258,7.50,101022,https://www.beeradvocate.com/beer/profile/1463/101022/,De 5 Gaarde Didrik Luxusbryg,1463,Harboes Bryggeri A/S,2,2.25
+259,8.00,235422,https://www.beeradvocate.com/beer/profile/569/235422/,Amsterdam Navigator,569,Anadolu Efes Brewery,2,2.09
+260,7.00,189092,https://www.beeradvocate.com/beer/profile/920/189092/,Cerveza Extra / Maravillas,920,Mahou S.A.,2,3.07
+261,7.00,172457,https://www.beeradvocate.com/beer/profile/2891/172457/,Carrefour Extra,2891,Karlsberg Brauerei,2,2.9
+262,14.00,315823,https://www.beeradvocate.com/beer/profile/548/315823/,Oranjeboom Premium Strong,548,Oranjeboom Bierbrouwerij B. V.,2,1.71
+263,8.10,123059,https://www.beeradvocate.com/beer/profile/5502/123059/,Pirackie,5502,Browar Amber,2,2.88
+264,8.00,180662,https://www.beeradvocate.com/beer/profile/4102/180662/,"Karjala 8,0 %",4102,Hartwall Helsinki Panimo,2,1.45
+265,6.50,126648,https://www.beeradvocate.com/beer/profile/623/126648/,Zywiec Strong,623,Zywiec Breweries PLC (Heineken),2,3.75
+266,7.70,72893,https://www.beeradvocate.com/beer/profile/9534/72893/,Gordon Finest Silver,9534,John Martin's (John Martin SA),2,3.4
+267,7.90,254923,https://www.beeradvocate.com/beer/profile/204/254923/,Maccabee Beer 7.9%,204,Tempo Beer Industries LTD,2,2.83
+268,8.00,188878,https://www.beeradvocate.com/beer/profile/23305/188878/,Kruzhka Krepkoe №2,23305,Moskovskaya Pivovarennaya Kompaniya,2,3.73
+269,8.80,268278,https://www.beeradvocate.com/beer/profile/44879/268278/,Anchor Strong Beer,44879,Asia Pacific Brewery Lanka Ltd.,2,2.5
+270,7.00,47359,https://www.beeradvocate.com/beer/profile/19146/47359/,Piwo Dawne Niepasteryzowane,19146,Browar Konstancin,2,3.38
+271,7.20,128767,https://www.beeradvocate.com/beer/profile/5520/128767/,Argus Strong,5520,Zakłady Piwowarskie Głubczyce S.A.,2,2.69
+272,8.00,271363,https://www.beeradvocate.com/beer/profile/45372/271363/,FORTE 8%,45372,"Día, S.A.",1,2.97
+273,7.40,296195,https://www.beeradvocate.com/beer/profile/1272/296195/,Doble Malta (Mercadona),1272,Brasseries Du Maroc,1,1.59
+274,7.90,55811,https://www.beeradvocate.com/beer/profile/498/55811/,Lynx Super Premium Lager,498,Bavaria Brouwerij N.V.,1,1.82
+275,10.00,284169,https://www.beeradvocate.com/beer/profile/32074/284169/,Bryggeri Vuosi Sata,32074,Bryggeri Helsinki,1,4
+276,9.00,181777,https://www.beeradvocate.com/beer/profile/475/181777/,Triglav,475,Pivovarna Union,1,1.88
+277,6.70,142099,https://www.beeradvocate.com/beer/profile/12965/142099/,Vailima Special Export,12965,Samoa Breweries Limited,1,2.98
+278,7.00,142100,https://www.beeradvocate.com/beer/profile/13818/142100/,Priyatel' Superkrepkoe,13818,Lipetskpivo,1,3.39
+279,7.50,217364,https://www.beeradvocate.com/beer/profile/20914/217364/,Fortas Stiprus Šviesusis,20914,Volfas Engelman,1,2.1
+280,6.50,146199,https://www.beeradvocate.com/beer/profile/18118/146199/,Godfather Super Strong,18118,Devans Modern Breweries Ltd.,1,3
+281,5.90,301084,https://www.beeradvocate.com/beer/profile/50397/301084/,India Pale Lager,50397,Bauer Lopes,1,3.83
+282,8.50,180765,https://www.beeradvocate.com/beer/profile/11065/180765/,Olvi Tuplapukki,11065,Olvi Oyj,1,2.08
+283,5.00,201758,https://www.beeradvocate.com/beer/profile/513/201758/,Brabantse Vreugde,513,Jantjes' Bierbrouwerij,1,4.34
+284,7.00,260382,https://www.beeradvocate.com/beer/profile/920/260382/,Mahou Barrica 12 Meses Roble Francés,920,Mahou S.A.,1,3
+285,9.00,176674,https://www.beeradvocate.com/beer/profile/39629/176674/,Buzz Beer,39629,Kassatly Chtaura,1,1.42
+286,6.00,281125,https://www.beeradvocate.com/beer/profile/1200/281125/,Pardubice Pale Special Lager,1200,Pardubický pivovar a.s.,1,3.17
+287,10.00,317735,https://www.beeradvocate.com/beer/profile/21759/317735/,1888 Golden Ram,21759,Föroya Bjór,1,2.72
+288,7.20,255785,https://www.beeradvocate.com/beer/profile/5508/255785/,Mocne Eksportowe,5508,Browar Jabłonowo S.C.,1,3.02
+289,7.70,165162,https://www.beeradvocate.com/beer/profile/9369/165162/,Myanmar Double Strong,9369,Myanmar Brewery and Distillery,1,3.13
+290,9.20,317994,https://www.beeradvocate.com/beer/profile/18997/317994/,Yggdrasil Juleøl,18997,Captured By Porches Brewing Company,1,3.99
+291,8.00,250925,https://www.beeradvocate.com/beer/profile/27429/250925/,Łaskie Extra Mocne,27429,Browar Koreb,1,2.83
+292,8.00,308274,https://www.beeradvocate.com/beer/profile/1463/308274/,Bjorne,1463,Harboes Bryggeri A/S,1,5
+293,12.00,273972,https://www.beeradvocate.com/beer/profile/9275/273972/,El Diablo Super Strong Brew,9275,PT Bali Hai Brewery Indonesia,1,1.69
+294,7.00,60980,https://www.beeradvocate.com/beer/profile/1781/60980/,Goolman Strong,1781,Perla Browary Lubelskie S.A.,1,3.13
+295, ? ,163641,https://www.beeradvocate.com/beer/profile/1253/163641/,Polar Imperial,1253,Cervecería Polar,1,2.54
+296,7.00,193602,https://www.beeradvocate.com/beer/profile/3043/193602/,Tekkno Super Trance,3043,Brauerei Hirt GmbH,1,1.69
+297,9.00,335684,https://www.beeradvocate.com/beer/profile/3778/335684/,Karpackie 9%,3778,Browar Van Pur S.A. (Brau Union Polska),1,3.68
+298,7.00,171588,https://www.beeradvocate.com/beer/profile/284/171588/,Sapporo Lager's High,284,Sapporo Breweries Ltd.,1,3.25
+299,9.00,58951,https://www.beeradvocate.com/beer/profile/3778/58951/,Goldbrayner Super Mocne,3778,Browar Van Pur S.A. (Brau Union Polska),1,2.61
+300,7.00,305480,https://www.beeradvocate.com/beer/profile/20783/305480/,Radvilų,20783,Birų Alus,1,2.48
+301,7.00,272206,https://www.beeradvocate.com/beer/profile/24076/272206/,[Jako] Mocne Polskie,24076,Sulimar Sp. - Browar Cornelius,1,3.3
+302,7.70,162384,https://www.beeradvocate.com/beer/profile/13640/162384/,Xirdalan 7.7%,13640,Baltika-Baku,1,2.34
+303,6.40,90193,https://www.beeradvocate.com/beer/profile/20811/90193/,Pons 1840,20811,Cervezas Fernández Pons,1,3.25
+304,8.00,223572,https://www.beeradvocate.com/beer/profile/3218/223572/,Kingsbrau Biere Forte,3218,Brasserie Licorne,1,1.25
+305,7.50,80214,https://www.beeradvocate.com/beer/profile/628/80214/,Holsten Super,628,Hanseatische Getränke-Industrie (HGI) Holsten-Brauerei AG,1,3.5
+306,8.80,268377,https://www.beeradvocate.com/beer/profile/389/268377/,GB Export,389,Ceylon / Lion Brewery Limited,1,2.75
+307,7.50,257116,https://www.beeradvocate.com/beer/profile/3517/257116/,Martens Extra 7.5%,3517,Brouwerij Martens NV,1,2.81
+308,8.00,52320,https://www.beeradvocate.com/beer/profile/3218/52320/,Ackels Forte 8.0,3218,Brasserie Licorne,1,1.42
+309,8.00,312162,https://www.beeradvocate.com/beer/profile/3517/312162/,Desert Stallion,3517,Brouwerij Martens NV,1,3.72
+310,7.50,323427,https://www.beeradvocate.com/beer/profile/12224/323427/,Biržiečių I-okas,12224,Rinkuškiai,1,2.28
+311,7.00,205674,https://www.beeradvocate.com/beer/profile/6484/205674/,Amsterdam Navigator,6484,Pivovariya Moskva-Efes ZAO,1,2.64
+312,8.30,209770,https://www.beeradvocate.com/beer/profile/380/209770/,La Bête De Noël,380,Brasserie Castelain,1,3.38
+313,6.80,301162,https://www.beeradvocate.com/beer/profile/20782/301162/,Senojo Vilniaus Stiprusis,20782,Vilniaus Alus UAB,1,2.83
+314,7.50,302699,https://www.beeradvocate.com/beer/profile/886/302699/,Imperial Stiprusis 7.5,886,Gubernija Brewery,1,2.12
+315,7.50,235630,https://www.beeradvocate.com/beer/profile/9374/235630/,Blindos Stiprusis,9374,UAB Švyturys - Utenos alus,1,2.93
+316,6.00,280432,https://www.beeradvocate.com/beer/profile/14991/280432/,Spytihnev,14991,Pivovar Konrad / Pivovar Hols,1,3.53
+317,14.00,217968,https://www.beeradvocate.com/beer/profile/37859/217968/,Weidmann Ultra Strong,37859,United Dutch Breweries B.V.,1,2.12
+318,10.00,51568,https://www.beeradvocate.com/beer/profile/4089/51568/,Three Hearts Strongest Brew,4089,Krönleins Bryggeri AB,1,1.5
+319,7.00,293745,https://www.beeradvocate.com/beer/profile/49284/293745/,Strong Walter,49284,RIMI Baltic,1,2.75
+320,8.50,210547,https://www.beeradvocate.com/beer/profile/37859/210547/,Pirate 8.5,37859,United Dutch Breweries B.V.,1,1.99
+321,6.10,69748,https://www.beeradvocate.com/beer/profile/6141/69748/,Stöttner Pfaffen Gold,6141,Brauerei Stöttner,1,3.14
+322,7.00,234616,https://www.beeradvocate.com/beer/profile/45979/234616/,Oatmeal Peanut Butter,45979,Brausch Brewery,1,3.75
+323,6.00,117881,https://www.beeradvocate.com/beer/profile/7200/117881/,Gorkha Strong,7200,Gorkha Brewery,1,3.01
+324,8.00,234619,https://www.beeradvocate.com/beer/profile/45979/234619/,Red Whiskey Lager,45979,Brausch Brewery,1,3.5
+325,9.00,233084,https://www.beeradvocate.com/beer/profile/43329/233084/,Il Duomo,43329,Birrificio artigianale Borgo al Cornio,1,4
+326,7.20,301181,https://www.beeradvocate.com/beer/profile/1272/301181/,Cerveza Reserva (Mercadona),1272,Brasseries Du Maroc,1,1.75
+327,8.50,323454,https://www.beeradvocate.com/beer/profile/4934/323454/,Sibirskaya Korona Krepkoye,4934,Pivzavod AO Rosar,1,3
+328,6.50,176515,https://www.beeradvocate.com/beer/profile/3311/176515/,Power Cool,3311,Som Distilleries & Breweries Ltd.,1,2.49
+329,7.20,111748,https://www.beeradvocate.com/beer/profile/580/111748/,Argus Strong,580,Browar Łomża Sp. z o.o.,1,3
+330,6.60,306565,https://www.beeradvocate.com/beer/profile/5520/306565/,Rycerskie,5520,Zakłady Piwowarskie Głubczyce S.A.,1,3.02
+331, ? ,63114,https://www.beeradvocate.com/beer/profile/7366/63114/,Bohemian Regent Kvasnicove 16°,7366,Pivovar Regent Třeboň,1,4.15
+332,10.00,307855,https://www.beeradvocate.com/beer/profile/1463/307855/,Brown bear,1463,Harboes Bryggeri A/S,1,3
+333,6.80,173457,https://www.beeradvocate.com/beer/profile/28311/173457/,Alivariya Krepkoye,28311,Alivaria Pivzavod,1,3.1
+334,10.00,141460,https://www.beeradvocate.com/beer/profile/37081/141460/,Gold Berg Gold,37081,Al Masria Al Alamia,1,1.75
+335,8.00,96660,https://www.beeradvocate.com/beer/profile/21778/96660/,Fregatten Jylland,21778,Aarhus Bryghus,1,4.4
+336,7.00,98197,https://www.beeradvocate.com/beer/profile/1917/98197/,Wojak Mocny,1917,Kompania Piwowarska,1,2.62
+337,7.90,150427,https://www.beeradvocate.com/beer/profile/16422/150427/,Durlacher Hof Strong,16422,Frankenthaler Brauhaus,1,2.57
+338,7.20,314269,https://www.beeradvocate.com/beer/profile/7101/314269/,Scottish-Style Lager,7101,Marzoni's Brick Oven & Brewing Company,1,4.5
+339,7.00,118173,https://www.beeradvocate.com/beer/profile/30938/118173/,Anarchy Lager,30938,Anarchy Brew Co,1,3.49
+340,7.70,296862,https://www.beeradvocate.com/beer/profile/22072/296862/,Sabbatic,22072,Revolution Brewing,1,4.21
+341,7.00,333215,https://www.beeradvocate.com/beer/profile/81/333215/,Desperados Dos,81,Heineken Nederland B.V.,1,2.79
+342,7.50,217759,https://www.beeradvocate.com/beer/profile/601/217759/,Stiprusis Šviesusis,601,Obolon Brewery,1,2.61
+343,6.80,134817,https://www.beeradvocate.com/beer/profile/5507/134817/,Kasztelan Mocne,5507,Kasztelan Browar Sierpc S.A. (Carlsberg),1,3
+344,5.50,100263,https://www.beeradvocate.com/beer/profile/440/100263/,Stolichnoye Strong Lager,440,Ochakovo,1,2.5
+345,8.00,241065,https://www.beeradvocate.com/beer/profile/9775/241065/,Biere Forte,9775,Brasserie de Saint-Omer,1,3.74
+346,9.00,134058,https://www.beeradvocate.com/beer/profile/21/134058/,Atlas 9,21,Union Export Brewery,1,5
+347,7.50,217770,https://www.beeradvocate.com/beer/profile/20914/217770/,Perkuno Sviesusis Alus,20914,Volfas Engelman,1,2.38
+348,7.80,241070,https://www.beeradvocate.com/beer/profile/9775/241070/,Blonder Brau (Forte),9775,Brasserie de Saint-Omer,1,3.08
+349,7.50,306862,https://www.beeradvocate.com/beer/profile/45361/306862/,Senelio Alus 7.5,45361,Alsteka,1,2.34
+350,6.50,117422,https://www.beeradvocate.com/beer/profile/7203/117422/,Commando Super Strong Beer,7203,Himalaya Brewery Ltd.,1,2.9
+351,7.50,65967,https://www.beeradvocate.com/beer/profile/19146/65967/,Bardzo Mocne,19146,Browar Konstancin,1,3.5
+352,8.30,208817,https://www.beeradvocate.com/beer/profile/5420/208817/,Sibirskaya Korona Krepkoye,5420,Klinskiy Pivokombinat,1,3.42
+353,7.80,63153,https://www.beeradvocate.com/beer/profile/24131/63153/,Bearnard Extra Strong,24131,Browar Zodiak,1,3.26
+354,9.00,265656,https://www.beeradvocate.com/beer/profile/9663/265656/,Slalom Strong 9˚,9663,Heineken Italia SpA,1,3.31
+355,7.00,215481,https://www.beeradvocate.com/beer/profile/44176/215481/,Ris (Lynx) Premium,44176,Pivnica Star Grad Old Town Brewery,1,3.08
+356,6.00,323769,https://www.beeradvocate.com/beer/profile/15697/323769/,SPLASH Pils IPA,15697,Broadway Pub,1,3.3
+357,16.00,217018,https://www.beeradvocate.com/beer/profile/548/217018/,Oranjeboom Mega Strong,548,Oranjeboom Bierbrouwerij B. V.,1,1.89
+358,9.70,324538,https://www.beeradvocate.com/beer/profile/13014/324538/,BOB,13014,Surly Brewing Company,1,4.31
+359,7.60,22976,https://www.beeradvocate.com/beer/profile/10525/22976/,Fuglsang Ding Dong (Julebryg),10525,Bryggeriet S.C. Fuglsang,1,3.8
+360,7.50,65217,https://www.beeradvocate.com/beer/profile/10148/65217/,Lolita,10148,Grado Plato,1,3.53
+361,8.20,233410,https://www.beeradvocate.com/beer/profile/28398/233410/,Tagilskoye Rulit,28398,"ЗАО ""Тагильское Пиво"" (ZAO ""Tagilskoe Pivo"")",1,3.12
+362,6.50,208835,https://www.beeradvocate.com/beer/profile/20360/208835/,Phoenix Special Brew,20360,Phoenix Beverages Group,1,2.22
+363,7.30,103365,https://www.beeradvocate.com/beer/profile/10897/103365/,"Arboga 7,3%",10897,Carlsberg Sverige AB,1,2.75
+364, ? ,45511,https://www.beeradvocate.com/beer/profile/13199/45511/,Ostravar Strong,13199,Pivovar Ostravar (Staropramen Breweries / Inbev),1,3.08
+365,7.20,274120,https://www.beeradvocate.com/beer/profile/2888/274120/,Das Kastel 7.2%,2888,S. C. Martens S. A.,1,2
+366,6.30,316872,https://www.beeradvocate.com/beer/profile/2968/316872/,Merry Christmas Happy New Year,2968,Hancock Bryggerierne,1,2.36
+367,7.30,259787,https://www.beeradvocate.com/beer/profile/47721/259787/,Strike,47721,Bennet Distributors,1,2.08
+368,5.00,331983,https://www.beeradvocate.com/beer/profile/49615/331983/,Godspeed / De La Sienne Biere de Soif,49615,Godspeed Brewery,1,3.83
+369,6.40,326608,https://www.beeradvocate.com/beer/profile/44078/326608/,Reggia,44078,Oldo,1,2.83
+370,5.20,335825,https://www.beeradvocate.com/beer/profile/1349/335825/,A. Le Coq Premium Nippel,1349,AS Tartu Õlletehas,1,3
+371,7.50,96981,https://www.beeradvocate.com/beer/profile/3311/96981/,Hunter Super Strong Premium Beer,3311,Som Distilleries & Breweries Ltd.,1,2.89
+372,8.00,175062,https://www.beeradvocate.com/beer/profile/498/175062/,Dia Extra 8º,498,Bavaria Brouwerij N.V.,1,1.56
+373,7.00,51927,https://www.beeradvocate.com/beer/profile/9350/51927/,Jubiler,9350,Pivovar Vykov,1,2.26
+374,8.00,16089,https://www.beeradvocate.com/beer/profile/9099/16089/,Uralskiy Master Krepkoye,9099,Zolotoy Ural OAO (Baltika-Chelyabinsk),1,3.32
+375,7.80,265179,https://www.beeradvocate.com/beer/profile/498/265179/,Kaiser Extra Forte / Zeer Sterk,498,Bavaria Brouwerij N.V.,1,3.43
+376,7.00,52187,https://www.beeradvocate.com/beer/profile/2891/52187/,Ottweiler 7.0 Extra,2891,Karlsberg Brauerei,1,2.68
+377,8.00,227292,https://www.beeradvocate.com/beer/profile/13662/227292/,Saimaan Vahva Marsalkka Luomu,13662,Saimaan Juomatehdas,1,3.08
+378,7.50,341214,https://www.beeradvocate.com/beer/profile/52535/341214/,Rago Stiprusis Alus,52535,Brestskoye Pivo,1,1.52
+379,12.00,189150,https://www.beeradvocate.com/beer/profile/548/189150/,Weidmann Super Strong,548,Oranjeboom Bierbrouwerij B. V.,1,2.63
+380,8.00,52960,https://www.beeradvocate.com/beer/profile/21114/52960/,Falsbourg Bière Blonde Spéciale,21114,Scamark,1,1.97
+381,7.40,306404,https://www.beeradvocate.com/beer/profile/20914/306404/,Horn Disel Strong,20914,Volfas Engelman,1,2.88
+382,7.50,302821,https://www.beeradvocate.com/beer/profile/45361/302821/,Pasvalio Originalusis,45361,Alsteka,1,2.54
+383,7.10,244197,https://www.beeradvocate.com/beer/profile/46045/244197/,Ternove Pole,46045,Mykulynetskyj Brovar - Mykulinetske,1,3.21
+384,12.00,281831,https://www.beeradvocate.com/beer/profile/42586/281831/,Vitalsberg Original Lager Beer,42586,Proex Brewing Co.,1,2.83
+385,6.50,257512,https://www.beeradvocate.com/beer/profile/3517/257512/,Martens Gold 6.5%,3517,Brouwerij Martens NV,1,3
+386,14.00,245226,https://www.beeradvocate.com/beer/profile/498/245226/,Phoenix Lager 14,498,Bavaria Brouwerij N.V.,1,2.87
+387,6.80,230893,https://www.beeradvocate.com/beer/profile/601/230893/,"Obolon 6,8 Extra",601,Obolon Brewery,1,2.5
+388,6.00,224750,https://www.beeradvocate.com/beer/profile/45096/224750/,Tradicinis,45096,Kalnapilio – Tauro Grupė,1,3.5
+389,7.00,154097,https://www.beeradvocate.com/beer/profile/32845/154097/,Prestige Pur Malt,32845,Carrefour,1,3.34
+390,6.60,179442,https://www.beeradvocate.com/beer/profile/15098/179442/,Argus Tostada,15098,Font Salem,1,2.5
+391,6.00,302579,https://www.beeradvocate.com/beer/profile/886/302579/,Imperial Sodrus 6.0,886,Gubernija Brewery,1,2.59
+392,12.00,245491,https://www.beeradvocate.com/beer/profile/548/245491/,3 Horses Super Strong 12,548,Oranjeboom Bierbrouwerij B. V.,1,3.2
+393,8.80,268020,https://www.beeradvocate.com/beer/profile/44879/268020/,Baron's Strong Brew,44879,Asia Pacific Brewery Lanka Ltd.,1,2.96
+394,6.70,285429,https://www.beeradvocate.com/beer/profile/14/285429/,The Bagel Bock,14,Cambridge Brewing Company,1,4
+395,12.00,188405,https://www.beeradvocate.com/beer/profile/37859/188405/,Pirate,37859,United Dutch Breweries B.V.,1,3.06
+396,7.80,246264,https://www.beeradvocate.com/beer/profile/15781/246264/,Skol Super 7.8,15781,Carlsberg Breweries A/S,1,2.93
+397,8.50,286970,https://www.beeradvocate.com/beer/profile/37859/286970/,Royal Dutch Post Horn Green (8.5%),37859,United Dutch Breweries B.V.,1,2.25
+398,7.80,65277,https://www.beeradvocate.com/beer/profile/5420/65277/,Tolstyak Khmelnoye,5420,Klinskiy Pivokombinat,1,2.12
+399,7.50,236544,https://www.beeradvocate.com/beer/profile/15098/236544/,"Aurum Ibérica Extra 7,5",15098,Font Salem,0,0
+400,6.00,204567,https://www.beeradvocate.com/beer/profile/1738/204567/,Yubilyeynoye,1738,Gidrolizny Zavod,0,0
+401, ? ,163359,https://www.beeradvocate.com/beer/profile/22619/163359/,Volcanes Strong Lager,22619,Cervecera Latinoamericana S.A.,0,0
+402,6.00,204064,https://www.beeradvocate.com/beer/profile/1712/204064/,Kolos Kryepkiy,1712,Bryanskpivo,0,0
+403,6.00,235046,https://www.beeradvocate.com/beer/profile/576/235046/,Leżajsk Krzepki,576,Zakłady Piwowarskie w Leżajsku S.A.,0,0
+404,7.00,235047,https://www.beeradvocate.com/beer/profile/576/235047/,Leżajsk Mocne,576,Zakłady Piwowarskie w Leżajsku S.A.,0,0
+405,5.00,161320,https://www.beeradvocate.com/beer/profile/37350/161320/,Don't Tell Mum,37350,Wheaty Brewing Corps,0,0
+406,6.60,204337,https://www.beeradvocate.com/beer/profile/1735/204337/,Gambrinus Kryepkoye Svyetloye,1735,Gambrinus,0,0
+407,8.00,166717,https://www.beeradvocate.com/beer/profile/91/166717/,UB Export Strong,91,United Breweries - UB Group,0,0
+408,6.60,204350,https://www.beeradvocate.com/beer/profile/1735/204350/,Elitnoye Svyetloye Pastyerizovannoye,1735,Gambrinus,0,0
+409,6.50,141631,https://www.beeradvocate.com/beer/profile/822/141631/,President Extra,822,East African Breweries Ltd (Kenya Breweries),0,0
+410,7.00,142664,https://www.beeradvocate.com/beer/profile/37235/142664/,Black Eagle Xtra,37235,Universal Breweries Ltd,0,0
+411,6.00,234574,https://www.beeradvocate.com/beer/profile/5512/234574/,Kujawskie Bursztynowe,5512,Browar Krajan,0,0
+412,6.00,234576,https://www.beeradvocate.com/beer/profile/5512/234576/,Irlandzkie Jasne,5512,Browar Krajan,0,0
+413,11.00,230743,https://www.beeradvocate.com/beer/profile/11552/230743/,Pentabock,11552,Redlight Redlight,0,0
+414,7.00,142173,https://www.beeradvocate.com/beer/profile/20779/142173/,Tusker OP Lager,20779,Vanuatu Brewing Ltd.,0,0
+415,6.40,256611,https://www.beeradvocate.com/beer/profile/204/256611/,Abir,204,Tempo Beer Industries LTD,0,0
+416,7.20,235110,https://www.beeradvocate.com/beer/profile/24076/235110/,Mospan Mocne,24076,Sulimar Sp. - Browar Cornelius,0,0
+417,8.00,205415,https://www.beeradvocate.com/beer/profile/1718/205415/,Kryepkoye Bogorodskoye,1718,Noginsk Brewery,0,0
+418,6.00,203629,https://www.beeradvocate.com/beer/profile/1384/203629/,Okhota Nashyego Kryepkoye,1384,Afanasy Pivo (Brau Service),0,0
+419,7.00,204654,https://www.beeradvocate.com/beer/profile/4936/204654/,Zhigulyovskoye Kryepkoye,4936,Krasniy Vostok,0,0
+420, ? ,294255,https://www.beeradvocate.com/beer/profile/35612/294255/,Piñata's Revenge,35612,Ex Novo Brewing,0,0
+421,7.00,204656,https://www.beeradvocate.com/beer/profile/4936/204656/,Nokaut,4936,Krasniy Vostok,0,0
+422,6.50,205424,https://www.beeradvocate.com/beer/profile/440/205424/,Yachmennyy Kolos Kryepkoye,440,Ochakovo,0,0
+423,8.00,265330,https://www.beeradvocate.com/beer/profile/47528/265330/,Kryepysh (Крепыш),47528,Alpina (Альпина),0,0
+424,6.80,204658,https://www.beeradvocate.com/beer/profile/4936/204658/,Ural Kryepkoye,4936,Krasniy Vostok,0,0
+425,10.00,145272,https://www.beeradvocate.com/beer/profile/1141/145272/,Des Guarrigues-Vidourlator,1141,Brasserie Dieu du Ciel!,0,0
+426,11.00,163458,https://www.beeradvocate.com/beer/profile/39589/163458/,Aia 11%,39589,Aia,0,0
+427,7.00,141699,https://www.beeradvocate.com/beer/profile/16380/141699/,The Kick,16380,Serengeti Breweries Ltd,0,0
+428,6.50,165258,https://www.beeradvocate.com/beer/profile/27043/165258/,The Strongman,27043,Harrington's Breweries,0,0
+429,8.00,163469,https://www.beeradvocate.com/beer/profile/39594/163469/,Natakhtari Extra,39594,Natakhtari Brewery,0,0
+430,10.00,141458,https://www.beeradvocate.com/beer/profile/37081/141458/,Castello High,37081,Al Masria Al Alamia,0,0
+431,8.00,141459,https://www.beeradvocate.com/beer/profile/37081/141459/,Castelo Hard,37081,Al Masria Al Alamia,0,0
+432,6.50,141715,https://www.beeradvocate.com/beer/profile/21470/141715/,Eagle Extra Lager,21470,Nile Breweries (SAB),0,0
+433,7.60,234644,https://www.beeradvocate.com/beer/profile/1781/234644/,Lubelskie Mocne,1781,Perla Browary Lubelskie S.A.,0,0
+434,5.00,247194,https://www.beeradvocate.com/beer/profile/81/247194/,Heineken Bajo Cero,81,Heineken Nederland B.V.,0,0
+435,8.70,155804,https://www.beeradvocate.com/beer/profile/38632/155804/,Jacu Do Mato,38632,Ogre Beer Comércio de Cervejas Ltda.,0,0
+436,7.30,56733,https://www.beeradvocate.com/beer/profile/16890/56733/,Lāčplēsis Dialus (Lacplesis Grand Beer),16890,Livu Alus,0,0
+437,7.00,131747,https://www.beeradvocate.com/beer/profile/28916/131747/,Manila,28916,Asia Brewery,0,0
+438,8.00,203943,https://www.beeradvocate.com/beer/profile/401/203943/,Sibirskiy Bochonok Extra,401,Baltika Breweries,0,0
+439,6.70,198056,https://www.beeradvocate.com/beer/profile/9076/198056/,Era Ottantatre La Doppia,9076,Birreria Pedavena,0,0
+440,8.00,203946,https://www.beeradvocate.com/beer/profile/401/203946/,Uralskiy Master Strong,401,Baltika Breweries,0,0
+441,6.00,205995,https://www.beeradvocate.com/beer/profile/1747/205995/,Vyatich Kryepkoye,1747,Vyatich,0,0
+442,7.50,258222,https://www.beeradvocate.com/beer/profile/15098/258222/,Karlsquell 7.5%,15098,Font Salem,0,0
+443,6.00,206003,https://www.beeradvocate.com/beer/profile/1747/206003/,Vyatich Nikolskoye,1747,Vyatich,0,0
+444,6.10,203956,https://www.beeradvocate.com/beer/profile/1429/203956/,Prival,1429,Barnaul Brewery,0,0
+445,6.80,131769,https://www.beeradvocate.com/beer/profile/601/131769/,Desant Strong,601,Obolon Brewery,0,0
+446,7.00,205500,https://www.beeradvocate.com/beer/profile/22217/205500/,Chyornyy Yastryeb,22217,Osha,0,0
+447,7.00,205501,https://www.beeradvocate.com/beer/profile/22217/205501/,Bison,22217,Osha,0,0
+448,6.50,205504,https://www.beeradvocate.com/beer/profile/22217/205504/,Zhigulyovskoye Kryepkoye,22217,Osha,0,0
+449,7.00,196544,https://www.beeradvocate.com/beer/profile/10430/196544/,Lvivske Mitsne,10430,Lvivska Pivovarnya (BBH),0,0
+450,8.00,205762,https://www.beeradvocate.com/beer/profile/31418/205762/,Sibir #1 Kryepkoye,31418,Siberia (Сибирь),0,0
+451,7.10,205766,https://www.beeradvocate.com/beer/profile/31418/205766/,Sibir #7 Yubileynoye,31418,Siberia (Сибирь),0,0
+452,7.80,205514,https://www.beeradvocate.com/beer/profile/1505/205514/,Moskovskoye Bochkovoye Kryepkoye,1505,Ostankinskiy Pivovarinniy Zavod,0,0
+453,6.20,46283,https://www.beeradvocate.com/beer/profile/10539/46283/,Sterkur,10539,Ölgerðin Egill Skallagrímsson,0,0
+454,8.00,165324,https://www.beeradvocate.com/beer/profile/16097/165324/,Muree's Special Strong Brew,16097,Murree Brewery Co. Ltd.,0,0
+455,7.80,205518,https://www.beeradvocate.com/beer/profile/1505/205518/,Staraya Bochka Kryepkoye,1505,Ostankinskiy Pivovarinniy Zavod,0,0
+456,7.80,176341,https://www.beeradvocate.com/beer/profile/40967/176341/,Wąsosz 15°,40967,Browary Regionalne Wąsosz,0,0
+457,6.20,291289,https://www.beeradvocate.com/beer/profile/49687/291289/,Lager 60,49687,Browar Niechanowo,0,0
+458,7.00,203745,https://www.beeradvocate.com/beer/profile/401/203745/,Bolshaya Kruzhka Extra,401,Baltika Breweries,0,0
+459,7.00,203748,https://www.beeradvocate.com/beer/profile/401/203748/,DV Extra,401,Baltika Breweries,0,0
+460,7.00,141284,https://www.beeradvocate.com/beer/profile/2430/141284/,Sakara 7 Stars,2430,Al Ahram Beverages Company,0,0
+461,14.70,317668,https://www.beeradvocate.com/beer/profile/24808/317668/,Massacre - Mexican Hot Chocolate,24808,Wolverine State Brewing Company,0,0
+462,8.00,203755,https://www.beeradvocate.com/beer/profile/401/203755/,Kupecheskoye Strong,401,Baltika Breweries,0,0
+463,7.50,205548,https://www.beeradvocate.com/beer/profile/6390/205548/,Samko-3,6390,Pivovarinniy Zavod Samko,0,0
+464,8.00,141295,https://www.beeradvocate.com/beer/profile/19457/141295/,Oro 8 Stars,19457,Egyptian International Beverages Company,0,0
+465,7.00,130546,https://www.beeradvocate.com/beer/profile/3838/130546/,Mocne,3838,Minibrowar Restauracja Spiz,0,0

@@ -1,0 +1,576 @@
+,abvs,beer_ids,beer_links,beer_names,company_ids,companys,ratings,scores
+0,4.90,63,https://www.beeradvocate.com/beer/profile/28/63/,Anchor Steam Beer,28,Anchor Brewing Company,"6,064",3.85
+1,5.50,63754,https://www.beeradvocate.com/beer/profile/23222/63754/,Dorothy's New World Lager,23222,Toppling Goliath Brewing Company,693,3.72
+2,5.60,138924,https://www.beeradvocate.com/beer/profile/28/138924/,Brotherhood Steam,28,Anchor Brewing Company,236,3.79
+3,5.30,114731,https://www.beeradvocate.com/beer/profile/23922/114731/,Tarnation California-Style Lager,23922,Baxter Brewing Co.,235,3.57
+4,4.70,88470,https://www.beeradvocate.com/beer/profile/8/88470/,Columbia Common,8,Widmer Brothers Brewing Company,234,3.47
+5,5.30,44143,https://www.beeradvocate.com/beer/profile/14154/44143/,Oscura,14154,Furthermore Beer,221,3.82
+6,6.00,207531,https://www.beeradvocate.com/beer/profile/119/207531/,Otter Creek Steampipe Cali-Style Common,119,Otter Creek Brewing,171,3.8
+7,5.30,75680,https://www.beeradvocate.com/beer/profile/16773/75680/,Dampf Loc,16773,Local Option,169,3.65
+8,5.40,129664,https://www.beeradvocate.com/beer/profile/28/129664/,Anchor Steam Beer - Dry-Hopped,28,Anchor Brewing Company,149,3.82
+9,7.40,158753,https://www.beeradvocate.com/beer/profile/141/158753/,East Coast Common Lager,141,Smuttynose Brewing Company,133,4.07
+10,5.50,10730,https://www.beeradvocate.com/beer/profile/5074/10730/,Steam Engine Lager,5074,Steamworks Brewing Co.,131,3.41
+11,4.70,25834,https://www.beeradvocate.com/beer/profile/9629/25834/,Short's Village Reserve,9629,Short's Brewing Company,115,3.56
+12,5.10,99966,https://www.beeradvocate.com/beer/profile/31212/99966/,District Common,31212,Atlas Brew Works,110,3.56
+13,5.70,50087,https://www.beeradvocate.com/beer/profile/18168/50087/,Hop Common,18168,Peekskill Brewery,108,3.74
+14,5.40,129341,https://www.beeradvocate.com/beer/profile/35769/129341/,Wagonparty,35769,Bauhaus Brew Labs,107,3.8
+15,4.80,83996,https://www.beeradvocate.com/beer/profile/24791/83996/,Derecho,24791,Port City Brewing,97,3.67
+16,5.50,36673,https://www.beeradvocate.com/beer/profile/15642/36673/,Element 115,15642,Flat Earth Brewing Company,92,3.68
+17,5.40,71848,https://www.beeradvocate.com/beer/profile/22920/71848/,Ironhorse Chicago Common,22920,Argus Brewery,77,3.31
+18,6.00,64620,https://www.beeradvocate.com/beer/profile/22598/64620/,The Citizen,22598,Cismontane Brewing Company,75,3.78
+19,5.20,98954,https://www.beeradvocate.com/beer/profile/13014/98954/,Dampfbier,13014,Surly Brewing Company,72,3.81
+20,5.00,44001,https://www.beeradvocate.com/beer/profile/17208/44001/,Skjálfti,17208,Ölvisholt Brugghús,68,3.71
+21,4.50,50996,https://www.beeradvocate.com/beer/profile/1540/50996/,Mountain Goat Steam Ale,1540,Mountain Goat Beer Pty Ltd,67,3.35
+22,5.70,121524,https://www.beeradvocate.com/beer/profile/33325/121524/,Catahoula Common,33325,Gnarly Barley Brewing Company,65,3.65
+23,4.90,43821,https://www.beeradvocate.com/beer/profile/8818/43821/,Pomona Queen,8818,Last Name Brewing,57,3.22
+24,5.20,49184,https://www.beeradvocate.com/beer/profile/3239/49184/,Rio Grande Outlaw Lager,3239,Sierra Blanca Brewing Company (Rio Grande),53,3.32
+25,5.60,55884,https://www.beeradvocate.com/beer/profile/19163/55884/,Steamy Windows,19163,Liberty Street Brewing Company,51,3.33
+26,5.50,79672,https://www.beeradvocate.com/beer/profile/24355/79672/,Common Man Special Lager,24355,Three Heads Brewing,50,3.38
+27,4.00,79112,https://www.beeradvocate.com/beer/profile/2266/79112/,Rocket Bike American Lager,2266,Moab Brewery,45,3.32
+28,5.00,3756,https://www.beeradvocate.com/beer/profile/299/3756/,Boston Common,299,Boston Beer Works - Canal Street,41,3.63
+29,6.00,68901,https://www.beeradvocate.com/beer/profile/793/68901/,Mosquito Beach,793,Lake Louie Brewery Company,40,3.75
+30,5.10,154685,https://www.beeradvocate.com/beer/profile/36350/154685/,Big Boca Ale,36350,Fat Point Brewing,38,3.57
+31,5.00,62381,https://www.beeradvocate.com/beer/profile/583/62381/,Schlafly Pi Common,583,The Schlafly Tap Room,33,3.72
+32,4.80,13474,https://www.beeradvocate.com/beer/profile/2953/13474/,Portsmouth Brewing Red Bird Ale,2953,Portsmouth Brewing Co. / Mault's Brewpub,30,3.01
+33,5.80,52407,https://www.beeradvocate.com/beer/profile/18635/52407/,Steamhead,18635,Aviator Brewing Company,30,3.61
+34,4.80,97133,https://www.beeradvocate.com/beer/profile/32043/97133/,33 Acres Of Life,32043,33 Acres Brewing Co.,29,3.75
+35,5.20,103277,https://www.beeradvocate.com/beer/profile/22928/103277/,Simple,22928,Barrier Brewing Company,29,3.68
+36,5.60,131123,https://www.beeradvocate.com/beer/profile/31761/131123/,Steemboat,31761,Sunken City Brewing Company,28,3.67
+37,6.00,106600,https://www.beeradvocate.com/beer/profile/31164/106600/,St. Florian's California Common,31164,St. Florian's Brewery,28,3.74
+38,4.20,123684,https://www.beeradvocate.com/beer/profile/33562/123684/,Ampere Amber,33562,Tin Whiskers Brewing Company,27,3.52
+39,5.20,190684,https://www.beeradvocate.com/beer/profile/41464/190684/,Steam Punk,41464,Noble Rey Brewing Company,27,3.48
+40,5.50,51782,https://www.beeradvocate.com/beer/profile/16385/51782/,Urban People's Common Lager,16385,Linden Street Brewery,23,3.78
+41,5.30,125612,https://www.beeradvocate.com/beer/profile/35261/125612/,Virginia Common,35261,Ardent Craft Ales,23,3.76
+42,6.40,75725,https://www.beeradvocate.com/beer/profile/729/75725/,Palmetto Aftershock,729,Palmetto Brewing Company,23,3.53
+43,5.50,71592,https://www.beeradvocate.com/beer/profile/25926/71592/,1888,25926,Anaheim Brewery,22,3.48
+44,6.50,153112,https://www.beeradvocate.com/beer/profile/36949/153112/,Watchman's House Oaked Lager,36949,Holy Mountain Brewing Company,21,3.91
+45,5.50,56204,https://www.beeradvocate.com/beer/profile/22170/56204/,Cali Common,22170,Lucky Hand Brewing Company,21,3.81
+46,4.50,96954,https://www.beeradvocate.com/beer/profile/27322/96954/,Common Sense,27322,Berryessa Brewing Co,21,3.53
+47,5.00,103701,https://www.beeradvocate.com/beer/profile/32876/103701/,Northtown Native,32876,Cinder Block Brewery,20,3.48
+48,3.50,61029,https://www.beeradvocate.com/beer/profile/16055/61029/,Fusion,16055,Amager Bryghus,20,3.71
+49,5.00,140469,https://www.beeradvocate.com/beer/profile/14349/140469/,Big Sky Uncommon Lager,14349,Whistler Brewing Company,18,3.65
+50,5.50,102717,https://www.beeradvocate.com/beer/profile/365/102717/,Derby Lager,365,Pike Brewing Company,17,3.5
+51,5.00,244404,https://www.beeradvocate.com/beer/profile/30979/244404/,Radical Road Slingshot,30979,Radical Road Brewing Co.,17,3.67
+52,4.90,243741,https://www.beeradvocate.com/beer/profile/46729/243741/,Yoerg's Beer,46729,Yoerg Brewing Company,16,3.66
+53,6.70,58316,https://www.beeradvocate.com/beer/profile/20672/58316/,Westy,20672,Sun King Brewing Company,16,3.88
+54,5.20,37439,https://www.beeradvocate.com/beer/profile/15314/37439/,Lug Nut Lager,15314,Skyscraper Brewing Company,15,3.09
+55,3.50,43902,https://www.beeradvocate.com/beer/profile/16055/43902/,Summer Fusion,16055,Amager Bryghus,15,3.68
+56, ? ,152802,https://www.beeradvocate.com/beer/profile/36353/152802/,Upstream,36353,Little Harpeth Brewing,14,3.46
+57,4.80,200236,https://www.beeradvocate.com/beer/profile/35259/200236/,Monterey Common,35259,Alvarado Street Brewery,13,3.81
+58,5.80,220997,https://www.beeradvocate.com/beer/profile/44765/220997/,Carolina Common,44765,Bhramari Brewing Co,13,3.69
+59,5.50,149606,https://www.beeradvocate.com/beer/profile/37968/149606/,No Pants Pilsner,37968,Pontoon Brewing Company,13,3.52
+60,5.50,86297,https://www.beeradvocate.com/beer/profile/2266/86297/,Rocket Bike American Lager (Non-4% Version),2266,Moab Brewery,12,3.69
+61,6.00,188928,https://www.beeradvocate.com/beer/profile/39611/188928/,Uncommon Cowboy,39611,Town in City Brewing Co.,11,3.91
+62,6.40,266512,https://www.beeradvocate.com/beer/profile/32931/266512/,Danker's Team,32931,Cellarmaker Brewing Co.,11,4.17
+63,5.00,284039,https://www.beeradvocate.com/beer/profile/3760/284039/,Mill Street Jigger’s Delight,3760,Mill Street Brew Pub,11,3.29
+64,5.64,196490,https://www.beeradvocate.com/beer/profile/40236/196490/,Texas Uncommon Ale,40236,Southerleigh Fine Food & Brewery,11,3.71
+65,5.00,31646,https://www.beeradvocate.com/beer/profile/8270/31646/,Steam Beer,8270,Brewerkz - Riverside Point,11,3.82
+66,5.60,11708,https://www.beeradvocate.com/beer/profile/1853/11708/,Gold Rush Lager,1853,Sly Fox Brewing Company,11,3.67
+67,6.94,95962,https://www.beeradvocate.com/beer/profile/24571/95962/,Bad Attitude Bootlegger,24571,Birrificio Ticinese,11,2.92
+68,5.00,41946,https://www.beeradvocate.com/beer/profile/10290/41946/,Stratford Common,10290,Stratford Brewing Company,11,3.82
+69,5.50,26605,https://www.beeradvocate.com/beer/profile/596/26605/,Portsmouth California Common,596,Portsmouth Brewery,11,3.89
+70, ? ,59906,https://www.beeradvocate.com/beer/profile/21737/59906/,Commons Ale,21737,Bandwagon Brew Pub,10,3.26
+71,4.90,167817,https://www.beeradvocate.com/beer/profile/391/167817/,7B California Common,391,Big Rock Brewery,10,3.57
+72,5.00,269457,https://www.beeradvocate.com/beer/profile/24776/269457/,Frisco 1501 Historic Lager,24776,Public House Brewing Company,10,3.59
+73,4.80,205816,https://www.beeradvocate.com/beer/profile/43396/205816/,Chesapeake Common Lager,43396,Key Brewing Co.,10,3.4
+74,5.60,83195,https://www.beeradvocate.com/beer/profile/28261/83195/,California Common,28261,I & I Brewing,10,3.57
+75,6.71,61445,https://www.beeradvocate.com/beer/profile/4614/61445/,Steamee Summer,4614,Orlando Brewing Partners,9,3.96
+76,5.40,150818,https://www.beeradvocate.com/beer/profile/38098/150818/,The Common,38098,Iron Duke Brewing,9,3.86
+77,6.20,112963,https://www.beeradvocate.com/beer/profile/22598/112963/,Coffee Citizen,22598,Cismontane Brewing Company,9,3.61
+78,4.50,94290,https://www.beeradvocate.com/beer/profile/683/94290/,Dragon Blade,683,Valkyrie Brewing,9,2.98
+79,5.50,230513,https://www.beeradvocate.com/beer/profile/33824/230513/,Common Knowledge,33824,Bottle Logic Brewing,9,3.92
+80,4.40,140184,https://www.beeradvocate.com/beer/profile/36817/140184/,California Common Rye,36817,4204 Main Street Brewing Co.,9,3.68
+81,5.10,190114,https://www.beeradvocate.com/beer/profile/41118/190114/,Personas West Coast Common,41118,Fuggles & Warlock Craftworks,9,3.77
+82,4.70,115620,https://www.beeradvocate.com/beer/profile/6695/115620/,Revisionist Californian Common Steam Beer,6695,Marston's PLC,9,2.76
+83, ? ,105401,https://www.beeradvocate.com/beer/profile/32587/105401/,Mike's Camaro,32587,Latitude 42 Brewing Company,9,3.29
+84,4.40,101617,https://www.beeradvocate.com/beer/profile/27879/101617/,Carolina Common,27879,Birdsong Brewing,9,3.7
+85,4.70,138804,https://www.beeradvocate.com/beer/profile/264/138804/,Nikolai Brewmaster’s Collection California Steam Beer  ,264,Oy Sinebrychoff Ab,8,2.96
+86,5.20,211794,https://www.beeradvocate.com/beer/profile/36817/211794/,Common Ride,36817,4204 Main Street Brewing Co.,8,3.66
+87,5.00,83797,https://www.beeradvocate.com/beer/profile/17281/83797/,Contraband,17281,Black Market Brewing Co.,8,3.52
+88,6.00,135529,https://www.beeradvocate.com/beer/profile/33181/135529/,Vapor,33181,Faction Brewing,8,3.54
+89,4.00,5743,https://www.beeradvocate.com/beer/profile/2266/5743/,Park City Steamer,2266,Moab Brewery,8,3.81
+90,5.00,128374,https://www.beeradvocate.com/beer/profile/35424/128374/,Cali Common,35424,Smylie Brothers Brewing Co.,8,3.59
+91,4.99,121764,https://www.beeradvocate.com/beer/profile/30/121764/,Red Table Common,30,Avery Brewing Company,8,3.87
+92,4.00,54801,https://www.beeradvocate.com/beer/profile/10153/54801/,San Francisco Lager,10153,Pisgah Brewing Co.,7,3.91
+93,4.00,5660,https://www.beeradvocate.com/beer/profile/1413/5660/,Centennial Steamer,1413,Desert Edge Brewery,7,3
+94,4.10,97566,https://www.beeradvocate.com/beer/profile/28983/97566/,West Portal Colorado Common,28983,"Big Choice Brewing, LLC",7,3.49
+95,4.70,55853,https://www.beeradvocate.com/beer/profile/21977/55853/,Golden Paw,21977,Beard & Brau,7,3.01
+96,6.10,42818,https://www.beeradvocate.com/beer/profile/16261/42818/,Lackawanna Steam Lager,16261,Horseheads Brewing Inc.,7,3.78
+97,4.10,143689,https://www.beeradvocate.com/beer/profile/31180/143689/,LAF Californian Steam Beer,31180,Deeside Brewery,7,3.72
+98,5.50,137550,https://www.beeradvocate.com/beer/profile/26784/137550/,Chef Series #1: National Common,26784,Red Hare Brewing Company,7,3.81
+99,5.00,155735,https://www.beeradvocate.com/beer/profile/32645/155735/,Common Sense,32645,Stone's Throw Brewing,7,3.81
+100,4.60,86364,https://www.beeradvocate.com/beer/profile/27081/86364/,California Common,27081,Knops Beer Company,7,3.64
+101,5.80,94319,https://www.beeradvocate.com/beer/profile/1177/94319/,Surreal Chemistry,1177,Minneapolis Town Hall Brewery,7,3.54
+102,5.00,213108,https://www.beeradvocate.com/beer/profile/18316/213108/,Uncommonly Common,18316,Al's of Hampden / Pizza Boy Brewing,7,3.8
+103,5.50,127100,https://www.beeradvocate.com/beer/profile/401/127100/,Baltika Kollektsiya Pivovara Kaliforniyskoe Svetloye,401,Baltika Breweries,7,3.15
+104,5.30,153218,https://www.beeradvocate.com/beer/profile/35017/153218/,Rådanäs California Common,35017,Rådanäs Bryggeri,7,3.35
+105,5.00,227472,https://www.beeradvocate.com/beer/profile/780/227472/,Campground Common,780,Granville Island Brewery,7,3.62
+106,5.50,148391,https://www.beeradvocate.com/beer/profile/37749/148391/,A Beer Named Sue,37749,Fall Brewing Company,7,3.89
+107,6.10,248277,https://www.beeradvocate.com/beer/profile/50716/248277/,Commonhouse Six.One For A Good Ale,50716,Commonhouse Ales,7,3.69
+108,4.80,79586,https://www.beeradvocate.com/beer/profile/22977/79586/,Höga Höjders Ängöl,22977,Ängöl,7,3.44
+109,4.80,44775,https://www.beeradvocate.com/beer/profile/16082/44775/,Steam Exchange Steam Ale,16082,Steam Exchange Brewery,7,3.4
+110,4.00,239125,https://www.beeradvocate.com/beer/profile/40531/239125/,Inca,40531,Oshlag Brasserie & Distillerie,6,3.98
+111,5.00,128793,https://www.beeradvocate.com/beer/profile/35693/128793/,Kentucky Common,35693,Sisyphus Brewing,6,3.54
+112,4.50,86556,https://www.beeradvocate.com/beer/profile/16385/86556/,Town Lager,16385,Linden Street Brewery,6,3.31
+113,6.00,313373,https://www.beeradvocate.com/beer/profile/29378/313373/,Steel Horse,29378,Parallel 49 Brewing Company,6,3.66
+114,5.50,179749,https://www.beeradvocate.com/beer/profile/34416/179749/,Uncommon,34416,Wander Brewing,6,3.69
+115,5.50,126778,https://www.beeradvocate.com/beer/profile/34195/126778/,MBC Manitou Common,34195,Manitou Brewing Co.,6,3.9
+116,5.00,56915,https://www.beeradvocate.com/beer/profile/17088/56915/,West Coast Ale,17088,"Robson's, Shongweni Brewery",6,3.44
+117,5.50,81748,https://www.beeradvocate.com/beer/profile/22866/81748/,Up River Amber,22866,Nantahala Brewing Company,6,3.74
+118,5.20,113769,https://www.beeradvocate.com/beer/profile/27230/113769/,Common Eileen,27230,Barley Mow Brewing Company,6,3.54
+119,4.98,126344,https://www.beeradvocate.com/beer/profile/35428/126344/,Santa Barbara Common Ale,35428,Pure Order Brewing Co.,6,3.86
+120,6.40,162213,https://www.beeradvocate.com/beer/profile/29911/162213/,Frontier Amber,29911,Ol' Republic Brewery,6,3.76
+121,5.60,128697,https://www.beeradvocate.com/beer/profile/33060/128697/,Sublimation,33060,Gneiss Brewing Company,6,4.01
+122,5.00,250050,https://www.beeradvocate.com/beer/profile/45518/250050/,Calcasieu Common,45518,Crying Eagle,6,3.87
+123,5.50,243396,https://www.beeradvocate.com/beer/profile/31765/243396/,Sanitas Citrus Lager,31765,Sanitas Brewing Company,6,3.47
+124,5.40,105937,https://www.beeradvocate.com/beer/profile/33347/105937/,Unusual,33347,2kids Brewing Company,6,3.34
+125, ? ,63714,https://www.beeradvocate.com/beer/profile/579/63714/,Steamvent Beer,579,Kona Brewing Co.,6,3.51
+126,5.20,114168,https://www.beeradvocate.com/beer/profile/2756/114168/,Spring Training Traditional Uncommon Ale,2756,Mudshark Brewing Co.,6,3.22
+127, ? ,43278,https://www.beeradvocate.com/beer/profile/2504/43278/,Phoenix Kentucky Komon,2504,New Albanian Brewing Company - Pizzeria and Public House,5,3.75
+128,5.30,159512,https://www.beeradvocate.com/beer/profile/39090/159512/,Cali Common,39090,Hearthstone Brewery,5,3.52
+129,4.00,152601,https://www.beeradvocate.com/beer/profile/36744/152601/,Wilde Mild Steam Beer,36744,The Dandy Brewing Company,5,3.53
+130,5.00,13354,https://www.beeradvocate.com/beer/profile/593/13354/,Cobblestone Steam Lager,593,Morgan Street Brewery,5,2.6
+131, ? ,148805,https://www.beeradvocate.com/beer/profile/35610/148805/,Vila Wald,35610,Beryl's Beer Company,5,3.78
+132,5.60,16737,https://www.beeradvocate.com/beer/profile/2253/16737/,Missouri River Steamboat Lager,2253,Blackfoot River Brewing Company,5,4.29
+133,5.60,42086,https://www.beeradvocate.com/beer/profile/2504/42086/,Mt Lee,2504,New Albanian Brewing Company - Pizzeria and Public House,5,3.86
+134, ? ,258671,https://www.beeradvocate.com/beer/profile/44266/258671/,LNK Common,44266,White Elm Brewing Company,5,3.9
+135,5.10,44681,https://www.beeradvocate.com/beer/profile/36757/44681/,Miner's Ruin,36757,DESTIHL Brewery,5,3.5
+136,4.50,203156,https://www.beeradvocate.com/beer/profile/16043/203156/,California Sun,16043,Birrificio Del Ducato,5,3.16
+137,4.70,291477,https://www.beeradvocate.com/beer/profile/49734/291477/,Split-shift Dakota Common Lager,49734,Remedy Brewing Company,5,3.78
+138,5.00,197014,https://www.beeradvocate.com/beer/profile/41330/197014/,Bluxome Black Lager,41330,Local Brewing Co.,5,3.66
+139,4.50,163991,https://www.beeradvocate.com/beer/profile/35179/163991/,Burlington Common,35179,Simple Roots Brewing Company,5,3.75
+140,5.00,61855,https://www.beeradvocate.com/beer/profile/3065/61855/,Steamer,3065,Jämtlands Bryggeri AB,5,2.84
+141,5.40,44717,https://www.beeradvocate.com/beer/profile/9167/44717/,California Common,9167,23rd Street Brewery,5,3.69
+142,3.50,70318,https://www.beeradvocate.com/beer/profile/3065/70318/,"Steamer 3,5",3065,Jämtlands Bryggeri AB,5,3.07
+143,5.10,130739,https://www.beeradvocate.com/beer/profile/30921/130739/,Crooked Common,30921,Appalachian Mountain Brewery,5,3.75
+144,5.00,89837,https://www.beeradvocate.com/beer/profile/30102/89837/,California Steamin',30102,Brasserie Saint James,5,3.66
+145, ? ,24322,https://www.beeradvocate.com/beer/profile/692/24322/,German Stein,692,Ellicottville Brewing Co.,4,3.94
+146, ? ,46108,https://www.beeradvocate.com/beer/profile/1636/46108/,Gold Rush Lager,1636,Fegley's Bethlehem Brew Works,4,3.63
+147,5.80,232243,https://www.beeradvocate.com/beer/profile/5691/232243/,Dampf Punk,5691,Switchback Brewing Company,4,3.9
+148,5.00,68404,https://www.beeradvocate.com/beer/profile/24245/68404/,Ibis,24245,Ramses Bier,4,3.55
+149,6.30,113219,https://www.beeradvocate.com/beer/profile/3820/113219/,Bozone Montana Common,3820,Bozeman Brewing Company,4,3.99
+150,5.40,226641,https://www.beeradvocate.com/beer/profile/45230/226641/,Dampfbier,45230,Inbound BrewCo,4,3.72
+151, ? ,23379,https://www.beeradvocate.com/beer/profile/4288/23379/,Newport Coast Steam,4288,Newport Beach Brewing Company,4,3.32
+152,4.50,50009,https://www.beeradvocate.com/beer/profile/1032/50009/,Stimulus Package,1032,Five Seasons Prado,4,3.92
+153, ? ,78184,https://www.beeradvocate.com/beer/profile/24836/78184/,Locomotive 447,24836,Tequesta Brewing Company,4,3.5
+154,4.30,45162,https://www.beeradvocate.com/beer/profile/14100/45162/,Cornish Steam Lager,14100,Wooden Hand Brewery,4,3.59
+155,5.00,179307,https://www.beeradvocate.com/beer/profile/34378/179307/,California Lager,34378,Brygghuset Finn,4,2.96
+156,5.40,61035,https://www.beeradvocate.com/beer/profile/7302/61035/,Cali-Com,7302,The Bobcat Café & Brewery,4,3.78
+157,4.20,279415,https://www.beeradvocate.com/beer/profile/33562/279415/,Lumen Lager,33562,Tin Whiskers Brewing Company,4,4.09
+158,6.20,184468,https://www.beeradvocate.com/beer/profile/34207/184468/,The Convert,34207,Absolution Brewing Company,4,3.65
+159,5.50,99479,https://www.beeradvocate.com/beer/profile/559/99479/,SF Lager,559,Speakeasy Ales & Lagers,4,1.91
+160,5.30,158873,https://www.beeradvocate.com/beer/profile/37557/158873/,Stirling,37557,La Nébuleuse,4,3.96
+161,5.20,245669,https://www.beeradvocate.com/beer/profile/39766/245669/,Steam Jack,39766,Crooked Can Brewing Company,4,3.41
+162,5.20,90796,https://www.beeradvocate.com/beer/profile/26934/90796/,Valve,26934,Black Acre Brewing Co.,4,3.84
+163,4.80,102579,https://www.beeradvocate.com/beer/profile/24821/102579/,The Steam Ale,24821,Australian Hotel & Brewery,4,3.06
+164,5.50,184772,https://www.beeradvocate.com/beer/profile/41754/184772/,Tashmoo Steamer,41754,Harsens Island Brewery,4,3.2
+165,5.10,142538,https://www.beeradvocate.com/beer/profile/37095/142538/,CT Uncommon Ale,37095,Black Pond Brews,4,4.08
+166, ? ,91853,https://www.beeradvocate.com/beer/profile/27350/91853/,Firebox,27350,Reads Landing Brewing Company,4,3.88
+167,5.20,177874,https://www.beeradvocate.com/beer/profile/140/177874/,Common Around,140,Sierra Nevada Brewing Co.,4,3.74
+168,6.40,219860,https://www.beeradvocate.com/beer/profile/42110/219860/,Land Of Fruit And Nuts,42110,Ascension Brewing Company,4,3.28
+169,4.50,90590,https://www.beeradvocate.com/beer/profile/17962/90590/,Steamers Lane Uncommon Lager,17962,Uncommon Brewers,4,3.42
+170,5.20,175600,https://www.beeradvocate.com/beer/profile/34964/175600/,California Common,34964,Mexitaly,4,3.76
+171,6.80,48645,https://www.beeradvocate.com/beer/profile/4237/48645/,Anniversary Ale,4237,Blue Cat Brew Pub,3,3.57
+172,6.00,132102,https://www.beeradvocate.com/beer/profile/32390/132102/,Madarina Steam,32390,Roundabout Brewery,3,3.42
+173, ? ,33299,https://www.beeradvocate.com/beer/profile/9797/33299/,Keystone Swankey,9797,North Country Brewing,3,3.35
+174, ? ,54037,https://www.beeradvocate.com/beer/profile/642/54037/,Prairie Fog Ale,642,Free State Brewing Co.,3,4.29
+175,5.20,195609,https://www.beeradvocate.com/beer/profile/42629/195609/,North Country Common,42629,Ausable Brewing Co.,3,3.88
+176,4.90,256538,https://www.beeradvocate.com/beer/profile/45942/256538/,Tragedy Of The Common,45942,Iowa Brewing Company,3,4.15
+177,5.00,139805,https://www.beeradvocate.com/beer/profile/34036/139805/,Steam Beer,34036,Day Block Brewing Company,3,3.53
+178,5.40,277789,https://www.beeradvocate.com/beer/profile/47577/277789/,Common Lingo,47577,Lo Rez Brewing,3,3.75
+179,5.00,178717,https://www.beeradvocate.com/beer/profile/35209/178717/,Dodo,35209,Oedipus Brewing,3,3.49
+180,6.20,261415,https://www.beeradvocate.com/beer/profile/37612/261415/,Checkered Past,37612,Audacity Brewhouse,3,3.69
+181,5.30,110125,https://www.beeradvocate.com/beer/profile/32800/110125/,Northwinds Kingpin Steam Beer,32800,Northwinds Brewery,3,3.27
+182,4.90,188209,https://www.beeradvocate.com/beer/profile/35611/188209/,Colorado Common,35611,Platt Park Brewing Company,3,3.76
+183,5.00,248374,https://www.beeradvocate.com/beer/profile/41427/248374/,Cali Common,41427,Topa Topa Brewing,3,3.78
+184,5.00,62010,https://www.beeradvocate.com/beer/profile/5337/62010/,Ruhstaller's,5337,Rubicon Brewing Company,3,3.51
+185, ? ,99901,https://www.beeradvocate.com/beer/profile/30623/99901/,Larimer Street Lager,30623,Our Mutual Friend Malt & Brew,3,2.44
+186,6.90,287295,https://www.beeradvocate.com/beer/profile/29859/287295/,Surfline Gulf Coast Lager,29859,Big Storm Brewing Company,3,3.55
+187,5.00,182593,https://www.beeradvocate.com/beer/profile/35424/182593/,Coffee Cali Common,35424,Smylie Brothers Brewing Co.,3,3.58
+188, ? ,58691,https://www.beeradvocate.com/beer/profile/1291/58691/,Greenfield Village Steam Station,1291,Motor City Brewing Works,3,3.57
+189,5.60,71239,https://www.beeradvocate.com/beer/profile/22920/71239/,Jimmy Green’s South Loop Lager,22920,Argus Brewery,3,3.15
+190,4.70,146248,https://www.beeradvocate.com/beer/profile/25378/146248/,Dampen,25378,Kinn Bryggeri AS,3,3.75
+191,5.20,43594,https://www.beeradvocate.com/beer/profile/1622/43594/,Turbine Steamship,1622,Titanic Brewing Company,3,3.18
+192,5.60,155217,https://www.beeradvocate.com/beer/profile/34779/155217/,Transcontinental,34779,Saint Benjamin Brewing Company,3,3.44
+193,5.00,161622,https://www.beeradvocate.com/beer/profile/12567/161622/,Yalobusha Mississippi Beer,12567,Laitilan Wirvoitusjuomatehdas,3,3.56
+194,5.30,258390,https://www.beeradvocate.com/beer/profile/43716/258390/,Big Sky Steam Beer,43716,Half Day Brewing Co.,3,3.42
+195,5.00,79200,https://www.beeradvocate.com/beer/profile/28635/79200/,844 Wyoming Uncommon,28635,Freedom's Edge Brewing Co.,3,3.71
+196,6.00,92260,https://www.beeradvocate.com/beer/profile/2321/92260/,Old California Lager,2321,Craftsman Brewing Co.,3,3.95
+197,5.60,271975,https://www.beeradvocate.com/beer/profile/32938/271975/,Magyar Vándor,32938,Békésszentandrási Serfőzde (Agro Flott Bt.),3,3.79
+198,4.90,137064,https://www.beeradvocate.com/beer/profile/31586/137064/,Calico,31586,Benelux Brasserie Artisanale,3,3.6
+199,5.60,247662,https://www.beeradvocate.com/beer/profile/52/247662/,Havoc,52,Buzzards Bay Brewing,3,3.98
+200,4.40,128367,https://www.beeradvocate.com/beer/profile/19868/128367/,Steamy Cream California Common Ale,19868,Whitstran Brewing Company,3,3.07
+201,5.60,103796,https://www.beeradvocate.com/beer/profile/32671/103796/,Localmotive,32671,Strong Brewing Company,3,3.67
+202,5.00,211835,https://www.beeradvocate.com/beer/profile/41993/211835/,Duke City Lager,41993,Boese Brothers Brewery,3,3.61
+203,4.90,307331,https://www.beeradvocate.com/beer/profile/34413/307331/,Horses on the Half Shell,34413,Broomtail Craft Brewery,3,4.34
+204,4.00,58765,https://www.beeradvocate.com/beer/profile/2266/58765/,Merrimack Steamer,2266,Moab Brewery,3,3.73
+205,5.00,150422,https://www.beeradvocate.com/beer/profile/32161/150422/,1849,32161,New Glory Craft Brewery,3,3.41
+206, ? ,255383,https://www.beeradvocate.com/beer/profile/47482/255383/,This One,47482,Stray Dog Brewing,3,3.19
+207,5.30,114079,https://www.beeradvocate.com/beer/profile/34033/114079/,Orbital Outrage,34033,Warped Brewing Company,3,2.5
+208,5.20,284834,https://www.beeradvocate.com/beer/profile/41760/284834/,Common Denominator,41760,Man Skirt Brewing,3,3.57
+209,4.50,175270,https://www.beeradvocate.com/beer/profile/15700/175270/,Steamer,15700,Oslo Mikrobryggeri,3,3.78
+210,4.60,261803,https://www.beeradvocate.com/beer/profile/44454/261803/,Steam Lager,44454,Redwell Brewing,3,3.56
+211,5.60,83117,https://www.beeradvocate.com/beer/profile/1788/83117/,'Armenia White' Steam Beer,1788,Flying Goose Brew Pub & Grille,3,3.58
+212,5.80,113619,https://www.beeradvocate.com/beer/profile/29911/113619/,California Common,29911,Ol' Republic Brewery,3,3.32
+213,4.40,138458,https://www.beeradvocate.com/beer/profile/18823/138458/,Self Esteem,18823,Freetail Brewing Company,3,3.82
+214,4.20,133085,https://www.beeradvocate.com/beer/profile/36193/133085/,Steam Engine,36193,Firetrucker Brewery,3,3.82
+215,4.80,239840,https://www.beeradvocate.com/beer/profile/45687/239840/,Toothless Prospector,45687,Situation Brewing,3,3.75
+216,6.20,216558,https://www.beeradvocate.com/beer/profile/40656/216558/,Commonwealth,40656,Caboose Brewing Co.,3,3.62
+217,8.40,239366,https://www.beeradvocate.com/beer/profile/9629/239366/,Beery McBeerface ,9629,Short's Brewing Company,2,3.99
+218,5.50,285959,https://www.beeradvocate.com/beer/profile/2446/285959/,California Common,2446,Catawba Brewing Co.,2,4.02
+219,6.00,31495,https://www.beeradvocate.com/beer/profile/10667/31495/,Union Station,10667,Cornerstone Brewing Company,2,4.39
+220,5.00,259087,https://www.beeradvocate.com/beer/profile/47720/259087/,Indajani California Common,47720,Cervecería Indajani,2,4.02
+221,5.00,307993,https://www.beeradvocate.com/beer/profile/873/307993/,bricktoberfest,873,BrickHouse Brewery,2,4.2
+222,5.80,258585,https://www.beeradvocate.com/beer/profile/43085/258585/,Jewel City Common,43085,Brewyard Beer Company,2,3.86
+223,5.00,64793,https://www.beeradvocate.com/beer/profile/603/64793/,Steam Hammer,603,Church Brew Works,2,3.8
+224,4.90,70952,https://www.beeradvocate.com/beer/profile/585/70952/,Maisel's Dampfbier,585,Brauerei Gebrüder Maisel GmbH & Co.,2,3.89
+225,4.90,257577,https://www.beeradvocate.com/beer/profile/47570/257577/,Common,47570,High Line Brewing,2,3
+226,5.50,292652,https://www.beeradvocate.com/beer/profile/42619/292652/,Headwall Dampfbier,42619,Bench Creek Brewing,2,3.55
+227,5.40,241964,https://www.beeradvocate.com/beer/profile/46398/241964/,Chase The Grain,46398,Black Flag Brewing Company,2,3.12
+228,5.00,187183,https://www.beeradvocate.com/beer/profile/30662/187183/,Caliente Common,30662,Rocky Point Artisan Brewers (RPAB),2,3.53
+229,4.20,133937,https://www.beeradvocate.com/beer/profile/1141/133937/,La Véronique,1141,Brasserie Dieu du Ciel!,2,3.38
+230,5.30,318008,https://www.beeradvocate.com/beer/profile/50640/318008/,Pond Surfer,50640,Town Square Brewing Co.,2,3.99
+231,5.50,199482,https://www.beeradvocate.com/beer/profile/32403/199482/,Common Harvest Lager,32403,Hoots Roller Bar & Beer Co.,2,3.8
+232,5.60,22843,https://www.beeradvocate.com/beer/profile/2079/22843/,Last Chance Lager,2079,Sweetwater Tavern & Brewery,2,3.89
+233,5.30,305980,https://www.beeradvocate.com/beer/profile/34068/305980/,Gammie California Steam Ale,34068,Hammond River Brewing,2,3.76
+234,5.00,290367,https://www.beeradvocate.com/beer/profile/40035/290367/,Verticality #3,40035,Lupulin Brewing,2,3.79
+235, ? ,116032,https://www.beeradvocate.com/beer/profile/1142/116032/,Steam Beer,1142,L'Amère à Boire,2,3.88
+236,4.00,16449,https://www.beeradvocate.com/beer/profile/1412/16449/,Red Rock Steamer,1412,Red Rock Brewing Company,2,3.71
+237,5.90,106052,https://www.beeradvocate.com/beer/profile/1168/106052/,Steam Train,1168,Barley John's Brew Pub,2,3.12
+238,5.10,197961,https://www.beeradvocate.com/beer/profile/42612/197961/,The Commoner - California Common,42612,Barbarian Brewing,2,3.56
+239,5.70,258890,https://www.beeradvocate.com/beer/profile/41755/258890/,Chinook Common,41755,Wet Coast Brewing Company,2,3.73
+240,5.50,251734,https://www.beeradvocate.com/beer/profile/24764/251734/,Pier 314,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,2,3.51
+241, ? ,44887,https://www.beeradvocate.com/beer/profile/3062/44887/,Tavern Ale,3062,Amos Howard's Brew Pub,2,3.75
+242,5.40,340570,https://www.beeradvocate.com/beer/profile/41024/340570/,Alberta Common,41024,Troubled Monk Brewery,2,3.74
+243,6.70,333916,https://www.beeradvocate.com/beer/profile/36118/333916/,Aberration,36118,Stone City Ales,2,3.84
+244,5.50,219487,https://www.beeradvocate.com/beer/profile/35306/219487/,Plow To Pint:  Maple California Common,35306,Urban Growler,2,3.02
+245,4.50,70243,https://www.beeradvocate.com/beer/profile/6902/70243/,Gadds' Common Conspiracy,6902,Ramsgate Brewery,2,3.55
+246,4.70,106851,https://www.beeradvocate.com/beer/profile/32406/106851/,9-0-Brew-1-0,32406,Crooked Ladder Brewing Company,2,3.88
+247,5.50,179817,https://www.beeradvocate.com/beer/profile/22470/179817/,Proud Mary,22470,Pinglehead Brewing Co. / Brewer's Pizza,2,3.88
+248,5.20,133997,https://www.beeradvocate.com/beer/profile/26606/133997/,Crystal Kush,26606,Two Kilts Brewing Co.,2,4.05
+249,5.10,250228,https://www.beeradvocate.com/beer/profile/47172/250228/,Clouds,47172,Cynosure Brewing,2,4.09
+250,5.20,111991,https://www.beeradvocate.com/beer/profile/761/111991/,Pour Man's Broo,761,CB Craft Brewers,2,3.5
+251,5.10,149112,https://www.beeradvocate.com/beer/profile/29164/149112/,Little Chicken,29164,HenHouse Brewing,2,3.31
+252,5.20,29309,https://www.beeradvocate.com/beer/profile/179/29309/,Firehole Steam,179,Snake River Brewing Company & Brewpub,2,3.53
+253,5.00,231041,https://www.beeradvocate.com/beer/profile/40238/231041/,Californiation,40238,Rurban Brewing,2,4.01
+254,4.40,212354,https://www.beeradvocate.com/beer/profile/7051/212354/,The Ruggles,7051,Tractor Brewing Co.,2,3
+255,5.80,256642,https://www.beeradvocate.com/beer/profile/5581/256642/,Veldensteiner California Common,5581,Kaiser Bräu GmbH & Co KG,2,3.73
+256,6.90,226438,https://www.beeradvocate.com/beer/profile/29859/226438/,Surfline Uncommon,29859,Big Storm Brewing Company,2,3.3
+257,4.80,44680,https://www.beeradvocate.com/beer/profile/36757/44680/,Dampfbier,36757,DESTIHL Brewery,2,3.51
+258,6.00,46737,https://www.beeradvocate.com/beer/profile/3792/46737/,Steam,3792,Turtle Mountain Brewing Company,2,3.92
+259, ? ,35995,https://www.beeradvocate.com/beer/profile/2470/35995/,Ringneck Stanley Steamer,2470,The Brew Kettle Taproom & Smokehouse / Production Works,2,3.83
+260,5.00,177567,https://www.beeradvocate.com/beer/profile/34604/177567/,Cutthroat Common,34604,Barnhouse Brewery,2,3.45
+261,4.30,27556,https://www.beeradvocate.com/beer/profile/5392/27556/,California Common,5392,Carlyle Brewing Co.,2,3.91
+262,5.00,170152,https://www.beeradvocate.com/beer/profile/40345/170152/,Descomunal,40345,Lúdica Artesanal Cervecería,2,4.08
+263,5.00,72370,https://www.beeradvocate.com/beer/profile/25800/72370/,Grand Esteemer San Francisco Lager,25800,The Wrecking Bar Brewpub,2,3.87
+264,5.90,287413,https://www.beeradvocate.com/beer/profile/45518/287413/,Acadian Coffee Calcasieu Common,45518,Crying Eagle,2,3.77
+265, ? ,182716,https://www.beeradvocate.com/beer/profile/35610/182716/,100s Of Peachcots,35610,Beryl's Beer Company,2,3.88
+266,5.80,276414,https://www.beeradvocate.com/beer/profile/46059/276414/,Bear Away,46059,East Side Brewery,2,2.93
+267,5.30,208063,https://www.beeradvocate.com/beer/profile/31151/208063/,Smoked Paprika & Lemon California Common,31151,Quantum Brewing Co,2,2.71
+268,5.50,53188,https://www.beeradvocate.com/beer/profile/16385/53188/,Rural People's Common Lager,16385,Linden Street Brewery,2,4.21
+269,4.80,127430,https://www.beeradvocate.com/beer/profile/34497/127430/,Kentucky Common (collab. W/ BBC),34497,Great Flood Brewing Company,2,4.32
+270, ? ,28873,https://www.beeradvocate.com/beer/profile/1317/28873/,Esteemed Beer,1317,Triumph Brewing Company,2,3.91
+271,5.00,260044,https://www.beeradvocate.com/beer/profile/34669/260044/,Todd English,34669,Dyckman Beer Co.,2,3.72
+272, ? ,251599,https://www.beeradvocate.com/beer/profile/41565/251599/,California Common,41565,Bad Brewer,2,2.69
+273,5.00,51936,https://www.beeradvocate.com/beer/profile/4742/51936/,Comptche Logger,4742,Ukiah Brewing Co.,2,3.8
+274,5.80,113633,https://www.beeradvocate.com/beer/profile/3798/113633/,Steam Beer,3798,High Desert Brewing Company,2,3.44
+275,4.70,124386,https://www.beeradvocate.com/beer/profile/29068/124386/,SMaSH Series: Dumphounded,29068,The Dayton Beer Company,2,2.12
+276,5.00,283875,https://www.beeradvocate.com/beer/profile/39510/283875/,Frisco 1501 Historic Lager,39510,Public House Brewing Company,2,4.21
+277,5.00,294371,https://www.beeradvocate.com/beer/profile/46902/294371/,Jigger's Delight,46902,Mill Street Brew Pub,2,3.59
+278, ? ,40419,https://www.beeradvocate.com/beer/profile/1888/40419/,STrEAM,1888,Lake Placid Craft Brewing Company,2,4.47
+279,6.50,247525,https://www.beeradvocate.com/beer/profile/32164/247525/,Replicale 2016,32164,Myths & Legends Brewing Company,2,3.4
+280,5.50,156646,https://www.beeradvocate.com/beer/profile/4073/156646/,Olt Koenig Holiday Ale,4073,Highlands Hollow Brewhouse,2,2.98
+281,5.80,199400,https://www.beeradvocate.com/beer/profile/43085/199400/,Soul Cal,43085,Brewyard Beer Company,2,3.75
+282,7.40,193012,https://www.beeradvocate.com/beer/profile/36470/193012/,The Usual Suspects,36470,Vice District Brewing Company,2,3.83
+283,5.50,117497,https://www.beeradvocate.com/beer/profile/33903/117497/,Californication,33903,Twisted Rail Brewing Company,2,3.25
+284, ? ,177658,https://www.beeradvocate.com/beer/profile/1168/177658/,Common To The Light,1168,Barley John's Brew Pub,2,3.7
+285,4.70,180481,https://www.beeradvocate.com/beer/profile/37649/180481/,Old Reliable,37649,Cheaha Brewing Company,1,3.5
+286,7.40,154370,https://www.beeradvocate.com/beer/profile/29619/154370/,Gold Rush IOC,29619,Base Camp Brewing Company,1,2
+287, ? ,307463,https://www.beeradvocate.com/beer/profile/132/307463/,Oregon Uncommon,132,Rogue Ales,1,3.55
+288, ? ,332552,https://www.beeradvocate.com/beer/profile/33824/332552/,Kingdom Common,33824,Bottle Logic Brewing,1,3.59
+289,4.90,312072,https://www.beeradvocate.com/beer/profile/38332/312072/,Jambi Colorado Common,38332,Gold Camp Brewing Company,1,2.98
+290,5.00,106505,https://www.beeradvocate.com/beer/profile/16270/106505/,Gold Rush Common,16270,Auburn Alehouse Brewery & Restaurant,1,4
+291,5.70,312841,https://www.beeradvocate.com/beer/profile/29335/312841/,MXPX Secret Weapon,29335,Silver City Brewery & Taproom,1,2.7
+292, ? ,55817,https://www.beeradvocate.com/beer/profile/15740/55817/,Zierholz Australian Steam Beer,15740,Zierholz Premium Brewery,1,4.03
+293,4.10,253961,https://www.beeradvocate.com/beer/profile/10485/253961/,5 Teeth Short Of A Smile,10485,East End Brewing Company,1,3.85
+294, ? ,126730,https://www.beeradvocate.com/beer/profile/34371/126730/,Summer Steam Beer,34371,The 5 Lamps Dublin Brewery,1,3.58
+295,7.30,324877,https://www.beeradvocate.com/beer/profile/1540/324877/,Mountain Goat Cross Breed Back To The Brewer Double Steam Ale,1540,Mountain Goat Beer Pty Ltd,1,3.66
+296,5.80,113678,https://www.beeradvocate.com/beer/profile/27696/113678/,Cali Common,27696,Hops and Grain Brewery,1,3.72
+297,4.90,161039,https://www.beeradvocate.com/beer/profile/29858/161039/,Cali Girl,29858,Fifty West Brewing Co,1,3.44
+298,5.30,288784,https://www.beeradvocate.com/beer/profile/45237/288784/,The Catalyst,45237,Sactown Union Brewery,1,3.56
+299, ? ,93969,https://www.beeradvocate.com/beer/profile/12003/93969/,Steam Beer,12003,Emmett's Brewing Company,1,3.92
+300,4.10,111122,https://www.beeradvocate.com/beer/profile/30031/111122/,El Dorado,30031,Kinney Creek Brewery,1,3.53
+301,4.50,279571,https://www.beeradvocate.com/beer/profile/48365/279571/,McSteamy,48365,Barnaby Brewing Company,1,3.72
+302,6.00,56596,https://www.beeradvocate.com/beer/profile/1550/56596/,N.E.Dark Side Steam,1550,Rock Bottom Restaurant & Brewery,1,4
+303,5.00,335637,https://www.beeradvocate.com/beer/profile/51286/335637/,#30 California Common,51286,Venn Brewing Co.,1,3.77
+304,5.40,270359,https://www.beeradvocate.com/beer/profile/38261/270359/,Spring Mist,38261,Sound to Summit Brewing,1,3.33
+305, ? ,56343,https://www.beeradvocate.com/beer/profile/4196/56343/,Steam Beer,4196,Copper Creek Brewing Co.,1,3.88
+306,5.20,209433,https://www.beeradvocate.com/beer/profile/30492/209433/,Railyard Rust California Common,30492,Bosque Brewing Co.,1,3.69
+307,4.50,223513,https://www.beeradvocate.com/beer/profile/2097/223513/,Steam Machine,2097,Kuhnhenn Brewing Company,1,3.5
+308,4.80,292633,https://www.beeradvocate.com/beer/profile/884/292633/,California Drinking,884,Kelham Island Brewery,1,3.68
+309,5.70,260121,https://www.beeradvocate.com/beer/profile/41563/260121/,Hulls & Oats,41563,Little Fish Brewing Company,1,3.65
+310,5.00,94747,https://www.beeradvocate.com/beer/profile/29267/94747/,Fog,29267,Black Dragon Brewery & Woodland Homebrew Supply,1,3.7
+311,5.50,301083,https://www.beeradvocate.com/beer/profile/50397/301083/,California Common,50397,Bauer Lopes,1,3.6
+312,5.50,215324,https://www.beeradvocate.com/beer/profile/25959/215324/,Steamy!,25959,Beachwood BBQ & Brewing,1,4.05
+313, ? ,178973,https://www.beeradvocate.com/beer/profile/17054/178973/,Commack Common,17054,The Blind Bat Brewery LLC,1,3.91
+314, ? ,182301,https://www.beeradvocate.com/beer/profile/582/182301/,California Common,582,Trailhead Brewing Co,1,3.71
+315,6.30,109598,https://www.beeradvocate.com/beer/profile/33650/109598/,Hwy 54 California Common,33650,Walnut River Brewing Company,1,3.5
+316,4.80,248862,https://www.beeradvocate.com/beer/profile/30062/248862/,STrEAM,30062,Stony Creek Brewery,1,3.37
+317,5.10,334624,https://www.beeradvocate.com/beer/profile/38904/334624/,Brick Maker Common,38904,Muddy York Brewing Co.,1,3.97
+318,4.50,236577,https://www.beeradvocate.com/beer/profile/45891/236577/,Cowcatcher Ale,45891,Roundhouse Brewery,1,3.75
+319,5.00,256289,https://www.beeradvocate.com/beer/profile/22194/256289/,Corvallis Common,22194,Flat Tail Brewing,1,3.44
+320,4.70,229666,https://www.beeradvocate.com/beer/profile/37597/229666/,Islington Unfiltered Steam Lager,37597,Hammerton,1,3.58
+321,6.00,301090,https://www.beeradvocate.com/beer/profile/199/301090/,Bay To Bay,199,Ballast Point Brewing Company,1,4.74
+322,5.30,227108,https://www.beeradvocate.com/beer/profile/20430/227108/,Dirty 30's California Common,20430,Dust Bowl Brewing Company - Downtown Taproom,1,3.73
+323,5.10,252454,https://www.beeradvocate.com/beer/profile/46653/252454/,42 & 2,46653,Brasserie du Bois Blanc,1,3.77
+324,4.80,242727,https://www.beeradvocate.com/beer/profile/13307/242727/,California Common,13307,Mikkeller ApS,1,3.21
+325,6.09,60711,https://www.beeradvocate.com/beer/profile/1550/60711/,UnCommon Beer,1550,Rock Bottom Restaurant & Brewery,1,3.88
+326,4.80,198441,https://www.beeradvocate.com/beer/profile/42874/198441/,Qui Pro Quommon,42874,No Tomorrow Craft Beer,1,3.8
+327,5.00,189225,https://www.beeradvocate.com/beer/profile/38802/189225/,Jolly Johnny,38802,Bryggeri Fängelset,1,1.74
+328, ? ,292139,https://www.beeradvocate.com/beer/profile/49653/292139/,Lutz Steam Beer,49653,Brewery 33,1,3.5
+329,4.00,216109,https://www.beeradvocate.com/beer/profile/44259/216109/,Thor's Thirst,44259,Oswald Brewing Company,1,3.26
+330,5.80,163373,https://www.beeradvocate.com/beer/profile/19729/163373/,Szot Rubia Al Vapor,19729,Szot Microcervecería,1,3.1
+331, ? ,50989,https://www.beeradvocate.com/beer/profile/1550/50989/,NorthEast Steam,1550,Rock Bottom Restaurant & Brewery,1,3.95
+332, ? ,97070,https://www.beeradvocate.com/beer/profile/29370/97070/,Golden State Common,29370,Get Well,1,3.55
+333, ? ,189998,https://www.beeradvocate.com/beer/profile/14886/189998/,Engine 13,14886,The Brewerie At Union Station,1,4.25
+334,3.50,159279,https://www.beeradvocate.com/beer/profile/30243/159279/,Right To Strike,30243,South Plains Brewing Company,1,1.06
+335, ? ,323375,https://www.beeradvocate.com/beer/profile/44765/323375/,Barrel Aged Carolina Common,44765,Bhramari Brewing Co,1,4.25
+336,5.20,151602,https://www.beeradvocate.com/beer/profile/611/151602/,Goldrush,611,Wagner Valley Brewing Co.,1,3.77
+337,5.00,231224,https://www.beeradvocate.com/beer/profile/6578/231224/,Cambridge House Common,6578,The Cambridge House Brewpub,1,3.78
+338,5.00,324920,https://www.beeradvocate.com/beer/profile/33735/324920/,California Common,33735,Nano 108 Brewing Company,1,1.72
+339,5.30,327480,https://www.beeradvocate.com/beer/profile/39750/327480/,Hellstork Prototyp California Common,39750,Kočovný Pivovar Hellstork,1,3.77
+340,5.90,248124,https://www.beeradvocate.com/beer/profile/39741/248124/,Very Nice Großen Bart California Common Lager,39741,Großen Bart Brewery,1,3.74
+341, ? ,340030,https://www.beeradvocate.com/beer/profile/1334/340030/,Topeka Beermuda Triangle,1334,Blind Tiger Brewery & Restaurant,1,3.68
+342, ? ,337471,https://www.beeradvocate.com/beer/profile/3760/337471/,Kentucky Friggin Common,3760,Mill Street Brew Pub,1,3.04
+343,5.70,240704,https://www.beeradvocate.com/beer/profile/33495/240704/,Common Take In,33495,Blackwater Draw Brewing Co.,1,4.25
+344,5.10,307776,https://www.beeradvocate.com/beer/profile/41024/307776/,Uncommon Red,41024,Troubled Monk Brewery,1,3.85
+345, ? ,340033,https://www.beeradvocate.com/beer/profile/44014/340033/,Kansas Common With Wild Clover Honey,44014,Aero Plains Brewing,1,3.58
+346,4.50,276801,https://www.beeradvocate.com/beer/profile/48682/276801/,Pid Parov,48682,Tsypa,1,3.47
+347,5.00,190787,https://www.beeradvocate.com/beer/profile/37299/190787/,Amber Steam,37299,Steel Toad Brewpub & Dining Hall,1,3.79
+348,6.10,49733,https://www.beeradvocate.com/beer/profile/3174/49733/,Sitzman's Steam,3174,Coopersmith's Pub & Brewing,1,2.98
+349,5.00,178758,https://www.beeradvocate.com/beer/profile/34640/178758/,Kevin,34640,Refined Fool Brewing Co.,1,3.78
+350,4.80,238665,https://www.beeradvocate.com/beer/profile/43889/238665/,Poolside Steam,43889,Mikkeller Brewing San Diego,1,3.75
+351, ? ,247881,https://www.beeradvocate.com/beer/profile/28558/247881/,Ella Lavender,28558,Smiling Toad Brewery,1,3.78
+352,5.70,25674,https://www.beeradvocate.com/beer/profile/5910/25674/,Jamesport Amber Steam,5910,Jamesport Brewing Company Inc.,1,3.53
+353,5.80,264523,https://www.beeradvocate.com/beer/profile/45704/264523/,Cali Common,45704,Pipe Dream Brewing,1,2.98
+354,5.10,324683,https://www.beeradvocate.com/beer/profile/51561/324683/,Blue Sky,51561,Fifth Frame Brewing Co.,1,3.19
+355,5.20,23884,https://www.beeradvocate.com/beer/profile/2144/23884/,California Common Beer,2144,McCoy's Public House,1,3
+356,5.30,309836,https://www.beeradvocate.com/beer/profile/35805/309836/,California Common,35805,Postmark Brewing,1,3.88
+357,5.70,328528,https://www.beeradvocate.com/beer/profile/25920/328528/,Gallagher’s Best Common,25920,El Segundo Brewing Company,1,3.68
+358,5.10,183121,https://www.beeradvocate.com/beer/profile/2091/183121/,Steam Beer,2091,Woodward Avenue Brewers,1,3.23
+359,5.10,208723,https://www.beeradvocate.com/beer/profile/36225/208723/,Shenango Valley Steamer,36225,Brewtus Brewing Company,1,3.64
+360,5.10,232533,https://www.beeradvocate.com/beer/profile/38282/232533/,Steampunk Ale,38282,Abnormal Beer Company,1,3.75
+361, ? ,315477,https://www.beeradvocate.com/beer/profile/45164/315477/,Kentucky Common,45164,Rip Rap Brewing Company,1,2.9
+362,5.60,282967,https://www.beeradvocate.com/beer/profile/35987/282967/,Steamin' Willie Beamin',35987,Denizens Brewing Co.,1,3.77
+363,4.70,239705,https://www.beeradvocate.com/beer/profile/44159/239705/,Commonwealth Ale,44159,Wild Card Brewing Company,1,3.11
+364,5.80,286301,https://www.beeradvocate.com/beer/profile/16110/286301/,Locals Only,16110,Rivertowne Pourhouse,1,3.75
+365,5.20,339039,https://www.beeradvocate.com/beer/profile/44765/339039/,Painted Fortune,44765,Bhramari Brewing Co,1,4.07
+366,5.50,320351,https://www.beeradvocate.com/beer/profile/29671/320351/,Tahoe Beer,29671,The Brewer's Cabinet,1,3.56
+367,5.70,252000,https://www.beeradvocate.com/beer/profile/38386/252000/,Commonwealth Common,38386,Tin Cannon Brewing Company,1,4
+368,5.20,298593,https://www.beeradvocate.com/beer/profile/780/298593/,Lagered Ale,780,Granville Island Brewery,1,2.84
+369,4.50,338531,https://www.beeradvocate.com/beer/profile/33061/338531/,Laobaixing,33061,Jing-A (京A) Brewing Co.,1,3.7
+370, ? ,183652,https://www.beeradvocate.com/beer/profile/33735/183652/,Benny's Brass Ass,33735,Nano 108 Brewing Company,1,2
+371,5.00,226406,https://www.beeradvocate.com/beer/profile/33934/226406/,Arizona Common,33934,Sentinel Peak Brewing Company,1,3.32
+372,5.50,307816,https://www.beeradvocate.com/beer/profile/47002/307816/,Pink rush,47002,Crooked Lane Brewing Company,1,3.25
+373, ? ,243561,https://www.beeradvocate.com/beer/profile/37897/243561/,Copperstate Common,37897,Mother Bunch Brewing,1,2.5
+374,5.90,15978,https://www.beeradvocate.com/beer/profile/2641/15978/,Steaming Cascade California Common,2641,The New Old Lompoc,1,3.6
+375,5.70,180588,https://www.beeradvocate.com/beer/profile/1860/180588/,Steam Punk! Cali Lager,1860,Bube's Brewery,1,4
+376,4.60,111213,https://www.beeradvocate.com/beer/profile/28861/111213/,Encore,28861,Brasserie du Lion à Plume,1,3.87
+377,5.20,47725,https://www.beeradvocate.com/beer/profile/2617/47725/,Choo Choo Steamer,2617,Big River Grille & Brewing Works,1,3
+378,5.10,323954,https://www.beeradvocate.com/beer/profile/31212/323954/,Coffee Common Lager,31212,Atlas Brew Works,1,3.61
+379,4.70,200308,https://www.beeradvocate.com/beer/profile/41487/200308/,Common Kazi,41487,F-Town Brewing Co.,1,3.52
+380, ? ,283509,https://www.beeradvocate.com/beer/profile/3196/283509/,Steam Lager,3196,Flat Branch Pub & Brewery,1,3.78
+381,5.20,276086,https://www.beeradvocate.com/beer/profile/38649/276086/,Common GRind,38649,Lupine Brewing Company,1,4.47
+382,5.70,284793,https://www.beeradvocate.com/beer/profile/33589/284793/,Kentucky Common,33589,Columbia Kettle Works,1,3.81
+383,5.50,296825,https://www.beeradvocate.com/beer/profile/16086/296825/,710,16086,Quigley's Pint & Plate,1,3.5
+384,5.00,143482,https://www.beeradvocate.com/beer/profile/27230/143482/,Steampunk,27230,Barley Mow Brewing Company,1,3
+385,5.50,185467,https://www.beeradvocate.com/beer/profile/28181/185467/,California Common,28181,Pecan Street Brewing,1,3.52
+386, ? ,305279,https://www.beeradvocate.com/beer/profile/41024/305279/,Red Deer Common,41024,Troubled Monk Brewery,1,3.73
+387,4.70,277377,https://www.beeradvocate.com/beer/profile/46203/277377/,Clinker,46203,North Park Beer Company,1,3.75
+388, ? ,70274,https://www.beeradvocate.com/beer/profile/1334/70274/,Gold Rush Golden Lager,1334,Blind Tiger Brewery & Restaurant,1,3.77
+389,5.00,110724,https://www.beeradvocate.com/beer/profile/31841/110724/,Campanile Common,31841,Wooden Legs Brewing Company,1,4
+390, ? ,129414,https://www.beeradvocate.com/beer/profile/35610/129414/,Wald Bier,35610,Beryl's Beer Company,1,3
+391,4.90,223624,https://www.beeradvocate.com/beer/profile/35738/223624/,Conscription Lager,35738,Wild Run Brewery,1,3.83
+392,5.20,95625,https://www.beeradvocate.com/beer/profile/8818/95625/,Inland Empress,8818,Last Name Brewing,1,3.03
+393,4.10,316041,https://www.beeradvocate.com/beer/profile/139/316041/,Steam Beer,139,Shipyard Brewing Company,1,3.5
+394,6.80,230282,https://www.beeradvocate.com/beer/profile/38471/230282/,"""Ho-Jack Trail"" Steam Ale",38471,Knucklehead Craft Brewing,1,3.93
+395,7.30,188810,https://www.beeradvocate.com/beer/profile/32784/188810/,Sourdough Common,32784,Salty Nut Brewery,1,3.67
+396,5.00,180363,https://www.beeradvocate.com/beer/profile/28362/180363/,Epic Steam Bike,28362,Brasserie Artisanale La Souche,1,4.12
+397, ? ,245644,https://www.beeradvocate.com/beer/profile/43976/245644/,Dampfbier,43976,New Paltz Brewing Company (Pfälzerbräu),1,4.33
+398,6.00,326028,https://www.beeradvocate.com/beer/profile/22598/326028/,California Lager,22598,Cismontane Brewing Company,1,3.69
+399,8.30,258701,https://www.beeradvocate.com/beer/profile/27243/258701/,LI To Me Imperial LI Common,27243,Spider Bite Beer Company,1,3.96
+400,5.00,263567,https://www.beeradvocate.com/beer/profile/9704/263567/,Uncharted Dampfbier,9704,Emmett's Brewing Company,1,3.31
+401,5.30,179343,https://www.beeradvocate.com/beer/profile/29118/179343/,Cellar Steam,29118,Timber Creek Tap & Table,1,3.56
+402,5.00,84883,https://www.beeradvocate.com/beer/profile/3956/84883/,West Coast Steamer,3956,Brewsters Brewing Company & Restaurant - Oliver Square,1,3.68
+403,5.75,286612,https://www.beeradvocate.com/beer/profile/44640/286612/,Common Irish Conversation,44640,Quarter Celtic Brewpub,1,3.46
+404,5.20,253844,https://www.beeradvocate.com/beer/profile/43678/253844/,San Fransiscan Steam,43678,The Steam Machine Brewing Co.,1,3.62
+405,5.20,321174,https://www.beeradvocate.com/beer/profile/3239/321174/,Galaxy Lager,3239,Sierra Blanca Brewing Company (Rio Grande),1,3.5
+406,4.80,152473,https://www.beeradvocate.com/beer/profile/1620/152473/,Florida Common,1620,Dunedin Brewery,1,3.34
+407,4.80,190363,https://www.beeradvocate.com/beer/profile/27354/190363/,Steamy,27354,O.H.S.O. Eatery & Nano-Brewery,1,3.06
+408,5.70,339106,https://www.beeradvocate.com/beer/profile/41023/339106/,Cali Common #1,41023,Verde Brewing Company,1,4
+409,5.20,140709,https://www.beeradvocate.com/beer/profile/23076/140709/,Uncommon Sweetheart,23076,Grimm Brothers Brewhouse,1,3.5
+410,5.50,18085,https://www.beeradvocate.com/beer/profile/2078/18085/,Last Chance Lager,2078,Sweetwater Tavern & Brewery,1,4
+411, ? ,84390,https://www.beeradvocate.com/beer/profile/1621/84390/,Steam Beer,1621,Brewzzi Italian American Bistro & Microbrewery,1,3.38
+412, ? ,190632,https://www.beeradvocate.com/beer/profile/30116/190632/,Steamer,30116,Brass Castle Brewery,1,2.87
+413,5.00,183723,https://www.beeradvocate.com/beer/profile/3599/183723/,BB15 Bay Steam,3599,Baird Brewing Company / Fishmarket Taproom,1,4.24
+414,5.00,241068,https://www.beeradvocate.com/beer/profile/43539/241068/,Common Scallywag,43539,Nutmeg Brewhouse,1,3.54
+415,5.10,185518,https://www.beeradvocate.com/beer/profile/34671/185518/,Batch_2,34671,Innocente Brewing Company,1,3.97
+416, ? ,191918,https://www.beeradvocate.com/beer/profile/36710/191918/,Wildcat Kentucky Common,36710,J. Wakefield Brewing,1,3.96
+417,4.70,311216,https://www.beeradvocate.com/beer/profile/49419/311216/,Uncommon Denominator,49419,Reinvention Brewing,1,3.02
+418,5.80,307379,https://www.beeradvocate.com/beer/profile/38954/307379/,Goin' Back to Cali,38954,TailGate Beer,1,3.94
+419,6.20,127924,https://www.beeradvocate.com/beer/profile/24026/127924/,Cali' Common,24026,The Beer Company,1,3.13
+420,4.20,180406,https://www.beeradvocate.com/beer/profile/39159/180406/,San Andreas Beachfront ,39159,Batch Brewing Company,1,4
+421,5.20,286648,https://www.beeradvocate.com/beer/profile/32889/286648/,California Common,32889,Persephone Brewing,1,3.84
+422, ? ,109496,https://www.beeradvocate.com/beer/profile/33635/109496/,Steamer,33635,Rooftop Brewing Company,1,3.75
+423,5.25,181689,https://www.beeradvocate.com/beer/profile/12881/181689/,Steamy Blonde,12881,Square One Brewery & Distillery,1,3.63
+424,5.90,282812,https://www.beeradvocate.com/beer/profile/43167/282812/,Breaking Ground,43167,Brookeville Beer Farm,1,3.93
+425,5.20,110781,https://www.beeradvocate.com/beer/profile/33642/110781/,California Steam,33642,Village Idiot Brewing Company,1,3.34
+426,5.00,263358,https://www.beeradvocate.com/beer/profile/7527/263358/,Kentucky Common,7527,Be Right Back Brewing Company (BRB Co.),1,4.1
+427,3.50,291776,https://www.beeradvocate.com/beer/profile/1950/291776/,Bear Cub Common,1950,Court Avenue Brewing Company,1,3.5
+428,5.00,120512,https://www.beeradvocate.com/beer/profile/33710/120512/,Mountain Steam Lager,33710,Grumpy Old Men Brewing,1,4
+429,6.10,207553,https://www.beeradvocate.com/beer/profile/12314/207553/,Colorado Common,12314,Dry Dock Brewing Co.,1,3.16
+430,5.50,331458,https://www.beeradvocate.com/beer/profile/1011/331458/,Ca Common,1011,Angel City Brewery,1,3.69
+431,6.30,92354,https://www.beeradvocate.com/beer/profile/6578/92354/,Cambridge House Steam Bock,6578,The Cambridge House Brewpub,1,3.97
+432,4.70,300995,https://www.beeradvocate.com/beer/profile/49211/300995/,Narrow Gauge Steam,49211,Mount Gretna Craft Brewery,1,3.75
+433,6.70,234949,https://www.beeradvocate.com/beer/profile/45823/234949/,Extra Common Ale,45823,Elkhorn Slough Brewing Co.,1,3.34
+434,4.00,263366,https://www.beeradvocate.com/beer/profile/36583/263366/,California Common,36583,Farmageddon Brewing Co-op,1,4.31
+435,5.20,313030,https://www.beeradvocate.com/beer/profile/47072/313030/,Hathor California Common,47072,Cerberus Brewing Company,1,3.75
+436,7.70,157127,https://www.beeradvocate.com/beer/profile/31730/157127/,New England Common,31730,Sons of Liberty Aleworks,1,3.69
+437,7.00,208329,https://www.beeradvocate.com/beer/profile/37548/208329/,Let’s Ceaux Mesjokke,37548,Ceaux,1,3.52
+438,5.40,200650,https://www.beeradvocate.com/beer/profile/43209/200650/,Bankrupt State,43209,Conner Fields Brewing,1,3.5
+439,5.10,80332,https://www.beeradvocate.com/beer/profile/17281/80332/,Belgo/Cali Common,17281,Black Market Brewing Co.,1,3.41
+440,4.60,289999,https://www.beeradvocate.com/beer/profile/38780/289999/,Kolkki Olut,38780,Maku Brewing,1,3.4
+441,5.20,275922,https://www.beeradvocate.com/beer/profile/32020/275922/,Westbound,32020,Osgood Brewing,1,3.87
+442, ? ,134868,https://www.beeradvocate.com/beer/profile/32463/134868/,Strawberry Steam,32463,Apple Blossom Brewing Co.,1,3.25
+443,6.66,182740,https://www.beeradvocate.com/beer/profile/24916/182740/,Coffee Sloth Stout,24916,Moon Tower Inn,1,3
+444, ? ,52692,https://www.beeradvocate.com/beer/profile/14359/52692/,Hop Common,14359,The Defiant Brewing Company,1,4
+445,5.30,331222,https://www.beeradvocate.com/beer/profile/39611/331222/,What The Dampf,39611,Town in City Brewing Co.,1,3.69
+446,6.00,251864,https://www.beeradvocate.com/beer/profile/47004/251864/,Loudoun Common,47004,Dog Money Restaurant & Brewery,1,3.58
+447,4.80,277465,https://www.beeradvocate.com/beer/profile/30201/277465/,California Common,30201,HooDoo Brewing,1,4.04
+448,5.50,231385,https://www.beeradvocate.com/beer/profile/35210/231385/,Calla Doon,35210,MacLeod Ale Brewing Company,1,3.75
+449,4.20,330202,https://www.beeradvocate.com/beer/profile/52020/330202/,Illinois Common Ale,52020,Hopskeller Brewing Company,1,3.5
+450,5.00,211930,https://www.beeradvocate.com/beer/profile/32116/211930/,Slow Digesting Soul Eater,32116,5 Paddles Brewing Co.,1,3.66
+451,4.80,256475,https://www.beeradvocate.com/beer/profile/47303/256475/,Common Sense,47303,Sedition Brewing Company,1,4.3
+452,5.20,125659,https://www.beeradvocate.com/beer/profile/30102/125659/,White Steam,30102,Brasserie Saint James,1,3.5
+453,6.00,281052,https://www.beeradvocate.com/beer/profile/37983/281052/,Crossed Anchors,37983,Wop's Hops Brewing Company,1,3.66
+454,4.70,328672,https://www.beeradvocate.com/beer/profile/38865/328672/,Cal Common,38865,The Old Bakery Beer Company,1,3.75
+455, ? ,92644,https://www.beeradvocate.com/beer/profile/20679/92644/,King Common,20679,Everybody's Brewing,1,3.47
+456,4.00,292837,https://www.beeradvocate.com/beer/profile/49808/292837/,Shteam,49808,Kame & Kettle,1,3.49
+457,4.50,306405,https://www.beeradvocate.com/beer/profile/23635/306405/,Cali Common,23635,Lavery Brewing Company,1,3.77
+458,4.80,280299,https://www.beeradvocate.com/beer/profile/48962/280299/,California Common,48962,Lake Tahoe Aleworx,1,3.77
+459,5.90,72429,https://www.beeradvocate.com/beer/profile/63/72429/,NW Super Critical,63,Deschutes Brewery,1,3.85
+460,5.00,299501,https://www.beeradvocate.com/beer/profile/14349/299501/,Coastal Common Lager,14349,Whistler Brewing Company,1,3.55
+461,4.70,165102,https://www.beeradvocate.com/beer/profile/3865/165102/,Wood County Common,3865,North End Tavern & Brewery,1,4.12
+462,5.20,258542,https://www.beeradvocate.com/beer/profile/26936/258542/,California Common,26936,Fountain Square Brewing Co.,1,3.5
+463,5.00,285935,https://www.beeradvocate.com/beer/profile/12389/285935/,Raging Eagle American Ale,12389,Wildlife Brewing & Pizza,1,3.9
+464, ? ,336881,https://www.beeradvocate.com/beer/profile/882/336881/,Kentucky frackin common,882,Beach Chalet Brewery and Restaurant,1,3
+465,5.40,218354,https://www.beeradvocate.com/beer/profile/44524/218354/,Centennial Colorado Common,44524,Halfpenny Brewing Company,1,3.75
+466,4.80,304882,https://www.beeradvocate.com/beer/profile/35767/304882/,A Beer of Very Little Braim,35767,Fiction Beer Company,1,3.52
+467,6.40,147958,https://www.beeradvocate.com/beer/profile/28018/147958/,California Common,28018,Rapp Brewing Company,1,4
+468,5.50,202487,https://www.beeradvocate.com/beer/profile/41330/202487/,SF Lager,41330,Local Brewing Co.,1,3.82
+469,10.20,54266,https://www.beeradvocate.com/beer/profile/2144/54266/,California UnCommon,2144,McCoy's Public House,1,3.73
+470,5.50,200445,https://www.beeradvocate.com/beer/profile/40855/200445/,California Gold,40855,Crooked Spider,1,3
+471,6.00,254718,https://www.beeradvocate.com/beer/profile/29984/254718/,Steamboat Alt,29984,Mishap Brewing Company,1,3.39
+472,4.90,236288,https://www.beeradvocate.com/beer/profile/36193/236288/,Steam Engine Common,36193,Firetrucker Brewery,0,0
+473, ? ,204289,https://www.beeradvocate.com/beer/profile/27470/204289/,​Calrissian Common,27470,High Hops Brewery,0,0
+474, ? ,134407,https://www.beeradvocate.com/beer/profile/2351/134407/,Grand Trunk Steam Beer,2351,Royal Oak Brewery,0,0
+475,4.50,280843,https://www.beeradvocate.com/beer/profile/33068/280843/,Lucky Bandit Kentucky Common,33068,Boatyard Brewing Co.,0,0
+476,4.50,337932,https://www.beeradvocate.com/beer/profile/32688/337932/,Tight Red Togs,32688,Steamrail Brewing Company,0,0
+477, ? ,279822,https://www.beeradvocate.com/beer/profile/27037/279822/,Indiana Un-Common Bicentenni-Ale,27037,Triton Brewing Company,0,0
+478,5.00,328976,https://www.beeradvocate.com/beer/profile/47794/328976/,Cali Ale,47794,Common Good Beer Co.,0,0
+479,4.60,203027,https://www.beeradvocate.com/beer/profile/34323/203027/,California Common,34323,San Francisco Brewing Company,0,0
+480,4.60,234007,https://www.beeradvocate.com/beer/profile/25839/234007/,Kentucky Common,25839,St. Petersburg Brewing Company,0,0
+481,5.50,329496,https://www.beeradvocate.com/beer/profile/51772/329496/,Foxy Lady,51772,Bad Guy Brewery,0,0
+482,5.60,62489,https://www.beeradvocate.com/beer/profile/23101/62489/,Old Faithful,23101,Croocked Moon Brewing,0,0
+483,5.40,231454,https://www.beeradvocate.com/beer/profile/25920/231454/,C'Mon Man!,25920,El Segundo Brewing Company,0,0
+484,5.20,23844,https://www.beeradvocate.com/beer/profile/3196/23844/,Rye Lager,3196,Flat Branch Pub & Brewery,0,0
+485,5.00,107306,https://www.beeradvocate.com/beer/profile/13252/107306/,Sakura Steam,13252,Locobeer,0,0
+486,8.50,319788,https://www.beeradvocate.com/beer/profile/31212/319788/,Commoner,31212,Atlas Brew Works,0,0
+487,5.00,333101,https://www.beeradvocate.com/beer/profile/52131/333101/,Kentucky Common,52131,Saulter Street Brewery,0,0
+488, ? ,216367,https://www.beeradvocate.com/beer/profile/44420/216367/,Steel City,44420,The Walter Brewing Company,0,0
+489,7.50,195631,https://www.beeradvocate.com/beer/profile/41429/195631/,Oral Pleasure,41429,Reckless Brewing Company,0,0
+490,5.00,333107,https://www.beeradvocate.com/beer/profile/52131/333107/,California Common,52131,Saulter Street Brewery,0,0
+491,4.30,237875,https://www.beeradvocate.com/beer/profile/44159/237875/,Gold Rush,44159,Wild Card Brewing Company,0,0
+492,5.00,180022,https://www.beeradvocate.com/beer/profile/33463/180022/,Serf Session Dampfbier,33463,Back Bay Brewing Co.,0,0
+493,5.00,230712,https://www.beeradvocate.com/beer/profile/11552/230712/,Rauch Tot Steampunk,11552,Redlight Redlight,0,0
+494,6.00,206398,https://www.beeradvocate.com/beer/profile/32152/206398/,Calabrifornia,32152,Birra Bellazzi,0,0
+495,5.60,226622,https://www.beeradvocate.com/beer/profile/43405/226622/,California Common,43405,Grasslands Brewing Company,0,0
+496, ? ,193598,https://www.beeradvocate.com/beer/profile/32784/193598/,California Common,32784,Salty Nut Brewery,0,0
+497,6.20,307781,https://www.beeradvocate.com/beer/profile/50629/307781/,Anchorman,50629,Saucy Brew Works,0,0
+498,5.30,204870,https://www.beeradvocate.com/beer/profile/2792/204870/,Golda Campu,2792,Phantom Canyon Brewing Company,0,0
+499,5.50,286793,https://www.beeradvocate.com/beer/profile/49471/286793/,"California, Not Common",49471,Angry Horse Brewing,0,0
+500,5.50,125772,https://www.beeradvocate.com/beer/profile/32544/125772/,Cascadian Common,32544,Plank Town Brewing Company,0,0
+501,5.20,331345,https://www.beeradvocate.com/beer/profile/52069/331345/,Lake Andrew unCommon,52069,Tilion Brewing Company,0,0
+502,5.50,221527,https://www.beeradvocate.com/beer/profile/24047/221527/,NYCommon,24047,Crossroads Brewing Company,0,0
+503,6.50,205146,https://www.beeradvocate.com/beer/profile/30354/205146/,Very Nice Groben Bart,30354,The Very Nice Brewing Company,0,0
+504,4.20,297818,https://www.beeradvocate.com/beer/profile/44130/297818/,Beerbier,44130,Mollusk Restaurant & Brewery,0,0
+505, ? ,218715,https://www.beeradvocate.com/beer/profile/40268/218715/,Glory Days,40268,Jackson Street Brewing,0,0
+506,6.10,107101,https://www.beeradvocate.com/beer/profile/33474/107101/,Top Down,33474,CoStar Brewing,0,0
+507,4.50,160862,https://www.beeradvocate.com/beer/profile/32012/160862/,Rocket Science Californian,32012,Dennis Beer Co.,0,0
+508,4.70,210784,https://www.beeradvocate.com/beer/profile/43863/210784/,Fully Inflated Amber Lager,43863,5 Rights Brewing Co.,0,0
+509,5.00,229216,https://www.beeradvocate.com/beer/profile/24447/229216/,5th Anniversary Panhandle Steamer,24447,Pensacola Bay Brewery,0,0
+510,5.10,193120,https://www.beeradvocate.com/beer/profile/37475/193120/,Kentucky Common,37475,Hellbender Brewing Company,0,0
+511,5.10,324960,https://www.beeradvocate.com/beer/profile/41409/324960/,Golden Gate,41409,Columbus House Brewery,0,0
+512,5.50,322914,https://www.beeradvocate.com/beer/profile/37051/322914/,Nodak Steam,37051,Drekker Brewing Company,0,0
+513,5.20,204388,https://www.beeradvocate.com/beer/profile/36264/204388/,Pin Setter,36264,Iron Bird Brewing Co.,0,0
+514,5.00,338021,https://www.beeradvocate.com/beer/profile/52314/338021/,Komrade Common,52314,People's Pint Brewing Collective,0,0
+515,4.80,292709,https://www.beeradvocate.com/beer/profile/47052/292709/,Toolshed Memories Kentucky Common,47052,Flapjack Brewery,0,0
+516,4.90,327531,https://www.beeradvocate.com/beer/profile/13948/327531/,Uncommon Valor,13948,The Faust Hotel (Faust Brewing Company),0,0
+517,5.10,337516,https://www.beeradvocate.com/beer/profile/52229/337516/,Going Out West,52229,Teays River Brewing & Public House,0,0
+518,4.40,337772,https://www.beeradvocate.com/beer/profile/50775/337772/,Coast Ale,50775,Capital Brewing Co.,0,0
+519, ? ,132734,https://www.beeradvocate.com/beer/profile/34427/132734/,Drifter #004 - Keystone Common,34427,Hitchhiker Brewing Company,0,0
+520,4.50,303998,https://www.beeradvocate.com/beer/profile/2447/303998/,Undercurrent,2447,Coronado Brewing Company,0,0
+521,4.50,327807,https://www.beeradvocate.com/beer/profile/48169/327807/,California Lager,48169,Bad Shepherd Brewing Co.,0,0
+522,5.00,317312,https://www.beeradvocate.com/beer/profile/32575/317312/,Steam Beer,32575,Paradox Brewery,0,0
+523,5.50,124547,https://www.beeradvocate.com/beer/profile/29076/124547/,The Local,29076,Cranker's Brewery,0,0
+524,5.50,325251,https://www.beeradvocate.com/beer/profile/51181/325251/,O'Siders Common,51181,Northern Pine Brewery,0,0
+525,5.00,102789,https://www.beeradvocate.com/beer/profile/27926/102789/,Cali Common Ale,27926,Bare Hands Brewery,0,0
+526,5.60,271494,https://www.beeradvocate.com/beer/profile/35916/271494/,Jamarillo,35916,Browar Birbant,0,0
+527,5.50,203399,https://www.beeradvocate.com/beer/profile/33484/203399/,Tourada,33484,Working Man Brewing Company,0,0
+528,4.90,287623,https://www.beeradvocate.com/beer/profile/48960/287623/,Common Pour,48960,Smoke Brewing Company,0,0
+529,6.00,157576,https://www.beeradvocate.com/beer/profile/25338/157576/,Gold Rush Lager,25338,El Dorado Brewing Company,0,0
+530, ? ,203405,https://www.beeradvocate.com/beer/profile/39472/203405/,Stone Lock Lager,39472,Yolo Brewing Company,0,0
+531,5.00,294035,https://www.beeradvocate.com/beer/profile/45639/294035/,Pool Vibes,45639,Stable Craft Brewing,0,0
+532,5.80,308630,https://www.beeradvocate.com/beer/profile/47529/308630/,Humpyard Steam Ale,47529,Flying Boats Brewing,0,0
+533, ? ,205719,https://www.beeradvocate.com/beer/profile/12216/205719/,Parovoye,12216,Republic Beer,0,0
+534,5.00,339353,https://www.beeradvocate.com/beer/profile/51052/339353/,Big Jim,51052,Main and Six Brewing Company,0,0
+535, ? ,226717,https://www.beeradvocate.com/beer/profile/559/226717/,Teatotaler,559,Speakeasy Ales & Lagers,0,0
+536,5.10,155806,https://www.beeradvocate.com/beer/profile/38632/155806/,Uber Lager,38632,Ogre Beer Comércio de Cervejas Ltda.,0,0
+537,4.60,283295,https://www.beeradvocate.com/beer/profile/48990/283295/,Steam Whistle,48990,Cavendish Brewing Company,0,0
+538,5.60,292003,https://www.beeradvocate.com/beer/profile/46134/292003/,Catskill Common,46134,Rip Van Winkle Brewing Co. / Angela's Italian Bistro,0,0
+539,5.00,234404,https://www.beeradvocate.com/beer/profile/45955/234404/,Common Sense,45955,Stones Throw Brewing Co.,0,0
+540,5.50,267941,https://www.beeradvocate.com/beer/profile/45724/267941/,Cuyahoga Jones,45724,The Cleveland Brewery,0,0
+541,3.60,161708,https://www.beeradvocate.com/beer/profile/31171/161708/,Urmahlullu,31171,Discretion Brewing,0,0
+542,5.20,319918,https://www.beeradvocate.com/beer/profile/51397/319918/,Bull Moose Common,51397,Rock'N Dough Pizza + Brew Co.,0,0
+543,4.70,337841,https://www.beeradvocate.com/beer/profile/32624/337841/,Steam 202,32624,Beach Hut Brewery,0,0
+544,4.70,233649,https://www.beeradvocate.com/beer/profile/45148/233649/,California Lager,45148,Oslo Brewing Co.,0,0
+545, ? ,316338,https://www.beeradvocate.com/beer/profile/51228/316338/,Colonel Whidbey's Common,51228,Wicked Teuton Brewing / Whidbey Homebrew Supply,0,0
+546, ? ,128440,https://www.beeradvocate.com/beer/profile/23697/128440/,Sutter County Common,23697,Sutter Buttes Brewing,0,0
+547,4.80,231869,https://www.beeradvocate.com/beer/profile/42219/231869/,No Steam,42219,Standard Brewing Company,0,0
+548,5.00,286910,https://www.beeradvocate.com/beer/profile/47303/286910/,Natural Born Keller,47303,Sedition Brewing Company,0,0
+549,5.00,329664,https://www.beeradvocate.com/beer/profile/45688/329664/,Steamwork,45688,Two Thumb Brewing Co.,0,0
+550,5.50,180416,https://www.beeradvocate.com/beer/profile/33706/180416/,Lorton Commons,33706,Forge Brew Works,0,0
+551, ? ,193730,https://www.beeradvocate.com/beer/profile/21517/193730/,Good Dog,21517,Denali Brewing Company / Twister Creek Restaurant,0,0
+552,5.50,332739,https://www.beeradvocate.com/beer/profile/51378/332739/,217 Common,51378,Buzz Bomb Brewing Co.,0,0
+553,5.00,337859,https://www.beeradvocate.com/beer/profile/47363/337859/,Icon,47363,Little Bang Brewing Co,0,0
+554, ? ,126918,https://www.beeradvocate.com/beer/profile/35516/126918/,Out On The Weekend,35516,Noble Order Brewing Company,0,0
+555,5.10,300233,https://www.beeradvocate.com/beer/profile/38261/300233/,Over Yonder Kentucky Common,38261,Sound to Summit Brewing,0,0
+556,5.00,246992,https://www.beeradvocate.com/beer/profile/22856/246992/,Sidewalk Surfer,22856,Trouble Brewing,0,0
+557,5.30,283089,https://www.beeradvocate.com/beer/profile/40992/283089/,Ouropretana Café Lager,40992,Cervejaria Ouropretana,0,0
+558,5.00,250583,https://www.beeradvocate.com/beer/profile/47187/250583/,Caravana California Common,47187,Radical OH,0,0
+559,4.80,337880,https://www.beeradvocate.com/beer/profile/27330/337880/,Monty's Noble Ale,27330,Pinchgut Brewing Company,0,0
+560,5.50,331738,https://www.beeradvocate.com/beer/profile/50846/331738/,Dad Joke,50846,Hops Brewery,0,0
+561,5.20,140253,https://www.beeradvocate.com/beer/profile/36509/140253/,Groß Lechen Dampf Bier,36509,Big Lick Brewing Company,0,0
+562,4.80,242142,https://www.beeradvocate.com/beer/profile/46640/242142/,Double Overhand,46640,Urban Lodge Brewery & Restaurant,0,0
+563,5.50,329696,https://www.beeradvocate.com/beer/profile/28700/329696/,Hermann,28700,Roma Restaurant & Brewery,0,0
+564,5.40,306914,https://www.beeradvocate.com/beer/profile/40209/306914/,Back To Cali,40209,Goat Ridge Brewing Co.,0,0
+565,4.00,172516,https://www.beeradvocate.com/beer/profile/40531/172516/,Aztec Steam Beer,40531,Oshlag Brasserie & Distillerie,0,0
+566, ? ,214502,https://www.beeradvocate.com/beer/profile/17157/214502/,Wisconie Common,17157,Potosi Brewing Company,0,0
+567,5.10,339180,https://www.beeradvocate.com/beer/profile/51568/339180/,Cali Steam,51568,Pesky Pelican,0,0
+568,5.10,286192,https://www.beeradvocate.com/beer/profile/49384/286192/,Keller Steam,49384,Out Of Town Brewing,0,0
+569, ? ,202490,https://www.beeradvocate.com/beer/profile/17945/202490/,Sutter Street,17945,Lockdown Brewing Company,0,0
+570,5.10,336122,https://www.beeradvocate.com/beer/profile/17033/336122/,Full Steam Ahead,17033,Franconia Brewing Company,0,0
+571,4.50,293114,https://www.beeradvocate.com/beer/profile/38102/293114/,South Central Steam,38102,Molly Pitcher Brewing Company,0,0
+572,5.90,299771,https://www.beeradvocate.com/beer/profile/22843/299771/,Cashmere Outside,22843,Breakside Brewery,0,0
+573,5.60,250619,https://www.beeradvocate.com/beer/profile/28127/250619/,Smuggler’s Rush,28127,Gananoque Brewing Company,0,0
+574,4.75,216316,https://www.beeradvocate.com/beer/profile/41826/216316/,Cock FeatherCalifornia Common Lager,41826,Robin Hood Brewing Co. / Home D Pizzeria,0,0

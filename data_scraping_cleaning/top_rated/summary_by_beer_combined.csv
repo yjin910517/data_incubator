@@ -1,0 +1,1338 @@
+beer_ids,beer_names,abvs,company_ids,ratings,scores,availabilities,bro_scores,reviews_nums,style_name,sub_cat,cat
+1963,Spotted Cow,4.8,590,3645,3.75,Year-round,0.0,831,Cream Ale,American Ales,Ale
+23506,Summer Solstice,5.0,193,1594,3.67,Summer,3.79,495,Cream Ale,American Ales,Ale
+1376,Genesee Cream Ale,5.1,302,1404,3.04,Year-round,3.04,565,Cream Ale,American Ales,Ale
+169625,Calm Before The Storm,5.5,199,1185,3.87,Rotating,0.0,274,Cream Ale,American Ales,Ale
+727,Aecht Schlenkerla Rauchbier Märzen,5.4,263,2373,4.06,,4.35,1151,Rauchbier,German Lagers,Lager
+1324,Aecht Schlenkerla Rauchbier Urbock,6.6,263,1418,4.14,,4.15,725,Rauchbier,German Lagers,Lager
+71501,Smoke & Dagger,5.8,26520,1066,3.93,Year-round,0.0,188,Rauchbier,German Lagers,Lager
+1587,Midas Touch,9.0,64,4911,3.74,Year-round,3.72,1675,Herbed / Spiced Beer,Hybrid,Hybrid
+86621,Not Your Father's Root Beer (5.9%),5.9,24798,2752,4.01,Year-round,0.0,589,Herbed / Spiced Beer,Hybrid,Hybrid
+86626,2XMAS,8.5,3818,1548,3.69,Winter,0.0,289,Herbed / Spiced Beer,Hybrid,Hybrid
+24259,Chateau Jiahu,10.0,64,1441,3.78,Rotating,0.0,570,Herbed / Spiced Beer,Hybrid,Hybrid
+702,Juniper Pale Ale,5.3,132,1329,3.61,Winter,3.12,678,Herbed / Spiced Beer,Hybrid,Hybrid
+1876,Good Juju,4.5,418,1315,3.41,Rotating,3.81,429,Herbed / Spiced Beer,Hybrid,Hybrid
+40702,Agave Wheat,4.2,2137,1083,3.41,Rotating,3.38,264,Herbed / Spiced Beer,Hybrid,Hybrid
+299,#9,5.1,96,5771,3.39,Year-round,3.25,1718,Fruit / Vegetable Beer,Hybrid,Hybrid
+108,Samuel Adams Cherry Wheat,5.3,35,3931,3.16,Year-round,3.0,1179,Fruit / Vegetable Beer,Hybrid,Hybrid
+1585,Raspberry Tart,4.0,590,3879,4.37,Year-round,4.59,957,Fruit / Vegetable Beer,Hybrid,Hybrid
+36010,Leinenkugel's Summer Shandy,4.2,710,3662,3.17,Summer,0.0,658,Fruit / Vegetable Beer,Hybrid,Hybrid
+1577,Wisconsin Belgian Red,4.0,590,3643,4.38,Year-round,4.22,1025,Fruit / Vegetable Beer,Hybrid,Hybrid
+23474,Rübæus,5.7,1199,3630,3.88,Year-round,0.0,783,Fruit / Vegetable Beer,Hybrid,Hybrid
+7,Purple Haze,4.2,3,3377,3.28,Year-round,3.92,825,Fruit / Vegetable Beer,Hybrid,Hybrid
+5488,Wells Banana Bread Beer,5.2,664,3123,3.54,Year-round,0.0,920,Fruit / Vegetable Beer,Hybrid,Hybrid
+86172,Serendipity,4.0,590,2910,4.35,Rotating,0.0,311,Fruit / Vegetable Beer,Hybrid,Hybrid
+4202,Hell Or High Watermelon Wheat Beer,4.9,735,2821,3.35,Year-round,3.5,765,Fruit / Vegetable Beer,Hybrid,Hybrid
+25852,Blushing Monk,9.2,1199,2308,4.19,Rotating,0.0,622,Fruit / Vegetable Beer,Hybrid,Hybrid
+3523,Éphémère (Apple),5.5,22,2096,3.6,Spring,3.23,1021,Fruit / Vegetable Beer,Hybrid,Hybrid
+44932,Autumn Maple,10.0,16866,2077,3.78,Fall,0.0,636,Fruit / Vegetable Beer,Hybrid,Hybrid
+26049,Wild Blue,8.0,29,1661,2.28,Year-round,1.63,634,Fruit / Vegetable Beer,Hybrid,Hybrid
+20014,Thumbprint Apple Ale,4.0,590,1653,4.13,Rotating,3.84,464,Fruit / Vegetable Beer,Hybrid,Hybrid
+32437,Black & Blue,10.0,64,1624,3.68,Rotating,0.0,530,Fruit / Vegetable Beer,Hybrid,Hybrid
+81388,Samuel Adams Porch Rocker,4.5,35,1622,3.3,Summer,3.51,254,Fruit / Vegetable Beer,Hybrid,Hybrid
+96814,Mango Magnifico,10.0,1199,1553,3.59,Rotating,3.58,296,Fruit / Vegetable Beer,Hybrid,Hybrid
+48911,Cerise,6.5,1199,1505,3.62,Summer,0.0,605,Fruit / Vegetable Beer,Hybrid,Hybrid
+96831,Strawberry Rhubarb,4.0,590,1458,4.31,Rotating,0.0,175,Fruit / Vegetable Beer,Hybrid,Hybrid
+1903,Samuel Adams Cranberry Lambic,5.9,35,1388,2.67,Winter,2.7,841,Fruit / Vegetable Beer,Hybrid,Hybrid
+23505,Strawberry Harvest Lager,4.2,3,1355,3.47,Rotating,0.0,416,Fruit / Vegetable Beer,Hybrid,Hybrid
+2967,Leinenkugel's Berry Weiss,4.7,710,1348,2.83,Year-round,0.0,381,Fruit / Vegetable Beer,Hybrid,Hybrid
+70602,Tweason'ale,6.0,64,1332,3.08,Rotating,3.65,296,Fruit / Vegetable Beer,Hybrid,Hybrid
+21466,Fort,18.0,64,1313,3.73,Rotating,3.94,569,Fruit / Vegetable Beer,Hybrid,Hybrid
+67274,Shiner Ruby Redbird,4.01,143,1308,3.18,Summer,0.0,282,Fruit / Vegetable Beer,Hybrid,Hybrid
+18021,Short's Soft Parade,7.5,9629,1197,3.65,Year-round,0.0,354,Fruit / Vegetable Beer,Hybrid,Hybrid
+1971,Sweetwater Blue,4.9,273,1188,3.38,Year-round,0.0,299,Fruit / Vegetable Beer,Hybrid,Hybrid
+25649,Pyramid Apricot Ale,5.1,403,1108,3.43,Rotating,0.0,481,Fruit / Vegetable Beer,Hybrid,Hybrid
+62866,Liliko'i Kepolo,5.6,30,1083,4.02,Year-round,4.05,202,Fruit / Vegetable Beer,Hybrid,Hybrid
+38795,Kasteel Rouge,8.0,212,1074,3.82,,0.0,414,Fruit / Vegetable Beer,Hybrid,Hybrid
+87280,Redd's Apple Ale,5.0,105,1069,2.73,Year-round,0.0,180,Fruit / Vegetable Beer,Hybrid,Hybrid
+67238,Shock Top Raspberry Wheat,5.2,29,1020,2.82,Year-round,0.0,166,Fruit / Vegetable Beer,Hybrid,Hybrid
+5281,Cantillon Fou' Foune,5.0,388,3004,4.65,,0.0,546,Lambic - Fruit,Belgian / French Ales,Ale
+599,Lindemans Framboise,2.5,187,2855,3.88,,3.55,1058,Lambic - Fruit,Belgian / French Ales,Ale
+1632,Cantillon Kriek 100% Lambic,5.0,388,2468,4.36,,4.12,729,Lambic - Fruit,Belgian / French Ales,Ale
+2557,Cantillon Rosé De Gambrinus,5.0,388,2395,4.32,,3.8,765,Lambic - Fruit,Belgian / French Ales,Ale
+8954,Cantillon Saint Lamvinus,5.0,388,2155,4.54,,0.0,489,Lambic - Fruit,Belgian / French Ales,Ale
+3659,Cantillon Lou Pepe - Kriek,5.0,388,1772,4.62,,0.0,359,Lambic - Fruit,Belgian / French Ales,Ale
+2558,Vigneronne,5.0,388,1411,4.42,,0.0,320,Lambic - Fruit,Belgian / French Ales,Ale
+13825,Cantillon Lou Pepe - Framboise,5.0,388,1342,4.58,,0.0,299,Lambic - Fruit,Belgian / French Ales,Ale
+600,Lindemans Kriek,4.0,187,1286,3.85,,3.77,538,Lambic - Fruit,Belgian / French Ales,Ale
+6306,Drie Fonteinen Oude Kriek,6.0,2216,1197,4.31,,0.0,344,Lambic - Fruit,Belgian / French Ales,Ale
+598,Lindemans Pêche,2.5,187,1186,3.94,,4.17,474,Lambic - Fruit,Belgian / French Ales,Ale
+85743,Oude Quetsche Tilquin à L'Ancienne,6.4,25923,1034,4.38,,0.0,118,Lambic - Fruit,Belgian / French Ales,Ale
+90,Smoked Porter,5.9,147,4202,4.0,Year-round,4.03,1816,Smoked Beer,Hybrid,Hybrid
+36707,Smoked Porter - Chipotle Peppers,5.9,147,1284,3.78,Rotating,3.58,326,Smoked Beer,Hybrid,Hybrid
+7697,Dark Horse Fore Smoked Stout,7.0,1471,1120,3.92,Winter,0.0,445,Smoked Beer,Hybrid,Hybrid
+16074,Red's Rye IPA,6.6,1199,5265,4.18,Fall,4.41,1672,Rye Beer,American Ales,Ale
+43223,Smitten Golden Rye Ale,6.0,287,1795,3.68,Spring,0.0,332,Rye Beer,American Ales,Ale
+56168,Rye-on-Rye,12.0,423,1787,4.22,Rotating,4.38,437,Rye Beer,American Ales,Ale
+30502,Cane And Ebel,7.0,689,1718,4.08,Year-round,4.2,644,Rye Beer,American Ales,Ale
+16115,Black Rye,7.5,1199,1604,4.02,Winter,4.09,456,Rye Beer,American Ales,Ale
+86189,Organic Chocolate Stout,5.0,113,3308,4.23,Year-round,0.0,642,English Stout,English Ales,Ale
+297,Heart Of Darkness,5.7,96,1442,3.88,Winter,4.37,341,English Stout,English Ales,Ale
+75364,Pearl Necklace Chesapeake Stout,5.5,68,1304,3.69,Year-round,3.88,249,English Stout,English Ales,Ale
+1703,Cantillon Gueuze 100% Lambic,5.0,388,3793,4.45,,4.49,918,Gueuze,Belgian / French Ales,Ale
+6305,Drie Fonteinen Oude Geuze,6.0,2216,2864,4.4,,0.0,751,Gueuze,Belgian / French Ales,Ale
+6104,Lindemans Gueuze Cuvée René,5.5,187,2165,4.1,,4.57,917,Gueuze,Belgian / French Ales,Ale
+70745,Oude Gueuze Tilquin à L'Ancienne,6.4,25923,2056,4.34,,0.0,364,Gueuze,Belgian / French Ales,Ale
+51116,Duck Duck Gooze,7.0,18149,1839,4.62,Rotating,0.0,289,Gueuze,Belgian / French Ales,Ale
+86970,Rueuze,5.6,40927,1454,4.19,Rotating,0.0,172,Gueuze,Belgian / French Ales,Ale
+1710,Oude Gueuze,6.0,636,1325,4.26,,4.55,511,Gueuze,Belgian / French Ales,Ale
+21683,Cantillon Cuvée Des Champions,5.0,388,1276,4.36,,0.0,280,Gueuze,Belgian / French Ales,Ale
+6317,Girardin Gueuze 1882 (Black Label),5.0,2541,1204,4.29,,0.0,562,Gueuze,Belgian / French Ales,Ale
+13826,Cantillon Lou Pepe - Gueuze,5.0,388,1189,4.5,,0.0,210,Gueuze,Belgian / French Ales,Ale
+5357,Boon Oude Geuze Mariage Parfait,8.0,47,1133,4.13,,0.0,385,Gueuze,Belgian / French Ales,Ale
+79387,Drie Fonteinen Oude Geuze Golden Blend,7.5,2216,1087,4.49,,0.0,189,Gueuze,Belgian / French Ales,Ale
+5212,St. Louis Gueuze Fond Tradition,5.0,212,1042,3.9,,0.0,351,Gueuze,Belgian / French Ales,Ale
+2595,Oud Beersel Oude Geuze Vieille,6.0,828,1016,4.04,,4.0,461,Gueuze,Belgian / French Ales,Ale
+7712,Lindemans Faro Lambic,4.5,187,1077,3.67,,0.0,521,Faro,Belgian / French Ales,Ale
+81010,Gose,4.0,24134,2625,4.16,Rotating,0.0,342,Gose,German Ales,Ale
+99790,"The Kimmie, The Yink & The Holy Gose",4.2,193,1988,3.85,Year-round,0.0,273,Gose,German Ales,Ale
+132073,Highway 128 Session Series:  Blood Orange Gose,4.2,193,1827,3.95,Year-round,3.53,271,Gose,German Ales,Ale
+187317,Otra Vez,4.5,140,1584,3.69,Year-round,0.0,417,Gose,German Ales,Ale
+121506,Stillwater / Westbrook Gose Gone Wild,4.6,22150,1112,4.39,Rotating,0.0,137,Gose,German Ales,Ale
+156202,Kirsch Gose,4.7,345,1095,3.95,Spring,3.77,204,Gose,German Ales,Ale
+95326,Troublesome,4.3,31678,1053,3.79,Year-round,4.03,167,Gose,German Ales,Ale
+10683,Leipziger Gose,4.5,4909,1002,3.89,,0.0,477,Gose,German Ales,Ale
+2671,Bigfoot Barleywine-Style Ale,9.6,140,7596,4.14,Winter,4.41,3096,American Barleywine,American Ales,Ale
+1891,Third Coast Old Ale,10.2,287,2759,4.11,Winter,4.17,1118,American Barleywine,American Ales,Ale
+6533,Olde School Barleywine,15.0,64,2684,3.98,Fall,3.8,1094,American Barleywine,American Ales,Ale
+20931,Old Ruffian Barley Wine,10.2,158,2482,4.2,Year-round,4.49,1114,American Barleywine,American Ales,Ale
+41300,Brewer's Reserve Bourbon Barrel Barleywine,11.5,652,2430,4.31,Rotating,0.0,666,American Barleywine,American Ales,Ale
+78551,Old Guardian Barley Wine Style Ale,11.0,147,2032,4.01,Winter,4.09,293,American Barleywine,American Ales,Ale
+1009,Old Horizontal,11.0,345,1914,4.05,Fall,3.8,1118,American Barleywine,American Ales,Ale
+4810,Behemoth Blonde Barleywine,10.5,26,1870,4.23,Winter,0.0,598,American Barleywine,American Ales,Ale
+1579,Olde GnarlyWine,10.9,220,1688,4.07,Winter,0.0,757,American Barleywine,American Ales,Ale
+6646,Old Numbskull,11.0,396,1492,4.12,Rotating,3.93,518,American Barleywine,American Ales,Ale
+48224,Flying Mouflan,9.3,694,1409,4.13,Spring,0.0,572,American Barleywine,American Ales,Ale
+34129,Sierra Nevada Bigfoot Barleywine Style Ale - Barrel-Aged,12.2,140,1338,4.15,Rotating,0.0,269,American Barleywine,American Ales,Ale
+2965,XS Old Crustacean,11.5,132,1294,4.01,Rotating,4.43,712,American Barleywine,American Ales,Ale
+20762,Doggie Claws,11.5,173,1203,4.14,Fall,0.0,560,American Barleywine,American Ales,Ale
+89499,A Deal With The Devil,17.3,24903,1049,4.52,Rotating,0.0,144,American Barleywine,American Ales,Ale
+228,Dortmunder Gold,5.8,73,3321,4.06,Year-round,4.45,1120,Dortmunder / Export Lager,German Lagers,Lager
+50443,Jinx Proof,5.1,26,1179,3.64,Year-round,0.0,193,Dortmunder / Export Lager,German Lagers,Lager
+133,Ayinger Jahrhundert Bier,5.5,39,1013,3.95,,4.08,536,Dortmunder / Export Lager,German Lagers,Lager
+712,Weihenstephaner Original,5.1,252,2376,4.09,,4.51,925,Munich Helles Lager,German Lagers,Lager
+3062,Hofbräu Original,5.1,4686,1616,3.8,,4.05,512,Munich Helles Lager,German Lagers,Lager
+57471,Two Women Lager,5.0,590,1491,3.83,Year-round,4.3,320,Munich Helles Lager,German Lagers,Lager
+1944,Spaten Münchner Hell (Premium Lager),5.2,142,1466,3.69,,4.12,616,Munich Helles Lager,German Lagers,Lager
+44531,Hell Lager,5.0,13014,1181,3.82,Year-round,0.0,341,Munich Helles Lager,German Lagers,Lager
+388,Paulaner Original Münchner,4.9,124,1055,3.73,,3.74,472,Munich Helles Lager,German Lagers,Lager
+102,Samuel Adams Octoberfest,5.3,35,7698,3.67,Fall,3.54,2195,Märzen / Oktoberfest,German Lagers,Lager
+1361,Ayinger Oktober Fest-Märzen,5.8,39,2674,4.01,,4.02,1123,Märzen / Oktoberfest,German Lagers,Lager
+582,Spaten Oktoberfestbier Ur-Märzen,5.9,142,2623,3.62,,3.8,1169,Märzen / Oktoberfest,German Lagers,Lager
+386,Paulaner Oktoberfest Bier,5.8,124,2601,3.87,,3.93,1135,Märzen / Oktoberfest,German Lagers,Lager
+13896,Oktoberfest,6.5,73,2289,4.05,Fall,4.75,644,Märzen / Oktoberfest,German Lagers,Lager
+1017,Festbier,5.6,345,1992,3.67,Fall,3.68,805,Märzen / Oktoberfest,German Lagers,Lager
+234,Hacker-Pschorr Original Oktoberfest Amber Märzen,5.8,76,1871,3.95,,4.28,834,Märzen / Oktoberfest,German Lagers,Lager
+5757,Leinenkugel's Oktoberfest,5.1,710,1750,3.19,Fall,0.0,509,Märzen / Oktoberfest,German Lagers,Lager
+570,Brooklyn Oktoberfest,5.5,45,1748,3.63,Fall,3.38,788,Märzen / Oktoberfest,German Lagers,Lager
+6861,Weihenstephaner Festbier,5.8,252,1649,3.74,,0.0,656,Märzen / Oktoberfest,German Lagers,Lager
+2011,Hofbräu Oktoberfestbier,6.3,4686,1489,3.49,,0.0,593,Märzen / Oktoberfest,German Lagers,Lager
+32410,Oktoberfest,6.6,418,1257,3.77,Fall,4.27,457,Märzen / Oktoberfest,German Lagers,Lager
+313,Octoberfest Beer,5.3,98,1232,3.67,Fall,4.05,498,Märzen / Oktoberfest,German Lagers,Lager
+60642,Shiner Märzen-Style Oktoberfest,5.8,143,1181,3.36,Fall,3.61,312,Märzen / Oktoberfest,German Lagers,Lager
+32695,Octoberfest Beer,5.5,287,1094,3.63,Fall,0.0,507,Märzen / Oktoberfest,German Lagers,Lager
+6075,Staghorn Octoberfest,6.25,590,1092,3.95,Fall,4.18,342,Märzen / Oktoberfest,German Lagers,Lager
+51631,Hoss Oktoberfest Lager,6.2,158,1087,3.74,Summer,3.88,460,Märzen / Oktoberfest,German Lagers,Lager
+19651,Dogtoberfest,5.3,68,1052,3.56,Fall,3.52,544,Märzen / Oktoberfest,German Lagers,Lager
+104,Samuel Adams Boston Lager,5.0,35,9346,3.74,Year-round,4.0,2734,Vienna Lager,German Lagers,Lager
+667,Negra Modelo,5.4,75,3408,3.34,,3.59,1018,Vienna Lager,German Lagers,Lager
+229,Eliot Ness,6.1,73,3260,4.07,Year-round,4.5,1044,Vienna Lager,German Lagers,Lager
+171,Dos Equis Amber Lager,4.7,57,2979,3.12,,3.53,768,Vienna Lager,German Lagers,Lager
+5,Amber,4.5,3,1722,3.46,Year-round,3.98,553,Vienna Lager,German Lagers,Lager
+21300,Samuel Adams Black Lager,4.9,35,2659,3.7,Year-round,3.68,1465,Schwarzbier,German Lagers,Lager
+1774,Köstritzer Schwarzbier,4.8,648,1971,3.91,,4.22,859,Schwarzbier,German Lagers,Lager
+32575,Bohemian Black Lager,4.9,143,1481,3.44,Year-round,0.0,535,Schwarzbier,German Lagers,Lager
+1314,Xingu Black Beer,4.7,2480,1370,3.48,,3.61,605,Schwarzbier,German Lagers,Lager
+73965,Baba Black Lager,4.0,1416,1260,3.77,Year-round,3.88,245,Schwarzbier,German Lagers,Lager
+321,Saranac Black Forest Black Beer,5.5,99,1147,3.73,Rotating,4.3,574,Schwarzbier,German Lagers,Lager
+101,Samuel Adams Winter Lager,5.6,35,6055,3.59,Winter,3.73,2013,Bock,German Lagers,Lager
+1352,Shiner Bock,4.4,143,4150,3.18,Year-round,2.73,1113,Bock,German Lagers,Lager
+14309,Samuel Adams Chocolate Bock,5.8,35,3049,3.63,Rotating,3.1,1217,Bock,German Lagers,Lager
+1252,Michelob AmberBock,5.2,29,1849,2.88,Year-round,3.33,690,Bock,German Lagers,Lager
+355,Dead Guy Ale,6.8,132,7677,3.94,Year-round,4.3,2457,Maibock / Helles Bock,German Lagers,Lager
+1565,Andygator,8.0,3,1658,3.55,Year-round,0.0,462,Maibock / Helles Bock,German Lagers,Lager
+131,Ayinger Celebrator Doppelbock,6.7,39,6610,4.34,,4.69,2460,Doppelbock,German Lagers,Lager
+4109,Troegenator,8.2,694,3308,3.94,Year-round,4.2,1156,Doppelbock,German Lagers,Lager
+99,Spaten Optimator,7.6,142,3105,3.89,,3.81,1348,Doppelbock,German Lagers,Lager
+387,Salvator Doppel Bock,7.9,124,2800,3.92,,0.0,1394,Doppelbock,German Lagers,Lager
+779,Weihenstephaner Korbinian,7.4,252,2730,4.2,,4.05,1261,Doppelbock,German Lagers,Lager
+776,Samichlaus Classic Bier,14.0,285,2111,4.02,,4.5,1120,Doppelbock,German Lagers,Lager
+47785,Samuel Adams Double Bock (Imperial Series),9.5,35,1933,3.92,Winter,4.14,1111,Doppelbock,German Lagers,Lager
+2732,Consecrator Doppelbock,8.0,287,1509,3.83,Winter,4.2,689,Doppelbock,German Lagers,Lager
+2899,Andechser Doppelbock Dunkel,7.1,911,1173,4.28,,0.0,489,Doppelbock,German Lagers,Lager
+39129,Dark Horse Perkulator Coffee Dopplebock,7.0,1471,1027,3.72,Rotating,3.76,444,Doppelbock,German Lagers,Lager
+871,Birra Moretti La Rossa,7.2,10161,1021,3.63,,3.83,468,Doppelbock,German Lagers,Lager
+1934,Schneider Aventinus Weizen-Eisbock,12.0,72,2673,4.25,,4.44,1177,Eisbock,German Lagers,Lager
+11784,Kuhnhenn Raspberry Eisbock,15.5,2097,1279,4.38,Rotating,4.62,462,Eisbock,German Lagers,Lager
+11582,Eisbock,9.2,412,1059,4.12,,4.24,620,Eisbock,German Lagers,Lager
+449,Stella Artois,5.0,169,5480,3.09,,3.13,1525,Euro Pale Lager,European Lagers,Lager
+246,Heineken Lager Beer,5.0,81,5074,2.72,,2.93,1420,Euro Pale Lager,European Lagers,Lager
+862,Harp Lager,5.0,209,2619,3.23,,3.5,751,Euro Pale Lager,European Lagers,Lager
+1790,Peroni Nastro Azzurro,5.1,258,2049,2.78,,2.87,712,Euro Pale Lager,European Lagers,Lager
+1426,Grolsch Premium Lager,5.0,506,1914,3.11,,3.19,676,Euro Pale Lager,European Lagers,Lager
+767,Tsingtao,4.8,281,1771,2.76,,3.7,611,Euro Pale Lager,European Lagers,Lager
+2270,Carlsberg Beer,5.0,721,1632,3.02,,3.0,524,Euro Pale Lager,European Lagers,Lager
+3970,Kronenbourg 1664,5.5,1498,1546,3.2,,3.9,515,Euro Pale Lager,European Lagers,Lager
+867,Birra Moretti,4.6,10161,1382,2.9,,3.25,486,Euro Pale Lager,European Lagers,Lager
+976,Singha,5.0,367,1279,3.04,,3.74,478,Euro Pale Lager,European Lagers,Lager
+778,Pure Brewed Organic Lager Beer,5.0,113,1085,3.82,Year-round,4.17,588,Euro Pale Lager,European Lagers,Lager
+65,Budweiser,5.0,29,6368,2.36,Year-round,0.0,1731,American Adjunct Lager,American Lagers,Lager
+1331,Pabst Blue Ribbon (PBR),4.74,447,5748,2.93,Year-round,3.65,1774,American Adjunct Lager,American Lagers,Lager
+232,Corona Extra,4.6,75,5114,2.34,,1.89,1275,American Adjunct Lager,American Lagers,Lager
+580,Miller High Life,4.6,105,3841,2.69,Year-round,3.53,1171,American Adjunct Lager,American Lagers,Lager
+689,Red Stripe Jamaican Lager,4.7,221,3271,2.97,,3.39,989,American Adjunct Lager,American Lagers,Lager
+1276,Coors Banquet,5.0,306,2989,2.59,Year-round,3.05,745,American Adjunct Lager,American Lagers,Lager
+567,Rolling Rock Extra Pale,4.4,174,2952,2.59,Year-round,2.86,863,American Adjunct Lager,American Lagers,Lager
+1907,Dos Equis Special Lager,4.2,57,2779,2.74,,2.65,623,American Adjunct Lager,American Lagers,Lager
+2280,Miller Genuine Draft,4.66,105,2514,2.27,Year-round,2.19,668,American Adjunct Lager,American Lagers,Lager
+1321,Modelo Especial,4.4,75,2349,2.82,,3.4,613,American Adjunct Lager,American Lagers,Lager
+1371,Labatt Blue,5.0,478,2115,2.66,Year-round,2.6,669,American Adjunct Lager,American Lagers,Lager
+918,Foster's Lager,5.0,575,2092,2.53,,2.45,661,American Adjunct Lager,American Lagers,Lager
+848,Tecate,4.5,57,2080,2.53,,2.8,590,American Adjunct Lager,American Lagers,Lager
+2755,Cerveza Pacifico Clara,4.5,75,2006,2.7,,2.28,551,American Adjunct Lager,American Lagers,Lager
+34804,Landshark Lager,4.7,16098,1903,2.62,Year-round,0.0,500,American Adjunct Lager,American Lagers,Lager
+1312,Molson Canadian Lager,5.0,433,1802,2.82,Year-round,3.31,533,American Adjunct Lager,American Lagers,Lager
+670,Busch Beer,4.3,29,1738,2.02,Year-round,1.65,470,American Adjunct Lager,American Lagers,Lager
+653,Natural Ice,5.9,29,1448,1.78,Year-round,2.7,358,American Adjunct Lager,American Lagers,Lager
+2803,Sol,4.5,57,1443,2.46,,2.43,408,American Adjunct Lager,American Lagers,Lager
+1053,Moosehead Lager,5.0,379,1417,3.03,Year-round,3.45,510,American Adjunct Lager,American Lagers,Lager
+7406,Narragansett Lager,5.0,213,1324,3.35,Year-round,3.9,411,American Adjunct Lager,American Lagers,Lager
+1299,Icehouse,5.5,105,1264,2.04,Year-round,2.59,383,American Adjunct Lager,American Lagers,Lager
+1642,Bud Ice,5.5,29,1157,1.86,Year-round,1.6,286,American Adjunct Lager,American Lagers,Lager
+2176,Tiger Beer,5.0,727,1068,2.69,,2.79,400,American Adjunct Lager,American Lagers,Lager
+1320,Bud Light,4.2,29,6056,1.86,Year-round,1.66,1476,Light Lager,American Lagers,Lager
+837,Coors Light,4.2,306,5247,2.03,Year-round,1.77,1320,Light Lager,American Lagers,Lager
+332,Miller Lite,4.17,105,4652,2.19,Year-round,2.45,1221,Light Lager,American Lagers,Lager
+41821,Bud Light Lime,4.2,29,2594,2.17,Year-round,2.54,560,Light Lager,American Lagers,Lager
+3734,Michelob Ultra,4.2,29,2389,1.89,Year-round,1.34,628,Light Lager,American Lagers,Lager
+1503,Sam Adams Light,4.0,35,2248,3.26,Year-round,3.63,845,Light Lager,American Lagers,Lager
+1524,Natural Light,4.2,29,2161,1.7,Year-round,1.36,555,Light Lager,American Lagers,Lager
+1341,Keystone Light,4.1,306,2045,1.81,Year-round,2.07,502,Light Lager,American Lagers,Lager
+233,Corona Light,4.1,75,2039,1.96,,1.21,407,Light Lager,American Lagers,Lager
+76899,Bud Light Platinum,6.0,29,1893,2.22,Year-round,2.54,351,Light Lager,American Lagers,Lager
+1390,Busch Light,4.1,29,1629,1.85,Year-round,1.59,409,Light Lager,American Lagers,Lager
+436,Amstel Light,3.5,163,1562,2.43,,1.81,502,Light Lager,American Lagers,Lager
+20732,Budweiser Select,4.3,29,1300,2.04,Year-round,1.74,410,Light Lager,American Lagers,Lager
+3347,Yuengling Light Lager,3.8,182,1095,2.84,Year-round,0.0,260,Light Lager,American Lagers,Lager
+3558,Sierra Nevada Summerfest,5.0,140,4265,3.67,Summer,3.95,1614,Czech Pilsener,Czech Lagers,Lager
+429,Pilsner Urquell,4.4,1,3946,3.59,,3.4,1515,Czech Pilsener,Czech Lagers,Lager
+48139,Mama's Little Yella Pils,5.3,2681,3273,3.59,Year-round,3.7,913,Czech Pilsener,Czech Lagers,Lager
+19589,Lagunitas PILS (Czech Style Pilsner),6.2,220,2645,3.65,Year-round,3.7,762,Czech Pilsener,Czech Lagers,Lager
+6715,Budweiser Budvar B:Original,5.0,304,1579,3.58,,3.49,822,Czech Pilsener,Czech Lagers,Lager
+98220,Piercing Pils,6.0,64,1503,3.78,Year-round,0.0,272,Czech Pilsener,Czech Lagers,Lager
+933,Blue Paddle Pilsener,4.8,192,1364,3.53,Year-round,0.0,428,Czech Pilsener,Czech Lagers,Lager
+33245,Lager Of The Lakes,5.0,287,1126,3.63,Year-round,0.0,416,Czech Pilsener,Czech Lagers,Lager
+1010,Prima Pils,5.3,345,5319,4.02,Year-round,4.1,2127,German Pilsener,German Lagers,Lager
+54904,Samuel Adams Noble Pils,4.9,35,3722,3.75,Rotating,3.83,1524,German Pilsener,German Lagers,Lager
+2435,Beck's,5.0,32,2191,2.77,,2.62,721,German Pilsener,German Lagers,Lager
+935,Premium German Pilsener,4.8,360,2172,3.44,,3.72,900,German Pilsener,German Lagers,Lager
+83473,Pivo Pils,5.3,2210,2026,3.94,Rotating,0.0,327,German Pilsener,German Lagers,Lager
+409,Scrimshaw Pilsner,4.4,112,2002,3.77,Year-round,4.09,722,German Pilsener,German Lagers,Lager
+1641,Premium Pils,4.8,613,1878,3.46,,0.0,836,German Pilsener,German Lagers,Lager
+62989,The Crisp,5.4,10607,1815,3.93,Year-round,4.42,458,German Pilsener,German Lagers,Lager
+4108,Sunshine Pils,4.5,694,1676,3.74,Summer,0.0,623,German Pilsener,German Lagers,Lager
+144200,Nooner Pilsner,5.2,140,1599,3.8,Year-round,0.0,358,German Pilsener,German Lagers,Lager
+1283,Bohemia Clásica,4.7,57,1190,3.37,,3.91,452,German Pilsener,German Lagers,Lager
+24651,Polestar Pilsner,5.5,418,1175,3.66,Year-round,4.3,387,German Pilsener,German Lagers,Lager
+700,St. Pauli Girl,5.0,224,1162,2.88,,3.04,424,German Pilsener,German Lagers,Lager
+799,Radeberger Pilsner,4.8,2974,1110,3.59,,3.92,442,German Pilsener,German Lagers,Lager
+788,Brooklyn Pilsner,5.1,45,1085,3.65,Year-round,3.83,497,German Pilsener,German Lagers,Lager
+810,Mickey's,5.6,105,1305,2.51,Year-round,3.0,355,American Malt Liquor,American Lagers,Lager
+718,Steel Reserve 211 (High Gravity),8.1,257,1256,2.39,Year-round,3.66,582,American Malt Liquor,American Lagers,Lager
+3350,Olde English 800,5.9,105,1071,2.08,Year-round,1.73,325,American Malt Liquor,American Lagers,Lager
+1611,Warsteiner Premium Dunkel,4.9,360,1601,3.5,,3.4,643,Munich Dunkel Lager,German Lagers,Lager
+8116,Hofbräu Dunkel,5.5,4686,1262,3.77,,3.8,366,Munich Dunkel Lager,German Lagers,Lager
+134,Ayinger Altbairisch Dunkel,5.0,39,1144,3.96,,3.88,601,Munich Dunkel Lager,German Lagers,Lager
+1881,Samuel Adams Old Fezziwig Ale,5.9,35,3700,3.77,Winter,4.02,1417,Winter Warmer,English Ales,Ale
+1576,Christmas Ale,7.5,73,3145,3.95,Winter,4.07,896,Winter Warmer,English Ales,Ale
+2178,Jubelale,6.7,63,2824,3.93,Fall,4.37,935,Winter Warmer,English Ales,Ale
+577,Winter Welcome Ale,6.0,113,2259,3.67,Winter,3.68,1169,Winter Warmer,English Ales,Ale
+2081,Winter Solstice Seasonal Ale,6.9,193,1842,3.87,Winter,4.24,736,Winter Warmer,English Ales,Ale
+310,Winter Warmer,5.9,98,1574,3.2,Winter,2.02,658,Winter Warmer,English Ales,Ale
+62732,Fireside Chat,7.9,735,1321,3.51,Winter,3.53,364,Winter Warmer,English Ales,Ale
+3508,Christmas Ale,7.1,2137,1122,3.52,Winter,3.68,427,Winter Warmer,English Ales,Ale
+1212,Blue Moon Belgian White,5.4,306,7168,3.41,Year-round,3.65,1683,Witbier,Belgian / French Ales,Ale
+59,White,5.1,4,5419,4.16,Year-round,4.54,1404,Witbier,Belgian / French Ales,Ale
+248,Hoegaarden Original White Ale,4.9,83,5367,3.78,,3.6,1811,Witbier,Belgian / French Ales,Ale
+39908,Shock Top Belgian White,5.2,29,3928,2.96,Year-round,3.1,902,Witbier,Belgian / French Ales,Ale
+53453,Namaste White Belgian-Style Witbier,4.8,64,3287,3.77,Year-round,0.0,656,Witbier,Belgian / French Ales,Ale
+9689,White Rascal,5.6,30,2528,3.65,Year-round,3.33,782,Witbier,Belgian / French Ales,Ale
+31,Blanche De Chambly,5.0,22,2468,3.89,Year-round,4.03,1058,Witbier,Belgian / French Ales,Ale
+29015,Leinenkugel's Sunset Wheat,4.9,710,2399,3.37,Year-round,3.55,910,Witbier,Belgian / French Ales,Ale
+8682,Winter White Ale,5.0,287,2346,3.64,Winter,3.71,765,Witbier,Belgian / French Ales,Ale
+109458,Samuel Adams Cold Snap,5.3,35,2298,3.43,Winter,3.02,321,Witbier,Belgian / French Ales,Ale
+16506,Witte Wheat Ale,5.2,42,2189,3.77,Year-round,3.42,791,Witbier,Belgian / French Ales,Ale
+32435,Red & White,10.0,64,1833,3.88,Rotating,0.0,709,Witbier,Belgian / French Ales,Ale
+86393,Samuel Adams White Christmas,5.8,35,1763,3.45,Winter,3.42,328,Witbier,Belgian / French Ales,Ale
+47364,Samuel Adams Blackberry Witbier,5.5,35,1637,3.29,Year-round,0.0,676,Witbier,Belgian / French Ales,Ale
+7879,St. Bernardus Witbier,5.5,259,1602,4.16,,4.45,681,Witbier,Belgian / French Ales,Ale
+2013,Hitachino Nest White Ale,5.5,697,1585,4.07,,4.38,564,Witbier,Belgian / French Ales,Ale
+69218,Florida Cracker Belgian-style White Ale,5.5,17981,1541,3.71,Year-round,0.0,227,Witbier,Belgian / French Ales,Ale
+8297,Samuel Adams White Ale,5.2,35,1517,3.47,Rotating,3.51,966,Witbier,Belgian / French Ales,Ale
+48933,UFO White,4.8,98,1475,3.63,Year-round,3.8,258,Witbier,Belgian / French Ales,Ale
+47317,Samuel Adams Imperial White,10.3,35,1284,3.45,Year-round,0.0,643,Witbier,Belgian / French Ales,Ale
+58609,Clementine,6.0,22951,1168,3.68,Year-round,3.7,296,Witbier,Belgian / French Ales,Ale
+9755,Double White Ale,6.6,1628,1121,3.95,Rotating,0.0,633,Witbier,Belgian / French Ales,Ale
+76781,Positive Contact,9.0,64,1100,3.82,Rotating,4.04,214,Witbier,Belgian / French Ales,Ale
+9353,Holy Moses,5.4,73,1006,3.78,Summer,0.0,496,Witbier,Belgian / French Ales,Ale
+78,Blanche De Bruxelles / Manneken Pis Belgian White,4.5,149,1004,3.74,,3.85,335,Witbier,Belgian / French Ales,Ale
+19306,Calabaza Blanca,4.8,9897,1002,3.9,Year-round,0.0,468,Witbier,Belgian / French Ales,Ale
+7435,Cantillon Iris,5.0,388,2108,4.36,,0.0,505,Lambic - Unblended,Belgian / French Ales,Ale
+1917,La Folie,7.0,192,3982,4.25,Year-round,0.0,1069,Flanders Oud Bruin,Belgian / French Ales,Ale
+10482,Monk's Café Flemish Sour Ale,5.5,48,2998,3.86,,0.0,1159,Flanders Oud Bruin,Belgian / French Ales,Ale
+44409,The Dissident,10.9,63,1444,4.2,Rotating,4.5,525,Flanders Oud Bruin,Belgian / French Ales,Ale
+23459,Thumbprint Enigma,5.5,590,1405,4.16,Rotating,4.26,495,Flanders Oud Bruin,Belgian / French Ales,Ale
+773,Goudenband,8.0,283,1402,4.18,,4.1,577,Flanders Oud Bruin,Belgian / French Ales,Ale
+51983,Madame Rose Belgian Style Wild Ale,7.1,1146,1340,4.16,Rotating,0.0,256,Flanders Oud Bruin,Belgian / French Ales,Ale
+2479,Petrus Oud Bruin,5.5,718,1329,3.69,,0.0,595,Flanders Oud Bruin,Belgian / French Ales,Ale
+1745,Duchesse De Bourgogne,6.0,641,4378,4.15,,4.19,1566,Flanders Red Ale,Belgian / French Ales,Ale
+673,Rodenbach Grand Cru,6.0,216,4109,4.29,,4.61,1169,Flanders Red Ale,Belgian / French Ales,Ale
+50772,Cuvée Des Jacobins Rouge,5.5,223,2849,4.33,,0.0,514,Flanders Red Ale,Belgian / French Ales,Ale
+54888,Oude Tart,7.5,40927,2492,4.28,Fall,0.0,408,Flanders Red Ale,Belgian / French Ales,Ale
+38530,Red Poppy Ale,5.5,18149,1990,4.28,Rotating,0.0,586,Flanders Red Ale,Belgian / French Ales,Ale
+1882,Rodenbach Classic (Red),5.2,216,1845,3.99,,0.0,690,Flanders Red Ale,Belgian / French Ales,Ale
+74778,Rodenbach Caractère Rouge,7.0,216,1500,4.47,,4.59,230,Flanders Red Ale,Belgian / French Ales,Ale
+42193,Cascade Kriek Ale,8.2,2391,1167,4.23,Rotating,3.92,295,Flanders Red Ale,Belgian / French Ales,Ale
+129,Orval Trappist Ale,6.2,37,5481,4.2,,4.92,2363,Belgian Pale Ale,Belgian / French Ales,Ale
+2137,Leffe Blonde,6.6,470,4010,3.56,,2.81,1405,Belgian Pale Ale,Belgian / French Ales,Ale
+593,Rare Vos Amber Ale,6.5,42,3402,4.07,Year-round,4.41,1176,Belgian Pale Ale,Belgian / French Ales,Ale
+2184,Petrus Aged Pale,7.3,718,2503,4.07,,4.4,719,Belgian Pale Ale,Belgian / French Ales,Ale
+13741,Redemption,5.15,863,1669,4.02,Rotating,0.0,566,Belgian Pale Ale,Belgian / French Ales,Ale
+56875,BPA,6.2,42,1373,3.98,Spring,4.0,466,Belgian Pale Ale,Belgian / French Ales,Ale
+620,Affligem Blond,6.8,196,1232,3.91,,4.22,536,Belgian Pale Ale,Belgian / French Ales,Ale
+77233,Belgian Session,4.25,35,1219,3.33,Rotating,3.29,243,Belgian Pale Ale,Belgian / French Ales,Ale
+108956,Spencer Trappist Ale,6.5,33618,1216,4.01,Year-round,3.5,245,Belgian Pale Ale,Belgian / French Ales,Ale
+2823,Palm / Palm Speciale,5.4,889,1093,3.31,,0.0,295,Belgian Pale Ale,Belgian / French Ales,Ale
+92397,Fleur De Houblon Summer Ale,6.8,42,1091,3.99,Summer,0.0,192,Belgian Pale Ale,Belgian / French Ales,Ale
+695,Duvel Belgian Golden Ale,8.5,222,8051,4.25,,4.75,2868,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+1385,Delirium Tremens,8.5,180,5885,4.13,,4.0,1724,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+4318,Matilda,7.0,1146,4818,4.03,Year-round,4.44,1300,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+12770,Damnation,7.75,863,3843,4.12,Year-round,0.0,1155,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+411,Pranqster,7.6,112,3427,4.04,Year-round,4.7,1238,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+694,Don De Dieu,9.0,22,2914,4.15,Year-round,4.24,1320,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+1836,La Chouffe,8.0,321,2645,4.21,,4.47,927,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+156,Piraat,10.5,48,2503,4.07,,4.22,1057,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+35328,Brooklyn Local 1,9.0,45,2090,4.12,Rotating,4.8,923,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+53134,Mischief,8.5,16866,1843,3.99,Rotating,0.0,518,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+635,Pauwel Kwak,8.4,202,1800,3.79,,3.12,729,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+65200,Gnomegang,9.5,42,1600,4.09,Rotating,3.99,467,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+817,De Dolle Stille Nacht,12.0,201,1072,4.18,,4.74,523,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+2361,Horny Devil,10.0,396,1021,4.06,Year-round,4.74,402,Belgian Strong Pale Ale,Belgian / French Ales,Ale
+2512,Chimay Grande Réserve (Blue),9.0,215,7900,4.3,,4.0,2396,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+1696,Trappistes Rochefort 8,9.2,207,5376,4.33,,4.79,1943,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+30,Trois Pistoles,9.0,22,5029,4.23,Year-round,4.5,2045,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+33,Maudite,8.0,22,4667,4.2,Year-round,4.55,1952,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+1180,Raison D'Être,8.0,64,4307,3.66,Rotating,3.17,1774,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+155,Gulden Draak,10.5,48,4034,4.24,,4.42,1365,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+7531,The Mad Elf,11.0,694,4018,3.87,Winter,3.77,1287,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+30282,Brother Thelonious,9.4,112,3092,3.8,Year-round,3.0,1073,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+1421,Delirium Nocturnum,8.5,180,2874,4.01,,4.22,934,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+40051,Black,7.5,4,2702,4.04,Year-round,4.2,733,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+3635,La Terrible,10.5,22,2245,4.17,Year-round,0.0,961,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+2347,Delirium Noël,10.0,180,2003,3.88,,3.53,803,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+6947,Cuvée Van De Keizer Blauw (Blue),11.0,1534,1891,4.3,,0.0,909,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+34877,Collaboration Not Litigation Ale,8.72,30,1633,3.91,Rotating,0.0,736,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+3089,Raison D'Extra,18.0,64,1519,4.05,Rotating,0.0,711,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+47678,Brooklyn Local 2,9.0,45,1424,4.05,Rotating,0.0,551,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+52510,Monk's Blood,8.3,735,1421,3.82,Winter,0.0,527,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+2269,N'Ice Chouffe,10.0,321,1277,4.07,,4.19,559,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+13742,Salvation,9.0,863,1256,4.09,Winter,0.0,476,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+140,Corsendonk Christmas Ale,8.5,41,1240,4.14,,4.42,615,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+21363,Odyssey,9.0,4,1238,4.24,Rotating,4.58,422,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+76874,Unibroue 17 Grande Réserve,10.0,22,1155,4.22,Winter,0.0,282,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+1581,McChouffe,8.0,321,1151,3.97,,3.93,551,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+51619,Adoration Ale,10.0,42,1138,4.09,Rotating,4.15,368,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+71947,Samuel Adams Thirteenth Hour Stout (Barrel Room Collection),9.0,35,1072,3.73,Rotating,0.0,288,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+39267,Noel De Calabaza,9.0,9897,1031,4.03,Winter,0.0,430,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+813,De Dolle Oerbier,9.5,201,1010,4.19,,4.68,480,Belgian Strong Dark Ale,Belgian / French Ales,Ale
+672,Chimay Première (Red),7.0,215,4960,4.15,,4.37,1722,Dubbel,Belgian / French Ales,Ale
+142,Abbey Ale,8.2,42,4642,4.16,Year-round,4.53,1774,Dubbel,Belgian / French Ales,Ale
+674,Westmalle Trappist Dubbel,7.0,208,2794,4.18,,4.33,1241,Dubbel,Belgian / French Ales,Ale
+3842,Trappistes Rochefort 6,7.5,207,2518,4.15,,4.2,1021,Dubbel,Belgian / French Ales,Ale
+1855,St. Bernardus Prior 8,8.0,259,2493,4.16,,3.95,1079,Dubbel,Belgian / French Ales,Ale
+16807,Père Jacques,8.7,1146,2309,3.92,Rotating,0.0,886,Dubbel,Belgian / French Ales,Ale
+1912,Abbey Belgian Style Ale,7.0,192,2293,4.01,Year-round,4.49,798,Dubbel,Belgian / French Ales,Ale
+857,Trappist Westvleteren 8 (VIII),8.0,313,2222,4.48,,4.23,833,Dubbel,Belgian / French Ales,Ale
+10,Dubbel Ale,7.0,4,1714,3.81,Year-round,3.97,793,Dubbel,Belgian / French Ales,Ale
+1856,St. Bernardus Pater 6,6.7,259,1630,4.09,,0.0,727,Dubbel,Belgian / French Ales,Ale
+20604,Hell Hath No Fury Ale,7.5,287,1459,3.78,Rotating,0.0,670,Dubbel,Belgian / French Ales,Ale
+2508,Maredsous 8 - Brune,8.0,222,1449,4.03,,4.27,671,Dubbel,Belgian / French Ales,Ale
+138,Corsendonk Pater / Abbey Brown Ale,7.5,41,1155,4.0,,4.07,590,Dubbel,Belgian / French Ales,Ale
+26667,Single Digit Dubbel Belgian-Style Dubbel Ale,8.3,141,1080,3.67,Winter,0.0,511,Dubbel,Belgian / French Ales,Ale
+1496,Grimbergen Dubbel,6.5,436,1069,3.81,,0.0,507,Dubbel,Belgian / French Ales,Ale
+34,La Fin Du Monde,9.0,22,10213,4.32,Year-round,4.83,3024,Tripel,Belgian / French Ales,Ale
+1003,Golden Monkey,9.5,345,5781,3.72,Year-round,3.38,1825,Tripel,Belgian / French Ales,Ale
+646,Westmalle Trappist Tripel,9.5,208,4623,4.3,,4.86,1772,Tripel,Belgian / French Ales,Ale
+1346,Chimay Tripel (White),8.0,215,4467,4.13,,4.26,1677,Tripel,Belgian / French Ales,Ale
+656,Tripel Karmeliet,8.4,202,4221,4.28,,4.22,1356,Tripel,Belgian / French Ales,Ale
+16909,Curieux (Bourbon Barrel-Aged Tripel),11.0,4,3815,4.28,Year-round,4.49,916,Tripel,Belgian / French Ales,Ale
+722,St. Bernardus Tripel,8.0,259,3216,4.24,,4.32,1295,Tripel,Belgian / French Ales,Ale
+1054,Trippel Belgian Style Ale,8.5,192,3096,3.81,Year-round,4.1,1044,Tripel,Belgian / French Ales,Ale
+448,Tripel Ale,9.0,4,2850,4.14,Year-round,4.15,965,Tripel,Belgian / French Ales,Ale
+6073,Merry Monks,9.3,392,2401,3.88,Year-round,4.0,821,Tripel,Belgian / French Ales,Ale
+2566,Maredsous 10 - Triple,10.0,222,1610,3.91,,3.58,704,Tripel,Belgian / French Ales,Ale
+39754,Long Strange Tripel,9.2,423,1551,4.16,Year-round,4.5,469,Tripel,Belgian / French Ales,Ale
+42878,Trade Winds,8.1,16866,1143,3.92,Summer,0.0,354,Tripel,Belgian / French Ales,Ale
+53773,Samuel Adams New World Tripel (Barrel Room Collection),10.0,35,1035,3.91,Rotating,0.0,306,Tripel,Belgian / French Ales,Ale
+658,La Trappe Tripel (Koningshoeven / Dominus),8.0,184,1005,3.96,,4.0,483,Tripel,Belgian / French Ales,Ale
+51069,White Oak,11.5,16866,1331,3.9,Rotating,0.0,308,Wheatwine,American Ales,Ale
+84078,White Chocolate,13.8,16866,1275,4.17,Rotating,0.0,193,Wheatwine,American Ales,Ale
+105784,Sweet Repute,12.6,1199,1115,4.17,Rotating,0.0,154,Wheatwine,American Ales,Ale
+219,Fuller's ESB,5.9,71,2999,4.06,Year-round,4.17,1376,Extra Special / Strong Bitter (ESB),English Ales,Ale
+236,Hobgoblin,5.2,160,2659,3.76,Year-round,4.05,1105,Extra Special / Strong Bitter (ESB),English Ales,Ale
+1543,Sawtooth,5.3,418,2167,3.72,Year-round,4.2,715,Extra Special / Strong Bitter (ESB),English Ales,Ale
+1119,Redhook ESB,5.8,18134,2121,3.41,Year-round,3.19,877,Extra Special / Strong Bitter (ESB),English Ales,Ale
+13637,Harvest Ale,6.7,3818,1750,3.84,Fall,0.0,610,Extra Special / Strong Bitter (ESB),English Ales,Ale
+26542,2° Below Winter Ale,6.6,192,1224,3.64,Winter,0.0,574,Extra Special / Strong Bitter (ESB),English Ales,Ale
+15989,Winter Storm Imperial ESB,7.5,898,1056,3.8,Winter,3.91,533,Extra Special / Strong Bitter (ESB),English Ales,Ale
+1159,Robert The Bruce,6.5,26,3179,3.88,Year-round,3.53,998,Scottish Ale,Scottish Ales,Ale
+1163,Belhaven Scottish Ale,5.2,148,2154,3.82,Year-round,4.03,924,Scottish Ale,Scottish Ales,Ale
+12719,Innis And Gunn Original Oak Aged Beer,6.6,10272,1854,3.74,Year-round,3.58,593,Scottish Ale,Scottish Ales,Ale
+740,Odell 90 Shilling Ale,5.3,267,1819,3.89,Year-round,4.36,493,Scottish Ale,Scottish Ales,Ale
+34069,Brooklyn Winter Ale,6.1,45,1128,3.58,Winter,3.28,481,Scottish Ale,Scottish Ales,Ale
+571,Oatmeal Stout,5.0,113,6759,4.21,Year-round,4.24,2312,Oatmeal Stout,English Ales,Ale
+56973,Shakespeare Oatmeal Stout,5.8,132,3488,4.14,Year-round,4.35,1625,Oatmeal Stout,English Ales,Ale
+45897,Velvet Merlin Oatmeal Stout,5.5,2210,3105,4.0,Fall,0.0,700,Oatmeal Stout,English Ales,Ale
+615,Barney Flats Oatmeal Stout,5.8,193,2604,4.05,Year-round,4.53,1003,Oatmeal Stout,English Ales,Ale
+28877,Beer Geek Breakfast,7.5,13307,2589,4.1,,0.0,1017,Oatmeal Stout,English Ales,Ale
+46021,Velvet Merkin,8.5,2210,2548,4.28,Rotating,0.0,402,Oatmeal Stout,English Ales,Ale
+8322,New Holland The Poet,5.2,335,2487,3.93,Year-round,4.05,760,Oatmeal Stout,English Ales,Ale
+52128,Java Head Stout,7.5,694,2377,3.78,Year-round,3.5,709,Oatmeal Stout,English Ales,Ale
+2354,Oatmeal Stout,4.95,2137,1583,3.64,Year-round,0.0,563,Oatmeal Stout,English Ales,Ale
+20539,Stoudt's Fat Dog (Imperial Oatmeal Stout),8.0,394,1318,3.99,Year-round,3.91,754,Oatmeal Stout,English Ales,Ale
+2704,St-Ambroise Oatmeal Stout,5.0,194,1275,4.07,Year-round,4.12,639,Oatmeal Stout,English Ales,Ale
+95930,Black House,5.8,31987,1172,4.02,Year-round,0.0,192,Oatmeal Stout,English Ales,Ale
+16079,Oatmeal Stout,4.5,1199,1107,3.85,Year-round,0.0,129,Oatmeal Stout,English Ales,Ale
+5045,8 Ball Stout,6.3,256,1099,3.83,Year-round,0.0,556,Oatmeal Stout,English Ales,Ale
+5490,Dark Horse One Oatmeal Stout Ale,7.0,1471,1043,3.76,Fall,2.89,418,Oatmeal Stout,English Ales,Ale
+245,Fraoch Heather Ale,5.0,12142,1164,3.75,Year-round,4.04,725,Scottish Gruit / Ancient Herbed Ale,Scottish Ales,Ale
+38394,Pumking,8.6,3818,7608,4.05,Fall,3.59,1980,Pumpkin Ale,American Ales,Ale
+6260,Punkin Ale,7.0,64,6645,3.93,Fall,4.05,2140,Pumpkin Ale,American Ales,Ale
+100,Blue Moon Harvest Moon Pumpkin Ale,5.7,306,2761,3.12,Fall,3.24,741,Pumpkin Ale,American Ales,Ale
+25880,Imperial Pumpkin Ale,8.0,392,2746,3.89,Fall,3.97,1026,Pumpkin Ale,American Ales,Ale
+1932,Pumpkinhead Ale,4.7,139,2717,3.0,Fall,1.58,889,Pumpkin Ale,American Ales,Ale
+45844,Samuel Adams Harvest Pumpkin Ale,5.7,35,2649,3.47,Rotating,3.13,650,Pumpkin Ale,American Ales,Ale
+32767,Schlafly Pumpkin Ale,8.0,583,2337,4.2,Fall,0.0,581,Pumpkin Ale,American Ales,Ale
+74,Post Road Pumpkin Ale,5.0,45,2133,3.46,Fall,3.86,893,Pumpkin Ale,American Ales,Ale
+11819,Pumpkin Ale,6.5,141,1920,3.68,Fall,4.13,859,Pumpkin Ale,American Ales,Ale
+52248,Pugsley's Signature Series:  Smashed Pumpkin,9.0,139,1629,3.73,Rotating,3.92,486,Pumpkin Ale,American Ales,Ale
+1567,New Holland Ichabod Ale,4.5,335,1608,3.56,Fall,4.0,563,Pumpkin Ale,American Ales,Ale
+97291,Pumpkick,6.0,192,1454,3.46,Fall,3.51,222,Pumpkin Ale,American Ales,Ale
+62449,Rumpkin,16.9,30,1441,4.08,Fall,0.0,324,Pumpkin Ale,American Ales,Ale
+47020,Good Gourd Imperial Pumpkin Ale,8.5,17981,1428,4.26,Fall,0.0,230,Pumpkin Ale,American Ales,Ale
+73731,Samuel Adams Fat Jack Double Pumpkin Ale,8.5,35,1363,3.63,Fall,0.0,259,Pumpkin Ale,American Ales,Ale
+7077,Night Owl Pumpkin Ale,6.7,700,1322,3.95,Fall,4.2,389,Pumpkin Ale,American Ales,Ale
+72412,Shock Top Pumpkin Wheat,5.2,29,1207,3.04,Fall,3.17,231,Pumpkin Ale,American Ales,Ale
+643,Buffalo Bill's Pumpkin Ale,6.0,205,1201,2.98,Year-round,3.01,639,Pumpkin Ale,American Ales,Ale
+25608,Saranac Pumpkin Ale,5.4,99,1182,3.39,Rotating,3.35,440,Pumpkin Ale,American Ales,Ale
+33405,Punk'n Harvest Pumpkin Ale,4.0,1416,1110,3.37,Fall,0.0,288,Pumpkin Ale,American Ales,Ale
+71325,UFO Pumpkin,5.9,98,1092,3.59,Fall,3.58,201,Pumpkin Ale,American Ales,Ale
+1161,Indian Brown Ale,7.2,64,6179,4.09,Year-round,4.25,2081,American Brown Ale,American Ales,Ale
+33832,Palo Santo Marron,12.0,64,5928,4.18,Year-round,0.0,2133,American Brown Ale,American Ales,Ale
+1339,Hazelnut Brown Nectar,5.6,132,4281,4.07,Year-round,4.2,1470,American Brown Ale,American Ales,Ale
+60420,Sierra Nevada Tumbler Autumn Brown Ale,5.5,140,3388,3.84,Fall,4.15,1117,American Brown Ale,American Ales,Ale
+1924,Best Brown Ale,5.8,287,3116,3.83,Fall,0.0,920,American Brown Ale,American Ales,Ale
+2296,Moose Drool Brown Ale,5.1,751,2773,3.7,Year-round,3.57,916,American Brown Ale,American Ales,Ale
+184,Old Brown Dog,6.7,141,2722,3.93,Year-round,4.39,984,American Brown Ale,American Ales,Ale
+30764,Coffee Bender,5.5,13014,2691,4.15,Year-round,0.0,862,American Brown Ale,American Ales,Ale
+56613,Wilco Tango Foxtrot,7.85,220,2665,3.92,Spring,0.0,866,American Brown Ale,American Ales,Ale
+146,Brooklyn Brown Ale,5.6,45,2381,3.63,Year-round,3.42,959,American Brown Ale,American Ales,Ale
+2894,Ellie's Brown Ale,5.5,30,2179,3.89,Year-round,4.12,725,American Brown Ale,American Ales,Ale
+28165,Bender,5.1,13014,1980,4.07,Year-round,4.12,764,American Brown Ale,American Ales,Ale
+64550,Sumatra Mountain Brown,9.0,1199,1678,4.29,Rotating,0.0,420,American Brown Ale,American Ales,Ale
+66449,Koko Brown,5.5,579,1484,3.62,Winter,3.08,343,American Brown Ale,American Ales,Ale
+35134,Pecan Ale,5.2,3,1082,3.35,Rotating,0.0,404,American Brown Ale,American Ales,Ale
+3914,Cabin Fever Brown Ale,6.5,335,1003,3.68,Winter,0.0,310,American Brown Ale,American Ales,Ale
+639,Newcastle Brown Ale,4.7,81,5208,3.32,,2.89,1613,English Brown Ale,English Ales,Ale
+576,Nut Brown Ale,5.0,113,3946,4.09,Year-round,4.95,1487,English Brown Ale,English Ales,Ale
+6,Turbodog,5.6,3,2926,3.66,Year-round,4.0,1029,English Brown Ale,English Ales,Ale
+47731,Maduro Brown Ale,5.5,17981,2797,3.92,Year-round,0.0,755,English Brown Ale,English Ales,Ale
+22343,Southern Pecan,4.5,10990,1803,3.58,Year-round,3.08,597,English Brown Ale,English Ales,Ale
+9900,Fat Squirrel Ale,5.8,590,1613,3.79,Rotating,0.0,535,English Brown Ale,English Ales,Ale
+50082,Cubano-Style Espresso Brown Ale,5.5,17981,1340,4.11,Year-round,0.0,308,English Brown Ale,English Ales,Ale
+1169,Nut Brown Ale,5.5,1146,1073,3.75,Year-round,3.74,455,English Brown Ale,English Ales,Ale
+46504,Brawler Pugilist Style Ale,4.2,450,1136,3.7,Year-round,4.05,313,English Dark Mild Ale,English Ales,Ale
+35036,Backwoods Bastard,11.2,1199,8425,4.35,Fall,0.0,1923,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+7463,Dirty Bastard,8.5,1199,7716,4.05,Year-round,0.0,1969,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+14712,Old Chub - Scottish Style Ale,8.0,2681,5310,4.01,Year-round,4.02,1694,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+402,Skull Splitter,8.5,118,2224,4.08,Year-round,4.54,1011,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+28039,Scotty Karate Scotch Ale,9.75,1471,1834,4.03,Fall,4.34,609,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+45765,Christmas Ale (2017-),7.5,287,1757,3.58,Winter,0.0,541,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+94714,Wulver,12.0,12516,1646,4.36,Rotating,3.81,230,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+47440,Claymore Scotch Ale,7.7,158,1547,3.85,Rotating,0.0,507,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+39258,Rum Cask Oak Aged Beer,6.8,10272,1388,3.82,Rotating,4.0,373,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+16400,Wee Heavy,10.0,396,1240,4.16,Winter,4.15,475,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+846,Samuel Adams Scotch Ale,5.4,35,1113,3.74,Rotating,4.0,638,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+118299,Old Chub NITRO,6.9,2681,1100,3.96,Year-round,0.0,136,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+36,Traquair House Ale,7.2,24,1089,4.16,Year-round,4.61,628,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+79,Wee Heavy,6.5,148,1068,4.06,Year-round,4.35,571,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+96677,Brewer's Reserve Bourbon Barrel Scotch Ale,9.5,652,1014,4.26,Rotating,0.0,207,Scotch Ale / Wee Heavy,Scottish Ales,Ale
+92,Arrogant Bastard Ale,7.2,43153,10747,4.15,Year-round,4.39,3105,American Strong Ale,American Ales,Ale
+1056,Double Bastard Ale,11.0,43153,6752,4.26,Rotating,4.57,2132,American Strong Ale,American Ales,Ale
+2264,Brown Shugga',10.0,220,5817,4.03,Winter,4.04,1627,American Strong Ale,American Ales,Ale
+8951,OAKED Arrogant Bastard Ale,7.2,43153,5253,4.2,Rotating,4.61,1874,American Strong Ale,American Ales,Ale
+48385,Undercover Investigation Shut-down Ale,9.6,220,4449,4.07,Rotating,0.0,1067,American Strong Ale,American Ales,Ale
+2533,The Hairy Eyeball,9.1,220,2762,3.84,Winter,0.0,976,American Strong Ale,American Ales,Ale
+25759,Samuel Adams Utopias,29.0,35,2622,4.46,Rotating,0.0,564,American Strong Ale,American Ales,Ale
+62645,Lukcy Basartd Ale,8.5,43153,2479,4.16,Rotating,0.0,781,American Strong Ale,American Ales,Ale
+60886,Deliverance,14.5,18149,1988,4.31,Rotating,0.0,450,American Strong Ale,American Ales,Ale
+47954,Mélange No. 3,16.3,16866,1967,4.41,Rotating,0.0,284,American Strong Ale,American Ales,Ale
+32413,The Angel's Share - Bourbon Barrel-Aged,12.5,18149,1912,4.29,Rotating,0.0,705,American Strong Ale,American Ales,Ale
+459,Fred,10.0,173,1839,4.07,Year-round,4.17,873,American Strong Ale,American Ales,Ale
+142974,Arrogant Bastard Ale - Bourbon Barrel-Aged,8.1,43153,1458,3.9,Year-round,0.0,317,American Strong Ale,American Ales,Ale
+41043,Double Dead Guy Ale,9.0,132,1216,3.97,Rotating,4.0,533,American Strong Ale,American Ales,Ale
+55401,B-Bomb (Bourbon Abominable Winter Ale),14.0,20680,1198,4.42,Winter,3.91,208,American Strong Ale,American Ales,Ale
+24905,Curmudgeon,9.8,1199,4805,4.03,Rotating,0.0,1337,Old Ale,English Ales,Ale
+1867,Old Stock Ale,12.0,112,3273,4.12,Fall,4.19,1527,Old Ale,English Ales,Ale
+1446,Hibernation Ale,8.7,158,2949,4.02,Winter,4.0,1183,Old Ale,English Ales,Ale
+945,Adam,10.0,173,2505,4.26,Year-round,4.44,1042,Old Ale,English Ales,Ale
+34313,Fourth Dementia - Bourbon Barrel-Aged,13.5,2097,1939,4.55,Rotating,0.0,416,Old Ale,English Ales,Ale
+3295,Old Jubilation,8.3,30,1743,3.85,Winter,0.0,816,Old Ale,English Ales,Ale
+14368,Old Man (Winter Ale),7.5,3818,1611,3.68,Winter,3.73,571,Old Ale,English Ales,Ale
+19426,Fuller's Vintage Ale,8.5,71,1300,4.19,Winter,4.32,683,Old Ale,English Ales,Ale
+37113,Old Stock Cellar Reserve (Aged In Bourbon Barrels),13.16,112,1104,4.41,Rotating,0.0,370,Old Ale,English Ales,Ale
+18850,Fourth Dementia (4D),13.5,2097,1053,4.29,Rotating,0.0,452,Old Ale,English Ales,Ale
+926,Old Peculier,5.6,359,1025,3.95,Year-round,4.17,589,Old Ale,English Ales,Ale
+24071,Gonzo Imperial Porter,9.2,68,2955,4.02,Rotating,3.7,1483,Baltic Porter,English Ales,Ale
+79898,Barrel-Aged Framinghammer - Bourbon,10.0,26520,1502,4.33,Rotating,0.0,190,Baltic Porter,English Ales,Ale
+40674,Smuttynose Baltic Porter,9.24,141,1427,4.25,Year-round,0.0,579,Baltic Porter,English Ales,Ale
+88889,3Beans,10.0,10607,1244,4.03,Rotating,3.98,260,Baltic Porter,English Ales,Ale
+65809,Bourbon Barrel Aged Shipwreck Porter,12.0,35571,1046,4.16,Winter,0.0,340,Baltic Porter,English Ales,Ale
+3434,Milk Stout,6.0,418,6923,3.99,Year-round,0.0,1785,Milk / Sweet Stout,English Ales,Ale
+73,Young's Double Chocolate Stout,5.2,664,5833,4.02,Year-round,4.14,2384,Milk / Sweet Stout,English Ales,Ale
+43687,Crème Brûlée Imperial Milk Stout (Blackwater Series),10.0,3818,4622,3.91,Rotating,0.0,1474,Milk / Sweet Stout,English Ales,Ale
+128500,Stone / Chris Banker / Insurgente  Xocoveza,8.1,147,4029,4.34,Rotating,4.74,715,Milk / Sweet Stout,English Ales,Ale
+115076,Milk Stout - Nitro,6.0,418,2833,4.15,Year-round,0.0,357,Milk / Sweet Stout,English Ales,Ale
+1879,Samuel Adams Cream Stout,4.9,35,2723,3.92,Year-round,4.42,1268,Milk / Sweet Stout,English Ales,Ale
+62984,Moo-Hoo Chocolate Milk Stout,6.1,2372,2584,3.97,Winter,3.94,636,Milk / Sweet Stout,English Ales,Ale
+124424,Coffee Milk Stout,5.0,147,2332,3.73,Rotating,3.75,389,Milk / Sweet Stout,English Ales,Ale
+76440,2XSTOUT,7.5,3818,2272,3.81,Year-round,0.0,435,Milk / Sweet Stout,English Ales,Ale
+20216,Milk Stout,5.7,9790,2108,3.84,Year-round,0.0,780,Milk / Sweet Stout,English Ales,Ale
+25435,Moloko,8.0,26,2087,4.13,Summer,0.0,543,Milk / Sweet Stout,English Ales,Ale
+54413,Buffalo Sweat,5.0,16333,1445,3.88,Year-round,4.08,378,Milk / Sweet Stout,English Ales,Ale
+76086,Gingerbread Stout,9.2,26753,1433,4.3,Fall,4.72,199,Milk / Sweet Stout,English Ales,Ale
+105725,Merry Maker Gingerbread Stout,9.0,35,1324,3.71,Winter,0.0,271,Milk / Sweet Stout,English Ales,Ale
+3960,Milk Stout,5.3,743,1198,3.88,Year-round,4.18,474,Milk / Sweet Stout,English Ales,Ale
+6903,Dark Horse Too Cream Stout,7.5,1471,1150,3.89,Winter,0.0,423,Milk / Sweet Stout,English Ales,Ale
+2442,St. Peter's Cream Stout,6.5,296,1068,3.87,Year-round,3.95,627,Milk / Sweet Stout,English Ales,Ale
+97563,Peanut Butter Milk Stout,5.3,30923,1039,4.1,Year-round,0.0,174,Milk / Sweet Stout,English Ales,Ale
+412,Old Rasputin,9.0,112,12443,4.3,Year-round,4.38,3769,Russian Imperial Stout,English Ales,Ale
+34483,Ten FIDY,10.5,2681,10020,4.38,Fall,4.5,2652,Russian Imperial Stout,English Ales,Ale
+21822,Imperial Stout,10.5,1199,7915,4.36,Winter,0.0,1914,Russian Imperial Stout,English Ales,Ale
+680,Brooklyn Black Chocolate Stout,10.0,45,6777,4.15,Winter,4.09,2838,Russian Imperial Stout,English Ales,Ale
+41815,Parabola,14.0,2210,6713,4.61,Rotating,0.0,1290,Russian Imperial Stout,English Ales,Ale
+1444,Expedition Stout,10.5,287,6305,4.26,Winter,4.41,2177,Russian Imperial Stout,English Ales,Ale
+12013,Yeti Imperial Stout,9.5,158,5558,4.21,Year-round,3.97,1822,Russian Imperial Stout,English Ales,Ale
+86149,Narwhal Imperial Stout,10.2,140,5197,4.16,Rotating,0.0,978,Russian Imperial Stout,English Ales,Ale
+19216,Oak Aged Yeti Imperial Stout,9.5,158,4613,4.26,Year-round,4.27,1678,Russian Imperial Stout,English Ales,Ale
+7520,Dark Lord Imperial Stout,15.0,26,4347,4.27,Spring,0.0,1302,Russian Imperial Stout,English Ales,Ale
+45073,Plead The 5th Imperial Stout,11.0,1471,4034,4.31,Rotating,0.0,943,Russian Imperial Stout,English Ales,Ale
+33127,Darkness,10.3,13014,3959,4.48,Fall,4.5,901,Russian Imperial Stout,English Ales,Ale
+782,Imperial Stout,7.0,113,3809,4.16,Year-round,4.44,1786,Russian Imperial Stout,English Ales,Ale
+15813,Blackout Stout,9.0,73,3573,4.2,Winter,3.97,1236,Russian Imperial Stout,English Ales,Ale
+60426,Dark Horse Bourbon Barrel Aged Plead The 5th,12.0,1471,3241,4.53,Fall,0.0,453,Russian Imperial Stout,English Ales,Ale
+45973,Marshal Zhukov's Imperial Stout,11.0,17981,2836,4.37,Summer,0.0,604,Russian Imperial Stout,English Ales,Ale
+33644,B.O.R.I.S. The Crusher,9.4,14879,2764,4.23,Year-round,4.15,1042,Russian Imperial Stout,English Ales,Ale
+40149,Brooklyn Black OPS,10.5,45,2468,4.12,Winter,0.0,863,Russian Imperial Stout,English Ales,Ale
+47695,B.O.R.I.S. Oatmeal Imperial Stout - Barrel-Aged,9.4,14879,2411,4.3,Rotating,0.0,629,Russian Imperial Stout,English Ales,Ale
+1373,Lagunitas Imperial Stout,9.9,220,2164,3.82,Summer,0.0,713,Russian Imperial Stout,English Ales,Ale
+8023,Siberian Night Imperial Stout,9.7,12516,1942,4.13,Year-round,3.56,881,Russian Imperial Stout,English Ales,Ale
+88880,Narwhal Imperial Stout - Barrel Aged,12.9,140,1875,4.33,Rotating,0.0,289,Russian Imperial Stout,English Ales,Ale
+27143,Barrel-Aged Blackout Stout,9.5,73,1829,4.36,Rotating,0.0,428,Russian Imperial Stout,English Ales,Ale
+189272,Ten FIDY - Bourbon Barrel Aged,12.9,2681,1808,4.48,Rotating,0.0,343,Russian Imperial Stout,English Ales,Ale
+38334,Black Albert,13.0,15237,1799,4.26,,0.0,860,Russian Imperial Stout,English Ales,Ale
+73427,Blaecorn Unidragon,12.5,22951,1652,4.09,Year-round,0.0,384,Russian Imperial Stout,English Ales,Ale
+42349,Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord),15.0,26,1555,4.73,Spring,0.0,314,Russian Imperial Stout,English Ales,Ale
+34203,Santa's Little Helper,9.9,13839,1513,4.02,Winter,0.0,586,Russian Imperial Stout,English Ales,Ale
+47360,Samuel Adams Imperial Stout,9.2,35,1498,3.8,Year-round,0.0,806,Russian Imperial Stout,English Ales,Ale
+19667,Peg Leg Imperial Stout,8.0,898,1453,3.66,Year-round,0.0,712,Russian Imperial Stout,English Ales,Ale
+35284,Sexual Chocolate,9.75,11036,1383,4.13,Winter,0.0,470,Russian Imperial Stout,English Ales,Ale
+34484,Imperial Stout Trooper,8.5,357,1312,4.21,Rotating,0.0,507,Russian Imperial Stout,English Ales,Ale
+356,Imperial Stout,11.0,132,1280,4.03,Year-round,3.09,821,Russian Imperial Stout,English Ales,Ale
+52752,Fyodor,13.0,147,1276,4.46,Rotating,0.0,196,Russian Imperial Stout,English Ales,Ale
+51153,Barrel Aged Sexual Chocolate,9.6,11036,1253,4.36,Rotating,0.0,225,Russian Imperial Stout,English Ales,Ale
+185,Smuttynose Imperial Stout (Big Beer Series),10.5,141,1236,4.08,Fall,3.79,701,Russian Imperial Stout,English Ales,Ale
+111538,Off Color / Amager - Dino S'mores,10.5,31678,1225,4.13,Rotating,0.0,199,Russian Imperial Stout,English Ales,Ale
+67722,Bourbon Barrel Aged Siberian Night Imperial Stout,10.9,12516,1189,4.25,Rotating,4.0,236,Russian Imperial Stout,English Ales,Ale
+31548,Big Black Voodoo Daddy,12.0,13371,1141,4.18,Rotating,0.0,441,Russian Imperial Stout,English Ales,Ale
+68680,Wake Up Dead,10.2,418,1038,3.87,Year-round,0.0,212,Russian Imperial Stout,English Ales,Ale
+33894,Ibex Series: Barrel-Aged Imperial Stout,10.2,583,1009,4.1,Rotating,3.7,423,Russian Imperial Stout,English Ales,Ale
+1171,Summertime,5.1,1146,1402,3.47,Summer,3.27,520,Kölsch,German Ales,Ale
+696,California Kölsch,5.2,199,1373,3.54,Year-round,3.88,429,Kölsch,German Ales,Ale
+2040,Reissdorf Kölsch,4.8,288,1297,3.87,,4.08,616,Kölsch,German Ales,Ale
+307,Summer Beer,4.8,98,1050,3.53,Summer,0.0,382,Kölsch,German Ales,Ale
+1309,Alaskan Amber,5.3,429,2040,3.64,Year-round,3.4,643,Altbier,German Ales,Ale
+273,Double Bag,7.2,94,1734,3.87,Year-round,4.23,584,Altbier,German Ales,Ale
+3128,Long Trail Ale,5.0,94,1355,3.55,Year-round,0.0,423,Altbier,German Ales,Ale
+35720,Festina Pêche,4.5,64,4374,3.66,Summer,4.22,1369,Berliner Weissbier,German Ales,Ale
+43889,Hottenroth,3.1,40927,1598,4.04,Rotating,0.0,433,Berliner Weissbier,German Ales,Ale
+43456,Thumbprint Berliner Weiss,3.0,590,1471,4.17,Rotating,4.35,403,Berliner Weissbier,German Ales,Ale
+36378,1809,5.0,23495,1419,4.1,,0.0,592,Berliner Weissbier,German Ales,Ale
+90585,Justin Blåbær,4.5,24300,1029,3.9,Rotating,0.0,141,Berliner Weissbier,German Ales,Ale
+731,Weihenstephaner Hefeweissbier,5.4,252,8552,4.41,,4.85,2572,Hefeweizen,German Ales,Ale
+1946,Franziskaner Hefe-Weisse,5.0,142,4597,4.05,,3.84,1710,Hefeweizen,German Ales,Ale
+48434,Kellerweis,4.8,140,4105,4.05,Year-round,4.3,1395,Hefeweizen,German Ales,Ale
+1256,Paulaner Hefe-Weissbier Naturtrüb,5.5,124,3505,4.05,,3.96,1396,Hefeweizen,German Ales,Ale
+132,Ayinger Bräu Weisse,5.1,39,2260,4.17,,4.13,937,Hefeweizen,German Ales,Ale
+17,Widmer Hefeweizen,4.9,8,2134,3.32,Year-round,3.51,805,Hefeweizen,German Ales,Ale
+2434,Erdinger Weissbier,5.6,703,2007,3.54,,3.2,807,Hefeweizen,German Ales,Ale
+18305,DreamWeaver Wheat,4.8,694,1975,3.72,Year-round,3.63,654,Hefeweizen,German Ales,Ale
+3280,Schneider Weisse Tap 7 Unser Original,5.4,72,1796,3.98,,3.91,849,Hefeweizen,German Ales,Ale
+772,Hacker-Pschorr Hefe Weisse Naturtrüb,5.5,76,1768,4.09,,4.25,764,Hefeweizen,German Ales,Ale
+1062,HefeWeizen,5.2,383,1682,4.35,Year-round,0.0,471,Hefeweizen,German Ales,Ale
+2249,Hefeweizen,4.7,68,1613,3.51,Year-round,3.61,724,Hefeweizen,German Ales,Ale
+37586,Dancing Man Wheat,7.2,590,1396,4.21,Spring,4.34,476,Hefeweizen,German Ales,Ale
+3836,Hofbräu Münchner Weisse,5.1,4686,1177,3.9,,4.37,411,Hefeweizen,German Ales,Ale
+1552,Shiner Hefeweizen,5.4,143,1077,3.29,Year-round,3.56,487,Hefeweizen,German Ales,Ale
+759,Schneider Weisse Tap 4 Wiesen Edel-Weisse,6.2,72,1071,4.08,,4.4,588,Hefeweizen,German Ales,Ale
+760,Weihenstephaner Kristallweissbier,5.4,252,1913,4.05,,4.22,841,Kristalweizen,German Ales,Ale
+2958,Leinenkugel's Honey Weiss,4.9,710,1576,3.02,Year-round,3.5,468,Kristalweizen,German Ales,Ale
+808,Weihenstephaner Hefeweissbier Dunkel,5.3,252,3059,4.25,,4.73,1135,Dunkelweizen,German Ales,Ale
+924,Franziskaner Hefe-Weisse Dunkel,5.0,142,1691,3.83,,3.68,823,Dunkelweizen,German Ales,Ale
+45591,Shiner Holiday Cheer,5.4,143,1632,3.56,Winter,3.7,414,Dunkelweizen,German Ales,Ale
+2041,Erdinger Weissbier Dunkel,5.3,703,1390,3.75,,3.99,636,Dunkelweizen,German Ales,Ale
+135,Ayinger Ur-Weisse,5.8,39,1180,4.09,,4.02,595,Dunkelweizen,German Ales,Ale
+224,Schneider Weisse Tap 6 Unser Aventinus,8.2,72,4577,4.33,,4.27,2170,Weizenbock,German Ales,Ale
+35625,Weihenstephaner Vitus,7.7,252,3562,4.28,,4.08,1232,Weizenbock,German Ales,Ale
+1008,Moonglow Weizenbock,8.7,345,1472,4.05,Fall,4.4,746,Weizenbock,German Ales,Ale
+37774,Schneider Weisse Tap 5 Schneider & Brooklyner Hopfenweisse,8.2,72,1417,4.09,,0.0,771,Weizenbock,German Ales,Ale
+49789,A Little Sumpin' Sumpin' Ale,7.5,220,9067,4.2,Year-round,4.2,1709,American Pale Wheat Ale,American Ales,Ale
+1094,Oberon Ale,5.8,287,6934,3.82,Summer,0.0,1831,American Pale Wheat Ale,American Ales,Ale
+9478,Gumballhead,5.6,26,5946,4.2,Year-round,3.7,1574,American Pale Wheat Ale,American Ales,Ale
+103,Samuel Adams Summer Ale,5.3,35,5612,3.33,Summer,3.42,1688,American Pale Wheat Ale,American Ales,Ale
+17141,312 Urban Wheat,4.2,1146,4622,3.39,Year-round,3.45,937,American Pale Wheat Ale,American Ales,Ale
+49092,Oarsman Ale,4.0,287,2294,3.53,Year-round,0.0,643,American Pale Wheat Ale,American Ales,Ale
+1260,Unfiltered Wheat,4.4,423,2058,3.56,Year-round,3.87,584,American Pale Wheat Ale,American Ales,Ale
+28536,Circus Boy The Hefeweizen!,4.5,96,1710,3.38,Year-round,3.88,668,American Pale Wheat Ale,American Ales,Ale
+65113,80-Acre Hoppy Wheat,5.5,423,1702,3.91,Year-round,4.0,239,American Pale Wheat Ale,American Ales,Ale
+318,UFO Hefeweizen,4.8,98,1486,3.41,Year-round,3.68,603,American Pale Wheat Ale,American Ales,Ale
+17497,Hop Sun (Summer Wheat Beer),5.1,3818,1472,3.78,Summer,4.17,570,American Pale Wheat Ale,American Ales,Ale
+2550,Anchor Summer Beer,4.6,28,1308,3.39,Summer,3.65,603,American Pale Wheat Ale,American Ales,Ale
+96436,Fortunate Islands,5.0,31987,1224,4.09,Year-round,4.1,219,American Pale Wheat Ale,American Ales,Ale
+52633,Samuel Adams Coastal Wheat,5.3,35,1172,3.15,Year-round,3.25,499,American Pale Wheat Ale,American Ales,Ale
+70089,Blue Moon Summer Honey Wheat,5.2,306,1143,3.1,Summer,0.0,160,American Pale Wheat Ale,American Ales,Ale
+36594,Wailua Wheat,5.4,579,1043,3.35,Spring,3.08,392,American Pale Wheat Ale,American Ales,Ale
+752,Guinness Foreign Extra Stout,7.5,209,2425,4.06,,4.33,889,Foreign / Export Stout,English Ales,Ale
+1115,Lion Stout,8.8,389,1639,3.91,,3.68,910,Foreign / Export Stout,English Ales,Ale
+69792,Indra Kunindra,7.0,199,1275,3.67,Rotating,0.0,310,Foreign / Export Stout,English Ales,Ale
+54076,Fade To Black - Volume 1,8.5,418,1001,4.08,Fall,0.0,387,Foreign / Export Stout,English Ales,Ale
+276,Sierra Nevada Pale Ale,5.6,140,11508,4.03,Year-round,4.09,3061,American Pale Ale (APA),American Ales,Ale
+64228,Zombie Dust,6.2,26,10398,4.59,Year-round,0.0,1611,American Pale Ale (APA),American Ales,Ale
+6518,Dale's Pale Ale,6.5,2681,7462,3.88,Year-round,3.58,1979,American Pale Ale (APA),American Ales,Ale
+39,Alpha King,6.66,26,6592,4.25,Year-round,4.23,1867,American Pale Ale (APA),American Ales,Ale
+72170,PseudoSue,6.2,23222,4719,4.52,Year-round,4.27,709,American Pale Ale (APA),American Ales,Ale
+195,Mirror Pond Pale Ale,5.0,63,3851,3.9,Year-round,4.3,1026,American Pale Ale (APA),American Ales,Ale
+48582,Daisy Cutter Pale Ale,5.2,18006,3844,4.16,Year-round,4.2,899,American Pale Ale (APA),American Ales,Ale
+751,420 Extra Pale Ale,5.4,273,3737,3.64,Year-round,3.53,800,American Pale Ale (APA),American Ales,Ale
+78906,MO,6.0,20681,3275,4.29,Year-round,0.0,479,American Pale Ale (APA),American Ales,Ale
+225,Burning River Pale Ale,6.0,73,3266,3.94,Year-round,4.15,1042,American Pale Ale (APA),American Ales,Ale
+51512,Peeper,5.5,20681,2915,4.11,Year-round,4.2,625,American Pale Ale (APA),American Ales,Ale
+4073,Pale Ale,5.4,1199,2912,3.69,Year-round,0.0,846,American Pale Ale (APA),American Ales,Ale
+57886,Edward,5.2,22511,2766,4.43,Year-round,0.0,379,American Pale Ale (APA),American Ales,Ale
+55564,Red Chair NWPA,6.2,63,2645,4.09,Winter,4.3,619,American Pale Ale (APA),American Ales,Ale
+56738,Moon Man No Coast Pale Ale,5.0,590,2642,4.12,Year-round,4.0,531,American Pale Ale (APA),American Ales,Ale
+66281,Headwaters Pale Ale,5.2,345,2622,3.91,Year-round,4.0,619,American Pale Ale (APA),American Ales,Ale
+133621,Born Yesterday Pale Ale,7.2,220,2565,4.4,Fall,4.03,500,American Pale Ale (APA),American Ales,Ale
+5753,Fire Rock Pale Ale,6.0,579,2421,3.62,Year-round,4.0,693,American Pale Ale (APA),American Ales,Ale
+1213,Doggie Style Classic Pale Ale,5.5,68,2414,3.63,Year-round,3.78,1004,American Pale Ale (APA),American Ales,Ale
+98383,Mosaic Promise,5.5,1199,2250,4.05,Rotating,0.0,404,American Pale Ale (APA),American Ales,Ale
+1158,Pride & Joy Mild Ale,5.0,26,2201,3.88,Rotating,0.0,696,American Pale Ale (APA),American Ales,Ale
+88949,Fort Point Pale Ale,6.6,30654,2073,4.46,Year-round,4.13,228,American Pale Ale (APA),American Ales,Ale
+6590,Hazed Hoppy Session Ale,5.0,130,2058,3.64,Year-round,3.45,880,American Pale Ale (APA),American Ales,Ale
+5643,Pale 31 California Pale Ale,4.9,2210,1986,3.83,Year-round,0.0,578,American Pale Ale (APA),American Ales,Ale
+44896,New DogTown Pale Ale,6.2,220,1917,3.94,Year-round,0.0,429,American Pale Ale (APA),American Ales,Ale
+5948,Terrapin Rye Pale Ale,5.3,2372,1819,3.78,Year-round,3.58,776,American Pale Ale (APA),American Ales,Ale
+91358,Space Station Middle Finger,6.0,26,1663,4.17,Year-round,0.0,186,American Pale Ale (APA),American Ales,Ale
+110744,YumYum,5.5,26,1662,3.98,Year-round,4.07,197,American Pale Ale (APA),American Ales,Ale
+107406,Galaxy Dry Hopped Fort Point Pale Ale,6.6,30654,1652,4.56,Rotating,4.06,193,American Pale Ale (APA),American Ales,Ale
+88404,Invasion Pale Ale,5.0,17981,1621,3.93,Rotating,0.0,207,American Pale Ale (APA),American Ales,Ale
+86647,Citra Hopped Live Pale Ale,5.5,3818,1610,3.89,Year-round,3.66,271,American Pale Ale (APA),American Ales,Ale
+26233,Fresh Hop Pale Ale,6.1,158,1603,4.06,Rotating,4.18,694,American Pale Ale (APA),American Ales,Ale
+116067,Double Dry Hopped Fort Point Pale Ale,6.6,30654,1547,4.59,Rotating,0.0,178,American Pale Ale (APA),American Ales,Ale
+20536,Phin & Matt's Extraordinary Ale,5.2,3818,1499,3.53,Year-round,3.47,626,American Pale Ale (APA),American Ales,Ale
+175577,CitruSinensis (OneHitter Series),7.9,220,1481,4.06,Winter,3.89,299,American Pale Ale (APA),American Ales,Ale
+100217,Grunion Pale Ale,5.5,199,1422,4.07,Year-round,0.0,263,American Pale Ale (APA),American Ales,Ale
+26395,Hop Trip Harvest Ale (Fresh Hop Ale),6.1,63,1391,4.1,Fall,4.42,528,American Pale Ale (APA),American Ales,Ale
+155168,Lizard King,6.0,28178,1355,4.28,Rotating,0.0,291,American Pale Ale (APA),American Ales,Ale
+914,Saranac American Pale Ale,5.5,99,1313,3.42,Year-round,3.53,635,American Pale Ale (APA),American Ales,Ale
+74467,Boat Beer,4.2,26817,1276,4.08,Rotating,4.26,180,American Pale Ale (APA),American Ales,Ale
+77648,Row 2/Hill 56,5.8,863,1246,4.28,Rotating,0.0,144,American Pale Ale (APA),American Ales,Ale
+113339,A Tiny Beautiful Something,5.5,20681,1211,4.02,Rotating,0.0,198,American Pale Ale (APA),American Ales,Ale
+55987,Goose Green Line Pale Ale,5.4,1146,1206,3.55,Year-round,0.0,193,American Pale Ale (APA),American Ales,Ale
+78937,8-Bit Pale Ale,5.2,16333,1186,3.76,Year-round,0.0,209,American Pale Ale (APA),American Ales,Ale
+154542,Mosaic Dry Hopped Fort Point,6.6,30654,1180,4.51,Rotating,0.0,139,American Pale Ale (APA),American Ales,Ale
+165463,Lights On,5.3,28743,1132,4.35,Rotating,0.0,151,American Pale Ale (APA),American Ales,Ale
+50241,St. Lupulin,6.5,267,1117,4.07,Summer,4.13,311,American Pale Ale (APA),American Ales,Ale
+3451,Equinox Ale,8.4,220,1113,4.04,Rotating,0.0,237,American Pale Ale (APA),American Ales,Ale
+94175,One Claw,6.0,24134,1107,3.99,Year-round,0.0,146,American Pale Ale (APA),American Ales,Ale
+105399,Ten Hills Pale Ale,6.2,1146,1102,3.63,Rotating,0.0,174,American Pale Ale (APA),American Ales,Ale
+2094,Pale Ale,5.4,423,1096,3.62,Year-round,0.0,418,American Pale Ale (APA),American Ales,Ale
+114532,312 Urban Pale Ale,5.4,1146,1092,3.33,Year-round,0.0,115,American Pale Ale (APA),American Ales,Ale
+77480,Dig,5.6,192,1079,3.58,Spring,3.61,236,American Pale Ale (APA),American Ales,Ale
+114884,Whirlpool,4.5,28609,1062,4.13,Year-round,0.0,147,American Pale Ale (APA),American Ales,Ale
+30679,Hopalicious,5.7,13837,1046,3.92,Year-round,0.0,246,American Pale Ale (APA),American Ales,Ale
+59672,Citra Pale Ale,5.4,22511,1023,4.43,Rotating,0.0,124,American Pale Ale (APA),American Ales,Ale
+3714,Philadelphia Pale Ale,4.6,450,1021,3.7,Year-round,0.0,326,American Pale Ale (APA),American Ales,Ale
+1157,Honker's Ale,4.3,1146,3943,3.66,Year-round,3.9,1133,English Bitter,English Ales,Ale
+59987,Summer Love,5.2,345,2346,3.7,Summer,0.0,453,American Blonde Ale,American Ales,Ale
+22193,Sweet Action,5.0,10607,2337,3.91,Year-round,4.42,604,American Blonde Ale,American Ales,Ale
+22592,Big Wave Golden Ale,4.4,579,1976,3.58,Year-round,3.67,350,American Blonde Ale,American Ales,Ale
+17984,Twilight Summer Ale,5.0,63,1475,3.66,Summer,3.54,459,American Blonde Ale,American Ales,Ale
+68008,Somersault,5.2,192,1109,3.77,Summer,4.5,286,American Blonde Ale,American Ales,Ale
+572,Taddy Porter,5.0,113,3135,4.17,Year-round,4.64,1348,English Porter,English Ales,Ale
+221,Fuller's London Porter,5.4,71,2711,4.19,Year-round,4.27,1246,English Porter,English Ales,Ale
+116648,Death By Coconut,6.5,2681,1941,4.17,Rotating,0.0,466,English Porter,English Ales,Ale
+875,Old Engine Oil Black Ale,6.0,323,1784,4.14,Year-round,4.55,829,English Porter,English Ales,Ale
+1251,Black Jack Porter,6.8,418,1400,3.73,Year-round,3.73,525,English Porter,English Ales,Ale
+1262,Bully! Porter,6.0,423,1156,3.78,Year-round,3.71,533,English Porter,English Ales,Ale
+55861,Eugene,6.8,22072,1103,4.0,Year-round,0.0,175,English Porter,English Ales,Ale
+1093,Two Hearted Ale,7.0,287,14666,4.27,Year-round,4.02,3629,American IPA,American Ales,Ale
+29619,Sculpin IPA,7.0,199,14181,4.39,Year-round,0.0,2522,American IPA,American Ales,Ale
+6108,60 Minute IPA,6.0,64,11612,4.08,Year-round,4.12,2882,American IPA,American Ales,Ale
+88,IPA,6.9,147,11200,4.21,Year-round,4.47,3071,American IPA,American Ales,Ale
+30420,Torpedo Extra IPA,7.2,140,11143,4.15,Year-round,4.46,2973,American IPA,American Ales,Ale
+1904,Celebration Fresh Hop IPA,6.8,140,10411,4.15,Winter,4.35,3522,American IPA,American Ales,Ale
+916,Lagunitas IPA,6.2,220,8995,3.89,Year-round,0.0,1829,American IPA,American Ales,Ale
+5441,Centennial IPA,7.2,1199,8486,4.13,Year-round,4.47,2027,American IPA,American Ales,Ale
+46363,Jai Alai IPA,7.5,17981,8116,4.28,Year-round,4.5,1566,American IPA,American Ales,Ale
+2751,Racer 5 India Pale Ale,7.5,610,7769,4.19,Year-round,4.23,2354,American IPA,American Ales,Ale
+1005,HopDevil India Pale Ale,6.7,345,7453,4.06,Year-round,4.48,2560,American IPA,American Ales,Ale
+58914,All Day IPA,4.7,1199,7381,3.87,Year-round,0.0,1038,American IPA,American Ales,Ale
+38180,Union Jack IPA,7.5,2210,6769,4.23,Year-round,4.5,1393,American IPA,American Ales,Ale
+89174,Grapefruit Sculpin,7.0,199,6134,4.32,Year-round,4.46,866,American IPA,American Ales,Ale
+55081,Ranger,6.5,192,5974,3.77,Year-round,3.88,1316,American IPA,American Ales,Ale
+22790,Blind Pig IPA,6.1,863,5832,4.36,Rotating,0.0,1459,American IPA,American Ales,Ale
+28203,Furious,6.6,13014,5627,4.29,Year-round,0.0,1554,American IPA,American Ales,Ale
+6076,Flower Power India Pale Ale,7.2,651,5354,4.22,Year-round,0.0,1307,American IPA,American Ales,Ale
+68916,Lunch,7.0,20681,5348,4.39,Year-round,4.21,815,American IPA,American Ales,Ale
+16403,"Smuttynose IPA ""Finest Kind""",6.9,141,5339,4.1,Year-round,4.62,1851,American IPA,American Ales,Ale
+60330,Fresh Squeezed IPA,6.4,63,5206,4.25,Year-round,4.34,748,American IPA,American Ales,Ale
+76816,Sierra Nevada Ruthless Rye IPA,6.6,140,5109,3.89,Spring,0.0,1125,American IPA,American Ales,Ale
+3951,ApriHop,7.0,64,4996,3.84,Spring,4.0,1732,American IPA,American Ales,Ale
+3158,Hop Rod Rye,8.0,610,4727,4.22,Year-round,4.59,2082,American IPA,American Ales,Ale
+20478,Harvest Ale,7.6,1199,4573,4.25,Fall,4.37,1129,American IPA,American Ales,Ale
+27604,Duet,7.0,3120,4437,4.34,Year-round,4.19,895,American IPA,American Ales,Ale
+709,Big Eye,7.0,199,4338,4.05,Year-round,4.3,1120,American IPA,American Ales,Ale
+50564,Fat Head's Head Hunter IPA,7.5,19544,4322,4.33,Year-round,0.0,628,American IPA,American Ales,Ale
+73764,Hop Nosh IPA,7.3,1416,4315,4.02,Year-round,0.0,685,American IPA,American Ales,Ale
+95386,Samuel Adams Rebel IPA,6.5,35,4307,3.59,Rotating,0.0,542,American IPA,American Ales,Ale
+3916,IPA,7.25,396,4274,4.23,Year-round,0.0,1355,American IPA,American Ales,Ale
+11922,Titan IPA,7.1,158,4239,4.06,Year-round,4.52,1480,American IPA,American Ales,Ale
+32286,Nelson,7.0,3120,4145,4.44,Rotating,0.0,834,American IPA,American Ales,Ale
+86237,Julius,6.8,28743,4136,4.66,Rotating,4.35,655,American IPA,American Ales,Ale
+57252,Samuel Adams Latitude 48 IPA,6.0,35,3796,3.56,Rotating,3.74,1075,American IPA,American Ales,Ale
+6549,Northern Hemisphere Harvest Wet Hop IPA,6.7,140,3690,4.16,Fall,4.55,1534,American IPA,American Ales,Ale
+71969,Perpetual IPA,7.5,694,3625,4.07,Year-round,0.0,688,American IPA,American Ales,Ale
+25755,Loose Cannon Hop3 IPA,7.25,898,3596,4.0,Year-round,0.0,1263,American IPA,American Ales,Ale
+111616,Focal Banger,7.0,46317,3585,4.59,Year-round,4.53,449,American IPA,American Ales,Ale
+1493,Sweetwater IPA,6.3,273,3578,3.96,Year-round,3.92,941,American IPA,American Ales,Ale
+111969,Go To IPA,4.8,147,3549,3.95,Year-round,0.0,487,American IPA,American Ales,Ale
+665,Anchor Liberty Ale,5.9,28,3485,3.88,Year-round,3.98,1584,American IPA,American Ales,Ale
+53886,Terrapin Hopsecutioner,7.3,2372,3482,3.82,Year-round,0.0,804,American IPA,American Ales,Ale
+15758,75 Minute IPA,7.5,64,3478,4.12,Rotating,0.0,646,American IPA,American Ales,Ale
+65347,Deviant Dale's IPA,8.0,2681,3437,4.02,Rotating,3.85,685,American IPA,American Ales,Ale
+205,Snake Dog IPA,7.1,68,3383,3.57,Year-round,3.27,1224,American IPA,American Ales,Ale
+34688,Redhook Long Hammer IPA,6.2,18134,3340,3.28,Year-round,2.85,1210,American IPA,American Ales,Ale
+5385,Dark Horse Crooked Tree IPA,6.5,1471,3329,3.98,Year-round,4.5,933,American IPA,American Ales,Ale
+148052,Hop Hunter,6.2,140,3313,4.06,Year-round,0.0,609,American IPA,American Ales,Ale
+20781,Brew Free Or Die IPA,7.0,735,3297,3.86,Year-round,4.0,933,American IPA,American Ales,Ale
+611,Hop Ottin' IPA,7.0,193,3189,3.99,Year-round,4.5,1238,American IPA,American Ales,Ale
+2729,Avery India Pale Ale (IPA),6.5,30,3157,3.85,Year-round,0.0,1212,American IPA,American Ales,Ale
+35626,Odell IPA,7.0,267,3142,4.27,Year-round,4.5,747,American IPA,American Ales,Ale
+55862,Anti-Hero IPA,6.7,22072,3142,4.1,Year-round,0.0,399,American IPA,American Ales,Ale
+29209,Inversion IPA,6.8,63,3101,3.88,Year-round,4.12,866,American IPA,American Ales,Ale
+42533,Sierra Nevada Southern Hemisphere Harvest Fresh Hop IPA,6.7,140,3098,4.04,Summer,0.0,1344,American IPA,American Ales,Ale
+91677,Sixty-One (61),6.5,64,2948,3.65,Rotating,0.0,444,American IPA,American Ales,Ale
+58610,Hoppy Birthday,5.25,3120,2856,4.3,Rotating,0.0,495,American IPA,American Ales,Ale
+88969,Green,7.6,28743,2781,4.59,Rotating,4.09,402,American IPA,American Ales,Ale
+48243,Modus Hoperandi,6.8,923,2766,4.1,Year-round,0.0,820,American IPA,American Ales,Ale
+66674,Habanero Sculpin,7.0,199,2633,3.76,Year-round,4.33,541,American IPA,American Ales,Ale
+9088,IPA (India Pale Ale),7.3,3818,2609,3.83,Year-round,3.89,964,American IPA,American Ales,Ale
+84747,DayTime,4.65,220,2579,3.95,Rotating,4.0,465,American IPA,American Ales,Ale
+138735,Todd The Axe Man India Pale Ale,7.2,13014,2541,4.46,Rotating,3.99,426,American IPA,American Ales,Ale
+109789,Delicious IPA,7.7,147,2525,3.92,Year-round,0.0,451,American IPA,American Ales,Ale
+62722,White Rajah,6.8,2470,2315,4.3,Rotating,0.0,418,American IPA,American Ales,Ale
+17900,Short's Huma Lupa Licious India Pale Ale,7.7,9629,2271,4.04,Year-round,4.2,730,American IPA,American Ales,Ale
+59173,Jai Alai IPA - White Oak,7.5,17981,2267,4.21,Year-round,0.0,507,American IPA,American Ales,Ale
+100443,Congress Street IPA,7.2,30654,2214,4.5,Rotating,0.0,270,American IPA,American Ales,Ale
+176650,Alter Ego,6.8,28743,2210,4.56,Rotating,0.0,293,American IPA,American Ales,Ale
+43969,Yellow Snow IPA,6.5,132,2111,3.76,Winter,0.0,671,American IPA,American Ales,Ale
+20168,Hoptical Illusion,7.0,764,2084,3.7,Year-round,0.0,673,American IPA,American Ales,Ale
+95068,Another One,7.0,20681,2056,4.31,Year-round,0.0,291,American IPA,American Ales,Ale
+76800,Samuel Adams Whitewater IPA,5.8,35,2004,3.48,Year-round,3.3,449,American IPA,American Ales,Ale
+146788,Pinner Throwback IPA,4.9,2681,1993,3.83,Year-round,3.75,344,American IPA,American Ales,Ale
+33243,Wipeout IPA,7.5,13839,1993,4.04,Year-round,0.0,778,American IPA,American Ales,Ale
+75898,"Hop, Drop 'n Roll",7.2,26990,1988,4.28,Rotating,0.0,247,American IPA,American Ales,Ale
+46606,Single-Wide IPA,5.7,423,1963,3.75,Year-round,3.7,540,American IPA,American Ales,Ale
+12322,Mojo IPA,7.2,130,1951,3.76,Year-round,3.83,791,American IPA,American Ales,Ale
+86487,Susan,6.2,22511,1949,4.5,Rotating,0.0,207,American IPA,American Ales,Ale
+29127,Broo Doo,7.0,26,1919,4.25,Fall,0.0,484,American IPA,American Ales,Ale
+39435,Punk IPA,5.6,16315,1888,3.84,Year-round,4.0,579,American IPA,American Ales,Ale
+178740,Pineapple Sculpin,7.0,199,1861,3.96,Year-round,0.0,381,American IPA,American Ales,Ale
+92960,Yellow Rose,6.8,30380,1814,4.41,Year-round,0.0,259,American IPA,American Ales,Ale
+197183,Citradelic Tangerine IPA,6.0,192,1786,3.84,Year-round,0.0,366,American IPA,American Ales,Ale
+69760,Golden Nugget IPA,6.8,23222,1766,4.2,Year-round,0.0,249,American IPA,American Ales,Ale
+108525,Easy Jack Session IPA,4.5,2210,1760,3.92,Year-round,3.83,282,American IPA,American Ales,Ale
+28565,Sea Hag IPA,6.2,357,1727,3.93,Year-round,0.0,475,American IPA,American Ales,Ale
+86106,Schlafly Tasmanian IPA (TIPA),7.2,583,1697,4.25,Fall,0.0,287,American IPA,American Ales,Ale
+89747,Overrated West Coast Style IPA,7.3,13014,1688,4.08,Year-round,0.0,254,American IPA,American Ales,Ale
+39390,Jockamo IPA,6.5,3,1671,3.34,Year-round,0.0,558,American IPA,American Ales,Ale
+34164,Rye Of The Tiger IPA,7.5,73,1601,3.98,Rotating,3.78,269,American IPA,American Ales,Ale
+60832,Rumble IPA,7.1,158,1597,3.83,Fall,3.95,440,American IPA,American Ales,Ale
+53267,Wet,6.1,13014,1577,4.3,Fall,0.0,482,American IPA,American Ales,Ale
+107838,The Substance,6.6,33519,1555,4.32,Year-round,3.6,201,American IPA,American Ales,Ale
+162643,Azacca IPA,7.0,1199,1545,3.9,Rotating,0.0,350,American IPA,American Ales,Ale
+65038,India Pale Ale,6.8,24134,1513,4.05,Year-round,0.0,256,American IPA,American Ales,Ale
+27571,Hoppyum IPA,6.3,11036,1513,3.8,Year-round,0.0,361,American IPA,American Ales,Ale
+32432,Total Domination IPA,6.7,14400,1509,3.66,Year-round,3.31,389,American IPA,American Ales,Ale
+66245,Elevated IPA,7.2,24659,1488,4.35,Year-round,0.0,239,American IPA,American Ales,Ale
+57223,Be Hoppy,6.5,22200,1475,4.27,Year-round,4.0,199,American IPA,American Ales,Ale
+62328,Estate Homegrown Wet Hop Ale,6.7,140,1455,4.11,Rotating,0.0,560,American IPA,American Ales,Ale
+942,Full Sail IPA,6.0,5316,1445,3.55,Year-round,3.91,564,American IPA,American Ales,Ale
+111176,Rogue Farms 7 Hop IPA,7.77,132,1442,3.94,Rotating,0.0,199,American IPA,American Ales,Ale
+22787,Alaskan Icy Bay IPA,6.2,429,1404,3.68,Year-round,4.0,423,American IPA,American Ales,Ale
+8411,Castaway IPA,6.0,579,1398,3.75,Year-round,0.0,207,American IPA,American Ales,Ale
+1472,Big Daddy IPA,6.5,559,1396,3.73,Year-round,4.0,486,American IPA,American Ales,Ale
+127866,Hop Knife Harvest Ale,6.2,694,1383,4.05,Fall,0.0,194,American IPA,American Ales,Ale
+6368,Masala Mama India Pale Ale,6.0,1177,1380,4.32,Year-round,3.88,681,American IPA,American Ales,Ale
+122334,Bengali,6.6,10607,1367,3.99,Year-round,0.0,214,American IPA,American Ales,Ale
+81072,Summit Sága IPA,6.4,467,1366,3.94,Year-round,0.0,207,American IPA,American Ales,Ale
+134064,Double Dry Hopped Congress Street,7.2,30654,1357,4.6,Rotating,3.6,172,American IPA,American Ales,Ale
+40416,IPA,6.9,741,1353,3.96,Year-round,4.5,368,American IPA,American Ales,Ale
+134098,Soul Style IPA,6.8,2743,1352,3.92,Rotating,0.0,220,American IPA,American Ales,Ale
+9873,Hi.P.A.,6.7,96,1330,3.66,Fall,3.62,662,American IPA,American Ales,Ale
+35608,Just Outstanding IPA,6.8,14064,1326,4.21,Year-round,3.66,459,American IPA,American Ales,Ale
+179482,IPA,6.43,2681,1326,3.96,Year-round,4.05,304,American IPA,American Ales,Ale
+33215,IPA,6.3,341,1324,4.2,Year-round,0.0,376,American IPA,American Ales,Ale
+88298,Sap,7.0,28743,1322,4.33,Rotating,0.0,207,American IPA,American Ales,Ale
+2018,The Immortal IPA,6.3,700,1311,3.83,Year-round,4.12,441,American IPA,American Ales,Ale
+10784,Caldera IPA,6.1,1075,1295,3.94,Year-round,4.0,514,American IPA,American Ales,Ale
+105430,GoneAway IPA,7.0,18006,1280,4.17,Year-round,4.0,176,American IPA,American Ales,Ale
+42546,Wild Devil,6.7,345,1273,3.82,Rotating,0.0,534,American IPA,American Ales,Ale
+1670,Indica India Pale Ale,6.5,256,1263,3.77,Year-round,0.0,583,American IPA,American Ales,Ale
+403,ACME California IPA,6.9,112,1260,3.62,Year-round,3.97,558,American IPA,American Ales,Ale
+69290,The Corruption,6.5,25327,1256,3.86,Year-round,4.17,213,American IPA,American Ales,Ale
+95114,Pinedrops IPA,6.5,63,1246,3.87,Rotating,3.97,236,American IPA,American Ales,Ale
+5614,Swami's IPA,6.8,1337,1244,4.1,Year-round,0.0,214,American IPA,American Ales,Ale
+50764,Lucky U IPA,6.2,2137,1237,3.42,Rotating,0.0,326,American IPA,American Ales,Ale
+118971,Terrapin HI-5 IPA,5.9,2372,1226,3.88,Year-round,0.0,162,American IPA,American Ales,Ale
+118865,Tropicália,6.6,34456,1223,4.39,Year-round,0.0,207,American IPA,American Ales,Ale
+31763,Islander IPA,7.0,2447,1206,3.79,Year-round,4.0,321,American IPA,American Ales,Ale
+5554,Big Sky IPA,6.2,751,1183,3.79,Year-round,3.8,477,American IPA,American Ales,Ale
+150209,Double Dry Hopped Melcher Street,7.2,30654,1172,4.51,Rotating,0.0,152,American IPA,American Ales,Ale
+74530,Tasman Red IPA,6.75,35,1165,3.73,Rotating,4.0,377,American IPA,American Ales,Ale
+112128,Anchor IPA,6.5,28,1150,3.62,Year-round,0.0,203,American IPA,American Ales,Ale
+40628,Big Swell IPA,6.8,16057,1141,3.77,Year-round,2.85,429,American IPA,American Ales,Ale
+33467,High Tide Fresh Hop IPA,6.5,13839,1118,4.05,Fall,0.0,533,American IPA,American Ales,Ale
+49058,Red Racer IPA (India Pale Ale),6.5,10321,1108,4.23,Year-round,4.2,490,American IPA,American Ales,Ale
+52766,Schlafly American IPA,7.2,583,1097,4.06,Winter,0.0,259,American IPA,American Ales,Ale
+125926,Melcher Street IPA,7.3,30654,1095,4.39,Rotating,3.53,149,American IPA,American Ales,Ale
+128182,Super Session #2,4.8,17980,1082,4.12,Rotating,0.0,183,American IPA,American Ales,Ale
+65842,Stowaway I.P.A.,6.9,23922,1064,3.83,Year-round,4.0,211,American IPA,American Ales,Ale
+466,Bridgeport IPA,5.5,43,1059,3.82,Year-round,4.11,543,American IPA,American Ales,Ale
+89586,Pompeii,6.2,23222,1044,4.33,Rotating,0.0,185,American IPA,American Ales,Ale
+17492,Saint Arnold Elissa IPA,7.1,337,1043,3.77,Year-round,4.0,399,American IPA,American Ales,Ale
+96304,Truth,7.2,31995,1041,4.09,Year-round,4.01,134,American IPA,American Ales,Ale
+65993,Jade IPA,7.4,11036,1030,4.25,Rotating,0.0,151,American IPA,American Ales,Ale
+52718,Lot #3 IPA,6.8,19897,1022,4.07,Year-round,4.03,212,American IPA,American Ales,Ale
+62129,Hop Gun,7.0,31805,1020,3.82,Year-round,0.0,145,American IPA,American Ales,Ale
+73173,ZeeLander,5.5,23222,1016,4.31,Rotating,0.0,138,American IPA,American Ales,Ale
+78791,He'brew Hop Manna IPA,6.8,262,1015,3.78,Year-round,0.0,222,American IPA,American Ales,Ale
+144097,Slow Ride Session IPA,4.5,192,1014,3.72,Year-round,3.67,160,American IPA,American Ales,Ale
+59815,Harlan IPA,6.0,22511,1001,4.32,Rotating,0.0,139,American IPA,American Ales,Ale
+1862,Leffe Brune / Brown,6.5,470,1893,3.79,,0.0,553,Belgian Dark Ale,Belgian / French Ales,Ale
+38818,Chocolate Indulgence Stout,7.0,42,1313,3.82,Rotating,0.0,708,Belgian Dark Ale,Belgian / French Ales,Ale
+18975,Oro De Calabaza,8.0,9897,1814,4.12,Year-round,0.0,740,Bière de Garde,Belgian / French Ales,Ale
+2961,Domaine DuPage French Style Country Ale,5.9,689,1546,3.81,Rotating,4.04,535,Bière de Garde,Belgian / French Ales,Ale
+30955,Abbaye De Saint Bon-Chien,11.0,2958,1132,4.32,,0.0,309,Bière de Garde,Belgian / French Ales,Ale
+607,Fat Tire Amber Ale,5.2,192,8882,3.6,Year-round,3.6,2077,American Amber / Red Ale,American Ales,Ale
+15881,Nugget Nectar,7.5,694,8651,4.32,Spring,0.0,2572,American Amber / Red Ale,American Ales,Ale
+35732,Hop Head Red Ale,8.1,2743,3421,3.97,Year-round,4.0,965,American Amber / Red Ale,American Ales,Ale
+794,Amber Ale,5.8,287,3185,3.84,Year-round,4.35,993,American Amber / Red Ale,American Ales,Ale
+6322,Hopback Amber Ale,6.0,694,3119,3.97,Year-round,0.0,1176,American Amber / Red Ale,American Ales,Ale
+98495,Flipside Red IPA,6.2,140,2933,3.79,Fall,0.0,436,American Amber / Red Ale,American Ales,Ale
+3711,Censored,6.75,220,2744,3.72,Year-round,0.0,892,American Amber / Red Ale,American Ales,Ale
+35397,Lucky 13 Mondo Large Red Ale,8.8,220,2738,4.11,Spring,4.2,973,American Amber / Red Ale,American Ales,Ale
+1792,Nosferatu,8.0,73,2661,4.07,Fall,4.0,925,American Amber / Red Ale,American Ales,Ale
+1655,Red Rocket Ale,6.8,610,2615,4.05,Year-round,4.34,1178,American Amber / Red Ale,American Ales,Ale
+54522,Zoe,7.2,20681,2507,4.19,Year-round,0.0,613,American Amber / Red Ale,American Ales,Ale
+1173,Santa's Private Reserve Ale,5.3,132,2364,3.74,Winter,4.1,1205,American Amber / Red Ale,American Ales,Ale
+410,Ruedrich's Red Seal Ale,5.4,112,2107,3.9,Year-round,4.4,1016,American Amber / Red Ale,American Ales,Ale
+1490,Hog Heaven: Imperial Red IPA,9.2,30,2104,3.96,Rotating,0.0,929,American Amber / Red Ale,American Ales,Ale
+623,Boont Amber Ale,5.8,193,1595,3.84,Year-round,4.23,578,American Amber / Red Ale,American Ales,Ale
+2526,Highland Gaelic Ale,5.8,811,1497,3.81,Year-round,4.0,542,American Amber / Red Ale,American Ales,Ale
+691,California Amber,5.5,199,1467,3.78,Year-round,3.96,468,American Amber / Red Ale,American Ales,Ale
+61877,Tocobaga Red Ale,7.4,17981,1464,4.11,Year-round,0.0,252,American Amber / Red Ale,American Ales,Ale
+363,American Amber Ale,5.3,132,1460,3.83,Year-round,4.0,728,American Amber / Red Ale,American Ales,Ale
+2297,Avalanche Ale,4.4,2137,1352,3.29,Year-round,3.41,466,American Amber / Red Ale,American Ales,Ale
+95921,Blazing World,6.8,31987,1270,4.1,Rotating,0.0,212,American Amber / Red Ale,American Ales,Ale
+18721,CascaZilla,7.0,651,1243,3.82,Rotating,0.0,590,American Amber / Red Ale,American Ales,Ale
+213,Full Sail Amber,6.0,5316,1204,3.75,Year-round,4.3,472,American Amber / Red Ale,American Ales,Ale
+104466,Global Warmer,7.0,10607,1198,3.92,Fall,0.0,221,American Amber / Red Ale,American Ales,Ale
+199848,Pataskala Red X IPA,7.3,147,1086,4.07,Spring,0.0,261,American Amber / Red Ale,American Ales,Ale
+1597,St. Rogue Red,5.1,132,1050,3.78,Year-round,3.37,677,American Amber / Red Ale,American Ales,Ale
+141,Hennepin,7.7,42,6069,4.15,Year-round,4.3,2195,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+50570,Tank 7 Farmhouse Ale,8.5,423,5303,4.17,Year-round,0.0,1084,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+48824,Sofie,6.5,1146,4576,4.09,Year-round,0.0,1126,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+1717,Saison Dupont,6.5,637,4266,4.18,,4.18,1645,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+36333,Saison-Brett,8.5,423,3281,4.28,Rotating,4.5,782,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+51480,Brooklyn Sorachi Ace,7.2,45,2902,4.08,Year-round,4.2,728,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+5057,Fantôme Saison,8.0,738,1990,4.27,,0.0,836,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+62282,Arthur,6.0,22511,1967,4.36,Rotating,0.0,270,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+42434,Saison Rue,8.5,40927,1827,4.11,Year-round,4.5,576,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+57202,Pepe Nero Belgian Style Ale,6.4,1146,1802,3.75,Year-round,0.0,511,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+49374,Colette Farmhouse Ale,7.3,158,1733,3.86,Year-round,4.12,479,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+60785,Saison Du BUFF,6.8,64,1672,3.77,Rotating,0.0,465,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+64916,Anna,6.4,22511,1647,4.35,Rotating,0.0,243,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+66507,Noble Rot,9.0,64,1580,3.85,Rotating,4.0,338,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+69702,Seizoen Bretta,8.0,25710,1524,4.27,Year-round,0.0,266,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+30845,CynicAle,6.7,13014,1508,3.97,Year-round,0.0,615,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+114806,Opal,7.5,2210,1463,3.94,Rotating,0.0,227,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+1716,Avec Les Bons Voeux,9.5,637,1431,4.16,,3.58,635,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+27837,Interlude,10.6,4,1431,4.21,Rotating,4.2,456,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+28176,Bam Bière,4.5,9897,1427,3.93,Rotating,0.0,655,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+88169,Prairie Standard,5.2,30356,1413,4.0,Year-round,0.0,243,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+81079,Peche 'n Brett,10.0,25710,1384,4.44,Rotating,0.0,182,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+37112,Le Merle,7.9,112,1384,3.9,Rotating,0.0,528,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+58048,Stone / Dogfish Head / Victory Saison Du BUFF,6.8,147,1342,3.8,Rotating,3.52,550,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+90101,Surette Provision Saison,6.2,25191,1332,4.18,Rotating,0.0,221,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+118062,Saison,6.0,147,1272,3.58,Rotating,0.0,205,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+58523,Cellar Door,6.6,22150,1243,4.02,Summer,0.0,355,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+46983,Saison De Lente,6.5,16866,1232,4.0,Spring,0.0,500,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+93400,Grassroots Brother Soigné,5.0,23205,1232,4.4,,0.0,138,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+88209,Prairie Hop,8.0,30356,1163,4.17,Rotating,0.0,193,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+108002,Saison Ale,6.1,4,1153,3.85,Year-round,0.0,182,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+4629,Rabbid Rabbit,7.4,26,1107,3.77,Spring,0.0,384,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+47776,Helios  (V Saison),7.5,345,1095,3.83,Rotating,0.0,454,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+61139,Florence Wheat Saison,5.0,22511,1023,4.21,Rotating,4.0,153,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+32423,Red Barn Ale,6.7,18149,1004,3.94,Year-round,0.0,395,Saison / Farmhouse Ale,Belgian / French Ales,Ale
+1381,Yuengling Black & Tan,4.7,182,2416,3.23,Year-round,2.85,706,Black & Tan,American Ales,Ale
+1741,Mississippi Mud Black & Tan,5.0,638,1219,3.16,,0.0,454,Black & Tan,American Ales,Ale
+63,Anchor Steam Beer,4.9,28,6064,3.85,Year-round,4.23,2072,California Common / Steam Beer,American Lagers,Lager
+2093,90 Minute IPA,9.0,64,15820,4.27,Year-round,4.32,3949,American Double / Imperial IPA,American Ales,Ale
+7971,Pliny The Elder,8.0,863,14793,4.65,Rotating,4.68,3735,American Double / Imperial IPA,American Ales,Ale
+16814,Heady Topper,8.0,46317,14022,4.72,Year-round,4.34,2447,American Double / Imperial IPA,American Ales,Ale
+17112,Hopslam Ale,10.0,287,13390,4.46,Winter,4.2,3607,American Double / Imperial IPA,American Ales,Ale
+84596,Enjoy By IPA,9.4,147,10961,4.42,Rotating,4.4,1532,American Double / Imperial IPA,American Ales,Ale
+74986,Lagunitas Sucks,7.85,220,10360,4.32,Year-round,3.97,1640,American Double / Imperial IPA,American Ales,Ale
+9086,120 Minute IPA,18.0,64,8404,4.11,Rotating,0.0,2373,American Double / Imperial IPA,American Ales,Ale
+22505,West Coast IPA,8.1,2743,7969,4.22,Year-round,4.5,1904,American Double / Imperial IPA,American Ales,Ale
+35738,Hop Stoopid,8.0,220,7805,4.19,Year-round,0.0,2180,American Double / Imperial IPA,American Ales,Ale
+99873,DirtWolf,8.7,345,6705,4.28,Year-round,0.0,873,American Double / Imperial IPA,American Ales,Ale
+18862,Burton Baton,10.0,64,6644,4.23,Year-round,4.09,1895,American Double / Imperial IPA,American Ales,Ale
+34146,Double Trouble,9.4,1199,6442,4.2,Rotating,0.0,1658,American Double / Imperial IPA,American Ales,Ale
+55939,Hoptimum,9.6,140,6333,4.18,Rotating,4.2,1491,American Double / Imperial IPA,American Ales,Ale
+1558,Dreadnaught IPA,9.5,26,6074,4.4,Year-round,4.17,1733,American Double / Imperial IPA,American Ales,Ale
+82250,RuinTen Triple IPA,10.8,147,5847,4.3,Rotating,3.88,909,American Double / Imperial IPA,American Ales,Ale
+22352,Maharaja,10.2,30,5693,4.23,Rotating,4.28,1879,American Double / Imperial IPA,American Ales,Ale
+1372,Maximus,8.2,220,5591,3.99,Year-round,4.03,1564,American Double / Imperial IPA,American Ales,Ale
+117177,Sip Of Sunshine IPA,8.0,17980,5265,4.58,Rotating,0.0,686,American Double / Imperial IPA,American Ales,Ale
+77299,Resin,9.1,10607,4861,4.12,Year-round,4.08,906,American Double / Imperial IPA,American Ales,Ale
+46849,Abrasive Ale,9.0,13014,4634,4.5,Rotating,0.0,951,American Double / Imperial IPA,American Ales,Ale
+57908,2XIPA,8.2,3818,4626,4.02,Year-round,0.0,1082,American Double / Imperial IPA,American Ales,Ale
+17060,Hercules Double IPA,10.0,158,4211,4.12,Year-round,4.47,1591,American Double / Imperial IPA,American Ales,Ale
+45175,Palate Wrecker,9.5,2743,4158,4.16,Rotating,0.0,767,American Double / Imperial IPA,American Ales,Ale
+8919,G'Knight,8.7,2681,4038,4.12,Year-round,4.0,1375,American Double / Imperial IPA,American Ales,Ale
+7597,Pure Hoppiness,8.0,3120,3720,4.33,Rotating,4.3,945,American Double / Imperial IPA,American Ales,Ale
+52531,Arctic Panzer Wolf,9.0,26,3581,4.26,Year-round,0.0,727,American Double / Imperial IPA,American Ales,Ale
+90156,Chillwave Double IPA,9.0,73,3325,4.28,Rotating,4.03,510,American Double / Imperial IPA,American Ales,Ale
+30288,Double Simcoe IPA,9.0,392,3264,4.06,Rotating,4.0,1368,American Double / Imperial IPA,American Ales,Ale
+21690,Pliny The Younger,10.25,863,3174,4.7,Winter,0.0,965,American Double / Imperial IPA,American Ales,Ale
+28577,Unearthly (Imperial India Pale Ale),9.5,3818,3080,4.07,Year-round,0.0,1225,American Double / Imperial IPA,American Ales,Ale
+55412,Gubna,10.0,2681,2966,3.84,Spring,0.0,975,American Double / Imperial IPA,American Ales,Ale
+52077,A Little Sumpin' Extra! Ale,8.5,220,2965,4.23,Rotating,0.0,603,American Double / Imperial IPA,American Ales,Ale
+91670,Permanent Funeral,10.5,26,2942,4.5,Year-round,0.0,343,American Double / Imperial IPA,American Ales,Ale
+57259,G-Bot Double IPA,8.8,357,2939,4.39,Rotating,0.0,594,American Double / Imperial IPA,American Ales,Ale
+10386,Dorado,10.0,199,2925,4.12,Rotating,4.2,694,American Double / Imperial IPA,American Ales,Ale
+66436,Myrcenary Double IPA,9.3,267,2913,4.28,Year-round,4.2,598,American Double / Imperial IPA,American Ales,Ale
+90410,Rampant Imperial IPA,8.5,192,2905,3.79,Year-round,0.0,485,American Double / Imperial IPA,American Ales,Ale
+22381,Dark Horse Double Crooked Tree IPA,12.0,1471,2862,4.15,Spring,4.15,930,American Double / Imperial IPA,American Ales,Ale
+52361,The Oracle,10.0,287,2730,4.16,Summer,0.0,788,American Double / Imperial IPA,American Ales,Ale
+58299,Abner,8.2,22511,2717,4.63,Rotating,0.0,397,American Double / Imperial IPA,American Ales,Ale
+18421,Lake Erie Monster,9.1,73,2663,4.01,Rotating,0.0,724,American Double / Imperial IPA,American Ales,Ale
+34085,Green Flash Imperial India Pale Ale,9.0,2743,2640,4.09,Rotating,4.0,1003,American Double / Imperial IPA,American Ales,Ale
+110895,Hi-Res,11.1,10607,2568,4.15,Rotating,0.0,450,American Double / Imperial IPA,American Ales,Ale
+47434,Hop Henge,8.3,63,2535,4.13,Rotating,4.12,857,American Double / Imperial IPA,American Ales,Ale
+84045,Space Dust IPA,8.2,700,2504,4.08,Year-round,3.37,450,American Double / Imperial IPA,American Ales,Ale
+77708,Ninja Vs. Unicorn,8.0,28178,2477,4.28,Year-round,0.0,410,American Double / Imperial IPA,American Ales,Ale
+125646,Haze,8.2,28743,2470,4.58,Rotating,4.31,333,American Double / Imperial IPA,American Ales,Ale
+104028,Hop Ranch,9.0,345,2435,4.19,Winter,0.0,386,American Double / Imperial IPA,American Ales,Ale
+168971,Ruination Double IPA 2.0,8.5,147,2333,4.23,Year-round,0.0,482,American Double / Imperial IPA,American Ales,Ale
+22527,471 Small Batch IPA,9.2,2137,2323,3.92,Rotating,0.0,816,American Double / Imperial IPA,American Ales,Ale
+78377,Simtra Triple IPA,11.25,23200,2259,4.29,Rotating,0.0,383,American Double / Imperial IPA,American Ales,Ale
+55342,Mongo,8.0,13839,2248,4.17,Year-round,0.0,629,American Double / Imperial IPA,American Ales,Ale
+52928,Hop JuJu Imperial IPA,9.0,19544,2216,4.46,Rotating,0.0,283,American Double / Imperial IPA,American Ales,Ale
+47659,Doom,12.4,1199,2215,4.08,Rotating,0.0,492,American Double / Imperial IPA,American Ales,Ale
+92971,Green Bullet Triple IPA,10.1,2743,2203,3.94,Rotating,0.0,324,American Double / Imperial IPA,American Ales,Ale
+64545,Double Sunshine IPA,8.0,17980,2189,4.66,Rotating,0.0,347,American Double / Imperial IPA,American Ales,Ale
+8037,Racer X Double IPA,8.3,610,2174,4.22,Winter,4.25,512,American Double / Imperial IPA,American Ales,Ale
+115317,Dinner,8.2,20681,2174,4.64,Rotating,0.0,265,American Double / Imperial IPA,American Ales,Ale
+113674,King Sue,8.0,23222,2143,4.62,Rotating,0.0,291,American Double / Imperial IPA,American Ales,Ale
+46080,Apocalypse Cow,11.0,26,2136,4.25,Summer,0.0,495,American Double / Imperial IPA,American Ales,Ale
+68269,The Waldos' Special Ale,11.3,220,2123,4.32,Spring,4.0,502,American Double / Imperial IPA,American Ales,Ale
+78517,On The Wings Of Armageddon,9.2,25327,2052,4.32,Rotating,0.0,278,American Double / Imperial IPA,American Ales,Ale
+114804,Crusher,9.0,46317,2034,4.49,Rotating,4.4,276,American Double / Imperial IPA,American Ales,Ale
+30970,He'Brew Bittersweet Lenny's R.I.P.A.,10.0,262,2015,4.06,Year-round,4.46,904,American Double / Imperial IPA,American Ales,Ale
+127652,Second Fiddle,8.2,27919,1985,4.47,Rotating,4.26,235,American Double / Imperial IPA,American Ales,Ale
+123810,Thumbprint Scream IIPA,9.0,590,1973,4.33,Rotating,0.0,213,American Double / Imperial IPA,American Ales,Ale
+35754,Double Dog Double IPA,11.5,68,1967,3.9,Year-round,0.0,1004,American Double / Imperial IPA,American Ales,Ale
+101392,Limbo IPA,7.6,94,1964,4.08,Year-round,0.0,248,American Double / Imperial IPA,American Ales,Ale
+7284,Double IPA,8.5,396,1955,4.19,Year-round,0.0,967,American Double / Imperial IPA,American Ales,Ale
+31323,Hop 15,10.0,13839,1877,4.19,Rotating,4.31,815,American Double / Imperial IPA,American Ales,Ale
+67219,Robert Johnson's Hellhound On My Ale,10.0,64,1872,3.93,Rotating,4.17,576,American Double / Imperial IPA,American Ales,Ale
+69522,Double Citra,8.0,22511,1858,4.61,Rotating,0.0,221,American Double / Imperial IPA,American Ales,Ale
+37966,Tricerahops Double IPA,8.0,14400,1813,4.02,Year-round,0.0,470,American Double / Imperial IPA,American Ales,Ale
+113602,Space Cake,9.0,22951,1788,4.06,Year-round,0.0,233,American Double / Imperial IPA,American Ales,Ale
+56082,Citra,8.0,14064,1776,4.56,Rotating,0.0,404,American Double / Imperial IPA,American Ales,Ale
+44755,Leviathan Imperial IPA,10.0,98,1765,4.06,Year-round,0.0,724,American Double / Imperial IPA,American Ales,Ale
+25851,Brooklyn Blast!,8.4,45,1745,4.0,Year-round,3.92,366,American Double / Imperial IPA,American Ales,Ale
+92472,Galactica,8.0,22951,1689,3.92,Year-round,0.0,263,American Double / Imperial IPA,American Ales,Ale
+42063,Hop Crisis,9.7,735,1673,3.98,Rotating,3.88,504,American Double / Imperial IPA,American Ales,Ale
+25259,Hopsickle Imperial India Pale Ale,9.2,870,1661,4.11,Summer,4.56,943,American Double / Imperial IPA,American Ales,Ale
+145496,Vicinity,8.0,30654,1634,4.46,Rotating,3.03,229,American Double / Imperial IPA,American Ales,Ale
+178857,ReDANKulous,9.5,1199,1610,4.13,Rotating,0.0,361,American Double / Imperial IPA,American Ales,Ale
+53187,Bodhi,8.5,341,1598,4.47,Rotating,0.0,227,American Double / Imperial IPA,American Ales,Ale
+150877,The Calling,8.5,423,1593,4.08,Year-round,3.85,262,American Double / Imperial IPA,American Ales,Ale
+93219,Sosus,8.0,23222,1583,4.5,Rotating,0.0,205,American Double / Imperial IPA,American Ales,Ale
+99838,Otter Creek / Lawson's Finest Liquids - Double Dose IPA,8.5,119,1570,4.34,Fall,0.0,197,American Double / Imperial IPA,American Ales,Ale
+211516,Doppelganger,8.0,28743,1564,4.59,Rotating,4.22,217,American Double / Imperial IPA,American Ales,Ale
+58754,Detour Double India Pale Ale,9.5,1416,1557,3.81,Year-round,0.0,317,American Double / Imperial IPA,American Ales,Ale
+202078,Enjoy By Unfiltered IPA,9.4,147,1527,4.34,Rotating,0.0,308,American Double / Imperial IPA,American Ales,Ale
+36748,Idiot IPA,8.5,2447,1522,3.89,Rotating,0.0,400,American Double / Imperial IPA,American Ales,Ale
+41505,Hardcore IPA,9.2,16315,1509,3.94,Year-round,0.0,556,American Double / Imperial IPA,American Ales,Ale
+85523,Society & Solitude #5,8.1,22511,1497,4.55,Rotating,0.0,176,American Double / Imperial IPA,American Ales,Ale
+49838,Squall IPA,9.0,64,1487,4.14,Rotating,0.0,795,American Double / Imperial IPA,American Ales,Ale
+28318,Palate Shifter Imperial IPA,9.0,12959,1458,4.15,Year-round,4.6,565,American Double / Imperial IPA,American Ales,Ale
+67760,Double Galaxy,8.0,22511,1442,4.6,Rotating,0.0,227,American Double / Imperial IPA,American Ales,Ale
+72592,Molotov Cocktail,12.0,24300,1431,3.93,Rotating,0.0,269,American Double / Imperial IPA,American Ales,Ale
+123062,Swish,8.0,33519,1414,4.58,Rotating,3.79,198,American Double / Imperial IPA,American Ales,Ale
+90141,Freak Of Nature,8.5,30581,1400,4.3,Year-round,0.0,193,American Double / Imperial IPA,American Ales,Ale
+70910,Stone / Baird / Ishii -  Japanese Green Tea IPA,10.1,147,1396,3.93,Rotating,4.17,464,American Double / Imperial IPA,American Ales,Ale
+87145,Citra,9.5,28178,1395,4.4,Rotating,0.0,144,American Double / Imperial IPA,American Ales,Ale
+99011,Mastermind,8.1,27919,1393,4.44,Rotating,0.0,161,American Double / Imperial IPA,American Ales,Ale
+140460,Captain's Daughter,8.5,27710,1374,4.32,Rotating,0.0,263,American Double / Imperial IPA,American Ales,Ale
+74065,077XX,7.8,26817,1370,4.26,Year-round,4.45,170,American Double / Imperial IPA,American Ales,Ale
+126806,Mars (The Bringer Of War),10.1,287,1354,4.12,Rotating,0.0,183,American Double / Imperial IPA,American Ales,Ale
+118987,Road Warrior Imperial Rye India Pale Ale,9.0,2743,1344,4.07,Rotating,0.0,189,American Double / Imperial IPA,American Ales,Ale
+12068,Exponential Hoppiness,11.0,3120,1318,4.42,Rotating,0.0,401,American Double / Imperial IPA,American Ales,Ale
+20470,Stoudt's Double IPA (India Pale Ale),9.43,394,1285,3.94,Rotating,4.45,771,American Double / Imperial IPA,American Ales,Ale
+66195,Café Racer 15,9.75,610,1265,4.23,Rotating,4.21,229,American Double / Imperial IPA,American Ales,Ale
+358,XS Imperial India Pale Ale,9.5,132,1254,4.12,Year-round,4.33,770,American Double / Imperial IPA,American Ales,Ale
+139515,Samuel Adams Rebel Rouser Double IPA,8.4,35,1244,3.8,Year-round,3.7,298,American Double / Imperial IPA,American Ales,Ale
+169611,Cutting Tiles (Mosaic),8.5,30654,1243,4.54,Rotating,0.0,178,American Double / Imperial IPA,American Ales,Ale
+83008,Society & Solitude #4,8.0,22511,1237,4.59,Rotating,0.0,162,American Double / Imperial IPA,American Ales,Ale
+88207,Road 2 Ruin,8.0,30437,1226,3.92,Year-round,0.0,195,American Double / Imperial IPA,American Ales,Ale
+95230,The Illinois,9.0,1146,1216,3.92,Rotating,0.0,162,American Double / Imperial IPA,American Ales,Ale
+101085,American Beauty,9.0,64,1194,3.85,Rotating,0.0,177,American Double / Imperial IPA,American Ales,Ale
+170124,Boomsauce,7.8,40249,1166,3.93,Year-round,3.88,239,American Double / Imperial IPA,American Ales,Ale
+51785,Squatters Hop Rising Double IPA,9.0,28908,1163,3.84,,3.53,269,American Double / Imperial IPA,American Ales,Ale
+79405,Citra Ass Down!,8.2,26850,1148,3.92,Rotating,0.0,211,American Double / Imperial IPA,American Ales,Ale
+119252,Dark Horse Smells Like A Safety Meeting,8.5,1471,1140,3.95,Rotating,0.0,133,American Double / Imperial IPA,American Ales,Ale
+116068,Mettle,8.4,30654,1111,4.4,Rotating,0.0,131,American Double / Imperial IPA,American Ales,Ale
+54745,Knuckle Sandwich,10.0,17271,1100,4.28,Rotating,0.0,264,American Double / Imperial IPA,American Ales,Ale
+147173,Molotov Lite,8.5,24300,1099,3.99,Rotating,0.0,206,American Double / Imperial IPA,American Ales,Ale
+130699,Heavy Mettle,9.3,30654,1098,4.51,Rotating,0.0,136,American Double / Imperial IPA,American Ales,Ale
+99546,War Mullet,8.1,26,1083,4.07,Rotating,0.0,104,American Double / Imperial IPA,American Ales,Ale
+119182,All Green Everything,10.5,33510,1071,4.41,Rotating,0.0,130,American Double / Imperial IPA,American Ales,Ale
+75933,Hoptologist DIPA,9.0,23200,1067,3.96,Year-round,3.86,191,American Double / Imperial IPA,American Ales,Ale
+138418,Unsessionable,10.0,22072,1067,4.37,Fall,0.0,130,American Double / Imperial IPA,American Ales,Ale
+25265,Blue Dot Double India Pale Ale,7.0,173,1063,4.03,Rotating,4.0,501,American Double / Imperial IPA,American Ales,Ale
+152023,Epiphany,8.0,34208,1060,4.45,Rotating,4.32,161,American Double / Imperial IPA,American Ales,Ale
+22172,Apex,8.25,610,1059,4.23,Rotating,4.22,270,American Double / Imperial IPA,American Ales,Ale
+27286,Arcadia HopMouth Double IPA,8.0,35571,1058,3.8,Year-round,4.0,481,American Double / Imperial IPA,American Ales,Ale
+43886,Hop Czar,7.5,43,1056,3.58,Rotating,3.53,390,American Double / Imperial IPA,American Ales,Ale
+133623,Hop Hash,7.8,273,1055,4.03,Year-round,3.95,142,American Double / Imperial IPA,American Ales,Ale
+22484,Hop Centric Double India Pale Ale,9.9,689,1053,3.96,Summer,0.0,479,American Double / Imperial IPA,American Ales,Ale
+62172,Ephraim,10.0,22511,1050,4.57,Rotating,0.0,238,American Double / Imperial IPA,American Ales,Ale
+213281,Bright,7.8,28743,1035,4.4,Rotating,4.32,185,American Double / Imperial IPA,American Ales,Ale
+74548,Third Voyage Double IPA,8.0,35,1014,3.64,Rotating,3.5,337,American Double / Imperial IPA,American Ales,Ale
+58467,Double Daisy Cutter,8.0,18006,1011,4.27,Rotating,4.44,226,American Double / Imperial IPA,American Ales,Ale
+1708,St. Bernardus Abt 12,10.0,259,9734,4.46,,4.48,2831,Quadrupel (Quad),Belgian / French Ales,Ale
+645,Trappistes Rochefort 10,11.3,207,9445,4.5,,4.4,2916,Quadrupel (Quad),Belgian / French Ales,Ale
+3457,Three Philosophers,9.7,42,6538,4.15,Year-round,4.06,2129,Quadrupel (Quad),Belgian / French Ales,Ale
+1545,Trappist Westvleteren 12 (XII),10.2,313,6499,4.6,,4.19,1904,Quadrupel (Quad),Belgian / French Ales,Ale
+39621,The Sixth Glass Quadrupel Ale,10.2,423,2962,4.16,Year-round,4.5,849,Quadrupel (Quad),Belgian / French Ales,Ale
+63249,Stickee Monkee,12.5,2210,2697,4.47,Rotating,0.0,340,Quadrupel (Quad),Belgian / French Ales,Ale
+43670,Bourbon Barrel Quad Barrel-Aged Ale (BBQ),11.8,423,2570,4.26,Rotating,4.5,729,Quadrupel (Quad),Belgian / French Ales,Ale
+34306,Pannepot,10.0,15237,2411,4.33,,0.0,847,Quadrupel (Quad),Belgian / French Ales,Ale
+1402,La Trappe Quadrupel (Koningshoeven / Dominus),10.0,184,2388,4.17,,0.0,965,Quadrupel (Quad),Belgian / French Ales,Ale
+39286,St. Bernardus Christmas Ale,10.0,259,2286,4.23,,4.0,740,Quadrupel (Quad),Belgian / French Ales,Ale
+2014,The Reverend,10.0,30,1923,3.87,Year-round,0.0,854,Quadrupel (Quad),Belgian / French Ales,Ale
+8998,V-Twelve,12.0,345,1378,4.01,Rotating,0.0,634,Quadrupel (Quad),Belgian / French Ales,Ale
+71973,Gulden Draak 9000 Quadruple,10.7,48,1304,4.14,,0.0,282,Quadrupel (Quad),Belgian / French Ales,Ale
+34312,Pannepot Reserva,10.0,15237,1170,4.31,,0.0,395,Quadrupel (Quad),Belgian / French Ales,Ale
+1635,Quad,11.8,392,1170,3.87,Winter,0.0,562,Quadrupel (Quad),Belgian / French Ales,Ale
+34415,Judgment Day,10.5,18149,1144,3.92,Year-round,0.0,432,Quadrupel (Quad),Belgian / French Ales,Ale
+89540,Ovila Belgian-Style Abbey Quad: Ale Brewed With Plums,10.2,140,1139,3.99,Rotating,0.0,232,Quadrupel (Quad),Belgian / French Ales,Ale
+1351,Yuengling Traditional Lager,4.5,182,6595,3.41,Year-round,3.49,1741,American Amber / Red Lager,American Lagers,Lager
+148,Brooklyn Lager,5.2,45,3727,3.72,Year-round,3.51,1259,American Amber / Red Lager,American Lagers,Lager
+909,George Killian's Irish Red,4.9,306,3066,3.04,Year-round,3.29,845,American Amber / Red Lager,American Lagers,Lager
+2318,Blue Point Toasted Lager,5.5,764,1807,3.54,Year-round,3.21,513,American Amber / Red Lager,American Lagers,Lager
+832,Original Honey Brown Extra Rich Lager (Beer Brewed With Honey),4.5,302,1435,3.12,Year-round,3.12,679,American Amber / Red Lager,American Lagers,Lager
+87749,Third Shift Amber Lager,5.3,306,1241,3.0,Year-round,3.2,201,American Amber / Red Lager,American Lagers,Lager
+88582,Budweiser Black Crown,6.0,29,1114,2.73,Year-round,3.07,209,American Amber / Red Lager,American Lagers,Lager
+45086,Sah'tea,9.0,64,1838,3.88,Rotating,0.0,605,Sahti,Finnish Ales,Ale
+1914,1554 Black Lager,5.6,192,4135,3.82,Year-round,0.0,1396,Euro Dark Lager,European Lagers,Lager
+57285,Guinness Black Lager,4.5,209,1977,3.14,,3.08,447,Euro Dark Lager,European Lagers,Lager
+3968,Goose IPA,5.9,1146,5453,3.71,Year-round,3.18,1387,English India Pale Ale (IPA),English Ales,Ale
+311,IPA,5.9,98,4202,3.62,Year-round,4.01,1276,English India Pale Ale (IPA),English Ales,Ale
+1575,Commodore Perry IPA,7.7,73,2886,3.88,Year-round,4.08,892,English India Pale Ale (IPA),English Ales,Ale
+147,Brooklyn East India Pale Ale,6.9,45,2499,3.63,Year-round,3.77,990,English India Pale Ale (IPA),English Ales,Ale
+361,Brutal,6.2,132,2314,3.97,Year-round,4.0,1132,English India Pale Ale (IPA),English Ales,Ale
+573,India Ale,5.0,113,1927,3.68,Year-round,3.6,949,English India Pale Ale (IPA),English Ales,Ale
+41716,Blackheart,8.5,26,1361,4.03,Spring,0.0,383,English India Pale Ale (IPA),English Ales,Ale
+298,Blind Faith,6.2,96,1234,3.54,Spring,3.38,493,English India Pale Ale (IPA),English Ales,Ale
+270,Long Trail India Pale Ale,6.0,94,1216,3.59,Year-round,3.83,418,English India Pale Ale (IPA),English Ales,Ale
+80735,Monkey Fist,6.9,139,1073,3.38,Year-round,0.0,155,English India Pale Ale (IPA),English Ales,Ale
+693,Fuggles IPA,5.8,139,1054,3.24,Year-round,3.29,527,English India Pale Ale (IPA),English Ales,Ale
+100421,Bourbon County Brand Barleywine Ale,14.4,1146,5368,4.52,Winter,0.0,648,English Barleywine,English Ales,Ale
+41121,§ucaba,12.5,2210,5176,4.52,Rotating,0.0,930,English Barleywine,English Ales,Ale
+18199,Insanity - Oak Barrel-Aged,11.1,392,2508,4.15,Rotating,4.03,955,English Barleywine,English Ales,Ale
+1566,Blithering Idiot,11.1,392,2227,3.67,Year-round,2.74,919,English Barleywine,English Ales,Ale
+46230,Mother Of All Storms,14.0,1304,2034,4.45,Winter,4.33,484,English Barleywine,English Ales,Ale
+1445,Old Foghorn,10.0,28,2011,3.92,Year-round,3.7,1077,English Barleywine,English Ales,Ale
+50509,Double Double Barrel Ale,12.0,2210,1979,4.29,Rotating,0.0,340,English Barleywine,English Ales,Ale
+49472,Mirror Mirror,11.0,63,1813,4.25,Rotating,4.32,557,English Barleywine,English Ales,Ale
+705,Harvest Ale (Limited Edition),11.5,178,1546,4.24,Year-round,4.6,874,English Barleywine,English Ales,Ale
+18093,Arctic Devil Barley Wine,13.2,385,1363,4.36,Fall,0.0,389,English Barleywine,English Ales,Ale
+2678,Horn Dog Barley Wine Style Ale,10.2,68,1320,3.85,Rotating,3.78,834,English Barleywine,English Ales,Ale
+1798,Boddingtons Pub Ale,4.7,655,2887,3.19,Year-round,2.25,1149,English Pale Ale,English Ales,Ale
+5653,DBA (Double Barrel Ale),5.0,2210,2800,3.67,Year-round,3.62,791,English Pale Ale,English Ales,Ale
+811,Bass Pale Ale,5.1,293,2710,3.34,Year-round,2.94,1078,English Pale Ale,English Ales,Ale
+222,Fuller's London Pride,4.7,71,2602,3.92,Year-round,4.25,1084,English Pale Ale,English Ales,Ale
+637,Old Speckled Hen,5.2,203,2129,3.45,Year-round,3.51,941,English Pale Ale,English Ales,Ale
+1193,Samuel Adams Boston Ale (Stock Ale),5.4,35,2114,3.62,Year-round,3.63,984,English Pale Ale,English Ales,Ale
+32631,Brooklyn Summer Ale,5.0,45,1849,3.56,Summer,3.5,536,English Pale Ale,English Ales,Ale
+575,Organic Pale Ale,5.0,113,1576,3.87,Year-round,4.1,891,English Pale Ale,English Ales,Ale
+186,Smuttynose Shoals Pale Ale,5.6,141,1491,3.83,Year-round,4.08,673,English Pale Ale,English Ales,Ale
+159,Denver Pale Ale,5.4,158,1378,3.71,Year-round,4.0,597,English Pale Ale,English Ales,Ale
+1374,Summit Extra Pale Ale,5.3,467,1263,3.7,Year-round,0.0,460,English Pale Ale,English Ales,Ale
+1439,Whale's Tale Pale Ale,5.6,261,1259,3.63,Year-round,3.85,384,English Pale Ale,English Ales,Ale
+3824,Monty Python's Holy Grail Ale,4.7,1417,1256,3.32,Year-round,3.65,610,English Pale Ale,English Ales,Ale
+5328,Longboard Island Lager,4.6,579,2823,3.38,Year-round,3.53,720,American Pale Lager,American Lagers,Lager
+71820,Hoponius Union,6.7,26520,2760,4.24,Year-round,4.23,398,American Pale Lager,American Lagers,Lager
+10071,Sapporo Premium Beer,4.9,284,2196,2.86,,0.0,653,American Pale Lager,American Lagers,Lager
+1249,Kirin Ichiban,5.0,292,1867,2.68,,1.73,613,American Pale Lager,American Lagers,Lager
+88429,Samuel Adams Double Agent IPL,5.0,35,1566,3.73,Year-round,0.0,315,American Pale Lager,American Lagers,Lager
+79373,Shift Pale Lager,5.0,192,1380,3.6,Year-round,3.88,246,American Pale Lager,American Lagers,Lager
+90090,California Lager,4.9,28,1225,3.69,Year-round,4.0,248,American Pale Lager,American Lagers,Lager
+23713,Session Lager,5.1,5316,1185,3.64,Year-round,4.03,489,American Pale Lager,American Lagers,Lager
+130301,Guinness Blonde American Lager,5.0,209,1178,3.23,,3.06,213,American Pale Lager,American Lagers,Lager
+6228,Totally Naked,4.25,590,1177,3.7,Rotating,4.38,315,American Pale Lager,American Lagers,Lager
+7313,Michelob (Original Lager),5.0,29,1074,2.66,Year-round,3.0,375,American Pale Lager,American Lagers,Lager
+11757,Breakfast Stout,8.3,1199,16995,4.51,Rotating,4.75,3909,American Double / Imperial Stout,American Ales,Ale
+19960,KBS (Kentucky Breakfast Stout),11.8,1199,13116,4.6,Spring,0.0,3340,American Double / Imperial Stout,American Ales,Ale
+10672,Bourbon County Brand Stout,14.1,1146,12600,4.6,Winter,4.25,3028,American Double / Imperial Stout,American Ales,Ale
+34420,The Abyss,11.4,63,7296,4.47,Winter,4.13,2013,American Double / Imperial Stout,American Ales,Ale
+57747,Bourbon County Brand Coffee Stout,12.9,1146,7275,4.68,Rotating,0.0,1215,American Double / Imperial Stout,American Ales,Ale
+3833,Speedway Stout,12.0,396,6974,4.38,Year-round,0.0,1733,American Double / Imperial Stout,American Ales,Ale
+94350,Bomb!,13.0,30356,6222,4.5,Rotating,0.0,1004,American Double / Imperial Stout,American Ales,Ale
+5428,Dragon's Milk,11.0,335,6061,4.04,Year-round,3.82,1575,American Double / Imperial Stout,American Ales,Ale
+1013,Storm King Stout,9.1,345,5982,4.05,Year-round,3.8,2660,American Double / Imperial Stout,American Ales,Ale
+47658,CBS (Canadian Breakfast Stout),11.7,1199,5474,4.66,Rotating,0.0,1278,American Double / Imperial Stout,American Ales,Ale
+40058,Choklat (Blackwater Series),10.0,3818,5316,4.26,Rotating,0.0,1607,American Double / Imperial Stout,American Ales,Ale
+10325,Péché Mortel,9.5,1141,5223,4.41,Rotating,4.97,1858,American Double / Imperial Stout,American Ales,Ale
+2392,World Wide Stout,18.0,64,4951,4.22,Rotating,4.57,1809,American Double / Imperial Stout,American Ales,Ale
+37265,Black Note Stout,11.2,287,4724,4.54,Rotating,0.0,753,American Double / Imperial Stout,American Ales,Ale
+20445,Cappuccino Stout,9.2,220,4518,3.94,Winter,4.2,1363,American Double / Imperial Stout,American Ales,Ale
+80291,Imperial Biscotti Break,11.5,24300,4386,4.35,Rotating,0.0,666,American Double / Imperial Stout,American Ales,Ale
+47022,Hunahpu's Imperial Stout,11.0,17981,4251,4.58,Spring,4.45,819,American Double / Imperial Stout,American Ales,Ale
+51257,Black Tuesday,19.5,16866,4003,4.54,Fall,0.0,717,American Double / Imperial Stout,American Ales,Ale
+21950,W-n-B Coffee Oatmeal Imperial Stout,9.4,2372,3995,4.29,Winter,4.3,1322,American Double / Imperial Stout,American Ales,Ale
+73618,Big Bad Baptist,11.8,22893,3859,4.37,Rotating,4.33,654,American Double / Imperial Stout,American Ales,Ale
+59151,Miles Davis' Bitches Brew,9.0,64,3782,4.18,Rotating,0.0,936,American Double / Imperial Stout,American Ales,Ale
+42723,Espresso Oak Aged Yeti Imperial Stout,9.5,158,3774,4.27,Spring,0.0,1069,American Double / Imperial Stout,American Ales,Ale
+99558,Warlock,10.0,3818,3118,3.99,Fall,0.0,430,American Double / Imperial Stout,American Ales,Ale
+41626,Double Stout,8.8,2743,3116,4.1,Rotating,4.42,888,American Double / Imperial Stout,American Ales,Ale
+50176,Chocolate Oak Aged Yeti,9.5,158,3106,4.22,Rotating,0.0,912,American Double / Imperial Stout,American Ales,Ale
+46987,Beer Geek Brunch Weasel,10.9,13307,2919,4.32,,0.0,855,American Double / Imperial Stout,American Ales,Ale
+80197,Uncle Jacob's Stout,14.9,30,2868,4.42,Rotating,0.0,454,American Double / Imperial Stout,American Ales,Ale
+78011,Mexican Cake,10.5,24134,2866,4.4,Rotating,0.0,356,American Double / Imperial Stout,American Ales,Ale
+53728,Chocolate Rain,19.6,16866,2751,4.54,Rotating,0.0,350,American Double / Imperial Stout,American Ales,Ale
+76393,Abraxas,10.0,25888,2702,4.47,Fall,4.25,357,American Double / Imperial Stout,American Ales,Ale
+34094,Older Viscosity,12.0,13839,2669,4.35,Rotating,0.0,760,American Double / Imperial Stout,American Ales,Ale
+16062,Brewer's Reserve Bourbon Barrel Stout,9.5,652,2644,4.26,Rotating,0.0,730,American Double / Imperial Stout,American Ales,Ale
+56469,Dark Truth Imperial Stout,9.7,423,2624,3.99,Year-round,4.0,761,American Double / Imperial Stout,American Ales,Ale
+56199,Tweak,16.0,30,2508,4.45,Rotating,0.0,359,American Double / Imperial Stout,American Ales,Ale
+1658,Big Bear Black Stout,8.1,610,2430,4.13,Year-round,4.65,1152,American Double / Imperial Stout,American Ales,Ale
+49286,Mokah,10.0,3818,2331,4.21,Rotating,4.0,746,American Double / Imperial Stout,American Ales,Ale
+102340,Pirate Bomb!,15.0,30356,2231,4.52,Rotating,0.0,269,American Double / Imperial Stout,American Ales,Ale
+31484,Speedway Stout - Bourbon Barrel-Aged,12.0,396,2193,4.52,Rotating,0.0,358,American Double / Imperial Stout,American Ales,Ale
+96528,Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout,13.0,147,2192,4.12,Rotating,4.03,409,American Double / Imperial Stout,American Ales,Ale
+76896,Undead Party Crasher,10.0,22951,2171,4.15,Year-round,0.0,401,American Double / Imperial Stout,American Ales,Ale
+89345,Sunday Morning Stout,12.7,392,2128,4.34,Spring,0.0,435,American Double / Imperial Stout,American Ales,Ale
+81067,Even More Jesus,12.0,24300,2068,4.29,Rotating,0.0,425,American Double / Imperial Stout,American Ales,Ale
+150933,High West-ified Imperial Coffee Stout,12.2,220,2001,4.38,Rotating,4.06,362,American Double / Imperial Stout,American Ales,Ale
+31613,Old Viscosity,10.0,13839,1987,4.15,Rotating,4.17,888,American Double / Imperial Stout,American Ales,Ale
+55063,Imperial Eclipse Stout - Elijah Craig (12 Year),11.9,14936,1973,4.46,Fall,0.0,314,American Double / Imperial Stout,American Ales,Ale
+115939,Prairie Artisan Ales / Evil Twin - Bible Belt,13.0,30356,1972,4.32,Rotating,0.0,247,American Double / Imperial Stout,American Ales,Ale
+78795,Chocolate Sombrero,9.0,22951,1912,3.9,Year-round,0.0,361,American Double / Imperial Stout,American Ales,Ale
+46188,Sea Monster Imperial Stout,10.0,199,1869,4.02,Rotating,0.0,516,American Double / Imperial Stout,American Ales,Ale
+75218,Speedway Stout - Vietnamese Coffee,12.0,396,1862,4.5,Rotating,0.0,172,American Double / Imperial Stout,American Ales,Ale
+37197,Serpent's Stout,11.0,18149,1826,4.23,Winter,4.25,593,American Double / Imperial Stout,American Ales,Ale
+64226,The Event Horizon,8.5,7753,1797,4.36,Fall,4.2,309,American Double / Imperial Stout,American Ales,Ale
+74295,Grey Monday,20.0,16866,1796,4.52,Summer,0.0,154,American Double / Imperial Stout,American Ales,Ale
+60694,Double Chocolate Stout,9.0,132,1774,4.22,Summer,0.0,396,American Double / Imperial Stout,American Ales,Ale
+137955,Christmas Bomb!,13.0,30356,1754,4.12,Winter,3.62,307,American Double / Imperial Stout,American Ales,Ale
+113523,Sump Coffee Stout,10.5,25888,1647,4.43,Rotating,0.0,204,American Double / Imperial Stout,American Ales,Ale
+104699,Imperial Biscotti Break - Bourbon Barrel-Aged,11.5,24300,1635,4.51,Rotating,0.0,142,American Double / Imperial Stout,American Ales,Ale
+149331,Prairie Apple Brandy Noir,12.0,30356,1583,4.48,Rotating,0.0,216,American Double / Imperial Stout,American Ales,Ale
+67156,Big John,11.5,1146,1571,4.09,Rotating,0.0,453,American Double / Imperial Stout,American Ales,Ale
+110635,Hunahpu's Imperial Stout - Double Barrel Aged,11.0,17981,1557,4.73,Rotating,0.0,154,American Double / Imperial Stout,American Ales,Ale
+40775,Peruvian Morning,8.5,652,1506,4.15,Rotating,0.0,478,American Double / Imperial Stout,American Ales,Ale
+87246,Barrel-Aged Abraxas,11.0,25888,1405,4.74,Rotating,0.0,140,American Double / Imperial Stout,American Ales,Ale
+109989,Mocha Wednesday,19.9,16866,1399,4.5,Rotating,0.0,133,American Double / Imperial Stout,American Ales,Ale
+118553,I Love You With My Stout,12.0,24300,1386,4.16,Year-round,0.0,226,American Double / Imperial Stout,American Ales,Ale
+53256,Black Xantus,11.0,17963,1373,4.18,Rotating,0.0,439,American Double / Imperial Stout,American Ales,Ale
+21100,Oat (Imperial Oatmeal Stout),11.0,3818,1369,4.1,Rotating,0.0,680,American Double / Imperial Stout,American Ales,Ale
+76421,Mornin' Delight,12.0,23222,1352,4.7,Rotating,0.0,230,American Double / Imperial Stout,American Ales,Ale
+57110,D.O.R.I.S. The Destroyer,10.5,14879,1330,4.22,Rotating,0.0,448,American Double / Imperial Stout,American Ales,Ale
+45541,Imperial Stout,11.0,423,1330,4.18,Rotating,4.24,386,American Double / Imperial Stout,American Ales,Ale
+95746,Oatmeal Yeti,9.5,158,1306,4.18,Summer,0.0,214,American Double / Imperial Stout,American Ales,Ale
+78660,Assassin,12.0,23222,1270,4.65,Rotating,0.0,129,American Double / Imperial Stout,American Ales,Ale
+56274,TINY,11.8,392,1209,3.96,Year-round,0.0,397,American Double / Imperial Stout,American Ales,Ale
+47026,Buried Hatchet Stout,8.25,16759,1204,3.98,Year-round,0.0,474,American Double / Imperial Stout,American Ales,Ale
+27339,Berserker Imperial Stout,12.7,385,1198,4.33,Fall,0.0,301,American Double / Imperial Stout,American Ales,Ale
+139521,Barrel Aged Bomb!,11.2,30356,1170,4.49,Rotating,0.0,189,American Double / Imperial Stout,American Ales,Ale
+87418,Kentucky Bourbon Barrel Stout,8.0,430,1150,3.57,Year-round,0.0,204,American Double / Imperial Stout,American Ales,Ale
+128659,The Muddy Imperial Stout,9.0,1146,1143,3.74,Rotating,0.0,154,American Double / Imperial Stout,American Ales,Ale
+58811,Crooked Line: Labyrinth Black Ale,13.2,1416,1141,4.23,Year-round,0.0,326,American Double / Imperial Stout,American Ales,Ale
+221289,Birthday Bomb!,13.0,30356,1138,4.37,Rotating,0.0,227,American Double / Imperial Stout,American Ales,Ale
+19488,Happy Ending Imperial Stout,9.0,273,1129,3.92,Rotating,4.2,426,American Double / Imperial Stout,American Ales,Ale
+76008,Box Set Track #10 - Bat Out Of Hell,13.5,18149,1078,4.4,Rotating,0.0,156,American Double / Imperial Stout,American Ales,Ale
+172669,Fundamental Observation,14.3,33824,1061,4.71,Rotating,0.0,186,American Double / Imperial Stout,American Ales,Ale
+98020,Caffè Americano,11.0,17981,1056,4.48,Rotating,0.0,130,American Double / Imperial Stout,American Ales,Ale
+68299,Yin,10.0,24300,1055,3.96,Rotating,0.0,229,American Double / Imperial Stout,American Ales,Ale
+75009,Lindley Park,10.0,7753,1045,4.28,Fall,0.0,194,American Double / Imperial Stout,American Ales,Ale
+98050,Beer Geek Vanilla Shake,13.0,13307,1041,4.33,,0.0,183,American Double / Imperial Stout,American Ales,Ale
+136936,Good Morning,8.4,28743,1037,4.78,Rotating,4.45,208,American Double / Imperial Stout,American Ales,Ale
+36164,Imperial Java Stout,8.0,1683,1032,4.04,Winter,0.0,241,American Double / Imperial Stout,American Ales,Ale
+28309,"Madrugada Obscura, Dark Dawn Stout",8.1,9897,1025,3.85,Winter,0.0,384,American Double / Imperial Stout,American Ales,Ale
+2812,Satin Solitude Imperial Stout,7.5,652,1021,3.85,Year-round,0.0,420,American Double / Imperial Stout,American Ales,Ale
+37836,Hitachino Nest Espresso Stout,7.0,697,1008,3.94,,0.0,424,American Double / Imperial Stout,American Ales,Ale
+40671,New Holland Night Tripper,10.8,335,1007,4.07,Spring,0.0,387,American Double / Imperial Stout,American Ales,Ale
+1117,Kalamazoo Stout,6.0,287,4429,3.98,Year-round,3.67,1603,American Stout,American Ales,Ale
+1118,Chocolate Stout,5.8,132,4235,4.15,Year-round,4.49,1920,American Stout,American Ales,Ale
+197,Obsidian Stout,6.4,63,3958,4.2,Year-round,4.7,1167,American Stout,American Ales,Ale
+2403,Double Cream Stout,6.1,287,3916,3.95,Fall,3.66,1467,American Stout,American Ales,Ale
+283,Sierra Nevada Stout,5.8,140,3424,4.07,Year-round,4.58,1449,American Stout,American Ales,Ale
+1153,Chicory Stout,5.2,64,3380,3.73,Fall,3.43,1377,American Stout,American Ales,Ale
+2010,Java Stout,7.5,287,3262,3.94,Winter,3.77,1152,American Stout,American Ales,Ale
+2511,Cherry Stout,7.0,287,2603,3.54,Winter,0.0,1039,American Stout,American Ales,Ale
+56545,Mean Old Tom,6.5,20681,2437,3.99,Rotating,0.0,474,American Stout,American Ales,Ale
+6227,Dark Horse Tres Blueberry Stout,7.5,1471,1763,3.97,Winter,3.83,660,American Stout,American Ales,Ale
+10330,Aphrodisiaque,6.5,1141,1676,4.2,Rotating,0.0,637,American Stout,American Ales,Ale
+86545,Wild Turkey Bourbon Barrel Stout,6.9,193,1630,3.79,Year-round,0.0,267,American Stout,American Ales,Ale
+1192,Dominion Oak Barrel Stout,6.0,402,1542,3.94,Year-round,4.47,703,American Stout,American Ales,Ale
+1830,Out Of Bounds Stout,6.3,30,1350,3.77,Year-round,3.53,601,American Stout,American Ales,Ale
+135684,Coffee Stout,6.2,140,1255,4.08,Rotating,0.0,235,American Stout,American Ales,Ale
+6373,Highland Black Mocha Stout,5.0,811,1088,3.86,Year-round,0.0,458,American Stout,American Ales,Ale
+2870,Fuel Cafe (Coffee Flavored Stout),6.4,741,1049,3.43,Year-round,0.0,448,American Stout,American Ales,Ale
+2810,Coffee Stout,5.75,590,1029,3.89,Winter,4.36,412,American Stout,American Ales,Ale
+7348,Porter,6.5,1199,7546,4.25,Year-round,4.23,1684,American Porter,American Ales,Ale
+48505,Victory At Sea Imperial Porter with Coffee & Vanilla,10.0,199,7022,4.39,Rotating,0.0,1467,American Porter,American Ales,Ale
+226,Edmund Fitzgerald Porter,6.0,73,6572,4.24,Year-round,4.29,2050,American Porter,American Ales,Ale
+198,Black Butte Porter,5.2,63,6274,4.18,Year-round,4.67,1600,American Porter,American Ales,Ale
+27800,Vanilla Porter,5.4,2137,4284,3.66,Year-round,3.77,1112,American Porter,American Ales,Ale
+61,Anchor Porter,5.6,28,3734,4.09,Year-round,4.44,1559,American Porter,American Ales,Ale
+279,Porter,5.6,140,3680,3.89,Year-round,3.94,1454,American Porter,American Ales,Ale
+1287,Porter,5.6,287,2996,3.86,Year-round,3.86,1080,American Porter,American Ales,Ale
+353,Mocha Porter,5.6,132,2918,3.86,Year-round,4.12,1371,American Porter,American Ales,Ale
+622,Robust Porter,6.2,141,2760,4.13,Year-round,4.37,1095,American Porter,American Ales,Ale
+61062,Everett Porter,7.5,22511,2733,4.5,Rotating,0.0,406,American Porter,American Ales,Ale
+88269,Sweet Baby Jesus,6.5,1924,2640,3.81,Rotating,3.0,434,American Porter,American Ales,Ale
+20564,Samuel Adams Holiday Porter,5.8,35,2466,3.72,Winter,3.95,1186,American Porter,American Ales,Ale
+37795,Coconut Hiwa Porter,6.0,16057,2357,3.95,Year-round,3.7,930,American Porter,American Ales,Ale
+7438,Alpha Klaus Christmas (Xmas) Porter,6.0,26,2268,4.12,Winter,0.0,767,American Porter,American Ales,Ale
+1769,Alaskan Smoked Porter,6.5,429,2076,4.15,Winter,4.11,993,American Porter,American Ales,Ale
+62761,Maple Bacon Coffee Porter,6.4,31805,2032,4.47,Rotating,4.27,297,American Porter,American Ales,Ale
+75446,Last Snow,6.4,31805,2024,4.47,Rotating,0.0,277,American Porter,American Ales,Ale
+33183,Pipeline Porter,5.4,579,1936,3.8,Rotating,3.97,747,American Porter,American Ales,Ale
+101458,Shake Chocolate Porter,5.9,130,1900,4.01,Year-round,0.0,270,American Porter,American Ales,Ale
+86776,Leinenkugel's Snowdrift Vanilla Porter,6.0,710,1841,3.42,Winter,0.0,267,American Porter,American Ales,Ale
+33336,Atwater Vanilla Java Porter,5.0,15280,1815,3.47,Year-round,0.0,548,American Porter,American Ales,Ale
+90473,Imperial Doughnut Break - Glazed,11.5,24300,1631,4.19,Rotating,0.0,217,American Porter,American Ales,Ale
+87109,Terrapin Liquid Bliss,6.1,2372,1542,3.82,Rotating,3.18,234,American Porter,American Ales,Ale
+85822,King Titus,7.5,20681,1457,4.14,Rotating,0.0,275,American Porter,American Ales,Ale
+6088,Highland Oatmeal Porter,5.8,811,1374,3.87,Year-round,4.08,566,American Porter,American Ales,Ale
+84140,Lil' B,11.5,24300,1298,4.17,Rotating,0.0,230,American Porter,American Ales,Ale
+172420,No Rules,15.0,29952,1297,4.49,Rotating,0.0,272,American Porter,American Ales,Ale
+738,Odell Cutthroat Porter,5.1,267,1260,4.07,Year-round,4.4,426,American Porter,American Ales,Ale
+75502,Birth Of Tragedy,9.0,22511,1243,4.46,Winter,0.0,191,American Porter,American Ales,Ale
+12104,Dead Reckoning Porter,5.8,694,1218,3.81,Rotating,0.0,536,American Porter,American Ales,Ale
+62972,Twilight Of The Idols,7.5,22511,1117,4.33,Winter,0.0,193,American Porter,American Ales,Ale
+85,Coffeehouse Porter,6.2,33,1084,4.07,Year-round,4.02,487,American Porter,American Ales,Ale
+921,Yuengling Dark Brewed Porter,4.7,182,1058,3.38,Year-round,3.4,406,American Porter,American Ales,Ale
+132105,Bourbon Barrel Black Maple,11.0,1432,1047,4.47,Rotating,4.25,126,American Porter,American Ales,Ale
+77563,Morning Wood,12.0,31805,1044,4.65,Rotating,0.0,155,American Porter,American Ales,Ale
+5703,Black Marlin,6.0,199,1040,3.97,Year-round,4.3,341,American Porter,American Ales,Ale
+5722,New World Porter,6.7,30,1031,3.84,Year-round,0.0,499,American Porter,American Ales,Ale
+10433,Porter,5.5,3818,1010,3.68,Year-round,3.73,443,American Porter,American Ales,Ale
+29602,Smithwick's Imported Premium Irish Ale,4.5,209,2964,3.46,,0.0,843,Irish Red Ale,Irish Ales,Ale
+38365,Samuel Adams Irish Red,5.8,35,2556,3.46,Year-round,3.0,1015,Irish Red Ale,Irish Ales,Ale
+5096,Conway's Irish Ale,6.3,73,1558,3.79,Winter,3.5,512,Irish Red Ale,Irish Ales,Ale
+754,Guinness Draught,4.2,209,7899,3.56,,3.01,2306,Irish Dry Stout,Irish Ales,Ale
+650,Guinness Extra Stout (Original),5.6,209,4352,3.73,,3.93,1411,Irish Dry Stout,Irish Ales,Ale
+703,Murphy's Irish Stout,4.0,240,2551,3.75,,4.19,1032,Irish Dry Stout,Irish Ales,Ale
+408,Old #38 Stout,5.4,112,1271,3.83,Year-round,4.0,666,Irish Dry Stout,Irish Ales,Ale
+3338,Cadillac Mountain Stout,6.7,347,1240,4.18,Year-round,4.43,692,Irish Dry Stout,Irish Ales,Ale
+41702,Theobroma,9.0,64,2215,3.85,Rotating,4.5,779,Chile Beer,American Ales,Ale
+354,Chipotle Ale,5.5,132,1407,3.56,Spring,4.3,701,Chile Beer,American Ales,Ale
+77601,Cocoa Molé,9.0,192,1019,3.98,Rotating,4.05,277,Chile Beer,American Ales,Ale
+60078,My Antonia,7.5,64,1776,3.99,Rotating,0.0,553,American Double / Imperial Pilsner,American Lagers,Lager
+99033,Mass Rising,8.0,26520,1532,4.24,Year-round,4.5,205,American Double / Imperial Pilsner,American Lagers,Lager
+75414,Kiwi Rising - Double IPL,8.5,26520,1517,4.31,Rotating,0.0,206,American Double / Imperial Pilsner,American Lagers,Lager
+43738,Krampus,9.0,3818,1263,3.89,Winter,4.05,456,American Double / Imperial Pilsner,American Lagers,Lager
+16471,Small Craft Warning,7.0,898,1102,3.74,Rotating,0.0,592,American Double / Imperial Pilsner,American Lagers,Lager
+51557,Humulus Lager,7.2,16866,1016,4.28,Rotating,0.0,159,American Double / Imperial Pilsner,American Lagers,Lager
+18698,Kentucky Bourbon Barrel Ale,8.19,430,3051,3.7,Year-round,3.77,671,English Strong Ale,English Ales,Ale
+199,Immort Ale,11.0,64,2736,3.84,Rotating,3.97,1188,English Strong Ale,English Ales,Ale
+560,Fuller's 1845,6.3,71,1132,4.11,Year-round,4.15,706,English Strong Ale,English Ales,Ale
+2779,Asahi Super Dry,5.0,716,1573,2.73,,2.28,542,Japanese Rice Lager,Japanese Lagers,Lager
+22227,Supplication,7.0,863,6457,4.56,Rotating,4.62,1483,American Wild Ale,American Ales,Ale
+45653,Consecration,10.0,863,5403,4.49,Rotating,0.0,1182,American Wild Ale,American Ales,Ale
+9474,Temptation,7.5,863,3741,4.46,Rotating,4.46,1036,American Wild Ale,American Ales,Ale
+20518,Sanctification,6.75,863,2766,4.33,Rotating,0.0,634,American Wild Ale,American Ales,Ale
+27992,Beatification,6.0,863,2713,4.55,Rotating,0.0,569,American Wild Ale,American Ales,Ale
+51741,Sour In The Rye,7.7,40927,2496,4.31,Rotating,0.0,307,American Wild Ale,American Ales,Ale
+70286,Tart Of Darkness,7.2,40927,2468,4.23,Fall,0.0,378,American Wild Ale,American Ales,Ale
+26541,Le Terroir,7.5,192,2420,4.29,Rotating,3.71,504,American Wild Ale,American Ales,Ale
+53747,Lolita,9.0,1146,2173,4.12,Rotating,0.0,364,American Wild Ale,American Ales,Ale
+19314,La Roja,7.2,9897,1999,4.03,Year-round,0.0,791,American Wild Ale,American Ales,Ale
+94634,Atrial Rubicite,5.8,24018,1822,4.59,Rotating,0.0,182,American Wild Ale,American Ales,Ale
+56266,Sang Noir,9.3,2391,1774,4.45,Rotating,0.0,236,American Wild Ale,American Ales,Ale
+42203,Apricot Ale,8.5,2391,1768,4.34,Rotating,0.0,303,American Wild Ale,American Ales,Ale
+45368,Juliet,8.0,1146,1607,4.25,Rotating,0.0,362,American Wild Ale,American Ales,Ale
+34315,Cuvee De Tomme,11.0,18149,1233,4.21,Rotating,0.0,417,American Wild Ale,American Ales,Ale
+63724,Oude Tart - Cherries,8.8,40927,1188,4.42,Rotating,0.0,97,American Wild Ale,American Ales,Ale
+55992,Framboise De Amorosa,7.0,18149,1134,4.34,Rotating,0.0,262,American Wild Ale,American Ales,Ale
+97036,Dogpatch Sour,7.5,24940,1127,4.22,Rotating,0.0,127,American Wild Ale,American Ales,Ale
+84772,West Ashley,7.3,28019,1055,4.57,Rotating,0.0,96,American Wild Ale,American Ales,Ale
+62403,Framboise For A Cure,6.5,863,1055,4.43,Fall,0.0,162,American Wild Ale,American Ales,Ale
+90250,Pentagram,6.66,13014,1046,4.15,Winter,0.0,109,American Wild Ale,American Ales,Ale
+43217,Riserva,11.4,392,1041,4.1,Rotating,4.5,339,American Wild Ale,American Ales,Ale
+66743,Bottleworks XII,8.0,16866,1037,4.32,Rotating,0.0,133,American Wild Ale,American Ales,Ale
+38149,Cable Car,7.0,18149,1030,4.58,Rotating,0.0,234,American Wild Ale,American Ales,Ale
+79533,Sour In The Rye - Kumquats,7.2,40927,1008,4.4,Rotating,0.0,70,American Wild Ale,American Ales,Ale
+52855,Raging Bitch Belgian-Style IPA,8.3,68,4060,3.86,Year-round,3.16,1177,Belgian IPA,Belgian / French Ales,Ale
+57912,A Little Sumpin' Wild,8.8,220,3546,4.1,Summer,4.07,940,Belgian IPA,Belgian / French Ales,Ale
+43905,Cali-Belgique IPA,6.9,147,3458,3.96,Year-round,0.0,1113,Belgian IPA,Belgian / French Ales,Ale
+27804,Houblon Chouffe Dobbelen IPA Tripel,9.0,321,2768,4.2,,4.38,1210,Belgian IPA,Belgian / French Ales,Ale
+36727,Green Flash Le Freak,9.2,2743,2429,4.02,Year-round,0.0,754,Belgian IPA,Belgian / French Ales,Ale
+68942,Chainbreaker White IPA,5.5,63,2147,3.67,Year-round,3.73,353,Belgian IPA,Belgian / French Ales,Ale
+99699,Accumulation,6.2,192,2090,3.72,Fall,3.77,327,Belgian IPA,Belgian / French Ales,Ale
+113857,Sierra Nevada Snow Wit White IPA,5.7,140,1199,3.68,Rotating,0.0,202,Belgian IPA,Belgian / French Ales,Ale
+72465,Bitter Monk,9.0,24903,1036,4.32,Rotating,0.0,275,Belgian IPA,Belgian / French Ales,Ale
+38470,Sublimely Self-Righteous Black IPA,8.7,147,5935,4.22,Rotating,4.2,1916,American Black Ale,American Ales,Ale
+79286,Wookey Jack,8.3,2210,4623,4.25,Rotating,0.0,702,American Black Ale,American Ales,Ale
+112938,NightTime,8.2,220,2645,4.1,Rotating,0.0,374,American Black Ale,American Ales,Ale
+127483,Dark Penance,8.9,1199,2546,4.04,Fall,0.0,337,American Black Ale,American Ales,Ale
+46070,Back In Black,6.8,735,2445,3.7,Rotating,3.1,730,American Black Ale,American Ales,Ale
+67046,Dubhe Imperial Black IPA,9.2,1416,2178,4.12,Year-round,4.2,439,American Black Ale,American Ales,Ale
+46385,Yakima Glory,8.7,345,1661,3.96,Winter,4.2,773,American Black Ale,American Ales,Ale
+74123,Snow Day Winter Ale,6.2,192,1503,3.66,Winter,3.82,384,American Black Ale,American Ales,Ale
+113859,Sierra Nevada Blindfold Black IPA,6.8,140,1420,3.82,Rotating,0.0,230,American Black Ale,American Ales,Ale
+58695,Hop In The Dark Cascadian Dark Ale,6.9,63,1346,4.1,Rotating,4.2,506,American Black Ale,American Ales,Ale
+3877,Dark Horse Reserve Special Black Ale,7.5,1471,1262,3.93,Year-round,3.83,599,American Black Ale,American Ales,Ale
+72490,Black Top,6.9,590,1086,4.09,Year-round,4.0,208,American Black Ale,American Ales,Ale
+190513,Project PAM,10.8,1199,1054,4.2,Rotating,0.0,235,American Black Ale,American Ales,Ale

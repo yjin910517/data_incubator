@@ -11121,18 +11121,18 @@
 11117,Okay,3.06,1,52255,Linden Brewery Oy,https://www.beeradvocate.com/beer/profile/52255/, Rauma, Finland,1,0
 11118,Good,3.69,9,52259,Franken Bräu Riedbach Krauß,https://www.beeradvocate.com/beer/profile/52259/, Schrozberg, Germany,2,2
 11119,Very Good,3.93,2,52261,Fierce & Noble,https://www.beeradvocate.com/beer/profile/52261/, Bristol, GB2,2,2
-11120,NA,0,1,52263,Vicious Fishes Brewery,https://www.beeradvocate.com/beer/profile/52263/, Angier, NC,0,0
-11121,NA,0,8,52265,Blackrock Brewers,https://www.beeradvocate.com/beer/profile/52265/, Tucson, AZ,0,0
+11120,,0.0,1,52263,Vicious Fishes Brewery,https://www.beeradvocate.com/beer/profile/52263/, Angier, NC,0,0
+11121,,0.0,8,52265,Blackrock Brewers,https://www.beeradvocate.com/beer/profile/52265/, Tucson, AZ,0,0
 11122,Good,3.62,2,52267,Strieper Craft Beer Company,https://www.beeradvocate.com/beer/profile/52267/, Valkenswaard, Netherlands,2,0
 11123,Exceptional,4.05,1,52271,Bambergeri,https://www.beeradvocate.com/beer/profile/52271/, Tbilisi, Georgia,1,1
 11124,Very Good,3.77,1,52273,Allegory Brewing,https://www.beeradvocate.com/beer/profile/52273/, McMinnville, OR,1,0
 11125,Very Good,3.75,1,52275,Ginger's Revenge,https://www.beeradvocate.com/beer/profile/52275/, Asheville, NC,1,0
 11126,Very Good,3.75,1,52276,Jabru Bevco Ltd,https://www.beeradvocate.com/beer/profile/52276/, Guildford, GB2,2,2
 11127,Good,3.66,5,52277,Brighton Bier,https://www.beeradvocate.com/beer/profile/52277/, Brighton, GB2,10,4
-11128,NA,0,4,52285,Milford Point Brewing,https://www.beeradvocate.com/beer/profile/52285/, Milford, CT,0,0
+11128,,0.0,4,52285,Milford Point Brewing,https://www.beeradvocate.com/beer/profile/52285/, Milford, CT,0,0
 11129,Very Good,3.78,5,52287,Shy Bear Brewing,https://www.beeradvocate.com/beer/profile/52287/, Lewistown, PA,8,5
-11130,NA,0,17,52289,Hop Life Brewing Company,https://www.beeradvocate.com/beer/profile/52289/, Port Saint Lucie, FL,0,0
-11131,NA,0,7,19523,BJ's Restaurant and Brewhouse,https://www.beeradvocate.com/beer/profile/19523/, Kissimmee, FL,0,0
+11130,,0.0,17,52289,Hop Life Brewing Company,https://www.beeradvocate.com/beer/profile/52289/, Port Saint Lucie, FL,0,0
+11131,,0.0,7,19523,BJ's Restaurant and Brewhouse,https://www.beeradvocate.com/beer/profile/19523/, Kissimmee, FL,0,0
 11132,Okay,3.2,4,19528,The Black Turtle Pub I,https://www.beeradvocate.com/beer/profile/19528/, Belgrade, Serbia,15,5
 11133,Good,3.56,10,19531,George Wright Brewing Company,https://www.beeradvocate.com/beer/profile/19531/, Rainford Merseyside, GB2,9,6
 11134,Good,3.68,5,19532,Goddards Brewery,https://www.beeradvocate.com/beer/profile/19532/, Isle Of Wight, GB2,15,10
@@ -11142,9 +11142,9 @@
 11138,Okay,3.31,7,19537,Cerveseria Birrart,https://www.beeradvocate.com/beer/profile/19537/, Sarrià de Dalt, Spain,9,6
 11139,Outstanding,4.49,5,19538,Indian Ocean Brewing Company,https://www.beeradvocate.com/beer/profile/19538/, Mindarie, Australia,3,2
 11140,Exceptional,4.05,1,52306,5168 Brewing,https://www.beeradvocate.com/beer/profile/52306/, Lincoln, NE,2,1
-11141,Okay,3.36,1,52307,Cliff Top Brewing Company,https://www.beeradvocate.com/beer/profile/52307/, Belgium,NA,1,0
+11141,Okay,3.36,1,52307,Cliff Top Brewing Company,https://www.beeradvocate.com/beer/profile/52307/, Belgium,,1,0
 11142,Very Good,3.92,232,19544,Fat Head's Brewery & Saloon,https://www.beeradvocate.com/beer/profile/19544/, North Olmsted, OH,"14,412","2,339"
-11143,NA,0,16,52314,People's Pint Brewing Collective,https://www.beeradvocate.com/beer/profile/52314/, Toronto, ON,0,0
+11143,,0.0,16,52314,People's Pint Brewing Collective,https://www.beeradvocate.com/beer/profile/52314/, Toronto, ON,0,0
 11144,Exceptional,4.1,3,52320,Two Tides Brewing Company,https://www.beeradvocate.com/beer/profile/52320/, Savannah, GA,6,0
 11145,Okay,3.14,5,19553,The Lab Gastropub,https://www.beeradvocate.com/beer/profile/19553/, Los Angeles, CA,6,3
 11146,Good,3.56,6,19555,Kooinda Boutique Brewery,https://www.beeradvocate.com/beer/profile/19555/, Rosanna, Australia,67,37
@@ -11156,11 +11156,11 @@
 11152,Poor,2.25,2,19571,TOMP Beer & Spirits,https://www.beeradvocate.com/beer/profile/19571/, Örebro, Sweden,10,4
 11153,Good,3.56,24,19573,AB Mohawk Brewing Company,https://www.beeradvocate.com/beer/profile/19573/, Täby, Sweden,169,59
 11154,Okay,3.25,5,52342,Birrificio Abusivo,https://www.beeradvocate.com/beer/profile/52342/, San Marino, San Marino,5,2
-11155,NA,0,14,52343,Dissent Craft Brewing,https://www.beeradvocate.com/beer/profile/52343/, Saint Petersburg, FL,0,0
+11155,,0.0,14,52343,Dissent Craft Brewing,https://www.beeradvocate.com/beer/profile/52343/, Saint Petersburg, FL,0,0
 11156,Very Good,3.85,1,52344,FIRST The Craft Beer Co.,https://www.beeradvocate.com/beer/profile/52344/, Budapest, Hungary,1,1
 11157,Exceptional,4.22,13,52345,Blaker Brewing,https://www.beeradvocate.com/beer/profile/52345/, Ceres, CA,3,1
-11158,NA,0,1,52341,Bram's Brewery,https://www.beeradvocate.com/beer/profile/52341/, Roeselare, Belgium,0,0
-11159,NA,0,2,52346,Nirvana Brewery,https://www.beeradvocate.com/beer/profile/52346/, London, GB2,0,0
+11158,,0.0,1,52341,Bram's Brewery,https://www.beeradvocate.com/beer/profile/52341/, Roeselare, Belgium,0,0
+11159,,0.0,2,52346,Nirvana Brewery,https://www.beeradvocate.com/beer/profile/52346/, London, GB2,0,0
 11160,Okay,3.42,14,19580,Riverport Brewing Company,https://www.beeradvocate.com/beer/profile/19580/, Clarkston, WA,50,14
 11161,Poor,2.38,3,19582,Krash Brewery,https://www.beeradvocate.com/beer/profile/19582/, Riverside, CA,10,9
 11162,Okay,3.4,4,52351,Bombay Brau,https://www.beeradvocate.com/beer/profile/52351/, Busan, Korea (South),4,2
@@ -11173,9 +11173,9 @@
 ","<span class=""ba-ratings"">3</span>"
 11169,Very Good,3.76,6,19597,Les Fous Micro Brasserie,https://www.beeradvocate.com/beer/profile/19597/, Carnoët, France,14,13
 11170,Exceptional,4.17,17,52367,Hofbräuhaus St. Louis-Belleville,https://www.beeradvocate.com/beer/profile/52367/, Belleville, IL,2,0
-11171,Okay,3,5,19601,Brasserie De Monaco,https://www.beeradvocate.com/beer/profile/19601/, Monaco, Monaco,22,12
+11171,Okay,3.0,5,19601,Brasserie De Monaco,https://www.beeradvocate.com/beer/profile/19601/, Monaco, Monaco,22,12
 11172,Good,3.59,14,19602,Snowy Mountain Brewery,https://www.beeradvocate.com/beer/profile/19602/, Saratoga, WY,15,5
-11173,NA,0,8,52370,Stitch House Brewery,https://www.beeradvocate.com/beer/profile/52370/, Wilmington, DE,0,0
+11173,,0.0,8,52370,Stitch House Brewery,https://www.beeradvocate.com/beer/profile/52370/, Wilmington, DE,0,0
 11174,Okay,3.38,4,19604,Brasserie Mare Nostrum,https://www.beeradvocate.com/beer/profile/19604/, Castillon, France,8,7
 11175,Poor,2.76,4,19603,South Pacific Brewery LTD,https://www.beeradvocate.com/beer/profile/19603/, Hohola NCD, Papua New Guinea,9,3
 11176,Good,3.72,33,19606,Ca l'Arenys / Cervesa Guineu,https://www.beeradvocate.com/beer/profile/19606/, Valls De Torrella, Spain,167,68
@@ -11187,43 +11187,43 @@
 11182,Very Good,3.78,8,19612,Brouwerij 't Brouwkot,https://www.beeradvocate.com/beer/profile/19612/, Gullegem, Belgium,62,35
 11183,Very Good,3.84,3,52389,Magic City Brewing Company,https://www.beeradvocate.com/beer/profile/52389/, Barberton, OH,1,1
 11184,Very Good,3.88,8,19625,Paradise Brewing Supplies Brewery & Taproom,https://www.beeradvocate.com/beer/profile/19625/, Cincinnati, OH,9,4
-11185,NA,0,5,52394,Brick & Mortar Brewing Company,https://www.beeradvocate.com/beer/profile/52394/, Suffolk, VA,0,0
-11186,NA,0,4,52395,Ober Brewing,https://www.beeradvocate.com/beer/profile/52395/, Salem, VA,0,0
+11185,,0.0,5,52394,Brick & Mortar Brewing Company,https://www.beeradvocate.com/beer/profile/52394/, Suffolk, VA,0,0
+11186,,0.0,4,52395,Ober Brewing,https://www.beeradvocate.com/beer/profile/52395/, Salem, VA,0,0
 11187,Good,3.68,6,52396,Broken Window Brewing,https://www.beeradvocate.com/beer/profile/52396/, Winchester, VA,4,0
 11188,Good,3.7,4,52397,True Respite Brewing Company,https://www.beeradvocate.com/beer/profile/52397/, Rockville, MD,4,0
-11189,NA,0,7,52393,Canon & Draw Brewing Company,https://www.beeradvocate.com/beer/profile/52393/, Richmond, VA,0,0
+11189,,0.0,7,52393,Canon & Draw Brewing Company,https://www.beeradvocate.com/beer/profile/52393/, Richmond, VA,0,0
 11190,Poor,2.75,1,52398,Cervecería H. Berner,https://www.beeradvocate.com/beer/profile/52398/, Curicó, Chile,1,1
 11191,Okay,3.19,1,52400,Cervecería Quebrada,https://www.beeradvocate.com/beer/profile/52400/, Curacaví, Chile,1,1
 11192,Good,3.68,14,52401,Will County Brewing Company,https://www.beeradvocate.com/beer/profile/52401/, Shorewood, IL,5,0
 11193,Good,3.55,21,19634,Rocky Mountain Brewing,https://www.beeradvocate.com/beer/profile/19634/, Colorado Springs, CO,103,42
-11194,NA,0,6,52402,Compass Brewing,https://www.beeradvocate.com/beer/profile/52402/, Timmins, ON,0,0
+11194,,0.0,6,52402,Compass Brewing,https://www.beeradvocate.com/beer/profile/52402/, Timmins, ON,0,0
 11195,Okay,3.27,1,52399,Cervecería Pudú,https://www.beeradvocate.com/beer/profile/52399/, Santiago, Chile,1,1
 11196,Exceptional,4.02,1,52409,Heaney Farmhouse Brewing,https://www.beeradvocate.com/beer/profile/52409/, Belfast, GB5,1,1
-11197,NA,0,14,52412,Peace River Beer Co,https://www.beeradvocate.com/beer/profile/52412/, Punta Gorda, FL,0,0
-11198,NA,0,8,52417,The Brewtorium,https://www.beeradvocate.com/beer/profile/52417/, Austin, TX,0,0
+11197,,0.0,14,52412,Peace River Beer Co,https://www.beeradvocate.com/beer/profile/52412/, Punta Gorda, FL,0,0
+11198,,0.0,8,52417,The Brewtorium,https://www.beeradvocate.com/beer/profile/52417/, Austin, TX,0,0
 11199,Okay,3.11,5,19654,TAPS Brewery,https://www.beeradvocate.com/beer/profile/19654/, Gebze, Turkey,38,31
 11200,Good,3.65,13,19658,Brasserie de Jandrain-Jandrenouille,https://www.beeradvocate.com/beer/profile/19658/, Jandrain-Jandrenouille, Belgium,346,128
-11201,NA,0,16,52428,Ookapow Brewing,https://www.beeradvocate.com/beer/profile/52428/, West Palm Beach, FL,0,0
+11201,,0.0,16,52428,Ookapow Brewing,https://www.beeradvocate.com/beer/profile/52428/, West Palm Beach, FL,0,0
 11202,Very Good,3.81,1,19666,Cháu Tiên USA,https://www.beeradvocate.com/beer/profile/19666/, Carmel, CA,19,17
 11203,Okay,3.2,3,19668,Yellow Cross,https://www.beeradvocate.com/beer/profile/19668/, Christchurch, New Zealand (Aotearoa),3,3
 11204,Exceptional,4.03,86,19672,Proof Brewing Company,https://www.beeradvocate.com/beer/profile/19672/, Tallahassee, FL,418,49
 11205,Poor,2.73,1,19675,Abula Alus Darītava,https://www.beeradvocate.com/beer/profile/19675/, Brenguļi, Latvia,1,1
-11206,Exceptional,4,8,52447,Moss Mill Brewing Company,https://www.beeradvocate.com/beer/profile/52447/, Huntingdon Valley, PA,1,1
+11206,Exceptional,4.0,8,52447,Moss Mill Brewing Company,https://www.beeradvocate.com/beer/profile/52447/, Huntingdon Valley, PA,1,1
 11207,Poor,2.56,4,52450,Bierfabriek Delft,https://www.beeradvocate.com/beer/profile/52450/, Delft, Netherlands,4,0
 11208,Very Good,3.91,3,52454,New Trail Brewing Company,https://www.beeradvocate.com/beer/profile/52454/, Williamsport, PA,6,0
 11209,Very Good,3.83,4,52456,4J Brewing Company,https://www.beeradvocate.com/beer/profile/52456/, Houston, TX,4,0
-11210,NA,0,8,52459,Bent Run Brewing Co.,https://www.beeradvocate.com/beer/profile/52459/, Lander, PA,0,0
+11210,,0.0,8,52459,Bent Run Brewing Co.,https://www.beeradvocate.com/beer/profile/52459/, Lander, PA,0,0
 11211,Very Good,3.79,1,52460,De Mederie,https://www.beeradvocate.com/beer/profile/52460/, Ghent, Belgium,1,0
 11212,Okay,3.48,3,19693,Köthener Brauerei,https://www.beeradvocate.com/beer/profile/19693/, Köthen, Germany,13,7
 11213,Very Good,3.79,1,19691,Roppelt-Bräu Trossenfurt,https://www.beeradvocate.com/beer/profile/19691/, Oberaurach-Trossenfurt, Germany,2,1
-11214,NA,0,6,52464,Spiral Brewery,https://www.beeradvocate.com/beer/profile/52464/, Hastings, MN,0,0
+11214,,0.0,6,52464,Spiral Brewery,https://www.beeradvocate.com/beer/profile/52464/, Hastings, MN,0,0
 11215,Good,3.65,14,19699,The Monk Brewery & Kitchen,https://www.beeradvocate.com/beer/profile/19699/, Fremantle, Australia,24,15
-11216,Okay,3,1,52468,Enso Brewing,https://www.beeradvocate.com/beer/profile/52468/, Vashon, WA,1,1
+11216,Okay,3.0,1,52468,Enso Brewing,https://www.beeradvocate.com/beer/profile/52468/, Vashon, WA,1,1
 11217,Exceptional,4.15,2,52469,Kuro Aparatūra,https://www.beeradvocate.com/beer/profile/52469/, Vilnius, Lithuania,2,0
 11218,Very Good,3.85,8,52474,Jam Room Brewing Co,https://www.beeradvocate.com/beer/profile/52474/, Newfoundland, PA,8,0
 11219,Very Good,3.91,2,52475,Red Bison Brewery,https://www.beeradvocate.com/beer/profile/52475/, Calgary, AB,2,2
 11220,Good,3.69,1,52476,Undercurrent Brewing,https://www.beeradvocate.com/beer/profile/52476/, Sylvan Lake, AB,2,2
-11221,NA,0,8,52477,TwoGuys Brewing,https://www.beeradvocate.com/beer/profile/52477/, Wyoming, MI,0,0
+11221,,0.0,8,52477,TwoGuys Brewing,https://www.beeradvocate.com/beer/profile/52477/, Wyoming, MI,0,0
 11222,Awful,1.78,1,52478,Malibu Drinks (Pernod Ricard),https://www.beeradvocate.com/beer/profile/52478/, Paris, France,1,1
 11223,Poor,2.86,1,52480,Dutchess Ales,https://www.beeradvocate.com/beer/profile/52480/, Wassaic, NY,2,2
 11224,Exceptional,4.06,10,52488,Bullfrog Creek Brewing Co,https://www.beeradvocate.com/beer/profile/52488/, Valrico, FL,6,3
@@ -11238,21 +11238,21 @@
 11233,Very Good,3.93,6,52498,Melody Brew,https://www.beeradvocate.com/beer/profile/52498/, Polevskoy, Russian Federation,6,0
 11234,Okay,3.39,2,19730,Brouwerij Danny,https://www.beeradvocate.com/beer/profile/19730/, Erpe-Mere, Belgium,5,1
 11235,Okay,3.49,4,19732,Valmiermuiža Alus,https://www.beeradvocate.com/beer/profile/19732/, Valmiermuiža, Latvia,24,8
-11236,NA,0,6,52501,Tox brewing Company,https://www.beeradvocate.com/beer/profile/52501/, New London, CT,0,0
+11236,,0.0,6,52501,Tox brewing Company,https://www.beeradvocate.com/beer/profile/52501/, New London, CT,0,0
 11237,Very Good,3.96,1,52497,La Volpe e il Luppolo,https://www.beeradvocate.com/beer/profile/52497/, Simaxis, Italy,1,1
 11238,Good,3.62,1,52503,Prairie Brewing Company,https://www.beeradvocate.com/beer/profile/52503/, Three Hills, AB,1,1
-11239,Okay,3,1,19736,Henquet,https://www.beeradvocate.com/beer/profile/19736/, Ovada (AL), Italy,1,1
+11239,Okay,3.0,1,19736,Henquet,https://www.beeradvocate.com/beer/profile/19736/, Ovada (AL), Italy,1,1
 11240,Poor,2.68,1,52500,Aroming SCS,https://www.beeradvocate.com/beer/profile/52500/, Eupen, Belgium,2,0
 11241,Good,3.61,22,19739,Rockbottom Bar & Brewery,https://www.beeradvocate.com/beer/profile/19739/, Halifax, NS,50,10
-11242,Okay,3,1,52508,Transgressive Beers,https://www.beeradvocate.com/beer/profile/52508/, Elche, Spain,1,1
+11242,Okay,3.0,1,52508,Transgressive Beers,https://www.beeradvocate.com/beer/profile/52508/, Elche, Spain,1,1
 11243,Okay,3.13,1,19741,Praforte,https://www.beeradvocate.com/beer/profile/19741/, Usago Di Travesio (PN), Italy,1,1
 11244,Poor,2.99,2,19742,B94,https://www.beeradvocate.com/beer/profile/19742/, Lecce, Italy,2,2
 11245,Okay,3.09,13,19743,Birrificio Lariano,https://www.beeradvocate.com/beer/profile/19743/, Dolzago (LC), Italy,23,13
-11246,NA,0,1,52512,Honkajoen Panimo,https://www.beeradvocate.com/beer/profile/52512/, Isojoki, Finland,0,0
-11247,NA,0,1,52511,FitBeer Ltd.,https://www.beeradvocate.com/beer/profile/52511/, London, GB2,0,0
+11246,,0.0,1,52512,Honkajoen Panimo,https://www.beeradvocate.com/beer/profile/52512/, Isojoki, Finland,0,0
+11247,,0.0,1,52511,FitBeer Ltd.,https://www.beeradvocate.com/beer/profile/52511/, London, GB2,0,0
 11248,Okay,3.03,1,19749,Docks,https://www.beeradvocate.com/beer/profile/19749/, Rivergaro (PC), Italy,1,1
 11249,Good,3.54,16,19752,St. Francis Brewery & Restaurant,https://www.beeradvocate.com/beer/profile/19752/, St. Francis, WI,158,47
-11250,NA,0,6,52521,Pallister Brothers Brewing Company,https://www.beeradvocate.com/beer/profile/52521/, Ottumwa, IA,0,0
+11250,,0.0,6,52521,Pallister Brothers Brewing Company,https://www.beeradvocate.com/beer/profile/52521/, Ottumwa, IA,0,0
 11251,Poor,2.52,3,36491,Koenigbrau,https://www.beeradvocate.com/beer/profile/36491/, Kaliningradskaya oblast', Russian Federation,3,2
 11252,Good,3.71,44,19764,Schooner Exact Brewing Company,https://www.beeradvocate.com/beer/profile/19764/, Seattle, WA,664,191
 11253,Very Good,3.84,63,19765,Black Raven Brewing Co.,https://www.beeradvocate.com/beer/profile/19765/, Redmond, WA,"2,010",430
@@ -11297,7 +11297,7 @@
 11292,Very Good,3.96,80,19866,Upright Brewing Company,https://www.beeradvocate.com/beer/profile/19866/, Portland, OR,"4,310","1,123"
 11293,Okay,3.32,13,19868,Whitstran Brewing Company,https://www.beeradvocate.com/beer/profile/19868/, Prosser, WA,28,13
 11294,Very Good,3.95,7,19871,Opificio Brassicolo Del Carrobiolo,https://www.beeradvocate.com/beer/profile/19871/, Monza, Italy,23,7
-11295,NA,0,3,19873,Kinekulle Bryggeri,https://www.beeradvocate.com/beer/profile/19873/, Hällekis, Sweden,0,0
+11295,,0.0,3,19873,Kinekulle Bryggeri,https://www.beeradvocate.com/beer/profile/19873/, Hällekis, Sweden,0,0
 11296,Okay,3.37,7,19886,Norfolk Square Brewery,https://www.beeradvocate.com/beer/profile/19886/, Great Yarmouth, GB2,10,7
 11297,Very Good,3.76,20,19890,Ale Industries,https://www.beeradvocate.com/beer/profile/19890/, Oakland, CA,347,108
 11298,Very Good,3.84,6,19891,Andwell Brewing Company,https://www.beeradvocate.com/beer/profile/19891/, Hook, GB2,18,7
@@ -11326,7 +11326,7 @@
 11321,Okay,3.49,16,20220,Black Creek Historic Brewery,https://www.beeradvocate.com/beer/profile/20220/, North York, ON,401,200
 11322,Good,3.6,29,20268,Kirkwood Station Brewing Company,https://www.beeradvocate.com/beer/profile/20268/, Kirkwood, MO,229,63
 11323,Good,3.58,2,20288,Old North State Winery And Brewery,https://www.beeradvocate.com/beer/profile/20288/, Mt Airy, NC,2,2
-11324,NA,0,2,20332,Quinty Bier,https://www.beeradvocate.com/beer/profile/20332/, Bebedouro - SP, Brazil,0,0
+11324,,0.0,2,20332,Quinty Bier,https://www.beeradvocate.com/beer/profile/20332/, Bebedouro - SP, Brazil,0,0
 11325,Good,3.68,3,49633,Peter's Brewhouse,https://www.beeradvocate.com/beer/profile/49633/, Riga, Latvia,3,3
 11326,Good,3.74,34,20345,Long Ireland Beer Company,https://www.beeradvocate.com/beer/profile/20345/, Riverhead, NY,618,158
 11327,Okay,3.13,5,20357,Deadwood Café & Brewery,https://www.beeradvocate.com/beer/profile/20357/, Dorchester, MA,5,4
@@ -11388,7 +11388,7 @@
 11382,Okay,3.45,20,20708,Mustang Brewing Company,https://www.beeradvocate.com/beer/profile/20708/, Oklahoma City, OK,528,142
 11383,Very Good,3.79,6,20717,Boscos Restaurant & Brewing Co.,https://www.beeradvocate.com/beer/profile/20717/, Franklin, TN,9,0
 11384,Very Good,3.88,5,20721,Ishikawa Brewery Co.,https://www.beeradvocate.com/beer/profile/20721/, Ltd, Tokyo-to Fussa-shi,27,11
-11385,Exceptional,4,2,20727,The Flowerpots Brewery / The Flowerpots Inn,https://www.beeradvocate.com/beer/profile/20727/, Alresford, GB2,1,1
+11385,Exceptional,4.0,2,20727,The Flowerpots Brewery / The Flowerpots Inn,https://www.beeradvocate.com/beer/profile/20727/, Alresford, GB2,1,1
 11386,Okay,3.45,5,20728,Browarmia Królewkska,https://www.beeradvocate.com/beer/profile/20728/, Warszawa, Poland,16,12
 11387,Good,3.56,8,20757,Dunbar Brewing,https://www.beeradvocate.com/beer/profile/20757/, Santa Margarita, CA,8,4
 11388,Very Good,3.91,91,20766,Greenport Harbor Brewing Company,https://www.beeradvocate.com/beer/profile/20766/, Greenport, NY,"1,290",336
@@ -11401,7 +11401,7 @@
 11395,Okay,3.25,20,20783,Birų Alus,https://www.beeradvocate.com/beer/profile/20783/, Birai, Lithuania,23,1
 11396,Okay,3.41,9,20786,Camelthorn Brewing Company Ltd,https://www.beeradvocate.com/beer/profile/20786/, Windhoek, Namibia,5,3
 11397,Poor,2.09,2,20787,San Miguel Beer Thailand Co.,https://www.beeradvocate.com/beer/profile/20787/, Ltd., Pathumthani,2,1
-11398,Good,3.68,6,20788,UAB ,https://www.beeradvocate.com/beer/profile/20788/,NA,NA,6,3
+11398,Good,3.68,6,20788,UAB ,https://www.beeradvocate.com/beer/profile/20788/,,,6,3
 11399,Okay,3.18,7,20789,North Cotswold Brewery,https://www.beeradvocate.com/beer/profile/20789/, Moreton In Marsh, GB2,10,8
 11400,Very Good,3.76,24,20791,Bristol Beer Factory,https://www.beeradvocate.com/beer/profile/20791/, Bristol, GB2,149,64
 11401,Good,3.53,17,20810,Vilkmergės Alus,https://www.beeradvocate.com/beer/profile/20810/, Ukmergės R., Lithuania,53,8
@@ -11512,7 +11512,7 @@
 11506,Okay,3.43,63,21737,Bandwagon Brew Pub,https://www.beeradvocate.com/beer/profile/21737/, Ithaca, NY,163,76
 11507,Okay,3.29,1,21746,Ale House,https://www.beeradvocate.com/beer/profile/21746/, Sofia, Bulgaria,3,2
 11508,Good,3.52,2,21757,Wagtail Brewery,https://www.beeradvocate.com/beer/profile/21757/, Attleborough, GB2,3,2
-11509,NA,0,4,21758,Mac's Brewery Bar & Restaurant,https://www.beeradvocate.com/beer/profile/21758/, Wellington, New Zealand (Aotearoa),0,0
+11509,,0.0,4,21758,Mac's Brewery Bar & Restaurant,https://www.beeradvocate.com/beer/profile/21758/, Wellington, New Zealand (Aotearoa),0,0
 11510,Okay,3.35,9,21759,Föroya Bjór,https://www.beeradvocate.com/beer/profile/21759/, Klaksvík, Faroe Islands,21,9
 11511,Okay,3.47,2,21760,Bridestones Brewing Company Limited,https://www.beeradvocate.com/beer/profile/21760/, West Yorkshire, GB2,2,2
 11512,Poor,2.44,5,21764,Ferme De Laubicherie,https://www.beeradvocate.com/beer/profile/21764/, Sarlande, France,2,2
@@ -11522,7 +11522,7 @@
 11516,Very Good,3.84,13,21832,Blue Monkey Brewery,https://www.beeradvocate.com/beer/profile/21832/, Nottingham, GB2,32,17
 11517,Poor,2.59,3,21833,Euskal Garagardoa S.L.,https://www.beeradvocate.com/beer/profile/21833/, Oyarzun Guipuzcoa, Spain,27,16
 11518,Very Good,3.85,12,21834,Ambacht Brewing,https://www.beeradvocate.com/beer/profile/21834/, Hillsboro, OR,44,28
-11519,NA,0,2,21836,Beily’s Ultralounge / Beer & Wine Store,https://www.beeradvocate.com/beer/profile/21836/, Saskatoon, SK,0,0
+11519,,0.0,2,21836,Beily’s Ultralounge / Beer & Wine Store,https://www.beeradvocate.com/beer/profile/21836/, Saskatoon, SK,0,0
 11520,Poor,2.88,1,21850,Simpson's Brewing Company,https://www.beeradvocate.com/beer/profile/21850/, S.A. De R.L. De C.V, Zapopan (Jalisco),14,2
 11521,Good,3.63,23,21856,Strand Brewing Co.,https://www.beeradvocate.com/beer/profile/21856/, Torrance, CA,682,136
 11522,Very Good,3.76,28,21862,Galena Brewing Company,https://www.beeradvocate.com/beer/profile/21862/, Galena, IL,266,60
@@ -11557,7 +11557,7 @@
 11551,Good,3.64,9,22122,Ram Restaurant & Brewery - Sunrise Village,https://www.beeradvocate.com/beer/profile/22122/, Puyallup, WA,11,0
 11552,Good,3.56,18,22139,Fenton Winery And Brewery,https://www.beeradvocate.com/beer/profile/22139/, Fenton, MI,77,11
 11553,Very Good,3.88,5,22140,Mak Bier,https://www.beeradvocate.com/beer/profile/22140/, Villa General Belgrano, Argentina,2,1
-11554,Okay,3,2,22141,Mr CoQuí,https://www.beeradvocate.com/beer/profile/22141/, Villa De Leyva, Colombia,2,2
+11554,Okay,3.0,2,22141,Mr CoQuí,https://www.beeradvocate.com/beer/profile/22141/, Villa De Leyva, Colombia,2,2
 11555,Very Good,3.94,70,22150,Stillwater Artisanal Ales,https://www.beeradvocate.com/beer/profile/22150/, Baltimore, MD,"11,789","3,131"
 11556,Good,3.69,46,22157,Rivertown Brewery & Barrel House,https://www.beeradvocate.com/beer/profile/22157/, Cincinnati, OH,"3,421",846
 11557,Very Good,3.9,32,22167,Fulton Beer,https://www.beeradvocate.com/beer/profile/22167/, Minneapolis, MN,"3,130",610
@@ -11570,8 +11570,8 @@
 11564,Good,3.59,3,22197,Langham Brewery,https://www.beeradvocate.com/beer/profile/22197/, Lodsworth, GB2,5,3
 11565,Very Good,3.85,66,22200,Wormtown Brewery,https://www.beeradvocate.com/beer/profile/22200/, Worcester, MA,"3,826",662
 11566,Very Good,3.83,17,22202,Element Brewing Company,https://www.beeradvocate.com/beer/profile/22202/, Millers Falls, MA,833,289
-11567,NA,0,5,22216,Pivobezalkogolnyi Zavod Gus'-Chrustalnyi,https://www.beeradvocate.com/beer/profile/22216/, Gus'-Chrustalnyi, Russian Federation,0,0
-11568,NA,0,9,22217,Osha,https://www.beeradvocate.com/beer/profile/22217/, Omsk, Russian Federation,0,0
+11567,,0.0,5,22216,Pivobezalkogolnyi Zavod Gus'-Chrustalnyi,https://www.beeradvocate.com/beer/profile/22216/, Gus'-Chrustalnyi, Russian Federation,0,0
+11568,,0.0,9,22217,Osha,https://www.beeradvocate.com/beer/profile/22217/, Omsk, Russian Federation,0,0
 11569,Okay,3.48,12,22223,The Sprig & Fern Brewery,https://www.beeradvocate.com/beer/profile/22223/, Richmond, New Zealand (Aotearoa),15,3
 11570,Okay,3.38,7,22230,Jack's Brewing Company,https://www.beeradvocate.com/beer/profile/22230/, San Ramon, CA,8,2
 11571,World-Class,4.67,2,22233,Trappieter,https://www.beeradvocate.com/beer/profile/22233/, Lommel, Belgium,1,0
@@ -11580,7 +11580,7 @@
 11574,Okay,3.1,5,22265,Barley Mill Brewpub / Barley & Grapes,https://www.beeradvocate.com/beer/profile/22265/, Penticton, BC,6,5
 11575,Good,3.6,10,22271,Cathedral Square Brewery,https://www.beeradvocate.com/beer/profile/22271/, Saint Louis, MO,417,139
 11576,Good,3.59,46,22276,Brodie's,https://www.beeradvocate.com/beer/profile/22276/, London, GB2,135,52
-11577,NA,0,3,22279,Adur Brewery Ltd.,https://www.beeradvocate.com/beer/profile/22279/, Shoreham By Sea, GB2,0,0
+11577,,0.0,3,22279,Adur Brewery Ltd.,https://www.beeradvocate.com/beer/profile/22279/, Shoreham By Sea, GB2,0,0
 11578,Okay,3.39,11,22285,Natian Brewery,https://www.beeradvocate.com/beer/profile/22285/, Portland, OR,85,38
 11579,Very Good,3.87,41,22288,Mt Tabor Brewing,https://www.beeradvocate.com/beer/profile/22288/, Vancouver, WA,6,3
 11580,Good,3.53,34,22319,Figure 8 Brewing,https://www.beeradvocate.com/beer/profile/22319/, Valparaiso, IN,402,101
@@ -11649,7 +11649,7 @@
 11643,Okay,3.44,6,22698,Grogg's Pinnacle Brewing Co.,https://www.beeradvocate.com/beer/profile/22698/, Helper, UT,8,7
 11644,Exceptional,4.04,45,22723,Notch Brewing,https://www.beeradvocate.com/beer/profile/22723/, Salem, MA,978,213
 11645,Very Good,3.88,2,22726,Canadian Brewery Inc. (North Island Beer),https://www.beeradvocate.com/beer/profile/22726/, Hokkaido Sapporo-shi, Japan,8,1
-11646,NA,0,4,22739,Klostergut Wöltingerode,https://www.beeradvocate.com/beer/profile/22739/, Vienenburg, Germany,0,0
+11646,,0.0,4,22739,Klostergut Wöltingerode,https://www.beeradvocate.com/beer/profile/22739/, Vienenburg, Germany,0,0
 11647,Okay,3.45,4,22771,Birrificio Geco,https://www.beeradvocate.com/beer/profile/22771/, Cornaredo (MI), Italy,9,3
 11648,Good,3.66,10,22772,Birrificio Rurale,https://www.beeradvocate.com/beer/profile/22772/, Desio (MI), Italy,49,16
 11649,Good,3.51,5,22778,La Buttiga,https://www.beeradvocate.com/beer/profile/22778/, Piacenza, Italy,6,0
@@ -11698,7 +11698,7 @@
 11692,Good,3.59,17,23030,Revelation Cat Craft Brewing,https://www.beeradvocate.com/beer/profile/23030/, Broadstairs, GB2,47,19
 11693,Very Good,3.79,17,23031,Brouwerij Hof Ten Dormaal,https://www.beeradvocate.com/beer/profile/23031/, Tildonk, Belgium,459,181
 11694,Okay,3.44,3,23034,Vecchia Orsa,https://www.beeradvocate.com/beer/profile/23034/, Crevalcore (BO), Italy,6,3
-11695,NA,0,1,23042,Martin & Servera,https://www.beeradvocate.com/beer/profile/23042/, Johanneshov, Sweden,0,0
+11695,,0.0,1,23042,Martin & Servera,https://www.beeradvocate.com/beer/profile/23042/, Johanneshov, Sweden,0,0
 11696,Good,3.65,29,23052,Great River Brewery,https://www.beeradvocate.com/beer/profile/23052/, Davenport, IA,"1,163",358
 11697,Okay,3.44,18,23055,Banff Ave. Brewing Co.,https://www.beeradvocate.com/beer/profile/23055/, Banff, AB,121,42
 11698,Okay,3.27,22,23058,Pub Dog Brewing,https://www.beeradvocate.com/beer/profile/23058/, Westminster, MD,205,32
@@ -11758,7 +11758,7 @@
 11752,Good,3.74,58,23347,Mike Hess Brewing - Miramar,https://www.beeradvocate.com/beer/profile/23347/, San Diego, CA,"1,193",180
 11753,Poor,2.79,4,23352,John Boston Premium Beverages,https://www.beeradvocate.com/beer/profile/23352/, Ultimo, Australia,22,15
 11754,Okay,3.04,1,23353,Arrow Brewing Company & Oak Bar,https://www.beeradvocate.com/beer/profile/23353/, Arrowtown, New Zealand (Aotearoa),2,1
-11755,NA,0,7,23354,Little Giant Brewery,https://www.beeradvocate.com/beer/profile/23354/, Bradenton, FL,0,0
+11755,,0.0,7,23354,Little Giant Brewery,https://www.beeradvocate.com/beer/profile/23354/, Bradenton, FL,0,0
 11756,Poor,2.88,1,23373,50 Back Brewing Company,https://www.beeradvocate.com/beer/profile/23373/, Pepperell, MA,18,13
 11757,Good,3.63,31,23391,Brasserie Artisanale La Fabrique,https://www.beeradvocate.com/beer/profile/23391/, Matane, QC,30,15
 11758,Poor,2.79,2,23392,Keroche Breweries Limited,https://www.beeradvocate.com/beer/profile/23392/, Naivasha, Kenya,2,1
@@ -11802,7 +11802,7 @@
 11796,Okay,3.29,10,23590,Brooksville Brewing Company,https://www.beeradvocate.com/beer/profile/23590/, Spring Hill, FL,10,2
 11797,Okay,3.19,4,23596,Slip Point Brewing,https://www.beeradvocate.com/beer/profile/23596/, Clallam Bay, WA,11,10
 11798,Exceptional,4.24,6,23597,Von Scheidt Brewing Company,https://www.beeradvocate.com/beer/profile/23597/, Twin Falls, ID,8,4
-11799,Exceptional,4,5,23604,Microcervecería La Legendaria,https://www.beeradvocate.com/beer/profile/23604/, San Luis, Mexico,6,2
+11799,Exceptional,4.0,5,23604,Microcervecería La Legendaria,https://www.beeradvocate.com/beer/profile/23604/, San Luis, Mexico,6,2
 11800,Good,3.5,3,23605,Herrmannsdorfer Schweinsbräu,https://www.beeradvocate.com/beer/profile/23605/, Glonn, Germany,48,27
 11801,Very Good,3.75,2,23613,BiRen Birrificio Renazzese,https://www.beeradvocate.com/beer/profile/23613/, Dosso (FE), Italy,2,0
 11802,Poor,2.88,3,23615,McCoy Brewery & Co,https://www.beeradvocate.com/beer/profile/23615/, Rochester, NY,18,8
@@ -11830,7 +11830,7 @@
 11824,Poor,2.84,3,23699,Ajeper S.A.,https://www.beeradvocate.com/beer/profile/23699/, Lima, Peru,29,13
 11825,Awful,1.86,1,23700,Auchan Production,https://www.beeradvocate.com/beer/profile/23700/, Villeneuve D'Ascq, France,1,1
 11826,Poor,2.98,2,23701,Ben Middlemiss Brewing,https://www.beeradvocate.com/beer/profile/23701/, Flat Bush, New Zealand (Aotearoa),23,10
-11827,NA,0,1,23725,The Village Pub,https://www.beeradvocate.com/beer/profile/23725/, Palm Springs, CA,0,0
+11827,,0.0,1,23725,The Village Pub,https://www.beeradvocate.com/beer/profile/23725/, Palm Springs, CA,0,0
 11828,Very Good,3.91,20,23737,Rockmill Brewery,https://www.beeradvocate.com/beer/profile/23737/, Lancaster, OH,691,207
 11829,Poor,2.99,8,23739,Marco Island Brewery,https://www.beeradvocate.com/beer/profile/23739/, Marco Island, FL,7,6
 11830,Poor,2.6,3,23740,Choperia & Distribuidora Opa Bier,https://www.beeradvocate.com/beer/profile/23740/, Joinville - SC, Brazil,7,3
@@ -11851,7 +11851,7 @@
 11845,Okay,3.37,10,23954,Ohio Brewing Company,https://www.beeradvocate.com/beer/profile/23954/, Akron, OH,165,78
 11846,Poor,2.78,5,23964,Badlands Brewery,https://www.beeradvocate.com/beer/profile/23964/, Orange, Australia,16,8
 11847,Very Good,3.76,48,23966,Blue Pants Brewery,https://www.beeradvocate.com/beer/profile/23966/, Madison, AL,"1,052",259
-11848,Very Good,3.75,33,23973,Sebago Brewing Company,https://www.beeradvocate.com/beer/profile/23973/, United States,NA,"1,963",753
+11848,Very Good,3.75,33,23973,Sebago Brewing Company,https://www.beeradvocate.com/beer/profile/23973/, United States,,"1,963",753
 11849,Good,3.61,3,23981,Brasserie D'Ebly,https://www.beeradvocate.com/beer/profile/23981/, Ebly, Belgium,135,30
 11850,Good,3.73,6,23982,Brasserie Craig Allan,https://www.beeradvocate.com/beer/profile/23982/, Méry Le Bataile, France,74,29
 11851,Good,3.68,25,23983,Brasserie Artisanale Le Saint Graal,https://www.beeradvocate.com/beer/profile/23983/, Sainte-Thérèse, QC,38,5
@@ -11887,7 +11887,7 @@
 11881,Poor,2.83,2,24146,Jalehouse Beer (Turtle Distributing Co.),https://www.beeradvocate.com/beer/profile/24146/, Sarasota, FL,4,3
 11882,Okay,3.35,9,24147,Dunsmuir Brewery Works,https://www.beeradvocate.com/beer/profile/24147/, Dunsmuir, CA,11,7
 11883,Good,3.62,17,24162,Finger Lakes Beer Company,https://www.beeradvocate.com/beer/profile/24162/, Hammondsport, NY,96,8
-11884,NA,0,8,24165,Benning Brew Pub,https://www.beeradvocate.com/beer/profile/24165/, Fort Benning, GA,0,0
+11884,,0.0,8,24165,Benning Brew Pub,https://www.beeradvocate.com/beer/profile/24165/, Fort Benning, GA,0,0
 11885,Okay,3.2,7,24168,Chicago Beer Company,https://www.beeradvocate.com/beer/profile/24168/, Chicago, IL,264,72
 11886,Good,3.59,35,24180,Wild Wolf Brewing Company,https://www.beeradvocate.com/beer/profile/24180/, Nellysford, VA,785,160
 11887,Good,3.57,8,24187,Huisbrouwerij Den Tseut,https://www.beeradvocate.com/beer/profile/24187/, Oosteeklo, Belgium,13,3
@@ -11915,7 +11915,7 @@
 11909,Awful,1.5,3,24365,Klövsjö Gårdsbryggeri,https://www.beeradvocate.com/beer/profile/24365/, Klövsjö, Sweden,1,1
 11910,Okay,3.43,16,24371,Microcerveceria Gourmet Calavera,https://www.beeradvocate.com/beer/profile/24371/, Tlalnepantla de Baz (Estado de México), Mexico,162,63
 11911,Okay,3.45,3,24372,Abteibrauerei Siegburger Brauhaus - FritzAle,https://www.beeradvocate.com/beer/profile/24372/, Siegburg, Germany,3,2
-11912,NA,0,1,24377,Cervecería Pública Condesa,https://www.beeradvocate.com/beer/profile/24377/, Mexico City, Mexico,0,0
+11912,,0.0,1,24377,Cervecería Pública Condesa,https://www.beeradvocate.com/beer/profile/24377/, Mexico City, Mexico,0,0
 11913,Good,3.65,41,24381,Black Star Co-op Pub & Brewery,https://www.beeradvocate.com/beer/profile/24381/, Austin, TX,298,52
 11914,Okay,3.29,4,24392,Via Priula,https://www.beeradvocate.com/beer/profile/24392/, San Pellegrino Terme (BG), Italy,4,4
 11915,Poor,2.87,1,24394,Cervezas Anaga,https://www.beeradvocate.com/beer/profile/24394/, Candelaria, Spain,3,1
@@ -11943,15 +11943,15 @@
 11937,Okay,3.06,1,24487,L'Atelier De La Bière,https://www.beeradvocate.com/beer/profile/24487/, Issoudun, France,1,1
 11938,Good,3.69,18,24488,Tin Roof Brewing Company,https://www.beeradvocate.com/beer/profile/24488/, Baton Rouge, LA,828,163
 11939,Okay,3.28,9,24489,OWA Brewery SPRL,https://www.beeradvocate.com/beer/profile/24489/, Brussels, Belgium,104,26
-11940,NA,0,3,24490,Mobsby's Brasserie Artisanale,https://www.beeradvocate.com/beer/profile/24490/, Normandy, France,0,0
+11940,,0.0,3,24490,Mobsby's Brasserie Artisanale,https://www.beeradvocate.com/beer/profile/24490/, Normandy, France,0,0
 11941,Okay,3.11,8,24491,Sundance Brewing International,https://www.beeradvocate.com/beer/profile/24491/, Melbourne, Australia,50,27
 11942,Very Good,3.85,9,24492,La Franche (Bière artisanale de Franche Comté),https://www.beeradvocate.com/beer/profile/24492/, La Ferté, France,5,2
 11943,Very Good,3.87,18,24493,Packinghouse Brewing Co.,https://www.beeradvocate.com/beer/profile/24493/, Riverside, CA,68,21
-11944,NA,0,2,24495,Spangher,https://www.beeradvocate.com/beer/profile/24495/, Buenos Aires, Argentina,0,0
-11945,NA,0,5,24496,Cerveceria Owe,https://www.beeradvocate.com/beer/profile/24496/, Neuquén, Argentina,0,0
+11944,,0.0,2,24495,Spangher,https://www.beeradvocate.com/beer/profile/24495/, Buenos Aires, Argentina,0,0
+11945,,0.0,5,24496,Cerveceria Owe,https://www.beeradvocate.com/beer/profile/24496/, Neuquén, Argentina,0,0
 11946,Good,3.54,8,24497,Cerveza Artesanal Berlina,https://www.beeradvocate.com/beer/profile/24497/, San Carlos de Bariloche, Argentina,13,7
 11947,Good,3.73,5,24502,Au Grimoire Des Légendes,https://www.beeradvocate.com/beer/profile/24502/, Aywaille, Belgium,6,1
-11948,Exceptional,4,35,24517,White Bluffs Brewing Company,https://www.beeradvocate.com/beer/profile/24517/, Richland, WA,43,16
+11948,Exceptional,4.0,35,24517,White Bluffs Brewing Company,https://www.beeradvocate.com/beer/profile/24517/, Richland, WA,43,16
 11949,Poor,2.58,1,24526,Bräu Z' Loh,https://www.beeradvocate.com/beer/profile/24526/, Dorfen, Germany,1,1
 11950,Okay,3.48,2,24528,Fröschl Bräu,https://www.beeradvocate.com/beer/profile/24528/, Jockgrim, Germany,2,2
 11951,Very Good,3.76,39,24529,Black Tooth Brewing Company,https://www.beeradvocate.com/beer/profile/24529/, Sheridan, WY,286,65
@@ -11964,20 +11964,20 @@
 11958,Good,3.55,2,24574,Lithia Brewing Company,https://www.beeradvocate.com/beer/profile/24574/, West Bend, WI,21,10
 11959,Very Good,3.89,5,24582,Rooney's Irish Pub,https://www.beeradvocate.com/beer/profile/24582/, Orcutt, CA,2,2
 11960,Okay,3.47,4,24583,The Adventure Brew Hostel / Saya Beer,https://www.beeradvocate.com/beer/profile/24583/, La Paz, Bolivia,5,4
-11961,NA,0,2,24584,Munich Beer Restaurant,https://www.beeradvocate.com/beer/profile/24584/, Phnom Penh, Cambodia,0,0
+11961,,0.0,2,24584,Munich Beer Restaurant,https://www.beeradvocate.com/beer/profile/24584/, Phnom Penh, Cambodia,0,0
 11962,Okay,3.33,15,24586,Kingdom Breweries,https://www.beeradvocate.com/beer/profile/24586/, Phnom Penh, Cambodia,30,17
 11963,Okay,3.38,4,24588,Pub HBH (Ñuñoa),https://www.beeradvocate.com/beer/profile/24588/, Santiago, Chile,4,1
 11964,Good,3.69,111,24600,Figueroa Mountain Brewing Co.,https://www.beeradvocate.com/beer/profile/24600/, Buellton, CA,"1,409",248
 11965,Okay,3.49,8,24601,Jem's Beer Factory,https://www.beeradvocate.com/beer/profile/24601/, Petach Tikva, Israel,35,13
 11966,Okay,3.36,13,24623,Cervezas Regia Toledo S.L.,https://www.beeradvocate.com/beer/profile/24623/, Toledo, Spain,35,12
-11967,NA,0,5,24625,Elizabeth Street Brewery,https://www.beeradvocate.com/beer/profile/24625/, San Francisco, CA,0,0
+11967,,0.0,5,24625,Elizabeth Street Brewery,https://www.beeradvocate.com/beer/profile/24625/, San Francisco, CA,0,0
 11968,Very Good,3.81,1,24627,Beerhouse Madeira,https://www.beeradvocate.com/beer/profile/24627/, Funchal, Portugal,2,2
 11969,Okay,3.26,1,24629,Restoran Romantika,https://www.beeradvocate.com/beer/profile/24629/, Belgrade, Serbia,1,1
-11970,NA,0,3,24630,Tawandang Microbrewery,https://www.beeradvocate.com/beer/profile/24630/, Singapore, Singapore,0,0
+11970,,0.0,3,24630,Tawandang Microbrewery,https://www.beeradvocate.com/beer/profile/24630/, Singapore, Singapore,0,0
 11971,Good,3.7,17,24633,Kaltenecker,https://www.beeradvocate.com/beer/profile/24633/, Roznava, Slovak Republic,39,12
-11972,NA,0,3,24640,Brasserie Le Berbère,https://www.beeradvocate.com/beer/profile/24640/, Hammamet, Tunisia,0,0
-11973,NA,0,3,24641,Brauhaus Yasmine,https://www.beeradvocate.com/beer/profile/24641/, Hammamet, Tunisia,0,0
-11974,NA,0,3,24642,Golfbräu,https://www.beeradvocate.com/beer/profile/24642/, Port El Kantaoui, Tunisia,0,0
+11972,,0.0,3,24640,Brasserie Le Berbère,https://www.beeradvocate.com/beer/profile/24640/, Hammamet, Tunisia,0,0
+11973,,0.0,3,24641,Brauhaus Yasmine,https://www.beeradvocate.com/beer/profile/24641/, Hammamet, Tunisia,0,0
+11974,,0.0,3,24642,Golfbräu,https://www.beeradvocate.com/beer/profile/24642/, Port El Kantaoui, Tunisia,0,0
 11975,Poor,2.81,2,24648,Tulip Beer,https://www.beeradvocate.com/beer/profile/24648/, Da Nang, Viet Nam,2,2
 11976,Okay,3.08,3,24649,Cientos Beer,https://www.beeradvocate.com/beer/profile/24649/, Hanoi, Viet Nam,2,1
 11977,Poor,2.76,1,24651,Coi Xay Gio (Windmill),https://www.beeradvocate.com/beer/profile/24651/, Hanoi, Viet Nam,1,1
@@ -11990,7 +11990,7 @@
 11984,Poor,2.91,1,24662,Good Head Beer Company,https://www.beeradvocate.com/beer/profile/24662/, Picton, Australia,21,10
 11985,Okay,3.37,7,24663,Hawthorn Brewing Company,https://www.beeradvocate.com/beer/profile/24663/, Hawthorn, Australia,52,26
 11986,Okay,3.29,5,24665,The Old Brewery,https://www.beeradvocate.com/beer/profile/24665/, Perth, Australia,2,2
-11987,NA,0,1,24666,South Seas Brewing Co.,https://www.beeradvocate.com/beer/profile/24666/, Pacific Fair, Australia,0,0
+11987,,0.0,1,24666,South Seas Brewing Co.,https://www.beeradvocate.com/beer/profile/24666/, Pacific Fair, Australia,0,0
 11988,Okay,3.12,5,24667,Tooborac Hotel & Brewery,https://www.beeradvocate.com/beer/profile/24667/, Tooborac, Australia,12,11
 11989,Poor,2.9,5,24668,Wild Bull Brewery,https://www.beeradvocate.com/beer/profile/24668/, Ferguson Valley, Australia,5,5
 11990,Poor,2.52,2,24669,Young & Jackson,https://www.beeradvocate.com/beer/profile/24669/, Melbourne, Australia,2,2
@@ -12013,7 +12013,7 @@
 12007,Outstanding,4.35,5,24734,McHale's Brewhouse,https://www.beeradvocate.com/beer/profile/24734/, Chattanooga, TN,18,5
 12008,Okay,3.09,1,24736,Roter Oktober,https://www.beeradvocate.com/beer/profile/24736/, Berlin, Germany,2,2
 12009,Good,3.72,38,24745,Paw Paw Brewing Company,https://www.beeradvocate.com/beer/profile/24745/, Paw Paw, MI,459,79
-12010,NA,0,1,24746,Chakra Brewery,https://www.beeradvocate.com/beer/profile/24746/, Jalandhar, India,0,0
+12010,,0.0,1,24746,Chakra Brewery,https://www.beeradvocate.com/beer/profile/24746/, Jalandhar, India,0,0
 12011,Good,3.71,9,24747,Dad & Dude's Breweria,https://www.beeradvocate.com/beer/profile/24747/, Aurora, CO,140,32
 12012,Very Good,3.96,80,24748,Tioga-Sequoia Brewing Company,https://www.beeradvocate.com/beer/profile/24748/, Fresno, CA,947,211
 12013,Good,3.57,9,24749,Monty's Brewery,https://www.beeradvocate.com/beer/profile/24749/, Montgomery, GB7,22,8
@@ -12022,13 +12022,13 @@
 12016,Okay,3.35,7,11434,Brasserie Du Canardou,https://www.beeradvocate.com/beer/profile/11434/, Villefranche De Lonchat, France,16,15
 12017,Very Good,3.75,67,24764,Urban Chestnut Brewing Company - Midtown Brewery & Biergarten,https://www.beeradvocate.com/beer/profile/24764/, Saint Louis, MO,"2,677",586
 12018,Very Good,3.77,27,24776,Public House Brewing Company,https://www.beeradvocate.com/beer/profile/24776/, Rolla, MO,329,99
-12019,NA,0,1,24779,Taproom (Spring House Brewing Company),https://www.beeradvocate.com/beer/profile/24779/, Lancaster, PA,0,0
+12019,,0.0,1,24779,Taproom (Spring House Brewing Company),https://www.beeradvocate.com/beer/profile/24779/, Lancaster, PA,0,0
 12020,Okay,3.25,5,11438,Nelson Brewing Company,https://www.beeradvocate.com/beer/profile/11438/, Chatham, GB2,6,4
 12021,Good,3.66,2,24783,Pivovar Tambor,https://www.beeradvocate.com/beer/profile/24783/, Dvůr Králové Nad Labem, Czech Republic,2,0
 12022,Very Good,3.75,2,24784,Malostránský Pivovar,https://www.beeradvocate.com/beer/profile/24784/, Velké Meziříčí, Czech Republic,1,0
 12023,Very Good,3.82,32,24787,St. Boniface Craft Brewing Company,https://www.beeradvocate.com/beer/profile/24787/, Ephrata, PA,593,132
 12024,Very Good,3.82,31,24791,Port City Brewing,https://www.beeradvocate.com/beer/profile/24791/, Alexandria, VA,"2,848",685
-12025,NA,0,5,24792,Good Vibes Brewing,https://www.beeradvocate.com/beer/profile/24792/, Wilmington, NC,0,0
+12025,,0.0,5,24792,Good Vibes Brewing,https://www.beeradvocate.com/beer/profile/24792/, Wilmington, NC,0,0
 12026,Good,3.71,27,24798,Small Town Brewery,https://www.beeradvocate.com/beer/profile/24798/, Wauconda, IL,"4,241",860
 12027,Exceptional,4.05,55,24802,Idle Hands Craft Ales,https://www.beeradvocate.com/beer/profile/24802/, Malden, MA,925,166
 12028,Exceptional,4.2,66,24803,Mystic Brewery,https://www.beeradvocate.com/beer/profile/24803/, Chelsea, MA,"1,778",382
@@ -12069,7 +12069,7 @@
 12063,Good,3.72,27,24892,Brewfist,https://www.beeradvocate.com/beer/profile/24892/, Codogno (LO), Italy,"1,177",247
 12064,Exceptional,4.23,38,24903,Anchorage Brewing Company,https://www.beeradvocate.com/beer/profile/24903/, Anchorage, AK,"6,321","1,503"
 12065,Good,3.59,8,24916,Moon Tower Inn,https://www.beeradvocate.com/beer/profile/24916/, Houston, TX,11,0
-12066,NA,0,2,24921,Rækker Mølle Bryghus,https://www.beeradvocate.com/beer/profile/24921/, Rækker Mølle, Denmark,0,0
+12066,,0.0,2,24921,Rækker Mølle Bryghus,https://www.beeradvocate.com/beer/profile/24921/, Rækker Mølle, Denmark,0,0
 12067,Okay,3.11,6,24926,Mongozo B.V.,https://www.beeradvocate.com/beer/profile/24926/, Venray, Netherlands,174,106
 12068,Poor,2.68,3,24929,Vagant Beer,https://www.beeradvocate.com/beer/profile/24929/, Pushkino, Russian Federation,3,3
 12069,Good,3.53,25,24935,Great Leap Brewery,https://www.beeradvocate.com/beer/profile/24935/, Beijing, China,72,15
@@ -12213,7 +12213,7 @@
 12207,Very Good,3.81,64,25890,Cape May Brewing Company,https://www.beeradvocate.com/beer/profile/25890/, Cape May, NJ,"1,165",196
 12208,Very Good,3.86,1,25891,Lennet Brau- Und Vertriebsgesellschaft,https://www.beeradvocate.com/beer/profile/25891/, Aachen, Germany,4,1
 12209,Poor,2.54,2,25893,Cerveceria Artesanal Toro,https://www.beeradvocate.com/beer/profile/25893/, Queretaro (Querétaro), Mexico,3,1
-12210,Okay,3,6,25896,Birrificio F.lli Trami,https://www.beeradvocate.com/beer/profile/25896/, Capriano Del Colle (BS), Italy,6,6
+12210,Okay,3.0,6,25896,Birrificio F.lli Trami,https://www.beeradvocate.com/beer/profile/25896/, Capriano Del Colle (BS), Italy,6,6
 12211,Very Good,3.87,124,25898,Green Room Brewing,https://www.beeradvocate.com/beer/profile/25898/, Jacksonville Beach, FL,547,98
 12212,Good,3.67,10,25900,Grayton Beer Company,https://www.beeradvocate.com/beer/profile/25900/, Santa Rosa Beach, FL,309,66
 12213,Good,3.52,1,25908,Manchester Brewing Company,https://www.beeradvocate.com/beer/profile/25908/, Blackburn, GB2,2,1
@@ -12273,18 +12273,18 @@
 12267,Good,3.67,7,26376,Sudwerk,https://www.beeradvocate.com/beer/profile/26376/, Pfäffikon, Switzerland,25,7
 12268,Okay,3.49,17,26382,The Phoenix Ale Brewery,https://www.beeradvocate.com/beer/profile/26382/, Phoenix, AZ,282,67
 12269,Exceptional,4.16,4,26384,Birrificio Del Levante - Leone D'Oro,https://www.beeradvocate.com/beer/profile/26384/, Bitritto (BA), Italy,4,4
-12270,NA,0,4,26389,Societat Cervesera Artesenca,https://www.beeradvocate.com/beer/profile/26389/, Barcelona, Spain,0,0
+12270,,0.0,4,26389,Societat Cervesera Artesenca,https://www.beeradvocate.com/beer/profile/26389/, Barcelona, Spain,0,0
 12271,Poor,2.52,1,26390,AmBev CentroAmerica,https://www.beeradvocate.com/beer/profile/26390/, Teculutan, Guatemala,24,3
 12272,Good,3.66,21,26391,Pikes Peak Brewing Company,https://www.beeradvocate.com/beer/profile/26391/, Monument, CO,266,66
 12273,Outstanding,4.43,3,26393,Healdsburg Beer Company,https://www.beeradvocate.com/beer/profile/26393/, Healdsburg, CA,1,1
 12274,Okay,3.24,4,26397,Columbia Valley Brewing,https://www.beeradvocate.com/beer/profile/26397/, Wenatchee, WA,8,6
-12275,NA,0,7,26398,Ram Restaurant & Brewery,https://www.beeradvocate.com/beer/profile/26398/, Meridian, ID,0,0
-12276,Awful,1,1,26399,Bières De Carcassonne,https://www.beeradvocate.com/beer/profile/26399/, Aigues Vives, France,1,1
+12275,,0.0,7,26398,Ram Restaurant & Brewery,https://www.beeradvocate.com/beer/profile/26398/, Meridian, ID,0,0
+12276,Awful,1.0,1,26399,Bières De Carcassonne,https://www.beeradvocate.com/beer/profile/26399/, Aigues Vives, France,1,1
 12277,Very Good,3.94,5,26402,Byatt's Brewery,https://www.beeradvocate.com/beer/profile/26402/, Coventry, GB2,2,2
 12278,Very Good,3.88,12,26419,Seneca Lodge Craft Brewing,https://www.beeradvocate.com/beer/profile/26419/, Watkins Glen, NY,20,0
 12279,Poor,2.59,4,26436,Cerveza Artesanal Siete Y 1/2,https://www.beeradvocate.com/beer/profile/26436/, Yerba Buena, Argentina,1,1
 12280,Okay,3.15,5,26437,Cervecería El Buho,https://www.beeradvocate.com/beer/profile/26437/, La Cumbre, Argentina,7,6
-12281,NA,0,3,26438,Huisbrouwerij De 3 Vaten,https://www.beeradvocate.com/beer/profile/26438/, Ekeren, Belgium,0,0
+12281,,0.0,3,26438,Huisbrouwerij De 3 Vaten,https://www.beeradvocate.com/beer/profile/26438/, Ekeren, Belgium,0,0
 12282,Exceptional,4.17,74,26439,Oxbow Brewing Company,https://www.beeradvocate.com/beer/profile/26439/, Newcastle, ME,"2,591",409
 12283,Okay,3.06,3,26457,Cheetah International Brewers Inc,https://www.beeradvocate.com/beer/profile/26457/, Scarborough, ON,5,0
 12284,Okay,3.34,18,26458,Mudhook Brewing Company,https://www.beeradvocate.com/beer/profile/26458/, York, PA,95,23
@@ -12311,7 +12311,7 @@
 12305,Exceptional,4.01,25,26565,Steel Toe Brewing,https://www.beeradvocate.com/beer/profile/26565/, Saint Louis Park, MN,"2,487",505
 12306,Okay,3.37,4,26572,Birra Venezia,https://www.beeradvocate.com/beer/profile/26572/, Venezia, Italy,19,7
 12307,Very Good,3.85,11,26606,Two Kilts Brewing Co.,https://www.beeradvocate.com/beer/profile/26606/, Sherwood, OR,53,21
-12308,Exceptional,4,18,26607,Occidental Brewing Co.,https://www.beeradvocate.com/beer/profile/26607/, Portland, OR,265,88
+12308,Exceptional,4.0,18,26607,Occidental Brewing Co.,https://www.beeradvocate.com/beer/profile/26607/, Portland, OR,265,88
 12309,Okay,3.27,29,26612,Old Orange Brewing Co.,https://www.beeradvocate.com/beer/profile/26612/, Orange, CA,147,47
 12310,Very Good,3.99,10,26613,Cervejaria Seasons,https://www.beeradvocate.com/beer/profile/26613/, Porto Alegre - RS, Brazil,30,8
 12311,Good,3.65,4,26614,Brouwerij Wilderen,https://www.beeradvocate.com/beer/profile/26614/, Sint-Truiden, Belgium,73,14
@@ -12329,7 +12329,7 @@
 12323,Okay,3.32,17,26645,Rumspringa Brewing Company,https://www.beeradvocate.com/beer/profile/26645/, Bird-in-Hand, PA,82,21
 12324,Okay,3.34,13,26646,HopDog BeerWorks,https://www.beeradvocate.com/beer/profile/26646/, South Nowra, Australia,63,49
 12325,Good,3.54,12,26648,Cervejaria Nacional,https://www.beeradvocate.com/beer/profile/26648/, São Paulo - SP, Brazil,52,21
-12326,NA,0,4,26666,North Side Lounge / Brooks Brewery,https://www.beeradvocate.com/beer/profile/26666/, Manville, NJ,0,0
+12326,,0.0,4,26666,North Side Lounge / Brooks Brewery,https://www.beeradvocate.com/beer/profile/26666/, Manville, NJ,0,0
 12327,Good,3.53,28,26673,Lantern Brewing,https://www.beeradvocate.com/beer/profile/26673/, Seattle, WA,39,11
 12328,Exceptional,4.21,96,26676,Kane Brewing Company,https://www.beeradvocate.com/beer/profile/26676/, Ocean, NJ,"7,166","1,033"
 12329,Good,3.71,4,26690,Flack Manor Brewery,https://www.beeradvocate.com/beer/profile/26690/, Romsey, GB2,6,3
@@ -12362,7 +12362,7 @@
 12356,Poor,2.96,2,26848,Sillamäe Õlletehas,https://www.beeradvocate.com/beer/profile/26848/, Sillamäe, Estonia,5,1
 12357,Very Good,3.75,179,26850,Against The Grain Brewery & Smokehouse,https://www.beeradvocate.com/beer/profile/26850/, Louisville, KY,"7,145","1,274"
 12358,Good,3.61,51,26851,Junction Craft Brewing,https://www.beeradvocate.com/beer/profile/26851/, Toronto, ON,241,59
-12359,NA,0,1,26855,Beaver View Brew Company,https://www.beeradvocate.com/beer/profile/26855/, Albion, NE,0,0
+12359,,0.0,1,26855,Beaver View Brew Company,https://www.beeradvocate.com/beer/profile/26855/, Albion, NE,0,0
 12360,Good,3.74,2,26856,Soaring Wings Vineyard,https://www.beeradvocate.com/beer/profile/26856/, Springfield, NE,3,1
 12361,Good,3.56,11,26864,Kissmeyer Beer,https://www.beeradvocate.com/beer/profile/26864/, Charlottenlund, Denmark,79,37
 12362,Okay,3.29,4,26870,Frequency Beer Works,https://www.beeradvocate.com/beer/profile/26870/, Stockholm, Sweden,8,4
@@ -12372,7 +12372,7 @@
 12366,Very Good,3.86,61,26884,Indie Ale House Brewing Company,https://www.beeradvocate.com/beer/profile/26884/, Toronto, ON,306,85
 12367,Good,3.72,4,26888,Pivovarsky Dvur Zvikov,https://www.beeradvocate.com/beer/profile/26888/, Písek, Czech Republic,6,3
 12368,Poor,2.62,5,26890,Lillehammer Bryggeri AS,https://www.beeradvocate.com/beer/profile/26890/, Lillehammer, Norway,5,4
-12369,NA,0,1,26897,Brauhaus Zollernalb,https://www.beeradvocate.com/beer/profile/26897/, Albstadt-Ebingen, Germany,0,0
+12369,,0.0,1,26897,Brauhaus Zollernalb,https://www.beeradvocate.com/beer/profile/26897/, Albstadt-Ebingen, Germany,0,0
 12370,Poor,2.52,2,26898,Ruhrtal Brauerei - Privatbrennerei Sonnenschein,https://www.beeradvocate.com/beer/profile/26898/, Witten-Heven, Germany,4,2
 12371,Okay,3.3,17,26906,Södra Maltfabriken,https://www.beeradvocate.com/beer/profile/26906/, Handen, Sweden,72,17
 12372,Good,3.67,21,26918,Hilliard's Beer,https://www.beeradvocate.com/beer/profile/26918/, Seattle, WA,362,120
@@ -12394,7 +12394,7 @@
 12388,Good,3.69,38,26967,Port Jeff Brewing Company,https://www.beeradvocate.com/beer/profile/26967/, Port Jefferson, NY,762,140
 12389,Good,3.52,11,18386,Cerveja Coruja,https://www.beeradvocate.com/beer/profile/18386/, Teutônia - RS, Brazil,74,18
 12390,Good,3.7,9,26974,Cervecería Artesanal LACH SA de CV,https://www.beeradvocate.com/beer/profile/26974/, Mexico City, Mexico,38,19
-12391,NA,0,1,11874,Ferme Brasserie Du Vexin,https://www.beeradvocate.com/beer/profile/11874/, Théméricourt, France,0,0
+12391,,0.0,1,11874,Ferme Brasserie Du Vexin,https://www.beeradvocate.com/beer/profile/11874/, Théméricourt, France,0,0
 12392,Very Good,3.81,23,26983,Rusty Truck Brewing Company / Roadhouse 101,https://www.beeradvocate.com/beer/profile/26983/, Lincoln City, OR,50,5
 12393,Very Good,3.79,1,26984,Liebhart's Privatbrauerei Detmold,https://www.beeradvocate.com/beer/profile/26984/, Detmold, Germany,2,1
 12394,Very Good,3.87,14,26988,Restaurante Bar Rámuri,https://www.beeradvocate.com/beer/profile/26988/, Cabo San Lucas (BCS), Mexico,58,24
@@ -12432,7 +12432,7 @@
 12426,Very Good,3.84,2,27079,Cerveceros Krut S.L.,https://www.beeradvocate.com/beer/profile/27079/, Valldoreix, Spain,6,5
 12427,Okay,3.43,5,27080,Barney's Beer,https://www.beeradvocate.com/beer/profile/27080/, Edinburgh, GB6,16,5
 12428,Very Good,3.75,6,27081,Knops Beer Company,https://www.beeradvocate.com/beer/profile/27081/, Edinburgh, GB6,31,14
-12429,NA,0,8,27083,La Fabrique des Bières d'Anjou,https://www.beeradvocate.com/beer/profile/27083/, La Ménitré, France,0,0
+12429,,0.0,8,27083,La Fabrique des Bières d'Anjou,https://www.beeradvocate.com/beer/profile/27083/, La Ménitré, France,0,0
 12430,Good,3.67,8,27084,Bierbrouwerij Maallust,https://www.beeradvocate.com/beer/profile/27084/, Veenhuizen, Netherlands,53,19
 12431,Good,3.66,5,27085,Birrifico Artigianale Sammarinese Srl,https://www.beeradvocate.com/beer/profile/27085/, Serravalle, San Marino,7,4
 12432,Okay,3.21,3,27086,Browar Czarnków (Gontyniec Group),https://www.beeradvocate.com/beer/profile/27086/, Czarnków, Poland,8,1
@@ -12441,7 +12441,7 @@
 12435,Very Good,3.81,38,27092,Harmony Brewing Company,https://www.beeradvocate.com/beer/profile/27092/, Grand Rapids, MI,219,17
 12436,Poor,2.52,5,27096,Hillbilly Brewing,https://www.beeradvocate.com/beer/profile/27096/, Maiden Rock, WI,7,5
 12437,Very Good,3.78,42,27109,Latitude 33° Brewing Company,https://www.beeradvocate.com/beer/profile/27109/, Vista, CA,533,142
-12438,Exceptional,4,27,27110,Good Nature Farm Brewery & Tap Room - Downtown,https://www.beeradvocate.com/beer/profile/27110/, Hamilton, NY,348,59
+12438,Exceptional,4.0,27,27110,Good Nature Farm Brewery & Tap Room - Downtown,https://www.beeradvocate.com/beer/profile/27110/, Hamilton, NY,348,59
 12439,Poor,2.37,3,27113,Zambian National Breweries,https://www.beeradvocate.com/beer/profile/27113/, Lusaka, Zambia,11,3
 12440,Good,3.59,31,27114,Coney Island Brewing Company,https://www.beeradvocate.com/beer/profile/27114/, Brooklyn, NY,"1,794",540
 12441,Poor,2.93,2,27115,Island Brewing Co.,https://www.beeradvocate.com/beer/profile/27115/, Nadi, Fiji,24,7
@@ -12472,7 +12472,7 @@
 12466,Good,3.65,44,27230,Barley Mow Brewing Company,https://www.beeradvocate.com/beer/profile/27230/, Largo, FL,456,65
 12467,Good,3.71,13,27231,Prohibition Brewing Company,https://www.beeradvocate.com/beer/profile/27231/, Vista, CA,33,2
 12468,Okay,3.11,4,27234,Jonas Bronck Brewing Co Inc,https://www.beeradvocate.com/beer/profile/27234/, Florham Park, NJ,24,3
-12469,NA,0,8,27240,Peel Wood Fired Pizza,https://www.beeradvocate.com/beer/profile/27240/, Edwardsville, IL,0,0
+12469,,0.0,8,27240,Peel Wood Fired Pizza,https://www.beeradvocate.com/beer/profile/27240/, Edwardsville, IL,0,0
 12470,Okay,3.31,23,27241,Blue Lab Brewing Company,https://www.beeradvocate.com/beer/profile/27241/, Lexington, VA,56,11
 12471,Very Good,3.85,35,27243,Spider Bite Beer Company,https://www.beeradvocate.com/beer/profile/27243/, Holbrook, NY,529,124
 12472,Good,3.56,1,27244,Dingle Brewing Company,https://www.beeradvocate.com/beer/profile/27244/, County Kerry, Ireland,50,16
@@ -12506,22 +12506,22 @@
 12500,Good,3.74,25,27378,Congregation Ale House,https://www.beeradvocate.com/beer/profile/27378/, Azusa, CA,82,21
 12501,Poor,2.52,5,27393,Basement Cervejas Especiais Ltda.,https://www.beeradvocate.com/beer/profile/27393/, Videira, Brazil,7,2
 12502,Poor,2.84,3,27394,Big Surf Beer Co.,https://www.beeradvocate.com/beer/profile/27394/, Kelowna, BC,31,11
-12503,NA,0,1,27395,Cervejaria Heimat,https://www.beeradvocate.com/beer/profile/27395/, Indaial - SC, Brazil,0,0
+12503,,0.0,1,27395,Cervejaria Heimat,https://www.beeradvocate.com/beer/profile/27395/, Indaial - SC, Brazil,0,0
 12504,Poor,2.89,2,27396,MoNdi Beer,https://www.beeradvocate.com/beer/profile/27396/, Pelotas, Brazil,4,3
 12505,Good,3.61,4,27397,Baldhead Cervejas Especiais,https://www.beeradvocate.com/beer/profile/27397/, Porto Alegre - RS, Brazil,5,0
 12506,Good,3.69,8,27398,Broad Street Brewing Company,https://www.beeradvocate.com/beer/profile/27398/, Reinbeck, IA,14,0
-12507,NA,0,5,27399,Société Microbrasserie & Pizzeria,https://www.beeradvocate.com/beer/profile/27399/, Saint-Georges, QC,0,0
+12507,,0.0,5,27399,Société Microbrasserie & Pizzeria,https://www.beeradvocate.com/beer/profile/27399/, Saint-Georges, QC,0,0
 12508,Good,3.68,23,27400,New Republic Brewing Company,https://www.beeradvocate.com/beer/profile/27400/, College Station, TX,220,52
 12509,Poor,2.42,1,27402,Chick Beer Company,https://www.beeradvocate.com/beer/profile/27402/, Easton, MD,25,10
 12510,Very Good,3.85,40,27403,Deep Ellum Brewing Company,https://www.beeradvocate.com/beer/profile/27403/, Dallas, TX,"3,188",379
-12511,NA,0,4,27427,Sorø Brughus,https://www.beeradvocate.com/beer/profile/27427/, Sorø, Denmark,0,0
+12511,,0.0,4,27427,Sorø Brughus,https://www.beeradvocate.com/beer/profile/27427/, Sorø, Denmark,0,0
 12512,Poor,2.89,2,27429,Browar Koreb,https://www.beeradvocate.com/beer/profile/27429/, Łask, Poland,2,1
 12513,Poor,2.6,1,27430,Bierhalle - Łódź,https://www.beeradvocate.com/beer/profile/27430/, Łódź, Poland,1,1
-12514,Okay,3,1,27433,Browar De Brasil,https://www.beeradvocate.com/beer/profile/27433/, Łódź, Poland,1,1
+12514,Okay,3.0,1,27433,Browar De Brasil,https://www.beeradvocate.com/beer/profile/27433/, Łódź, Poland,1,1
 12515,Very Good,3.78,8,27446,The Sheffield Tap / The Tapped Brew Co.,https://www.beeradvocate.com/beer/profile/27446/, Sheffield, GB2,9,0
-12516,Exceptional,4,3,27453,Porgu,https://www.beeradvocate.com/beer/profile/27453/, Tallinn, Estonia,3,0
+12516,Exceptional,4.0,3,27453,Porgu,https://www.beeradvocate.com/beer/profile/27453/, Tallinn, Estonia,3,0
 12517,Very Good,3.83,37,27470,High Hops Brewery,https://www.beeradvocate.com/beer/profile/27470/, Windsor, CO,232,59
-12518,NA,0,2,27499,Goulburn Brewery,https://www.beeradvocate.com/beer/profile/27499/, Goulburn, Australia,0,0
+12518,,0.0,2,27499,Goulburn Brewery,https://www.beeradvocate.com/beer/profile/27499/, Goulburn, Australia,0,0
 12519,Good,3.55,9,27531,Leeds Brewery,https://www.beeradvocate.com/beer/profile/27531/, Leeds, GB2,28,16
 12520,Good,3.74,7,44554,Airline Brewing Company,https://www.beeradvocate.com/beer/profile/44554/, Amherst, ME,8,8
 12521,Good,3.51,12,44555,Walhalla Craft Beer,https://www.beeradvocate.com/beer/profile/44555/, Amsterdam, Netherlands,32,8
@@ -12563,7 +12563,7 @@
 12557,Poor,2.62,2,27853,Privatbrauerei Friedrich Düll,https://www.beeradvocate.com/beer/profile/27853/, Volkach-Krautheim, Germany,3,2
 12558,Good,3.65,23,27855,3 Guys & A Beer'd Brewing Company,https://www.beeradvocate.com/beer/profile/27855/, Carbondale, PA,95,10
 12559,Good,3.52,8,27861,Unity Vibration,https://www.beeradvocate.com/beer/profile/27861/, Ypsilanti, MI,384,89
-12560,NA,0,1,27862,Le Coureur Des Bois,https://www.beeradvocate.com/beer/profile/27862/, Dolbeau-Mistassini, QC,0,0
+12560,,0.0,1,27862,Le Coureur Des Bois,https://www.beeradvocate.com/beer/profile/27862/, Dolbeau-Mistassini, QC,0,0
 12561,Good,3.67,24,27863,Microbrasserie Des Beaux Prés,https://www.beeradvocate.com/beer/profile/27863/, Sainte-Anne-de-Beaupré, QC,26,6
 12562,Okay,3.34,8,27866,Os Três Cervejeiros,https://www.beeradvocate.com/beer/profile/27866/, Porto, Portugal,54,19
 12563,Very Good,3.95,92,27870,4 Hands Brewing Co.,https://www.beeradvocate.com/beer/profile/27870/, Saint Louis, MO,"8,066","1,224"
@@ -12634,7 +12634,7 @@
 12628,Very Good,3.85,30,28227,White Flame Brewing Co.,https://www.beeradvocate.com/beer/profile/28227/, Hudsonville, MI,157,12
 12629,Okay,3.18,4,28228,БогерХоф (Bogerhof),https://www.beeradvocate.com/beer/profile/28228/, Анапа (Anapa), Russian Federation,6,4
 12630,Good,3.72,8,28243,Liverpool Organic Brewery,https://www.beeradvocate.com/beer/profile/28243/, Liverpool, GB2,18,7
-12631,NA,0,10,28246,Марксовский Пивзавод (Marxovskiy Pivzavod),https://www.beeradvocate.com/beer/profile/28246/, Маркс (Marx), Russian Federation,0,0
+12631,,0.0,10,28246,Марксовский Пивзавод (Marxovskiy Pivzavod),https://www.beeradvocate.com/beer/profile/28246/, Маркс (Marx), Russian Federation,0,0
 12632,Good,3.64,15,28250,Shades Of Pale Brewing Company,https://www.beeradvocate.com/beer/profile/28250/, Salt Lake City, UT,87,35
 12633,Very Good,3.82,14,28253,Moonlight Pizza And BrewPub,https://www.beeradvocate.com/beer/profile/28253/, Salida, CO,28,3
 12634,Good,3.68,65,28255,Buffalo Bayou Brewing Co,https://www.beeradvocate.com/beer/profile/28255/, Houston, TX,"1,784",199
@@ -12647,13 +12647,13 @@
 12641,Good,3.55,6,28272,Treboom Brewery,https://www.beeradvocate.com/beer/profile/28272/, York, GB2,6,6
 12642,Okay,3.26,1,28274,Altstadt Brewery,https://www.beeradvocate.com/beer/profile/28274/, Kaliningrad, Russian Federation,1,1
 12643,Poor,2.55,5,28275,Taiwan Tsing Beer Co.,https://www.beeradvocate.com/beer/profile/28275/, Ltd., Kaohsiung City,34,5
-12644,NA,0,17,28276,Khaninskaya Pivovarnya,https://www.beeradvocate.com/beer/profile/28276/, Tula, Russian Federation,0,0
+12644,,0.0,17,28276,Khaninskaya Pivovarnya,https://www.beeradvocate.com/beer/profile/28276/, Tula, Russian Federation,0,0
 12645,Very Good,3.75,65,28281,Kulshan Brewing Company,https://www.beeradvocate.com/beer/profile/28281/, Bellingham, WA,420,123
 12646,Good,3.58,42,28282,Puyallup River Brewing,https://www.beeradvocate.com/beer/profile/28282/, Puyallup, WA,152,38
 12647,Okay,3.22,20,28283,Бочкаревский пивоваренный завод (Bochkarevskiy Pivovarennyi Zavod),https://www.beeradvocate.com/beer/profile/28283/, Бочкари (Bochkari), Russian Federation,13,8
-12648,NA,0,11,28284,Kovrovskaya Pivovarennaya Kompaniya Lyubets,https://www.beeradvocate.com/beer/profile/28284/, Ковров (Kovrov), Russian Federation,0,0
+12648,,0.0,11,28284,Kovrovskaya Pivovarennaya Kompaniya Lyubets,https://www.beeradvocate.com/beer/profile/28284/, Ковров (Kovrov), Russian Federation,0,0
 12649,Good,3.7,21,28290,Buckeye Lake Brewery,https://www.beeradvocate.com/beer/profile/28290/, Buckeye Lake, OH,195,44
-12650,Poor,2.84,23,28292,OOO ,https://www.beeradvocate.com/beer/profile/28292/,NA,NA,30,12
+12650,Poor,2.84,23,28292,OOO ,https://www.beeradvocate.com/beer/profile/28292/,,,30,12
 12651,Poor,2.78,6,28294,Toro Paire,https://www.beeradvocate.com/beer/profile/28294/, Quillón, Chile,4,4
 12652,Good,3.58,1,28296,Brauerei Gerhard Först,https://www.beeradvocate.com/beer/profile/28296/, Eggolsheim, Germany,1,1
 12653,Very Good,3.75,18,28297,West Mountain Brewing Co.,https://www.beeradvocate.com/beer/profile/28297/, Fayetteville, AR,13,3
@@ -12663,9 +12663,9 @@
 12657,Poor,2.85,10,28309,Brestskiy Kombinat Bezalkogolnych Napitkov,https://www.beeradvocate.com/beer/profile/28309/, Брэ́ст (Brest), Belarus,10,9
 12658,Poor,2.54,1,28310,Polotskiy Pivovarennyi Zavod,https://www.beeradvocate.com/beer/profile/28310/, По́лацк (Polotsk), Belarus,1,1
 12659,Poor,2.98,8,28311,Alivaria Pivzavod,https://www.beeradvocate.com/beer/profile/28311/, Minsk, Belarus,27,10
-12660,NA,0,10,28317,OOO Bark,https://www.beeradvocate.com/beer/profile/28317/, Владивосто́к (Vladivostok), Russian Federation,0,0
-12661,NA,0,10,28319,Artemovskiy Zavod ,https://www.beeradvocate.com/beer/profile/28319/,NA,NA,0,0
-12662,NA,0,11,28322,OOO ''Ussuriyskoe Pivo'',https://www.beeradvocate.com/beer/profile/28322/, Уссури́йск (Ussuriysk), Russian Federation,0,0
+12660,,0.0,10,28317,OOO Bark,https://www.beeradvocate.com/beer/profile/28317/, Владивосто́к (Vladivostok), Russian Federation,0,0
+12661,,0.0,10,28319,Artemovskiy Zavod ,https://www.beeradvocate.com/beer/profile/28319/,,,0,0
+12662,,0.0,11,28322,OOO ''Ussuriyskoe Pivo'',https://www.beeradvocate.com/beer/profile/28322/, Уссури́йск (Ussuriysk), Russian Federation,0,0
 12663,Good,3.63,43,28356,Doylestown Brewing Co,https://www.beeradvocate.com/beer/profile/28356/, Doylestown, PA,125,18
 12664,Very Good,3.89,5,28359,Brabante Cervezas,https://www.beeradvocate.com/beer/profile/28359/, Madrid, Spain,16,8
 12665,Very Good,3.9,3,28360,Tarraco Beer,https://www.beeradvocate.com/beer/profile/28360/, Tarragona, Spain,6,4
@@ -12674,21 +12674,21 @@
 12668,Very Good,3.92,5,28367,The Cockpit Brewhouse,https://www.beeradvocate.com/beer/profile/28367/, Cullinan, South Africa,1,1
 12669,Good,3.61,12,28379,Fort Cerveza Artesanal,https://www.beeradvocate.com/beer/profile/28379/, Hospitalet De Llobregat, Spain,34,15
 12670,Exceptional,4.07,405,28383,Tired Hands Brewing Company,https://www.beeradvocate.com/beer/profile/28383/, Ardmore, PA,"13,301","2,087"
-12671,Okay,3,15,28384,Private Brewery ,https://www.beeradvocate.com/beer/profile/28384/,NA,NA,1,0
+12671,Okay,3.0,15,28384,Private Brewery ,https://www.beeradvocate.com/beer/profile/28384/,,,1,0
 12672,Good,3.72,22,28387,RedWillow Brewery,https://www.beeradvocate.com/beer/profile/28387/, Macclesfield, GB2,85,47
 12673,Very Good,3.89,27,28391,Mother Road Brewery,https://www.beeradvocate.com/beer/profile/28391/, Flagstaff, AZ,460,102
 12674,Good,3.61,5,28395,Kissingate Brewery,https://www.beeradvocate.com/beer/profile/28395/, Lower Beeding, GB2,5,1
 12675,Okay,3.49,6,28397,South Austin Brewery,https://www.beeradvocate.com/beer/profile/28397/, Austin, TX,236,32
-12676,Poor,2.99,2,28398,ЗАО ,https://www.beeradvocate.com/beer/profile/28398/,NA,NA,2,1
-12677,Poor,2.97,23,28399,AB ,https://www.beeradvocate.com/beer/profile/28399/,NA,NA,26,3
+12676,Poor,2.99,2,28398,ЗАО ,https://www.beeradvocate.com/beer/profile/28398/,,,2,1
+12677,Poor,2.97,23,28399,AB ,https://www.beeradvocate.com/beer/profile/28399/,,,26,3
 12678,Very Good,3.93,17,28402,Brasserie De Bastogne,https://www.beeradvocate.com/beer/profile/28402/, Vaux-sur-Sûre, Belgium,109,33
-12679,Okay,3.14,9,28423,ZAO ''Pivovarenniy Zavod Lyskovskiy'' (ЗАО ,https://www.beeradvocate.com/beer/profile/28423/,NA,NA,12,7
+12679,Okay,3.14,9,28423,ZAO ''Pivovarenniy Zavod Lyskovskiy'' (ЗАО ,https://www.beeradvocate.com/beer/profile/28423/,,,12,7
 12680,Very Good,3.93,21,28428,Brewmaster Jack,https://www.beeradvocate.com/beer/profile/28428/, Northampton, MA,"1,469",308
 12681,Good,3.54,9,28433,Double Trouble Brewing Co.,https://www.beeradvocate.com/beer/profile/28433/, Guelph, ON,533,159
 12682,Okay,3.47,26,28437,Vasileostrovskaya Brewery (Василеостровская Пивоварня),https://www.beeradvocate.com/beer/profile/28437/, St. Petersburg, Russian Federation,80,17
 12683,Exceptional,4.04,43,28439,TRVE Brewing Co.,https://www.beeradvocate.com/beer/profile/28439/, Denver, CO,609,116
 12684,Very Good,3.8,29,28440,ZwanzigZ,https://www.beeradvocate.com/beer/profile/28440/, Columbus, IN,75,12
-12685,NA,0,6,28448,Hansebier,https://www.beeradvocate.com/beer/profile/28448/, St. Petersburg, Russian Federation,0,0
+12685,,0.0,6,28448,Hansebier,https://www.beeradvocate.com/beer/profile/28448/, St. Petersburg, Russian Federation,0,0
 12686,Poor,2.98,5,28468,Zehn Bier,https://www.beeradvocate.com/beer/profile/28468/, Brusque, Brazil,12,5
 12687,Okay,3.01,2,28473,AORA Cerveza SL,https://www.beeradvocate.com/beer/profile/28473/, Cacabelos, Spain,2,2
 12688,World-Class,4.57,1,28474,Steve's Brave New Beer,https://www.beeradvocate.com/beer/profile/28474/, Barcelona, Spain,2,1
@@ -12713,7 +12713,7 @@
 12707,Very Good,3.84,50,28567,Tin Man Brewing Company,https://www.beeradvocate.com/beer/profile/28567/, Evansville, IN,"1,007",197
 12708,Good,3.74,38,28568,Garage Project,https://www.beeradvocate.com/beer/profile/28568/, Wellington, New Zealand (Aotearoa),371,130
 12709,Very Good,3.75,53,28569,Obed & Isaac's Microbrewery & Eatery,https://www.beeradvocate.com/beer/profile/28569/, Springfield, IL,163,8
-12710,NA,0,1,28570,Home Of The Brave Brewing Company,https://www.beeradvocate.com/beer/profile/28570/, Honolulu, HI,0,0
+12710,,0.0,1,28570,Home Of The Brave Brewing Company,https://www.beeradvocate.com/beer/profile/28570/, Honolulu, HI,0,0
 12711,Good,3.57,18,28575,Microbrasserie Aux Fous Brassant,https://www.beeradvocate.com/beer/profile/28575/, Rivière-du-Loup, QC,46,22
 12712,Okay,3.38,11,28581,Klein Bier,https://www.beeradvocate.com/beer/profile/28581/, Campo Largo, Brazil,38,16
 12713,Very Good,3.79,1,28583,Hop'n Roll,https://www.beeradvocate.com/beer/profile/28583/, Curitiba - PR, Brazil,1,1
@@ -12743,7 +12743,7 @@
 12737,Good,3.59,20,28673,Valley Vinyards / Cellar Dweller Craft Beers,https://www.beeradvocate.com/beer/profile/28673/, Morrow, OH,51,8
 12738,Okay,3.26,5,28679,Brasserie Artisanale Du Jorat,https://www.beeradvocate.com/beer/profile/28679/, Vulliens, Switzerland,9,5
 12739,Good,3.71,26,28693,Outlaw Brewing,https://www.beeradvocate.com/beer/profile/28693/, Bozeman, MT,74,23
-12740,NA,0,6,28700,Roma Restaurant & Brewery,https://www.beeradvocate.com/beer/profile/28700/, Willernie, MN,0,0
+12740,,0.0,6,28700,Roma Restaurant & Brewery,https://www.beeradvocate.com/beer/profile/28700/, Willernie, MN,0,0
 12741,Very Good,3.76,31,28702,Argilla Brewing Co.,https://www.beeradvocate.com/beer/profile/28702/, Newark, DE,45,11
 12742,Good,3.53,26,28715,Westfield River Brewing Company,https://www.beeradvocate.com/beer/profile/28715/, Southwick, MA,138,34
 12743,Good,3.51,11,28719,Port Huron Brewing Company,https://www.beeradvocate.com/beer/profile/28719/, Wisconsin Dells, WI,116,31
@@ -12765,7 +12765,7 @@
 12759,Good,3.65,17,28772,The Cromarty Brewing Company,https://www.beeradvocate.com/beer/profile/28772/, Cromarty, GB6,79,44
 12760,Okay,3.23,14,28773,By The Horns,https://www.beeradvocate.com/beer/profile/28773/, London, GB2,32,11
 12761,Good,3.5,11,28774,Kent Brewery,https://www.beeradvocate.com/beer/profile/28774/, West Malling, GB2,13,8
-12762,NA,0,15,28776,Ironbark Brewery,https://www.beeradvocate.com/beer/profile/28776/, Caversham, Australia,0,0
+12762,,0.0,15,28776,Ironbark Brewery,https://www.beeradvocate.com/beer/profile/28776/, Caversham, Australia,0,0
 12763,Very Good,3.9,6,28777,Blue Bee Brewery,https://www.beeradvocate.com/beer/profile/28777/, Sheffield, GB2,7,4
 12764,Very Good,3.82,9,28778,The Beer Diviner,https://www.beeradvocate.com/beer/profile/28778/, Cherry Plain, NY,59,14
 12765,Good,3.74,37,28784,8th Wonder Brewery,https://www.beeradvocate.com/beer/profile/28784/, Houston, TX,722,105
@@ -12795,7 +12795,7 @@
 12789,Very Good,3.96,35,28879,3 Sheeps Brewing,https://www.beeradvocate.com/beer/profile/28879/, Sheboygan, WI,"1,163",213
 12790,Okay,3.25,4,28900,East 9th Brewing Co,https://www.beeradvocate.com/beer/profile/28900/, Prahran, Australia,13,7
 12791,Good,3.59,14,28901,Echo Brewing Company,https://www.beeradvocate.com/beer/profile/28901/, Frederick, CO,31,8
-12792,Good,3.59,87,28908,Utah Brewers Cooperative,https://www.beeradvocate.com/beer/profile/28908/, UT,NA,"7,018","2,435"
+12792,Good,3.59,87,28908,Utah Brewers Cooperative,https://www.beeradvocate.com/beer/profile/28908/, UT,,"7,018","2,435"
 12793,Poor,2.25,6,28916,Asia Brewery,https://www.beeradvocate.com/beer/profile/28916/, Cabuyao, Philippines,16,2
 12794,Okay,3.33,3,28927,Colonsay Brewery,https://www.beeradvocate.com/beer/profile/28927/, Isle Of Colonsay, GB6,8,5
 12795,Okay,3.19,1,28934,New World Beverages,https://www.beeradvocate.com/beer/profile/28934/, Queens, NY,6,0
@@ -12803,7 +12803,7 @@
 12797,Poor,2.5,1,28940,White's Brewery,https://www.beeradvocate.com/beer/profile/28940/, Bracknell, GB2,1,1
 12798,Poor,2.4,9,28943,Helsingborgs Bryggeri,https://www.beeradvocate.com/beer/profile/28943/, Helsingborg, Sweden,19,8
 12799,Okay,3.31,3,28948,Birra 08,https://www.beeradvocate.com/beer/profile/28948/, Barcelona, Spain,6,5
-12800,NA,0,1,28958,Bodega12,https://www.beeradvocate.com/beer/profile/28958/, Guadalajara (Jalisco), Mexico,0,0
+12800,,0.0,1,28958,Bodega12,https://www.beeradvocate.com/beer/profile/28958/, Guadalajara (Jalisco), Mexico,0,0
 12801,Poor,2.2,10,28965,Motala Brygghus,https://www.beeradvocate.com/beer/profile/28965/, Motala, Sweden,15,10
 12802,Poor,2.28,1,28969,Carmel Valley Brewing,https://www.beeradvocate.com/beer/profile/28969/, Carmel Valley, CA,5,1
 12803,Very Good,3.87,9,28972,7Stern Bräu,https://www.beeradvocate.com/beer/profile/28972/, Wien, Austria,16,3
@@ -12938,7 +12938,7 @@
 12932,Very Good,3.95,43,29377,Union Craft Brewing Company,https://www.beeradvocate.com/beer/profile/29377/, Baltimore, MD,"2,451",407
 12933,Good,3.74,85,29378,Parallel 49 Brewing Company,https://www.beeradvocate.com/beer/profile/29378/, Vancouver, BC,"2,243",530
 12934,Very Good,3.75,23,29387,Sasquatch Brewing Company,https://www.beeradvocate.com/beer/profile/29387/, Portland, OR,76,5
-12935,Exceptional,4,20,29390,Boothbay Craft Brewery / Watershed Tavern,https://www.beeradvocate.com/beer/profile/29390/, Boothbay, ME,129,31
+12935,Exceptional,4.0,20,29390,Boothbay Craft Brewery / Watershed Tavern,https://www.beeradvocate.com/beer/profile/29390/, Boothbay, ME,129,31
 12936,Very Good,3.94,4,29392,Zeven Zonden (Seven Sins),https://www.beeradvocate.com/beer/profile/29392/, Gullegem, Belgium,45,13
 12937,Very Good,3.98,35,29395,Hogshead Brewery,https://www.beeradvocate.com/beer/profile/29395/, Denver, CO,231,52
 12938,Good,3.63,13,29398,Charter Oak Brewing Co.,https://www.beeradvocate.com/beer/profile/29398/, New Canaan, CT,180,45
@@ -13012,7 +13012,7 @@
 13006,Okay,3.35,6,29715,Slaughter County Brewing,https://www.beeradvocate.com/beer/profile/29715/, Port Orchard, WA,10,2
 13007,Good,3.64,7,29717,Gloucester Brewery,https://www.beeradvocate.com/beer/profile/29717/, Gloucester, GB2,10,4
 13008,Good,3.58,14,29733,EagleMonk Pub and Brewery,https://www.beeradvocate.com/beer/profile/29733/, Lansing, MI,81,10
-13009,Exceptional,4,43,29744,BarrelHouse Brewing Company,https://www.beeradvocate.com/beer/profile/29744/, Paso Robles, CA,657,143
+13009,Exceptional,4.0,43,29744,BarrelHouse Brewing Company,https://www.beeradvocate.com/beer/profile/29744/, Paso Robles, CA,657,143
 13010,Very Good,3.79,17,29745,Cedar Creek Brewery,https://www.beeradvocate.com/beer/profile/29745/, Kemp, TX,962,149
 13011,Very Good,3.76,36,29747,Druthers Brewing Company,https://www.beeradvocate.com/beer/profile/29747/, Saratoga Springs, NY,321,26
 13012,Good,3.73,3,29749,Firehall Brewery,https://www.beeradvocate.com/beer/profile/29749/, Oliver, BC,13,2
@@ -13079,7 +13079,7 @@
 13073,Very Good,3.76,33,30001,Beards Brewery,https://www.beeradvocate.com/beer/profile/30001/, Petoskey, MI,116,22
 13074,Good,3.66,38,30007,3rd Wave Brewing Company,https://www.beeradvocate.com/beer/profile/30007/, Delmar, DE,210,34
 13075,Good,3.5,23,30008,Brewery Ferment,https://www.beeradvocate.com/beer/profile/30008/, Traverse City, MI,74,3
-13076,Exceptional,4,1,30011,Barefoot Brewing Company (Jungle Beer),https://www.beeradvocate.com/beer/profile/30011/, Singapore, Singapore,4,1
+13076,Exceptional,4.0,1,30011,Barefoot Brewing Company (Jungle Beer),https://www.beeradvocate.com/beer/profile/30011/, Singapore, Singapore,4,1
 13077,Very Good,3.8,26,30015,Southbound Brewing Company,https://www.beeradvocate.com/beer/profile/30015/, Savannah, GA,699,130
 13078,Very Good,3.96,55,30017,Bemidji Brewing Company,https://www.beeradvocate.com/beer/profile/30017/, LLC, Bemidji,98,31
 13079,Very Good,3.8,29,30019,Solera Brewery,https://www.beeradvocate.com/beer/profile/30019/, Mount Hood Parkdale, OR,37,6
@@ -13091,14 +13091,14 @@
 13085,Good,3.63,37,30031,Kinney Creek Brewery,https://www.beeradvocate.com/beer/profile/30031/, Rochester, MN,91,33
 13086,Good,3.72,3,30035,Stift Engelszell,https://www.beeradvocate.com/beer/profile/30035/, Engelhartszell, Austria,906,259
 13087,Good,3.55,11,30042,Red Wing Brewery,https://www.beeradvocate.com/beer/profile/30042/, Red Wing, MN,49,6
-13088,NA,0,4,30046,Festival Brewery,https://www.beeradvocate.com/beer/profile/30046/, Cheltenham, GB2,0,0
+13088,,0.0,4,30046,Festival Brewery,https://www.beeradvocate.com/beer/profile/30046/, Cheltenham, GB2,0,0
 13089,Good,3.56,7,30047,Alexander,https://www.beeradvocate.com/beer/profile/30047/, Emek Hefer, Israel,54,19
 13090,Good,3.54,18,30050,Outlander Brewery & Pub,https://www.beeradvocate.com/beer/profile/30050/, Seattle, WA,20,1
 13091,Good,3.63,15,30055,Schoppe Bräu,https://www.beeradvocate.com/beer/profile/30055/, Berlin, Germany,46,15
 13092,Okay,3.21,6,30061,Bricks & Barley Brewing Company,https://www.beeradvocate.com/beer/profile/30061/, Milwaukee, WI,50,18
 13093,Good,3.72,39,30062,Stony Creek Brewery,https://www.beeradvocate.com/beer/profile/30062/, Branford, CT,"1,101",250
 13094,Good,3.63,12,30064,Kereru Brewing Company,https://www.beeradvocate.com/beer/profile/30064/, Upper Hutt, New Zealand (Aotearoa),22,6
-13095,Exceptional,4,31,30073,Wild Woods Brewery,https://www.beeradvocate.com/beer/profile/30073/, Boulder, CO,101,10
+13095,Exceptional,4.0,31,30073,Wild Woods Brewery,https://www.beeradvocate.com/beer/profile/30073/, Boulder, CO,101,10
 13096,Very Good,3.98,6,30077,Bravo! Restaurant & Cafe,https://www.beeradvocate.com/beer/profile/30077/, Portage, MI,3,1
 13097,Exceptional,4.02,56,30081,Sloop Brewing,https://www.beeradvocate.com/beer/profile/30081/, Elizaville, NY,"1,284",198
 13098,Good,3.63,2,30092,Propeller Getränke,https://www.beeradvocate.com/beer/profile/30092/, Bad Laasphe, Germany,31,13
@@ -13176,7 +13176,7 @@
 13170,Very Good,3.76,16,30322,Woodcock Brothers Brewing Company,https://www.beeradvocate.com/beer/profile/30322/, Wilson, NY,76,10
 13171,Outstanding,4.25,2,51617,Hollow Pointe Brewery,https://www.beeradvocate.com/beer/profile/51617/, Nashville, TN,2,0
 13172,Okay,3.31,12,30324,Cervejaria Santa Catarina Ltda (Saint Bier),https://www.beeradvocate.com/beer/profile/30324/, Forquilhinha, Brazil,29,12
-13173,NA,0,12,30331,Appanoose Rapids Brewing Company,https://www.beeradvocate.com/beer/profile/30331/, Ottumwa, IA,0,0
+13173,,0.0,12,30331,Appanoose Rapids Brewing Company,https://www.beeradvocate.com/beer/profile/30331/, Ottumwa, IA,0,0
 13174,Okay,3.46,10,30332,Hog’s Head Brewing Company,https://www.beeradvocate.com/beer/profile/30332/, St. Albert, AB,77,22
 13175,Good,3.65,5,30333,Stroud Brewery Ltd,https://www.beeradvocate.com/beer/profile/30333/, Stroud, GB2,11,7
 13176,Good,3.73,11,30338,DijkWaert,https://www.beeradvocate.com/beer/profile/30338/, Herentals, Belgium,9,7
@@ -13201,7 +13201,7 @@
 13195,Very Good,3.77,8,30406,Dragon's Gate Brewery,https://www.beeradvocate.com/beer/profile/30406/, Milton Freewater, OR,8,1
 13196,Very Good,3.97,17,30407,Arcana Brewing Company,https://www.beeradvocate.com/beer/profile/30407/, Carlsbad, CA,21,0
 13197,Good,3.66,25,30409,West Flanders Brewing Co.,https://www.beeradvocate.com/beer/profile/30409/, Boulder, CO,169,13
-13198,Exceptional,4,1,30413,El Pedal,https://www.beeradvocate.com/beer/profile/30413/, Madrid, Spain,1,1
+13198,Exceptional,4.0,1,30413,El Pedal,https://www.beeradvocate.com/beer/profile/30413/, Madrid, Spain,1,1
 13199,Good,3.6,21,30416,Big Elm Brewing,https://www.beeradvocate.com/beer/profile/30416/, Sheffield, MA,443,85
 13200,Okay,3.01,5,30418,Bosphorus Brewing Company,https://www.beeradvocate.com/beer/profile/30418/, Istanbul, Turkey,7,1
 13201,Okay,3.2,6,30420,Sunbeam Ales,https://www.beeradvocate.com/beer/profile/30420/, Leeds, GB2,5,5
@@ -13210,8 +13210,8 @@
 13204,Good,3.69,30,30434,603 Brewery,https://www.beeradvocate.com/beer/profile/30434/, Londonderry, NH,543,140
 13205,Good,3.58,11,30436,Bucket Brewery,https://www.beeradvocate.com/beer/profile/30436/, Pawtucket, RI,133,32
 13206,Very Good,3.81,59,30437,Two Roads Brewing Company,https://www.beeradvocate.com/beer/profile/30437/, Stratford, CT,"8,459","1,579"
-13207,Okay,3.12,6,30440,Pivovarennyi Dom ,https://www.beeradvocate.com/beer/profile/30440/,NA,NA,4,2
-13208,NA,0,8,30441,La Val Heureuse,https://www.beeradvocate.com/beer/profile/30441/, Girmont-Val-d'Ajol, France,0,0
+13207,Okay,3.12,6,30440,Pivovarennyi Dom ,https://www.beeradvocate.com/beer/profile/30440/,,,4,2
+13208,,0.0,8,30441,La Val Heureuse,https://www.beeradvocate.com/beer/profile/30441/, Girmont-Val-d'Ajol, France,0,0
 13209,Very Good,3.81,40,30450,Gravity Brewing,https://www.beeradvocate.com/beer/profile/30450/, Louisville, CO,133,32
 13210,Exceptional,4.08,108,30452,SingleCut Beersmiths,https://www.beeradvocate.com/beer/profile/30452/, Queens, NY,"8,934","1,724"
 13211,Very Good,3.98,91,30454,Spiteful Brewing,https://www.beeradvocate.com/beer/profile/30454/, Chicago, IL,"3,377",497
@@ -13244,7 +13244,7 @@
 13238,Very Good,3.77,26,30553,Backpocket Brewing,https://www.beeradvocate.com/beer/profile/30553/, Coralville, IA,605,123
 13239,Exceptional,4.16,1,30555,La Brasserie du Chauve,https://www.beeradvocate.com/beer/profile/30555/, Fribourg, Switzerland,3,1
 13240,Okay,3.43,7,30561,Ramblin' Road Brewery Farm,https://www.beeradvocate.com/beer/profile/30561/, La Salette, ON,32,11
-13241,NA,0,1,30562,Sea Dog Brewing Company,https://www.beeradvocate.com/beer/profile/30562/, Clearwater, FL,0,0
+13241,,0.0,1,30562,Sea Dog Brewing Company,https://www.beeradvocate.com/beer/profile/30562/, Clearwater, FL,0,0
 13242,Good,3.61,2,30565,Clearwater Brewery,https://www.beeradvocate.com/beer/profile/30565/, Torrington, GB2,2,2
 13243,Good,3.74,41,30567,Rockford Brewing Company,https://www.beeradvocate.com/beer/profile/30567/, Rockford, MI,204,23
 13244,Very Good,3.95,40,30575,The Mitten Brewing Co.,https://www.beeradvocate.com/beer/profile/30575/, Grand Rapids, MI,248,15
@@ -13252,7 +13252,7 @@
 13246,Very Good,3.97,213,30581,Wicked Weed Brewing,https://www.beeradvocate.com/beer/profile/30581/, Asheville, NC,"16,372","2,468"
 13247,Okay,3.25,4,30583,Thirsty Dog Tavern & Café,https://www.beeradvocate.com/beer/profile/30583/, Auckland, New Zealand (Aotearoa),1,1
 13248,Good,3.74,51,30584,Thorn Street Brewery,https://www.beeradvocate.com/beer/profile/30584/, San Diego, CA,230,28
-13249,Exceptional,4,30,30585,Bog Iron Brewing,https://www.beeradvocate.com/beer/profile/30585/, Norton, MA,364,102
+13249,Exceptional,4.0,30,30585,Bog Iron Brewing,https://www.beeradvocate.com/beer/profile/30585/, Norton, MA,364,102
 13250,Good,3.69,19,30587,Public Craft Brewing Company,https://www.beeradvocate.com/beer/profile/30587/, Kenosha, WI,87,17
 13251,Okay,3.45,32,30589,Island Hoppin' Brewery,https://www.beeradvocate.com/beer/profile/30589/, Eastsound, WA,89,24
 13252,Good,3.71,15,30591,Great Black Swamp Brewing Co.,https://www.beeradvocate.com/beer/profile/30591/, Toledo, OH,85,21
@@ -13269,7 +13269,7 @@
 13263,Exceptional,4.06,57,30626,Daredevil Brewing Co.,https://www.beeradvocate.com/beer/profile/30626/, Indianapolis, IN,456,51
 13264,Very Good,3.92,30,30629,Karben4 Brewing,https://www.beeradvocate.com/beer/profile/30629/, Madison, WI,"1,572",219
 13265,Okay,3.49,3,30632,Cerveza Artesanal Beagle,https://www.beeradvocate.com/beer/profile/30632/, Ushuaia, Argentina,9,3
-13266,NA,0,5,30633,Rubiu,https://www.beeradvocate.com/beer/profile/30633/, Sant'antioco, Italy,0,0
+13266,,0.0,5,30633,Rubiu,https://www.beeradvocate.com/beer/profile/30633/, Sant'antioco, Italy,0,0
 13267,Good,3.54,3,30634,Cervejaria Britannica,https://www.beeradvocate.com/beer/profile/30634/, Valinhos, Brazil,5,3
 13268,Okay,3.29,3,30640,Smith Rock Brewing,https://www.beeradvocate.com/beer/profile/30640/, Redmond, OR,3,0
 13269,Good,3.55,16,30643,Slanted Rock Brewing Company,https://www.beeradvocate.com/beer/profile/30643/, Meridian, ID,77,34
@@ -13318,15 +13318,15 @@
 13312,Very Good,3.82,28,30815,Parkway Brewing Co.,https://www.beeradvocate.com/beer/profile/30815/, Salem, VA,949,210
 13313,Okay,3.04,10,30816,Armstrong Brewing Co.,https://www.beeradvocate.com/beer/profile/30816/, South San Francisco, CA,5,0
 13314,Good,3.72,10,30818,Good George Brewing,https://www.beeradvocate.com/beer/profile/30818/, Frankton, New Zealand (Aotearoa),18,9
-13315,NA,0,12,30821,Brew Bistro & Lounge,https://www.beeradvocate.com/beer/profile/30821/, Nairobi, Kenya,0,0
+13315,,0.0,12,30821,Brew Bistro & Lounge,https://www.beeradvocate.com/beer/profile/30821/, Nairobi, Kenya,0,0
 13316,Poor,2.95,1,30823,Cerveza Artesanal Las Llaves de San Pedro,https://www.beeradvocate.com/beer/profile/30823/, Valladolid, Spain,2,1
 13317,Very Good,3.78,29,30824,Ship Bottom Brewery,https://www.beeradvocate.com/beer/profile/30824/, Beach Haven, NJ,186,44
-13318,NA,0,3,30826,Flat Rock Brew Cafe,https://www.beeradvocate.com/beer/profile/30826/, Naremburn, Australia,0,0
+13318,,0.0,3,30826,Flat Rock Brew Cafe,https://www.beeradvocate.com/beer/profile/30826/, Naremburn, Australia,0,0
 13319,Good,3.51,12,30833,South Bend Brew Werks,https://www.beeradvocate.com/beer/profile/30833/, South Bend, IN,13,3
-13320,Exceptional,4,4,30834,Propaganda Brewing,https://www.beeradvocate.com/beer/profile/30834/, San Pedro Garza García (Nuevo León), Mexico,26,8
+13320,Exceptional,4.0,4,30834,Propaganda Brewing,https://www.beeradvocate.com/beer/profile/30834/, San Pedro Garza García (Nuevo León), Mexico,26,8
 13321,Poor,2.92,2,30838,Lao Asia Pacific Breweries,https://www.beeradvocate.com/beer/profile/30838/, Tha Ngon, Laos,9,6
 13322,Good,3.67,17,30839,Flesk Brewing Company,https://www.beeradvocate.com/beer/profile/30839/, Barrington, IL,177,29
-13323,NA,0,4,30844,No Limit Brewing,https://www.beeradvocate.com/beer/profile/30844/, Las Vegas, NV,0,0
+13323,,0.0,4,30844,No Limit Brewing,https://www.beeradvocate.com/beer/profile/30844/, Las Vegas, NV,0,0
 13324,Good,3.73,41,30845,Oersoep,https://www.beeradvocate.com/beer/profile/30845/, Nijmegen, Netherlands,131,38
 13325,Exceptional,4.09,106,30858,Aardwolf Brewing Company,https://www.beeradvocate.com/beer/profile/30858/, Jacksonville, FL,752,166
 13326,Good,3.63,1,6134,Privatbrauerei Ludwig Würth,https://www.beeradvocate.com/beer/profile/6134/, Windischeschenbach, Germany,1,1
@@ -13413,7 +13413,7 @@
 13407,Very Good,3.77,7,31061,Břevnovský Klášterní Pivovar,https://www.beeradvocate.com/beer/profile/31061/, Praha, Czech Republic,33,10
 13408,Very Good,3.78,104,31066,Pinthouse Pizza Craft Brewpub,https://www.beeradvocate.com/beer/profile/31066/, Austin, TX,637,51
 13409,Okay,3.45,4,31076,Public Works Ale,https://www.beeradvocate.com/beer/profile/31076/, Baltimore, MD,112,19
-13410,Okay,3,3,31085,Bad Water Brewing,https://www.beeradvocate.com/beer/profile/31085/, Scottsdale, AZ,74,12
+13410,Okay,3.0,3,31085,Bad Water Brewing,https://www.beeradvocate.com/beer/profile/31085/, Scottsdale, AZ,74,12
 13411,Okay,3.31,6,31088,Reuzenbieren,https://www.beeradvocate.com/beer/profile/31088/, Moergestel, Netherlands,22,9
 13412,Very Good,3.76,18,31089,Apocalypse Ale Works,https://www.beeradvocate.com/beer/profile/31089/, Forest, VA,383,77
 13413,Very Good,3.92,117,31093,MadTree Brewing,https://www.beeradvocate.com/beer/profile/31093/, Cincinnati, OH,"3,790",595
@@ -13450,7 +13450,7 @@
 13444,Very Good,3.99,5,31201,Downlands Brewery,https://www.beeradvocate.com/beer/profile/31201/, Small Dole, GB2,4,2
 13445,Very Good,3.76,4,31202,Pig and Porter Ltd,https://www.beeradvocate.com/beer/profile/31202/, Ashburnham, GB2,7,4
 13446,Okay,3.47,2,31203,Quantock Brewery,https://www.beeradvocate.com/beer/profile/31203/, Wellington, GB2,2,1
-13447,Exceptional,4,2,31204,Shugborough Brewery,https://www.beeradvocate.com/beer/profile/31204/, Staffordshire, GB2,1,0
+13447,Exceptional,4.0,2,31204,Shugborough Brewery,https://www.beeradvocate.com/beer/profile/31204/, Staffordshire, GB2,1,0
 13448,Good,3.5,2,31205,Strathbraan Brewery,https://www.beeradvocate.com/beer/profile/31205/, Dunkeld, GB6,3,0
 13449,Okay,3.25,6,31206,Banner Beer Company,https://www.beeradvocate.com/beer/profile/31206/, Williamsburg, MA,109,28
 13450,Poor,2.62,1,31211,Birralta Catalan Craft Beers,https://www.beeradvocate.com/beer/profile/31211/, Sant Cebrià de Vallalta, Spain,1,1
@@ -13474,7 +13474,7 @@
 13468,Good,3.62,6,31276,Windmills Craftworks,https://www.beeradvocate.com/beer/profile/31276/, Bangalore, India,5,5
 13469,Okay,3.21,1,6216,J. Stangl Brauerei Klingenbrunn,https://www.beeradvocate.com/beer/profile/6216/, Spiegelau, Germany,1,0
 13470,Okay,3.38,10,31278,8 Sail Brewery,https://www.beeradvocate.com/beer/profile/31278/, Sleaford, GB2,14,13
-13471,NA,0,1,6217,Stern Bräu Gerhard Scheubel,https://www.beeradvocate.com/beer/profile/6217/, Schlüsselfeld, Germany,0,0
+13471,,0.0,1,6217,Stern Bräu Gerhard Scheubel,https://www.beeradvocate.com/beer/profile/6217/, Schlüsselfeld, Germany,0,0
 13472,Very Good,3.95,4,31282,Arch Rock Brewing Company,https://www.beeradvocate.com/beer/profile/31282/, Gold Beach, OR,40,8
 13473,Very Good,3.93,31,31293,Überbrew,https://www.beeradvocate.com/beer/profile/31293/, Billings, MT,158,43
 13474,Good,3.64,39,31300,Our Brewing Co.,https://www.beeradvocate.com/beer/profile/31300/, Holland, MI,70,3
@@ -13488,7 +13488,7 @@
 13482,Very Good,3.96,45,31332,Altamont Beer Works,https://www.beeradvocate.com/beer/profile/31332/, Livermore, CA,763,89
 13483,Outstanding,4.43,7,45306,Bierkeller,https://www.beeradvocate.com/beer/profile/45306/, Columbia, SC,13,4
 13484,Good,3.59,28,31339,Kaktus Brewing Company,https://www.beeradvocate.com/beer/profile/31339/, Bernalillo, NM,41,0
-13485,NA,0,7,31351,Chief Spring's Fire & Irons Brew Pub,https://www.beeradvocate.com/beer/profile/31351/, Dayton, WA,0,0
+13485,,0.0,7,31351,Chief Spring's Fire & Irons Brew Pub,https://www.beeradvocate.com/beer/profile/31351/, Dayton, WA,0,0
 13486,Okay,3.43,2,31354,Cerveceria Santana S.A.S,https://www.beeradvocate.com/beer/profile/31354/, Bogotá, Colombia,2,2
 13487,Very Good,3.9,23,31362,Strong Arm Brewing,https://www.beeradvocate.com/beer/profile/31362/, Renton, WA,16,3
 13488,Exceptional,4.23,28,31363,Fall River Brewing Company,https://www.beeradvocate.com/beer/profile/31363/, Fall River Mills, CA,186,52
@@ -13500,7 +13500,7 @@
 13494,Very Good,3.99,1,31382,Trolden Bryghus ApS,https://www.beeradvocate.com/beer/profile/31382/, Kolding, Denmark,1,0
 13495,Exceptional,4.06,41,31383,Bent Paddle Brewing Co.,https://www.beeradvocate.com/beer/profile/31383/, Duluth, MN,"2,155",409
 13496,Very Good,3.97,32,31384,Old Rail Brewing Company,https://www.beeradvocate.com/beer/profile/31384/, Mandeville, LA,175,29
-13497,Exceptional,4,27,31389,Bale Breaker Brewing Company,https://www.beeradvocate.com/beer/profile/31389/, Yakima, WA,992,212
+13497,Exceptional,4.0,27,31389,Bale Breaker Brewing Company,https://www.beeradvocate.com/beer/profile/31389/, Yakima, WA,992,212
 13498,Very Good,3.91,57,31393,Roughtail Brewing Co.,https://www.beeradvocate.com/beer/profile/31393/, Oklahoma City, OK,888,186
 13499,Good,3.71,29,31398,Aftershock Brewing Co.,https://www.beeradvocate.com/beer/profile/31398/, Temecula, CA,171,61
 13500,Good,3.72,75,31399,Aslan Brewing Company,https://www.beeradvocate.com/beer/profile/31399/, Bellingham, WA,349,86
@@ -13508,10 +13508,10 @@
 13502,Very Good,3.92,45,31407,Saint Archer Brewing Co.,https://www.beeradvocate.com/beer/profile/31407/, San Diego, CA,"1,894",354
 13503,Very Good,3.88,65,31408,Seventh Son Brewing Co.,https://www.beeradvocate.com/beer/profile/31408/, Columbus, OH,"1,004",161
 13504,Good,3.62,2,31417,Csak a jó sör!,https://www.beeradvocate.com/beer/profile/31417/, Budapest, Hungary,2,2
-13505,NA,0,12,31418,Siberia (Сибирь),https://www.beeradvocate.com/beer/profile/31418/, Omsk, Russian Federation,0,0
+13505,,0.0,12,31418,Siberia (Сибирь),https://www.beeradvocate.com/beer/profile/31418/, Omsk, Russian Federation,0,0
 13506,Good,3.65,5,31420,Blue Mountain Pizza and Brew Pub,https://www.beeradvocate.com/beer/profile/31420/, Weaverville, NC,6,1
 13507,Exceptional,4.01,18,31423,Stickmen Brewing Company,https://www.beeradvocate.com/beer/profile/31423/, Lake Oswego, OR,34,10
-13508,NA,0,3,31424,Grillhaus Kadlez,https://www.beeradvocate.com/beer/profile/31424/, Wien, Austria,0,0
+13508,,0.0,3,31424,Grillhaus Kadlez,https://www.beeradvocate.com/beer/profile/31424/, Wien, Austria,0,0
 13509,Good,3.54,24,31425,Lichtenthaler Bräu,https://www.beeradvocate.com/beer/profile/31425/, Wien, Austria,6,3
 13510,Okay,3.42,3,31426,Universitätsbräuhaus,https://www.beeradvocate.com/beer/profile/31426/, Wien, Austria,3,3
 13511,Poor,2.31,1,31427,Keltek Brewery,https://www.beeradvocate.com/beer/profile/31427/, Redruth, GB2,1,0
@@ -13542,7 +13542,7 @@
 13536,Good,3.61,33,31492,Shebeen Brewing Company,https://www.beeradvocate.com/beer/profile/31492/, Wolcott, CT,413,79
 13537,Very Good,3.8,33,31493,Deep River Brewing Co.,https://www.beeradvocate.com/beer/profile/31493/, Clayton, NC,619,132
 13538,Very Good,3.8,1,31504,Baja Craft Beers (BCB) Tasting Room,https://www.beeradvocate.com/beer/profile/31504/, Tijuana (Baja California), Mexico,1,0
-13539,NA,0,2,31505,Monrovia Breweries Inc.,https://www.beeradvocate.com/beer/profile/31505/, Monrovia, Liberia,0,0
+13539,,0.0,2,31505,Monrovia Breweries Inc.,https://www.beeradvocate.com/beer/profile/31505/, Monrovia, Liberia,0,0
 13540,Very Good,3.81,85,31515,Liquid Riot Bottling Company,https://www.beeradvocate.com/beer/profile/31515/, Portland, ME,683,112
 13541,Very Good,3.77,3,31519,Joseph Wolf Brewing Company,https://www.beeradvocate.com/beer/profile/31519/, Stillwater, MN,21,10
 13542,Very Good,3.84,59,31527,Seapine Brewing Company,https://www.beeradvocate.com/beer/profile/31527/, Seattle, WA,116,18
@@ -13621,7 +13621,7 @@
 13615,Good,3.58,6,31768,Cape Brewing Company,https://www.beeradvocate.com/beer/profile/31768/, Suider-Paarl, South Africa,23,9
 13616,Very Good,3.79,35,31780,Mazama Brewing Co.,https://www.beeradvocate.com/beer/profile/31780/, Corvallis, OR,295,92
 13617,Very Good,3.93,23,31783,Ten Ninety Brewing Company,https://www.beeradvocate.com/beer/profile/31783/, Glenview, IL,451,71
-13618,NA,0,5,31786,Cervecería Viva,https://www.beeradvocate.com/beer/profile/31786/, Poligno Industrial de Arinaga, Spain,0,0
+13618,,0.0,5,31786,Cervecería Viva,https://www.beeradvocate.com/beer/profile/31786/, Poligno Industrial de Arinaga, Spain,0,0
 13619,Exceptional,4.07,3,31787,Restaurant & Brewery BräuWirt,https://www.beeradvocate.com/beer/profile/31787/, Weiden, Germany,4,3
 13620,Very Good,3.82,31,31789,The Brewery at Abigaile,https://www.beeradvocate.com/beer/profile/31789/, Hermosa Beach, CA,65,9
 13621,Good,3.59,24,31790,High Cotton Brewing Co.,https://www.beeradvocate.com/beer/profile/31790/, Memphis, TN,193,12
@@ -13680,7 +13680,7 @@
 13674,Very Good,3.78,7,31938,BS Brewing,https://www.beeradvocate.com/beer/profile/31938/, Seguin, TX,28,5
 13675,Very Good,3.78,4,31939,Driftless Brewing Company,https://www.beeradvocate.com/beer/profile/31939/, Soldiers Grove, WI,4,4
 13676,Very Good,3.84,7,31941,Mill City Brew Werks,https://www.beeradvocate.com/beer/profile/31941/, Camas, WA,8,0
-13677,NA,0,8,31951,Mason City Brewing,https://www.beeradvocate.com/beer/profile/31951/, Mason City, IA,0,0
+13677,,0.0,8,31951,Mason City Brewing,https://www.beeradvocate.com/beer/profile/31951/, Mason City, IA,0,0
 13678,Exceptional,4.08,11,31952,Lake Time Brewery,https://www.beeradvocate.com/beer/profile/31952/, Clear Lake, IA,15,8
 13679,Good,3.61,12,31953,Butcherknife Brewing Company,https://www.beeradvocate.com/beer/profile/31953/, Steamboat Springs, CO,103,22
 13680,Good,3.66,1,31954,Balmaha Brewery,https://www.beeradvocate.com/beer/profile/31954/, Glasgow, GB6,2,1
@@ -13690,7 +13690,7 @@
 13684,Good,3.69,12,31982,Bier Factory Rapperswil AG,https://www.beeradvocate.com/beer/profile/31982/, Rapperswil-Jona, Switzerland,30,6
 13685,Okay,3.39,1,31986,Power Marketing / Wicked Pissa,https://www.beeradvocate.com/beer/profile/31986/, Westport, MA,39,13
 13686,Exceptional,4.15,210,31987,Modern Times Beer,https://www.beeradvocate.com/beer/profile/31987/, San Diego, CA,"13,284","2,521"
-13687,NA,0,3,31989,De Brouwerij van Vlaanderen,https://www.beeradvocate.com/beer/profile/31989/, Schilde, Belgium,0,0
+13687,,0.0,3,31989,De Brouwerij van Vlaanderen,https://www.beeradvocate.com/beer/profile/31989/, Schilde, Belgium,0,0
 13688,Very Good,3.8,136,31995,Rhinegeist Brewery,https://www.beeradvocate.com/beer/profile/31995/, Cincinnati, OH,"4,932",836
 13689,Okay,3.13,10,31997,La Brasserie du Pilat,https://www.beeradvocate.com/beer/profile/31997/, Saint-Julien-Molin-Molette, France,2,2
 13690,Poor,2.3,2,32004,Libertas Inc.,https://www.beeradvocate.com/beer/profile/32004/, Rochester, MN,6,3
@@ -13714,7 +13714,7 @@
 13708,Good,3.62,25,32063,Poor House Brewing Company,https://www.beeradvocate.com/beer/profile/32063/, San Diego, CA,37,5
 13709,Good,3.7,23,32065,Kretschmann Brewing Company,https://www.beeradvocate.com/beer/profile/32065/, Webster, MA,34,19
 13710,Okay,3.14,2,32066,Pacific Breach,https://www.beeradvocate.com/beer/profile/32066/, Pearl City, HI,4,3
-13711,NA,0,5,32072,BREW Pub & Kitchen,https://www.beeradvocate.com/beer/profile/32072/, Durango, CO,0,0
+13711,,0.0,5,32072,BREW Pub & Kitchen,https://www.beeradvocate.com/beer/profile/32072/, Durango, CO,0,0
 13712,Very Good,3.76,14,32073,Red Leg Brewing Company,https://www.beeradvocate.com/beer/profile/32073/, Colorado Springs, CO,83,24
 13713,Good,3.64,18,32074,Bryggeri Helsinki,https://www.beeradvocate.com/beer/profile/32074/, Helsinki, Finland,36,2
 13714,Good,3.73,32,32084,Narrows Brewing Co.,https://www.beeradvocate.com/beer/profile/32084/, Tacoma, WA,111,18
@@ -13726,7 +13726,7 @@
 13720,Good,3.65,24,32093,Catawba Island Brewing Co.,https://www.beeradvocate.com/beer/profile/32093/, Port Clinton, OH,95,10
 13721,Okay,3.37,13,32109,Cervejaria Premium Paulista,https://www.beeradvocate.com/beer/profile/32109/, Santo André - SP, Brazil,19,5
 13722,Very Good,3.79,10,32110,Cervejaria Júpiter,https://www.beeradvocate.com/beer/profile/32110/, São Paulo - SP, Brazil,39,12
-13723,NA,0,5,32114,Sir Winston's Pub / G.G. Brewers,https://www.beeradvocate.com/beer/profile/32114/, Glenside, PA,0,0
+13723,,0.0,5,32114,Sir Winston's Pub / G.G. Brewers,https://www.beeradvocate.com/beer/profile/32114/, Glenside, PA,0,0
 13724,Very Good,3.78,38,32115,Homestead Beer Co.,https://www.beeradvocate.com/beer/profile/32115/, Heath, OH,250,59
 13725,Very Good,3.86,89,32116,5 Paddles Brewing Co.,https://www.beeradvocate.com/beer/profile/32116/, Whitby, ON,262,73
 13726,Exceptional,4.04,3,32121,Brown Paper Bag Project,https://www.beeradvocate.com/beer/profile/32121/, Dublin, Ireland,9,3
@@ -13736,7 +13736,7 @@
 13730,Okay,3.21,2,32128,Cervecería Pilker,https://www.beeradvocate.com/beer/profile/32128/, El Hoyo, Argentina,2,2
 13731,Okay,3.35,4,32129,Hercules (Геркулес),https://www.beeradvocate.com/beer/profile/32129/, Kaliningrad, Russian Federation,1,1
 13732,Poor,2.19,4,32130,Nesselbeck (Нессельбек),https://www.beeradvocate.com/beer/profile/32130/, Kaliningrad, Russian Federation,1,1
-13733,NA,0,2,32131,Chersi Sodas (Sparkling Blends,https://www.beeradvocate.com/beer/profile/32131/, LLC), Oceanside,0,0
+13733,,0.0,2,32131,Chersi Sodas (Sparkling Blends,https://www.beeradvocate.com/beer/profile/32131/, LLC), Oceanside,0,0
 13734,Good,3.68,18,32140,Barrel Harbor Brewing,https://www.beeradvocate.com/beer/profile/32140/, Vista, CA,101,5
 13735,Good,3.74,15,32148,The Actual Brewing Co.,https://www.beeradvocate.com/beer/profile/32148/, Columbus, OH,199,39
 13736,Exceptional,4.21,6,32152,Birra Bellazzi,https://www.beeradvocate.com/beer/profile/32152/, San Lazzaro di Savena, Italy,2,1
@@ -13827,7 +13827,7 @@
 13821,Very Good,3.92,56,32453,Cherry Street Brewing Cooperative,https://www.beeradvocate.com/beer/profile/32453/, Cumming, GA,262,66
 13822,Very Good,3.92,2,32455,The Bee Hive Brew Pub,https://www.beeradvocate.com/beer/profile/32455/, Canandaigua, NY,5,0
 13823,Good,3.74,17,32460,Iron Hill Brewery & Restaurant,https://www.beeradvocate.com/beer/profile/32460/, Voorhees, NJ,13,0
-13824,Exceptional,4,1,32461,Brauerei Loscher,https://www.beeradvocate.com/beer/profile/32461/, Münchsteinach, Germany,1,1
+13824,Exceptional,4.0,1,32461,Brauerei Loscher,https://www.beeradvocate.com/beer/profile/32461/, Münchsteinach, Germany,1,1
 13825,Very Good,3.85,14,32462,Seward Brewing Company,https://www.beeradvocate.com/beer/profile/32462/, Seward, AK,36,6
 13826,Good,3.72,34,32463,Apple Blossom Brewing Co.,https://www.beeradvocate.com/beer/profile/32463/, Fayetteville, AR,78,11
 13827,Okay,3.48,18,32472,Farnham Ale & Lager,https://www.beeradvocate.com/beer/profile/32472/, Farnham, QC,126,30
@@ -13857,7 +13857,7 @@
 13851,Very Good,3.82,41,32541,Coachella Valley Brewing Co,https://www.beeradvocate.com/beer/profile/32541/, Thousand Palms, CA,351,70
 13852,Exceptional,4.09,54,32543,Southern Prohibition Brewing,https://www.beeradvocate.com/beer/profile/32543/, Hattiesburg, MS,"1,193",307
 13853,Good,3.7,24,32544,Plank Town Brewing Company,https://www.beeradvocate.com/beer/profile/32544/, Springfield, OR,46,7
-13854,NA,0,6,32548,Five Dons' Brewing,https://www.beeradvocate.com/beer/profile/32548/, Longview, WA,0,0
+13854,,0.0,6,32548,Five Dons' Brewing,https://www.beeradvocate.com/beer/profile/32548/, Longview, WA,0,0
 13855,Okay,3.39,3,32549,Maresme Brewery,https://www.beeradvocate.com/beer/profile/32549/, Sant Pol de Mar, Spain,4,3
 13856,Exceptional,4.12,2,32550,Molta Birra-L'Alternativa,https://www.beeradvocate.com/beer/profile/32550/, La Bisbal d'Empordà, Spain,3,3
 13857,Very Good,3.88,3,32551,Cervesa Tribal,https://www.beeradvocate.com/beer/profile/32551/, Muntanyola, Spain,4,3
@@ -13874,7 +13874,7 @@
 13868,Okay,3.08,6,32573,Folkared 15,https://www.beeradvocate.com/beer/profile/32573/, Varberg, Sweden,11,3
 13869,Very Good,3.88,3,32574,Cerveses DeDues S.L.,https://www.beeradvocate.com/beer/profile/32574/, Sant Esteve d'en Bas, Spain,28,8
 13870,Very Good,3.76,37,32575,Paradox Brewery,https://www.beeradvocate.com/beer/profile/32575/, Schroon Lake, NY,262,44
-13871,NA,0,1,32580,Buena Birra Social Club,https://www.beeradvocate.com/beer/profile/32580/, Buenos Aires, Argentina,0,0
+13871,,0.0,1,32580,Buena Birra Social Club,https://www.beeradvocate.com/beer/profile/32580/, Buenos Aires, Argentina,0,0
 13872,Good,3.64,44,32581,Austin Beer Garden Brewing Co.,https://www.beeradvocate.com/beer/profile/32581/, Austin, TX,206,21
 13873,Good,3.67,50,32587,Latitude 42 Brewing Company,https://www.beeradvocate.com/beer/profile/32587/, Portage, MI,716,108
 13874,Poor,2.56,2,32590,Harcourt Valley Brewing Company,https://www.beeradvocate.com/beer/profile/32590/, Harcourt, Australia,5,4
@@ -13882,33 +13882,33 @@
 13876,Good,3.56,2,32596,Cervezas Mammooth,https://www.beeradvocate.com/beer/profile/32596/, Padul, Spain,4,3
 13877,Good,3.63,69,32600,Intracoastal Brewing Company,https://www.beeradvocate.com/beer/profile/32600/, Melbourne, FL,125,18
 13878,Good,3.68,40,32601,Falling Down Beer Co.,https://www.beeradvocate.com/beer/profile/32601/, Warren, MI,117,9
-13879,Exceptional,4,7,32603,Cerveza Artesanal la Cruz,https://www.beeradvocate.com/beer/profile/32603/, San Carlos de Bariloche, Argentina,1,1
+13879,Exceptional,4.0,7,32603,Cerveza Artesanal la Cruz,https://www.beeradvocate.com/beer/profile/32603/, San Carlos de Bariloche, Argentina,1,1
 13880,Good,3.64,7,32614,J.W. Sweetman,https://www.beeradvocate.com/beer/profile/32614/, Dublin, Ireland,53,4
 13881,Exceptional,4.03,57,32615,Une Année,https://www.beeradvocate.com/beer/profile/32615/, Niles, IL,"1,015",154
 13882,Very Good,3.93,29,32617,Temperance Beer Co.,https://www.beeradvocate.com/beer/profile/32617/, Evanston, IL,783,98
-13883,NA,0,6,32622,115 Grill & Brewhouse,https://www.beeradvocate.com/beer/profile/32622/, Kew, Australia,0,0
+13883,,0.0,6,32622,115 Grill & Brewhouse,https://www.beeradvocate.com/beer/profile/32622/, Kew, Australia,0,0
 13884,Okay,3.27,18,32623,All Inn Brewing Co,https://www.beeradvocate.com/beer/profile/32623/, Banyo, Australia,1,1
-13885,NA,0,6,32624,Beach Hut Brewery,https://www.beeradvocate.com/beer/profile/32624/, Scoresby, Australia,0,0
+13885,,0.0,6,32624,Beach Hut Brewery,https://www.beeradvocate.com/beer/profile/32624/, Scoresby, Australia,0,0
 13886,Okay,3.24,6,32625,Dad & Dave's Brewing,https://www.beeradvocate.com/beer/profile/32625/, Curl Curl, Australia,6,2
-13887,NA,0,5,32627,Cape Bouvard Winery & Brewery,https://www.beeradvocate.com/beer/profile/32627/, Mandurah, Australia,0,0
+13887,,0.0,5,32627,Cape Bouvard Winery & Brewery,https://www.beeradvocate.com/beer/profile/32627/, Mandurah, Australia,0,0
 13888,Okay,3.25,6,32629,Brisbane Brewhouse,https://www.beeradvocate.com/beer/profile/32629/, Woolloongabba, Australia,1,0
 13889,Okay,3.44,6,32631,Brookes Beer Pty Ltd,https://www.beeradvocate.com/beer/profile/32631/, East Bendigo, Australia,5,4
-13890,NA,0,2,32632,Brewers' Fine Ale Pty Ltd,https://www.beeradvocate.com/beer/profile/32632/, Kew, Australia,0,0
+13890,,0.0,2,32632,Brewers' Fine Ale Pty Ltd,https://www.beeradvocate.com/beer/profile/32632/, Kew, Australia,0,0
 13891,Exceptional,4.08,20,32635,The Cheshire Brewhouse,https://www.beeradvocate.com/beer/profile/32635/, Congleton, GB2,24,21
 13892,Good,3.68,34,32636,Hi-Fi Brewing Co.,https://www.beeradvocate.com/beer/profile/32636/, Redmond, WA,69,9
-13893,Okay,3,1,32639,Weedbeer,https://www.beeradvocate.com/beer/profile/32639/, Orbe, Switzerland,1,1
-13894,NA,0,1,32642,Longboard Beer Brewing Company,https://www.beeradvocate.com/beer/profile/32642/, Thirroul, Australia,0,0
+13893,Okay,3.0,1,32639,Weedbeer,https://www.beeradvocate.com/beer/profile/32639/, Orbe, Switzerland,1,1
+13894,,0.0,1,32642,Longboard Beer Brewing Company,https://www.beeradvocate.com/beer/profile/32642/, Thirroul, Australia,0,0
 13895,Good,3.63,33,32645,Stone's Throw Brewing,https://www.beeradvocate.com/beer/profile/32645/, Little Rock, AR,69,8
 13896,Good,3.67,16,32649,Fortitude Brewing Company,https://www.beeradvocate.com/beer/profile/32649/, Eagle Heights, Australia,17,7
 13897,Okay,3.25,6,32650,Grainfed Brewing Company,https://www.beeradvocate.com/beer/profile/32650/, North Wollongong, Australia,2,0
-13898,NA,0,6,32651,Granite Belt Brewery,https://www.beeradvocate.com/beer/profile/32651/, Stanthorpe, Australia,0,0
+13898,,0.0,6,32651,Granite Belt Brewery,https://www.beeradvocate.com/beer/profile/32651/, Stanthorpe, Australia,0,0
 13899,Okay,3.11,2,32652,Great Southern Brewing Pty Ltd,https://www.beeradvocate.com/beer/profile/32652/, Paddington, Australia,5,3
-13900,Exceptional,4,1,32653,King Valley Brewery,https://www.beeradvocate.com/beer/profile/32653/, Cheshunt, Australia,1,1
+13900,Exceptional,4.0,1,32653,King Valley Brewery,https://www.beeradvocate.com/beer/profile/32653/, Cheshunt, Australia,1,1
 13901,Good,3.64,4,32654,Killer Sprocket,https://www.beeradvocate.com/beer/profile/32654/, Forest Hill, Australia,16,10
 13902,Very Good,3.9,115,32656,Arizona Wilderness Brewing Co.,https://www.beeradvocate.com/beer/profile/32656/, Gilbert, AZ,"1,303",141
 13903,Very Good,3.86,26,32660,Bugnutty Brewing Company,https://www.beeradvocate.com/beer/profile/32660/, Merritt Island, FL,64,3
 13904,Very Good,3.77,84,32661,Crooked Run Brewing,https://www.beeradvocate.com/beer/profile/32661/, Leesburg, VA,200,39
-13905,NA,0,15,32668,Pickled Pig Brewery,https://www.beeradvocate.com/beer/profile/32668/, Tweed Heads South, Australia,0,0
+13905,,0.0,15,32668,Pickled Pig Brewery,https://www.beeradvocate.com/beer/profile/32668/, Tweed Heads South, Australia,0,0
 13906,Okay,3.17,4,32669,Rusty Water Brewery,https://www.beeradvocate.com/beer/profile/32669/, Cowes, Australia,1,1
 13907,Okay,3.12,4,32670,Pike's Beer Company,https://www.beeradvocate.com/beer/profile/32670/, Sevenhill, Australia,2,0
 13908,Very Good,3.87,6,32671,Strong Brewing Company,https://www.beeradvocate.com/beer/profile/32671/, Sedgwick, ME,15,3
@@ -13917,8 +13917,8 @@
 13911,Very Good,3.88,48,32679,Wiseacre Brewing,https://www.beeradvocate.com/beer/profile/32679/, Memphis, TN,"1,904",352
 13912,Poor,2.9,5,32688,Steamrail Brewing Company,https://www.beeradvocate.com/beer/profile/32688/, Melbourne, Australia,23,11
 13913,Okay,3.42,6,32689,Sydney Brewery,https://www.beeradvocate.com/beer/profile/32689/, Surry Hills, Australia,7,2
-13914,NA,0,1,32690,The Generous Squire,https://www.beeradvocate.com/beer/profile/32690/, Perth, Australia,0,0
-13915,NA,0,7,32692,Boston Brewery @ Willoughby Park,https://www.beeradvocate.com/beer/profile/32692/, Denmark, Australia,0,0
+13914,,0.0,1,32690,The Generous Squire,https://www.beeradvocate.com/beer/profile/32690/, Perth, Australia,0,0
+13915,,0.0,7,32692,Boston Brewery @ Willoughby Park,https://www.beeradvocate.com/beer/profile/32692/, Denmark, Australia,0,0
 13916,Good,3.51,8,32694,Ferme de Bertinchamps,https://www.beeradvocate.com/beer/profile/32694/, Braine-l'Alleud, Belgium,51,7
 13917,Poor,2.96,2,32695,Cerveja Vadia,https://www.beeradvocate.com/beer/profile/32695/, Oliveira De Azeméis, Portugal,8,3
 13918,Good,3.74,28,32696,Hop Alley Brew Pub,https://www.beeradvocate.com/beer/profile/32696/, Alpharetta, GA,34,20
@@ -13926,8 +13926,8 @@
 13920,Very Good,3.82,46,32700,Galaxy Brewing Company,https://www.beeradvocate.com/beer/profile/32700/, Binghamton, NY,404,54
 13921,Very Good,3.86,24,32705,Pacific Plate Brewing Company,https://www.beeradvocate.com/beer/profile/32705/, Monrovia, CA,63,10
 13922,Okay,3.28,2,32706,Oxford Brewing Company,https://www.beeradvocate.com/beer/profile/32706/, Oxford, MS,39,5
-13923,NA,0,1,32710,Landgasthof Adlerbräu,https://www.beeradvocate.com/beer/profile/32710/, Ernstbrunn, Austria,0,0
-13924,NA,0,1,32714,Bauernhofbrauerei Bergmair,https://www.beeradvocate.com/beer/profile/32714/, Kremsmünster, Austria,0,0
+13923,,0.0,1,32710,Landgasthof Adlerbräu,https://www.beeradvocate.com/beer/profile/32710/, Ernstbrunn, Austria,0,0
+13924,,0.0,1,32714,Bauernhofbrauerei Bergmair,https://www.beeradvocate.com/beer/profile/32714/, Kremsmünster, Austria,0,0
 13925,Very Good,3.87,24,32715,Bevog Brewery,https://www.beeradvocate.com/beer/profile/32715/, Bad Radkersburg, Austria,234,65
 13926,Very Good,3.83,53,32722,Block Three Brewing Co.,https://www.beeradvocate.com/beer/profile/32722/, St Jacobs, ON,206,62
 13927,Okay,3.4,2,32730,Deusa,https://www.beeradvocate.com/beer/profile/32730/, Oliveira de Azeméis, Portugal,4,2

@@ -1,0 +1,316 @@
+company_ids,company_names,ba_levels,ba_scores,location1s,location2s,total_ratings,total_reviews,n_selected_beers,region
+1,Plzeňský Prazdroj,Good,3.69, Plzeň,Czech Republic,4338,1644,1,Czech Republic
+3,Abita Brewing Co.,Good,3.66, Abita Springs,LA,21876,6476,7,USA - LA
+4,Allagash Brewing Company,Exceptional,4.12, Portland,ME,36512,9743,8,USA - ME
+8,Widmer Brothers Brewing Company,Good,3.61, Portland,OR,14128,4483,1,USA - OR
+22,Unibroue,Good,3.74, Chambly,QC,36019,14546,8,USA - QC
+24,Traquair House Brewery,Very Good,3.94, Peeblesshire,GB6,2052,1206,1,UK
+26,3 Floyds Brewing Co.,Exceptional,4.05, Munster,IN,82249,18976,21,USA - IN
+28,Anchor Brewing Company,Good,3.72, San Francisco,CA,23758,8743,7,USA - CA
+29,Anheuser-Busch,Poor,2.66, Saint Louis,MO,57050,15511,18,USA - MO
+30,Avery Brewing Company,Very Good,3.96, Boulder,CO,39271,12714,14,USA - CO
+33,Berkshire Brewing Company Inc.,Good,3.72, South Deerfield,MA,6678,3206,1,USA - MA
+35,Boston Beer Company (Samuel Adams),Good,3.62, Jamaica Plain,MA,133333,44267,39,USA - MA
+37,Brasserie d'Orval S.A.,Exceptional,4.17, Villers-devant-Orval,Belgium,5534,2387,1,Belgium
+42,Brewery Ommegang,Very Good,3.96, Cooperstown,NY,38149,12820,10,USA - NY
+43,BridgePort Brewing Co. / Brewpub,Good,3.65, Portland,OR,4672,2025,2,USA - OR
+45,Brooklyn Brewery,Very Good,3.83, Brooklyn,NY,38137,13959,14,USA - NY
+48,Brouwerij Van Steenberge N.V.,Good,3.62, Ertvelde,Belgium,17663,7295,4,Belgium
+41,Brouwerij Corsendonk,Very Good,3.85, Oud-Turnhout,Belgium,3708,1812,2,Belgium
+47,Brouwerij Boon,Very Good,3.92, Lembeek,Belgium,4872,1817,1,Belgium
+57,Cervecería Cuauhtémoc Moctezuma,Poor,2.74, S.A. de C.V.,Monterrey (Nuevo León),12727,3527,5,N/A
+63,Deschutes Brewery,Very Good,3.83, Bend,OR,57000,15529,16,USA - OR
+64,Dogfish Head Craft Brewery,Very Good,3.87, Milton,DE,142805,43152,35,USA - DE
+68,Flying Dog Brewery,Good,3.69, Frederick,MD,29330,10573,9,USA - MD
+71,Fuller Smith & Turner PLC,Very Good,3.76, Chiswick,London,13100,6086,5,UK
+72,Weisses Bräuhaus G. Schneider & Sohn GmbH,Very Good,3.84, Kelheim,Germany,12631,5932,5,Germany
+73,Great Lakes Brewing Co.,Very Good,3.89, Cleveland,OH,49563,15181,15,USA - OH
+75,Grupo Modelo S.A. de C.V.,Poor,2.77, Mexico City,Mexico,16526,4331,5,Mexico
+81,Heineken Nederland B.V.,Poor,2.83, Zoeterwoude,Netherlands,15418,4474,2,Netherlands
+83,Brouwerij van Hoegaarden,Okay,3.24, Hoegaarden,Belgium,6276,2266,1,Belgium
+94,Long Trail Brewing Co.,Very Good,3.77, Bridgewaters Corners,VT,13433,3771,4,USA - VT
+96,Magic Hat Brewing Company,Good,3.52, South Burlington,VT,21266,6773,5,USA - VT
+98,Harpoon Brewery & Beer Hall,Good,3.72, Boston,MA,21128,6703,8,USA - MA
+99,Matt Brewing Company / Saranac Brewery,Good,3.53, Utica,NY,18897,9270,3,USA - NY
+105,Miller Brewing Co.,Poor,2.85, Milwaukee,WI,23132,6372,7,USA - WI
+112,North Coast Brewing Co.,Very Good,3.84, Fort Bragg,CA,33883,12538,10,USA - CA
+113,Samuel Smith Old Brewery (Tadcaster),Very Good,3.76, Tadcaster,GB2,31027,12409,9,UK
+118,Orkney Brewery,Good,3.63, Orkney,GB6,3448,1725,1,UK
+119,Otter Creek Brewing,Very Good,3.95, Middlebury,VT,7500,1478,1,USA - VT
+130,Boulder Beer / Wilderness Pub,Okay,3.09, Boulder,CO,13048,5240,3,USA - CO
+132,Rogue Ales,Very Good,3.75, Newport,OR,57739,24067,18,USA - OR
+139,Shipyard Brewing Company,Good,3.51, Portland,ME,15452,5504,4,USA - ME
+140,Sierra Nevada Brewing Co.,Very Good,3.89, Chico,CA,119815,35035,25,USA - CA
+141,Smuttynose Brewing Company,Very Good,3.85, Hampton,NH,28673,11297,8,USA - NH
+143,Spoetzl Brewery / Shiner,Okay,3.38, Shiner,TX,18176,5142,6,USA - TX
+147,Stone Brewing,Very Good,3.94, Escondido,CA,82483,19373,20,USA - CA
+148,Belhaven Brewery Company Ltd.,Good,3.6, Dunbar,East Lothian,6112,2820,2,UK
+149,Brasserie Lefèbvre SA,Okay,3.31, Rebecq-Quenast,Belgium,2811,1222,1,Belgium
+158,Great Divide Brewing Company,Very Good,3.87, Denver,CO,49762,17537,15,USA - CO
+160,Wychwood Brewery Company Ltd,Okay,3.41, Witney,Oxon,6077,2900,1,N/A
+169,Stella Artois,Poor,2.86, Leuven,Belgium,5890,1675,1,Belgium
+163,Amstel Brouwerij B. V.,Poor,2.65, Amsterdam,Netherlands,2323,692,1,Netherlands
+173,Hair of the Dog Brewing Company / Brewery and Tasting Room,Very Good,3.99, Portland,OR,12171,4808,4,USA - OR
+178,J.W. Lees & Co (Brewers) Ltd,Good,3.71, Manchester,GB2,3800,2120,1,UK
+180,Brouwerij Huyghe,Okay,3.32, Melle,Belgium,13633,4604,3,Belgium
+182,Yuengling Brewery,Okay,3.21, Pottsville,PA,14878,4058,4,USA - PA
+184,Bierbrouwerij De Koningshoeven B.V.,Very Good,3.91, Berkel-Enschot,Netherlands,7169,3041,2,Netherlands
+187,Brouwerij Lindemans,Very Good,3.91, Vlezenbeek,Belgium,10989,4586,5,Belgium
+192,New Belgium Brewing,Very Good,3.78, Fort Collins,CO,70495,19377,19,USA - CO
+193,Anderson Valley Brewing Company,Very Good,3.77, Boonville,CA,23619,7635,8,USA - CA
+194,McAuslan Brewing,Good,3.62, Montréal,QC,3892,1829,1,USA - QC
+196,Brouwerij De Smedt / Brouwerij Affligem,Okay,3.46, Opwijk,Belgium,3335,1637,1,Belgium
+199,Ballast Point Brewing Company,Very Good,3.91, San Diego,CA,65442,14113,14,USA - CA
+201,Brouwerij De Dolle Brouwers,Exceptional,4.17, Esen,Belgium,4832,2516,2,Belgium
+203,Greene King / Morland Brewery,Okay,3.34, Suffolk,GB2,6205,3120,1,UK
+202,Brouwerij Bosteels,Very Good,3.77, Buggenhout,Belgium,6680,2441,2,Belgium
+205,Buffalo Bill's Brewery,Okay,3.28, Hayward,CA,2963,1464,1,USA - CA
+207,Brasserie de Rochefort,Outstanding,4.33, Rochefort,Belgium,17339,5879,3,Belgium
+208,Brouwerij Westmalle,Exceptional,4.16, Malle,Belgium,7528,3070,2,Belgium
+209,Guinness Ltd.,Good,3.5, Dublin,Ireland,28746,8554,7,Ireland
+212,Brouwerij Van Honsebrouck N.V.,Good,3.64, Emelgem,Belgium,7102,2720,2,Belgium
+213,Narragansett Brewing Co.,Good,3.61, Pawtucket,RI,4483,1351,1,USA - RI
+215,Bières de Chimay,Exceptional,4.05, Baileux (Chimay),Belgium,17861,5974,3,Belgium
+216,Brouwerij Rodenbach N.V.,Exceptional,4.14, Roeselare,Belgium,8432,2346,3,Belgium
+220,Lagunitas Brewing Company,Very Good,3.94, Petaluma,CA,104382,25692,25,USA - CA
+221,Desnoes & Geddes Limited,Poor,2.95, Kingston,Jamaica,4047,1340,1,Jamaica
+222,Brouwerij Duvel Moortgat NV,Very Good,3.77, Breendonk-Puurs,Belgium,12683,4807,3,Belgium
+223,Brouwerij Bockor N.V. / Brouwerij Omer Vander Ghinste,Good,3.73, Bellegem-Kortrijk,Belgium,4314,930,1,Belgium
+224,St. Pauli Brauerei C.L. Wilh. Brandt Gmbh & Co.,Poor,2.74, Bremen,Germany,1716,735,1,Germany
+240,Murphy Brewery Ireland Limited,Okay,3.49, Cork,Ireland,3247,1359,1,Ireland
+256,Lost Coast Brewery and Cafe,Good,3.61, Eureka,CA,6959,2952,2,USA - CA
+252,Bayerische Staatsbrauerei Weihenstephan,Very Good,3.97, Freising,Germany,25306,9124,7,Germany
+257,Steel Brewing Company,Poor,2.85, Irwindale,CA,1525,716,1,USA - CA
+259,Brouwerij St. Bernardus NV,Exceptional,4.14, Watou,Belgium,22416,7980,6,Belgium
+261,Cisco Brewers Inc.,Very Good,3.76, Nantucket,MA,6851,2297,1,USA - MA
+262,Shmaltz Brewing Company,Good,3.68, Clifton Park,NY,6560,2144,2,USA - NY
+267,Odell Brewing Company,Very Good,3.88, Fort Collins,CO,21140,5607,5,USA - CO
+273,SweetWater Brewing Company,Very Good,3.82, Atlanta,GA,17511,4356,5,USA - GA
+281,Tsingtao Brewery Co.,Poor,2.78, Ltd.,Qingdao,2070,723,1,China
+284,Sapporo Breweries Ltd.,Okay,3.1, Tokyo-to Tokyo-shi,Japan,4088,1347,1,Japan
+283,Brouwerij Liefmans,Very Good,3.77, Oudenaarde,Belgium,2948,1226,1,Belgium
+285,Brauerei Schloss Eggenberg,Okay,3.37, Vorchdorf,Austria,3748,2094,1,Austria
+287,Bell's Brewery - Eccentric Café & General Store,Very Good,3.91, Kalamazoo,MI,100587,29917,23,USA - MI
+288,Brauerei Heinrich Reissdorf,Very Good,3.87, Köln,Germany,1297,615,1,Germany
+292,Kirin Brewery Company,Okay,3.11, Limited,Tokyo-to Tokyo-shi,2806,935,1,Japan
+293,Bass Brewers Limited,Okay,3.07, Burton-on-Trent,GB2,2951,1148,1,UK
+296,St. Peter's Brewery Co Ltd,Good,3.58, Bungay,Suffolk,3734,2249,1,UK
+302,Genesee Brewing Co. / Dundee Brewing Co.,Okay,3.24, Rochester,NY,9097,4134,2,USA - NY
+306,Coors Brewing Company (Molson-Coors),Poor,2.88, Golden,CO,36091,8215,8,USA - CO
+304,Budějovický Budvar,Okay,3.44, n.p.,Ceske Budejovice,1927,933,1,N/A
+313,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Outstanding,4.44, Westvleteren,Belgium,9644,3184,2,Belgium
+321,Brasserie d'Achouffe,Very Good,3.87, Achouffe,Belgium,8048,3323,4,Belgium
+323,Harviestoun Brewery Ltd.,Very Good,3.84, Alva,GB6,5660,2652,1,UK
+335,New Holland Brewing Company,Very Good,3.8, Holland,MI,26451,8009,5,USA - MI
+337,Saint Arnold Brewing Company,Very Good,3.91, Houston,TX,9082,2483,1,USA - TX
+341,Columbus Brewing Company,Exceptional,4.07, Columbus,OH,4567,999,2,USA - OH
+345,Victory Brewing Company - Downingtown,Very Good,3.82, Downingtown,PA,64351,21419,16,USA - PA
+347,Bar Harbor Brewing Company,Very Good,3.84, Bar Harbor,ME,1569,849,1,USA - ME
+357,New England Brewing Co.,Exceptional,4.12, Woodbridge,CT,13376,3064,3,USA - CT
+360,Warsteiner Brauerei,Okay,3.15, Warstein,Germany,4755,1937,2,Germany
+367,Boon Rawd Brewery Co.,Poor,2.76, Ltd,Bangkok,1359,512,1,Thailand
+379,Moosehead Breweries Ltd.,Poor,2.69, Saint John,NB,2012,743,1,USA - NB
+383,Live Oak Brewing Company,Very Good,3.88, Del Valle,TX,3406,864,1,USA - TX
+76,Hacker-Pschorr Bräu GmbH,Good,3.64, München,Germany,6110,2741,2,Germany
+385,Midnight Sun Brewing Co.,Very Good,3.82, Anchorage,AK,7311,2728,2,USA - AK
+388,Brasserie Cantillon,Outstanding,4.32, Brussels,Belgium,27248,6646,11,Belgium
+392,Weyerbacher Brewing Co.,Very Good,3.8, Easton,PA,26143,9340,9,USA - PA
+394,Stoudts Brewing Co.,Very Good,3.78, Adamstown,PA,8503,4653,2,USA - PA
+389,Ceylon / Lion Brewery Limited,Poor,2.97, Biyagama,Sri Lanka,1992,1133,1,Sri Lanka
+396,AleSmith Brewing Company,Exceptional,4.12, San Diego,CA,33212,9228,8,USA - CA
+402,Old Dominion Brewing Company,Good,3.63, Dover,DE,5201,2165,1,USA - DE
+403,Pyramid Breweries,Good,3.54, Inc.,Seattle,5242,2517,1,N/A
+418,Left Hand Brewing Company,Very Good,3.77, Longmont,CO,26698,7910,9,USA - CO
+423,Boulevard Brewing Co.,Very Good,3.9, Kansas City,MO,45540,12172,14,USA - MO
+429,Alaskan Brewing Co.,Very Good,3.8, Juneau,AK,12052,4121,3,USA - AK
+430,Alltech's Lexington Brewing and Distilling Co.,Good,3.59, Lexington,KY,6392,1408,2,USA - KY
+433,Molson Coors Canada,Poor,2.59, Etobicoke,ON,6876,2285,1,USA - ON
+436,Brouwerij Alken-Maes,Okay,3.35, Alken,Belgium,2950,1234,1,Belgium
+447,Pabst Brewing Company,Poor,2.65, Los Angeles,CA,15093,5051,1,USA - CA
+450,Yards Brewing Co.,Very Good,3.78, Philadelphia,PA,9275,2908,2,USA - PA
+467,Summit Brewing Company,Very Good,3.87, Saint Paul,MN,7416,2526,2,USA - MN
+470,Abbaye de Leffe S.A.,Good,3.52, Dinant,Belgium,7359,2495,2,Belgium
+478,Labatt Brewing Company Ltd.,Poor,2.47, London,ON,4258,1510,1,USA - ON
+506,Grolsch Bierbrouwerij N.V.,Poor,2.82, Enschede,Netherlands,2533,993,1,Netherlands
+559,Speakeasy Ales & Lagers,Very Good,3.78, San Francisco,CA,5842,1991,1,USA - CA
+575,Foster's Group Limited,Poor,2.51, Southbank,Australia,2850,1065,1,Australia
+579,Kona Brewing Co.,Good,3.68, Kailua Kona,HI,14139,3683,7,USA - HI
+583,The Schlafly Tap Room,Very Good,3.8, Saint Louis,MO,18585,6022,4,USA - MO
+590,New Glarus Brewing Company,Exceptional,4.0, New Glarus,WI,42054,10935,17,USA - WI
+610,Bear Republic Brewing Co.,Very Good,3.89, Healdsburg,CA,27255,9517,7,USA - CA
+613,Bitburger Brauerei,Okay,3.41, Bitburg/Eifel,Germany,2032,903,1,Germany
+124,Paulaner Brauerei GmbH & Co. KG,Good,3.52, München,Germany,11749,5051,4,Germany
+636,Hanssens Artisanaal bvba,Exceptional,4.0, Dworp,Belgium,3413,1405,1,Belgium
+637,Brasserie Dupont sprl,Very Good,3.9, Tourpes,Belgium,9639,4079,2,Belgium
+638,Mississippi Brewing Co.,Okay,3.2, Utica,NY,1226,458,1,USA - NY
+641,Brouwerij Verhaeghe,Very Good,3.8, Vichte,Belgium,5531,2098,1,Belgium
+648,Köstritzer Schwarzbierbrauerei GmbH & Co.,Good,3.5, Bad Köstritz/Thüringen,Germany,2201,989,1,Germany
+651,Ithaca Beer Company,Good,3.73, Ithaca,NY,12683,3810,2,USA - NY
+652,Central Waters Brewing Co.,Exceptional,4.0, Amherst,WI,16533,4657,5,USA - WI
+655,Boddingtons,Okay,3.07, Manchester,GB2,2971,1177,1,UK
+664,Wells & Young's Ltd,Good,3.51, Bedford,GB2,14213,5927,2,UK
+689,Two Brothers Brewing Company,Very Good,3.83, Warrenville,IL,13965,4591,3,USA - IL
+694,Tröegs Brewing Company,Very Good,3.93, Hershey,PA,39176,11792,11,USA - PA
+697,Kiuchi Brewery,Very Good,3.85, Ibaraki-ken Naka-gun,Japan,6716,2916,2,Japan
+700,Elysian Brewing Company,Good,3.68, Seattle,WA,14844,4120,3,USA - WA
+710,Jacob Leinenkugel Brewing Company,Okay,3.29, Chippewa Falls,WI,18750,4739,6,USA - WI
+716,Asahi Breweries Ltd,Poor,2.86, Tokyo-to Tokyo-shi,Japan,2338,856,1,Japan
+718,De Brabandere,Okay,3.44, Bavikhove,Belgium,8402,3339,2,Belgium
+721,Carlsberg Danmark A/S,Okay,3.02, København,Denmark,2969,1169,1,Denmark
+727,Asia Pacific Breweries Limited,Poor,2.78, Singapore,Singapore,1160,451,1,Singapore
+735,21st Amendment Brewery,Very Good,3.75, San Francisco,CA,18343,5061,6,USA - CA
+738,Brasserie Fantôme,Very Good,3.92, Soy,Belgium,7073,3560,1,Belgium
+741,Lakefront Brewery,Good,3.71, Inc.,Milwaukee,10527,3858,2,N/A
+743,Lancaster Brewing Company,Good,3.69, Lancaster,PA,4921,1747,1,USA - PA
+33510,Other Half Brewing Co.,Exceptional,4.21, Brooklyn,NY,16408,2329,1,USA - NY
+33519,Bissell Brothers Brewing Co.,Exceptional,4.13, Portland,ME,5693,819,2,USA - ME
+751,Big Sky Brewing Company,Good,3.7, Missoula,MT,9580,3593,2,USA - MT
+764,Blue Point Brewing Company,Good,3.7, Patchogue,NY,10272,3300,2,USA - NY
+811,Highland Brewing,Very Good,3.94, Asheville,NC,6894,2512,3,USA - NC
+828,Brouwerij Oud Beersel,Very Good,3.91, Beersel,Belgium,2630,1151,1,Belgium
+33618,The Spencer Brewery,Very Good,3.95, Spencer,MA,1697,415,1,USA - MA
+863,Russian River Brewing Company,Exceptional,4.05, Santa Rosa,CA,61157,15316,13,USA - CA
+870,Moylan's Brewery,Good,3.7, Novato,CA,6186,3583,1,USA - CA
+889,Brouwerij Palm NV,Okay,3.36, Steenhuffel,Belgium,2201,677,1,Belgium
+898,Heavy Seas Beer,Good,3.71, Baltimore,MD,13219,4693,4,USA - MD
+911,Klosterbrauerei Andechs,Exceptional,4.01, Andechs,Germany,2534,1010,1,Germany
+923,Ska Brewing Co.,Good,3.73, Durango,CO,8477,2872,1,USA - CO
+33824,Bottle Logic Brewing,Exceptional,4.02, Anaheim,CA,5618,785,1,USA - CA
+1075,Caldera Brewing Company,Very Good,3.78, Ashland,OR,4428,1615,1,USA - OR
+1141,Brasserie Dieu du Ciel!,Very Good,3.87, Montréal,QC,17248,6805,2,USA - QC
+1146,Goose Island Beer Co.,Very Good,3.82, Chicago,IL,80871,18748,21,USA - IL
+1177,Minneapolis Town Hall Brewery,Very Good,3.99, Minneapolis,MN,5230,2050,1,USA - MN
+1199,Founders Brewing Company,Very Good,3.96, Grand Rapids,MI,137332,32567,28,USA - MI
+1304,Pelican Pub & Brewery,Very Good,3.78, Pacific City,OR,4190,1295,1,USA - OR
+263,Brauerei Heller-Trum / Schlenkerla,Exceptional,4.06, Bamberg,Germany,6623,3307,2,Germany
+1337,Pizza Port Solana Beach,Very Good,3.89, Solana Beach,CA,6228,1764,1,USA - CA
+1416,Uinta Brewing Company,Good,3.66, Salt Lake City,UT,18759,4623,6,USA - UT
+1417,Black Sheep Brewery PLC,Good,3.5, Masham North Yorkshire,GB2,2493,1375,1,UK
+1432,Jackie O's Pub & Brewery,Exceptional,4.03, Athens,OH,16925,3231,1,USA - OH
+34208,Foundation Brewing Company,Exceptional,4.0, Portland,ME,2760,449,1,USA - ME
+1471,Dark Horse Brewing Company,Very Good,3.89, Marshall,MI,32471,9203,12,USA - MI
+1498,Brasseries Kronenbourg,Poor,2.96, Obernai,France,2289,709,1,France
+1534,Brouwerij Het Anker,Very Good,3.76, Mechelen,Belgium,7015,3378,1,Belgium
+1628,Southampton Publick House,Very Good,3.9, Southampton,NY,6570,4121,1,USA - NY
+1683,Santa Fe Brewing Company,Good,3.73, Santa Fe,NM,4105,1302,1,USA - NM
+34456,Creature Comforts,Exceptional,4.19, Athens,GA,3486,582,1,USA - GA
+359,T & R Theakston Ltd.,Good,3.52, Masham Ripon Yorkshire,GB2,1192,672,1,UK
+1924,DuClaw Brewing Company,Very Good,3.75, Baltimore,MD,10700,2289,1,USA - MD
+412,Kulmbacher Brauerei AG,Good,3.54, Kulmbach,Germany,4614,2606,1,Germany
+2097,Kuhnhenn Brewing Company,Very Good,3.78, Warren,MI,11104,3522,3,USA - MI
+2137,Breckenridge Brewery,Good,3.65, Littleton,CO,17796,5430,7,USA - CO
+2210,Firestone Walker Brewing Co.,Exceptional,4.0, Paso Robles,CA,55544,10660,13,USA - CA
+2216,Brouwerij 3 Fonteinen,Exceptional,4.22, Beersel,Belgium,10342,2385,3,Belgium
+2372,Terrapin Beer Company,Very Good,3.76, Athens,GA,24597,6373,6,USA - GA
+2391,Cascade Brewing / Raccoon Lodge & Brewpub,Very Good,3.9, Portland,OR,14358,2601,3,USA - OR
+2447,Coronado Brewing Company,Very Good,3.75, Coronado,CA,7754,1986,2,USA - CA
+2470,The Brew Kettle Taproom & Smokehouse / Production Works,Good,3.71, Strongsville,OH,5512,1338,1,USA - OH
+2480,Cervejaria Kaiser,Poor,2.48, Jacarei - SP,Brazil,1804,819,1,Brazil
+2541,Brouwerij Girardin,Very Good,3.76, Sint-Ulriks-Kapelle,Belgium,1665,791,1,Belgium
+2681,Oskar Blues Grill & Brew,Very Good,3.89, Lyons,CO,48171,12589,12,USA - CO
+2743,Green Flash Brewing Co.,Very Good,3.88, San Diego,CA,38239,9513,9,USA - CA
+35571,Arcadia Brewing Company,Good,3.66, Kalamazoo,MI,10096,4302,2,USA - MI
+2958,BFM (Brasserie des Franches-Montagnes),Very Good,3.95, Saignelégier,Switzerland,2580,788,1,Switzerland
+2974,Radeberger Exportbierbrauerei,Good,3.74, Radeberg,Saxony,1137,450,1,N/A
+3120,Alpine Beer Company,Exceptional,4.01, Alpine,CA,23059,5320,5,USA - CA
+703,Erdinger Weissbräu,Good,3.59, Erding,Germany,5467,2397,2,Germany
+142,Spaten-Franziskaner-Bräu,Good,3.6, München,Germany,14737,6201,5,Germany
+3818,Southern Tier Brewing Company,Very Good,3.86, Lakewood,NY,55570,16170,18,USA - NY
+32,Brauerei Beck & Co.,Poor,2.76, Bremen,Germany,5022,1884,1,Germany
+174,Latrobe Brewing Co.,Poor,2.5, Saint Louis,MO,3060,900,1,USA - MO
+4686,Hofbräuhaus München,Good,3.62, München,Germany,6771,2381,4,Germany
+4909,Gasthaus & Gosebrauerei Bayerischer Bahnhof,Very Good,3.77, Leipzig,Germany,1882,862,1,Germany
+39,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,Very Good,3.94, Aying,Germany,16194,6809,6,Germany
+5316,Full Sail Brewery & Tasting Room & Pub,Good,3.67, Hood River,OR,10986,5280,3,USA - OR
+258,Birra Peroni Industriale S.p.A.,Poor,2.74, Roma,Italy,2649,822,1,Italy
+40249,Lord Hobo Brewing Company,Very Good,3.88, Woburn,MA,2892,563,1,USA - MA
+7753,Olde Hickory Brewery,Very Good,3.95, Hickory,NC,5761,1402,2,USA - NC
+40927,Bruery Terreux,Exceptional,4.12, Anaheim,CA,22356,3630,8,USA - CA
+9629,Short's Brewing Company,Very Good,3.81, Bellaire,MI,27583,8154,2,USA - MI
+9790,The Duck-Rabbit Craft Brewery,Very Good,3.84, Farmville,NC,8370,3925,1,USA - NC
+9897,Jolly Pumpkin Artisan Ales,Very Good,3.95, Dexter,MI,16266,6302,6,USA - MI
+10161,Birra Moretti (Heineken),Okay,3.07, Udine,Italy,2649,1014,2,Italy
+10272,Innis & Gunn,Good,3.59, Edinburgh,GB6,5870,1727,2,UK
+10321,Central City Brewers + Distillers,Good,3.72, Surrey,BC,3772,1379,1,USA - BC
+43153,Arrogant Brewing,Very Good,3.83, Escondido,CA,28173,8588,5,USA - CA
+10607,Sixpoint Brewery,Exceptional,4.04, Brooklyn,NY,19181,4208,7,USA - NY
+10990,Lazy Magnolia Brewing Company,Good,3.53, Kiln,MS,3999,1058,1,USA - MS
+11036,Foothills Brewing Company - Downtown Brewpub,Very Good,3.86, Winston-Salem,NC,10554,2555,4,USA - NC
+12142,Williams Brothers Brewing Company,Good,3.69, Alloa,GB6,4366,2633,1,UK
+12516,Thirsty Dog Brewing Company,Very Good,3.82, Akron,OH,10261,3097,3,USA - OH
+12959,Captain Lawrence Brewing Co.,Very Good,3.91, Elmsford,NY,11663,3776,1,USA - NY
+13014,Surly Brewing Company,Exceptional,4.05, Brooklyn Center,MN,34317,8699,11,USA - MN
+13307,Mikkeller ApS,Very Good,3.85, København,Denmark,28858,10349,3,Denmark
+13371,Voodoo Brewery,Exceptional,4.0, Meadville,PA,5418,1621,1,USA - PA
+46317,The Alchemist Brewery and Visitors Center,Exceptional,4.24, Stowe,VT,23491,3893,3,USA - VT
+13837,Ale Asylum,Very Good,3.8, Madison,WI,5511,1367,1,USA - WI
+13839,Port Brewing,Very Good,3.93, San Marcos,CA,16765,6227,7,USA - CA
+14064,Kern River Brewing Company,Exceptional,4.06, Kernville,CA,5293,1460,2,USA - CA
+14400,Ninkasi Brewing Company,Good,3.7, Eugene,OR,9010,2527,2,USA - OR
+14879,Hoppin' Frog Brewery,Very Good,3.96, Akron,OH,14331,4765,3,USA - OH
+14936,FiftyFifty Brewing Co.,Very Good,3.99, Truckee,CA,6295,1375,1,USA - CA
+15237,De Struise Brouwers,Exceptional,4.03, Oostvleteren,Belgium,11670,4666,3,Belgium
+15280,Atwater Brewery,Good,3.55, Detroit,MI,6730,2158,1,USA - MI
+16057,Maui Brewing Co.,Very Good,3.79, Kihei,HI,6491,2204,2,USA - HI
+16098,Margaritaville Brewing Co.,Poor,2.81, Jacksonville,FL,1915,504,1,USA - FL
+16315,BrewDog,Good,3.74, Ellon,GB6,10909,3598,2,UK
+16333,Tallgrass Brewing Company,Very Good,3.78, Manhattan,KS,7221,1708,2,USA - KS
+16759,Southern Star Brewing Company,Very Good,3.79, Conroe,TX,4149,1362,1,USA - TX
+16866,The Bruery,Exceptional,4.07, Placentia,CA,30651,5840,13,USA - CA
+17271,Bootlegger's Brewery,Good,3.7, Fullerton,CA,2998,827,1,USA - CA
+17963,Humboldt Brewing Co.,Very Good,3.76, Paso Robles,CA,3809,1345,1,USA - CA
+17980,Lawson's Finest Liquids,Exceptional,4.11, Warren,VT,15250,2551,3,USA - VT
+17981,Cigar City Brewing,Very Good,3.95, Tampa,FL,49501,9699,12,USA - FL
+18006,Half Acre Beer Company,Very Good,3.96, Chicago,IL,16639,3551,3,USA - IL
+18134,Redhook Ale Brewery,Good,3.53, Portsmouth,NH,11007,4575,2,USA - NH
+18149,The Lost Abbey,Exceptional,4.08, San Marcos,CA,26574,8284,11,USA - CA
+19544,Fat Head's Brewery & Saloon,Very Good,3.92, North Olmsted,OH,14412,2339,2,USA - OH
+19897,Evolution Craft Brewing Company,Very Good,3.79, Salisbury,MD,4695,971,1,USA - MD
+20680,Fremont Brewing Company,Very Good,3.94, Seattle,WA,8587,1582,1,USA - WA
+20681,Maine Beer Company,Exceptional,4.19, Freeport,ME,24067,4146,9,USA - ME
+22072,Revolution Brewing,Very Good,3.97, Chicago,IL,22022,3183,3,USA - IL
+22150,Stillwater Artisanal Ales,Very Good,3.94, Baltimore,MD,11789,3131,2,USA - MD
+22200,Wormtown Brewery,Very Good,3.85, Worcester,MA,3826,662,1,USA - MA
+22511,Hill Farmstead Brewery,Outstanding,4.33, Greensboro Bend,VT,49991,7266,16,USA - VT
+22893,Epic Brewing Company,Very Good,3.76, Salt Lake City,UT,15229,3524,1,USA - UT
+22951,Clown Shoes,Exceptional,4.04, Ipswich,MA,15721,3091,6,USA - MA
+23200,Knee Deep Brewing Company,Very Good,3.85, Auburn,CA,9417,1865,2,USA - CA
+23205,Grassroots Brewing,Exceptional,4.17, Greensboro Bend,VT,4368,556,1,USA - VT
+23222,Toppling Goliath Brewing Company,Outstanding,4.25, Decorah,IA,24980,3700,8,USA - IA
+23495,Professor Fritz Briem,Very Good,3.9, Freising,Germany,1888,824,1,Germany
+23922,Baxter Brewing Co.,Very Good,3.76, Lewiston,ME,3011,587,1,USA - ME
+24018,Jester King Brewery,Exceptional,4.1, Austin,TX,20006,2404,1,USA - TX
+24134,Westbrook Brewing Co.,Exceptional,4.05, Mount Pleasant,SC,13850,2025,4,USA - SC
+24300,Evil Twin Brewing,Very Good,3.99, Brooklyn,NY,39867,7623,10,USA - NY
+24659,La Cumbre Brewing Co.,Very Good,3.99, Albuquerque,NM,4024,665,1,USA - NM
+24798,Small Town Brewery,Good,3.71, Wauconda,IL,4241,860,1,USA - IL
+24903,Anchorage Brewing Company,Exceptional,4.23, Anchorage,AK,6321,1503,2,USA - AK
+24940,Almanac Beer Co.,Very Good,3.98, San Francisco,CA,9705,1416,1,USA - CA
+25191,Crooked Stave Artisan Beer Project,Exceptional,4.1, Denver,CO,11535,1818,1,USA - CO
+25327,DC Brau Brewing Co.,Very Good,3.91, Washington,DC,6350,1119,2,USA - DC
+25710,Logsdon Farmhouse Ales,Very Good,3.94, Hood River,OR,5290,927,2,USA - OR
+25888,Perennial Artisan Ales,Exceptional,4.07, Saint Louis,MO,13943,1874,3,USA - MO
+25923,Gueuzerie Tilquin,Exceptional,4.08, Rebecq-Rognon,Belgium,4337,733,2,Belgium
+26520,Jack's Abby Brewing,Very Good,3.98, Framingham,MA,19604,3099,5,USA - MA
+26753,Hardywood Park Craft Brewery,Very Good,3.95, Richmond,VA,9917,1575,1,USA - VA
+26817,Carton Brewing Company,Exceptional,4.04, Atlantic Highlands,NJ,9151,1456,2,USA - NJ
+26850,Against The Grain Brewery & Smokehouse,Very Good,3.75, Louisville,KY,7145,1274,1,USA - KY
+26990,NoDa Brewing Company,Very Good,3.93, Charlotte,NC,4564,556,1,USA - NC
+27710,Grey Sail Brewing of Rhode Island,Very Good,3.85, Westerly,RI,2711,524,1,USA - RI
+27919,Fiddlehead Brewing Company,Very Good,3.99, Shelburne,VT,5130,600,2,USA - VT
+28019,Sante Adairius Rustic Ales,Exceptional,4.17, Capitola,CA,7166,659,1,USA - CA
+28178,Pipeworks Brewing Company,Exceptional,4.02, Chicago,IL,29385,4388,3,USA - IL
+28609,Night Shift Brewing,Exceptional,4.01, Everett,MA,8642,1352,1,USA - MA
+28743,Tree House Brewing Company,Outstanding,4.43, Charlton,MA,32262,4711,9,USA - MA
+28908,Utah Brewers Cooperative,Good,3.59, UT,nan,7018,2435,1,N/A
+29952,Perrin Brewery,Very Good,3.81, Comstock Park,MI,3697,573,1,USA - MI
+30356,Prairie Artisan Ales,Exceptional,4.21, Tulsa,OK,36596,5999,9,USA - OK
+30380,The Lone Pint Brewery,Exceptional,4.02, Magnolia,TX,2650,342,1,USA - TX
+30437,Two Roads Brewing Company,Very Good,3.81, Stratford,CT,8459,1579,1,USA - CT
+30581,Wicked Weed Brewing,Very Good,3.97, Asheville,NC,16372,2468,1,USA - NC
+30654,Trillium Brewing Company,Outstanding,4.28, Boston,MA,41367,5812,12,USA - MA
+30923,Belching Beaver Brewery,Very Good,3.86, Vista,CA,2739,500,1,USA - CA
+31678,Off Color Brewing,Very Good,3.99, Chicago,IL,6349,1135,2,USA - IL
+31805,Funky Buddha Brewery,Very Good,3.95, Oakland Park,FL,15827,2410,4,USA - FL
+31987,Modern Times Beer,Exceptional,4.15, San Diego,CA,13284,2521,3,USA - CA
+31995,Rhinegeist Brewery,Very Good,3.8, Cincinnati,OH,4932,836,1,USA - OH

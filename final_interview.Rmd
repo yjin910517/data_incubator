@@ -1,0 +1,123 @@
+---
+title: "Data Incubator Finalist Interview"
+author: "Yue Jin"
+date: "May 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning = FALSE)
+require(ggplot2)
+require(dplyr)
+```
+
+
+
+- App brief
+
+    - Function: XXXXX
+
+- Motivation:
+
+    - 
+    - I love craft beer 
+    
+
+- Market potential 
+
+    - Competitive analysis
+    
+    - Market demand
+
+- Dataset
+ 
+ 
+ 
+- Subset descriptive data demostration
+ 
+ 
+ - Algorithm
+ 
+ - Demo: 
+ 
+     - Python Surprise [package](http://surprise.readthedocs.io/en/stable/index.html); SVD matrix factorization
+     
+     - Test run dataset description: XXXXX
+     
+     - Test run result
+ 
+ - Algorithm Future Improvement:
+ 
+     - Text feature extracted from textual comments
+     
+     - More features: user feature, beer feature 
+     
+     - Popularity based / content based
+  
+  
+- Additional functions:
+
+    - Beer food pairing recommendation
+  
+     
+ - Potential challenges:
+ 
+    - Handle and store big datasets
+     
+    - Real time update from BeerAdvocate.com
+    
+    - Front-end design
+
+
+
+```{r eda1}
+beer<-read.csv("data_scraping_cleaning/top_rated/summary_by_beer_combined.csv")
+by_style<-beer %>% group_by(style_name) %>% summarise("n"=n(),"sub_cat"=sub_cat[1]) %>% arrange(desc(n))
+by_style<-by_style[1:15,]
+
+p1<-ggplot(data=by_style,aes(x=reorder(style_name,-n),y=n,fill=sub_cat))+
+  geom_bar(stat="identity")+
+  theme(axis.text.x = element_text(angle = 75, hjust = 1))
+p1<-p1+xlab("Beer Style")+ylab("# of Beers")
+p1<-p1+labs(fill="Style Category")
+p1<-p1+ggtitle("Top 15 styles among Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p1
+
+```
+
+```{r eda2}
+company<-read.csv("data_scraping_cleaning/top_rated/summary_by_company.csv")
+by_region<-company %>% group_by(region) %>% summarise("n"=sum(n_selected_beers)) %>% arrange(desc(n))
+by_region<-by_region[1:15,]
+by_region$is_usa<-sapply(by_region$region,substr,1,3)
+by_region[by_region$is_usa!="USA",]$is_usa<-"Non-USA"
+
+p2<-ggplot(data=by_region,aes(x=reorder(region,-n),y=n,fill=is_usa))+
+  geom_bar(stat="identity")+
+  theme(axis.text.x = element_text(angle = 75, hjust = 1))
+p2<-p2+xlab("Region")+ylab("# of Beers")
+p2<-p2+labs(fill="")
+p2<-p2+ggtitle("Top 15 Manufacture Region among Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p2
+```
+```{r eda3}
+by_ava<-beer %>% group_by(availabilities) %>% summarise("n"=n()) %>%
+  arrange(desc(n))
+
+by_ava[by_ava$availabilities=="",]$availabilities="N/A"
+
+p3<-ggplot(data=by_ava,aes(x=reorder(availabilities,-n),y=n))+
+  geom_bar(stat="identity",fill="steelblue")+
+  theme(axis.text.x = element_text(angle = 75, hjust = 1))
+p3<-p3+xlab("Availability Type")+ylab("# of Beers")
+p3<-p3+ggtitle("Availability of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p3
+```
+
+```{r eda4}
+p4<-ggplot(data=beer,aes(scores))+geom_histogram(binwidth = 0.2,color="white",fill="steelblue")
+p4<-p4+xlab("BA Score (1.0-5.0)")+ylab("# of Beers")
+p4<-p4+ggtitle("BA Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p4
+```
+

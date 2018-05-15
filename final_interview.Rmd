@@ -14,22 +14,21 @@ require(dplyr)
 
 ### 1. About Me:
 
+<a href="https://yjin910517.github.io/data_incubator/resume.pdf" target="_blank">My Resume in PDF format</a>
+
 ![](pics/about_me.png)
 
 
 ![](pics/istj.png)
 
-------
-
-
-top rated data cleaning python script
 
 ------
 
 
 ### 2. Project Summary:
 
-Build a beer recommendation App for craft beer lover leveraging open data scraped from [BeerAdvocate.com](https://www.beeradvocate.com/).
+Build a beer recommendation App for craft beer lover leveraging open data scraped from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate.com</a>
+
 
 ![Core Function of BeerRadar](pics/app_brief.png)
 
@@ -47,16 +46,17 @@ Build a beer recommendation App for craft beer lover leveraging open data scrape
 
 **Market Opportunity:**
 
-- Huge user base: 4.71M monthly users of BeerAdvocate.com, 2.99M monthly users of Ratebeer.com, 3.07M monthly users of Untappd.com [(source)](https://craftbeerinsandiego.com/blog/ratebeerisdeadlongliveuntappd)
+- Huge user base: 4.71M monthly users of BeerAdvocate.com, 2.99M monthly users of Ratebeer.com, 3.07M monthly users of Untappd.com <a href="https://craftbeerinsandiego.com/blog/ratebeerisdeadlongliveuntappd" target="_blank">(source)</a> 
 
-- Business model successed in similar field: Recommendation Algorithm + Product Merchandise for wine - [BrightCellar](https://www.brightcellars.com/) 
+- Business model successed in similar field: Recommendation Algorithm + Product Merchandise for wine - <a href="https://www.brightcellars.com/" target="_blank">BrightCellar</a> 
+
 
 ------
 
 
 ### 4. Dataset Description
 
-The data was scraped from [BeerAdvocate.com](https://www.beeradvocate.com/) via Python package [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+The data was scraped from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate.com</a> via Python package <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>.
 
 The full dataset includes:
 
@@ -70,7 +70,7 @@ The full dataset includes:
 
 Estimated data size is ~3 GB. 
 
-*Detail data scraping source code can be found on my github [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/data_scraping.ipynb)*
+*Detail data scraping source code can be found on my github <a href="https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/data_scraping.ipynb" target="_blank">here</a>*
 
 
 ------
@@ -87,16 +87,22 @@ I subsetted the dataset by following criteria to perform an algorithm test run:
 
 - **2.2 Million** ratings from **9000 Users** on **1300 Beers**
 
-*Data cleaning code can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/top_rated/data_cleaning.ipynb)*
+*Data cleaning code can be found <a href="https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/top_rated/data_cleaning.ipynb" target="_blank">here</a>*
 
 \
 
 
 #### 5.2 Descriptive Data Analysis:
 
+```{r eda4}
+beer<-read.csv("data_scraping_cleaning/top_rated/summary_by_beer_combined.csv")
+p4<-ggplot(data=beer,aes(scores))+geom_histogram(binwidth = 0.2,color="white",fill="steelblue")
+p4<-p4+xlab("BA Score (1.0-5.0)")+ylab("# of Beers")
+p4<-p4+ggtitle("BA Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p4
+```
 
 ```{r eda1}
-beer<-read.csv("data_scraping_cleaning/top_rated/summary_by_beer_combined.csv")
 by_style<-beer %>% group_by(style_name) %>% summarise("n"=n(),"sub_cat"=sub_cat[1]) %>% arrange(desc(n))
 by_style<-by_style[1:15,]
 
@@ -126,35 +132,16 @@ p2<-p2+labs(fill="")
 p2<-p2+ggtitle("Top 15 Manufacture Region among Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
 p2
 ```
-```{r eda3}
-by_ava<-beer %>% group_by(availabilities) %>% summarise("n"=n()) %>%
-  arrange(desc(n))
-
-by_ava[by_ava$availabilities=="",]$availabilities="N/A"
-
-p3<-ggplot(data=by_ava,aes(x=reorder(availabilities,-n),y=n))+
-  geom_bar(stat="identity",fill="steelblue")+
-  theme(axis.text.x = element_text(angle = 75, hjust = 1))
-p3<-p3+xlab("Availability Type")+ylab("# of Beers")
-p3<-p3+ggtitle("Availability of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
-p3
-```
-
-```{r eda4}
-p4<-ggplot(data=beer,aes(scores))+geom_histogram(binwidth = 0.2,color="white",fill="steelblue")
-p4<-p4+xlab("BA Score (1.0-5.0)")+ylab("# of Beers")
-p4<-p4+ggtitle("BA Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
-p4
-```
 
 
 #### 5.3 Result: 
 
-SVD matrix factorization implemented with Python [Surprise package](http://surprise.readthedocs.io/en/stable/index.html). 
+SVD matrix factorization implemented with Python <a href="http://surprise.readthedocs.io/en/stable/index.html" target="_blank">Surprise package</a>.
 
-*My Python code can be found [here](https://github.com/yjin910517/data_incubator/blob/master/surprise_basic_model.ipynb)*
+*My Python code can be found <a href="https://github.com/yjin910517/data_incubator/blob/master/surprise_basic_model.ipynb" target="_blank">here</a>* 
 
-![picture](pics/surprise_output.png)
+
+![](pics/surprise_output.png)
 
 RMSE(Root Mean Square Error) for a 5-fold cross validation is **0.37**, MAE(Mean Absolute Error) is **0.27**, which can be considered as a good performance under the beer rating scale of 5.
 
@@ -182,10 +169,10 @@ On top of the core functions described above, following functions can be added:
 
 Potential Dataset expansion:
 
-- [Untappd.com](https://untappd.com/)
- 
-- [Ratebeer.com](https://www.ratebeer.com/)
-  
+- <a href="https://untappd.com/" target="_blank">Untappd.com</a>
+
+- <a href="https://www.ratebeer.com/" target="_blank">Ratebeer.com</a>
+
 ------
 
 

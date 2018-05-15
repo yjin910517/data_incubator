@@ -27,7 +27,13 @@ require(dplyr)
 
 ### 2. Project Summary:
 
-Build a beer recommendation App for craft beer lover leveraging open data scraped from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate.com</a>
+**"BeerRadar"**
+
+- To build a beer recommendation App for craft beer lover
+
+- Use open data scraped from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate.com</a>
+
+- Leverage existing recommendation algorithm such as matrix factorization and collaborative filter
 
 
 ![Core Function of BeerRadar](pics/app_brief.png)
@@ -181,11 +187,15 @@ Potential Dataset expansion:
 **(AKA why I need the help from Data Incubator)**
 
 
-- Handle and store big datasets
- 
-- Real time data source update
+* Handle and store big datasets
 
-- User interface design
+    + Data wrangling
+    
+    + Efficiency of algorithm
+ 
+* Real time data source update
+
+* User interface design
 
 
 

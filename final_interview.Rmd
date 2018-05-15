@@ -1,73 +1,98 @@
 ---
-title: "Data Incubator Finalist Interview"
+title: "BeerRadar - Data Incubator Project Proposal"
 author: "Yue Jin"
-date: "May 14, 2018"
+date: "May 16, 2018"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE,warning = FALSE)
+knitr::opts_chunk$set(echo = FALSE,warning = FALSE)
 require(ggplot2)
 require(dplyr)
 ```
 
 
+### 1. About Me:
 
-- App brief
-
-    - Function: XXXXX
-
-- Motivation:
-
-    - 
-    - I love craft beer 
-    
-
-- Market potential 
-
-    - Competitive analysis
-    
-    - Market demand
-
-- Dataset
- 
- 
- 
-- Subset descriptive data demostration
- 
- 
- - Algorithm
- 
- - Demo: 
- 
-     - Python Surprise [package](http://surprise.readthedocs.io/en/stable/index.html); SVD matrix factorization
-     
-     - Test run dataset description: XXXXX
-     
-     - Test run result
- 
- - Algorithm Future Improvement:
- 
-     - Text feature extracted from textual comments
-     
-     - More features: user feature, beer feature 
-     
-     - Popularity based / content based
-  
-  
-- Additional functions:
-
-    - Beer food pairing recommendation
-  
-     
- - Potential challenges:
- 
-    - Handle and store big datasets
-     
-    - Real time update from BeerAdvocate.com
-    
-    - Front-end design
+![](pics/about_me.png)
 
+
+![](pics/istj.png)
+
+------
+
+
+top rated data cleaning python script
+
+------
+
+
+### 2. Project Summary:
+
+Build a beer recommendation App for craft beer lover leveraging open data scraped from [BeerAdvocate.com](https://www.beeradvocate.com/).
+
+![Core Function of BeerRadar](pics/app_brief.png)
+
+------
+
+
+### 3. Motivation: 
+
+**A Hobby for me:**
+
+- Personally, I love craft beer
+
+- From 2016 to Present, I tasted **152** different beers
+
+
+**Market Opportunity:**
+
+- Huge user base: 4.71M monthly users of BeerAdvocate.com, 2.99M monthly users of Ratebeer.com, 3.07M monthly users of Untappd.com [(source)](https://craftbeerinsandiego.com/blog/ratebeerisdeadlongliveuntappd)
+
+- Business model successed in similar field: Recommendation Algorithm + Product Merchandise for wine - [BrightCellar](https://www.brightcellars.com/) 
+
+------
+
+
+### 4. Dataset Description
+
+The data was scraped from [BeerAdvocate.com](https://www.beeradvocate.com/) via Python package [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+
+The full dataset includes:
+
+- **104** Beer Styles
+
+- **13K** Breweries from around the world
+
+- **200K** Beer items
+
+- **7 Million+** Ratings from **300K+** Users
+
+Estimated data size is ~3 GB. 
+
+*Detail data scraping source code can be found on my github [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/data_scraping.ipynb)*
+
+
+------
+
+
+### 5. Algorithm Test Run:
+
+
+#### 5.1 Data Subset:
+
+I subsetted the dataset by following criteria to perform an algorithm test run:
+
+- Users who submitted >100 ratings & Beers with >1000 ratings
+
+- **2.2 Million** ratings from **9000 Users** on **1300 Beers**
+
+*Data cleaning code can be found [here](https://github.com/yjin910517/data_incubator/blob/master/data_scraping_cleaning/top_rated/data_cleaning.ipynb)*
+
+\
+
+
+#### 5.2 Descriptive Data Analysis:
 
 
 ```{r eda1}
@@ -84,6 +109,7 @@ p1<-p1+ggtitle("Top 15 styles among Most Rated Beers")+theme(plot.title = elemen
 p1
 
 ```
+ 
 
 ```{r eda2}
 company<-read.csv("data_scraping_cleaning/top_rated/summary_by_company.csv")
@@ -120,4 +146,60 @@ p4<-p4+xlab("BA Score (1.0-5.0)")+ylab("# of Beers")
 p4<-p4+ggtitle("BA Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
 p4
 ```
+
+
+#### 5.3 Result: 
+
+SVD matrix factorization implemented with Python [Surprise package](http://surprise.readthedocs.io/en/stable/index.html). 
+
+*My Python code can be found [here](https://github.com/yjin910517/data_incubator/blob/master/surprise_basic_model.ipynb)*
+
+![picture](pics/surprise_output.png)
+
+RMSE(Root Mean Square Error) for a 5-fold cross validation is **0.37**, MAE(Mean Absolute Error) is **0.27**, which can be considered as a good performance under the beer rating scale of 5.
+
+
+**The performance can be further improved from multiple aspects:**
+ 
+- Parameter tuning for current algorithm
+
+- Leverage text features extracted from textual comments
+
+- Incorporate popularity based/content based algorithms
+  
+------ 
+
+
+### 6. Additional functions:
+
+
+On top of the core functions described above, following functions can be added:
+
+- Beer food pairing recommendation
+    
+- Link with purchase (price comparison and etc.)
+    
+
+Potential Dataset expansion:
+
+- [Untappd.com](https://untappd.com/)
+ 
+- [Ratebeer.com](https://www.ratebeer.com/)
+  
+------
+
+
+### 7. Potential challenges:
+
+**(AKA why I need the help from Data Incubator)**
+
+
+- Handle and store big datasets
+ 
+- Real time data source update
+
+- User interface design
+
+
+
 

@@ -29,7 +29,7 @@ require(dplyr)
 
 **"BeerRadar"**
 
-- To build a beer recommendation App for craft beer lover
+- To build a beer recommendation App for craft beer lovers
 
 - Use open data scraped from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate.com</a>
 
@@ -47,7 +47,7 @@ require(dplyr)
 
 - Personally, I love craft beer
 
-- From 2016 to Present, I tasted **152** different beers
+- From 2016 to present, I tasted **152** different beers
 
 
 **Market Opportunity:**
@@ -103,8 +103,8 @@ I subsetted the dataset by following criteria to perform an algorithm test run:
 ```{r eda4}
 beer<-read.csv("data_scraping_cleaning/top_rated/summary_by_beer_combined.csv")
 p4<-ggplot(data=beer,aes(scores))+geom_histogram(binwidth = 0.2,color="white",fill="steelblue")
-p4<-p4+xlab("BA Score (1.0-5.0)")+ylab("# of Beers")
-p4<-p4+ggtitle("BA Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
+p4<-p4+xlab("Score (1.0-5.0)")+ylab("# of Beers")
+p4<-p4+ggtitle("Score Histogram of Most Rated Beers")+theme(plot.title = element_text(hjust = 0.5))
 p4
 ```
 
